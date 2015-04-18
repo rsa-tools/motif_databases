@@ -11,25 +11,25 @@
 ;	 5	VERSION	Version (date) of the import
 ;	 6	URL	URL from the file from which matrices were obtained
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	<a href="http://floresta.eead.csic.es/footprintdb" target="_new">footprintDB-plants</a> [only plant DNA motifs]	2014-04	http://floresta.eead.csic.es/footprintdb
-footprintDB	tf	footprintDB/footprintDB.motif.tf	<a href="http://floresta.eead.csic.es/footprintdb" target="_new">footprintDB</a>	2014-04	http://floresta.eead.csic.es/footprintdb
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2014-04	http://floresta.eead.csic.es/footprintdb
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2014-04	http://floresta.eead.csic.es/footprintdb
 ; JASPAR nonredundant !
-jaspar_core_vertebrates	tf	JASPAR/jaspar_core_vertebrates_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core vertebrates	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
-jaspar_core_fungi	tf	JASPAR/jaspar_core_fungi_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core fungi	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
-jaspar_core_insects	tf	JASPAR/jaspar_core_insects_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core insects	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt
-jaspar_core_nematodes	tf	JASPAR/jaspar_core_nematodes_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core nematodes	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/nonredundant/redundant/pfm_nematodes.txt
-jaspar_core_plants	tf	JASPAR/jaspar_core_plants_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core plants	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt
-jaspar_core_urochordates	tf	JASPAR/jaspar_core_urochordates_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core urochordates	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
-jaspar_core_all	tf	JASPAR/jaspar_core_all_2015_03.tf	 <a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> core all	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt
-jaspar_pbm_mouse	tf	JASPAR/jaspar_pbm_mouse_2009_10.tf	<a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> PBM (UNIPROBE) Mouse	2009_10
-jaspar_pbm-homeo_mouse	tf	JASPAR/jaspar_pbm-homeo_mouse_2009_10.tf	<a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> PBM (UNIPROBE) Homeo Mouse	2009_10
-jaspar_pbm-hlh_nematode	tf	JASPAR/jaspar_pbm-hlh_nematode_2009_10.tf	<a href="http://jaspar.genereg.net" target="_blank">JASPAR</a> PBM (UNIPROBE) HLH Nematode	2009_10
+jaspar_core_vertebrates	tf	JASPAR/jaspar_core_vertebrates_2015_03.tf	 JASPAR core vertebrates	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
+jaspar_core_fungi	tf	JASPAR/jaspar_core_fungi_2015_03.tf	 JASPAR core fungi	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
+jaspar_core_insects	tf	JASPAR/jaspar_core_insects_2015_03.tf	 JASPAR core insects	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt
+jaspar_core_nematodes	tf	JASPAR/jaspar_core_nematodes_2015_03.tf	 JASPAR core nematodes	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_nematodes.txt
+jaspar_core_plants	tf	JASPAR/jaspar_core_plants_2015_03.tf	 JASPAR core plants	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt
+jaspar_core_urochordates	tf	JASPAR/jaspar_core_urochordates_2015_03.tf	 JASPAR core urochordates	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
+jaspar_core_all	tf	JASPAR/jaspar_core_all_2015_03.tf	 JASPAR core all	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt
+jaspar_pbm_mouse	tf	JASPAR/jaspar_pbm_mouse_2009_10.tf	JASPAR PBM (UNIPROBE) Mouse	2009_10
+jaspar_pbm-homeo_mouse	tf	JASPAR/jaspar_pbm-homeo_mouse_2009_10.tf	JASPAR PBM (UNIPROBE) Homeo Mouse	2009_10
+jaspar_pbm-hlh_nematode	tf	JASPAR/jaspar_pbm-hlh_nematode_2009_10.tf	JASPAR PBM (UNIPROBE) HLH Nematode	2009_10
 ; Drosophila => still to update
-FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila FlyFactorSurvey	2011_06
-DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM (http://autosome.ru/DMMPMM/)	2010_11
-IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM (http://autosome.ru/DMMPMM/)	2010_11
+FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
+DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/
+IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/DMMPMM/
 ;
-regulonDB	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05
+regulonDB	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/
 ;Uniprobe_worm	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
 ;cisBP
 cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
