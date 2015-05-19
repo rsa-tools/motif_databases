@@ -37,3 +37,4 @@ cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http
 cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2014-10.tf	cisBP human	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/ 
 cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2014-10.tf	cisBP mouse	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/
 cisBP_drosophila	tf	cisBP/cisBP_Drosophila_melanogaster_2014-10.tf	cisBP drosophila	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/
+cisBP_C.elegans	tf	cisBP/cisBP_Caenorhabditis_elegans_2015-05.tf	cisBP c_elegans	2015-05_v1.02	http://cisbp.ccbr.utoronto.ca/
