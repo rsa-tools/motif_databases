@@ -29,7 +29,8 @@ FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/
 IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/DMMPMM/
 ;
-regulonDB	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/
+;regulonDB	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/
+regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/
 ;Uniprobe_worm	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
 ;cisBP
 cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
@@ -40,3 +41,4 @@ cisBP_drosophila	tf	cisBP/cisBP_Drosophila_melanogaster_2014-10.tf	cisBP drosoph
 cisBP_C.elegans	tf	cisBP/cisBP_Caenorhabditis_elegans_2015-05.tf	cisBP c_elegans	2015-05_v1.02	http://cisbp.ccbr.utoronto.ca/
 cisBP_S.cerevisiae	tf	cisBP/cisBP_Saccharomyces_cerevisiae_2015-06.tf	cisBP s_cerevisiae	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/
 Yeastract	tf	Yeastract/yeastract_20150629.tf	Yeastract s_cerevisiae	20130918	http://www.yeastract.com/
+Hocomoco	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco  human		20150807	http://autosome.ru/HOCOMOCO/
