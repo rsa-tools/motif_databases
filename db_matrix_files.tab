@@ -41,7 +41,7 @@ cisBP_drosophila	tf	cisBP/cisBP_Drosophila_melanogaster_2014-10.tf	cisBP drosoph
 cisBP_C.elegans	tf	cisBP/cisBP_Caenorhabditis_elegans_2015-05.tf	cisBP c_elegans	2015-05_v1.02	http://cisbp.ccbr.utoronto.ca/
 cisBP_S.cerevisiae	tf	cisBP/cisBP_Saccharomyces_cerevisiae_2015-06.tf	cisBP s_cerevisiae	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/
 Yeastract	tf	Yeastract/yeastract_20150629.tf	Yeastract s_cerevisiae	20130918	http://www.yeastract.com/
-Hocomoco [Human TFs]	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/
+Hocomoco_human	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/
 ArabidopsisPBM	tf	ArabidopsisPBM/ArabidopsisPBM_2015-11-06.tf	ArabidopsisPBM (A thaliana)	2015-11	http://www.pnas.org/content/111/6/2367.abstract
 Athamap	tf	Athamap/Athamap_2015-11-06.tf	Athamap (A thaliana)	2015-11	http://www.athamap.de/
 DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtbs.hgc.jp/
