@@ -11,8 +11,8 @@
 ;	 5	VERSION	Version (date) of the import
 ;	 6	URL	URL from the file from which matrices were obtained
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2014-04	http://floresta.eead.csic.es/footprintdb
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2014-04	http://floresta.eead.csic.es/footprintdb
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2015-11	http://floresta.eead.csic.es/footprintdb
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2015-11	http://floresta.eead.csic.es/footprintdb
 ; JASPAR nonredundant !
 jaspar_core_vertebrates	tf	JASPAR/jaspar_core_vertebrates_2015_03.tf	 JASPAR core vertebrates	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
 jaspar_core_fungi	tf	JASPAR/jaspar_core_fungi_2015_03.tf	 JASPAR core fungi	2015-03	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
