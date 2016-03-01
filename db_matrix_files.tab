@@ -13,21 +13,6 @@
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
 footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2015-11	http://floresta.eead.csic.es/footprintdb
 footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2015-11	http://floresta.eead.csic.es/footprintdb
-; JASPAR redundant and nonredundant !
-jaspar_core_redundant_all	tf	JASPAR/jaspar_core_all_redundant_2015-10.tf	 JASPAR core redundant all	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_all.txt
-jaspar_core_nonredundant_all	tf	JASPAR/jaspar_core_all_nonredundant_2015-10.tf	 JASPAR core nonredundant all	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt
-jaspar_core_redundant_fungi	tf	JASPAR/jaspar_core_fungi_redundant_2015-10.tf	 JASPAR core redundant fungi	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_fungi.txt
-jaspar_core_nonredundant_fungi	tf	JASPAR/jaspar_core_fungi_nonredundant_2015-10.tf	 JASPAR core nonredundant fungi	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
-jaspar_core_redundant_insects	tf	JASPAR/jaspar_core_insects_redundant_2015-10.tf	 JASPAR core redundant insects	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_insects.txt
-jaspar_core_nonredundant_insects	tf	JASPAR/jaspar_core_insects_nonredundant_2015-10.tf	 JASPAR core nonredundant insects	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt
-jaspar_core_redundant_nematodes	tf	JASPAR/jaspar_core_nematodes_redundant_2015-10.tf	 JASPAR core redundant nematodes	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_nematodes.txt
-jaspar_core_nonredundant_nematodes	tf	JASPAR/jaspar_core_nematodes_nonredundant_2015-10.tf	 JASPAR core nonredundant nematodes	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_nematodes.txt
-jaspar_core_redundant_plants	tf	JASPAR/jaspar_core_plants_redundant_2015-10.tf	 JASPAR core redundant plants	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_plants.txt
-jaspar_core_nonredundant_plants	tf	JASPAR/jaspar_core_plants_nonredundant_2015-10.tf	 JASPAR core nonredundant plants	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt
-jaspar_core_redundant_urochordates	tf	JASPAR/jaspar_core_urochordates_redundant_2015-10.tf	 JASPAR core redundant urochordates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_urochordates.txt
-jaspar_core_nonredundant_urochordates	tf	JASPAR/jaspar_core_urochordates_nonredundant_2015-10.tf	 JASPAR core nonredundant urochordates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
-jaspar_core_redundant_vertebrates	tf	JASPAR/jaspar_core_vertebrates_redundant_2015-10.tf	 JASPAR core redundant vertebrates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_vertebrates.txt
-jaspar_core_nonredundant_vertebrates	tf	JASPAR/jaspar_core_vertebrates_nonredundant_2015-10.tf	 JASPAR core nonredundant vertebrates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
 ; Drosophila => still to update
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/
@@ -53,3 +38,20 @@ Athamap	tf	Athamap/Athamap_2015-11-06.tf	Athamap (A thaliana)	2015-11	http://www
 DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtbs.hgc.jp/
 DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.ls.manchester.ac.uk/?page_id=274
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1
+;
+; JASPAR redundant and nonredundant !
+; JASPAR IMPORT 2016-03-01
+jaspar_core_redundant_all	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_all_2015-10.tf	 JASPAR core redundant all	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_all.txt
+jaspar_core_nonredundant_all	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_all_2015-10.tf	 JASPAR core nonredundant all	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt
+jaspar_core_redundant_fungi	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_fungi_2015-10.tf	 JASPAR core redundant fungi	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_fungi.txt
+jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_fungi_2015-10.tf	 JASPAR core nonredundant fungi	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
+jaspar_core_redundant_insects	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_insects_2015-10.tf	 JASPAR core redundant insects	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_insects.txt
+jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_insects_2015-10.tf	 JASPAR core nonredundant insects	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt
+jaspar_core_redundant_nematodes	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_nematodes_2015-10.tf	 JASPAR core redundant nematodes	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_nematodes.txt
+jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_nematodes_2015-10.tf	 JASPAR core nonredundant nematodes	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_nematodes.txt
+jaspar_core_redundant_plants	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_plants_2015-10.tf	 JASPAR core redundant plants	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_plants.txt
+jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_plants_2015-10.tf	 JASPAR core nonredundant plants	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt
+jaspar_core_redundant_urochordates	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_urochordates_2015-10.tf	 JASPAR core redundant urochordates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_urochordates.txt
+jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_urochordates_2015-10.tf	 JASPAR core nonredundant urochordates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
+jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2015-10/jaspar_core_redundant_vertebrates_2015-10.tf	 JASPAR core redundant vertebrates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_vertebrates.txt
+jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2015-10/jaspar_core_nonredundant_vertebrates_2015-10.tf	 JASPAR core nonredundant vertebrates	2015-10	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
