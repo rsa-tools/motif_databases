@@ -14,7 +14,8 @@
 footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2015-11	http://floresta.eead.csic.es/footprintdb
 footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2015-11	http://floresta.eead.csic.es/footprintdb
 ; Drosophila => still to update
-FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
+;FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
+FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2016_06	http://mccb.umassmed.edu/ffs/
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/
 IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/DMMPMM/
 ;
@@ -41,6 +42,8 @@ Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Jolma_2013 (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
+cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
+FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
 ;
 ; JASPAR redundant and nonredundant !
 ; JASPAR IMPORT 2016-03-01
