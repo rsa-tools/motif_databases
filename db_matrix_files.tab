@@ -43,6 +43,7 @@ Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Jolma_2013 (Human TFs dimers)	2
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
+Homer	tf	Homer/Homer_motifs.tf	Homer (Human TF motifs)	2016-07	http://homer.salk.edu/homer/motif/motifDatabase.html
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
 ;
 ; JASPAR redundant and nonredundant !
