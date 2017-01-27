@@ -40,6 +40,12 @@ DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtb
 DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.ls.manchester.ac.uk/?page_id=274
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Jolma_2013 (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html
+
+
+Smile_seq_fly	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile_seq_fly (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
+Smile_seq_human	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile_seq_human (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
+Smile_seq_mouse	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile_seq_mouse (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
+
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
