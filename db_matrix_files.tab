@@ -46,6 +46,10 @@ Smile_seq_fly	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile_seq_fly (Smile-seq PSSM
 Smile_seq_human	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile_seq_human (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
 Smile_seq_mouse	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile_seq_mouse (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
 
+Methyl_Selex_seq_human	tf	Methyl_SELEX_seq_2017/Methyl_SELEX_human_TFs.tf	Methyl_Selex_seq_human (Methyl_Selex_seq_human PSSMs)	2017-05	http://science.sciencemag.org/content/356/6337/eaaj2239
+Selex_seq_human	tf	Methyl_SELEX_seq_2017/SELEX_human_TFs.tf	Selex_seq_human (Selex_seq_human PSSMs)	2017-05	http://science.sciencemag.org/content/356/6337/eaaj2239
+
+
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
