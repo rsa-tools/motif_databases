@@ -12,7 +12,7 @@
 ;	 6	URL	URL from the file from which matrices were obtained
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
 footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2015-11	http://floresta.eead.csic.es/footprintdb
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2015-11	http://floresta.eead.csic.es/footprintdb
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2015-11	http://floresta.eead.csic.es/footprintdb
 ; Drosophila => still to update
 ;FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2016_06	http://mccb.umassmed.edu/ffs/
@@ -40,18 +40,8 @@ DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtb
 DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.ls.manchester.ac.uk/?page_id=274
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Jolma_2013 (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html
-
-
-Smile_seq_fly	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile_seq_fly (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
-Smile_seq_human	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile_seq_human (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
-Smile_seq_mouse	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile_seq_mouse (Smile-seq PSSMs)	2017-01	http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4143.html
-
-Methyl_Selex_seq_human	tf	Methyl_SELEX_seq_2017/Methyl_SELEX_human_TFs.tf	Methyl_Selex_seq_human (Methyl_Selex_seq_human PSSMs)	2017-05	http://science.sciencemag.org/content/356/6337/eaaj2239
-Selex_seq_human	tf	Methyl_SELEX_seq_2017/SELEX_human_TFs.tf	Selex_seq_human (Selex_seq_human PSSMs)	2017-05	http://science.sciencemag.org/content/356/6337/eaaj2239
-
-
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
-epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
+epigram	tf	Epigram/epigram_motifs.tf	Epigram (Human Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
 Homer	tf	Homer/Homer_motifs.tf	Homer (Human TF motifs)	2016-07	http://homer.salk.edu/homer/motif/motifDatabase.html
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
