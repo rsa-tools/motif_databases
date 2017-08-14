@@ -12,7 +12,7 @@
 ;	 6	URL	URL from the file from which matrices were obtained
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
 footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2015-11	http://floresta.eead.csic.es/footprintdb
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB	2015-11	http://floresta.eead.csic.es/footprintdb
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2015-11	http://floresta.eead.csic.es/footprintdb
 ; Drosophila => still to update
 ;FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2016_06	http://mccb.umassmed.edu/ffs/
@@ -51,7 +51,7 @@ Selex_seq_human	tf	Methyl_SELEX_seq_2017/SELEX_human_TFs.tf	Selex_seq_human (Sel
 
 
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
-epigram	tf	Epigram/epigram_motifs.tf	Epigram (Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
+epigram	tf	Epigram/epigram_motifs.tf	Epigram (Human Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
 Homer	tf	Homer/Homer_motifs.tf	Homer (Human TF motifs)	2016-07	http://homer.salk.edu/homer/motif/motifDatabase.html
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
