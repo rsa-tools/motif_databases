@@ -11,9 +11,9 @@
 ;	 5	VERSION	Version (date) of the import
 ;	 6	URL	URL from the file from which matrices were obtained
 #DB_NAME	FORMAT	FILE	DESCR   VERSION	URL
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2017-09	http://floresta.eead.csic.es/footprintdb
-footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2017-09	http://floresta.eead.csic.es/footprintdb
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2017-09	http://floresta.eead.csic.es/footprintdb
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2017-12	http://floresta.eead.csic.es/footprintdb
+footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2017-12	http://floresta.eead.csic.es/footprintdb
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2017-12	http://floresta.eead.csic.es/footprintdb
 ; Drosophila => still to update
 ;FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2016_06	http://mccb.umassmed.edu/ffs/
