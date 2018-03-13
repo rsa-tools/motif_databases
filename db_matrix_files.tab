@@ -24,13 +24,14 @@ IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_1
 regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/
 ;Uniprobe_worm	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
 ;cisBP
-cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
-cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/
+;cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
+;cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/
 cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2014-10.tf	cisBP human	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/ 
 cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2014-10.tf	cisBP mouse	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/
 cisBP_drosophila	tf	cisBP/cisBP_Drosophila_melanogaster_2014-10.tf	cisBP drosophila	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/
 cisBP_C.elegans	tf	cisBP/cisBP_Caenorhabditis_elegans_2015-05.tf	cisBP c_elegans	2015-05_v1.02	http://cisbp.ccbr.utoronto.ca/
 cisBP_S.cerevisiae	tf	cisBP/cisBP_Saccharomyces_cerevisiae_2015-06.tf	cisBP s_cerevisiae	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/
+cisBP_A_thaliana	tf	cisBP/CisBp_A_thaliana.tf	cisBP	a_thaliana	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/
 Yeastract	tf	Yeastract/yeastract_20150629.tf	Yeastract s_cerevisiae	20130918	http://www.yeastract.com/
 ;Hocomoco_human	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/
 ;Hocomoco_human	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Human.tf	Hocomoco (Human TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/
@@ -43,12 +44,14 @@ DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtb
 DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.ls.manchester.ac.uk/?page_id=274
 ENCODE	tf	ENCODE/encode-motifs_Kheradpour_Kellis_NAR2013.tf	ENCODE (Human TFs)	2018-03	https://www.ncbi.nlm.nih.gov/pubmed/24335146
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1
-Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Jolma_2013 (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html
+Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html
 hPDI	tf	hPDI/hPDI_matrices.tf	hPDI (Human TFs identified by protein microarray assays)	2016-06	http://bioinfo.wilmer.jhu.edu/PDI/
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Human Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
 Homer	tf	Homer/Homer_motifs.tf	Homer (Human TF motifs)	2016-07	http://homer.salk.edu/homer/motif/motifDatabase.html
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
+HT_Methyl_Selex	tf	HT_Selex/Methyl_SELEX_human_TFs.tf	HT-Methyl-Selex (Human TFs)	2018-03	http://science.sciencemag.org/content/356/6337/eaaj2239.long
+HT_Selex	tf	HT_Selex/SELEX_human_TFs.tf	HT-Selex (Human TFs)	2018-03	http://science.sciencemag.org/content/356/6337/eaaj2239.long
 
 ;Smile_Seq_Fly	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile-seq (Drosohpila TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
 ;Smile_Seq_Human	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile-seq (Human TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
