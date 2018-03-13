@@ -49,6 +49,11 @@ epigram	tf	Epigram/epigram_motifs.tf	Epigram (Human Histone marks related motifs
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php
 Homer	tf	Homer/Homer_motifs.tf	Homer (Human TF motifs)	2016-07	http://homer.salk.edu/homer/motif/motifDatabase.html
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	FlyFactorSurvey (Drosohpila DNA-binding specificities)	2016_06	http://mccb.umassmed.edu/ffs/
+
+;Smile_Seq_Fly	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile-seq (Drosohpila TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+;Smile_Seq_Human	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile-seq (Human TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+;Smile_Seq_Mouse	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile-seq (Mouse TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+;
 ;
 ; JASPAR redundant and nonredundant !
 ; JASPAR IMPORT 2016-03-01
