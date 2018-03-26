@@ -81,10 +81,10 @@ jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CO
 jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.txt
 jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.txt
 ;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Jaspar core non-redundant (redundant means several PSSMs for the same TF) ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-jaspar_core_redundant_all	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_fungi_all_non-redundant_pfms_transfac.tf	JASPAR core nonredundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_redundant_pfms_transfac.txt
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar core redundant (redundant means several PSSMs for the same TF) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+jaspar_core_redundant_all	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_all_redundant_pfms_transfac.tf	JASPAR core redundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_redundant_pfms_transfac.txt
 jaspar_core_redundant_fungi	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_fungi_redundant_pfms_transfac.tf	JASPAR core redundant fungi	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_fungi_redundant_pfms_transfac.txt
 jaspar_core_redundant_insects	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_insects_redundant_pfms_transfac.tf	JASPAR core redundant insects	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_insects_redundant_pfms_transfac.txt
 jaspar_core_redundant_nematodes	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.tf	JASPAR core redundant nematodes	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.txt
