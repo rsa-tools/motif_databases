@@ -1,0 +1,20 @@
+# Mathieu Bahin, 26/12/17
+
+The bulk download (https://attract.cnic.es/download) was composed of a reference file linking motifs and PWM IDs (ATtRACT_db.txt) and a file with all the PWM matrices (pwm.txt).
+The PWM file was transformed to "cb" format:
+	- mutated genes were ignored (column "Mutated" = yes)
+	- the header lines were transformed to match "cb" format specification and specify origin database (">database__gene_ID /name=gene_name")
+	- when there are several motifs for a same RBP, letter(s) is/are joined at the end of the name
+	- redundant matrices for a same RBP were removed
+Here are the correspondance between the letter in the download file and the database names in the output format:
+	- "PDB" -> "PDB"
+	-"C" -> "CISBP-RNA"
+	- "R" -> "RBPDB"
+	- "S" -> "Spliceaid-F"
+	- "AEDB" -> "ASD"
+Command:
+$ python ATtRACT_PFM2CB.py -r Bulk_download/ATtRACT_db.txt -p Bulk_download/pwm.txt -o ATtRACT.cb
+
+The "cb" format file was then transformed to "transfac" format through RSAT (all resources are stored as transfac).
+Command:
+$ convert-matrix -from cb -to transfac -i ATtRACT.cb -pseudo 1 -multiply 100 -decimals 1 -perm 0 -bg_pseudo 0.01 -return counts,consensus -o ATtRACT.tf
