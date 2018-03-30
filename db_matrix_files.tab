@@ -100,6 +100,13 @@ RSAT_nonredundant_vertebrates	tf	RSAT_nonredundant_vertebrates_2017.tf	 RSAT non
 RSAT_nonredundant_plants	tf	RSAT_nonredundant_plants_2017.tf	 RSAT non-redundant plants	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Plants
 RSAT_nonredundant_insects	tf	RSAT_nonredundant_insects_2017.tf	 RSAT non-redundant insects	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Non-vertebrate Metazoa
 RSAT_nonredundant_insects_plants_vertebrates	tf	RSAT_nonredundant_insects_plants_vertebrates_2017.tf	 RSAT non-redundant insects+plants+vertebrates	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Multi-organisms
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; RNA motif databases (from Mathieu Bahin) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ATtRACT	tf	ATtRACT/ATtRACT_2017_12.tf	 ATtRACT	2017	https://attract.cnic.es/download	RNA binding
+
+
 
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
