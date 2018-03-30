@@ -1,0 +1,17 @@
+# Mathieu Bahin, 26/12/17
+
+The bulk download (http://rbpdb.ccbr.utoronto.ca/downloads/PFMDir.zip) was composed of a reference file linking motifs and PWM IDs (matrix_list.txt) and PWM files.
+
+Each matrix file had to be formatted to CSV (before it was a space separated file with 1-n spaces between fields).
+Command:
+for f in Bulk_download/PFMDir/*pfm; do
+	awk -F" " 'BEGIN{OFS=" "}{res=$1; for(f=2;f<=NF;f++){res=res","$f}; print res}' $f > ${f%.*}.correct.${f##*.}
+done
+
+These PFM matrix files were converted to a unique JASPAR format file (and harmonized because there were a mix of frequency and count matrices).
+Command:
+python RBPDB_PFM2JASPAR.py -r Bulk_download/PFMDir/matrix_list.txt -p Bulk_download/PFMDir/ -o RBPDB.JASPAR
+
+Finally, this JASPAR file was converted to TRANSFAC format.
+Command:
+convert-matrix -from jaspar -to transfac -i RBPDB.JASPAR -pseudo 1 -decimals 1 -perm 0 -bg_pseudo 0.01 -return counts,consensus -o RBPDB.tf

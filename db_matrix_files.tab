@@ -105,7 +105,7 @@ RSAT_nonredundant_insects_plants_vertebrates	tf	RSAT_nonredundant_insects_plants
 ;; RNA motif databases (from Mathieu Bahin) ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATtRACT	tf	ATtRACT/ATtRACT_2017_12.tf	 ATtRACT	2017	https://attract.cnic.es/download	RNA binding
-
+RBPDB	tf	RBPDB/RBPDB_2017_12.tf	 RBPDB	2017	http://rbpdb.ccbr.utoronto.ca/downloads/PFMDir.zip	RNA binding
 
 
 ;
