@@ -22,10 +22,10 @@ Yeastract	tf	Yeastract/yeastract_20150629.tf	Yeastract s_cerevisiae	20130918	htt
 ;; Insect motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
-DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.ls.manchester.ac.uk/?page_id=274	Non-vertebrate Metazoa
-FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2016_06	http://mccb.umassmed.edu/ffs/	Non-vertebrate Metazoa
+DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.genetics.uga.edu/?page_id=274	Non-vertebrate Metazoa
+FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Database of Drosophila DNA-binding specificities (FlyFactorSurvey)	2016_06	http://mccb.umassmed.edu/ffs/	Non-vertebrate Metazoa
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/	Non-vertebrate Metazoa
-IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/DMMPMM/	Non-vertebrate Metazoa
+IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/iDMMPMM/	Non-vertebrate Metazoa
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
@@ -106,8 +106,7 @@ RSAT_nonredundant_insects_plants_vertebrates	tf	RSAT_nonredundant_insects_plants
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATtRACT	tf	ATtRACT/ATtRACT_2017_12.tf	 ATtRACT	2017	https://attract.cnic.es/download	RNA binding
 RBPDB	tf	RBPDB/RBPDB_2017_12.tf	 RBPDB	2017	http://rbpdb.ccbr.utoronto.ca/downloads/PFMDir.zip	RNA binding
-
-
+CISBP-RNA	tf	CISBP-RNA/CISBP-RNA_2017_12.tf	 CISBP-RNA	2017	http://cisbp-rna.ccbr.utoronto.ca/	RNA binding
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Old motif databases ;;

@@ -1,0 +1,24 @@
+# Mathieu Bahin, 26/12/17
+
+The bulk download (entire dataset) was composed of a reference file linking motifs and PWM IDs (RBP_Information_all_motifs.txt, we chose the one with the maximum info) and PWM files (one per motif, frequencies, "cis-bp" format).
+Actually, they say that it's PWM matrices but they are PFM ones.
+
+Each matrix file was transformed from "cis-pb" frequencies format to "TRANSFAC" counts format (and Us replaced by Ts).
+Command:
+mkdir pwms_counts_tf
+for f in Bulk_download/pwms_all_motifs/*; do
+	if [ -s $f ]; then
+		filename=$(basename $f)
+		echo "Converting $filename..."
+		convert-matrix -i $f -from cis-bp -o transfac -return counts -multiply 100 -o pwms_counts_tf/$filename
+		sed -i 's/^U/T/g' pwms_counts_tf/$filename
+	fi
+done
+
+Then the information from the file "RBP_Information_all_motifs.txt" was processed (and linked to each individual PWM matrix) to produce a unique "JASPAR" format file.
+Command:
+python CISBP-RNA_PFM2JASPAR.py -i Bulk_download/RBP_Information_all_motifs.txt -o CISBP-RNA.all.JASPAR
+
+Finally, the unique "JASPAR" format file was converted to "TRANSFAC" format.
+Command:
+convert-matrix -from jaspar -to transfac -i CISBP-RNA.all.JASPAR -pseudo 1 -decimals 1 -perm 0 -bg_pseudo 0.01 -return counts,consensus -o CISBP-RNA.all.tf
