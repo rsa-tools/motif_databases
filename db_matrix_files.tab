@@ -67,9 +67,9 @@ cisBP_A_thaliana	tf	cisBP/CisBp_A_thaliana.tf	cisBP a_thaliana	2015-06_v1.02	htt
 ;;;;;;;;;;;;;;;;;
 ;; FootprintDB ;;
 ;;;;;;;;;;;;;;;;;
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2018-05	http://floresta.eead.csic.es/footprintdb	Plants
-footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2018-05	http://floresta.eead.csic.es/footprintdb	Non-vertebrate Metazoa
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2018-05	http://floresta.eead.csic.es/footprintdb	Multi-organisms
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2018-06	http://floresta.eead.csic.es/footprintdb	Plants
+footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2018-06	http://floresta.eead.csic.es/footprintdb	Non-vertebrate Metazoa
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2018-06	http://floresta.eead.csic.es/footprintdb	Multi-organisms
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Jaspar core non-redundant ;;
