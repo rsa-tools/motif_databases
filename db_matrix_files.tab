@@ -53,6 +53,8 @@ HT_Methyl_Selex	tf	HT_Selex/Methyl_SELEX_human_TFs.tf	HT-Methyl-Selex (Human TFs
 HT_Selex	tf	HT_Selex/SELEX_human_TFs.tf	HT-Selex (Human TFs)	2018-03	http://science.sciencemag.org/content/356/6337/eaaj2239.long	Vertebrates
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1	Vertebrates
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html	Vertebrates
+NCAP-SELEX	tf	NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5
+CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf CAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5
 ;
 ;;;;;;;;;;;;
 ;; Cis-BP ;;
