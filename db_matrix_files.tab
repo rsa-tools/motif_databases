@@ -4,7 +4,7 @@
 ; by known transcription factors.
 ;
 ; Column description
-; 	 1	DB_NAME	Database name
+;  1	DB_NAME	Database name
 ;	 2	FORMAT	Matrix format (see convert-matrices for supported formats)
 ;	 3	FILE    Matrix file (path relative to the motif DB directory ${RSAT}/data/motif_databases/)
 ;	 4	DESCR	Human-readable description of the database (source, data type, ...)
@@ -55,6 +55,27 @@ Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html	Vertebrates
 NCAP-SELEX	tf	NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates
 CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf CAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; MethMotif databases - Separated by cell types ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;
+MethMotif_A549	tf	MethMotif_cell_types/A549_MethMotif.tf	Methylated motifs A549 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_GM12878	tf	MethMotif_cell_types/GM12878_MethMotif.tf	Methylated motifs GM12878 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_H1-hESC	tf	MethMotif_cell_types/H1-hESC_MethMotif.tf	Methylated motifs H1-hESC (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_HCT116	tf	MethMotif_cell_types/HCT116_MethMotif.tf	Methylated motifs HCT116 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_HEK293	tf	MethMotif_cell_types/HEK293_MethMotif.tf	Methylated motifs HEK293 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_HEK293T	tf	MethMotif_cell_types/HEK293T_MethMotif.tf	Methylated motifs HEK293T (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_HeLa-S3	tf	MethMotif_cell_types/HeLa-S3_MethMotif.tf	Methylated motifs HeLa-S3 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_HepG2	tf	MethMotif_cell_types/HepG2_MethMotif.tf	Methylated motifs HepG2 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_IMR-90	tf	MethMotif_cell_types/IMR-90_MethMotif.tf	Methylated motifs IMR-90 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_K562	tf	MethMotif_cell_types/K562_MethMotif.tf	Methylated motifs K562 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_MCF-7	tf	MethMotif_cell_types/MCF-7_MethMotif.tf	Methylated motifs MCF-7 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_SK-N-SH	tf	MethMotif_cell_types/SK-N-SH_MethMotif.tf	Methylated motifs SK-N-SH (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+MethMotif_SNU398	tf	MethMotif_cell_types/SNU398_MethMotif.tf	Methylated motifs SNU398 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates
+;
 ;
 ;;;;;;;;;;;;
 ;; Cis-BP ;;
