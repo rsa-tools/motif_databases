@@ -162,4 +162,86 @@ CISBP-RNA	tf	CISBP-RNA/CISBP-RNA_2017_12.tf	 CISBP-RNA	2017	http://cisbp-rna.ccb
 ;jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_urochordates_2016.tf	 JASPAR core nonredundant urochordates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
 ;jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_vertebrates_2016.tf	 JASPAR core redundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_vertebrates.txt
 ;jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_vertebrates_2016.tf	 JASPAR core nonredundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
-
+;
+;
+;;;;;;;;;;;;;;;;;
+;; Cis-BP 2.00 ;;
+;;;;;;;;;;;;;;;;;
+cisBP_Acyrthosiphon_pisum	tf	cisBP2/cisBP_Acyrthosiphon_pisum_2019.tf	cisBP Acyrthosiphon_pisum	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Aedes_aegypti	tf	cisBP2/cisBP_Aedes_aegypti_2019.tf	cisBP Aedes_aegypti	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Ailuropoda_melanoleuca	tf	cisBP2/cisBP_Ailuropoda_melanoleuca_2019.tf	cisBP Ailuropoda_melanoleuca	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Amphimedon_queenslandica	tf	cisBP2/cisBP_Amphimedon_queenslandica_2019.tf	cisBP Amphimedon_queenslandica	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Anas_platyrhynchos	tf	cisBP2/cisBP_Anas_platyrhynchos_2019.tf	cisBP Anas_platyrhynchos	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Anopheles_darlingi	tf	cisBP2/cisBP_Anopheles_darlingi_2019.tf	cisBP Anopheles_darlingi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Anopheles_gambiae	tf	cisBP2/cisBP_Anopheles_gambiae_2019.tf	cisBP Anopheles_gambiae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Apis_mellifera	tf	cisBP2/cisBP_Apis_mellifera_2019.tf	cisBP Apis_mellifera	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Arabidopsis_thaliana	tf	cisBP2/cisBP_Arabidopsis_thaliana_2019.tf	cisBP Arabidopsis_thaliana	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php Plants
+cisBP_Astyanax_mexicanus	tf	cisBP2/cisBP_Astyanax_mexicanus_2019.tf	cisBP Astyanax_mexicanus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Atta_cephalotes	tf	cisBP2/cisBP_Atta_cephalotes_2019.tf	cisBP Atta_cephalotes	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Bombyx_mori	tf	cisBP2/cisBP_Bombyx_mori_2019.tf	cisBP Bombyx_mori	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Bos_taurus	tf	cisBP2/cisBP_Bos_taurus_2019.tf	cisBP Bos_taurus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Brugia_malayi	tf	cisBP2/cisBP_Brugia_malayi_2019.tf	cisBP Brugia_malayi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Caenorhabditis_brenneri	tf	cisBP2/cisBP_Caenorhabditis_brenneri_2019.tf	cisBP Caenorhabditis_brenneri	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Caenorhabditis_briggsae	tf	cisBP2/cisBP_Caenorhabditis_briggsae_2019.tf	cisBP Caenorhabditis_briggsae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Caenorhabditis_elegans	tf	cisBP2/cisBP_Caenorhabditis_elegans_2019.tf	cisBP Caenorhabditis_elegans	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Caenorhabditis_japonica	tf	cisBP2/cisBP_Caenorhabditis_japonica_2019.tf	cisBP Caenorhabditis_japonica	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Caenorhabditis_remanei	tf	cisBP2/cisBP_Caenorhabditis_remanei_2019.tf	cisBP Caenorhabditis_remanei	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Callithrix_jacchus	tf	cisBP2/cisBP_Callithrix_jacchus_2019.tf	cisBP Callithrix_jacchus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Cavia_porcellus	tf	cisBP2/cisBP_Cavia_porcellus_2019.tf	cisBP Cavia_porcellus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Chlorocebus_sabaeus	tf	cisBP2/cisBP_Chlorocebus_sabaeus_2019.tf	cisBP Chlorocebus_sabaeus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Choloepus_hoffmanni	tf	cisBP2/cisBP_Choloepus_hoffmanni_2019.tf	cisBP Choloepus_hoffmanni	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Ciona_intestinalis	tf	cisBP2/cisBP_Ciona_intestinalis_2019.tf	cisBP Ciona_intestinalis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Crassostrea_gigas	tf	cisBP2/cisBP_Crassostrea_gigas_2019.tf	cisBP Crassostrea_gigas	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Culex_quinquefasciatus	tf	cisBP2/cisBP_Culex_quinquefasciatus_2019.tf	cisBP Culex_quinquefasciatus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Danaus_plexippus	tf	cisBP2/cisBP_Danaus_plexippus_2019.tf	cisBP Danaus_plexippus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Danio_rerio	tf	cisBP2/cisBP_Danio_rerio_2019.tf	cisBP Danio_rerio	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Daphnia_pulex	tf	cisBP2/cisBP_Daphnia_pulex_2019.tf	cisBP Daphnia_pulex	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Dasypus_novemcinctus	tf	cisBP2/cisBP_Dasypus_novemcinctus_2019.tf	cisBP Dasypus_novemcinctus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Dendroctonus_ponderosae	tf	cisBP2/cisBP_Dendroctonus_ponderosae_2019.tf	cisBP Dendroctonus_ponderosae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Dipodomys_ordii	tf	cisBP2/cisBP_Dipodomys_ordii_2019.tf	cisBP Dipodomys_ordii	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Drosophila_ananassae	tf	cisBP2/cisBP_Drosophila_ananassae_2019.tf	cisBP Drosophila_ananassae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_erecta	tf	cisBP2/cisBP_Drosophila_erecta_2019.tf	cisBP Drosophila_erecta	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_grimshawi	tf	cisBP2/cisBP_Drosophila_grimshawi_2019.tf	cisBP Drosophila_grimshawi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_melanogaster	tf	cisBP2/cisBP_Drosophila_melanogaster_2019.tf	cisBP Drosophila_melanogaster	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_mojavensis	tf	cisBP2/cisBP_Drosophila_mojavensis_2019.tf	cisBP Drosophila_mojavensis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_persimilis	tf	cisBP2/cisBP_Drosophila_persimilis_2019.tf	cisBP Drosophila_persimilis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_pseudoobscura	tf	cisBP2/cisBP_Drosophila_pseudoobscura_2019.tf	cisBP Drosophila_pseudoobscura	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_sechellia	tf	cisBP2/cisBP_Drosophila_sechellia_2019.tf	cisBP Drosophila_sechellia	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_simulans	tf	cisBP2/cisBP_Drosophila_simulans_2019.tf	cisBP Drosophila_simulans	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_virilis	tf	cisBP2/cisBP_Drosophila_virilis_2019.tf	cisBP Drosophila_virilis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_willistoni	tf	cisBP2/cisBP_Drosophila_willistoni_2019.tf	cisBP Drosophila_willistoni	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Drosophila_yakuba	tf	cisBP2/cisBP_Drosophila_yakuba_2019.tf	cisBP Drosophila_yakuba	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Echinops_telfairi	tf	cisBP2/cisBP_Echinops_telfairi_2019.tf	cisBP Echinops_telfairi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Equus_caballus	tf	cisBP2/cisBP_Equus_caballus_2019.tf	cisBP Equus_caballus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Erinaceus_europaeus	tf	cisBP2/cisBP_Erinaceus_europaeus_2019.tf	cisBP Erinaceus_europaeus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Gallus_gallus	tf	cisBP2/cisBP_Gallus_gallus_2019.tf	cisBP Gallus_gallus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Heliconius_melpomene	tf	cisBP2/cisBP_Heliconius_melpomene_2019.tf	cisBP Heliconius_melpomene	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Helobdella_robusta	tf	cisBP2/cisBP_Helobdella_robusta_2019.tf	cisBP Helobdella_robusta	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Homo_sapiens	tf	cisBP2/cisBP_Homo_sapiens_2019.tf	cisBP Homo_sapiens	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Ixodes_scapularis	tf	cisBP2/cisBP_Ixodes_scapularis_2019.tf	cisBP Ixodes_scapularis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Loa_loa	tf	cisBP2/cisBP_Loa_loa_2019.tf	cisBP Loa_loa	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php		Non-vertebrate Metazoa
+cisBP_Lottia_gigantea	tf	cisBP2/cisBP_Lottia_gigantea_2019.tf	cisBP Lottia_gigantea	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Lucilia_cuprina	tf	cisBP2/cisBP_Lucilia_cuprina_2019.tf	cisBP Lucilia_cuprina	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Megaselia_scalaris	tf	cisBP2/cisBP_Megaselia_scalaris_2019.tf	cisBP Megaselia_scalaris	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Melitaea_cinxia	tf	cisBP2/cisBP_Melitaea_cinxia_2019.tf	cisBP Melitaea_cinxia	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Mus_musculus	tf	cisBP2/cisBP_Mus_musculus_2019.tf	cisBP Mus_musculus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Nasonia_vitripennis	tf	cisBP2/cisBP_Nasonia_vitripennis_2019.tf	cisBP Nasonia_vitripennis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Nematostella_vectensis	tf	cisBP2/cisBP_Nematostella_vectensis_2019.tf	cisBP Nematostella_vectensis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Octopus_bimaculoides	tf	cisBP2/cisBP_Octopus_bimaculoides_2019.tf	cisBP Octopus_bimaculoides	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Onchocerca_volvulus	tf	cisBP2/cisBP_Onchocerca_volvulus_2019.tf	cisBP Onchocerca_volvulus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Oreochromis_niloticus	tf	cisBP2/cisBP_Oreochromis_niloticus_2019.tf	cisBP Oreochromis_niloticus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Pediculus_humanus	tf	cisBP2/cisBP_Pediculus_humanus_2019.tf	cisBP Pediculus_humanus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Pristionchus_pacificus	tf	cisBP2/cisBP_Pristionchus_pacificus_2019.tf	cisBP Pristionchus_pacificus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Rattus_norvegicus	tf	cisBP2/cisBP_Rattus_norvegicus_2019.tf	cisBP Rattus_norvegicus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Rhodnius_prolixus	tf	cisBP2/cisBP_Rhodnius_prolixus_2019.tf	cisBP Rhodnius_prolixus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Saccharomyces_cerevisiae	tf	cisBP2/cisBP_Saccharomyces_cerevisiae_2019.tf	cisBP Saccharomyces_cerevisiae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Fungi
+cisBP_Schistosoma_mansoni	tf	cisBP2/cisBP_Schistosoma_mansoni_2019.tf	cisBP Schistosoma_mansoni	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Solenopsis_invicta	tf	cisBP2/cisBP_Solenopsis_invicta_2019.tf	cisBP Solenopsis_invicta	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Strigamia_maritima	tf	cisBP2/cisBP_Strigamia_maritima_2019.tf	cisBP Strigamia_maritima	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Strongylocentrotus_purpuratus	tf	cisBP2/cisBP_Strongylocentrotus_purpuratus_2019.tf	cisBP Strongylocentrotus_purpuratus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Tetranychus_urticae	tf	cisBP2/cisBP_Tetranychus_urticae_2019.tf	cisBP Tetranychus_urticae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Tribolium_castaneum	tf	cisBP2/cisBP_Tribolium_castaneum_2019.tf	cisBP Tribolium_castaneum	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Trichinella_spiralis	tf	cisBP2/cisBP_Trichinella_spiralis_2019.tf	cisBP Trichinella_spiralis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Trichoplax_adhaerens	tf	cisBP2/cisBP_Trichoplax_adhaerens_2019.tf	cisBP Trichoplax_adhaerens	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
+cisBP_Xenopus_tropicalis	tf	cisBP2/cisBP_Xenopus_tropicalis_2019.tf	cisBP Xenopus_tropicalis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates
+cisBP_Zootermopsis_nevadensis	tf	cisBP2/cisBP_Zootermopsis_nevadensis_2019.tf	cisBP Zootermopsis_nevadensis	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa
