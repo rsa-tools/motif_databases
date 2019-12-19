@@ -1,48 +1,49 @@
-"; This file describes the collections of curated position-specific"							
-"; scoring matrices (PSSM) used by the tools compare-matrices and"							
-"; peak-motifs, in order to compare discovered motifs with those bound"							
-"; by known transcription factors."							
-";"							
-"; Column description"							
-";  1"	DB_NAME	Database name					
-";"	2	FORMAT	Matrix format (see convert-matrices for supported formats)				
-";"	3	FILE    Matrix file (path relative to the motif DB directory ${RSAT}/data/motif_databases/)					
-";"	4	DESCR	Human-readable description of the database (source, data type, ...)				
-";"	5	VERSION	Version (date) of the import				
-";"	6	URL	URL from the file from which matrices were obtained				
-";"	7	LABEL	label to group in the web matrix selector				
+; This file describes the collections of curated position-specific
+; scoring matrices (PSSM) used by the tools compare-matrices and
+; peak-motifs, in order to compare discovered motifs with those bound
+; by known transcription factors.
+;
+; Column description
+;	1	DB_NAME	Database name
+;	2	FORMAT	Matrix format (see convert-matrices for supported formats)
+;	3	FILE    Matrix file (path relative to the motif DB directory ${RSAT}/data/motif_databases/)
+;	4	DESCR	Human-readable description of the database (source, data type, ...)
+;	5	VERSION	Version (date) of the import
+;	6	URL	URL from the file from which matrices were obtained
+;	7	LABEL	label to group in the web matrix selector
+;	8	DATABASE	source database
 #COLLECTION	FORMAT	FILE	DESCR	VERSION	URL	CATEGORY	DATABASE
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Fungi motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Fungi motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Yeastract	tf	Yeastract/yeastract_20150629.tf	Yeastract s_cerevisiae	20130918	http://www.yeastract.com/	Fungi	Yeastract
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Insect motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Insect motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
 DrosophilaTFs	tf	DrosophilaTFs/DrosophilaTFs_2015-11-06.tf	DrosophilaTFs	2015-11	http://bergmanlab.genetics.uga.edu/?page_id=274	Non-vertebrate Metazoa	DrosophilaTFs
 FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Database of Drosophila DNA-binding specificities (FlyFactorSurvey)	2016_06	http://mccb.umassmed.edu/ffs/	Non-vertebrate Metazoa	FlyFactorSurvey
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
 IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/iDMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Plants motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Plants motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ArabidopsisPBM	tf	ArabidopsisPBM/ArabidopsisPBM_2015-11-06.tf	ArabidopsisPBM (A thaliana)	2015-11	http://www.pnas.org/content/111/6/2367.abstract	Plants	ArabidopsisPBM
 Athamap	tf	Athamap/Athamap_2015-11-06.tf	Athamap (A thaliana)	2015-11	http://www.athamap.de/	Plants	Athamap
 cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected by DAP-seq)	2016-06	http://neomorph.salk.edu/dev/pages/shhuang/dap_web/pages/index.php	Plants	cistrome
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Prokaryotes motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Prokaryotes motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtbs.hgc.jp/	Prokaryotes	DBTBS
 regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Vertebrates motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Vertebrates motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ENCODE	tf	ENCODE/encode-motifs_Kheradpour_Kellis_NAR2013.tf	ENCODE (Human TFs)	2018-03	https://www.ncbi.nlm.nih.gov/pubmed/24335146	Vertebrates	ENCODE
 epigram	tf	Epigram/epigram_motifs.tf	Epigram (Human Histone marks related motifs)	2016-06	http://wanglab.ucsd.edu/star/epigram/	Vertebrates	epigram
 Hocomoco_human	tf	HOCOMOCO/HOCOMOCO_2017-10-17_Human.tf	Hocomoco (Human TFs)	2017-10	http://hocomoco11.autosome.ru/	Vertebrates	Hocomoco
@@ -55,13 +56,13 @@ Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html	Vertebrates	Jolma
 NCAP-SELEX	tf	NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
 CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf CAP-SELEX (HUMAN TFs)		2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
-";"							
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; MethMotif databases - Separated by cell types ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";"							
-";"							
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; MethMotif databases - Separated by cell types ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;
 MethMotif_A549	tf	MethMotif_cell_types/A549_MethMotif.tf	Methylated motifs A549 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
 MethMotif_GM12878	tf	MethMotif_cell_types/GM12878_MethMotif.tf	Methylated motifs GM12878 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
 MethMotif_H1-hESC	tf	MethMotif_cell_types/H1-hESC_MethMotif.tf	Methylated motifs H1-hESC (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
@@ -75,29 +76,29 @@ MethMotif_K562	tf	MethMotif_cell_types/K562_MethMotif.tf	Methylated motifs K562 
 MethMotif_MCF-7	tf	MethMotif_cell_types/MCF-7_MethMotif.tf	Methylated motifs MCF-7 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
 MethMotif_SK-N-SH	tf	MethMotif_cell_types/SK-N-SH_MethMotif.tf	Methylated motifs SK-N-SH (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
 MethMotif_SNU398	tf	MethMotif_cell_types/SNU398_MethMotif.tf	Methylated motifs SNU398 (Human TFs)	2018-11	https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1005/5150233	Vertebrates	MethMotif
-";"							
-";"							
-";;;;;;;;;;;;"							
-";; Cis-BP ;;"							
-";;;;;;;;;;;;"							
+;
+;
+;;;;;;;;;;;;
+;; Cis-BP ;;
+;;;;;;;;;;;;
 cisBP_human	tf	cisBP/cisBP_Homo_sapiens_2014-10.tf	cisBP human	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/	Vertebrates	cisBP
 cisBP_mouse	tf	cisBP/cisBP_Mus_musculus_2014-10.tf	cisBP mouse	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/	Vertebrates	cisBP
 cisBP_drosophila	tf	cisBP/cisBP_Drosophila_melanogaster_2014-10.tf	cisBP drosophila	2014-10_v0.9	http://cisbp.ccbr.utoronto.ca/	Non-vertebrate Metazoa	cisBP
 cisBP_C.elegans	tf	cisBP/cisBP_Caenorhabditis_elegans_2015-05.tf	cisBP c_elegans	2015-05_v1.02	http://cisbp.ccbr.utoronto.ca/	Non-vertebrate Metazoa	cisBP
 cisBP_S.cerevisiae	tf	cisBP/cisBP_Saccharomyces_cerevisiae_2015-06.tf	cisBP s_cerevisiae	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/	Fungi	cisBP
 cisBP_A_thaliana	tf	cisBP/CisBp_A_thaliana.tf	cisBP a_thaliana	2015-06_v1.02	http://cisbp.ccbr.utoronto.ca/	Plants	cisBP
-";"							
-";;;;;;;;;;;;;;;;;"							
-";; FootprintDB ;;"							
-";;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;
+;; FootprintDB ;;
+;;;;;;;;;;;;;;;;;
 footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2019-07	http://floresta.eead.csic.es/footprintdb	Plants	footprintDB
 footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2019-07	http://floresta.eead.csic.es/footprintdb	Non-vertebrate Metazoa	footprintDB
 footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2019-07	http://floresta.eead.csic.es/footprintdb	Multi-organisms	footprintDB
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Jaspar core non-redundant (one PSSM for each TF);;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar core non-redundant (one PSSM for each TF);;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
 jaspar_core_nonredundant_all	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_non-redundant_pfms.tf	JASPAR core nonredundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_non-redundant_pfms_transfac.txt	Multi-organisms	Jaspar
 jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_fungi_non-redundant_pfms.tf	JASPAR core nonredundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_non-redundant_pfms_transfac.txt	Fungi	Jaspar
 jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_insects_non-redundant_pfms.tf	JASPAR core nonredundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
@@ -105,11 +106,11 @@ jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020
 jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_plants_non-redundant_pfms.tf	JASPAR core nonredundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_non-redundant_pfms_transfac.txt	Plants	Jaspar
 jaspar_core_nonredundant_urochordates	tf	JJASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_urochordates_non-redundant_pfms.tf	JASPAR core nonredundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
 jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_vertebrates_non-redundant_pfms.tf	JASPAR core nonredundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac.txt	Vertebrates	Jaspar
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Jaspar core redundant (redundant means several PSSMs (all PSSM versions across the releases) for the same TF) ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar core redundant (redundant means several PSSMs (all PSSM versions across the releases) for the same TF) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
 jaspar_core_redundant_all	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_redundant_pfms.tf	JASPAR core redundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_redundant_pfms_transfac.txt	Multi-organisms	Jaspar
 jaspar_core_redundant_fungi	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_fungi_redundant_pfms.tf	JASPAR core redundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_redundant_pfms_transfac.txt	Fungi	Jaspar
 jaspar_core_redundant_insects	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_insects_redundant_pfms.tf	JASPAR core redundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
@@ -117,31 +118,31 @@ jaspar_core_redundant_nematodes	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_
 jaspar_core_redundant_plants	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_plants_redundant_pfms.tf	JASPAR core redundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_redundant_pfms_transfac.txt	Plants	Jaspar
 jaspar_core_redundant_urochordates	tf	JJASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_urochordates_redundant_pfms.tf	JASPAR core redundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
 jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_vertebrates_redundant_pfms.tf	JASPAR core redundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates	Jaspar
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Jaspar Unvalidated (High-quality motifs without orthogonal supporting evidence) ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar Unvalidated (High-quality motifs without orthogonal supporting evidence) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
 jaspar_unvalidated	tf	JASPAR/Jaspar_2020/unvalidated/JASPAR2020_UNVALIDATED_pfms.tf	JASPAR unvalidated	2020	http://jaspar2020.genereg.net/download/collections/JASPAR2020_UNVALIDATED_pfms_transfac.txt	Multi-organisms	Jaspar
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; RSAT non-redundant motif collections ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; RSAT non-redundant motif collections ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 RSAT_nonredundant_vertebrates	tf	RSAT_nonredundant_vertebrates_2017.tf	 RSAT non-redundant vertebrates	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Vertebrates	RSAT
 RSAT_nonredundant_plants	tf	RSAT_nonredundant_plants_2017.tf	 RSAT non-redundant plants	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Plants	RSAT
 RSAT_nonredundant_insects	tf	RSAT_nonredundant_insects_2017.tf	 RSAT non-redundant insects	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Non-vertebrate Metazoa	RSAT
 RSAT_nonredundant_insects_plants_vertebrates	tf	RSAT_nonredundant_insects_plants_vertebrates_2017.tf	 RSAT non-redundant insects+plants+vertebrates	2017	http://pedagogix-tagc.univ-mrs.fr/rsat/data/published_data/Castro_2016_matrix-clustering/	Multi-organisms	RSAT
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; RNA motif databases (from Mathieu Bahin) ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; RNA motif databases (from Mathieu Bahin) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATtRACT	tf	ATtRACT/ATtRACT_2017_12.tf	 ATtRACT	2017	https://attract.cnic.es/download	RNA binding	ATtRACT
 RBPDB	tf	RBPDB/RBPDB_2017_12.tf	 RBPDB	2017	http://rbpdb.ccbr.utoronto.ca/downloads/PFMDir.zip	RNA binding	RBPDB
 CISBP-RNA	tf	CISBP-RNA/CISBP-RNA_2017_12.tf	 CISBP-RNA	2017	http://cisbp-rna.ccbr.utoronto.ca/	RNA binding	cisBP
-";"							
-";;;;;;;;;;;;;;;;;"							
-";; Cis-BP 2.00 ;;"							
-";;;;;;;;;;;;;;;;;"							
+;
+;;;;;;;;;;;;;;;;;
+;; Cis-BP 2.00 ;;
+;;;;;;;;;;;;;;;;;
 cisBP_Acyrthosiphon_pisum	tf	cisBP2/cisBP_Acyrthosiphon_pisum_2019.tf	cisBP Acyrthosiphon_pisum	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Aedes_aegypti	tf	cisBP2/cisBP_Aedes_aegypti_2019.tf	cisBP Aedes_aegypti	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Ailuropoda_melanoleuca	tf	cisBP2/cisBP_Ailuropoda_melanoleuca_2019.tf	cisBP Ailuropoda_melanoleuca	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates	cisBP
@@ -264,50 +265,50 @@ cisBP_Triticum_aestivum	tf	cisBP2/cisBP_Triticum_aestivum_2019.tf	cisBP Triticum
 cisBP_Triticum_urartu	tf	cisBP2/cisBP_Triticum_urartu_2019.tf	cisBP Triticum_urartu	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Plants	cisBP
 cisBP_Vitis_vinifera	tf	cisBP2/cisBP_Vitis_vinifera_2019.tf	cisBP Vitis_vinifera	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Plants	cisBP
 cisBP_Zea_mays	tf	cisBP2/cisBP_Zea_mays_2019.tf	cisBP Zea_mays	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Plants	cisBP
-";"							
-";;;;;;;;;;;;;;;;;;;;;;;;;"							
-";; Old motif databases ;;"							
-";;;;;;;;;;;;;;;;;;;;;;;;;"							
-";regulonDB"	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/		
-";FlyFactorSurvey"	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/		
-";Uniprobe_worm"	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip		
-";cisBP"							
-";cisBP_human"	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 		
-";cisBP_mouse"	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/		
-";Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/		
-";Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Human.tf	Hocomoco (Human TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/		
-";Hocomoco_mouse"	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Mouse.tf	Hocomoco (Mouse TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/		
-";Smile_Seq_Fly"	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile-seq (Drosohpila TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143		
-";Smile_Seq_Human"	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile-seq (Human TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143		
-";Smile_Seq_Mouse"	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile-seq (Mouse TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143		
-"; JASPAR redundant and nonredundant !"							
-"; JASPAR IMPORT 2016-03-01"							
-";jaspar_core_redundant_all"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_all_2016.tf	 JASPAR core redundant all	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_all.txt		
-";jaspar_core_nonredundant_all"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_all_2016.tf	 JASPAR core nonredundant all	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt		
-";jaspar_core_redundant_fungi"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_fungi_2016.tf	 JASPAR core redundant fungi	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_fungi.txt		
-";jaspar_core_nonredundant_fungi"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_fungi_2016.tf	 JASPAR core nonredundant fungi	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt		
-";jaspar_core_redundant_insects"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_insects_2016.tf	 JASPAR core redundant insects	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_insects.txt		
-";jaspar_core_nonredundant_insects"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_insects_2016.tf	 JASPAR core nonredundant insects	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt		
-";jaspar_core_redundant_nematodes"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_nematodes_2016.tf	 JASPAR core redundant nematodes	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_nematodes.txt		
-";jaspar_core_nonredundant_nematodes"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_nematodes_2016.tf	 JASPAR core nonredundant nematodes	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_nematodes.txt		
-";jaspar_core_redundant_plants"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_plants_2016.tf	 JASPAR core redundant plants	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_plants.txt		
-";jaspar_core_nonredundant_plants"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_plants_2016.tf	 JASPAR core nonredundant plants	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt		
-";jaspar_core_redundant_urochordates"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_urochordates_2016.tf	 JASPAR core redundant urochordates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_urochordates.txt		
-";jaspar_core_nonredundant_urochordates"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_urochordates_2016.tf	 JASPAR core nonredundant urochordates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt		
-";jaspar_core_redundant_vertebrates"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_vertebrates_2016.tf	 JASPAR core redundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_vertebrates.txt		
-";jaspar_core_nonredundant_vertebrates"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_vertebrates_2016.tf	 JASPAR core nonredundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt		
-";jaspar_core_nonredundant_all"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_all_non-redundant_pfms_transfac.tf	JASPAR core nonredundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_non-redundant_pfms_transfac.txt	Multi-organisms	
-";jaspar_core_nonredundant_fungi"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_fungi_non-redundant_pfms_transfac.tf	JASPAR core nonredundant fungi	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_fungi_non-redundant_pfms_transfac.txt	Fungi	
-";jaspar_core_nonredundant_insects"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_insects_non-redundant_pfms_transfac.tf	JASPAR core nonredundant insects	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_insects_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_nonredundant_nematodes"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_nematodes_non-redundant_pfms_transfac.tf	JASPAR core nonredundant nematodes	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_nematodes_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_nonredundant_plants"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_plants_non-redundant_pfms_transfac.tf	JASPAR core nonredundant plants	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_plants_non-redundant_pfms_transfac.txt	Plants	
-";jaspar_core_nonredundant_urochordates"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_nonredundant_vertebrates"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.txt	Vertebrates	
-";jaspar_core_redundant_all"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_all_redundant_pfms_transfac.tf	JASPAR core redundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_redundant_pfms_transfac.txt	Multi-organisms	
-";jaspar_core_redundant_fungi"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_fungi_redundant_pfms_transfac.tf	JASPAR core redundant fungi	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_fungi_redundant_pfms_transfac.txt	Fungi	
-";jaspar_core_redundant_insects"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_insects_redundant_pfms_transfac.tf	JASPAR core redundant insects	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_insects_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_redundant_nematodes"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.tf	JASPAR core redundant nematodes	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_redundant_plants"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_plants_redundant_pfms_transfac.tf	JASPAR core redundant plants	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_plants_redundant_pfms_transfac.txt	Plants	
-";jaspar_core_redundant_urochordates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.tf	JASPAR core redundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	
-";jaspar_core_redundant_vertebrates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.tf	JASPAR core redundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates	
-";"							
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Old motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;regulonDB"	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/
+;FlyFactorSurvey"	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
+;Uniprobe_worm"	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
+;cisBP
+;cisBP_human"	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
+;cisBP_mouse"	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/
+;Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/
+;Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Human.tf	Hocomoco (Human TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/
+;Hocomoco_mouse"	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Mouse.tf	Hocomoco (Mouse TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/
+;Smile_Seq_Fly"	tf	Smile-seq/Smile_seq_fly_motifs.tf	Smile-seq (Drosohpila TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+;Smile_Seq_Human"	tf	Smile-seq/Smile_seq_human_motifs.tf	Smile-seq (Human TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+;Smile_Seq_Mouse"	tf	Smile-seq/Smile_seq_mouse_motifs.tf	Smile-seq (Mouse TF dimers)	2018_04	https://www.nature.com/articles/nmeth.4143
+; JASPAR redundant and nonredundant !
+; JASPAR IMPORT 2016-03-01
+;jaspar_core_redundant_all"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_all_2016.tf	 JASPAR core redundant all	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_all.txt
+;jaspar_core_nonredundant_all"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_all_2016.tf	 JASPAR core nonredundant all	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_all.txt
+;jaspar_core_redundant_fungi"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_fungi_2016.tf	 JASPAR core redundant fungi	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_fungi.txt
+;jaspar_core_nonredundant_fungi"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_fungi_2016.tf	 JASPAR core nonredundant fungi	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_fungi.txt
+;jaspar_core_redundant_insects"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_insects_2016.tf	 JASPAR core redundant insects	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_insects.txt
+;jaspar_core_nonredundant_insects"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_insects_2016.tf	 JASPAR core nonredundant insects	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_insects.txt
+;jaspar_core_redundant_nematodes"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_nematodes_2016.tf	 JASPAR core redundant nematodes	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_nematodes.txt
+;jaspar_core_nonredundant_nematodes"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_nematodes_2016.tf	 JASPAR core nonredundant nematodes	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_nematodes.txt
+;jaspar_core_redundant_plants"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_plants_2016.tf	 JASPAR core redundant plants	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_plants.txt
+;jaspar_core_nonredundant_plants"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_plants_2016.tf	 JASPAR core nonredundant plants	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_plants.txt
+;jaspar_core_redundant_urochordates"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_urochordates_2016.tf	 JASPAR core redundant urochordates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_urochordates.txt
+;jaspar_core_nonredundant_urochordates"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_urochordates_2016.tf	 JASPAR core nonredundant urochordates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_urochordates.txt
+;jaspar_core_redundant_vertebrates"	tf	JASPAR/Jaspar_2016/jaspar_core_redundant_vertebrates_2016.tf	 JASPAR core redundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/redundant/pfm_vertebrates.txt
+;jaspar_core_nonredundant_vertebrates"	tf	JASPAR/Jaspar_2016/jaspar_core_nonredundant_vertebrates_2016.tf	 JASPAR core nonredundant vertebrates	2016	http://jaspar.genereg.net/html/DOWNLOAD/JASPAR_CORE/pfm/nonredundant/pfm_vertebrates.txt
+;jaspar_core_nonredundant_all"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_all_non-redundant_pfms_transfac.tf	JASPAR core nonredundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_non-redundant_pfms_transfac.txt	Multi-organisms
+;jaspar_core_nonredundant_fungi"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_fungi_non-redundant_pfms_transfac.tf	JASPAR core nonredundant fungi	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_fungi_non-redundant_pfms_transfac.txt	Fungi
+;jaspar_core_nonredundant_insects"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_insects_non-redundant_pfms_transfac.tf	JASPAR core nonredundant insects	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_insects_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_nonredundant_nematodes"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_nematodes_non-redundant_pfms_transfac.tf	JASPAR core nonredundant nematodes	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_nematodes_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_nonredundant_plants"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_plants_non-redundant_pfms_transfac.tf	JASPAR core nonredundant plants	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_plants_non-redundant_pfms_transfac.txt	Plants
+;jaspar_core_nonredundant_urochordates"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_nonredundant_vertebrates"	tf	JASPAR/Jaspar_2018/nonredundant/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.tf	JASPAR core nonredundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_non-redundant_pfms_transfac.txt	Vertebrates
+;jaspar_core_redundant_all"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_all_redundant_pfms_transfac.tf	JASPAR core redundant all	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_redundant_pfms_transfac.txt	Multi-organisms
+;jaspar_core_redundant_fungi"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_fungi_redundant_pfms_transfac.tf	JASPAR core redundant fungi	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_fungi_redundant_pfms_transfac.txt	Fungi
+;jaspar_core_redundant_insects"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_insects_redundant_pfms_transfac.tf	JASPAR core redundant insects	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_insects_redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_redundant_nematodes"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.tf	JASPAR core redundant nematodes	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_nematodes_redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_redundant_plants"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_plants_redundant_pfms_transfac.tf	JASPAR core redundant plants	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_plants_redundant_pfms_transfac.txt	Plants
+;jaspar_core_redundant_urochordates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.tf	JASPAR core redundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa
+;jaspar_core_redundant_vertebrates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.tf	JASPAR core redundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates
+;							
