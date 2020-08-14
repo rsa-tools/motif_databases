@@ -28,6 +28,12 @@ FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Database of Droso
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
 IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/iDMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
 ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Ascidian motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
+;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
