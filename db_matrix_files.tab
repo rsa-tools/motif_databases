@@ -28,6 +28,12 @@ FlyFactorSurvey	tf	FlyFactorSurvey/PWM_FlyFactorSurvey_2016.tf	Database of Droso
 DMMPMM_drosophila	tf	DMMPMM_drosophila/dmmpmm_PCM.tf	Drosophila DMMPMM	2010_11	http://autosome.ru/DMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
 IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_11	http://autosome.ru/iDMMPMM/	Non-vertebrate Metazoa	DMMPMM_drosophila
 ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Ascidian motif databases ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
+;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -56,6 +62,8 @@ Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html	Vertebrates	Jolma
 NCAP-SELEX	tf	NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
 CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf CAP-SELEX (HUMAN TFs)		2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
+ZF_ChIP-exo	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-exo.tf (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-exo
+ZF_ChIP-seq	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-seq.tf (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-seq
 ;
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -91,9 +99,9 @@ cisBP_A_thaliana	tf	cisBP/CisBp_A_thaliana.tf	cisBP a_thaliana	2015-06_v1.02	htt
 ;;;;;;;;;;;;;;;;;
 ;; FootprintDB ;;
 ;;;;;;;;;;;;;;;;;
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2019-07	http://floresta.eead.csic.es/footprintdb	Plants	footprintDB
-footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2019-07	http://floresta.eead.csic.es/footprintdb	Non-vertebrate Metazoa	footprintDB
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2019-07	http://floresta.eead.csic.es/footprintdb	Multi-organisms	footprintDB
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2020-01	http://floresta.eead.csic.es/footprintdb	Plants	footprintDB
+footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2020-01	http://floresta.eead.csic.es/footprintdb	Non-vertebrate Metazoa	footprintDB
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2020-01	http://floresta.eead.csic.es/footprintdb	Multi-organisms	footprintDB
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Jaspar core non-redundant (one PSSM for each TF);;
