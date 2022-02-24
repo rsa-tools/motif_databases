@@ -308,4 +308,4 @@ cisBP_Zea_mays	tf	cisBP2/cisBP_Zea_mays_2019.tf	cisBP Zea_mays	2019-06_v2.00	htt
 ;jaspar_core_redundant_plants	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_plants_redundant_pfms.tf	JASPAR core redundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_redundant_pfms_transfac.txt	Plants	Jaspar
 ;jaspar_core_redundant_urochordates	tf	JJASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_urochordates_redundant_pfms.tf	JASPAR core redundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
 ;jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_vertebrates_redundant_pfms.tf	JASPAR core redundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates	Jaspar
-;
+; 
