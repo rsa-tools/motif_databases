@@ -32,7 +32,7 @@ IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_1
 ;; Ascidian motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
-Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
+Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf	Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
