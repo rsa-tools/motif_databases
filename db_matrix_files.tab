@@ -32,7 +32,7 @@ IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_1
 ;; Ascidian motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
-Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf	Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
+Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf	Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa	Aniseed
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
@@ -159,7 +159,7 @@ cisBP_Anas_platyrhynchos	tf	cisBP2/cisBP_Anas_platyrhynchos_2019.tf	cisBP Anas_p
 cisBP_Anopheles_darlingi	tf	cisBP2/cisBP_Anopheles_darlingi_2019.tf	cisBP Anopheles_darlingi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Anopheles_gambiae	tf	cisBP2/cisBP_Anopheles_gambiae_2019.tf	cisBP Anopheles_gambiae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Apis_mellifera	tf	cisBP2/cisBP_Apis_mellifera_2019.tf	cisBP Apis_mellifera	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
-cisBP_Arabidopsis_thaliana	tf	cisBP2/cisBP_Arabidopsis_thaliana_2019.tf	cisBP Arabidopsis_thaliana	2019-09_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php Plants		cisBP
+cisBP_Arabidopsis_thaliana	tf	cisBP2/cisBP_Arabidopsis_thaliana_2019.tf	cisBP Arabidopsis_thaliana	2019-09_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Plants	cisBP
 cisBP_Astyanax_mexicanus	tf	cisBP2/cisBP_Astyanax_mexicanus_2019.tf	cisBP Astyanax_mexicanus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates	cisBP
 cisBP_Atta_cephalotes	tf	cisBP2/cisBP_Atta_cephalotes_2019.tf	cisBP Atta_cephalotes	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Bombyx_mori	tf	cisBP2/cisBP_Bombyx_mori_2019.tf	cisBP Bombyx_mori	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
