@@ -45,7 +45,7 @@ cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected 
 ;; Prokaryotes motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtbs.hgc.jp/	Prokaryotes	DBTBS
-regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
+regulonDB	tf	REGULONDB/RegulonDB_2022_03.tf	RegulonDB prokaryotes	2022_03	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Vertebrates motif databases ;;
@@ -258,6 +258,7 @@ cisBP_Zea_mays	tf	cisBP2/cisBP_Zea_mays_2019.tf	cisBP Zea_mays	2019-06_v2.00	htt
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Old motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
+;regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
 ;regulonDB"	tf	REGULONDB/regulonDB_2012-05.tf	RegulonDB prokaryotes	2012_05	http://regulondb.ccg.unam.mx/
 ;FlyFactorSurvey"	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 ;Uniprobe_worm"	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
