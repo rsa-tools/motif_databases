@@ -32,7 +32,7 @@ IDMMPMM_drosophila	tf	DMMPMM_drosophila/idmmpmm_PCM.tf	Drosophila IDMMPMM	2010_1
 ;; Ascidian motif databases ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
-Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa
+Aniseed	tf	Aniseed/Ciona_robusta_SELEX_motifs.tf	Aniseed (Ciona robusta motifs detected by SELEX)	2020-08	https://www.aniseed.cnrs.fr/aniseed/download/download_data	Non-vertebrate Metazoa	Aniseed
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Plants motif databases ;;
@@ -60,10 +60,10 @@ HT_Methyl_Selex	tf	HT_Selex/Methyl_SELEX_human_TFs.tf	HT-Methyl-Selex (Human TFs
 HT_Selex	tf	HT_Selex/SELEX_human_TFs.tf	HT-Selex (Human TFs)	2018-03	http://science.sciencemag.org/content/356/6337/eaaj2239.long	Vertebrates	HT_Selex
 Jolma_2013	tf	Jolma_2013/Jolma_2013_2015-11-06.tf	Jolma_2013 (Human TFs)	2015-11	http://www.cell.com/abstract/S0092-8674%2812%2901496-1	Vertebrates	Jolma
 Jolma_2015	tf	Jolma_2015/Jolma_TF_dimers_2015.tf	Human_TF_dimers (Human TFs dimers)	2016-05	http://www.nature.com/nature/journal/v527/n7578/full/nature15518.html	Vertebrates	Jolma
-NCAP-SELEX	tf	NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
-CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf CAP-SELEX (HUMAN TFs)		2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
-ZF_ChIP-exo	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-exo.tf (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-exo
-ZF_ChIP-seq	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-seq.tf (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-seq
+NCAP-SELEX	tf	NCAP-SELEX/NCAP_SELEX_motifs.tf	NCAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
+CAP-SELEX	tf	NCAP-SELEX/CAP_SELEX_motifs.tf	CAP-SELEX (HUMAN TFs)	2018-09	https://doi.org/10.1038/s41586-018-0549-5	Vertebrates	CAP-SELEX
+ZF_ChIP-exo	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-exo.tf	ZF_ChIP-exo (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-exo
+ZF_ChIP-seq	tf	Zinc_fingers_Dogan2020/Zinc_fingers_ChIP-seq.tf	ZF_ChIP-seq (C2H2 zinc fingers)	2020-07	https://www.biorxiv.org/content/10.1101/630756v4	Vertebrates	ZF_ChIP-seq
 ;
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -107,12 +107,31 @@ footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2020-01	http://f
 ;; Jaspar core non-redundant (one PSSM for each TF);;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
-jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_fungi.tf	JASPAR core and unvalidated fungi	2022	https://jaspar.genereg.net/downloads/	Fungi	Jaspar
-jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_insects.tf	JASPAR core and unvalidated insects	2022	https://jaspar.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_nematodes.tf	JASPAR core and unvalidated nematodes	2022	https://jaspar.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_plants.tf	JASPAR core and unvalidated plants	2022	https://jaspar.genereg.net/downloads/	Plants	Jaspar
-jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_urochordates.tf	JASPAR core and unvalidated urochordates	2022	https://jaspar.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_vertebrates.tf	JASPAR core and unvalidated vertebrates	2022	https://jaspar.genereg.net/downloads/	Vertebrates	Jaspar
+jaspar_core_nonredundant_all	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_non-redundant_pfms.tf	JASPAR core nonredundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_non-redundant_pfms_transfac.txt	Multi-organisms	Jaspar
+jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_fungi_non-redundant_pfms.tf	JASPAR core nonredundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_non-redundant_pfms_transfac.txt	Fungi	Jaspar
+jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_insects_non-redundant_pfms.tf	JASPAR core nonredundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_nematodes_non-redundant_pfms.tf	JASPAR core nonredundant nematodes	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_nematodes_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_plants_non-redundant_pfms.tf	JASPAR core nonredundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_non-redundant_pfms_transfac.txt	Plants	Jaspar
+jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_urochordates_non-redundant_pfms.tf	JASPAR core nonredundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_vertebrates_non-redundant_pfms.tf	JASPAR core nonredundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac.txt	Vertebrates	Jaspar
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar core redundant (redundant means several PSSMs (all PSSM versions across the releases) for the same TF) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+jaspar_core_redundant_all	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_redundant_pfms.tf	JASPAR core redundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_redundant_pfms_transfac.txt	Multi-organisms	Jaspar
+jaspar_core_redundant_fungi	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_fungi_redundant_pfms.tf	JASPAR core redundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_redundant_pfms_transfac.txt	Fungi	Jaspar
+jaspar_core_redundant_insects	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_insects_redundant_pfms.tf	JASPAR core redundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_redundant_nematodes	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_nematodes_redundant_pfms.tf	JASPAR core redundant nematodes	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_nematodes_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_redundant_plants	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_plants_redundant_pfms.tf	JASPAR core redundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_redundant_pfms_transfac.txt	Plants	Jaspar
+jaspar_core_redundant_urochordates	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_urochordates_redundant_pfms.tf	JASPAR core redundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
+jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_vertebrates_redundant_pfms.tf	JASPAR core redundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates	Jaspar
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Jaspar Unvalidated (High-quality motifs without orthogonal supporting evidence) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+jaspar_unvalidated	tf	JASPAR/Jaspar_2020/unvalidated/JASPAR2020_UNVALIDATED_pfms.tf	JASPAR unvalidated	2020	http://jaspar2020.genereg.net/download/collections/JASPAR2020_UNVALIDATED_pfms_transfac.txt	Multi-organisms	Jaspar
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; RSAT non-redundant motif collections ;;
@@ -140,7 +159,7 @@ cisBP_Anas_platyrhynchos	tf	cisBP2/cisBP_Anas_platyrhynchos_2019.tf	cisBP Anas_p
 cisBP_Anopheles_darlingi	tf	cisBP2/cisBP_Anopheles_darlingi_2019.tf	cisBP Anopheles_darlingi	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Anopheles_gambiae	tf	cisBP2/cisBP_Anopheles_gambiae_2019.tf	cisBP Anopheles_gambiae	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Apis_mellifera	tf	cisBP2/cisBP_Apis_mellifera_2019.tf	cisBP Apis_mellifera	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
-cisBP_Arabidopsis_thaliana	tf	cisBP2/cisBP_Arabidopsis_thaliana_2019.tf	cisBP Arabidopsis_thaliana	2019-09_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php Plants		cisBP
+cisBP_Arabidopsis_thaliana	tf	cisBP2/cisBP_Arabidopsis_thaliana_2019.tf	cisBP Arabidopsis_thaliana	2019-09_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Plants	cisBP
 cisBP_Astyanax_mexicanus	tf	cisBP2/cisBP_Astyanax_mexicanus_2019.tf	cisBP Astyanax_mexicanus	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Vertebrates	cisBP
 cisBP_Atta_cephalotes	tf	cisBP2/cisBP_Atta_cephalotes_2019.tf	cisBP Atta_cephalotes	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
 cisBP_Bombyx_mori	tf	cisBP2/cisBP_Bombyx_mori_2019.tf	cisBP Bombyx_mori	2019-06_v2.00	http://cisbp.ccbr.utoronto.ca/bulk.php	Non-vertebrate Metazoa	cisBP
@@ -263,7 +282,7 @@ cisBP_Zea_mays	tf	cisBP2/cisBP_Zea_mays_2019.tf	cisBP Zea_mays	2019-06_v2.00	htt
 ;FlyFactorSurvey"	tf	FlyFactorSurvey/PWM_FlyFactorSurvey.tf	Drosophila Database of Drosophila TD DNA-binding specificities	2011_06	http://pgfe.umassmed.edu/ffs/
 ;Uniprobe_worm"	tf	uniprobe/uniprobe_worm_Cell09.tf	Uniprobe worm from Groves (Cell09)	2009	http://thebrain.bwh.harvard.edu/uniprobe/downloads/Cell09/worm_pwm_all.zip
 ;cisBP
-;cisBP_human"	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/ 
+;cisBP_human"	tf	cisBP/cisBP_Homo_sapiens_2013-12.tf	cisBP human	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/
 ;cisBP_mouse"	tf	cisBP/cisBP_Mus_musculus_2013-12.tf	cisBP mouse	2013-12_v0.9	http://cisbp.ccbr.utoronto.ca/
 ;Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-08-07.tf	Hocomoco (Human TFs)	2015-08	http://autosome.ru/HOCOMOCO/
 ;Hocomoco_human"	tf	HOCOMOCO/HOCOMOCO_2015-11-23_Human.tf	Hocomoco (Human TFs)	2015-11	http://www.cbrc.kaust.edu.sa/hocomoco10/
@@ -301,21 +320,4 @@ cisBP_Zea_mays	tf	cisBP2/cisBP_Zea_mays_2019.tf	cisBP Zea_mays	2019-06_v2.00	htt
 ;jaspar_core_redundant_plants"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_plants_redundant_pfms_transfac.tf	JASPAR core redundant plants	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_plants_redundant_pfms_transfac.txt	Plants
 ;jaspar_core_redundant_urochordates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.tf	JASPAR core redundant urochordates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa
 ;jaspar_core_redundant_vertebrates"	tf	JASPAR/Jaspar_2018/redundant/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.tf	JASPAR core redundant vertebrates	2018	http://jaspar2018.genereg.net/download/CORE/JASPAR2018_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates
-jaspar_unvalidated	tf	JASPAR/Jaspar_2020/unvalidated/JASPAR2020_UNVALIDATED_pfms.tf	JASPAR unvalidated	2020	http://jaspar2020.genereg.net/download/collections/JASPAR2020_UNVALIDATED_pfms_transfac.txt	Multi-organisms	Jaspar
-jaspar_core_redundant_all	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_redundant_pfms.tf	JASPAR core redundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_redundant_pfms_transfac.txt	Multi-organisms	Jaspar
-jaspar_core_redundant_fungi	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_fungi_redundant_pfms.tf	JASPAR core redundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_redundant_pfms_transfac.txt	Fungi	Jaspar
-jaspar_core_redundant_insects	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_insects_redundant_pfms.tf	JASPAR core redundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_redundant_nematodes	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_nematodes_redundant_pfms.tf	JASPAR core redundant nematodes	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_nematodes_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_redundant_plants	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_plants_redundant_pfms.tf	JASPAR core redundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_redundant_pfms_transfac.txt	Plants	Jaspar
-jaspar_core_redundant_urochordates	tf	JJASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_urochordates_redundant_pfms.tf	JASPAR core redundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_redundant_vertebrates	tf	JASPAR/Jaspar_2020/redundant/JASPAR2020_CORE_vertebrates_redundant_pfms.tf	JASPAR core redundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_redundant_pfms_transfac.txt	Vertebrates	Jaspar
-
-; Resrtored by Jacques on 2022-02-27: the 2020 non-redundant collections had disappeared (only the redundant were present, and commented)
-jaspar_core_nonredundant_all	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_non-redundant_pfms.tf	JASPAR core nonredundant all	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_non-redundant_pfms_transfac.txt	Multi-organisms	Jaspar
-jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_fungi_non-redundant_pfms.tf	JASPAR core nonredundant fungi	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_fungi_non-redundant_pfms_transfac.txt	Fungi	Jaspar
-jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_insects_non-redundant_pfms.tf	JASPAR core nonredundant insects	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_insects_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_nematodes_non-redundant_pfms.tf	JASPAR core nonredundant nematodes	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_nematodes_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_plants_non-redundant_pfms.tf	JASPAR core nonredundant plants	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_plants_non-redundant_pfms_transfac.txt	Plants	Jaspar
-jaspar_core_nonredundant_urochordates	tf	JJASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_urochordates_non-redundant_pfms.tf	JASPAR core nonredundant urochordates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_urochordates_non-redundant_pfms_transfac.txt	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR2020_CORE_vertebrates_non-redundant_pfms.tf	JASPAR core nonredundant vertebrates	2020	http://jaspar2020.genereg.net/download/CORE/JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac.txt	Vertebrates	Jaspar
-
+;
