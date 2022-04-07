@@ -106,7 +106,7 @@ footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2020-01	http://f
 ;;;;;;;;;;;;;;;;
 ;; FactorBook ;;
 ;;;;;;;;;;;;;;;;
-FactorBook_ChIP-seq	tf	FactorBook/Factorbook_CHIP-seq_motifs.tf	FactorBook ChIP-seq human motifs	2022-04	https://www.factorbook.org/motif/human/download	Vertebrates	FactorBook
+FactorBook_ChIP-seq	tf	FactorBook/Factorbook_ChIP-seq_motifs.tf	FactorBook ChIP-seq human motifs	2022-04	https://www.factorbook.org/motif/human/download	Vertebrates	FactorBook
 FactorBook_SELEX	tf	FactorBook/Factorbook_SELEX_motifs.tf	FactorBook SELEX human motifs	2022-04	https://www.factorbook.org/motif/human/download	Vertebrates	FactorBook
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -123,12 +123,12 @@ jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2020/nonredundant/JASPAR20
 ;
 ;
 ;
-jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_fungi.tf	JASPAR core + unvalidated fungi	2022	https://jaspar2022.genereg.net/downloads/	Fungi	Jaspar
-jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_insects.tf	JASPAR core + unvalidated insects	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_nematodes.tf	JASPAR core + unvalidated nematodes	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_plants.tf	JASPAR core + unvalidated plants	2022	https://jaspar2022.genereg.net/downloads/	Plants	Jaspar
-jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_urochordates.tf	JASPAR core + unvalidated urochordates	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
-jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2022/JASPAR_2020_CORE_+_UNVALIDATED_vertebrates.tf	JASPAR core + unvalidated vertebrates	2022	https://jaspar2022.genereg.net/downloads/	Vertebrates	Jaspar
+jaspar_core_nonredundant_fungi	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_fungi.tf	JASPAR core + unvalidated fungi	2022	https://jaspar2022.genereg.net/downloads/	Fungi	Jaspar
+jaspar_core_nonredundant_insects	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_insects.tf	JASPAR core + unvalidated insects	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_nematodes	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_nematodes.tf	JASPAR core + unvalidated nematodes	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_plants	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_plants.tf	JASPAR core + unvalidated plants	2022	https://jaspar2022.genereg.net/downloads/	Plants	Jaspar
+jaspar_core_nonredundant_urochordates	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_urochordates.tf	JASPAR core + unvalidated urochordates	2022	https://jaspar2022.genereg.net/downloads/	Non-vertebrate Metazoa	Jaspar
+jaspar_core_nonredundant_vertebrates	tf	JASPAR/Jaspar_2022/JASPAR_2022_CORE_+_UNVALIDATED_vertebrates.tf	JASPAR core + unvalidated vertebrates	2022	https://jaspar2022.genereg.net/downloads/	Vertebrates	Jaspar
 ;
 ;
 ;
