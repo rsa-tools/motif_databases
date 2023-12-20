@@ -1,0 +1,9 @@
+Grove CA, De Masi F, Barrasa MI, Newburger DE, Alkema MJ, Bulyk ML, Walhout AJ. A multiparameter network reveals extensive divergence between C. elegans bHLH transcription factors. Cell. 2009 Jul 23;138(2):314-27. doi: 10.1016/j.cell.2009.04.058
+
+Hume MA, Barrera LA, Gisselbrecht SS, Bulyk ML. UniPROBE, update 2015: new tools and content for the online database of protein-binding microarray data on protein-DNA interactions. Nucleic Acids Research 2014; doi: 10.1093/nar/gku1045 
+
+http://the_brain.bwh.harvard.edu/uniprobe/downloads.php
+
+This page hosts bulk downloads for all transcription factors in the UniPROBE database, organized by publication, and for the SQL tables holding PBM data or factor annotations. These files can be quite large, so please be prepared for significant download times. Please note that any files which contain PBM probe sequences are protected by an academic research use license, which will require confirmation prior to file download. Additionally, the various papers and datasets covered in this database have employed a variety of universal array designs created using various deBruijn sequences. Users interested in the 60-mer probe sequences should download the probe sequences associated with the particular datasets or papers of interest.
+
+If you wish to download individual files for certain transcriptions factors, you can find them most easily using the browse page, which provides an interface for text-based searches. The site's public directory index also makes all database files easily accessible.
