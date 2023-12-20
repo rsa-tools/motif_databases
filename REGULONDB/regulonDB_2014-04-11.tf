@@ -1,3 +1,4756 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55994d2e1c93ed1a06a6f02bf3ad192a9f81d3082454f704f06f012bb5965989
-size 115552
+AC  ECK120012595
+XX
+ID  Ada
+XX
+DE  AmkbwwwdmsCAr
+PO       A     C     G     T
+1        4     0     0     0
+2        3     1     0     0
+3        0     0     2     2
+4        0     2     1     1
+5        3     0     0     1
+6        3     0     0     1
+7        3     0     0     1
+8        1     0     2     1
+9        2     2     0     0
+10       0     1     3     0
+11       0     4     0     0
+12       4     0     0     0
+13       3     0     1     0
+XX
+BS  AAGCAAAGCGCAG
+BS  AATTAAAGCGCAA
+BS  ACGCAAAAACCAA
+BS  AATGTTTTAGCAA
+CC  program: tab
+CC  matrix.nb: 1
+CC  matrix.nb: 1
+CC  consensus.strict: AagcaaagagCAa
+CC  consensus.strict.rc: TTGCTCTTTGCTT
+CC  consensus.IUPAC: AmkbwwwdmsCAr
+CC  consensus.IUPAC.rc: YTGSKHWWWVMKT
+CC  consensus.regexp: A[ac][gt][cgt][at][at][at][agt][ac][cg]CA[ag]
+CC  consensus.regexp.rc: [CT]TG[CG][GT][ACT][AT][AT][AT][ACG][AC][GT]T
+XX
+//
+AC  ECK120012515
+XX
+ID  AgaR
+XX
+DE  CTTTCrTTTyvTTTykwTT
+PO       A     C     G     T
+1        2     9     0     0
+2        1     0     0    10
+3        0     0     0    11
+4        0     0     1    10
+5        1     9     0     1
+6        3     0     7     1
+7        0     2     1     8
+8        0     0     0    11
+9        1     0     0    10
+10       0     4     1     6
+11       4     4     3     0
+12       0     0     0    11
+13       0     0     0    11
+14       1     0     0    10
+15       2     6     0     3
+16       2     1     3     5
+17       3     2     1     5
+18       1     0     1     9
+19       2     1     0     8
+XX
+BS  CTTTCGTTTCATTTCGTTT
+BS  CTTTCGTTTCATTTCACTT
+BS  ATTTCGTTTTATTTCTTTT
+BS  CTTTCTTTTTCTTTCGTTT
+BS  CTTTCGTTTTGTTTCAGTT
+BS  CTTTCGTTTTATTTTTATC
+BS  CTTTCATTATGTTTCTTTT
+BS  CTTTTGCTTCCTTTATCTT
+BS  CTTTCAGTTTCTTTTCTAT
+BS  AATTAGCTTCGTTTTGATA
+BS  CTTGCATTTGCTTAATAGA
+CC  program: tab
+CC  matrix.nb: 2
+CC  consensus.strict: CTTTCgTTTtaTTTcttTT
+CC  consensus.strict.rc: AAAAGAAATAAAACGAAAG
+CC  consensus.IUPAC: CTTTCrTTTyvTTTykwTT
+CC  consensus.IUPAC.rc: AAWMRAAABRAAAYGAAAG
+CC  consensus.regexp: CTTTC[ag]TTT[ct][acg]TTT[ct][gt][at]TT
+CC  consensus.regexp.rc: AA[AT][AC][AG]AAA[CGT][AG]AAA[CT]GAAAG
+XX
+//
+AC  ECK120012316
+XX
+ID  AraC
+XX
+DE  TRTGkaytwhyykrCTvyk
+PO       A     C     G     T
+1        0     2     1    12
+2       11     0     4     0
+3        1     0     3    11
+4        2     0    11     2
+5        0     3     8     4
+6       10     3     1     1
+7        1     8     0     6
+8        3     0     3     9
+9        8     2     0     5
+10       4     4     0     7
+11       2     8     0     5
+12       3     4     1     7
+13       1     3     4     7
+14       4     0     8     3
+15       0    13     0     2
+16       2     1     1    11
+17       4     4     7     0
+18       3     4     0     8
+19       3     0     5     7
+XX
+BS  CGGATCCTACCTGACGCTT
+BS  TATGGATAAAAATGCTATG
+BS  TGTGGACTTTTCTGCCGTG
+BS  TATAGACACTTTTGTTACG
+BS  TATGGACAATTGGTTTCTT
+BS  GAGGGGCGAATTATCTCTT
+BS  TATTCATTATCCTGCTGAA
+BS  TATGCACGTTCTCACTGTA
+BS  TATGTCTTTTCCCGCTAAA
+BS  TATGGATTAATCTGCTGTG
+BS  CAAGGATTTCCAGGCTAAT
+BS  TGTTTCCGACCTGACACCT
+BS  TATGGATTAAATTGCTGCG
+BS  TGGGCACTCCCTTTCAGTT
+BS  TATGTTATTTCACACTGCT
+CC  program: tab
+CC  matrix.nb: 3
+CC  consensus.strict: TATGgactatcttgCTgtt
+CC  consensus.strict.rc: AACAGCAAGATAGTCCATA
+CC  consensus.IUPAC: TRTGkaytwhyykrCTvyk
+CC  consensus.IUPAC.rc: MRBAGYMRRDWARTMCAYA
+CC  consensus.regexp: T[AG]TG[gt]a[ct]t[at][act][ct][ct][gt][ag]CT[acg][ct][gt]
+CC  consensus.regexp.rc: [AC][AG][CGT]AG[CT][AC][AG][AG][AGT][AT]A[AG]T[AC]CA[CT]A
+XX
+//
+AC  ECK120011345
+XX
+ID  ArcA
+XX
+DE  wamawwTwrTTAAma
+PO       A     C     G     T
+1       40     7     5    23
+2       47     5     6    17
+3       23    30     8    14
+4       42     7     9    17
+5       23    14     5    33
+6       33     1    15    26
+7       12     5     0    58
+8       23    14    13    25
+9       40     0    26     9
+10      13     3     1    58
+11       8     6     5    56
+12      67     1     0     7
+13      56     9     1     9
+14      22    49     0     4
+15      47    16     2    10
+XX
+BS  AACATTTAGTTAACC
+BS  TAAAAATTGTTAACA
+BS  AAAACTTGATTAACA
+BS  AACATTTAGTTAACT
+BS  AACAATTATTTAACA
+BS  TAATTATTATTAACC
+BS  AAAATATAATGAACA
+BS  ATCATTTAATTAACT
+BS  TTCACATCATTAACC
+BS  AACATAATATTAACT
+BS  AACATGTTAATAAAA
+BS  GAAACATGATTAACA
+BS  TTATTTTTGTTAACA
+BS  AACGATTTGATAACA
+BS  ATAAATTAATTAAAA
+BS  AGCTCTTAATTAACA
+BS  TGCATATTTTTAACA
+BS  AACAATTGGTTAATA
+BS  TACATAATATCAACA
+BS  AACATTTTGTTAGCA
+BS  ACTTTATAATTAACA
+BS  ATTATATTGTAAACA
+BS  ATCCTGTAATTAAAA
+BS  TAATGGTTATTAACA
+BS  ATATTATAATTAACT
+BS  TACATAAATTTAACC
+BS  AATATTTGATTATCC
+BS  TGCAAATCGATAACA
+BS  AACAATTATTTTACA
+BS  ATAATATAATTATAA
+BS  TAACTGTCAATAACA
+BS  AACAAGTGGTTCACA
+BS  TGAAAATGATTATCA
+BS  CATTGTTAATTAACA
+BS  TAACTATAATGAACC
+BS  ATTATATTGATAAAC
+BS  TAATTTTGATTAATA
+BS  AACTCAATGTTAAAT
+BS  TACCGATATTTAACC
+BS  ACAAAATCATTACAA
+BS  AACCATTTTTTTACA
+BS  AAAACTTCGTTAATT
+BS  ACAAAGTTGTTACAA
+BS  CACCTAAGATTAACT
+BS  TATGTTTTGTCAAAA
+BS  GTGTCATAATTAACC
+BS  CAGACATTGTTACAC
+BS  GAAAGGTGATTATCA
+BS  CTCGTTACGTTAAAA
+BS  TTTAATTAATTACAC
+BS  AACAAATCATTTAAG
+BS  TTTAATAGATAAACA
+BS  AAAGCAACATAAAAA
+BS  AAGGAGTTGTGATCA
+BS  AATTTATAGCTAAAT
+BS  TACTATTTAAAATCA
+BS  TTTTTATCGCTAAAA
+BS  AAAATTTAAACTACC
+BS  TTGCTATAAATATCA
+BS  CGGAAATATTTAACT
+BS  AAGTTGATGTAAAAC
+BS  GACGAGATACTAACA
+BS  CTTTATTTATTACAC
+BS  TCAAATTCGTAACAA
+BS  AAAACAATAAAATCC
+BS  ACTATGTTGTGACCT
+BS  AAAAAGTGGACTAAA
+BS  TATTCACCGAAAACA
+BS  GACAAGCCAATTACA
+BS  AACATACTTGCAACA
+BS  TAGGGATAATGACAA
+BS  AGGTCCAGATTAACA
+BS  AATACGCCGTTAATG
+BS  ATCGCGCGTTTACAC
+BS  CACGTTTCAACTTCA
+CC  program: tab
+CC  matrix.nb: 4
+CC  consensus.strict: aacataTtaTTAAca
+CC  consensus.strict.rc: TGTTAATAATATGTT
+CC  consensus.IUPAC: wamawwTwrTTAAma
+CC  consensus.IUPAC.rc: TKTTAAYWAWWTKTW
+CC  consensus.regexp: [at]a[ac]a[at][at]T[at][ag]TTAA[ac]a
+CC  consensus.regexp.rc: T[GT]TTAA[CT][AT]A[AT][AT]T[GT]T[AT]
+XX
+//
+AC  ECK120011202
+XX
+ID  ArgP
+XX
+DE  mwkwttrTsdmwkrthdm
+PO       A     C     G     T
+1        7     8     1     0
+2        5     1     0    10
+3        3     0     4     9
+4        9     1     0     6
+5        3     2     0    11
+6        2     0     3    11
+7        5     0     8     3
+8        0     3     0    13
+9        0     7     7     2
+10       5     2     4     5
+11       6     9     1     0
+12       4     0     3     9
+13       0     0     5    11
+14       8     0     6     2
+15       3     3     3     7
+16       6     4     0     6
+17       6     0     6     4
+18       4     8     1     3
+XX
+BS  ATGCCTTTCACTGATATC
+BS  ATGAAGGTGTCTTATAAC
+BS  CTTATAATCCCTGGGCGA
+BS  GTTATTGTTAAATGCTAA
+BS  CTTACATTCGCTTATATA
+BS  CAGATTATGTGATGACTC
+BS  CTTTTTGCTAATGATTGC
+BS  ATATAGATGGCTTATTAA
+BS  CCTATTATGCCGTTCAAG
+BS  AATTTTGTGTCAGGTTGC
+BS  AAAATTGTGTCATAGTGC
+BS  AATATTATCAATTTCCGC
+BS  CTGATTGCCAATTAATAT
+BS  CTTTTGTTCGAGTGGAGT
+BS  CAATATGCGGCGTAAATC
+BS  ATTTTTGTCTATGGTCAT
+CC  program: tab
+CC  matrix.nb: 5
+CC  consensus.strict: cttattgTcacttataac
+CC  consensus.strict.rc: GTTATAAGTGACAATAAG
+CC  consensus.IUPAC: mwkwttrTsdmwkrthdm
+CC  consensus.IUPAC.rc: KHDAYMWKHSAYAAWMWK
+CC  consensus.regexp: [ac][at][gt][at]tt[ag]T[cg][agt][ac][at][gt][ag]t[act][agt][ac]
+CC  consensus.regexp.rc: [GT][ACT][AGT]A[CT][AC][AT][GT][ACT][CG]A[CT]AA[AT][AC][AT][GT]
+XX
+//
+AC  ECK120011670
+XX
+ID  ArgR
+XX
+DE  hwArTGAATwwThATkCA
+PO       A     C     G     T
+1        8     7     3     9
+2       12     4     2     9
+3       21     1     1     4
+4        9     6     8     4
+5        4     2     2    19
+6        2     3    21     1
+7       21     3     2     1
+8       21     3     2     1
+9        3     1     0    23
+10      10     0     1    16
+11       8     2     0    17
+12       5     0     1    21
+13       7     7     0    13
+14      25     0     1     1
+15       4     3     0    20
+16       2     3    15     7
+17       2    24     0     1
+18      25     0     2     0
+XX
+BS  TCACTGAATTTTTATGCA
+BS  CAAGTGAATTTATATGCA
+BS  AAAGTGAATTTTAATTCA
+BS  CAGATGAATTTTTATGCA
+BS  AAATTGAATTTTAATTCA
+BS  CAAATGAATAATCATCCA
+BS  TTAGTGATTTTTTATGCA
+BS  TTAGTGTATTTTTATTCA
+BS  ATTGTGAATTAATATGCA
+BS  TGACAGAATAATTATGCA
+BS  TTACCGAAATTTCATGCA
+BS  GAACTGGATATTCATTCA
+BS  CAAATGAATAATTACACA
+BS  CCAGAGAATATTCACTCA
+BS  CAACTGCATAATCAATCA
+BS  AGTATCAATATTCATGCA
+BS  GAAATGCATACTTAAGCA
+BS  TAAATGAGTTTTCATTTA
+BS  AATGTGAAATTATAACCA
+BS  TTAATGAAAAATAATACG
+BS  ATATGCACTTTAAATGCA
+BS  CTTTTAACTTTTAAAGCA
+BS  ATACAACATTATTGTGCA
+BS  TTAAATAATTTAAATGAA
+BS  AAAGTGAATACGTTTGCG
+BS  TCAAGGAGTTATAACCAA
+BS  GCCTCCGCCGTTTATGCA
+CC  program: tab
+CC  matrix.nb: 6
+CC  consensus.strict: taAaTGAATttTtATgCA
+CC  consensus.strict.rc: TGCATAAAAATTCATTTA
+CC  consensus.IUPAC: hwArTGAATwwThATkCA
+CC  consensus.IUPAC.rc: TGMATDAWWATTCAYTWD
+CC  consensus.regexp: [act][at]A[ag]TGAAT[at][at]T[act]AT[gt]CA
+CC  consensus.regexp.rc: TG[AC]AT[AGT]A[AT][AT]ATTCA[CT]T[AT][AGT]
+XX
+//
+AC  ECK120026318
+XX
+ID  AscG
+XX
+DE  kywrTGAAACvdk
+PO       A     C     G     T
+1        1     0     2     4
+2        0     3     1     3
+3        2     1     1     3
+4        2     1     3     1
+5        0     0     0     7
+6        0     0     7     0
+7        6     1     0     0
+8        7     0     0     0
+9        7     0     0     0
+10       0     7     0     0
+11       3     2     2     0
+12       2     1     2     2
+13       0     0     4     3
+XX
+BS  ATTATGAAACAAG
+BS  TCATTGCAACAAT
+BS  GCAATGAAACGCG
+BS  GCGGTGAAACATT
+BS  TGCCTGAAACGTT
+BS  TTTGTGAAACCGG
+BS  TTTGTGAAACCGG
+CC  program: tab
+CC  matrix.nb: 7
+CC  consensus.strict: tctgTGAAACaag
+CC  consensus.strict.rc: CTTGTTTCACAGA
+CC  consensus.IUPAC: kywrTGAAACvdk
+CC  consensus.IUPAC.rc: MHBGTTTCAYWRM
+CC  consensus.regexp: [gt][ct][at][ag]TGAAAC[acg][agt][gt]
+CC  consensus.regexp.rc: [AC][ACT][CGT]GTTTCA[CT][AT][AG][AC]
+XX
+//
+AC  ECK120013010
+XX
+ID  AsnC
+XX
+DE  kkwTTrwTGmwT
+PO       A     C     G     T
+1        0     0     1     3
+2        0     0     1     3
+3        1     0     0     3
+4        0     0     0     4
+5        0     0     0     4
+6        2     0     2     0
+7        2     0     0     2
+8        0     0     0     4
+9        0     0     4     0
+10       3     1     0     0
+11       2     0     0     2
+12       0     0     0     4
+XX
+BS  GGATTGATGATT
+BS  TTTTTAATGAAT
+BS  TTTTTATTGAAT
+BS  TTTTTGTTGCTT
+CC  program: tab
+CC  matrix.nb: 8
+CC  consensus.strict: tttTTaaTGaaT
+CC  consensus.strict.rc: ATTCATTAAAAA
+CC  consensus.IUPAC: kkwTTrwTGmwT
+CC  consensus.IUPAC.rc: AWKCAWYAAWMM
+CC  consensus.regexp: [gt][gt][at]TT[ag][at]TG[ac][at]T
+CC  consensus.regexp.rc: A[AT][GT]CA[AT][CT]AA[AT][AC][AC]
+XX
+//
+AC  ECK120015687
+XX
+ID  BaeR
+XX
+DE  TTCTyCmydATyksyks
+PO       A     C     G     T
+1        0     0     0     4
+2        0     0     0     4
+3        0     4     0     0
+4        0     0     0     4
+5        0     3     0     1
+6        0     4     0     0
+7        3     1     0     0
+8        0     1     0     3
+9        2     0     1     1
+10       4     0     0     0
+11       0     0     0     4
+12       0     1     0     3
+13       0     0     3     1
+14       0     1     3     0
+15       0     3     0     1
+16       0     0     2     2
+17       0     3     1     0
+XX
+BS  TTCTCCATAATTGGCGC
+BS  TTCTCCACGATTGGCTC
+BS  TTCTCCCTTATTGGCTG
+BS  TTCTTCATAATCTCTGC
+CC  program: tab
+CC  matrix.nb: 9
+CC  consensus.strict: TTCTcCataATtggcgc
+CC  consensus.strict.rc: GCGCCAATTATGGAGAA
+CC  consensus.IUPAC: TTCTyCmydATyksyks
+CC  consensus.IUPAC.rc: SMRSMRATHRKGRAGAA
+CC  consensus.regexp: TTCT[ct]C[ac][ct][agt]AT[ct][gt][cg][ct][gt][cg]
+CC  consensus.regexp.rc: [CG][AC][AG][CG][AC][AG]AT[ACT][AG][GT]G[AG]AGAA
+XX
+//
+AC  ECK120013805
+XX
+ID  CaiF
+XX
+DE  AmCAATATTGAAAry
+PO       A     C     G     T
+1        4     0     0     0
+2        2     2     0     0
+3        0     4     0     0
+4        4     0     0     0
+5        4     0     0     0
+6        0     0     0     4
+7        4     0     0     0
+8        0     0     0     4
+9        0     0     0     4
+10       0     0     4     0
+11       4     0     0     0
+12       4     0     0     0
+13       4     0     0     0
+14       2     0     2     0
+15       0     1     0     3
+XX
+BS  ACCAATATTGAAAGT
+BS  AACAATATTGAAAAT
+BS  ACCAATATTGAAAAC
+BS  AACAATATTGAAAGT
+CC  program: tab
+CC  matrix.nb: 10
+CC  consensus.strict: AaCAATATTGAAAat
+CC  consensus.strict.rc: ATTTTCAATATTGTT
+CC  consensus.IUPAC: AmCAATATTGAAAry
+CC  consensus.IUPAC.rc: RYTTTCAATATTGKT
+CC  consensus.regexp: A[ac]CAATATTGAAA[ag][ct]
+CC  consensus.regexp.rc: [AG][CT]TTTCAATATTG[GT]T
+XX
+//
+AC  ECK120011210
+XX
+ID  CpxR
+XX
+DE  GTAAArmwrygwaAr
+PO       A     C     G     T
+1        0     4    46     7
+2        3     6     6    42
+3       51     3     0     3
+4       51     0     0     6
+5       40     5     1    11
+6       23    13    18     3
+7       24    15     4    14
+8       17    10    10    20
+9       22     9    16    10
+10      10    16    12    19
+11       8     4    37     8
+12      22     6     3    26
+13      38     7     0    12
+14      43     5     0     9
+15      33     3    16     5
+XX
+BS  GTAAAGATGGGTAAA
+BS  GTAAAACAACGTAAA
+BS  GTAAAGAAGGGTAAA
+BS  GTAAAAACGCGTAAA
+BS  GTAAAAAGACGTAAA
+BS  GTAAAGCGGCGAAAA
+BS  GTAAAGTAAGGTAAA
+BS  GTAAAATTAGGTAAA
+BS  GTAAAACAATGAAAG
+BS  GTAAAGCACTGAAAG
+BS  GCAAAAAAATGTAAA
+BS  GTAAAACCTGGTAAG
+BS  GTAAAGCGGGGATAA
+BS  GTAAAAATATATAAA
+BS  GCAAAACGCCGTAAG
+BS  GTAAAGTTCCGTAAC
+BS  GTAACCAAAAGTAAA
+BS  GTAAAAGCTTGTAAG
+BS  GTAACGCAGCGTTAA
+BS  GCAAACATGCGTCAG
+BS  GTAAAACCCCGTTTA
+BS  GTAAAAAATTGTCCA
+BS  GTAATATTCCGTAAC
+BS  GTAAATTACCGTCAG
+BS  GTAAAGGCAACAAAG
+BS  GTATAAAAGGGCATG
+BS  TTAAAATTGTGCAAT
+BS  GCATTATTACGAAAA
+BS  GTAAAGAGATCACCA
+BS  GTAAAGACGAACAAT
+BS  CTAAACTTAATAAAA
+BS  GTCAGCCTGTGTAAA
+BS  GGAAAGTCAGTTAAT
+BS  GAAATGATAGAAAAG
+BS  GAAATCAGATGTAAT
+BS  TTAACAAACAGATAA
+BS  GGAATGTTTATAAAA
+BS  GTATTCTTTGGTCAG
+BS  GCAATAAAAACCAAA
+BS  CTAATAATGCATATA
+BS  GTAAACTCTCTATCG
+BS  TTAAACAAACGGTCA
+BS  GGAATCGTCTGAATG
+BS  CTAACGCGTAGATAA
+BS  GCAAAGAATTTGTAA
+BS  GGATTTCTATGAAAA
+BS  TTAAACATGTAACTA
+BS  GTTAACATTTTAATA
+BS  TTTAAGATTTGTAAT
+BS  GTATATCGAGACAAA
+BS  GTTTCAAAAAGAAAA
+BS  GTAAACTAAGCGTTG
+BS  GGAATGGCGAAATAA
+BS  TTCAAAATGTAAATG
+BS  GTAAACCGCCTCTTC
+BS  TACAAATGGTGATAA
+BS  CGAAAACCATTACCG
+CC  program: tab
+CC  matrix.nb: 11
+CC  consensus.strict: GTAAAaatatgtaAa
+CC  consensus.strict.rc: TTTACATATTTTTAC
+CC  consensus.IUPAC: GTAAArmwrygwaAr
+CC  consensus.IUPAC.rc: YTTWCRYWKYTTTAC
+CC  consensus.regexp: GTAAA[ag][ac][at][ag][ct]g[at]aA[ag]
+CC  consensus.regexp.rc: [CT]TT[AT]C[AG][CT][AT][GT][CT]TTTAC
+XX
+//
+AC  ECK120013112
+XX
+ID  Cra
+XX
+DE  kwGCTGAAwCGwTtmary
+PO       A     C     G     T
+1        5     7    10    10
+2       15     3     3    11
+3        4     0    25     3
+4        2    24     5     1
+5        4     0     2    26
+6        6     0    24     2
+7       31     0     1     0
+8       31     0     0     1
+9       10     0     1    21
+10       0    27     1     4
+11       3     1    27     1
+12       9     6     5    12
+13       2     0     4    26
+14       6     4     0    22
+15      11    18     0     3
+16      22     1     4     5
+17      13     4    13     2
+18       1     8     6    17
+XX
+BS  GAGCAGGATCGTATCGAT
+BS  TAAGTGAATCGGTTCAAT
+BS  TAACTGAAACGCATATTT
+BS  TAGCTGAATCGTGTAAGA
+BS  GGGCTGATTTATTACTAC
+BS  TATAAAAAATATTTCGGT
+BS  CATGTAAAACGTTCTTGT
+BS  AAGTTGAAATGATTTAAT
+BS  GAGCTGAATCGCTTAACC
+BS  ATGCTGAAAGGTGTCAGC
+BS  TTGCTAAATCGGTTCAAG
+BS  GTGCTGAAACCATTCAAG
+BS  ACGGTGAATCGTTCAAGC
+BS  TATCTGAATCGATTCGAT
+BS  GGGCAAAAACGTTTCAGT
+BS  TTGCGAAAACTGTAAACG
+BS  CTGATGAATCGAGCCAAC
+BS  AGGCTGAATCGTTTCAAT
+BS  GCGCTGAAACGTTTCAAG
+BS  GTGCTGAAACGATAAAGT
+BS  AAGCTGAATCGATTTTAT
+BS  TAGCTGAAGCGTTTCAGT
+BS  TAACATAATCACTTACGT
+BS  TTGCTGAATCGTTAAGGT
+BS  GTGGTGAATCGATACTTT
+BS  GCACTGAATCGGTTAACT
+BS  CAGCTGAATCGATAAAAT
+BS  CTGCTGAATTGATTCAGG
+BS  CAGCTTAATCGGTTCAAC
+BS  CTGCGAAATCGCTTCAGC
+BS  GTGCTGAATCGCTTAACG
+BS  CAGGTGAATCGCGCCAGC
+CC  program: tab
+CC  matrix.nb: 12
+CC  consensus.strict: gaGCTGAAtCGtTtcaat
+CC  consensus.strict.rc: ATTGAAACGATTCAGCTC
+CC  consensus.IUPAC: kwGCTGAAwCGwTtmary
+CC  consensus.IUPAC.rc: RYTKAAWCGWTTCAGCWM
+CC  consensus.regexp: [gt][at]GCTGAA[at]CG[at]Tt[ac]a[ag][ct]
+CC  consensus.regexp.rc: [AG][CT]T[GT]AA[AT]CG[AT]TTCAGC[AT][AC]
+XX
+//
+AC  ECK120011235
+XX
+ID  CRP
+XX
+DE  wtgtGAwyyasaTCACAwwwtt
+PO       A     C     G     T
+1       85    41    29    81
+2       30    35    18   153
+3       33    12   139    52
+4       17    45    19   155
+5       34     3   176    23
+6      167    35    19    15
+7       60    34    49    93
+8       54    73    46    63
+9       42    64    46    84
+10     102    25    52    57
+11      42    63    79    52
+12     121    25    47    43
+13      17    15    10   194
+14      29   196     8     3
+15     204     0    17    15
+16      25   194     9     8
+17     167    16    35    18
+18      79    42    19    96
+19      80    16     1   139
+20      64    20    16   136
+21      41    28    13   154
+22      50    39    52    95
+XX
+BS  CTGTGATTGGTATCACATTTTT
+BS  GTGTGAAGTTGATCACAAATTT
+BS  ATGTGAGTAGTGTCACATTTTT
+BS  TTGTGATGTGGATAACATTTTT
+BS  ATGTGATCCAGATCACATCTAT
+BS  TCGTGATGAAAATCACATTTTT
+BS  ATGTGATTTGCTTCACATCTTT
+BS  GTGTGATCGTCATCACAATTCG
+BS  AAGTGATTTAGATCACATAATA
+BS  ATCTGACTCACATCACACTTTT
+BS  ATGTGATTAACAGCACATTTTT
+BS  TCGTGATCAAGATCACATTCTC
+BS  ATGTGTACGAAATCACATTTTT
+BS  ATGTGATACAAATCACATAAAT
+BS  GTGTGATCTGCATCACGCATTA
+BS  ATTTGATTTAGATCGCAATTTG
+BS  ACGTGATGATGTTCACAATTTG
+BS  TTGTGATTCAGATCACAAAGAT
+BS  TTTTGACATGTATCACAAATTT
+BS  ACGTGATCTTCATCACAAATAA
+BS  TTGTGATTCGATTCACATTTAA
+BS  TAGTGATCCACGCCACATTTTG
+BS  GTGTGATGCAAGCCACATTTTT
+BS  ATGTGAAATAAATCAAAATTTC
+BS  ATTTGAAGTAGCTCACACTTAT
+BS  ATGTGAGCGAGATCAAATTCTA
+BS  TTGTGAATCTTTTCACAGTTTA
+BS  ATGAGATTCAGATCACATATAA
+BS  ATTTGCACGGCGTCACACTTTG
+BS  ATGTGATTGATATCACACAAAA
+BS  CGGTGATCTATTTCACAAATTA
+BS  TTTCGAGGTTGATCACATTTCC
+BS  TTGCGATCAAAATAACACTTTT
+BS  ATGCGATCTATATCACGCTGTG
+BS  CTTCGATACACATCACAATTAA
+BS  ATGTGATTTGCATCACTTTTGG
+BS  TCGTGAACTACGGCACACTTTG
+BS  CTGTGAGTGATTTCACAGTATC
+BS  ATGTGAGTTAGCTCACTCATTA
+BS  ATGCGATCTGGTTCAAATAATT
+BS  ATTCAATATTCATCACACTTTT
+BS  GTGCGAGCCAGCTCAAACTTTT
+BS  TAGTGAAGCAGATCGCATTATA
+BS  TTATGACCCTCTTCACATTTCG
+BS  TTGTGAAGTAGATCTCTATTTT
+BS  TTGCGAAGCGCGTCACTATTTA
+BS  ACGTGACGTTCATCACAAAACG
+BS  TTGTGAGCTTGCTCGCACTTCG
+BS  ATGCGCGACGCATCGCAAATTT
+BS  TTTTGCGCGAGGTCACTATTTT
+BS  ATGTGAAGCAAATCACCCACTT
+BS  GTGTTAAATTGATCACGTTTTA
+BS  AGGTGAGATGCATCACGCTTCG
+BS  ATATGACGGCGGTCACACTTAT
+BS  ATGTGAGCCAGCTCACCATAAA
+BS  TTGCGGGTCGCGTCACATTTAA
+BS  ATTTGAGTAAGTTCTCAATTTT
+BS  TTGTGATGGCTCTCACCTTTTA
+BS  TTGTGATCGTTATCTCGATATT
+BS  ATTTGCACTGTGTCACAATTCC
+BS  ATGTGCGACCACTCACAAATTA
+BS  GTGTGCGGCAATTCACATTTAA
+BS  GTGCGGGCGTGATCACAATTAC
+BS  CAGTGATCCAGGTCACGATAAC
+BS  TTGAGGGGTTGATCACGTTTTG
+BS  GTTAAATATAGATCACAATTTT
+BS  TTGTGATGTGGTTAACCAATTT
+BS  TTGCAAGCAACATCACGAAATT
+BS  TATAGATCTCCGTCACATTTTT
+BS  CTGCGAGCATGGTCATATTTTT
+BS  AGGTGACCGGTTTCACAAATAT
+BS  CTGTGATGGCAACCACAGTTTG
+BS  TTGTGAGTTTTGTCACCAAATA
+BS  TTATGACGCTCTTCACACTCTG
+BS  CCATGATCCGCGCCACACTTTT
+BS  ATGTAAGCTGTGCCACGTTTTT
+BS  TTGCAATTCGTGTCACAAAATA
+BS  CTGTAACAGAGATCACACAAAG
+BS  AGGTGATTTTGATCACGGAATA
+BS  ATATGACGGTGTTCACAAAGTT
+BS  ACGCGACTTTTATCACTTTTTA
+BS  GAGTGATATGTATAACATTATG
+BS  ATGCAAAGGACGTCACATTACC
+BS  TTGTGAATCAGATCAGAAAACC
+BS  ATGTGACTACCATCACTTTAAT
+BS  TTGTGGCCTGCTTCAAACTTTC
+BS  TTGCGATGAATGTCACATCCTC
+BS  TATTGTCCCCGATCACACTTTT
+BS  AAGTGAACCATATCTCAATTCA
+BS  TTATGAAGCCCTTCACAGAATT
+BS  ATTTATTCCATGTCACACTTTT
+BS  ATGTATGACAGATCACTATTTT
+BS  GTGCGAAATCCGTCACAGTTCA
+BS  CTGCGAGTGGGAGCACGGTTTT
+BS  TTTTGAATCCCATCACAAACCC
+BS  TTGTGATGGTTGTCATATTATA
+BS  GAGTGATCGAGTTAACATTGTT
+BS  CGGTGACGGAGTTCACCCTTTA
+BS  TTTTGCGCTAAAGCACATTTCT
+BS  TGGTGAGGAACTTAACAATATT
+BS  TTACAAGGCACATCACGTTATG
+BS  TTGCGAGCGAGCGCACACTTGT
+BS  TCGTGAACGATCCCACGAATTT
+BS  TTACGACAGCTATCACGAATTT
+BS  GTGCGAGTCTGCTCGCATAATC
+BS  CTGTGACCGTGGTCGCAGTTGG
+BS  TGTTGCTTTTGATCACAATAAG
+BS  CTGTGACTCGATTCACGAAGTC
+BS  TTGAGATTCAACTCTCAAATTT
+BS  GTGTGTGTCAGATCTCGTTTTC
+BS  ATTTAATTCGTATCGCAAATTA
+BS  TGGTGATCCATAAAACAATATT
+BS  ACGCAGCGAAGATCACAATTTA
+BS  TTTTGAATCGTGTCTCATTCTG
+BS  TCTTGCTTACCGTCACATTCTT
+BS  ATATGATAAATATCAAACAATG
+BS  TCGTGATACTCATCACCATGAC
+BS  ATATGACCAACCTCTCATAATT
+BS  TTGGAATATCCATCACATAACG
+BS  GCGTGCCAGTTTTCACATTCTT
+BS  GTTTGACGGCTATCACGTTTCA
+BS  GGTTGCACTCTCTCACATTTTT
+BS  CTGTGAAACGAAACATATTTTT
+BS  TTATGACGAGGCACACACATTT
+BS  ATGTGATCTACAGCATGTTATG
+BS  CATTTAAACAGATCACAAAATC
+BS  ATATGCGCGAAATCAAACAATT
+BS  ATGTGACAGATAAAACGTTTTA
+BS  TCATGAAACTGTGCACATTTTA
+BS  TTGGGCGACAGATCACGCAAAA
+BS  ATGTGCGCATCTCCACATTACC
+BS  CCGTGAAAGCGATCACAAAGGG
+BS  TTGTGGATAAAATCACGGTCTG
+BS  CTCTGAGATGGATCAAAGAATT
+BS  AATTGACCGATGCCACGTTTTG
+BS  GCAGGATTTAGCTCACACTTAT
+BS  ATGCGGTGAGCATCACATCACC
+BS  GCTTGAGCCGCAGCACAATGTG
+BS  ATGTTAATTTCCTCACATCGTG
+BS  TATTGATTTAAATCAAAGATTC
+BS  CTGTGCTGCGCATAATACTTTG
+BS  GTGAGGCATAAATCACATTACG
+BS  ATATGATCTATATCAATTTCTC
+BS  TCAGGCGTTAAATCACGTTTTC
+BS  CTGTTGATATGATCACGTTATA
+BS  TATTGATCTAACTCACGAAAAT
+BS  ATGTGAAATAAAACAATTATTT
+BS  CTTAGAAACCGATCACATACAG
+BS  TAGTGCTCAGCGACACTATTTT
+BS  TTGTGAGGTAGATAAGAAAAAA
+BS  TTACAAAATTGTTAACAATTTT
+BS  TTCTAATAGCCATCACAAAACG
+BS  TAATGAAAAGGATGACATATTC
+BS  AATCGATTGCGTTCACGTTTAC
+BS  TTCATCTCTATGTCACATTTTG
+BS  ACTTGCGTGACTACACATTCTT
+BS  AATTGAACCAAATCATAAAATC
+BS  GAGTGATTTACATCTAAAAATG
+BS  TACGGATCTTCATCACATAAAA
+BS  CAACGCTTTGGCTCACAGTTTA
+BS  CTGTGCGCGCAACGACATTTTG
+BS  ATGTGATATTGCTCTCCTATGG
+BS  AACCTCTTTGCGTCACATTTTT
+BS  TTGTGCGCTTTGTCGAATTTGT
+BS  ACAGGAAGCACATCACAAAGAC
+BS  ATTTGCCACAGGTAACAAAAAA
+BS  GTGCAGGCTTGATCACAACTCC
+BS  ACGTTAACTGAAACGCATATTT
+BS  ATTGAACCCCGATCACACCATA
+BS  TATTGATGTAAATCAAATTCAC
+BS  CTGTGATAGTGTCATCATTTTC
+BS  TGGTGCGCATGATAACGCCTTT
+BS  ACAAAACATATGTCACAATATT
+BS  TTGTTACCTGCCTCTAACTTTG
+BS  CTGTGACAAGCTCCGCAAATCG
+BS  CTTCGTAACGCCTCGCAAATTT
+BS  ATAATAATCTAATCACATCTTG
+BS  ACGTTATATATGTCAAGTTGTT
+BS  CTGGGATGAAAGTGACATTTGA
+BS  CAGTTATTTTTAACAAATTTTT
+BS  GCTTAATTTAAATAACAAAATC
+BS  TTTTGTAACAATTCAAACTTCT
+BS  ATGCAAAATCAAAAACAATTTC
+BS  CCATGAAACGGAACACGAAAAT
+BS  ATTAGTAAGTTATCACCATTTG
+BS  TGACGCATGAAATCACGTTTCA
+BS  CCGACGAATAGATCACAATTTA
+BS  TTTTACTTTTGGTTACATATTT
+BS  CTGGAACGCTTTTCGCATTCTG
+BS  ATTGTGAGCGGATAACAATTTC
+BS  ACGCGCACTATGTCAACTCTTG
+BS  AAGTTCGATATTTCTCGTTTTT
+BS  TTGTAAACAGATTAACACCTCG
+BS  TGTTGCTGACCTTCAAAAATTA
+BS  GTGTTAAACATGTAACTAAATG
+BS  AATCGATTTAACACACCATTTA
+BS  GCATGACCCAGGTCGCCTTCCG
+BS  TCTTTATCTTTGTAGCACTTTC
+BS  CCTCGGTTTAGTTCACAGAAGC
+BS  AGGTGAATCGCGCCAGCAAATT
+BS  CTGGGAGCAGGCTCGATTTATG
+BS  GTTAAATTGATGTAACATAATC
+BS  ACCCGCTTTAAAACACGCTATC
+BS  TGTTACAGCACGTAACATAGTT
+BS  TTGTCATCTTTCTGACACCTTA
+BS  ATGTAAATTGGTCAACCATTGT
+BS  ATCTGGGTAGCATCACAGCAGA
+BS  TTGAGTCATAAATAACCTTTAG
+BS  CTGTGCAATTTTTCATTGATTG
+BS  CGGGTATTAGCACCACATATAA
+BS  ATCTTGAAATAATCACATTGAT
+BS  CCCCATGGCAGATGACATTTTT
+BS  TTTGGGTTGTTATCAAATCGTT
+BS  CTGCATATTAATTGACATTTCT
+BS  TGTAAATCTGCATCGGAATTTG
+BS  GAATGCTAATCATCAGAAATGT
+BS  AAAATATCCTTGTCACATTCGT
+BS  ATTTAATCATGTTTACAGTAAT
+BS  TTGTGATGGTGGTATGAAAAAA
+BS  ATTTGTGCATAGTTACAACTTT
+BS  ACACTATGAGCAAAACACATTT
+BS  TATTTAACGCCGTCAGAAATGT
+BS  TTGGGAAGGGGTTCACTGGCTT
+BS  AAGGTGACTATACCACACTCAT
+BS  CTGCAACCATCTACAAATAACC
+BS  CTCGTGTTTAAATAACAAAATC
+BS  TTAGCAAATACCTCACAGTGAA
+BS  ATTTAATGAAGAGAATTTTTTT
+BS  CGGGTAATAACAACACTCATAT
+BS  ACATGATAAATTTGACGAAGAA
+BS  CAGCGTGAATTTTCAGGAAATG
+BS  ACAGGCACCTGATAAAGCCATT
+BS  CTGCGTGAAGCAGCAGTAAATC
+BS  GGCAAGTGGTATTCGCACTTTT
+BS  GTACGTTTGCAGTGAAATAACT
+BS  TTACAAGTGTGAACTCCGTCAG
+CC  program: tab
+CC  matrix.nb: 13
+CC  consensus.strict: atgtGAtctagaTCACAttttt
+CC  consensus.strict.rc: AAAAATGTGATCTAGATCACAT
+CC  consensus.IUPAC: wtgtGAwyyasaTCACAwwwtt
+CC  consensus.IUPAC.rc: AAWWWTGTGATSTRRWTCACAW
+CC  consensus.regexp: [at]tgtGA[at][ct][ct]a[cg]aTCACA[at][at][at]tt
+CC  consensus.regexp.rc: AA[AT][AT][AT]TGTGAT[CG]T[AG][AG][AT]TCACA[AT]
+XX
+//
+AC  ECK120013342
+XX
+ID  CsgD
+XX
+DE  mgrrtrarhtA
+PO       A     C     G     T
+1        6    10     1     4
+2        5     4     8     4
+3       12     0     9     0
+4        9     0    12     0
+5        3     2     3    13
+6        7     0    14     0
+7       13     1     3     4
+8        8     2    10     1
+9        6     6     0     9
+10       2     4     2    13
+11      21     0     0     0
+XX
+BS  CGGGTGATCGA
+BS  CGGGTGAGCTA
+BS  CGGGTGAGCCA
+BS  CGAATGAATGA
+BS  GCGATGAGATA
+BS  AGAGCGGCTTA
+BS  TGGAGATGATA
+BS  TGGGTAAAATA
+BS  CTAATGGATTA
+BS  CAAATGTACAA
+BS  TTAGTAAGTTA
+BS  CCAAAGTATTA
+BS  AAAGAAAAATA
+BS  CGGGTGAGTTA
+BS  TTAATAACTCA
+BS  CCAGTAAGTCA
+BS  CAAAGGCGCTA
+BS  ACAGGGAGTAA
+BS  ATGGCAAAATA
+BS  AAAGTGGAATA
+BS  AAGAAGTGCCA
+CC  program: tab
+CC  matrix.nb: 14
+CC  consensus.strict: cgagtgagttA
+CC  consensus.strict.rc: TAACTCACTCG
+CC  consensus.IUPAC: mgrrtrarhtA
+CC  consensus.IUPAC.rc: TADYTYAYYCK
+CC  consensus.regexp: [ac]g[ag][ag]t[ag]a[ag][act]tA
+CC  consensus.regexp.rc: TA[AGT][CT]T[CT]A[CT][CT]C[GT]
+XX
+//
+AC  ECK120011312
+XX
+ID  CysB
+XX
+DE  wtaTTatTmsmwttkayhwkTCrttmtcmmtwwwykr
+PO       A     C     G     T
+1        3     1     1     5
+2        0     2     2     6
+3        6     2     2     0
+4        2     0     0     8
+5        2     0     0     8
+6        7     1     0     2
+7        1     1     2     6
+8        0     2     0     8
+9        3     4     1     2
+10       2     4     3     1
+11       7     3     0     0
+12       3     0     0     7
+13       2     2     0     6
+14       1     0     2     7
+15       2     0     3     5
+16       4     2     2     2
+17       1     4     0     5
+18       3     3     0     4
+19       4     1     0     5
+20       2     0     4     4
+21       0     0     0    10
+22       1     9     0     0
+23       4     2     3     1
+24       2     2     0     6
+25       1     2     0     7
+26       7     3     0     0
+27       0     1     2     7
+28       0     7     1     2
+29       3     3     2     2
+30       3     6     1     0
+31       2     2     2     4
+32       3     2     2     3
+33       3     2     0     5
+34       3     2     2     3
+35       2     3     0     5
+36       2     1     4     3
+37       3     0     5     2
+XX
+BS  TTATTACTTCATTATTTCTATCAATATCAATACATAT
+BS  GTAATTGCATATTTAATCTTTCCTTAGCCGTTTTTTT
+BS  ACATTCATTAAAAGAATTAGTCGTTATCGCACAGATG
+BS  TTATATTTGGAATTTTCTTGTCTCTCCGACAGACTGA
+BS  TTATTATTAAATCGTATTAGTCACCCGCCAGGTGTGA
+BS  AGATAATCCCCAATGACCTTTCATCCTCTATTCTTAA
+BS  CCCTTATTCCATCTTGCATGTCATTATTTCCCTTCTG
+BS  TTCTTATTCCCTTTTCAACTTCCAAATCACCAAACGG
+BS  TTGATATTAGCTTTGCCAAATCGTTATTCCGTTAAGG
+BS  AGGTTAGTCGATTTGGTTATTAGTTATCGCTATCCCG
+CC  program: tab
+CC  matrix.nb: 15
+CC  consensus.strict: ttaTTatTccattttatttgTCattatcactatatgg
+CC  consensus.strict.rc: CCATATAGTGATAATGACAAATAAAATGGAATAATAA
+CC  consensus.IUPAC: wtaTTatTmsmwttkayhwkTCrttmtcmmtwwwykr
+CC  consensus.IUPAC.rc: YMRWWWAKKGAKAAYGAMWDRTMAAWKSKAATAATAW
+CC  consensus.regexp: [at]taTTatT[ac][cg][ac][at]tt[gt]a[ct][act][at][gt]TC[ag]tt[ac]tc[ac][ac]t[at][at][at][ct][gt][ag]
+CC  consensus.regexp.rc: [CT][AC][AG][AT][AT][AT]A[GT][GT]GA[GT]AA[CT]GA[AC][AT][AGT][AG]T[AC]AA[AT][GT][CG][GT]AATAATA[AT]
+XX
+//
+AC  ECK120012407
+XX
+ID  CytR
+XX
+DE  whwdKtwTGCAAwbkdtt
+PO       A     C     G     T
+1        7     0     3     7
+2        5     5     1     6
+3        8     2     2     5
+4        5     1     5     6
+5        0     0     5    12
+6        2     4     2     9
+7        7     1     4     5
+8        2     3     0    12
+9        0     0    17     0
+10       2    12     0     3
+11      16     0     1     0
+12      15     0     0     2
+13       6     4     0     7
+14       0     6     5     6
+15       3     3     5     6
+16       6     0     6     5
+17       0     2     4    11
+18       3     0     3    11
+XX
+BS  TTTTGTGAGCAATGATTT
+BS  TCGATTACGTAAATGATA
+BS  TGCGTCGCGCATTTTTGA
+BS  TTAATTATGCAACGCGTG
+BS  TTCGTTTTGCAAATTGGG
+BS  GAATGTTTGCAATTATTT
+BS  GCAATTTAGCAACCGATT
+BS  GTTTTATTGCAATCGGTT
+BS  ACAAGCTTGCATTGAACT
+BS  TTTTGTGCGTAATTTATT
+BS  AAAGTGATGCAAATCACA
+BS  AAATTTATGCAACGCATT
+BS  TAGCGCGTGAAAACGGTT
+BS  AAAATTCTGTAACCGTTT
+BS  ATTTTCATGAAAAGTGTG
+BS  ACTGTAATGCGATCTGGT
+BS  ACAGTGATGCAAACTTGT
+CC  program: tab
+CC  matrix.nb: 16
+CC  consensus.strict: atatTtaTGCAAtctatt
+CC  consensus.strict.rc: AATAGATTGCATAAATAT
+CC  consensus.IUPAC: whwdKtwTGCAAwbkdtt
+CC  consensus.IUPAC.rc: AAHMVWTTGCAWAMHWDW
+CC  consensus.regexp: [at][act][at][agt][GT]t[at]TGCAA[at][cgt][gt][agt]tt
+CC  consensus.regexp.rc: AA[ACT][AC][ACG][AT]TTGCA[AT]A[AC][ACT][AT][AGT][AT]
+XX
+//
+AC  ECK120051451
+XX
+ID  Dan
+XX
+DE  GTTaATT
+PO       A     C     G     T
+1        1     0     4     0
+2        0     0     0     5
+3        0     0     1     4
+4        2     1     1     1
+5        5     0     0     0
+6        0     0     0     5
+7        0     0     0     5
+XX
+BS  GTTAATT
+BS  GTGTATT
+BS  ATTCATT
+BS  GTTGATT
+BS  GTTAATT
+CC  program: tab
+CC  matrix.nb: 17
+CC  consensus.strict: GTTaATT
+CC  consensus.strict.rc: AATTAAC
+CC  consensus.IUPAC: GTTaATT
+CC  consensus.IUPAC.rc: AATTAAC
+CC  consensus.regexp: GTTaATT
+CC  consensus.regexp.rc: AATTAAC
+XX
+//
+AC  ECK120034977
+XX
+ID  DcuR
+XX
+DE  TkwwTTwAaTTwykwwA
+PO       A     C     G     T
+1        0     0     0     6
+2        0     0     2     4
+3        3     0     1     2
+4        3     0     0     3
+5        0     0     0     6
+6        1     0     0     5
+7        2     0     0     4
+8        6     0     0     0
+9        4     1     1     0
+10       0     0     1     5
+11       0     0     1     5
+12       2     0     0     4
+13       1     2     0     3
+14       1     0     2     3
+15       3     0     0     3
+16       4     0     0     2
+17       6     0     0     0
+XX
+BS  TTAATTTAATTACTAAA
+BS  TGTTTTTAATTTCAAAA
+BS  TGATTTTAAGTTTTTTA
+BS  TTAATTAACTTTTGTTA
+BS  TTTTTAAAGTTTTGTAA
+BS  TTGATTTAATGAATAAA
+CC  program: tab
+CC  matrix.nb: 18
+CC  consensus.strict: TtaaTTtAaTTtttaaA
+CC  consensus.strict.rc: TTTAAAAATTAAATTAA
+CC  consensus.IUPAC: TkwwTTwAaTTwykwwA
+CC  consensus.IUPAC.rc: TWWMRWAATTWAAWWMA
+CC  consensus.regexp: T[gt][at][at]TT[at]AaTT[at][ct][gt][at][at]A
+CC  consensus.regexp.rc: T[AT][AT][AC][AG][AT]AATT[AT]AA[AT][AT][AC]A
+XX
+//
+AC  ECK120012664
+XX
+ID  DeoR
+XX
+DE  TkCthACAkmw
+PO       A     C     G     T
+1        0     0     0     7
+2        1     0     2     4
+3        0     6     0     1
+4        1     1     0     5
+5        2     3     0     2
+6        6     1     0     0
+7        0     7     0     0
+8        7     0     0     0
+9        1     1     3     2
+10       2     4     0     1
+11       4     0     1     2
+XX
+BS  TTCACACAGCA
+BS  TGCTTACATCA
+BS  TTCTAACATCT
+BS  TTCTAACACAA
+BS  TACCCACAGCT
+BS  TTTTCACAAAA
+BS  TGCTTCCAGTG
+CC  program: tab
+CC  matrix.nb: 19
+CC  consensus.strict: TtCtcACAgca
+CC  consensus.strict.rc: TGCTGTGAGAA
+CC  consensus.IUPAC: TkCthACAkmw
+CC  consensus.IUPAC.rc: WKMTGTDAGMA
+CC  consensus.regexp: T[gt]Ct[act]ACA[gt][ac][at]
+CC  consensus.regexp.rc: [AT][GT][AC]TGT[AGT]AG[AC]A
+XX
+//
+AC  ECK120011240
+XX
+ID  DgsA
+XX
+DE  TTwTTTTrvwbykCGwAAwwAwT
+PO       A     C     G     T
+1        1     0     0     6
+2        0     0     0     7
+3        5     0     0     2
+4        0     0     0     7
+5        0     0     0     7
+6        0     0     0     7
+7        0     1     0     6
+8        4     0     3     0
+9        2     3     2     0
+10       3     1     1     2
+11       0     2     3     2
+12       1     3     0     3
+13       0     0     3     4
+14       0     6     0     1
+15       0     0     7     0
+16       4     0     0     3
+17       7     0     0     0
+18       7     0     0     0
+19       2     0     0     5
+20       2     0     0     5
+21       6     0     0     1
+22       4     1     0     2
+23       1     0     0     6
+XX
+BS  TTTTTTTAAAGCTCGTAATTAAT
+BS  TTATTTTACTCTGTGTAATAAAT
+BS  TTATTTCGGAGCGCGAAAATATA
+BS  ATATTTTACCTTTCGAAATTTCT
+BS  TTATTTTAGATATCGAAAAAATT
+BS  TTATTTTGATGCGCGAAATTAAT
+BS  TTTTTTTGCGCTTCGTAATTAAT
+CC  program: tab
+CC  matrix.nb: 20
+CC  consensus.strict: TTaTTTTacagctCGaAAttAaT
+CC  consensus.strict.rc: ATTAATTTCGAGCTGTAAAATAA
+CC  consensus.IUPAC: TTwTTTTrvwbykCGwAAwwAwT
+CC  consensus.IUPAC.rc: AWTWWTTWCGMRVWBYAAAAWAA
+CC  consensus.regexp: TT[at]TTTT[ag][acg][at][cgt][ct][gt]CG[at]AA[at][at]A[at]T
+CC  consensus.regexp.rc: A[AT]T[AT][AT]TT[AT]CG[AC][AG][ACG][AT][CGT][CT]AAAA[AT]AA
+XX
+//
+AC  ECK120011903
+XX
+ID  DnaA
+XX
+DE  AkTTATCCACA
+PO       A     C     G     T
+1        8     1     0     2
+2        2     1     4     4
+3        2     0     0     9
+4        0     0     0    11
+5       10     0     0     1
+6        1     0     0    10
+7        0     8     1     2
+8        1    10     0     0
+9       10     0     0     1
+10       0    11     0     0
+11      10     0     0     1
+XX
+BS  AGTTATCCACA
+BS  AGTTATCCACA
+BS  AGTTATCCACA
+BS  ATTTATCCACA
+BS  TTTTATCCACA
+BS  ATTTATTCACA
+BS  CTTTATCCACA
+BS  AAATATCCACA
+BS  AGTTATGCACT
+BS  TCATTTTCACA
+BS  AATTAACATCA
+CC  program: tab
+CC  matrix.nb: 21
+CC  consensus.strict: AgTTATCCACA
+CC  consensus.strict.rc: TGTGGATAACT
+CC  consensus.IUPAC: AkTTATCCACA
+CC  consensus.IUPAC.rc: TGTGGATAAMT
+CC  consensus.regexp: A[gt]TTATCCACA
+CC  consensus.regexp.rc: TGTGGATAA[AC]T
+XX
+//
+AC  ECK120011575
+XX
+ID  EvgA
+XX
+DE  TkCyTACamcTGTArGA
+PO       A     C     G     T
+1        1     0     0     6
+2        1     0     2     4
+3        1     6     0     0
+4        0     5     0     2
+5        0     0     0     7
+6        7     0     0     0
+7        0     7     0     0
+8        5     0     1     1
+9        3     2     1     1
+10       1     5     0     1
+11       0     0     0     7
+12       0     0     7     0
+13       0     0     0     7
+14       7     0     0     0
+15       5     0     2     0
+16       0     0     7     0
+17       7     0     0     0
+XX
+BS  TGCCTACAGCTGTAAGA
+BS  TTCTTACAACTGTAAGA
+BS  TTCCTACAATTGTAAGA
+BS  AGCCTACACCTGTAAGA
+BS  TTCTTACGCCTGTAGGA
+BS  TAACTACAACTGTAAGA
+BS  TTCCTACTTATGTAGGA
+CC  program: tab
+CC  matrix.nb: 22
+CC  consensus.strict: TtCcTACaacTGTAaGA
+CC  consensus.strict.rc: TCTTACAGTTGTAGGAA
+CC  consensus.IUPAC: TkCyTACamcTGTArGA
+CC  consensus.IUPAC.rc: TCYTACAGKTGTARGMA
+CC  consensus.regexp: T[gt]C[ct]TACa[ac]cTGTA[ag]GA
+CC  consensus.regexp.rc: TC[CT]TACAG[GT]TGTA[AG]G[AC]A
+XX
+//
+AC  ECK120012141
+XX
+ID  ExuR
+XX
+DE  AAAgTgGTwdAmCAmaT
+PO       A     C     G     T
+1        6     0     0     0
+2        5     1     0     0
+3        5     1     0     0
+4        1     0     4     1
+5        0     0     0     6
+6        1     0     4     1
+7        0     0     6     0
+8        0     0     0     6
+9        3     0     0     3
+10       2     0     2     2
+11       5     0     1     0
+12       4     2     0     0
+13       1     5     0     0
+14       6     0     0     0
+15       4     2     0     0
+16       4     0     1     1
+17       0     0     0     6
+XX
+BS  AAAGTGGTATAACAAAT
+BS  AAAGTGGTAGAACACAT
+BS  AAATTGGTTAACCACAT
+BS  AAAGTTGTATGACAAGT
+BS  ACAATGGTTGACCAATT
+BS  AACGTAGTTAAAAAAAT
+CC  program: tab
+CC  matrix.nb: 23
+CC  consensus.strict: AAAgTgGTaaAaCAaaT
+CC  consensus.strict.rc: ATTTGTTTTACCACTTT
+CC  consensus.IUPAC: AAAgTgGTwdAmCAmaT
+CC  consensus.IUPAC.rc: ATKTGKTHWACCACTTT
+CC  consensus.regexp: AAAgTgGT[at][agt]A[ac]CA[ac]aT
+CC  consensus.regexp.rc: AT[GT]TG[GT]T[ACT][AT]ACCACTTT
+XX
+//
+AC  ECK120011824
+XX
+ID  FadR
+XX
+DE  AgCTGGTCyGAyswsT
+PO       A     C     G     T
+1       10     1     3     0
+2        3     1     7     3
+3        1    11     2     0
+4        3     0     0    11
+5        0     0    14     0
+6        3     0    10     1
+7        0     1     0    13
+8        3    11     0     0
+9        2     4     3     5
+10       0     0    13     1
+11      12     1     0     1
+12       1     8     0     5
+13       1     6     4     3
+14       7     0     0     7
+15       1     6     6     1
+16       1     0     1    12
+XX
+BS  AGCTGGTCCGACCTAT
+BS  AGCTGGTATGATGAGT
+BS  AGGAGGTCTGACCACT
+BS  ATCAGGTCAGACCACT
+BS  GGCTGATCGGACTTGT
+BS  AACTGATCCGATGAGT
+BS  AACTGATCGGACTTGT
+BS  ATGTGGTCGGATGAGT
+BS  CACTGGTCTGATTTCT
+BS  ATCTGGTACGACCAGA
+BS  GGCTGGTCCGCTGTTT
+BS  ACCAGTTATGACCTCT
+BS  GGATGGTCTTAACACT
+BS  AGCTGGCCAGTCATCG
+CC  program: tab
+CC  matrix.nb: 24
+CC  consensus.strict: AgCTGGTCtGAccacT
+CC  consensus.strict.rc: AGTGGTCAGACCAGCT
+CC  consensus.IUPAC: AgCTGGTCyGAyswsT
+CC  consensus.IUPAC.rc: ASWSRTCRGACCAGCT
+CC  consensus.regexp: AgCTGGTC[ct]GA[ct][cg][at][cg]T
+CC  consensus.regexp.rc: A[CG][AT][CG][AG]TC[AG]GACCAGCT
+XX
+//
+AC  ECK120011394
+XX
+ID  FhlA
+XX
+DE  ygkCrAmAmkGmcr
+PO       A     C     G     T
+1        0     5     0     2
+2        0     1     5     1
+3        0     0     2     5
+4        0     7     0     0
+5        2     0     5     0
+6        6     0     0     1
+7        4     2     1     0
+8        7     0     0     0
+9        2     4     0     1
+10       1     0     3     3
+11       1     0     6     0
+12       3     3     1     0
+13       1     4     1     1
+14       4     1     2     0
+XX
+BS  CGTCGACACGGCGA
+BS  CGTCAAAACTGACG
+BS  TGTCGAAAATGACA
+BS  CGTCAAAAATGACA
+BS  CTGCGACACGGGTG
+BS  CCGCGTGACAGCCA
+BS  TGTCGAAATGACAC
+CC  program: tab
+CC  matrix.nb: 25
+CC  consensus.strict: cgtCgAaAcgGaca
+CC  consensus.strict.rc: TGTCCGTTTCGACG
+CC  consensus.IUPAC: ygkCrAmAmkGmcr
+CC  consensus.IUPAC.rc: YGKCMKTKTYGMCR
+CC  consensus.regexp: [ct]g[gt]C[ag]A[ac]A[ac][gt]G[ac]c[ag]
+CC  consensus.regexp.rc: [CT]G[GT]C[AC][GT]T[GT]T[CT]G[AC]C[AG]
+XX
+//
+AC  ECK120011186
+XX
+ID  Fis
+XX
+DE  GctyawwTtwtvadC
+PO       A     C     G     T
+1        0    10   166    35
+2       46    61    52    52
+3       49    51    36    75
+4       31    61    38    81
+5      133    15    48    15
+6       81    22    16    92
+7       61    16    18   116
+8        0     5     5   201
+9       46    25    27   113
+10      63    18    15   115
+11      29    47    11   124
+12      71    64    59    17
+13      92    40    41    38
+14      54    48    55    54
+15      13   178     3    17
+XX
+BS  GCTCGTTTTTATTTC
+BS  GATGATCTTTTTGTC
+BS  GCATGTTTTACAGGC
+BS  TAACAATTTTTAAAC
+BS  GTTTAAATTTTGACT
+BS  TAACGATTCAGCCAC
+BS  GACGAGGTGTTAATC
+BS  GCGTACGGGTAAACC
+BS  GGCTATTTAACACCC
+BS  GCCGGTTTTTGCTGC
+BS  GCTCATCTTTTAATC
+BS  GGCGATTTTTGCAGC
+BS  GGCTACTTTTGCATC
+BS  GATTATATTCTATCC
+BS  GAGGAAGTTCTGACT
+BS  GCAAAATGAACCGTC
+BS  TGCAAAATAGTGACC
+BS  TCTCAATTGATCGAC
+BS  GTTCACTTGTTCAGC
+BS  CAGTCACTTTCGAGC
+BS  GTGCGAATCATAAGC
+BS  GATTAAGTATAGCAC
+BS  GGCTATGTGTTCCGC
+BS  GAGTAATTATTGTTC
+BS  GGTAGATTTTCACTC
+BS  GCCTATATAGCGAAC
+BS  GTGGATTTTTTATTT
+BS  GGGCGTATTATGTGC
+BS  GGCTGTTTTTCAGGC
+BS  GTGAAACTTTTGCAC
+BS  GTTTATTCAAACTTC
+BS  GTAAAGTTCACCGCC
+BS  GGTTATTCACCGCCC
+BS  GTCAAAATGTGCAAC
+BS  TGAATTATTTTACTC
+BS  CTTTATTTATTACAC
+BS  GCTCAAATAATAAAC
+BS  GCCTATCTTTTCAGC
+BS  GCTATGTTAATAACC
+BS  TAATAGTTGTAAAAC
+BS  TGATAAATATCAAAC
+BS  TTCTATTTTTTAGCC
+BS  GCTGATTTTTCGTTC
+BS  TATCGTTTGATTTAC
+BS  GGATAATTAACAGCC
+BS  CTTTATTTTTCATCC
+BS  GTAATTTTCATCCGT
+BS  GCAAAAATAACTGGT
+BS  GAACGATTATTCTTT
+BS  GTAGTAATCTCAAAC
+BS  GGCTCTATTATTACC
+BS  TTCTTTATTTTGTGC
+BS  GCGTCTTTTCTGGCT
+BS  GGAAGTTTTAACCTC
+BS  GTTGTGTTTACGAGA
+BS  GTTCTACTTTTCATC
+BS  TAGCATGTTTTGCAC
+BS  TAACGAATGATAGCA
+BS  CCTTATTTATGGCTA
+BS  GGTATATTTGTCTGC
+BS  GAGCGCCTTACTGGC
+BS  CGCAACTTTATTAGC
+BS  TCGGATTTTATCAGG
+BS  GCCAGATTGACGAAA
+BS  GGTCGAATGTCAAGC
+BS  TAGCGCCTGTAGGCC
+BS  CCTGAATTTTCGTGA
+BS  GCGGATATCAACCCC
+BS  GTCCATATCGGTAAC
+BS  GGAAGGTTTATCAAC
+BS  GGGTACTTACTATTC
+BS  CCAGAATTTTTCGTC
+BS  TCACATTTTTACAAC
+BS  TGCTTCTTATCCATT
+BS  GCTTACTTTATCGAT
+BS  TCGTGTTTAAATAAC
+BS  GAAAAAATATTATTC
+BS  GTTCAAGTTTTGTTC
+BS  TATTATTTGTACCTC
+BS  GATAAATTTGTAACA
+BS  GCATGATTAACCACC
+BS  GTTTTATTAATAAAT
+BS  GATTGTTTTCCTCGC
+BS  GAGAGTTTTTTGACC
+BS  GTTCATATTCCGTCC
+BS  GGCGCTTTTTCAAGC
+BS  TGACGTTTTAACCAC
+BS  TGGTATTTAAAATGC
+BS  GTTACTTTTTAGCAC
+BS  GATTAATTATAAATC
+BS  GTATAGGTTTACCTC
+BS  GGTTGTTTTCTATTC
+BS  GTATCAGTTGTGGTC
+BS  GATGGCTTATTAATC
+BS  GGCGATTTCTTGAAC
+BS  TAACAAATTTTTCTC
+BS  GTCTTATTTATGATT
+BS  GAATGTTTTCTTAAC
+BS  TTGTAAATCTTATTT
+BS  TTTCGAATTATGAGC
+BS  GGCTAAATGGTAAAA
+BS  GCTGCGTTTTTGTTA
+BS  GCACAAATAATCGCC
+BS  GTTCATTTTTCAACC
+BS  GCATAAATGGCGAGG
+BS  GCCTGATTTTTCAGC
+BS  GCGCAATTTGTCAAC
+BS  GTCTGTTTTGCGATC
+BS  GCTTAAATTTACGAC
+BS  GTCGAGATATTGCCC
+BS  CAATATTTATTAACC
+BS  GGCATTATACAGAGC
+BS  GTGTATATATACTCC
+BS  GGTAAAATTTCACAC
+BS  GCTCATTTTTTAGAC
+BS  GCTCACTTTTCAGGC
+BS  GACTATATTTAAGAT
+BS  GTCTAACTTATAGAC
+BS  GAGCAAATTTCGGCC
+BS  GGCGAATTAATCAGC
+BS  GAATATATTTTGGAG
+BS  GAAGAATTAAACGGC
+BS  GCACAATCTATCATC
+BS  GAACAGTTATTAAGC
+BS  GTCTATCTCTTTAGC
+BS  GACCATTTTTTTTCC
+BS  GTTCATCTTTCATTC
+BS  GTTGTTATTTTGCAC
+BS  GACTGTCTGGTCAGC
+BS  TTGCGCATTCCAATC
+BS  GCGGAATGCTTCGTC
+BS  GATGCGGTCTTCAGC
+BS  GCAGATTTTACGTCC
+BS  GCTTGTCTGATAAAC
+BS  GATCAATTAAGCAAC
+BS  GATCGCATTATAAGC
+BS  GTTTGGGTGTTCACC
+BS  GCGTAAATAATCGGC
+BS  GTGTAAATTTTAGTC
+BS  GAGTAATTATCGCAC
+BS  GCTCATTTTAAATGC
+BS  GGTCAAAGTTTGGCC
+BS  GGTCATTTCTTAACT
+BS  TGTTGTTTTTTCACC
+BS  GCTGCAATCGCACAC
+BS  GCAAGTCTTTTAGTA
+BS  GGGGCATTATTGGCC
+BS  CAATAAATGATTTAC
+BS  GTACGCGTACTAACC
+BS  GCATACATGCAGTAC
+BS  GGTAATGTGACGTCC
+BS  GTACAGTTGATAGCC
+BS  GTCTATTTTTTGCAC
+BS  GTATAAATTTTCTTA
+BS  GCTCATTTTTGCCTC
+BS  GTAGGATTTATCCGC
+BS  GTTTATATTATAAAA
+BS  GATAATATTAAAAAC
+BS  GGCGATTTTTATTAC
+BS  GCTGACTTTCTCGCC
+BS  TCTTGATTTATGACC
+BS  TAATAAGTAACAATC
+BS  GGCGAAATCTTCGCC
+BS  TAACAGCTTTACGAC
+BS  GGCAAATTGTTAGCC
+BS  GTGGAAATGATGATT
+BS  GGCGATTTATCGCGC
+BS  GAACACGTTATAGAC
+BS  GCGTCGCTTTTAAGC
+BS  TGCTATTTTCTCTGC
+BS  GGTCATATTTTTATC
+BS  TGCCGTTTTTGCAAC
+BS  GCTTGTTTTATGGCA
+BS  GCGCATTTTTTCAGC
+BS  GGTTACGGTTTGTGC
+BS  GCATATTTTTAACAC
+BS  GCGAAATTCGCCACC
+BS  GCCCATTTAACCGAC
+BS  GCTTATTTCAGCGTC
+BS  GCGCATTTTTTATTC
+BS  GGCGTTATCATGCGC
+BS  GATGAATTCCTATTT
+BS  GAACAATTATTGCCC
+BS  GCCAGTTTTTCGAGC
+BS  GGTTGAATGTTGCGC
+BS  GCACACTTTTTCAAC
+BS  GGCTGTTTCTTCATC
+BS  GGTCACATTTTATGC
+BS  GCTCATTTCGCGACC
+BS  GTCCCATTCTTGCTC
+BS  TCGCGTTCTTCGCAC
+BS  GTATAATTTTTCAGC
+BS  GTCAAAATTGTGATC
+BS  TTCTGTATTTTGCCC
+BS  CACAGAGTTATCCAC
+BS  TATACCTTTTTACGC
+BS  GCTGCATTCCCCAGC
+BS  GTTTTTATTTTCATA
+BS  GGCGATTTTATGTGC
+BS  GCCCAAATACTAAAC
+BS  GTGCAAATAAACGGC
+BS  GGTTATTTGTTACAC
+BS  GGGCAGTTAATGACC
+BS  GTACATTCCTTAACC
+BS  GCCGCAATCTTAAGC
+BS  TCTTATGTTTTACTT
+BS  GTCTGCTTTTTAATC
+BS  GCTGAAATTTTCAGC
+BS  GGACATTTTTCCAGC
+BS  TGTTAAATATAGATC
+BS  GGTAGAATGACAATC
+CC  program: tab
+CC  matrix.nb: 26
+CC  consensus.strict: GcttattTtttaagC
+CC  consensus.strict.rc: GCTTAAAAAATAAGC
+CC  consensus.IUPAC: GctyawwTtwtvadC
+CC  consensus.IUPAC.rc: GHTBAWAAWWTRAGC
+CC  consensus.regexp: Gct[ct]a[at][at]Tt[at]t[acg]a[agt]C
+CC  consensus.regexp.rc: G[ACT]T[CGT]A[AT]AA[AT][AT]T[AG]AGC
+XX
+//
+AC  ECK120011332
+XX
+ID  FlhDC
+XX
+DE  sytwwTTmsgsCswTw
+PO       A     C     G     T
+1        0     4    11     1
+2        1     7     3     5
+3        0     2     3    11
+4        7     0     0     9
+5        6     1     0     9
+6        2     2     0    12
+7        0     1     0    15
+8        5     8     0     3
+9        2     5     6     3
+10       2     3    10     1
+11       3     5     8     0
+12       0    13     3     0
+13       1     5     8     2
+14       8     0     0     8
+15       0     1     0    15
+16       4     1     1    10
+XX
+BS  GTCTTTTCCGGCCATT
+BS  GCTATTTAGCGCCTTT
+BS  GTTTATTCCGCCGATA
+BS  CCTATTTAGACCGTTT
+BS  CCTTATTCCCGCTATT
+BS  GCTATTTATGCCGTTG
+BS  GGGATTTAGGGCTTTT
+BS  GGTTATTTGGGGGTTA
+BS  GTCTTTTCCCCGCTTT
+BS  GCTATTTCTTGCCATC
+BS  GCTACCTCTGACGTTA
+BS  GGTTTATTGGCGGATA
+BS  TTTTAATCGGACGATT
+BS  GAGTATTTCGGCGACT
+BS  CCTTACTCAAACCATT
+BS  CTGATTCAAGGCATTT
+CC  program: tab
+CC  matrix.nb: 27
+CC  consensus.strict: gctttTTcgggCgaTt
+CC  consensus.strict.rc: AATCGCCCGAAAAAGC
+CC  consensus.IUPAC: sytwwTTmsgsCswTw
+CC  consensus.IUPAC.rc: WAWSGSCSKAAWWARS
+CC  consensus.regexp: [cg][ct]t[at][at]TT[ac][cg]g[cg]C[cg][at]T[at]
+CC  consensus.regexp.rc: [AT]A[AT][CG]G[CG]C[CG][GT]AA[AT][AT]A[AG][CG]
+XX
+//
+AC  ECK120011229
+XX
+ID  FNR
+XX
+DE  tTGaTywayATCAA
+PO       A     C     G     T
+1       17     8    10    48
+2        5     8     6    64
+3       13    10    58     2
+4       47    14     8    14
+5       10     3    13    57
+6       17    28     3    35
+7       28    10    16    29
+8       48    12    11    12
+9       20    23    11    29
+10      66     0    11     6
+11       4     0     0    79
+12       0    72     5     6
+13      80     1     0     2
+14      73     8     0     2
+XX
+BS  TTGATTTACATCAA
+BS  TTGATTAACATCAA
+BS  TTGATTTAAATCAA
+BS  TTGATATATATCAA
+BS  TTGATAAATATCAA
+BS  TTGAGCTACATCAA
+BS  ATGATCTATATCAA
+BS  TTGTTTTACATCAA
+BS  TTGATCGTTATCAA
+BS  TTGATCGTTATCAA
+BS  TTGAGCCACATCAA
+BS  TTGAGATACATCAA
+BS  TTGATTCCTATCAA
+BS  TTAATTAACATCAA
+BS  ATGATAAATATCAA
+BS  ATGATAAATATCAA
+BS  TTGATATATGTCAA
+BS  GTGATCCAAATCAA
+BS  TTGCGCTAAATCAA
+BS  TTAATTAAGATCAA
+BS  TTAATCCATATCAA
+BS  TTGCGCGAAATCAA
+BS  TTGTTCGGTATCAA
+BS  ATGATTTCAATCAA
+BS  TTGTTTAACGTCAA
+BS  TTGTTCTCGATCAA
+BS  TTGAATATCATCAA
+BS  TTGAGCGAAGTCAA
+BS  ATGATGTATATCAA
+BS  GTGCTTTGCATCAA
+BS  GCGATCTAAATCAA
+BS  TTGACAAATATCAA
+BS  ATGCGCGAAATCAA
+BS  TTCCTTACCATCAA
+BS  TTGTGAGAAATCAA
+BS  ATGCGTAAGATCAA
+BS  ATGGTCGTCATCAA
+BS  AGGATTAGCATCAA
+BS  GTGAAATAAATCAA
+BS  CTGATTTTTGTCAA
+BS  CTGTTCTGGATCAA
+BS  TTGCTAAATATTAA
+BS  TAGTTATATATCAA
+BS  GTGATTGGTATCAC
+BS  TTGCTTACTATTAA
+BS  TTGATTAAAGACAA
+BS  CTGATACAGGTCAA
+BS  TGGGTTGTTATCAA
+BS  TTAATCAAAATTAA
+BS  TTGAGGTAGGTCAA
+BS  ATGCTAACTGTCAA
+BS  TTGTTTAACATCCA
+BS  TTGATCTACATCTC
+BS  CCGCTCGTTATCAA
+BS  TTGTTTTATTTCAC
+BS  GCGTTCCGCATCAA
+BS  TTGTTAAGATTCAA
+BS  TTGCTTTACATCTC
+BS  CCGGGTGAGATCAA
+BS  CTGTTTTGTATGAA
+BS  ATAATCATTTTCAA
+BS  GTAATCTGGATCAC
+BS  TGCCTCACTGTCAA
+BS  TTGCTGAACGTTAA
+BS  AAAAACCACATCAA
+BS  GCAAACCAGATCAA
+BS  TGCTGTTCGATCAA
+BS  TTAAATATCAACAA
+BS  ACGCATGAAATCAC
+BS  CAAAATAAAATCAA
+BS  TTGGCAATTATCAC
+BS  TACATAGATAACAA
+BS  TGTAGCAGGATCAA
+BS  GTAAATTCCATGAA
+BS  CTCACACCAATCAA
+BS  ACCATTGCAATTAA
+BS  ATCGATCTCGTCAA
+BS  TGCATTTATAAGAA
+BS  TAAATTTATTTGAA
+BS  TTAGTCAAAATGAT
+BS  GCTTATGTCATCAA
+BS  ATCGTCACATTCAT
+BS  ATCGTTTGATTTAC
+CC  program: tab
+CC  matrix.nb: 28
+CC  consensus.strict: tTGaTttatATCAA
+CC  consensus.strict.rc: TTGATATAAATCAA
+CC  consensus.IUPAC: tTGaTywayATCAA
+CC  consensus.IUPAC.rc: TTGATRTWRATCAA
+CC  consensus.regexp: tTGaT[ct][at]a[ct]ATCAA
+CC  consensus.regexp.rc: TTGAT[AG]T[AT][AG]ATCAA
+XX
+//
+AC  ECK120033465
+XX
+ID  Fur
+XX
+DE  AATGAkAAtgATTwtyAw
+PO       A     C     G     T
+1       44     1     2     0
+2       37     0     5     5
+3        2     5     0    40
+4        5     2    37     3
+5       38     4     2     3
+6        7     0    14    26
+7       40     1     1     5
+8       36     4     1     6
+9        4     8     7    28
+10       6     9    23     9
+11      41     1     5     0
+12       1     4     2    40
+13       8     0     0    39
+14      26     4     3    14
+15       3    10     5    29
+16       4    27     1    15
+17      33     4     5     5
+18      14     7     1    25
+XX
+BS  AATGAGAATGATTATTAT
+BS  AGTGATAATGATTATCAT
+BS  AATGAGAATTATTATCAT
+BS  AATGATAATCATTATTAA
+BS  AACGAGAATGATTATCAA
+BS  AACGAGAATGATTATTAT
+BS  AATGATAACCATTCTCAT
+BS  AATGATAATGATTGTTAA
+BS  AATGATAAAAATTATCAT
+BS  AATGAAAATGATTTCCAC
+BS  ATTGATAACGATTTTCAT
+BS  AATGAGAACGACTATCAA
+BS  ATTGATAATCATTTTCAA
+BS  AATGAGAATGGTTTCTAT
+BS  AGTGATAATGATTATCAG
+BS  AATGAGAATAATTAACAA
+BS  AATGAGAAGCATTATTGA
+BS  AATGATAACCAATATCAT
+BS  AATGTGAATTATTTCCAT
+BS  AGTGATAATGCTTATCAA
+BS  AATGAAATTAATTATCGT
+BS  AATAAGAATTATTTTCCT
+BS  ATTGATAATTGTTATCGT
+BS  AATGATAAGTGTTTTTAC
+BS  AATGATACGCATTATCTC
+BS  AATGATAATTATTTGTTA
+BS  AGTGATAATAATTTTGAT
+BS  AATGCTAATTATTTTTTA
+BS  AATTATATGCATTATCAC
+BS  AATGATTATGACTTCAAT
+BS  ATCGATAACGATAATTAA
+BS  AATGAGAAATATACGCAT
+BS  AATGATAAAGGCTTTAAT
+BS  AATGCAAACGATAACAAT
+BS  ATTGAATATGATTGCTAT
+BS  AATATTACTGATTATTTT
+BS  AATATTATTGATAACTAT
+BS  AATAAAACGCATTACCGC
+BS  AATCATTACAATTAACCT
+BS  AAACAAAATTATTCGCAC
+BS  AACTATTTGCATTTGCAA
+BS  AATACGAATGGGAATAAA
+BS  GATGATATGGATACGTCA
+BS  CACGAGGCCGATTGCCGT
+BS  AAATGGAATGACAATTTC
+BS  AGTGGTCGAAATTACCCT
+BS  GATGCATTTGAGATACAT
+CC  program: tab
+CC  matrix.nb: 29
+CC  consensus.strict: AATGAtAAtgATTatcAt
+CC  consensus.strict.rc: ATGATAATCATTATCATT
+CC  consensus.IUPAC: AATGAkAAtgATTwtyAw
+CC  consensus.IUPAC.rc: WTRAWAATCATTMTCATT
+CC  consensus.regexp: AATGA[gt]AAtgATT[at]t[ct]A[at]
+CC  consensus.regexp.rc: [AT]T[AG]A[AT]AATCATT[AC]TCATT
+XX
+//
+AC  ECK120012092
+XX
+ID  GadE
+XX
+DE  TstAwATAryAAAmaccw
+PO       A     C     G     T
+1        0     0     0     5
+2        0     2     2     1
+3        1     0     1     3
+4        5     0     0     0
+5        3     0     0     2
+6        4     0     0     1
+7        0     0     0     5
+8        5     0     0     0
+9        3     0     2     0
+10       0     2     0     3
+11       4     0     1     0
+12       5     0     0     0
+13       5     0     0     0
+14       3     2     0     0
+15       3     0     1     1
+16       1     2     1     1
+17       1     2     1     1
+18       2     0     0     3
+XX
+BS  TTTAAATAACAAAATCCT
+BS  TCGATTTAATAAAAATTT
+BS  TGTAAATAGCAAACAAAA
+BS  TCAATATAGTAAACGCCT
+BS  TGTAAATAATGAAAAGGA
+CC  program: tab
+CC  matrix.nb: 30
+CC  consensus.strict: TctAaATAatAAAaacct
+CC  consensus.strict.rc: AGGTTTTTATTATTTAGA
+CC  consensus.IUPAC: TstAwATAryAAAmaccw
+CC  consensus.IUPAC.rc: WGGTKTTTRYTATWTASA
+CC  consensus.regexp: T[cg]tA[at]ATA[ag][ct]AAA[ac]acc[at]
+CC  consensus.regexp.rc: [AT]GGT[GT]TTT[AG][CT]TAT[AT]TA[CG]A
+XX
+//
+AC  ECK120011465
+XX
+ID  GadW
+XX
+DE  mtrATwtTawyrttwtamwr
+PO       A     C     G     T
+1        6    11     0     0
+2        3     1     3    10
+3        5     1     9     2
+4       14     0     0     3
+5        0     1     0    16
+6        6     1     3     7
+7        0     2     4    11
+8        4     0     0    13
+9        9     0     4     4
+10       9     0     0     8
+11       0     7     0    10
+12       8     3     5     1
+13       3     1     2    11
+14       3     3     2     9
+15       9     1     1     6
+16       4     0     3    10
+17       9     4     0     4
+18      11     6     0     0
+19       7     0     2     8
+20       5     0     8     4
+XX
+BS  AAAATATTATTCGCGTAATA
+BS  CATATTGTATTGTTTTTCAA
+BS  CTGATTTTTACGTGATAATT
+BS  CTAATAGTGATATTTTAAGG
+BS  AGGATATAAACATCAGACAG
+BS  CTGATAGTAACGTAAACCTG
+BS  CTGATTTTGATATTTTCCAT
+BS  CTCATTGTATTGAAATAAAA
+BS  AGAATGCAGTCGATTTAATA
+BS  CCATTTCAAACATTATCATG
+BS  CTGATATTTTCCGTAGTCAG
+BS  CTTATGTTTATAAAAAAATG
+BS  CTGATCTTATTTCCAGTAAA
+BS  AGGATTTTGTTATTTAAATT
+BS  AAGTCGTTTTTCTGCTTAGG
+BS  ATAATATAAACATTTAACAT
+BS  CTGTTTTTAATATTATCATG
+CC  program: tab
+CC  matrix.nb: 31
+CC  consensus.strict: ctgATttTaatattataatg
+CC  consensus.strict.rc: CATTATAATATTAAAATCAG
+CC  consensus.IUPAC: mtrATwtTawyrttwtamwr
+CC  consensus.IUPAC.rc: YWKTAWAAYRWTAAWATYAK
+CC  consensus.regexp: [ac]t[ag]AT[at]tTa[at][ct][ag]tt[at]ta[ac][at][ag]
+CC  consensus.regexp.rc: [CT][AT][GT]TA[AT]AA[CT][AG][AT]TAA[AT]AT[CT]A[GT]
+XX
+//
+AC  ECK120011458
+XX
+ID  GadX
+XX
+DE  wAAwGtmtkATwTtwmyaw
+PO       A     C     G     T
+1       11     0     2    11
+2       17     4     0     3
+3       19     2     1     2
+4        7     1     4    12
+5        4     0    19     1
+6        0     5     3    16
+7        7    11     3     3
+8        3     1     5    15
+9        2     0    13     9
+10      17     2     3     2
+11       3     1     2    18
+12       7     1     5    11
+13       1     1     2    20
+14       4     3     2    15
+15       6     3     4    11
+16      12     6     3     3
+17       4     8     2    10
+18      13     2     5     4
+19       6     2     2    14
+XX
+BS  TAAGGTCTGATTTTTACGT
+BS  AAATATCTGATTTTGATAT
+BS  TAAAGTCTGTTTTTAATAT
+BS  ACCTGTCTGATGTTTATAT
+BS  AAAAGTAGGATTTATCGAT
+BS  AAAAGTAGGATTTATCCGC
+BS  ATATGCCTGATAGTAACGT
+BS  TATTGTATTGTTTTTCAAT
+BS  TCATGTTAAATGTTTATAT
+BS  TCATGGCTGATATTTTCCG
+BS  TAATGTTTGAAATGGCTAA
+BS  AAAAGTCGTTTTTCTGCTT
+BS  AAATGGCTGATCTTATTTC
+BS  GTATAGCTTATGTTTATAA
+BS  AATAGTGATATTTTAAGGT
+BS  AAAGGTGCGATGATTGCGT
+BS  ACAGGCTTAATTTAAATAA
+BS  TAATGCCTTGCTTCCATTG
+BS  TAACTCATTGTATTGAAAT
+BS  AAAAATATTATTCGCGTAA
+BS  TAGTATCTTAGATACCCCT
+BS  GAATGCAGTCGATTTAATA
+BS  TTCGGTGGGAAGTCATCAT
+BS  TAAAGTAAGCAAGTGCAAA
+CC  program: tab
+CC  matrix.nb: 32
+CC  consensus.strict: aAAtGtctgATtTttatat
+CC  consensus.strict.rc: ATATAAAAATCAGACATTT
+CC  consensus.IUPAC: wAAwGtmtkATwTtwmyaw
+CC  consensus.IUPAC.rc: WTRKWAAWATMAKACWTTW
+CC  consensus.regexp: [at]AA[at]Gt[ac]t[gt]AT[at]Tt[at][ac][ct]a[at]
+CC  consensus.regexp.rc: [AT]T[AG][GT][AT]AA[AT]AT[AC]A[GT]AC[AT]TT[AT]
+XX
+//
+AC  ECK120012713
+XX
+ID  GalR
+XX
+DE  GwAAmYRhTwmMAyyv
+PO       A     C     G     T
+1        1     0    11     0
+2        4     1     1     6
+3       11     1     0     0
+4       12     0     0     0
+5        5     5     2     0
+6        0     9     0     3
+7        3     0     9     0
+8        5     3     0     4
+9        1     0     0    11
+10       3     0     1     8
+11       4     6     1     1
+12       3     9     0     0
+13      11     0     1     0
+14       2     7     0     3
+15       1     3     0     8
+16       3     3     6     0
+XX
+BS  GTAAACGATTCCACTA
+BS  GTAACCGTTTCCATTG
+BS  GTAAGCGATTACACTG
+BS  GTAACCGCTACCACCG
+BS  GAAACCGATTACACCA
+BS  GTAAACGCTTACATTC
+BS  GAAACCGTTGCCACAG
+BS  GTAACCGCTTTCAATC
+BS  GCCAGCAATTACACCG
+BS  GAAAATATTACAAATC
+BS  AGAAATGTAACAACTG
+BS  GAAAATAATTGAGTTA
+CC  program: tab
+CC  matrix.nb: 33
+CC  consensus.strict: GtAAaCGaTtcCActg
+CC  consensus.strict.rc: CAGTGGAATCGTTTAC
+CC  consensus.IUPAC: GwAAmYRhTwmMAyyv
+CC  consensus.IUPAC.rc: BRRTKKWADYRKTTWC
+CC  consensus.regexp: G[at]AA[ac][CT][AG][act]T[at][ac][AC]A[ct][ct][acg]
+CC  consensus.regexp.rc: [CGT][AG][AG]T[GT][GT][AT]A[AGT][CT][AG][GT]TT[AT]C
+XX
+//
+AC  ECK120012704
+XX
+ID  GalS
+XX
+DE  rTGwAAmyRhTkmCA
+PO       A     C     G     T
+1        5     2     5     0
+2        0     0     2    10
+3        0     0    12     0
+4        4     0     0     8
+5       12     0     0     0
+6       12     0     0     0
+7        4     6     0     2
+8        1     8     0     3
+9        3     0     9     0
+10       3     6     0     3
+11       0     0     0    12
+12       2     0     3     7
+13       3     5     2     2
+14       2     9     1     0
+15      10     0     2     0
+XX
+BS  ATGTAACCGCTTTCA
+BS  ATGTAACCGCTACCA
+BS  GTGTAAACGATTCCA
+BS  CTGTAACCGTTTCCA
+BS  GTGTAATCGCTTACA
+BS  GGGTAAACGCTTACA
+BS  CTGAAACCGATTACA
+BS  GGGAAACCGTTGCCA
+BS  GTGTAATTGCTGGCG
+BS  ATGTAACAACTGTGA
+BS  ATGAAAATATTACAA
+BS  ATGAAAATAATTGAG
+CC  program: tab
+CC  matrix.nb: 34
+CC  consensus.strict: aTGtAAccGcTtcCA
+CC  consensus.strict.rc: TGGAAGCGGTTACAT
+CC  consensus.IUPAC: rTGwAAmyRhTkmCA
+CC  consensus.IUPAC.rc: TGKMADYRKTTWCAY
+CC  consensus.regexp: [ag]TG[at]AA[ac][ct][AG][act]T[gt][ac]CA
+CC  consensus.regexp.rc: TG[GT][AC]A[AGT][CT][AG][GT]TT[AT]CA[CT]
+XX
+//
+AC  ECK120012465
+XX
+ID  GcvA
+XX
+DE  hwkvmksdnwTkwrAwrAwmwAwT
+PO       A     C     G     T
+1        2     1     0     1
+2        2     0     0     2
+3        0     0     1     3
+4        2     1     1     0
+5        2     2     0     0
+6        0     0     1     3
+7        0     3     1     0
+8        2     0     1     1
+9        1     1     1     1
+10       3     0     0     1
+11       0     0     0     4
+12       0     0     2     2
+13       3     0     0     1
+14       2     0     2     0
+15       4     0     0     0
+16       2     0     0     2
+17       3     0     1     0
+18       4     0     0     0
+19       2     0     0     2
+20       1     3     0     0
+21       1     0     0     3
+22       4     0     0     0
+23       3     0     0     1
+24       0     0     0     4
+XX
+BS  ATGGCTCAGATTAAAAAAACTAAT
+BS  CATAAGCTAATGTGATGATCAATT
+BS  AATAATGGCATTAGAAAATATAAT
+BS  TTTCCTCATTTGAAATAAACTAAT
+CC  program: tab
+CC  matrix.nb: 35
+CC  consensus.strict: aataatca-aTgaaAaaAactAaT
+CC  consensus.strict.rc: ATTAGTTTTTTTCAT-TGATTATT
+CC  consensus.IUPAC: hwkvmksdnwTkwrAwrAwmwAwT
+CC  consensus.IUPAC.rc: AWTWKWTYWTYWMAWNHSMKBMWD
+CC  consensus.regexp: [act][at][gt][acg][ac][gt][cg][agt][acgt][at]T[gt][at][ag]A[at][ag]A[at][ac][at]A[at]T
+CC  consensus.regexp.rc: A[AT]T[AT][GT][AT]T[CT][AT]T[CT][AT][AC]A[AT][ACGT][ACT][CG][AC][GT][CGT][AC][AT][AGT]
+XX
+//
+AC  ECK120012730
+XX
+ID  GlpR
+XX
+DE  awATGwkcrawwwCGmrCaw
+PO       A     C     G     T
+1       11     2     1     3
+2        9     2     0     6
+3       12     2     1     2
+4        0     2     0    15
+5        1     0    14     2
+6        7     4     1     5
+7        0     2     7     8
+8        3    11     3     0
+9        8     2     6     1
+10      11     0     2     4
+11       7     0     1     9
+12       9     1     1     6
+13       8     2     0     7
+14       0    15     1     1
+15       3     0    14     0
+16      10     7     0     0
+17       9     1     7     0
+18       3    14     0     0
+19       8     1     4     4
+20       5     3     1     8
+XX
+BS  ATATGTTCGATAACGAACAT
+BS  AAATGAGCGTTATCGCGCCA
+BS  ATATGCGCGAAATCAAACAA
+BS  AAACGAGAAATATCGAACTT
+BS  AAATGGTAAAAAACGAACTT
+BS  AAACGCGCGGATTCGAGCGA
+BS  AACTTATCGTTAACGAGCAA
+BS  AAATGTTCAAAATGACGCAT
+BS  ATTTGCTCAAATTCGCGCTG
+BS  ATTTGCGCCAAAACGCAAAC
+BS  AAATGTGAATTGCCGCACAC
+BS  CCATGATGAATTTCGAAAAT
+BS  TTATGAGCTTTAACGAAAGT
+BS  GAATATTCGAATCCGCGCTT
+BS  TCGTGATCCATTACGACCGC
+BS  TTATGACGAGGCACACACAT
+BS  CACTTTCGAATTATGAGCGA
+CC  program: tab
+CC  matrix.nb: 36
+CC  consensus.strict: aaATGatcaataaCGaaCat
+CC  consensus.strict.rc: ATGTTCGTTATTGATCATTT
+CC  consensus.IUPAC: awATGwkcrawwwCGmrCaw
+CC  consensus.IUPAC.rc: WTGYKCGWWWTYGMWCATWT
+CC  consensus.regexp: a[at]ATG[at][gt]c[ag]a[at][at][at]CG[ac][ag]Ca[at]
+CC  consensus.regexp.rc: [AT]TG[CT][GT]CG[AT][AT][AT]T[CT]G[AC][AT]CAT[AT]T
+XX
+//
+AC  ECK120012096
+XX
+ID  GntR
+XX
+DE  vayGTtAcscgTAwCAkw
+PO       A     C     G     T
+1        3     3     3     0
+2        6     0     1     2
+3        0     3     0     6
+4        0     0     8     1
+5        0     0     0     9
+6        2     1     0     6
+7        8     0     1     0
+8        0     6     1     2
+9        1     4     3     1
+10       1     6     2     0
+11       2     0     5     2
+12       0     0     0     9
+13       8     0     0     1
+14       5     0     0     4
+15       1     8     0     0
+16       7     0     0     2
+17       2     0     4     3
+18       5     1     0     3
+XX
+BS  GATGTTACCCGTATCATT
+BS  GACGTTACCCATAACAAA
+BS  CACGTTATGCGTAACATA
+BS  ATTGTTACGCGTAACAAA
+BS  AATGTTACGGGTAACTGT
+BS  CATGTTACCGGTAAAATA
+BS  CTTGTAATTCTTATCAGT
+BS  AATGTAACAATTTTCTGA
+BS  GGCTTCGGCCATATCAGC
+CC  program: tab
+CC  matrix.nb: 37
+CC  consensus.strict: aatGTtAcccgTAaCAga
+CC  consensus.strict.rc: TCTGTTACGGGTAACATT
+CC  consensus.IUPAC: vayGTtAcscgTAwCAkw
+CC  consensus.IUPAC.rc: WMTGWTACGSGTAACRTB
+CC  consensus.regexp: [acg]a[ct]GTtAc[cg]cgTA[at]CA[gt][at]
+CC  consensus.regexp.rc: [AT][AC]TG[AT]TACG[CG]GTAAC[AG]T[CGT]
+XX
+//
+AC  ECK120026325
+XX
+ID  HipB
+XX
+DE  TATCCbbkwdhGmGGATAA
+PO       A     C     G     T
+1        0     0     0     4
+2        4     0     0     0
+3        0     0     0     4
+4        0     4     0     0
+5        0     4     0     0
+6        0     2     1     1
+7        0     2     1     1
+8        0     0     1     3
+9        3     0     0     1
+10       1     0     2     1
+11       2     1     0     1
+12       0     0     4     0
+13       1     3     0     0
+14       0     0     4     0
+15       0     0     4     0
+16       4     0     0     0
+17       0     0     0     4
+18       4     0     0     0
+19       4     0     0     0
+XX
+BS  TATCCCGTAGAGCGGATAA
+BS  TATCCCCTTAAGCGGATAA
+BS  TATCCGCGATCGCGGATAA
+BS  TATCCTTTAGTGAGGATAA
+CC  program: tab
+CC  matrix.nb: 38
+CC  consensus.strict: TATCCcctagaGcGGATAA
+CC  consensus.strict.rc: TTATCCGCTCTAGGGGATA
+CC  consensus.IUPAC: TATCCbbkwdhGmGGATAA
+CC  consensus.IUPAC.rc: TTATCCKCDHWMVVGGATA
+CC  consensus.regexp: TATCC[cgt][cgt][gt][at][agt][act]G[ac]GGATAA
+CC  consensus.regexp.rc: TTATCC[GT]C[AGT][ACT][AT][AC][ACG][ACG]GGATA
+XX
+//
+AC  HNS
+XX
+ID  HNS
+XX
+DE  dAAwwwawysarw
+PO       A     C     G     T
+1       12     3    15    18
+2       38     3     5     2
+3       44     3     1     0
+4       20     3     0    25
+5       26     2     0    20
+6       27     0     2    19
+7       29     0     9    10
+8       20     6     6    16
+9        0    18     3    27
+10       5    17    20     6
+11      29     8     1    10
+12      22     8    15     3
+13      26     3     5    14
+XX
+BS  TAATAAAACGAAT
+BS  TAATATATCCAGA
+BS  AAATTTAACCAGA
+BS  AAATTAAATGAAT
+BS  TAATATATCGACA
+BS  GAATAAAACGCAT
+BS  TAAAAATACGAAT
+BS  GAAAAAAGTGACT
+BS  TAATATTATCAAT
+BS  TAATTAAATGATA
+BS  AAATTTGTCGAGA
+BS  AAAATTAGCCAGA
+BS  GAATTAGATGAAG
+BS  TAATAAAATAACA
+BS  TAAAATATTTAGA
+BS  TAATTTATTCCAT
+BS  AAATATATCGAAC
+BS  GGATTAATCCTAA
+BS  CAATTAAATTAGA
+BS  AAATTATTTTAAA
+BS  AAAAATTTCCTAA
+BS  AAATATATTTTGA
+BS  TAATATGATAAAT
+BS  GTAATTAACGAGA
+BS  GCAATTAATGTGA
+BS  GCATAAAGTGTAA
+BS  TAACAATTTCACA
+BS  CAAATATTTCCGA
+BS  GAACAAATTCTGG
+BS  CAAATAAAGGAAT
+BS  TGAAATAACCATA
+BS  AAATATAACCTTT
+BS  AACAAAGATGCGA
+BS  GAAAAGTGTGACA
+BS  TAAATAAGCACAT
+BS  AAATATTTTATAA
+BS  GAAATAGCGGTAA
+BS  GGAATAACTCCCT
+BS  TAAAAATCTTTAT
+BS  TTATTAATTGCAG
+BS  GAAAAAACTGGGC
+BS  AAATCAGCCTAAA
+BS  GAATCTGAGGCAA
+BS  TCACAATTCCACA
+BS  TGAAAAGATAAAC
+BS  GACATGAATCAGG
+BS  GAGTTAGCTCACT
+BS  TGCAATAGCCAGG
+CC  program: tab
+CC  matrix.nb: 39
+CC  consensus.strict: tAAtaaaatgaaa
+CC  consensus.strict.rc: TTTCATTTTATTA
+CC  consensus.IUPAC: dAAwwwawysarw
+CC  consensus.IUPAC.rc: WYTSRWTWWWTTH
+CC  consensus.regexp: [agt]AA[at][at][at]a[at][ct][cg]a[ag][at]
+CC  consensus.regexp.rc: [AT][CT]T[CG][AG][AT]T[AT][AT][AT]TT[ACT]
+XX
+//
+AC  ECK120011897
+XX
+ID  IclR
+XX
+DE  TTTtcAT
+PO       A     C     G     T
+1        0     0     0    10
+2        1     0     0     9
+3        0     1     0     9
+4        0     2     2     6
+5        1     5     2     2
+6        9     0     1     0
+7        0     2     0     8
+XX
+BS  TTTTCAT
+BS  TTTGCAT
+BS  TTTCCAT
+BS  TTTTGAT
+BS  TTTTTAT
+BS  TTTTTAT
+BS  TTTCCAC
+BS  TTTTAAT
+BS  TATTCAC
+BS  TTCGGGT
+CC  program: tab
+CC  matrix.nb: 40
+CC  consensus.strict: TTTtcAT
+CC  consensus.strict.rc: ATGAAAA
+CC  consensus.IUPAC: TTTtcAT
+CC  consensus.IUPAC.rc: ATGAAAA
+CC  consensus.regexp: TTTtcAT
+CC  consensus.regexp.rc: ATGAAAA
+XX
+//
+AC  ECK120011224
+XX
+ID  IHF
+XX
+DE  TAAytaatTGwWw
+PO       A     C     G     T
+1       11     6    11    67
+2       76     4     5    10
+3       76    12     0     7
+4       11    30    19    35
+5       15    22    18    40
+6       28    22    22    23
+7       40    12    20    23
+8       19    18     7    51
+9        5     0     0    90
+10       4     0    71    20
+11      59     5     4    27
+12      26     2     0    67
+13      34     5     4    52
+XX
+BS  AAAGCCCTTTATA
+BS  AAAATTTTATATT
+BS  GAATGAATAGTTT
+BS  TAATAGATTTATT
+BS  AAATTAGATGATT
+BS  TCCTTGATTTTTC
+BS  CAACACAGTGATT
+BS  TAACTCATTGAAT
+BS  GAATAATTTGAAA
+BS  TAAATATTTGATT
+BS  TACCTGCGTGCTT
+BS  TCACGGGATGCTT
+BS  AGACAGGCTGATT
+BS  ATCGCAACTGTTA
+BS  TAATTCTCTGACT
+BS  TTAGTGCTTGATT
+BS  TAAAGATTTGGTT
+BS  AAAGTTCCTTAAA
+BS  TAATCTATTTATA
+BS  TAACCAATTGTTC
+BS  TAATTCATTGATT
+BS  TAATTTATAGATT
+BS  TAACTAAATGTAA
+BS  TAACTTACTAATA
+BS  TAATCAAGTTTTG
+BS  GAATAACATGAAT
+BS  TAACCTGTTGTTA
+BS  TTATGAGATTTTT
+BS  TAACAGACTGTAA
+BS  TATCTTTTTGATT
+BS  TAAGGGTTTTCAA
+BS  TCCGCAGTTGCTA
+BS  TAAGGCGTTGATG
+BS  TACCCTGTTGTTA
+BS  TATCTCATTGTTA
+BS  GATCAGGCTTATG
+BS  CAACTACCTGATT
+BS  TATCCGAATGTAA
+BS  TAACACGCTGATA
+BS  TAATTGAGTGTTT
+BS  CAAGCGTCTGATT
+BS  CAATAGATTTATT
+BS  TAAGTTATTGATT
+BS  TAACTAATTGAAT
+BS  GAATGAGATTATT
+BS  TTACTATTTGGTT
+BS  TAACAGCCTGATT
+BS  TAACCTTTTGTCA
+BS  GAAACTTTTGTTA
+BS  TATTGAAATGAAA
+BS  TTATCGCTTTTTC
+BS  TAACGTACTGATT
+BS  TAACTCATTGATT
+BS  TTACTCTATAAAT
+BS  GAACACGCTGAAT
+BS  TAATTTATTGTTA
+BS  AAAACAAATGAAT
+BS  TAAATTGATGTAA
+BS  TAATTCCTTGATT
+BS  AAATACCTTTAAA
+BS  TAAATGACTGAAA
+BS  CAATCCTGTGATA
+BS  TGATGATTTTTAT
+BS  GAATTGTCTGATA
+BS  TGCTGATTTGTAT
+BS  AAAGCATATTAAA
+BS  AACATTATTGATT
+BS  CATCTCGTTGATT
+BS  TAATTTTTTAATT
+BS  TAATTCATTGTTT
+BS  TAAGCCATTGATA
+BS  GAATATATTGATA
+BS  TTCTGCAATGTAT
+BS  TGATGAATTTCAA
+BS  GAATTAGTTGATT
+BS  TAAAGCATTGTTT
+BS  TAAATTGTTGTTT
+BS  TTAAGGCTTGATC
+BS  TAAGGGTATGGTT
+BS  TACGGCATTGATA
+BS  TAATTAAATGATA
+BS  TAAGCAGTTGGTT
+BS  TAAGGTGCTGAAT
+BS  TAACTTGTTGATA
+BS  TAAGTTTATGATT
+BS  AAATTAAGTGATC
+BS  TAATCTATTGATT
+BS  TTCCTCAAAGAAT
+BS  TCTTCCTCTTTTT
+BS  TAAGTGCATGTAA
+BS  TAACTATTTGTTT
+BS  GGCGAGAAATAAA
+BS  TTCTCTTTTTAAT
+BS  TAAGCGGCTAATA
+BS  TAACAAAGTGATG
+CC  program: tab
+CC  matrix.nb: 41
+CC  consensus.strict: TAAttaatTGaTt
+CC  consensus.strict.rc: AATCAATTAATTA
+CC  consensus.IUPAC: TAAytaatTGwWw
+CC  consensus.IUPAC.rc: WWWCAATTARTTA
+CC  consensus.regexp: TAA[ct]taatTG[at][AT][at]
+CC  consensus.regexp.rc: [AT][AT][AT]CAATTA[AG]TTA
+XX
+//
+AC  ECK120011429
+XX
+ID  IscR
+XX
+DE  wAwmCCCwdswAAhdbrrKsrw
+PO       A     C     G     T
+1        4     1     0     6
+2       10     1     0     0
+3        4     1     1     5
+4        6     4     0     1
+5        2     8     0     1
+6        2     9     0     0
+7        2     8     0     1
+8        3     1     2     5
+9        4     0     4     3
+10       1     5     5     0
+11       5     0     0     6
+12       9     0     1     1
+13       8     0     1     2
+14       3     3     2     3
+15       3     0     3     5
+16       0     3     3     5
+17       6     0     4     1
+18       3     0     6     2
+19       0     0     3     8
+20       0     5     5     1
+21       7     0     4     0
+22       7     1     0     3
+XX
+BS  AATACCCTGGTATTTCGTTCAA
+BS  AAAACAATACAAACTGTGTGGA
+BS  TCAACCCAGCAAACGCAGGGGC
+BS  TAGACCCTGATGTGTGGGTTAA
+BS  TATCTCATTGTTAGATAATGGT
+BS  AAACACCAGCAAACAGAAGGGT
+BS  TAACCATTTGAAATGTGAGCAA
+BS  CATTCCCGAGTAAATTGGTCAA
+BS  AATACCCGACTAAATCAGTCAA
+BS  TACCCCCCTGAAGTGTATTGAT
+BS  TATAACCAACTAAAATAGTCAA
+CC  program: tab
+CC  matrix.nb: 42
+CC  consensus.strict: tAtaCCCtactAAattagTcaa
+CC  consensus.strict.rc: TTGACTAATTTAGTAGGGTATA
+CC  consensus.IUPAC: wAwmCCCwdswAAhdbrrKsrw
+CC  consensus.IUPAC.rc: WYSMYYVHDTTWSHWGGGKWTW
+CC  consensus.regexp: [at]A[at][ac]CCC[at][agt][cg][at]AA[act][agt][cgt][ag][ag][GT][cg][ag][at]
+CC  consensus.regexp.rc: [AT][CT][CG][AC][CT][CT][ACG][ACT][AGT]TT[AT][CG][ACT][AT]GGG[GT][AT]T[AT]
+XX
+//
+AC  ECK120013164
+XX
+ID  LeuO
+XX
+DE  wTThdyrGkrdwTrTkAT
+PO       A     C     G     T
+1        3     0     0     1
+2        0     0     0     4
+3        0     0     0     4
+4        1     2     0     1
+5        1     0     2     1
+6        0     2     0     2
+7        1     0     3     0
+8        0     0     4     0
+9        0     0     1     3
+10       3     0     1     0
+11       2     0     1     1
+12       1     0     0     3
+13       0     0     0     4
+14       2     0     2     0
+15       0     0     0     4
+16       0     0     2     2
+17       4     0     0     0
+18       0     0     0     4
+XX
+BS  ATTCGCGGTAGTTATGAT
+BS  TTTTGCAGTGAATGTGAT
+BS  ATTCATGGTAATTATTAT
+BS  ATTATTGGGATTTGTTAT
+CC  program: tab
+CC  matrix.nb: 43
+CC  consensus.strict: aTTcgcgGtaatTaTgAT
+CC  consensus.strict.rc: ATCATAATTACCGCGAAT
+CC  consensus.IUPAC: wTThdyrGkrdwTrTkAT
+CC  consensus.IUPAC.rc: ATMAYAWHYMCYRHDAAW
+CC  consensus.regexp: [at]TT[act][agt][ct][ag]G[gt][ag][agt][at]T[ag]T[gt]AT
+CC  consensus.regexp.rc: AT[AC]A[CT]A[AT][ACT][CT][AC]C[CT][AG][ACT][AGT]AA[AT]
+XX
+//
+AC  ECK120012770
+XX
+ID  LexA
+XX
+DE  waCTGtATAwAwawmCAGya
+PO       A     C     G     T
+1       16     6     1    14
+2       24     5     6     2
+3        0    37     0     0
+4        1     0     0    36
+5        0     1    36     0
+6        5     3     6    23
+7       30     5     0     2
+8        2     3     3    29
+9       29     0     6     2
+10      15     6     5    11
+11      32     0     0     5
+12      17     7     1    12
+13      22     3     5     7
+14      15     8     3    11
+15      21    14     1     1
+16       1    35     1     0
+17      34     1     0     2
+18       4     0    33     0
+19       2    10     6    19
+20      19     4     6     8
+XX
+BS  GACTGTATAAAACCACAGCC
+BS  TCCTCTCTGCAATACGCAGA
+BS  AGCTGAATAAATATACAGCA
+BS  CACTGTATACTTTACCAGTG
+BS  ACCAGAATATACATAATAGT
+BS  CACTGTATAAATAAACAGCT
+BS  AACTGATTAAAAACCCAGCG
+BS  AACTGTCGATAAGCGCAGCC
+BS  CGCTGCCCTGAAAGCCAGGC
+BS  TACTGGATAAAAAAACAGTT
+BS  TACTGTATAAACAGCCAATA
+BS  TGCTGTATGGATTAACAGGA
+BS  TACTGTATGGATGTACAGTA
+BS  ACCTGTATAAATAACCAGTA
+BS  ATCTGCTGGCAAGAACAGAC
+BS  TACTGTATATAAAAACAGTA
+BS  CACTGTATAAAAATCCTATA
+BS  AACTGTCGATACGTACAGTA
+BS  CACTGGATAGATAACCAGCA
+BS  TACTGTATAAAATCACAGTT
+BS  TGCTGGATAGATATCCAGCG
+BS  AACTGAAAAATGGCACAGTA
+BS  TACTGTATATAAAAACAGTA
+BS  AACTGGATAAAATTACAGGG
+BS  TACTGTATATAAAACCAGTT
+BS  TACTGTACACAATAACAGTA
+BS  TACTGTATGCTCATACAGTA
+BS  CGCTGGCATCAACGCCAGCT
+BS  AACTGGATAATCATACAGTA
+BS  AACTGTATATAAATACAGTT
+BS  TACTGTATAAATAAACAGTA
+BS  ATCTGTATATATACCCAGCT
+BS  AACTGCACAATAAACCAGAG
+BS  TGCTGTATATACTCACAGCA
+BS  AACTGTATATACACCCAGGG
+BS  ACCTGAATGAATATACAGTA
+BS  ACCTGTATATATCATCAGTA
+CC  program: tab
+CC  matrix.nb: 44
+CC  consensus.strict: aaCTGtATAaAaaaaCAGta
+CC  consensus.strict.rc: TACTGTTTTTTTATACAGTT
+CC  consensus.IUPAC: waCTGtATAwAwawmCAGya
+CC  consensus.IUPAC.rc: TRCTGKWTWTWTATACAGTW
+CC  consensus.regexp: [at]aCTGtATA[at]A[at]a[at][ac]CAG[ct]a
+CC  consensus.regexp.rc: T[AG]CTG[GT][AT]T[AT]T[AT]TATACAGT[AT]
+XX
+//
+AC  ECK120011383
+XX
+ID  Lrp
+XX
+DE  awttTtwTkCtk
+PO       A     C     G     T
+1       25    17    17    13
+2       31     3    11    27
+3       10     5    15    42
+4       11     0    13    48
+5        9     6     4    53
+6        4    15     6    47
+7       44     6     4    18
+8        6     3     4    59
+9       14    12    25    21
+10       7    53     2    10
+11       7     8    10    47
+12       4     8    37    23
+XX
+BS  AATTTTATGCTG
+BS  AATTTTATTCTG
+BS  CATTTTATACTG
+BS  ATTTTTATTCTT
+BS  GATTTTATTCGG
+BS  AATTTTGTGCTG
+BS  CTGTTTATTCTT
+BS  TGGTTTATTCTG
+BS  GTTTTTTTTCTT
+BS  GTCTTTATCCTG
+BS  ATGTTTTTACTG
+BS  GTTGTCATACTG
+BS  TTATTTATCCTG
+BS  ATTATTATTCTT
+BS  GAAATTATTCTG
+BS  AAAATTATTCTG
+BS  GATTTTATCTTT
+BS  CGTTTCATGCTA
+BS  TGGATTATTCTG
+BS  ATATTTTTTCTT
+BS  ATGGTTATGCGC
+BS  TTCATTATTCTG
+BS  AACGTTATCCGG
+BS  TTAGTTTTTCTG
+BS  GATTTTATCGTT
+BS  GGGTTTTTGTTT
+BS  GTTTTCATAATT
+BS  GTGTTTATGTCT
+BS  CGTTTGTTGTTG
+BS  AACATTATCCGG
+BS  CAGTTTTTGTAG
+BS  TGTTATATGCCT
+BS  ATTTACATGCAT
+BS  GAATTAATGCTC
+BS  TAGTATCTCCTG
+BS  GGTTATAACCTG
+BS  TATTTTCAACTG
+BS  ATTTTGATATTT
+BS  TTTTTTTTACCC
+BS  CATTTCAAGCAT
+BS  ATTTTGATGGTT
+BS  ATGTTTTTAAGG
+BS  ATTTATTAACTG
+BS  GAGTATTATCTG
+BS  CATTCAGTGCTG
+BS  CAGTATCTGATG
+BS  TATTTATTACCG
+BS  TTTTTCAATTTG
+BS  CTTATTTTTATT
+BS  CTGTTTACCCCT
+BS  AAAATTCTCCGG
+BS  ATTTCGATGCCC
+BS  AATTTCCTAATT
+BS  ATGGACTTGCCG
+BS  CGATTTATTATC
+BS  CTTTCGGTGCGG
+BS  CATGTTGTACTA
+BS  AATTCCTGACTG
+BS  GCTATCATTCGT
+BS  TAAGGCATGCTT
+BS  GCTGCCATGCTC
+BS  CATTGTTGTCGG
+BS  CAATCTATGCCA
+BS  ACTTTCATGTTA
+BS  AATATTATCAAT
+BS  ATTGTCTTATTC
+BS  GAGTATCTGCAC
+BS  GATGTGAGCCAG
+BS  AGTGGCACTCTG
+BS  CACGTTATTTAT
+BS  CGTATATCGCTG
+BS  TGTGGTAGGCGT
+CC  program: tab
+CC  matrix.nb: 45
+CC  consensus.strict: aattTtaTgCtg
+CC  consensus.strict.rc: CAGCATAAAATT
+CC  consensus.IUPAC: awttTtwTkCtk
+CC  consensus.IUPAC.rc: MAGMAWAAAAWT
+CC  consensus.regexp: a[at]ttTt[at]T[gt]Ct[gt]
+CC  consensus.regexp.rc: [AC]AG[AC]A[AT]AAAA[AT]T
+XX
+//
+AC  ECK120012218
+XX
+ID  MalT
+XX
+DE  srrGGakGAG
+PO       A     C     G     T
+1        3     6     6     0
+2        4     2     9     0
+3        6     0     8     1
+4        0     0    13     2
+5        0     0    15     0
+6       10     1     2     2
+7        0     0     7     8
+8        0     0    15     0
+9       14     1     0     0
+10       0     0    13     2
+XX
+BS  GGGGGCGGAT
+BS  GGGGGAGGAG
+BS  AGATGATGAG
+BS  GCAGGATGAG
+BS  CAGGGAGGAG
+BS  CGGGGATGAG
+BS  AGTGGTTGAG
+BS  CAAGGGTGAG
+BS  ACAGGATGAG
+BS  CAGGGATGAG
+BS  CAAGGAGGAT
+BS  CGGTGGGGCG
+BS  GGAGGATGAG
+BS  GGGGGAGGAG
+BS  GGGGGTGGAG
+CC  program: tab
+CC  matrix.nb: 46
+CC  consensus.strict: cggGGatGAG
+CC  consensus.strict.rc: CTCATCCCCG
+CC  consensus.IUPAC: srrGGakGAG
+CC  consensus.IUPAC.rc: CTCMTCCYYS
+CC  consensus.regexp: [cg][ag][ag]GGa[gt]GAG
+CC  consensus.regexp.rc: CTC[AC]TCC[CT][CT][CG]
+XX
+//
+AC  ECK120011412
+XX
+ID  MarA
+XX
+DE  dtTTrryadwwygTGCyrT
+PO       A     C     G     T
+1        9     0     7     6
+2        3     2     5    12
+3        3     1     2    16
+4        0     0     5    17
+5       10     3     7     2
+6        9     2     8     3
+7        2    14     0     6
+8       10     5     3     4
+9        8     1     6     7
+10       6     1     0    15
+11       6     3     1    12
+12       5     7     0    10
+13       3     1    15     3
+14       3     1     1    17
+15       0     1    21     0
+16       2    16     1     3
+17       0    11     2     9
+18       8     0    10     4
+19       0     2     0    20
+XX
+BS  ATTTGTCATTTTGTGCCGT
+BS  GTTTGGTTTTTCGTGCCAT
+BS  AGCGAGAAAAATGCGCTAT
+BS  GTTTAACAGTTATAGCTTT
+BS  ATTTAACCGTTAGTGCCTC
+BS  GTTTTACAGTTTCTGCTTT
+BS  TTTTATCAATTTGGGTTGT
+BS  GTGGAGCATTTCTTGCCGT
+BS  ATTTAGCAAAACGTGGCAT
+BS  GGTGCATTGTGTGAGTTGT
+BS  GCTTATCCACCCGTGCGAT
+BS  ATGTAGTGGTTTATGCGAT
+BS  TTTTGACATTCAGTGCTGT
+BS  TCTTAATGAAACGTGTCGT
+BS  GGTTGGCGTTACGTGCCAT
+BS  AGTGCACCTTTTGTCATGT
+BS  TTTTCCATCAACATGACAT
+BS  AATTGCCCATTTGTGCCAC
+BS  AAATGATTATCAATGCCGT
+BS  ATTTGATCGATTGAGCCTT
+BS  TGAGTGCAAAAAGTGCTGT
+BS  TAATAGCATTTTTTGCTGT
+CC  program: tab
+CC  matrix.nb: 47
+CC  consensus.strict: atTTaacaatttgTGCcgT
+CC  consensus.strict.rc: ACGGCACAAATTGTTAAAT
+CC  consensus.IUPAC: dtTTrryadwwygTGCyrT
+CC  consensus.IUPAC.rc: AYRGCACRWWHTRYYAAAH
+CC  consensus.regexp: [agt]tTT[ag][ag][ct]a[agt][at][at][ct]gTGC[ct][ag]T
+CC  consensus.regexp.rc: A[CT][AG]GCAC[AG][AT][AT][ACT]T[AG][CT][CT]AAA[ACT]
+XX
+//
+AC  ECK120012347
+XX
+ID  MelR
+XX
+DE  cwTTmCCwkAAAmtCAGA
+PO       A     C     G     T
+1        1     3     0     1
+2        3     0     0     2
+3        0     1     0     4
+4        1     0     0     4
+5        2     3     0     0
+6        0     5     0     0
+7        0     4     0     1
+8        2     0     1     2
+9        0     0     3     2
+10       4     0     1     0
+11       5     0     0     0
+12       4     0     0     1
+13       2     2     1     0
+14       0     1     1     3
+15       0     5     0     0
+16       4     0     1     0
+17       0     0     5     0
+18       5     0     0     0
+XX
+BS  CATTCCCATAAACTCAGA
+BS  TATTCCCATAAACTCAGA
+BS  AATTACCTGAAAAGCAGA
+BS  CTTTCCTGGAATATCAGA
+BS  CTCAACCTGGAAGCCGGA
+CC  program: tab
+CC  matrix.nb: 48
+CC  consensus.strict: caTTcCCagAAAatCAGA
+CC  consensus.strict.rc: TCTGATTTTCTGGGAATG
+CC  consensus.IUPAC: cwTTmCCwkAAAmtCAGA
+CC  consensus.IUPAC.rc: TCTGAKTTTMWGGKAAWG
+CC  consensus.regexp: c[at]TT[ac]CC[at][gt]AAA[ac]tCAGA
+CC  consensus.regexp.rc: TCTGA[GT]TTT[AC][AT]GG[GT]AA[AT]G
+XX
+//
+AC  ECK120048948
+XX
+ID  MetJ
+XX
+DE  rGAtGTm
+PO       A     C     G     T
+1       11     1    10     0
+2        2     1    19     0
+3       22     0     0     0
+4        5     3     0    14
+5        2     0    20     0
+6        1     1     4    16
+7        8     9     1     4
+XX
+BS  GGATGTC
+BS  AGATGTC
+BS  AGATGTC
+BS  AGATGTA
+BS  AGATGTA
+BS  AGATGTA
+BS  GGATGGC
+BS  GGACGTC
+BS  AGATGTT
+BS  AGATGTT
+BS  AGACGTC
+BS  GGAAGTA
+BS  GGAAGGC
+BS  GGATGTG
+BS  AGAAGTT
+BS  GGATGCC
+BS  AGATGAA
+BS  CGATGTT
+BS  GGATAGA
+BS  AAACGTA
+BS  GAAAGGC
+BS  GCAAATA
+CC  program: tab
+CC  matrix.nb: 49
+CC  consensus.strict: aGAtGTc
+CC  consensus.strict.rc: GACATCT
+CC  consensus.IUPAC: rGAtGTm
+CC  consensus.IUPAC.rc: KACATCY
+CC  consensus.regexp: [ag]GAtGT[ac]
+CC  consensus.regexp.rc: [GT]ACATC[CT]
+XX
+//
+AC  ECK120012802
+XX
+ID  MetR
+XX
+DE  TGAAarAwTTkCrTk
+PO       A     C     G     T
+1        0     0     1     4
+2        1     0     4     0
+3        5     0     0     0
+4        5     0     0     0
+5        2     1     1     1
+6        3     0     2     0
+7        5     0     0     0
+8        2     1     0     2
+9        1     0     0     4
+10       0     1     0     4
+11       0     1     2     2
+12       0     5     0     0
+13       3     0     2     0
+14       0     1     0     4
+15       0     1     2     2
+XX
+BS  TGAAAAATTTGCATC
+BS  TGAAGGACTTTCATG
+BS  TGAACAAATCTCATG
+BS  TGAATAATTTGCGCT
+BS  GAAAAGAAATCCGTT
+CC  program: tab
+CC  matrix.nb: 50
+CC  consensus.strict: TGAAaaAaTTgCaTg
+CC  consensus.strict.rc: CATGCAATTTTTTCA
+CC  consensus.IUPAC: TGAAarAwTTkCrTk
+CC  consensus.IUPAC.rc: MAYGMAAWTYTTTCA
+CC  consensus.regexp: TGAAa[ag]A[at]TT[gt]C[ag]T[gt]
+CC  consensus.regexp.rc: [AC]A[CT]G[AC]AA[AT]T[CT]TTTCA
+XX
+//
+AC  ECK125134665
+XX
+ID  MlrA
+XX
+DE  mAAAdkGydyAvhhwrdmvhhmhyGkAhAA
+PO       A     C     G     T
+1        3     1     0     0
+2        4     0     0     0
+3        4     0     0     0
+4        4     0     0     0
+5        1     0     1     2
+6        0     0     1     3
+7        0     0     4     0
+8        0     1     0     3
+9        2     0     1     1
+10       0     3     0     1
+11       4     0     0     0
+12       1     1     2     0
+13       2     1     0     1
+14       2     1     0     1
+15       3     0     0     1
+16       3     0     1     0
+17       2     0     1     1
+18       2     2     0     0
+19       1     1     2     0
+20       1     1     0     2
+21       2     1     0     1
+22       3     1     0     0
+23       2     1     0     1
+24       0     1     0     3
+25       0     0     4     0
+26       0     0     1     3
+27       4     0     0     0
+28       1     2     0     1
+29       4     0     0     0
+30       4     0     0     0
+XX
+BS  AAAATTGTGCAATAAAAACCAAATGTACAA
+BS  AAAATGGCACAGATAAACGTTACCGTACAA
+BS  AAAAATGTTCAGAAAATAATCCATGGAAAA
+BS  CAAAGTGTATACCCTGGCGAAATTGTATAA
+CC  program: tab
+CC  matrix.nb: 51
+CC  consensus.strict: aAAAttGtacAgaaaaaagtaaatGtAcAA
+CC  consensus.strict.rc: TTGTACATTTACTTTTTTCTGTACAATTTT
+CC  consensus.IUPAC: mAAAdkGydyAvhhwrdmvhhmhyGkAhAA
+CC  consensus.IUPAC.rc: TTDTMCRDKDDBKHYWDDBTRHRCMHTTTK
+CC  consensus.regexp: [ac]AAA[agt][gt]G[ct][agt][ct]A[acg][act][act][at][ag][agt][ac][acg][act][act][ac][act][ct]G[gt]A[act]AA
+CC  consensus.regexp.rc: TT[AGT]T[AC]C[AG][AGT][GT][AGT][AGT][CGT][GT][ACT][CT][AT][AGT][AGT][CGT]T[AG][ACT][AG]C[AC][ACT]TTT[GT]
+XX
+//
+AC  ECK120034617
+XX
+ID  MntR
+XX
+DE  raTwTAGCmmarGCTATrTtw
+PO       A     C     G     T
+1        4     0     2     0
+2        4     0     1     1
+3        0     1     0     5
+4        4     0     0     2
+5        0     0     0     6
+6        6     0     0     0
+7        0     0     6     0
+8        0     6     0     0
+9        4     2     0     0
+10       3     2     0     1
+11       4     1     0     1
+12       3     0     3     0
+13       0     0     6     0
+14       0     6     0     0
+15       0     0     0     6
+16       6     0     0     0
+17       0     0     0     6
+18       2     0     4     0
+19       0     0     0     6
+20       1     1     1     3
+21       2     0     0     4
+XX
+BS  AACATAGCAAAGGCTATGTTT
+BS  AATTTAGCCAAAGCTATGTTT
+BS  GATATAGCACAGGCTATATTA
+BS  AATATAGCCTAAGCTATGTCT
+BS  AGTATAGCACCGGCTATGTGT
+BS  GTTTTAGCAATAGCTATATAA
+CC  program: tab
+CC  matrix.nb: 52
+CC  consensus.strict: aaTaTAGCaaaaGCTATgTtt
+CC  consensus.strict.rc: AAACATAGCTTTTGCTATATT
+CC  consensus.IUPAC: raTwTAGCmmarGCTATrTtw
+CC  consensus.IUPAC.rc: WAAYATAGCYTKKGCTAWATY
+CC  consensus.regexp: [ag]aT[at]TAGC[ac][ac]a[ag]GCTAT[ag]Tt[at]
+CC  consensus.regexp.rc: [AT]AA[CT]ATAGC[CT]T[GT][GT]GCTA[AT]AT[CT]
+XX
+//
+AC  ECK120011220
+XX
+ID  ModE
+XX
+DE  cGwTrTrtAyvwrmywAyatwsyG
+PO       A     C     G     T
+1        0     5     1     1
+2        0     0     7     0
+3        4     1     0     2
+4        0     0     0     7
+5        4     0     3     0
+6        0     0     0     7
+7        3     1     3     0
+8        1     1     0     5
+9        6     0     1     0
+10       0     4     1     2
+11       3     2     2     0
+12       3     1     1     2
+13       3     1     3     0
+14       4     2     0     1
+15       0     2     1     4
+16       2     0     0     5
+17       6     0     1     0
+18       0     2     1     4
+19       4     1     1     1
+20       0     1     1     5
+21       4     0     0     3
+22       1     2     4     0
+23       0     5     0     2
+24       0     0     7     0
+XX
+BS  CGTTATGTAGGCGACAATATAACG
+BS  CGCTATATACATGATTACATAGCG
+BS  CGATGTATACAAGCCTATATAGCG
+BS  CGATGTCTGCCACCTTAGTGTCTG
+BS  GGTTATAAATATATTTATATAGCG
+BS  CGATATGCACGAAATAACCCTCTG
+BS  TGATGTGTATCGAAGTGTGTTGCG
+CC  program: tab
+CC  matrix.nb: 53
+CC  consensus.strict: cGaTaTatAcaaaattAtatagcG
+CC  consensus.strict.rc: CGCTATATAATTTTGTATATATCG
+CC  consensus.IUPAC: cGwTrTrtAyvwrmywAyatwsyG
+CC  consensus.IUPAC.rc: CRSWATRTWRKYWBRTAYAYAWCG
+CC  consensus.regexp: cG[at]T[ag]T[ag]tA[ct][acg][at][ag][ac][ct][at]A[ct]at[at][cg][ct]G
+CC  consensus.regexp.rc: C[AG][CG][AT]AT[AG]T[AT][AG][GT][CT][AT][CGT][AG]TA[CT]A[CT]A[AT]CG
+XX
+//
+AC  ECK120034619
+XX
+ID  MqsA
+XX
+DE  mCTktTAGGTGrTw
+PO       A     C     G     T
+1        2     3     0     0
+2        1     4     0     0
+3        0     1     0     4
+4        0     0     2     3
+5        1     0     1     3
+6        0     1     0     4
+7        5     0     0     0
+8        1     0     4     0
+9        1     0     4     0
+10       0     0     0     5
+11       0     0     4     1
+12       2     1     2     0
+13       0     0     1     4
+14       2     0     0     3
+XX
+BS  ACTGTTAAGTGGTT
+BS  AACGATAGATGATA
+BS  CCTTGCAGGTGGGT
+BS  CCTTTTAGGTTATA
+BS  CCTTTTAGGTGCTT
+CC  program: tab
+CC  matrix.nb: 54
+CC  consensus.strict: cCTttTAGGTGaTt
+CC  consensus.strict.rc: AATCACCTAAAAGG
+CC  consensus.IUPAC: mCTktTAGGTGrTw
+CC  consensus.IUPAC.rc: WAYCACCTAAMAGK
+CC  consensus.regexp: [ac]CT[gt]tTAGGTG[ag]T[at]
+CC  consensus.regexp.rc: [AT]A[CT]CACCTAA[AC]AG[GT]
+XX
+//
+AC  MqsAMqsR
+XX
+ID  MqsAMqsR
+XX
+DE  AAbkrwmmTbTwwvGTkvk
+PO       A     C     G     T
+1        4     0     0     0
+2        4     0     0     0
+3        0     2     1     1
+4        0     0     1     3
+5        3     0     1     0
+6        2     0     0     2
+7        1     3     0     0
+8        1     3     0     0
+9        0     0     0     4
+10       0     1     1     2
+11       0     0     0     4
+12       1     0     0     3
+13       3     0     0     1
+14       1     1     2     0
+15       0     0     4     0
+16       0     0     0     4
+17       0     0     2     2
+18       1     1     2     0
+19       0     0     1     3
+XX
+BS  AAGGGTACTGTTAAGTGGT
+BS  AACTATCATCTATCGTTGG
+BS  AATTAACCTTTTAGGTTAT
+BS  AACTAACCTTTTAGGTGCT
+CC  program: tab
+CC  matrix.nb: 55
+CC  consensus.strict: AActaaccTtTtagGTggt
+CC  consensus.strict.rc: ACCACCTAAAAGGTTAGTT
+CC  consensus.IUPAC: AAbkrwmmTbTwwvGTkvk
+CC  consensus.IUPAC.rc: MBMACBWWAVAKKWYMVTT
+CC  consensus.regexp: AA[cgt][gt][ag][at][ac][ac]T[cgt]T[at][at][acg]GT[gt][acg][gt]
+CC  consensus.regexp.rc: [AC][CGT][AC]AC[CGT][AT][AT]A[ACG]A[GT][GT][AT][CT][AC][ACG]TT
+XX
+//
+AC  ECK120011265
+XX
+ID  Nac
+XX
+DE  wwwYdmTwwTdysry
+PO       A     C     G     T
+1        7     1     1     3
+2        6     0     0     6
+3        5     0     1     6
+4        0     3     0     9
+5        3     0     4     5
+6        6     4     0     2
+7        0     0     2    10
+8        4     0     1     7
+9        8     0     0     4
+10       0     0     0    12
+11       4     0     5     3
+12       0     4     2     6
+13       0     3     7     2
+14       6     2     4     0
+15       2     4     0     6
+XX
+BS  TATTTTTTATATGAA
+BS  TTATGAGATTACTCT
+BS  CATCAAGAATGTGAC
+BS  TTGTGCTTATGTTGT
+BS  ATATATTAATACGAT
+BS  AATCTCTTATTTGAC
+BS  AATTGCTGATGTCGC
+BS  ATATTATTTTTTGAT
+BS  AAATAATATTGCGGC
+BS  ATTTTCTTATGCGGA
+BS  ATTCTATTTTAGCCT
+BS  GAATGATTATTGCAT
+CC  program: tab
+CC  matrix.nb: 56
+CC  consensus.strict: aatTtaTtaTgtgat
+CC  consensus.strict.rc: ATCACATAATAAATT
+CC  consensus.IUPAC: wwwYdmTwwTdysry
+CC  consensus.IUPAC.rc: RYSRHAWWAKHRWWW
+CC  consensus.regexp: [at][at][at][CT][agt][ac]T[at][at]T[agt][ct][cg][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][CG][AG][ACT]A[AT][AT]A[GT][ACT][AG][AT][AT][AT]
+XX
+//
+AC  ECK120011908
+XX
+ID  NagC
+XX
+DE  wswTAwTTykhrtmryrAAwTA
+PO       A     C     G     T
+1        8     0     3     6
+2        1     7     6     3
+3        8     0     0     9
+4        2     0     0    15
+5       14     0     0     3
+6        6     0     0    11
+7        1     0     0    16
+8        0     0     0    17
+9        3     8     0     6
+10       0     1    10     6
+11       5     7     0     5
+12       8     1     6     2
+13       4     2     1    10
+14       5     7     4     1
+15       6     0     8     3
+16       0     7     1     9
+17       6     0    11     0
+18      16     1     0     0
+19      17     0     0     0
+20       8     1     2     6
+21       3     0     2    12
+22      14     0     3     0
+XX
+BS  TGATTTTTTGAATGATAAAATA
+BS  ATTTAATTCGTATCGCAAATTA
+BS  TGATAATTCGCGTCGCGAAAAA
+BS  GGTTATTTATACAGGTAAAATA
+BS  TCTTATTTTTTATATTGAAAAA
+BS  ACTTTTTTTGTGGCTGAAAGGA
+BS  TCTTAATTATCTTCGCGAATTA
+BS  AGAAATTTCGAAAGGTAAAATA
+BS  AAATAAATCGCGAAACGCAGGG
+BS  ATTAATTTCGCGCATCAAAATA
+BS  GGTTATTTTTTATTGTGAATTA
+BS  ATATAATTCGAATAGTGAATTA
+BS  ACATTTTTTTCATCGTGAAATG
+BS  TCTTATTTCGATCAATGAATAA
+BS  ACATATTTTGTGACACGAATTG
+BS  GCATAATTCTCATCATGAAATA
+BS  TGTTATTTACCGTGACGAACTA
+CC  program: tab
+CC  matrix.nb: 57
+CC  consensus.strict: actTAtTTcgcatcgtgAAaTA
+CC  consensus.strict.rc: TATTTCACGATGCGAAATAAGT
+CC  consensus.IUPAC: wswTAwTTykhrtmryrAAwTA
+CC  consensus.IUPAC.rc: TAWTTYRYKAYDMRAAWTAWSW
+CC  consensus.regexp: [at][cg][at]TA[at]TT[ct][gt][act][ag]t[ac][ag][ct][ag]AA[at]TA
+CC  consensus.regexp.rc: TA[AT]TT[CT][AG][CT][GT]A[CT][AGT][AC][AG]AA[AT]TA[AT][CG][AT]
+XX
+//
+AC  ECK120012559
+XX
+ID  NanR
+XX
+DE  AmAGG
+PO       A     C     G     T
+1        6     0     0     0
+2        2     4     0     0
+3        6     0     0     0
+4        0     0     6     0
+5        0     0     6     0
+XX
+BS  ACAGG
+BS  ACAGG
+BS  ACAGG
+BS  ACAGG
+BS  AAAGG
+BS  AAAGG
+CC  program: tab
+CC  matrix.nb: 58
+CC  consensus.strict: AcAGG
+CC  consensus.strict.rc: CCTGT
+CC  consensus.IUPAC: AmAGG
+CC  consensus.IUPAC.rc: CCTKT
+CC  consensus.regexp: A[ac]AGG
+CC  consensus.regexp.rc: CCT[GT]T
+XX
+//
+AC  ECK120011502
+XX
+ID  NarL
+XX
+DE  wakrrkTA
+PO       A     C     G     T
+1       38     4    17    32
+2       54     9    15    13
+3        8     0    36    47
+4       25    12    45     9
+5       41     5    45     0
+6        9     0    54    28
+7        0     4     2    85
+8       86     0     0     5
+XX
+BS  AAGGAGTA
+BS  TGTAATTA
+BS  AATGAGTA
+BS  TATGGGCA
+BS  TGGCGGTA
+BS  GAGAGGTA
+BS  TCGAGGTA
+BS  CCGAAGTA
+BS  GAGGAGTA
+BS  AAGTAGTA
+BS  GATAGGTA
+BS  AAGCATTA
+BS  AATTGATA
+BS  ACGGAGTA
+BS  AATGAGTT
+BS  GATCGATA
+BS  AATAAATA
+BS  TATCGGTA
+BS  TATAATTA
+BS  TTGCATTA
+BS  AATGATTA
+BS  AAAGCGTA
+BS  AGAAAGTA
+BS  TATGGGTA
+BS  AAGGAGTA
+BS  TGTGGTTA
+BS  CATCGGTA
+BS  TAAGGGTA
+BS  TGTACTCA
+BS  AGTGAGTA
+BS  TATGGGTA
+BS  TATCATTA
+BS  GATAGATA
+BS  CATGGGTA
+BS  AAGGAGTA
+BS  GATGGGTA
+BS  GATAATTA
+BS  AAGGGGTA
+BS  TAGGAATT
+BS  ATAAAGTA
+BS  GATGGGGA
+BS  AGTGAGTA
+BS  TCTGGGTA
+BS  TGGTGGTA
+BS  AAAAGATA
+BS  ATTCGTTA
+BS  AGTAAGTA
+BS  GGTGCGTT
+BS  TAGCGGTA
+BS  TTGAGGTA
+BS  GCGGATTA
+BS  TTGGGTTA
+BS  AATGGGTA
+BS  AAGGATTA
+BS  TATGGTTA
+BS  TGTGATTA
+BS  GATCGTTA
+BS  AAATGGTA
+BS  ATTGGTTA
+BS  TCGGGGTA
+BS  TCGGGGTA
+BS  TAGCATTT
+BS  AATGAGTA
+BS  AATGGGCA
+BS  GTGTGGTA
+BS  TGTAATTA
+BS  AATACGTA
+BS  AATGGGTA
+BS  AAGGAGTA
+BS  TAGAGTTA
+BS  AAGTGGTA
+BS  ATTGATTA
+BS  TGTGGTTA
+BS  GATAAGTT
+BS  AGTAAATA
+BS  ACATGTTA
+BS  TAGGATTA
+BS  TTGTATGA
+BS  GTGAGGTA
+BS  TTGAATTA
+BS  AGGGAGTA
+BS  AAGGGGTA
+BS  AATAATTA
+BS  TTTTGGTA
+BS  GTGGAATA
+BS  AAGGAGCA
+BS  TATAGGTA
+BS  CAACAGTA
+BS  GATGGATA
+BS  AAGGGTTA
+BS  GCTACGTA
+CC  program: tab
+CC  matrix.nb: 59
+CC  consensus.strict: aatgggTA
+CC  consensus.strict.rc: TACCCATT
+CC  consensus.IUPAC: wakrrkTA
+CC  consensus.IUPAC.rc: TAMYYMTW
+CC  consensus.regexp: [at]a[gt][ag][ag][gt]TA
+CC  consensus.regexp.rc: TA[AC][CT][CT][AC]T[AT]
+XX
+//
+AC  ECK120011508
+XX
+ID  NarP
+XX
+DE  mTACyyct
+PO       A     C     G     T
+1        9     9     0     2
+2        0     0     0    20
+3       18     0     2     0
+4        4    16     0     0
+5        0    13     1     6
+6        3    10     2     5
+7        4    12     0     4
+8        1     2     3    14
+XX
+BS  ATACCTCT
+BS  ATACTCCT
+BS  ATACCCCG
+BS  CTACCGCT
+BS  ATACCCAT
+BS  ATACCACT
+BS  ATAACCCT
+BS  CTACTCAT
+BS  CTAACTCT
+BS  CTAATCCT
+BS  TTACCCCG
+BS  CTAACCAT
+BS  CTACCGCC
+BS  ATACCATT
+BS  ATGCCCAT
+BS  CTACCTCA
+BS  CTACGCTT
+BS  TTACTTTT
+BS  ATACTTTC
+BS  CTGCTACG
+CC  program: tab
+CC  matrix.nb: 60
+CC  consensus.strict: aTACccct
+CC  consensus.strict.rc: AGGGGTAT
+CC  consensus.IUPAC: mTACyyct
+CC  consensus.IUPAC.rc: AGRRGTAK
+CC  consensus.regexp: [ac]TAC[ct][ct]ct
+CC  consensus.regexp.rc: AG[AG][AG]GTA[GT]
+XX
+//
+AC  ECK120011378
+XX
+ID  NhaR
+XX
+DE  awTCgGwwTwTaCkr
+PO       A     C     G     T
+1        4     1     0     1
+2        2     0     1     3
+3        1     0     0     5
+4        0     5     0     1
+5        1     1     4     0
+6        0     0     5     1
+7        4     0     0     2
+8        2     0     0     4
+9        0     0     0     6
+10       2     0     0     4
+11       0     0     0     6
+12       4     1     0     1
+13       0     5     1     0
+14       0     0     2     4
+15       3     0     3     0
+XX
+BS  CATCGGAATTTACTG
+BS  ATTCGGAATATCCTG
+BS  ATTCGTTTTTTACGA
+BS  TTTCGGATTTTTCGA
+BS  AATCAGATTATAGTG
+BS  AGATCGTTTTTACTA
+CC  program: tab
+CC  matrix.nb: 61
+CC  consensus.strict: atTCgGatTtTaCta
+CC  consensus.strict.rc: TAGTAAAATCCGAAT
+CC  consensus.IUPAC: awTCgGwwTwTaCkr
+CC  consensus.IUPAC.rc: YMGTAWAWWCCGAWT
+CC  consensus.regexp: a[at]TCgG[at][at]T[at]TaC[gt][ag]
+CC  consensus.regexp.rc: [CT][AC]GTA[AT]A[AT][AT]CCGA[AT]T
+XX
+//
+AC  ECK120033053
+XX
+ID  NrdR
+XX
+DE  cACwAyATmTwGsrktk
+PO       A     C     G     T
+1        1     4     0     1
+2        6     0     0     0
+3        0     6     0     0
+4        3     0     0     3
+5        5     1     0     0
+6        0     2     0     4
+7        6     0     0     0
+8        0     0     0     6
+9        4     2     0     0
+10       0     0     0     6
+11       4     0     0     2
+12       0     0     6     0
+13       1     2     2     1
+14       3     1     2     0
+15       1     0     2     3
+16       1     1     1     3
+17       0     0     2     4
+XX
+BS  CACTATATATAGGGGGT
+BS  CACTATATATAGACTTT
+BS  CACAATATATAGCAAAT
+BS  CACACTATCTTGCAGTG
+BS  TACAACATATTGGGTTG
+BS  AACTACATCTAGTATCT
+CC  program: tab
+CC  matrix.nb: 62
+CC  consensus.strict: cACaAtATaTaGcattt
+CC  consensus.strict.rc: AAATGCTATATATTGTG
+CC  consensus.IUPAC: cACwAyATmTwGsrktk
+CC  consensus.IUPAC.rc: MAMYSCWAKATRTWGTG
+CC  consensus.regexp: cAC[at]A[ct]AT[ac]T[at]G[cg][ag][gt]t[gt]
+CC  consensus.regexp.rc: [AC]A[AC][CT][CG]C[AT]A[GT]AT[AG]T[AT]GTG
+XX
+//
+AC  ECK120016814
+XX
+ID  NsrR
+XX
+DE  AArATGcwtwT
+PO       A     C     G     T
+1       32     0     0     7
+2       39     0     0     0
+3       11     9    15     4
+4       36     0     1     2
+5        0     0     1    38
+6        1     0    38     0
+7        6    22     4     7
+8       25     1     3    10
+9        9     3     7    20
+10      11     3     0    25
+11       9     1     1    28
+XX
+BS  AAGATGTTGTA
+BS  AAAATGCAGAG
+BS  AAGAGGCATAT
+BS  AACGTGCATTT
+BS  AACATGTATAT
+BS  AACATGGTATT
+BS  AAAATGTTCTT
+BS  AAAATACATTT
+BS  AAGATGCATTT
+BS  AAAATGCATTT
+BS  AAAATGAGTAA
+BS  AAAATGTTATT
+BS  AAAATGCAGCA
+BS  AAGATGAACTT
+BS  AACATGCTGTT
+BS  AACATGCTTTT
+BS  TAGATGGTTTC
+BS  AAGATGCATTA
+BS  AAAATGCAAAT
+BS  TATATGAGTTA
+BS  AAATTGCAATT
+BS  TACATGATTAT
+BS  TAGATGTAAAT
+BS  TAAATGGTTCT
+BS  AAGATGCATTT
+BS  AAGATGCAAAA
+BS  TAGATGGAACA
+BS  AATATGCCGAT
+BS  AAGATGAGTTT
+BS  AAGATGAATTT
+BS  AAGATGTATTT
+BS  AAGATGCTGTT
+BS  AAAATGCAATT
+BS  AATATGTAAAA
+BS  AATTTGCATAT
+BS  AACATGCAGTT
+BS  TACATGCACTT
+BS  AAGATGCATTT
+BS  AACATGCATTA
+CC  program: tab
+CC  matrix.nb: 63
+CC  consensus.strict: AAgATGcattT
+CC  consensus.strict.rc: AAATGCATCTT
+CC  consensus.IUPAC: AArATGcwtwT
+CC  consensus.IUPAC.rc: AWAWGCATYTT
+CC  consensus.regexp: AA[ag]ATGc[at]t[at]T
+CC  consensus.regexp.rc: A[AT]A[AT]GCAT[CT]TT
+XX
+//
+AC  ECK125134687
+XX
+ID  NtrC
+XX
+DE  tGCmCyAaaATsGtGCA
+PO       A     C     G     T
+1        3     3     1    10
+2        0     1    14     2
+3        0    15     2     0
+4        8     6     2     1
+5        0    14     1     2
+6        3     9     0     5
+7       14     0     1     2
+8        8     4     3     2
+9       11     2     4     0
+10      15     0     0     2
+11       2     1     1    13
+12       1     5    10     1
+13       1     0    15     1
+14       0     3     3    11
+15       1     0    15     1
+16       1    15     0     1
+17      13     1     0     3
+XX
+BS  CGCACTATGACAGTGCA
+BS  GCCCTATAAATCGTGCA
+BS  TGCCCCAGAATGGTGCA
+BS  CGCACCAGATTGGTGCC
+BS  TGCGCTAAAATTGTGCA
+BS  TGCGTCAGAATGGCGCA
+BS  CGCACCAAAAGCGGGCA
+BS  ATGTCAACGATGGCGCA
+BS  TGCACCACGATGGTTCA
+BS  TGCCCAAAAATCAGGCA
+BS  TGCCCTGAAAACGTGCA
+BS  TGCACTAAAATGGTGCA
+BS  TGCCCCTAAAAGGCGTT
+BS  ATGCGCACCATCGTGCA
+BS  TGCACCACGATGTGAAT
+BS  AGCACTATATTGGTGCA
+BS  TGCACCAACATGGTGCT
+CC  program: tab
+CC  matrix.nb: 64
+CC  consensus.strict: tGCaCcAaaATgGtGCA
+CC  consensus.strict.rc: TGCACCATTTTGGTGCA
+CC  consensus.IUPAC: tGCmCyAaaATsGtGCA
+CC  consensus.IUPAC.rc: TGCACSATTTTRGKGCA
+CC  consensus.regexp: tGC[ac]C[ct]AaaAT[cg]GtGCA
+CC  consensus.regexp.rc: TGCAC[CG]ATTTT[AG]G[GT]GCA
+XX
+//
+AC  ECK125110257
+XX
+ID  OmpR
+XX
+DE  wahatGwWACmAarwdTww
+PO       A     C     G     T
+1        9     0     2     9
+2       14     2     2     2
+3        6     5     1     8
+4       10     4     4     2
+5        1     4     1    14
+6        0     0    17     3
+7        6     3     0    11
+8       15     0     0     5
+9       16     1     0     3
+10       3    15     0     2
+11       6     8     2     4
+12      16     0     2     2
+13      14     3     2     1
+14      13     0     5     2
+15       8     1     2     9
+16       6     4     5     5
+17       3     0     0    17
+18       8     1     3     8
+19      11     0     0     9
+XX
+BS  GCAGCTTAACAACAAATAT
+BS  AACGAGAAACCAAAACTTA
+BS  AAAGTGCTACAAAGATAAA
+BS  TTTTTGAAACCAAATCTTT
+BS  AATATGTAACCAAAAGTAA
+BS  ATCCTGTTACGGAATATTA
+BS  AACATGTAACTAAATGTAA
+BS  TATATGTAACAGATTATTA
+BS  TACACTTATCTAAGATTTT
+BS  TATCTGAACATAAAACACT
+BS  AATATGATACTAAAACTTT
+BS  TAAATGAAACATCTTAAAA
+BS  TAGATGTTTCAAAATGTAA
+BS  TGACCGAAATCACACTTAA
+BS  TATCTTTTTTCAAATATGA
+BS  AGCACGTAACATAGTTTGT
+BS  ACTTTGTAAACAGGGTTTT
+BS  GAAATGCAACGAGGTGTGT
+BS  AAAGTGTAACCAAAGGTTT
+BS  TATAGGCAAACATAAATAA
+CC  program: tab
+CC  matrix.nb: 65
+CC  consensus.strict: aatatGtAACcAaataTaa
+CC  consensus.strict.rc: TTATATTTGGTTACATATT
+CC  consensus.IUPAC: wahatGwWACmAarwdTww
+CC  consensus.IUPAC.rc: WWAHWYTTKGTWWCATDTW
+CC  consensus.regexp: [at]a[act]atG[at][AT]AC[ac]Aa[ag][at][agt]T[at][at]
+CC  consensus.regexp.rc: [AT][AT]A[ACT][AT][CT]TT[GT]GT[AT][AT]CAT[AGT]T[AT]
+XX
+//
+AC  ECK120011302
+XX
+ID  OxyR
+XX
+DE  wGrtwwwamctATyrmw
+PO       A     C     G     T
+1       12     7     5     8
+2        5     1    23     3
+3       14     4    12     2
+4        3     6     2    21
+5       10     4     0    18
+6       14     0     5    13
+7       11     4     4    13
+8       19     6     5     2
+9       11    16     3     2
+10       3    22     0     7
+11       5     1     4    22
+12      28     2     2     0
+13       0     0     0    32
+14       0    18     2    12
+15      18     0     9     5
+16      11    14     1     6
+17      13     1     2    16
+XX
+BS  AGGCATAACCTATCACT
+BS  CGGGTAAACCTATCGCT
+BS  CGATTATCCCTATCAAG
+BS  AGGTAAAACTTATCGAT
+BS  AGATCTCAACTATCGCA
+BS  AGGTTTAACCTGTTGCA
+BS  TGATTTGACCTCTCACA
+BS  TGGTTATCATTATCAAT
+BS  AGATAATGCCAATCAAA
+BS  TGGCTGTTCCTATCACA
+BS  CGATATAAACGATCGAT
+BS  AGCTCTTACCTATGACA
+BS  GAATATAAACTATCAAT
+BS  AGAATAAAACGATCAAT
+BS  AGCTTTTAGCAATTAAT
+BS  CTATCATACCTATTGAA
+BS  CTTTTTTACCTATCTCT
+BS  TGGTTAACCACATCACA
+BS  AGCCTGTGCCTATTACC
+BS  CGCCATGAACTATCGTG
+BS  TGAAAATGACTATTTAA
+BS  TAGCAATCATTATCATT
+BS  TGATTTCATCTCTTTCA
+BS  AGACCAGGATTATGACT
+BS  GCGTTTCCATTATCAAA
+BS  TTGTTACCACTATTAGT
+BS  GGATTGTGGTGATTTCT
+BS  GGATTAATTCAATTATA
+BS  GAATAAAACAGATTGTT
+BS  AAGAAGAACTAATTGCT
+BS  AATTTGTAGCAATTATT
+BS  CGGGTTGACATGTCTTA
+CC  program: tab
+CC  matrix.nb: 66
+CC  consensus.strict: aGattatacctATcact
+CC  consensus.strict.rc: AGTGATAGGTATAATCT
+CC  consensus.IUPAC: wGrtwwwamctATyrmw
+CC  consensus.IUPAC.rc: WKYRATAGKTWWWAYCW
+CC  consensus.regexp: [at]G[ag]t[at][at][at]a[ac]ctAT[ct][ag][ac][at]
+CC  consensus.regexp.rc: [AT][GT][CT][AG]ATAG[GT]T[AT][AT][AT]A[CT]C[AT]
+XX
+//
+AC  ECK120012246
+XX
+ID  PdhR
+XX
+DE  wATTgGTawraCcAwT
+PO       A     C     G     T
+1        7     0     0     3
+2        8     0     1     1
+3        0     2     0     8
+4        0     1     0     9
+5        0     2     6     2
+6        0     0     9     1
+7        0     1     0     9
+8        7     2     1     0
+9        6     0     0     4
+10       3     2     4     1
+11       7     0     1     2
+12       0     9     1     0
+13       0     7     2     1
+14      10     0     0     0
+15       6     0     1     3
+16       0     1     0     9
+XX
+BS  AATTGGTAAGACCAAT
+BS  AATTGGTATAACCAAT
+BS  AATTGGTAAAACCATT
+BS  TATTTGTATGACCAAT
+BS  TTTTGGTATGACCAAT
+BS  AATTGGTGACACTAAT
+BS  TACCGGTCAGACCATT
+BS  AGCTTGTCAAGCCAGT
+BS  AATTCTTATTTCGATT
+BS  AATTCGCAACTGGAAC
+CC  program: tab
+CC  matrix.nb: 67
+CC  consensus.strict: aATTgGTaagaCcAaT
+CC  consensus.strict.rc: ATTGGTCTTACCAATT
+CC  consensus.IUPAC: wATTgGTawraCcAwT
+CC  consensus.IUPAC.rc: AWTGGTYWTACCAATW
+CC  consensus.regexp: [at]ATTgGTa[at][ag]aCcA[at]T
+CC  consensus.regexp.rc: A[AT]TGGT[CT][AT]TACCAAT[AT]
+XX
+//
+AC  ECK120011306
+XX
+ID  PhoB
+XX
+DE  cTgwcAyAAAwcTgwm
+PO       A     C     G     T
+1        2    11     4     2
+2        0     0     1    18
+3        0     4    11     4
+4        6     1     2    10
+5        4    11     0     4
+6       15     0     4     0
+7        2     5     4     8
+8       17     1     0     1
+9       14     0     1     4
+10      16     1     2     0
+11       8     0     4     7
+12       2    11     4     2
+13       1     1     0    17
+14       4     0    12     3
+15       5     2     1    11
+16       5    12     1     1
+XX
+BS  CTGTCATAAAACTGTC
+BS  CTGTCATAAAGTTGTC
+BS  CTTACATATAACTGTC
+BS  TTTTCATAAATCTGTC
+BS  GTGTCAGAAAGATGAC
+BS  CTGTCATCACTCTGTC
+BS  CTGACACAAAATTGTG
+BS  GTGAAACAAAAGTGTA
+BS  CTGTAATATATCTTTA
+BS  CTGTAATAAAAGCGTA
+BS  CTCACGGAAGTCTGCC
+BS  ATCTTACAAATGTAAC
+BS  GTGACGGAGATCTATA
+BS  CTCTTATATAGCTGCT
+BS  ATTACAGAAAAATAAC
+BS  CTGTTAAATATGTAAA
+BS  GTTGAACAAAACATAC
+BS  TGCGTGAAAAACTGTC
+BS  CTGCCGCTAGGCTTGC
+CC  program: tab
+CC  matrix.nb: 68
+CC  consensus.strict: cTgtcAtAAAacTgtc
+CC  consensus.strict.rc: GACAGTTTTATGACAG
+CC  consensus.IUPAC: cTgwcAyAAAwcTgwm
+CC  consensus.IUPAC.rc: KWCAGWTTTRTGWCAG
+CC  consensus.regexp: cTg[at]cA[ct]AAA[at]cTg[at][ac]
+CC  consensus.regexp.rc: [GT][AT]CAG[AT]TTT[AG]TG[AT]CAG
+XX
+//
+AC  ECK120011492
+XX
+ID  PhoP
+XX
+DE  wrTTTAkswwyyGTTtA
+PO       A     C     G     T
+1        8     3     4    17
+2        8     5    15     4
+3        0     0     2    30
+4        4     1     4    23
+5        5     2     1    24
+6       24     2     4     2
+7        7     4     8    13
+8        5    14     8     5
+9       11     6     5    10
+10      11     3     6    12
+11       5    11     4    12
+12       1     8     4    19
+13       4     0    26     2
+14       1     0     2    29
+15       1     1     2    28
+16       5     1     5    21
+17      31     0     1     0
+XX
+BS  TGTTTAGGTTTTGTTTA
+BS  TGTTTAGGGTTTGTTTA
+BS  AGTTTAAGCTCCGTTTA
+BS  GGTTTATCGTTGGTTTA
+BS  GGTTTATTTAATGTTTA
+BS  TGTTTATAATTGGTTGA
+BS  ATTTAATCTATTGTTTA
+BS  TGTTTAACATCCATTGA
+BS  CGTATAGCTTATGTTTA
+BS  TAGTTAGGCGCTGTTTA
+BS  AATTTCACATTTGTTTA
+BS  TGTTTATGGGCGGTGTA
+BS  TCTTTAAGTTTTATTTA
+BS  AATTCAGCCTTCGTTTA
+BS  TGTATATGTCATGTTGA
+BS  TATTAAGGTTATGTTAA
+BS  TGTTTGACGAGTATTTA
+BS  TGTTTAGAAACGATTGA
+BS  TATTGCTCCACTGTTTA
+BS  GGTTTATTAACTTTTGA
+BS  TTTCAATCTGCCGTTTA
+BS  CATTAACACAATGTTTA
+BS  CGTTTGACTGCCGTTTG
+BS  ACTGTTTTGACCGTTTA
+BS  TATTTACAAGCTGATAA
+BS  ACGTTAAAAATCGTTAA
+BS  ACTATGTCACGTGTTAA
+BS  TGTTTATTTAGCGGATA
+BS  TTTATAGCCTTAGTGTA
+BS  AATGAATTACGTGTTCA
+BS  GCTGCTCCAGTTGTTAA
+BS  TTTGTGCCAATTTGCTA
+CC  program: tab
+CC  matrix.nb: 69
+CC  consensus.strict: tgTTTAtcatttGTTtA
+CC  consensus.strict.rc: TAAACAAATGATAAACA
+CC  consensus.IUPAC: wrTTTAkswwyyGTTtA
+CC  consensus.IUPAC.rc: TAAACRRWWSMTAAAYW
+CC  consensus.regexp: [at][ag]TTTA[gt][cg][at][at][ct][ct]GTTtA
+CC  consensus.regexp.rc: TAAAC[AG][AG][AT][AT][CG][AC]TAAA[CT][AT]
+XX
+//
+AC  ECK120012854
+XX
+ID  PurR
+XX
+DE  rcGCAAaCGtTTtCyT
+PO       A     C     G     T
+1       14     0     6     1
+2        2    14     2     3
+3        0     1    20     0
+4        1    18     2     0
+5       21     0     0     0
+6       21     0     0     0
+7       13     2     1     5
+8        0    21     0     0
+9        0     0    21     0
+10       2     0     5    14
+11       0     0     1    20
+12       0     1     1    19
+13       5     0     3    13
+14       0    20     0     1
+15       1     8     5     7
+16       2     2     1    16
+XX
+BS  GCGCAAGCGTTTTCCA
+BS  AAGCAATCGTTTTCGT
+BS  ACGCAACCGTTTTCCT
+BS  ACGCAAACGTTTTCCG
+BS  GCGGAAACGTTTTCCT
+BS  ACGCAATCGGTTACCT
+BS  GCGAAAACGTTTTCTT
+BS  AGGCAAACGTTTACCT
+BS  GTGGAAACGTTTGCTC
+BS  ACGCAAACGTTTTCTT
+BS  ACGCAAACGTGTGCGT
+BS  TCGCAAACGTTTGCTT
+BS  ATGCAATCGGTTACGC
+BS  ACGCAAACGATTACCT
+BS  ATGCAAACGATTTCAA
+BS  ACGCAAACGGTTTCGT
+BS  ACGCAATCGTTCTCTT
+BS  GCGCAACCGGTTTCTT
+BS  GCGCAAACGTTTTCGT
+BS  AGCCAATCGTTTTCCT
+BS  AAGCAAACGGTGATTT
+CC  program: tab
+CC  matrix.nb: 70
+CC  consensus.strict: acGCAAaCGtTTtCcT
+CC  consensus.strict.rc: AGGAAAACGTTTGCGT
+CC  consensus.IUPAC: rcGCAAaCGtTTtCyT
+CC  consensus.IUPAC.rc: ARGAAAACGTTTGCGY
+CC  consensus.regexp: [ag]cGCAAaCGtTTtC[ct]T
+CC  consensus.regexp.rc: A[AG]GAAAACGTTTGCG[CT]
+XX
+//
+AC  ECK120012029
+XX
+ID  PutA
+XX
+DE  arGTTGCACc
+PO       A     C     G     T
+1        3     1     0     1
+2        2     0     3     0
+3        0     0     5     0
+4        0     0     0     5
+5        0     0     0     5
+6        0     0     5     0
+7        0     5     0     0
+8        5     0     0     0
+9        1     4     0     0
+10       1     3     0     1
+XX
+BS  AAGTTGCACC
+BS  AAGTTGCAAC
+BS  TGGTTGCACA
+BS  CGGTTGCACC
+BS  AGGTTGCACT
+CC  program: tab
+CC  matrix.nb: 71
+CC  consensus.strict: agGTTGCACc
+CC  consensus.strict.rc: GGTGCAACCT
+CC  consensus.IUPAC: arGTTGCACc
+CC  consensus.IUPAC.rc: GGTGCAACYT
+CC  consensus.regexp: a[ag]GTTGCACc
+CC  consensus.regexp.rc: GGTGCAAC[CT]T
+XX
+//
+AC  RcsAB
+XX
+ID  RcsAB
+XX
+DE  wGrwTwayCCTwAAw
+PO       A     C     G     T
+1        4     0     0     2
+2        1     0     5     0
+3        3     0     3     0
+4        4     0     0     2
+5        1     0     0     5
+6        2     0     1     3
+7        3     1     1     1
+8        0     2     0     4
+9        1     5     0     0
+10       1     5     0     0
+11       0     0     1     5
+12       4     0     0     2
+13       6     0     0     0
+14       6     0     0     0
+15       3     0     0     3
+XX
+BS  AGATTTTTCCTAAAT
+BS  TGAATTGCCATTAAT
+BS  AGGATTATCCGAAAA
+BS  TGAATGACACTTAAT
+BS  AAGAAACTCCTAAAA
+BS  AGGTTAATCCTAAAA
+CC  program: tab
+CC  matrix.nb: 72
+CC  consensus.strict: aGaaTtatCCTaAAa
+CC  consensus.strict.rc: TTTTAGGATAATTCT
+CC  consensus.IUPAC: wGrwTwayCCTwAAw
+CC  consensus.IUPAC.rc: WTTWAGGRTWAWYCW
+CC  consensus.regexp: [at]G[ag][at]T[at]a[ct]CCT[at]AA[at]
+CC  consensus.regexp.rc: [AT]TT[AT]AGG[AG]T[AT]A[AT][CT]C[AT]
+XX
+//
+AC  ECK125110162
+XX
+ID  RcsB
+XX
+DE  AwymrGAykwwtyt
+PO       A     C     G     T
+1        7     0     0     0
+2        2     1     1     3
+3        0     2     0     5
+4        4     2     1     0
+5        3     0     4     0
+6        0     0     7     0
+7        7     0     0     0
+8        1     3     0     3
+9        0     0     2     5
+10       5     0     0     2
+11       4     0     0     3
+12       0     1     1     5
+13       0     5     0     2
+14       1     1     0     5
+XX
+BS  AACCAGATGAATCT
+BS  ATTAAGACTATTTA
+BS  ACCAGGACTAATCT
+BS  ATTCGGAATATCCT
+BS  ATTAGGATTTTGTT
+BS  AATGAGACGAATCT
+BS  AGTAGGATTTATCC
+CC  program: tab
+CC  matrix.nb: 73
+CC  consensus.strict: AttagGActaatct
+CC  consensus.strict.rc: AGATTAGTCCTAAT
+CC  consensus.IUPAC: AwymrGAykwwtyt
+CC  consensus.IUPAC.rc: ARAWWMRTCYKRWT
+CC  consensus.regexp: A[at][ct][ac][ag]GA[ct][gt][at][at]t[ct]t
+CC  consensus.regexp.rc: A[AG]A[AT][AT][AC][AG]TC[CT][GT][AG][AT]T
+XX
+//
+AC  RelBRelE
+XX
+ID  RelBRelE
+XX
+DE  myTACAmswnky
+PO       A     C     G     T
+1        3     1     0     0
+2        0     1     0     3
+3        0     0     0     4
+4        4     0     0     0
+5        0     4     0     0
+6        4     0     0     0
+7        3     1     0     0
+8        0     2     2     0
+9        2     0     0     2
+10       1     1     1     1
+11       0     0     2     2
+12       0     2     0     2
+XX
+BS  ATTACAAGAGGT
+BS  ATTACAAGTATC
+BS  ACTACAACATGC
+BS  CTTACACCTCTT
+CC  program: tab
+CC  matrix.nb: 74
+CC  consensus.strict: atTACAaca-gc
+CC  consensus.strict.rc: GC-TGTTGTAAT
+CC  consensus.IUPAC: myTACAmswnky
+CC  consensus.IUPAC.rc: RMNWSKTGTARK
+CC  consensus.regexp: [ac][ct]TACA[ac][cg][at][acgt][gt][ct]
+CC  consensus.regexp.rc: [AG][AC][ACGT][AT][CG][GT]TGTA[AG][GT]
+XX
+//
+AC  ECK120012337
+XX
+ID  RhaS
+XX
+DE  TtrmamtyTCsmCgkTw
+PO       A     C     G     T
+1        0     0     0     6
+2        0     1     1     4
+3        2     1     3     0
+4        4     2     0     0
+5        3     1     1     1
+6        3     2     0     1
+7        1     1     0     4
+8        1     2     0     3
+9        1     0     0     5
+10       0     5     0     1
+11       0     2     4     0
+12       2     2     1     1
+13       0     5     0     1
+14       1     0     4     1
+15       0     0     3     3
+16       1     0     0     5
+17       3     0     0     3
+XX
+BS  TTGAAAAATCGACGTTT
+BS  TTAACCTTTCGCCTGTT
+BS  TTAAATTTTCGACGGAA
+BS  TTCATCTTTCCCTGGTT
+BS  TGGCAATCACGGCATTA
+BS  TCGCGACCTTCTCGTTA
+CC  program: tab
+CC  matrix.nb: 75
+CC  consensus.strict: TtgaaattTCgaCggTa
+CC  consensus.strict.rc: TACCGTCGAAATTTCAA
+CC  consensus.IUPAC: TtrmamtyTCsmCgkTw
+CC  consensus.IUPAC.rc: WAMCGKSGARAKTKYAA
+CC  consensus.regexp: Tt[ag][ac]a[ac]t[ct]TC[cg][ac]Cg[gt]T[at]
+CC  consensus.regexp.rc: [AT]A[AC]CG[GT][CG]GA[AG]A[GT]T[GT][CT]AA
+XX
+//
+AC  ECK120011190
+XX
+ID  Rob
+XX
+DE  AyrgCAckdawyrhyAA
+PO       A     C     G     T
+1       10     0     0     0
+2        1     4     0     5
+3        3     2     5     0
+4        2     1     7     0
+5        0     9     0     1
+6        8     1     0     1
+7        2     6     0     2
+8        2     0     5     3
+9        3     1     3     3
+10       6     0     2     2
+11       3     2     0     5
+12       1     3     2     4
+13       4     0     6     0
+14       3     3     0     4
+15       1     3     0     6
+16      10     0     0     0
+17       8     1     0     1
+XX
+BS  ATGGCACGTAACGCCAA
+BS  ATCGCACGGGTGGATAA
+BS  ACAGCACTGAATGTCAA
+BS  ATGCCACGTTTTGCTAA
+BS  ACGACACGTTTCATTAA
+BS  ACAACCCAAATTGATAA
+BS  ACGGCATTGATAATCAT
+BS  ATCGCATAAACCACTAC
+BS  AAAGCTATAACTGTTAA
+BS  ATGGTAAGCGAGAAAAA
+CC  program: tab
+CC  matrix.nb: 76
+CC  consensus.strict: AtggCAcgaattgttAA
+CC  consensus.strict.rc: TTAACAATTCGTGCCAT
+CC  consensus.IUPAC: AyrgCAckdawyrhyAA
+CC  consensus.IUPAC.rc: TTRDYRWTHMGTGCYRT
+CC  consensus.regexp: A[ct][ag]gCAc[gt][agt]a[at][ct][ag][act][ct]AA
+CC  consensus.regexp.rc: TT[AG][AGT][CT][AG][AT]T[ACT][AC]GTGC[CT][AG]T
+XX
+//
+AC  ECK120033066
+XX
+ID  RstA
+XX
+DE  kwCwTwTvGTTACA
+PO       A     C     G     T
+1        0     0     1     3
+2        3     0     0     1
+3        0     4     0     0
+4        3     0     0     1
+5        0     0     0     4
+6        1     0     0     3
+7        0     0     0     4
+8        2     1     1     0
+9        0     0     4     0
+10       0     0     0     4
+11       0     0     0     4
+12       4     0     0     0
+13       0     4     0     0
+14       4     0     0     0
+XX
+BS  TACTTTTGGTTACA
+BS  TACATTTAGTTACA
+BS  GTCATTTAGTTACA
+BS  TACATATCGTTACA
+CC  program: tab
+CC  matrix.nb: 77
+CC  consensus.strict: taCaTtTaGTTACA
+CC  consensus.strict.rc: TGTAACTAAATGTA
+CC  consensus.IUPAC: kwCwTwTvGTTACA
+CC  consensus.IUPAC.rc: TGTAACBAWAWGWM
+CC  consensus.regexp: [gt][at]C[at]T[at]T[acg]GTTACA
+CC  consensus.regexp.rc: TGTAAC[CGT]A[AT]A[AT]G[AT][AC]
+XX
+//
+AC  ECK120033905
+XX
+ID  RutR
+XX
+DE  GACCrwtTrGTCmACk
+PO       A     C     G     T
+1        1     0     4     0
+2        4     1     0     0
+3        0     5     0     0
+4        1     4     0     0
+5        3     0     2     0
+6        2     0     1     2
+7        0     1     1     3
+8        0     0     0     5
+9        2     1     2     0
+10       0     0     5     0
+11       1     0     0     4
+12       0     5     0     0
+13       2     2     0     1
+14       5     0     0     0
+15       1     4     0     0
+16       0     0     2     3
+XX
+BS  GACCATTTGGTCCACT
+BS  GACAAATTCGACAAAG
+BS  GACCGTTTAGTCCACT
+BS  GACCGACTGGTCTACT
+BS  ACCCAGGTAGTCAACG
+CC  program: tab
+CC  matrix.nb: 78
+CC  consensus.strict: GACCaatTaGTCaACt
+CC  consensus.strict.rc: AGTTGACTAATTGGTC
+CC  consensus.IUPAC: GACCrwtTrGTCmACk
+CC  consensus.IUPAC.rc: MGTKGACYAAWYGGTC
+CC  consensus.regexp: GACC[ag][at]tT[ag]GTC[ac]AC[gt]
+CC  consensus.regexp.rc: [AC]GT[GT]GAC[CT]AA[AT][CT]GGTC
+XX
+//
+AC  ECK120012253
+XX
+ID  SlyA
+XX
+DE  ATawTtAmAGA
+PO       A     C     G     T
+1        6     0     0     0
+2        0     0     1     5
+3        4     1     0     1
+4        2     0     1     3
+5        1     0     0     5
+6        1     0     1     4
+7        5     0     1     0
+8        3     2     0     1
+9        5     0     0     1
+10       0     0     6     0
+11       6     0     0     0
+XX
+BS  ATATTTAAAGA
+BS  ATATTTAAAGA
+BS  ATATTAATAGA
+BS  ATCGTTGCAGA
+BS  AGAAATAAAGA
+BS  ATTATGACTGA
+CC  program: tab
+CC  matrix.nb: 79
+CC  consensus.strict: ATatTtAaAGA
+CC  consensus.strict.rc: TCTTTAAATAT
+CC  consensus.IUPAC: ATawTtAmAGA
+CC  consensus.IUPAC.rc: TCTKTAAWTAT
+CC  consensus.regexp: ATa[at]TtA[ac]AGA
+CC  consensus.regexp.rc: TCT[GT]TAA[AT]TAT
+XX
+//
+AC  ECK120011298
+XX
+ID  SoxS
+XX
+DE  tTTrrymdwthgTGCcrT
+PO       A     C     G     T
+1        5     2     1    16
+2        1     0     4    19
+3        1     0     2    21
+4       11     0     9     4
+5        9     2     9     4
+6        1    13     1     9
+7        9     7     4     4
+8        9     2     6     7
+9        8     2     0    14
+10       4     3     2    15
+11       7     7     0    10
+12       5     1    15     3
+13       2     1     1    20
+14       1     0    23     0
+15       0    21     1     2
+16       3    15     2     4
+17      13     0     6     5
+18       1     4     0    19
+XX
+BS  TTTGGTCTTTCGTGCCAT
+BS  TTTGGTTTTTCGTGCCAT
+BS  TTTAACCGTTAGTGCCTC
+BS  ATTGCCCATTTGTGCCAC
+BS  TTTGACATTCAGTGCTGT
+BS  GTTGGCGTTACGTGCCAT
+BS  TTTGATCGATTGAGCCTT
+BS  TTTGATCCATTATGCCTT
+BS  TTTAGCAATTAATGCAAC
+BS  TTTAGCAAAACGTGGCAT
+BS  TGTAGTGGTTTATGCGAT
+BS  TTTGTCAAAATGTGCAAC
+BS  TTTTACAGTTTCTGCTTT
+BS  TTGACAGATTTGTGCCAT
+BS  TGTAGCACAGTGTGCAGT
+BS  ATTAATAGATAATGCCAA
+BS  CTTATCCACCCGTGCGAT
+BS  TTTAACAGTTATAGCTTT
+BS  CTTAATGAAACGTGTCGT
+BS  TTTATCAATTTGGGTTGT
+BS  AATGATTATCAATGCCGT
+BS  TGATGGTTTTAGTGCCGT
+BS  AGGTGCTTATTTCGCCAT
+BS  ATTTTTCTCGCTTACCAT
+CC  program: tab
+CC  matrix.nb: 80
+CC  consensus.strict: tTTaacaatttgTGCcaT
+CC  consensus.strict.rc: ATGGCACAAATTGTTAAA
+CC  consensus.IUPAC: tTTrrymdwthgTGCcrT
+CC  consensus.IUPAC.rc: AYGGCACDAWHKRYYAAA
+CC  consensus.regexp: tTT[ag][ag][ct][ac][agt][at]t[act]gTGCc[ag]T
+CC  consensus.regexp.rc: A[CT]GGCAC[AGT]A[AT][ACT][GT][AG][CT][CT]AAA
+XX
+//
+AC  ECK120012482
+XX
+ID  TorR
+XX
+DE  KCTRWTYWT
+PO       A     C     G     T
+1        0     0     2     6
+2        1     7     0     0
+3        0     1     1     6
+4        2     0     6     0
+5        2     0     0     6
+6        1     0     0     7
+7        0     6     0     2
+8        6     0     0     2
+9        0     1     0     7
+XX
+BS  TCTGTTCAT
+BS  TCTGTTCAT
+BS  GCCGTTCAT
+BS  GCTGTTCAT
+BS  TCTGTATAT
+BS  TCTGATTTT
+BS  TATAATCTT
+BS  TCGATTCAC
+CC  program: tab
+CC  matrix.nb: 81
+CC  consensus.strict: TCTGTTCAT
+CC  consensus.strict.rc: ATGAACAGA
+CC  consensus.IUPAC: KCTRWTYWT
+CC  consensus.IUPAC.rc: AWRAWYAGM
+CC  consensus.regexp: [GT]CT[AG][AT]T[CT][AT]T
+CC  consensus.regexp.rc: A[AT][AG]A[AT][CT]AG[AC]
+XX
+//
+AC  ECK120012176
+XX
+ID  TrpR
+XX
+DE  CTmkTtaaCTAGTACr
+PO       A     C     G     T
+1        0     6     0     0
+2        0     1     0     5
+3        4     2     0     0
+4        0     0     4     2
+5        0     1     0     5
+6        1     0     1     4
+7        4     1     0     1
+8        4     0     1     1
+9        0     6     0     0
+10       0     0     1     5
+11       5     0     1     0
+12       0     0     6     0
+13       0     0     0     6
+14       5     0     0     1
+15       0     6     0     0
+16       4     0     2     0
+XX
+BS  CTAGTTAACTAGTACG
+BS  CTAGTTAACTAGTTCG
+BS  CTAGTTCTCTAGTACA
+BS  CTCTTTAGCGAGTACA
+BS  CTCGTGTACTGGTACA
+BS  CCATCAAACTAGTACA
+CC  program: tab
+CC  matrix.nb: 82
+CC  consensus.strict: CTagTtaaCTAGTACa
+CC  consensus.strict.rc: TGTACTAGTTAACTAG
+CC  consensus.IUPAC: CTmkTtaaCTAGTACr
+CC  consensus.IUPAC.rc: YGTACTAGTTAAMKAG
+CC  consensus.regexp: CT[ac][gt]TtaaCTAGTAC[ag]
+CC  consensus.regexp.rc: [CT]GTACTAGTTAA[AC][GT]AG
+XX
+//
+AC  ECK120011194
+XX
+ID  TyrR
+XX
+DE  GTAAWytwwtmtwTACA
+PO       A     C     G     T
+1        0     0    19     0
+2        0     0     3    16
+3       15     3     1     0
+4       16     3     0     0
+5       14     0     0     5
+6        3     6     2     8
+7        4     3     4     8
+8        5     3     1    10
+9        6     4     3     6
+10       3     0     4    12
+11       6     9     1     3
+12       4     2     3    10
+13       7     0     2    10
+14       3     0     2    14
+15      16     2     0     1
+16       0    19     0     0
+17      19     0     0     0
+XX
+BS  GTAAATTTATCTATACA
+BS  GTACATTTTTATTTACA
+BS  GTACATTTATATTTACA
+BS  GGAATTTTTTCTTTACA
+BS  GTAATTTATTATTTACA
+BS  GTAAATCACACTTTACA
+BS  GTAAAATAATATATACA
+BS  GTAAAGTTTTCAATCCA
+BS  GTAAACAAATTAATACA
+BS  GTAAACGGGGTTTTACA
+BS  GTAATCATCGCTGAACA
+BS  GTGAAAATCTCAATACA
+BS  GTCAACTTTTTGAAACA
+BS  GTCAAACCGACGTTACA
+BS  GTCAATGATTGTTGACA
+BS  GGACTCGCCGCATTACA
+BS  GTAAACCTGGAGAACCA
+BS  GGAATTGCAAACTTACA
+BS  GTAAAGATATCCGGTCA
+CC  program: tab
+CC  matrix.nb: 83
+CC  consensus.strict: GTAAAtttatcttTACA
+CC  consensus.strict.rc: TGTAAAGATAAATTTAC
+CC  consensus.IUPAC: GTAAWytwwtmtwTACA
+CC  consensus.IUPAC.rc: TGTAWAKAWWARWTTAC
+CC  consensus.regexp: GTAA[AT][ct]t[at][at]t[ac]t[at]TACA
+CC  consensus.regexp.rc: TGTA[AT]A[GT]A[AT][AT]A[AG][AT]TTAC
+XX
+//
+AC  ECK120012165
+XX
+ID  UlaR
+XX
+DE  kTCAvdwbkAATCAhwA
+PO       A     C     G     T
+1        0     0     2     2
+2        0     0     0     4
+3        0     4     0     0
+4        4     0     0     0
+5        2     1     1     0
+6        2     0     1     1
+7        2     0     0     2
+8        0     1     1     2
+9        0     0     1     3
+10       4     0     0     0
+11       4     0     0     0
+12       0     0     0     4
+13       0     4     0     0
+14       4     0     0     0
+15       2     1     0     1
+16       3     0     0     1
+17       4     0     0     0
+XX
+BS  GTCAGGATTAATCAAAA
+BS  TTCAAAAGTAATCACAA
+BS  GTCACATTTAATCATAA
+BS  TTCAATTCGAATCAATA
+CC  program: tab
+CC  matrix.nb: 84
+CC  consensus.strict: gTCAaaattAATCAaaA
+CC  consensus.strict.rc: TTTTGATTAATTTTGAC
+CC  consensus.IUPAC: kTCAvdwbkAATCAhwA
+CC  consensus.IUPAC.rc: TWDTGATTMVWHBTGAM
+CC  consensus.regexp: [gt]TCA[acg][agt][at][cgt][gt]AATCA[act][at]A
+CC  consensus.regexp.rc: T[AT][AGT]TGATT[AC][ACG][AT][ACT][CGT]TGA[AC]
+XX
+//
+AC  ECK120012145
+XX
+ID  UxuR
+XX
+DE  wdTrrTTrACCArkT
+PO       A     C     G     T
+1        2     0     0     2
+2        1     0     2     1
+3        0     0     0     4
+4        1     0     3     0
+5        1     0     3     0
+6        0     0     0     4
+7        0     0     0     4
+8        3     0     1     0
+9        4     0     0     0
+10       0     4     0     0
+11       0     4     0     0
+12       4     0     0     0
+13       3     0     1     0
+14       0     0     1     3
+15       0     0     0     4
+XX
+BS  TGTGGTTAACCAATT
+BS  AATGGTTGACCAATT
+BS  ATTAGTTAACCAATT
+BS  TGTGATTAACCAGGT
+CC  program: tab
+CC  matrix.nb: 85
+CC  consensus.strict: agTggTTaACCAatT
+CC  consensus.strict.rc: AATTGGTTAACCACT
+CC  consensus.IUPAC: wdTrrTTrACCArkT
+CC  consensus.IUPAC.rc: AMYTGGTYAAYYAHW
+CC  consensus.regexp: [at][agt]T[ag][ag]TT[ag]ACCA[ag][gt]T
+CC  consensus.regexp.rc: A[AC][CT]TGGT[CT]AA[CT][CT]A[ACT][AT]
+XX
+//
+AC  ECK120013786
+XX
+ID  XylR
+XX
+DE  vAwAwwhyryAAkyGw
+PO       A     C     G     T
+1        1     1     2     0
+2        4     0     0     0
+3        3     0     0     1
+4        4     0     0     0
+5        3     0     0     1
+6        2     0     0     2
+7        1     1     0     2
+8        0     3     0     1
+9        2     0     2     0
+10       0     1     0     3
+11       4     0     0     0
+12       4     0     0     0
+13       0     0     1     3
+14       0     1     0     3
+15       0     0     4     0
+16       2     0     0     2
+XX
+BS  GAAATAACATAATTGA
+BS  GATAATTCACAAGTGT
+BS  CAAAAATCGTAATCGA
+BS  AAAAATCTGTAATTGT
+CC  program: tab
+CC  matrix.nb: 86
+CC  consensus.strict: gAaAaatcatAAttGa
+CC  consensus.strict.rc: TCAATTATGATTTTTC
+CC  consensus.IUPAC: vAwAwwhyryAAkyGw
+CC  consensus.IUPAC.rc: WCRMTTRYRDWWTWTB
+CC  consensus.regexp: [acg]A[at]A[at][at][act][ct][ag][ct]AA[gt][ct]G[at]
+CC  consensus.regexp.rc: [AT]C[AG][AC]TT[AG][CT][AG][AGT][AT][AT]T[AT]T[CGT]
+XX
+//
