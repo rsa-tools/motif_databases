@@ -1,0 +1,6 @@
+
+https://doi.org/10.1093/nar/gkad1077
+
+https://hocomoco.autosome.org
+
+HOCOMOCO motif collection is distributed under WTFPL. If you prefer more standard licenses, feel free to treat WTFPL as CC-BY. 
