@@ -1,0 +1,6 @@
+
+https://autosome.org/DMMPMM
+
+https://doi.org/10.1093/bioinformatics/btp434
+
+Software and the collection of regulatory motifs are freely available at http://line.imb.ac.ru/DMMPMM.
