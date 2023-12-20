@@ -1,6 +1,6 @@
 # rsa-tools/motif_databases
 
-Collections of transcription factor binding motifs installed in the different servers of Regulatory Sequence Analysis Tools (RSAT).
+Collections of transcription factor binding motifs installed in the different servers of [http://rsat.eu](Regulatory Sequence Analysis Tools) (RSAT).
 
 This repository contains collections of cis-regulatory motifs imported from different sources, as well as supplementary data of individual articles. Some collections have a LICENSE file describing the terms of use.
 
