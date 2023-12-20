@@ -1,11 +1,7 @@
 # rsa-tools/motif_databases
 
-Databases of transcription factor binding motifs installed in the software suite Regulatory Sequence Analysis Tools (RSAT).
+Collections of transcription factor binding motifs installed in the different servers of Regulatory Sequence Analysis Tools (RSAT).
 
-This repository contains a collection of cis-regulatory motif collection imported from different open databases, as well as supplementary data of individual articles.
+This repository contains collections of cis-regulatory motifs imported from different sources, as well as supplementary data of individual articles. Some collections have a LICENSE file describing the terms of use.
 
 All motif files have been homogenised into the same format (TRANSFAC), which facilitates their usage (e.g. comparison and clustering of motifs, using motifs from different databases).
-
-
-
-
