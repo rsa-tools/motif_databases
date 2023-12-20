@@ -1,3 +1,21910 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec5b2a2892528d6098f31f6286bdc393da8ac7493d7bf59e03e15711e6b88d84
-size 462167
+AC MA0020_1
+XX
+ID  Dof2
+XX
+DE MA0020_1 MA0020_1_Dof2 ; From JASPAR
+PO	A	C	G	T
+01	21.0	0.0	0.0	0.0
+02	21.0	0.0	0.0	0.0
+03	21.0	0.0	0.0	0.0
+04	0.0	0.0	21.0	0.0
+05	3.0	14.0	2.0	2.0
+06	7.0	6.0	3.0	5.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10074718
+CC uniprot_ids:Q41800
+CC data_type:SELEX
+XX
+//
+AC MA0021_1
+XX
+ID  Dof3
+XX
+DE MA0021_1 MA0021_1_Dof3 ; From JASPAR
+PO	A	C	G	T
+01	21.0	0.0	0.0	0.0
+02	21.0	0.0	0.0	0.0
+03	21.0	0.0	0.0	0.0
+04	0.0	0.0	21.0	0.0
+05	0.0	10.0	3.0	8.0
+06	6.0	6.0	9.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10074718
+CC uniprot_ids:Q41801
+CC data_type:SELEX
+XX
+//
+AC MA0034_1
+XX
+ID  Gam1
+XX
+DE MA0034_1 MA0034_1_Gam1 ; From JASPAR
+PO	A	C	G	T
+01	4.0	6.0	11.0	4.0
+02	10.0	5.0	7.0	3.0
+03	3.0	13.0	0.0	9.0
+04	23.0	1.0	1.0	0.0
+05	25.0	0.0	0.0	0.0
+06	1.0	24.0	0.0	0.0
+07	3.0	14.0	6.0	2.0
+08	6.0	0.0	19.0	0.0
+09	10.0	11.0	0.0	4.0
+10	5.0	19.0	1.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:10069063
+CC uniprot_ids:Q96464
+CC data_type:SELEX
+XX
+//
+AC MA0053_1
+XX
+ID  MNB1A
+XX
+DE MA0053_1 MA0053_1_MNB1A ; From JASPAR
+PO	A	C	G	T
+01	15.0	0.0	0.0	0.0
+02	15.0	0.0	0.0	0.0
+03	15.0	0.0	0.0	0.0
+04	0.0	0.0	15.0	0.0
+05	3.0	9.0	0.0	3.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10074718
+CC uniprot_ids:P38564
+CC data_type:SELEX
+XX
+//
+AC MA0054_1
+XX
+ID  myb_Ph3
+XX
+DE MA0054_1 MA0054_1_myb_Ph3 ; From JASPAR
+PO	A	C	G	T
+01	19.0	3.0	2.0	46.0
+02	64.0	1.0	2.0	3.0
+03	63.0	0.0	2.0	5.0
+04	4.0	62.0	3.0	1.0
+05	10.0	27.0	16.0	17.0
+06	10.0	2.0	53.0	5.0
+07	13.0	8.0	0.0	49.0
+08	3.0	17.0	1.0	49.0
+09	28.0	1.0	0.0	41.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:7737128
+CC uniprot_ids:Q02994
+CC data_type:SELEX
+XX
+//
+AC MA0064_1
+XX
+ID  PBF
+XX
+DE MA0064_1 MA0064_1_PBF ; From JASPAR
+PO	A	C	G	T
+01	16.0	0.0	0.0	0.0
+02	16.0	0.0	0.0	0.0
+03	16.0	0.0	0.0	0.0
+04	0.0	0.0	16.0	0.0
+05	1.0	9.0	1.0	5.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10074718
+CC uniprot_ids:O24463
+CC data_type:SELEX
+XX
+//
+AC MA0082_1
+XX
+ID  squamosa
+XX
+DE MA0082_1 MA0082_1_squamosa ; From JASPAR
+PO	A	C	G	T
+01	11.0	14.0	1.0	4.0
+02	0.0	22.0	0.0	8.0
+03	24.0	0.0	4.0	2.0
+04	16.0	2.0	1.0	11.0
+05	23.0	0.0	0.0	7.0
+06	17.0	0.0	0.0	13.0
+07	24.0	1.0	0.0	5.0
+08	8.0	0.0	1.0	21.0
+09	14.0	1.0	15.0	0.0
+10	1.0	1.0	28.0	0.0
+11	14.0	5.0	1.0	10.0
+12	25.0	5.0	0.0	0.0
+13	21.0	2.0	3.0	4.0
+14	7.0	5.0	8.0	10.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:9826749
+CC uniprot_ids:Q38742
+CC data_type:SELEX
+XX
+//
+AC MA0096_1
+XX
+ID  bZIP910
+XX
+DE MA0096_1 MA0096_1_bZIP910 ; From JASPAR
+PO	A	C	G	T
+01	15.0	15.0	5.0	0.0
+02	0.0	0.0	0.0	35.0
+03	0.0	0.0	35.0	0.0
+04	35.0	0.0	0.0	0.0
+05	0.0	35.0	0.0	0.0
+06	0.0	0.0	35.0	0.0
+07	0.0	0.0	0.0	35.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:O22676
+CC data_type:SELEX
+XX
+//
+AC MA0097_1
+XX
+ID  bZIP911
+XX
+DE MA0097_1 MA0097_1_bZIP911 ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	31.0	1.0
+02	17.0	0.0	16.0	0.0
+03	0.0	0.0	0.0	33.0
+04	0.0	0.0	33.0	0.0
+05	33.0	0.0	0.0	0.0
+06	0.0	33.0	0.0	0.0
+07	0.0	0.0	33.0	0.0
+08	0.0	0.0	0.0	33.0
+09	0.0	1.0	32.0	0.0
+10	1.0	0.0	22.0	10.0
+11	11.0	20.0	1.0	1.0
+12	1.0	32.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:O22677
+CC data_type:SELEX
+XX
+//
+AC MA0121_1
+XX
+ID  ARR10
+XX
+DE MA0121_1 MA0121_1_ARR10 ; From JASPAR
+PO	A	C	G	T
+01	14.0	1.0	0.0	0.0
+02	0.0	0.0	15.0	0.0
+03	14.0	0.0	1.0	0.0
+04	0.0	0.0	0.0	15.0
+05	4.0	6.0	0.0	5.0
+06	1.0	8.0	0.0	6.0
+07	0.0	0.0	9.0	6.0
+08	3.0	6.0	4.0	2.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:12215502
+CC uniprot_ids:O49397
+CC data_type:SELEX
+XX
+//
+AC MA0123_1
+XX
+ID  abi4
+XX
+DE MA0123_1 MA0123_1_abi4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	49.0	0.0	0.0
+02	12.0	0.0	37.0	0.0
+03	0.0	20.0	29.0	0.0
+04	0.0	23.0	1.0	25.0
+05	1.0	3.0	45.0	0.0
+06	0.0	45.0	4.0	0.0
+07	5.0	28.0	6.0	10.0
+08	3.0	25.0	11.0	10.0
+09	3.0	31.0	5.0	10.0
+10	4.0	26.0	7.0	12.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:12368505
+CC uniprot_ids:Q8L7W9
+CC data_type:SELEX
+XX
+//
+AC MA0127_1
+XX
+ID  PEND
+XX
+DE MA0127_1 MA0127_1_PEND ; From JASPAR
+PO	A	C	G	T
+01	30.0	2.0	8.0	2.0
+02	6.0	19.0	7.0	10.0
+03	1.0	0.0	2.0	39.0
+04	4.0	0.0	4.0	34.0
+05	3.0	33.0	2.0	4.0
+06	0.0	2.0	2.0	38.0
+07	2.0	0.0	1.0	39.0
+08	32.0	7.0	2.0	1.0
+09	4.0	3.0	0.0	35.0
+10	2.0	5.0	14.0	21.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:9973626
+CC uniprot_ids:Q5DW98
+CC data_type:SELEX
+XX
+//
+AC MA0128_1
+XX
+ID  EmBP-1
+XX
+DE MA0128_1 MA0128_1_EmBP-1 ; From JASPAR
+PO	A	C	G	T
+01	9.0	0.0	0.0	4.0
+02	1.0	7.0	4.0	1.0
+03	13.0	0.0	0.0	0.0
+04	0.0	12.0	0.0	1.0
+05	0.0	0.0	13.0	0.0
+06	0.0	0.0	0.0	13.0
+07	0.0	1.0	12.0	0.0
+08	0.0	1.0	12.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:Group G
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:10561063
+CC uniprot_ids:P25032
+CC data_type:SELEX
+XX
+//
+AC MA0129_1
+XX
+ID  TGA1A
+XX
+DE MA0129_1 MA0129_1_TGA1A ; From JASPAR
+PO	A	C	G	T
+01	4.0	4.0	0.0	7.0
+02	13.0	0.0	1.0	1.0
+03	0.0	14.0	0.0	1.0
+04	2.0	0.0	13.0	0.0
+05	1.0	0.0	0.0	14.0
+06	0.0	15.0	0.0	0.0
+07	13.0	0.0	1.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:10561063
+CC uniprot_ids:P14232
+CC data_type:SELEX
+XX
+//
+AC MA0549_1
+XX
+ID  BZR2
+XX
+DE MA0549_1 MA0549_1_BZR2 ; From JASPAR
+PO	A	C	G	T
+01	23.0	45.0	10.0	21.0
+02	41.0	8.0	50.0	0.0
+03	0.0	99.0	0.0	0.0
+04	89.0	0.0	4.0	6.0
+05	0.0	99.0	0.0	0.0
+06	0.0	0.0	99.0	0.0
+07	0.0	0.0	0.0	99.0
+08	3.0	0.0	96.0	0.0
+09	16.0	5.0	36.0	42.0
+10	17.0	33.0	46.0	3.0
+11	36.0	29.0	33.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15680330
+CC uniprot_ids:Q9LN63
+CC data_type:ChIP-chip
+XX
+//
+AC MA0551_1
+XX
+ID  HY5
+XX
+DE MA0551_1 MA0551_1_HY5 ; From JASPAR
+PO	A	C	G	T
+01	103.0	60.0	68.0	89.0
+02	108.0	56.0	62.0	94.0
+03	52.0	55.0	30.0	183.0
+04	9.0	8.0	279.0	24.0
+05	150.0	165.0	1.0	4.0
+06	0.0	317.0	1.0	2.0
+07	310.0	1.0	9.0	0.0
+08	3.0	311.0	5.0	1.0
+09	1.0	5.0	311.0	3.0
+10	0.0	9.0	1.0	310.0
+11	2.0	1.0	317.0	0.0
+12	4.0	1.0	165.0	150.0
+13	24.0	279.0	8.0	9.0
+14	183.0	30.0	55.0	52.0
+15	94.0	62.0	56.0	108.0
+16	89.0	68.0	60.0	103.0
+XX
+CC tax_group:plants
+CC tf_family:Group H
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:18287490
+CC uniprot_ids:O24646
+CC data_type:ChIP-chip
+XX
+//
+AC MA0552_1
+XX
+ID  PIF1
+XX
+DE MA0552_1 MA0552_1_PIF1 ; From JASPAR
+PO	A	C	G	T
+01	37.0	12.0	37.0	28.0
+02	25.0	0.0	53.0	36.0
+03	35.0	28.0	29.0	22.0
+04	53.0	8.0	40.0	13.0
+05	27.0	27.0	32.0	28.0
+06	9.0	17.0	73.0	15.0
+07	38.0	14.0	14.0	48.0
+08	0.0	103.0	11.0	0.0
+09	114.0	0.0	0.0	0.0
+10	0.0	113.0	1.0	0.0
+11	0.0	0.0	114.0	0.0
+12	0.0	2.0	0.0	112.0
+13	0.0	0.0	114.0	0.0
+14	22.0	23.0	51.0	18.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15448264
+CC uniprot_ids:Q8GZM7
+CC data_type:ChIP-chip
+XX
+//
+AC MA0553_1
+XX
+ID  SMZ
+XX
+DE MA0553_1 MA0553_1_SMZ ; From JASPAR
+PO	A	C	G	T
+01	0.0	105.0	0.0	42.0
+02	0.0	119.0	28.0	0.0
+03	0.0	0.0	0.0	147.0
+04	0.0	147.0	0.0	0.0
+05	0.0	0.0	147.0	0.0
+06	0.0	0.0	25.0	122.0
+07	135.0	12.0	0.0	0.0
+08	0.0	147.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:19582143
+CC uniprot_ids:Q6PV68
+CC data_type:ChIP-chip
+XX
+//
+AC MA0554_1
+XX
+ID  SOC1
+XX
+DE MA0554_1 MA0554_1_SOC1 ; From JASPAR
+PO	A	C	G	T
+01	288.0	123.0	99.0	378.0
+02	172.0	264.0	113.0	339.0
+03	65.0	27.0	34.0	762.0
+04	62.0	0.0	51.0	775.0
+05	117.0	47.0	89.0	635.0
+06	20.0	855.0	13.0	0.0
+07	0.0	617.0	9.0	262.0
+08	459.0	37.0	56.0	336.0
+09	137.0	78.0	0.0	673.0
+10	130.0	6.0	0.0	752.0
+11	22.0	8.0	0.0	858.0
+12	98.0	24.0	0.0	766.0
+13	90.0	71.0	86.0	641.0
+14	181.0	10.0	683.0	14.0
+15	17.0	23.0	665.0	183.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8774892
+CC uniprot_ids:O64645
+CC data_type:ChIP-chip
+XX
+//
+AC MA0555_1
+XX
+ID  SVP
+XX
+DE MA0555_1 MA0555_1_SVP ; From JASPAR
+PO	A	C	G	T
+01	28.0	24.0	21.0	19.0
+02	28.0	11.0	8.0	45.0
+03	28.0	1.0	10.0	53.0
+04	33.0	16.0	11.0	32.0
+05	7.0	85.0	0.0	0.0
+06	3.0	79.0	1.0	9.0
+07	58.0	16.0	7.0	11.0
+08	67.0	5.0	8.0	12.0
+09	86.0	0.0	0.0	6.0
+10	77.0	1.0	2.0	12.0
+11	78.0	8.0	3.0	3.0
+12	34.0	10.0	14.0	34.0
+13	16.0	0.0	74.0	2.0
+14	0.0	0.0	92.0	0.0
+15	71.0	10.0	0.0	11.0
+16	84.0	2.0	2.0	4.0
+17	77.0	7.0	2.0	6.0
+18	34.0	8.0	39.0	11.0
+19	50.0	16.0	5.0	21.0
+20	38.0	21.0	3.0	30.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8774892
+CC uniprot_ids:Q9FVC1
+CC data_type:ChIP-chip
+XX
+//
+AC MA0556_1
+XX
+ID  AP3
+XX
+DE MA0556_1 MA0556_1_AP3 ; From JASPAR
+PO	A	C	G	T
+01	92.0	36.0	20.0	143.0
+02	84.0	33.0	39.0	135.0
+03	48.0	241.0	0.0	2.0
+04	0.0	232.0	1.0	58.0
+05	185.0	61.0	11.0	34.0
+06	217.0	22.0	11.0	41.0
+07	283.0	0.0	0.0	8.0
+08	240.0	1.0	0.0	50.0
+09	156.0	10.0	104.0	21.0
+10	95.0	0.0	30.0	166.0
+11	98.0	2.0	191.0	0.0
+12	7.0	0.0	284.0	0.0
+13	183.0	56.0	5.0	47.0
+14	231.0	18.0	9.0	33.0
+15	243.0	9.0	19.0	20.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8774892
+CC uniprot_ids:P35632
+CC data_type:ChIP-seq
+XX
+//
+AC MA0557_1
+XX
+ID  FHY3
+XX
+DE MA0557_1 MA0557_1_FHY3 ; From JASPAR
+PO	A	C	G	T
+01	46.0	81.0	40.0	68.0
+02	75.0	58.0	25.0	77.0
+03	9.0	210.0	9.0	7.0
+04	226.0	3.0	2.0	4.0
+05	2.0	230.0	1.0	2.0
+06	3.0	16.0	213.0	3.0
+07	0.0	220.0	0.0	15.0
+08	4.0	0.0	228.0	3.0
+09	18.0	208.0	6.0	3.0
+10	16.0	40.0	17.0	162.0
+11	63.0	68.0	40.0	64.0
+12	82.0	44.0	50.0	59.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY-like_FRS/FRF
+CC tf_class:GCM domain factors
+CC pubmed_ids:21803941
+CC uniprot_ids:Q9LIE5
+CC data_type:ChIP-seq
+XX
+//
+AC MA0558_1
+XX
+ID  FLC
+XX
+DE MA0558_1 MA0558_1_FLC ; From JASPAR
+PO	A	C	G	T
+01	121.0	44.0	45.0	65.0
+02	90.0	61.0	63.0	61.0
+03	95.0	37.0	21.0	122.0
+04	82.0	26.0	36.0	131.0
+05	78.0	25.0	66.0	106.0
+06	54.0	193.0	12.0	16.0
+07	9.0	185.0	4.0	77.0
+08	135.0	70.0	37.0	33.0
+09	198.0	10.0	38.0	29.0
+10	261.0	0.0	3.0	11.0
+11	233.0	3.0	3.0	36.0
+12	193.0	3.0	18.0	61.0
+13	78.0	11.0	15.0	171.0
+14	141.0	0.0	134.0	0.0
+15	0.0	0.0	275.0	0.0
+16	217.0	21.0	6.0	31.0
+17	268.0	3.0	4.0	0.0
+18	257.0	1.0	15.0	2.0
+19	62.0	43.0	148.0	22.0
+20	109.0	47.0	17.0	102.0
+21	103.0	50.0	29.0	93.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:21464308
+CC uniprot_ids:Q5Q9J1
+CC data_type:ChIP-seq
+XX
+//
+AC MA0559_1
+XX
+ID  PI
+XX
+DE MA0559_1 MA0559_1_PI ; From JASPAR
+PO	A	C	G	T
+01	156.0	335.0	48.0	19.0
+02	57.0	394.0	44.0	63.0
+03	357.0	79.0	67.0	55.0
+04	448.0	12.0	83.0	15.0
+05	551.0	1.0	4.0	2.0
+06	498.0	0.0	12.0	48.0
+07	301.0	8.0	244.0	5.0
+08	312.0	14.0	69.0	163.0
+09	231.0	0.0	327.0	0.0
+10	7.0	6.0	545.0	0.0
+11	446.0	54.0	7.0	51.0
+12	495.0	7.0	24.0	32.0
+13	456.0	26.0	60.0	16.0
+14	256.0	58.0	199.0	45.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8774892
+CC uniprot_ids:P48007
+CC data_type:ChIP-seq
+XX
+//
+AC MA0560_1
+XX
+ID  PIF3
+XX
+DE MA0560_1 MA0560_1_PIF3 ; From JASPAR
+PO	A	C	G	T
+01	210.0	26.0	148.0	143.0
+02	58.0	131.0	222.0	116.0
+03	19.0	399.0	94.0	15.0
+04	0.0	527.0	0.0	0.0
+05	527.0	0.0	0.0	0.0
+06	0.0	409.0	0.0	118.0
+07	0.0	0.0	527.0	0.0
+08	0.0	0.0	0.0	527.0
+09	0.0	0.0	527.0	0.0
+10	259.0	33.0	137.0	98.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:10797009
+CC uniprot_ids:O80536
+CC data_type:ChIP-seq
+XX
+//
+AC MA0561_1
+XX
+ID  PIF4
+XX
+DE MA0561_1 MA0561_1_PIF4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	335.0	0.0	0.0
+02	335.0	0.0	0.0	0.0
+03	0.0	335.0	0.0	0.0
+04	49.0	0.0	286.0	0.0
+05	0.0	0.0	0.0	335.0
+06	0.0	0.0	335.0	0.0
+07	0.0	99.0	183.0	53.0
+08	64.0	206.0	65.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:22536829
+CC uniprot_ids:Q8W2F3
+CC data_type:ChIP-seq
+XX
+//
+AC MA0562_1
+XX
+ID  PIF5
+XX
+DE MA0562_1 MA0562_1_PIF5 ; From JASPAR
+PO	A	C	G	T
+01	0.0	78.0	0.0	208.0
+02	0.0	286.0	0.0	0.0
+03	286.0	0.0	0.0	0.0
+04	0.0	286.0	0.0	0.0
+05	91.0	0.0	195.0	0.0
+06	0.0	0.0	0.0	286.0
+07	0.0	0.0	286.0	0.0
+08	0.0	95.0	161.0	30.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:22536829
+CC uniprot_ids:Q84LH8
+CC data_type:ChIP-seq
+XX
+//
+AC MA0563_1
+XX
+ID  SEP3
+XX
+DE MA0563_1 MA0563_1_SEP3 ; From JASPAR
+PO	A	C	G	T
+01	24.0	37.0	29.0	60.0
+02	19.0	111.0	5.0	15.0
+03	1.0	97.0	1.0	51.0
+04	77.0	0.0	0.0	73.0
+05	12.0	28.0	5.0	105.0
+06	19.0	0.0	5.0	126.0
+07	0.0	0.0	0.0	150.0
+08	9.0	0.0	24.0	117.0
+09	11.0	3.0	22.0	114.0
+10	9.0	0.0	138.0	3.0
+11	0.0	7.0	114.0	29.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:19033361
+CC uniprot_ids:O22456
+CC data_type:ChIP-seq
+XX
+//
+AC MA0564_1
+XX
+ID  ABI3
+XX
+DE MA0564_1 MA0564_1_ABI3 ; From JASPAR
+PO	A	C	G	T
+01	6.0	60.0	9.0	25.0
+02	15.0	16.0	15.0	53.0
+03	3.0	7.0	85.0	5.0
+04	1.0	96.0	2.0	1.0
+05	97.0	1.0	1.0	1.0
+06	1.0	1.0	1.0	97.0
+07	1.0	1.0	96.0	1.0
+08	6.0	84.0	8.0	2.0
+09	50.0	15.0	13.0	22.0
+XX
+CC tax_group:plants
+CC tf_family:ABI3
+CC tf_class:B3
+CC pubmed_ids:30183137
+CC uniprot_ids:Q01593
+CC data_type:PBM
+XX
+//
+AC MA0566_1
+XX
+ID  MYC2
+XX
+DE MA0566_1 MA0566_1_MYC2 ; From JASPAR
+PO	A	C	G	T
+01	25.0	10.0	60.0	5.0
+02	9.0	91.0	0.0	0.0
+03	97.0	0.0	2.0	1.0
+04	0.0	85.0	0.0	15.0
+05	15.0	0.0	85.0	0.0
+06	1.0	2.0	0.0	97.0
+07	0.0	0.0	91.0	9.0
+08	5.0	60.0	10.0	25.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21284757
+CC uniprot_ids:Q39204
+CC data_type:PBM
+XX
+//
+AC MA0567_1
+XX
+ID  ERF1B
+XX
+DE MA0567_1 MA0567_1_ERF1B ; From JASPAR
+PO	A	C	G	T
+01	42.0	54.0	3.0	1.0
+02	1.0	1.0	98.0	1.0
+03	0.0	98.0	1.0	1.0
+04	4.0	96.0	0.0	0.0
+05	2.0	0.0	97.0	1.0
+06	2.0	92.0	2.0	4.0
+07	1.0	98.0	1.0	1.0
+08	58.0	5.0	24.0	12.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:21284757
+CC uniprot_ids:Q8LDC8
+CC data_type:PBM
+XX
+//
+AC MA0568_1
+XX
+ID  MYC3
+XX
+DE MA0568_1 MA0568_1_MYC3 ; From JASPAR
+PO	A	C	G	T
+01	25.0	28.0	40.0	7.0
+02	10.0	89.0	0.0	0.0
+03	97.0	0.0	2.0	1.0
+04	0.0	84.0	0.0	16.0
+05	16.0	0.0	84.0	0.0
+06	1.0	2.0	0.0	97.0
+07	0.0	0.0	89.0	10.0
+08	7.0	40.0	28.0	25.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9FIP9
+CC data_type:PBM
+XX
+//
+AC MA0569_1
+XX
+ID  MYC4
+XX
+DE MA0569_1 MA0569_1_MYC4 ; From JASPAR
+PO	A	C	G	T
+01	38.0	18.0	36.0	8.0
+02	5.0	95.0	0.0	0.0
+03	99.0	0.0	0.0	1.0
+04	0.0	94.0	0.0	6.0
+05	2.0	0.0	98.0	0.0
+06	0.0	1.0	0.0	99.0
+07	0.0	0.0	98.0	2.0
+08	2.0	72.0	8.0	17.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:O49687
+CC data_type:PBM
+XX
+//
+AC MA0005_2
+XX
+ID  AG
+XX
+DE MA0005_2 MA0005_2_AG ; From JASPAR
+PO	A	C	G	T
+01	21.0	20.0	6.0	19.0
+02	9.0	3.0	3.0	51.0
+03	10.0	0.0	1.0	55.0
+04	29.0	8.0	8.0	21.0
+05	0.0	66.0	0.0	0.0
+06	0.0	65.0	0.0	1.0
+07	31.0	3.0	6.0	26.0
+08	47.0	2.0	0.0	17.0
+09	52.0	0.0	1.0	13.0
+10	25.0	0.0	1.0	40.0
+11	17.0	15.0	11.0	23.0
+12	19.0	8.0	20.0	19.0
+13	7.0	0.0	57.0	2.0
+14	2.0	0.0	54.0	10.0
+15	22.0	17.0	5.0	22.0
+16	45.0	4.0	5.0	12.0
+17	40.0	6.0	9.0	11.0
+18	15.0	10.0	16.0	25.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:7901838
+CC uniprot_ids:P17839
+CC data_type:SELEX
+XX
+//
+AC MA0571_1
+XX
+ID  ANT
+XX
+DE MA0571_1 MA0571_1_ANT ; From JASPAR
+PO	A	C	G	T
+01	6.0	4.0	12.0	12.0
+02	5.0	7.0	13.0	9.0
+03	8.0	0.0	24.0	2.0
+04	0.0	32.0	0.0	2.0
+05	31.0	0.0	2.0	1.0
+06	0.0	34.0	0.0	0.0
+07	21.0	0.0	13.0	0.0
+08	8.0	6.0	15.0	5.0
+09	15.0	1.0	1.0	17.0
+10	0.0	3.0	0.0	31.0
+11	4.0	25.0	0.0	5.0
+12	0.0	34.0	0.0	0.0
+13	0.0	33.0	0.0	1.0
+14	9.0	11.0	13.0	1.0
+15	34.0	0.0	0.0	0.0
+16	7.0	1.0	16.0	10.0
+17	3.0	1.0	29.0	1.0
+18	2.0	10.0	3.0	19.0
+19	8.0	6.0	14.0	6.0
+20	12.0	10.0	4.0	8.0
+21	19.0	4.0	3.0	8.0
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:11058102
+CC uniprot_ids:Q38914
+CC data_type:SELEX
+XX
+//
+AC MA0573_1
+XX
+ID  ATHB-9
+XX
+DE MA0573_1 MA0573_1_ATHB-9 ; From JASPAR
+PO	A	C	G	T
+01	4.0	2.0	1.0	2.0
+02	5.0	3.0	3.0	3.0
+03	5.0	4.0	2.0	5.0
+04	3.0	8.0	2.0	5.0
+05	0.0	1.0	25.0	0.0
+06	0.0	6.0	0.0	20.0
+07	25.0	0.0	1.0	0.0
+08	26.0	0.0	0.0	0.0
+09	0.0	0.0	0.0	26.0
+10	0.0	0.0	26.0	0.0
+11	26.0	0.0	0.0	0.0
+12	0.0	0.0	0.0	26.0
+13	0.0	0.0	3.0	23.0
+14	17.0	0.0	9.0	0.0
+15	0.0	25.0	1.0	0.0
+16	5.0	1.0	4.0	7.0
+17	2.0	6.0	0.0	4.0
+18	0.0	3.0	4.0	3.0
+19	0.0	5.0	3.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:9747806
+CC uniprot_ids:O04292
+CC data_type:SELEX
+XX
+//
+AC MA0574_1
+XX
+ID  MYB15
+XX
+DE MA0574_1 MA0574_1_MYB15 ; From JASPAR
+PO	A	C	G	T
+01	4.0	73.0	9.0	14.0
+02	27.0	18.0	51.0	4.0
+03	64.0	18.0	18.0	0.0
+04	4.0	64.0	18.0	14.0
+05	0.0	0.0	100.0	0.0
+06	0.0	0.0	100.0	0.0
+07	0.0	0.0	0.0	100.0
+08	87.0	4.0	0.0	9.0
+09	0.0	0.0	100.0	0.0
+10	0.0	0.0	100.0	0.0
+11	0.0	0.0	0.0	100.0
+12	18.0	0.0	78.0	4.0
+13	4.0	0.0	87.0	9.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:9628022
+CC uniprot_ids:Q9LTC4
+CC data_type:SELEX
+XX
+//
+AC MA0575_1
+XX
+ID  MYB77
+XX
+DE MA0575_1 MA0575_1_MYB77 ; From JASPAR
+PO	A	C	G	T
+01	33.0	30.0	20.0	17.0
+02	57.0	17.0	17.0	9.0
+03	27.0	9.0	37.0	27.0
+04	6.0	30.0	20.0	44.0
+05	9.0	6.0	82.0	3.0
+06	68.0	3.0	23.0	6.0
+07	0.0	100.0	0.0	0.0
+08	50.0	0.0	50.0	0.0
+09	0.0	0.0	100.0	0.0
+10	0.0	0.0	0.0	100.0
+11	0.0	0.0	0.0	100.0
+12	68.0	3.0	26.0	3.0
+13	3.0	55.0	30.0	12.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:9628022
+CC uniprot_ids:Q9SN12
+CC data_type:SELEX
+XX
+//
+AC MA0576_1
+XX
+ID  RAX3
+XX
+DE MA0576_1 MA0576_1_RAX3 ; From JASPAR
+PO	A	C	G	T
+01	22.0	18.0	42.0	18.0
+02	0.0	14.0	86.0	0.0
+03	18.0	4.0	78.0	0.0
+04	14.0	9.0	55.0	22.0
+05	0.0	0.0	100.0	0.0
+06	0.0	0.0	100.0	0.0
+07	0.0	0.0	0.0	100.0
+08	78.0	4.0	4.0	14.0
+09	0.0	0.0	100.0	0.0
+10	0.0	0.0	100.0	0.0
+11	0.0	0.0	0.0	100.0
+12	0.0	0.0	96.0	4.0
+13	4.0	32.0	60.0	4.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:9628022
+CC uniprot_ids:Q9M2Y9
+CC data_type:SELEX
+XX
+//
+AC MA0578_1
+XX
+ID  SPL8
+XX
+DE MA0578_1 MA0578_1_SPL8 ; From JASPAR
+PO	A	C	G	T
+01	11.0	1.0	4.0	14.0
+02	11.0	0.0	6.0	13.0
+03	9.0	4.0	6.0	11.0
+04	10.0	1.0	4.0	15.0
+05	10.0	6.0	4.0	10.0
+06	3.0	10.0	2.0	15.0
+07	0.0	0.0	30.0	0.0
+08	0.0	0.0	0.0	30.0
+09	30.0	0.0	0.0	0.0
+10	0.0	30.0	0.0	0.0
+11	6.0	12.0	1.0	11.0
+12	10.0	7.0	0.0	13.0
+13	5.0	8.0	1.0	16.0
+14	13.0	5.0	0.0	12.0
+15	10.0	3.0	0.0	17.0
+16	11.0	6.0	0.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16095614
+CC uniprot_ids:Q8GXL3
+CC data_type:SELEX
+XX
+//
+AC MA0579_1
+XX
+ID  CDC5
+XX
+DE MA0579_1 MA0579_1_CDC5 ; From JASPAR
+PO	A	C	G	T
+01	28.0	24.0	32.0	15.0
+02	17.0	26.0	55.0	2.0
+03	0.0	92.0	4.0	4.0
+04	2.0	2.0	0.0	96.0
+05	6.0	85.0	0.0	8.0
+06	91.0	2.0	2.0	4.0
+07	2.0	0.0	93.0	4.0
+08	2.0	93.0	5.0	0.0
+09	4.0	4.0	91.0	0.0
+10	2.0	55.0	27.0	16.0
+11	18.0	23.0	45.0	14.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:8917598
+CC uniprot_ids:P92948
+CC data_type:SELEX
+XX
+//
+AC MA0580_1
+XX
+ID  DYT1
+XX
+DE MA0580_1 MA0580_1_DYT1 ; From JASPAR
+PO	A	C	G	T
+01	4.0	6.0	0.0	1.0
+02	3.0	1.0	7.0	0.0
+03	1.0	2.0	1.0	7.0
+04	2.0	2.0	6.0	1.0
+05	10.0	1.0	0.0	0.0
+06	3.0	0.0	7.0	1.0
+07	4.0	0.0	0.0	7.0
+08	0.0	11.0	0.0	0.0
+09	11.0	0.0	0.0	0.0
+10	0.0	11.0	0.0	0.0
+11	1.0	0.0	10.0	0.0
+12	0.0	0.0	0.0	11.0
+13	0.0	0.0	11.0	0.0
+14	11.0	0.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:22775442
+CC uniprot_ids:O81900
+CC data_type:SELEX
+XX
+//
+AC MA0581_1
+XX
+ID  LEC2
+XX
+DE MA0581_1 MA0581_1_LEC2 ; From JASPAR
+PO	A	C	G	T
+01	107.0	86.0	119.0	175.0
+02	96.0	163.0	165.0	63.0
+03	2.0	475.0	0.0	10.0
+04	487.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	487.0
+06	0.0	0.0	487.0	0.0
+07	0.0	487.0	0.0	0.0
+08	301.0	30.0	156.0	0.0
+09	115.0	218.0	60.0	94.0
+10	228.0	86.0	44.0	129.0
+11	96.0	79.0	62.0	250.0
+XX
+CC tax_group:plants
+CC tf_family:ABI3
+CC tf_class:B3
+CC pubmed_ids:16492731
+CC uniprot_ids:Q1PFR7
+CC data_type:SELEX
+XX
+//
+AC MA0582_1
+XX
+ID  RAV1
+XX
+DE MA0582_1 MA0582_1_RAV1 ; From JASPAR
+PO	A	C	G	T
+01	14.0	17.0	12.0	6.0
+02	16.0	11.0	10.0	14.0
+03	7.0	14.0	35.0	1.0
+04	0.0	62.0	0.0	0.0
+05	47.0	12.0	9.0	0.0
+06	62.0	4.0	3.0	0.0
+07	0.0	69.0	0.0	0.0
+08	69.0	0.0	0.0	0.0
+09	9.0	7.0	32.0	21.0
+10	41.0	4.0	4.0	20.0
+11	34.0	6.0	10.0	19.0
+12	27.0	9.0	17.0	16.0
+XX
+CC tax_group:plants
+CC tf_family:RAV
+CC tf_class:B3
+CC pubmed_ids:9862967
+CC uniprot_ids:Q9ZWM9
+CC data_type:SELEX
+XX
+//
+AC MA0583_1
+XX
+ID  RAV1
+XX
+DE MA0583_1 MA0583_1_RAV1 ; From JASPAR
+PO	A	C	G	T
+01	22.0	12.0	10.0	18.0
+02	13.0	15.0	8.0	28.0
+03	8.0	49.0	1.0	7.0
+04	40.0	6.0	8.0	11.0
+05	1.0	56.0	3.0	5.0
+06	0.0	65.0	0.0	0.0
+07	0.0	0.0	0.0	65.0
+08	0.0	0.0	58.0	0.0
+09	24.0	7.0	19.0	5.0
+10	12.0	15.0	18.0	9.0
+11	12.0	14.0	16.0	10.0
+12	8.0	20.0	5.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:RAV
+CC tf_class:B3
+CC pubmed_ids:9862967
+CC uniprot_ids:Q9ZWM9
+CC data_type:SELEX
+XX
+//
+AC MA0584_1
+XX
+ID  SEP1
+XX
+DE MA0584_1 MA0584_1_SEP1 ; From JASPAR
+PO	A	C	G	T
+01	14.0	15.0	7.0	15.0
+02	14.0	6.0	10.0	21.0
+03	11.0	4.0	6.0	30.0
+04	19.0	7.0	9.0	16.0
+05	0.0	51.0	0.0	0.0
+06	0.0	46.0	0.0	5.0
+07	39.0	5.0	1.0	6.0
+08	20.0	2.0	4.0	25.0
+09	37.0	0.0	0.0	14.0
+10	25.0	0.0	0.0	26.0
+11	28.0	4.0	4.0	15.0
+12	4.0	6.0	3.0	38.0
+13	26.0	0.0	25.0	0.0
+14	0.0	0.0	51.0	0.0
+15	23.0	11.0	3.0	14.0
+16	40.0	3.0	0.0	8.0
+17	33.0	5.0	5.0	8.0
+18	6.0	8.0	17.0	20.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8597661
+CC uniprot_ids:P29382
+CC data_type:SELEX
+XX
+//
+AC MA0001_2
+XX
+ID  AGL3
+XX
+DE MA0001_2 MA0001_2_AGL3 ; From JASPAR
+PO	A	C	G	T
+01	22.0	29.0	34.0	10.0
+02	16.0	9.0	29.0	41.0
+03	25.0	8.0	4.0	58.0
+04	27.0	16.0	13.0	39.0
+05	0.0	92.0	0.0	3.0
+06	0.0	79.0	0.0	16.0
+07	82.0	1.0	2.0	10.0
+08	40.0	4.0	3.0	48.0
+09	56.0	0.0	1.0	38.0
+10	35.0	0.0	0.0	60.0
+11	65.0	1.0	4.0	25.0
+12	25.0	4.0	3.0	63.0
+13	64.0	0.0	28.0	3.0
+14	0.0	0.0	92.0	3.0
+15	33.0	14.0	15.0	33.0
+16	52.0	5.0	7.0	31.0
+17	45.0	23.0	13.0	14.0
+18	21.0	24.0	26.0	24.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8597661
+CC uniprot_ids:P29383
+CC data_type:SELEX
+XX
+//
+AC MA0585_1
+XX
+ID  AGL1
+XX
+DE MA0585_1 MA0585_1_AGL1 ; From JASPAR
+PO	A	C	G	T
+01	21.0	11.0	15.0	18.0
+02	12.0	6.0	9.0	38.0
+03	4.0	1.0	9.0	51.0
+04	21.0	5.0	22.0	17.0
+05	0.0	65.0	0.0	0.0
+06	1.0	63.0	1.0	0.0
+07	30.0	6.0	7.0	22.0
+08	31.0	4.0	8.0	22.0
+09	42.0	1.0	1.0	21.0
+10	26.0	3.0	2.0	34.0
+11	14.0	14.0	9.0	28.0
+12	15.0	8.0	28.0	14.0
+13	7.0	0.0	56.0	2.0
+14	4.0	0.0	56.0	5.0
+15	26.0	6.0	5.0	28.0
+16	48.0	10.0	4.0	3.0
+17	39.0	9.0	8.0	9.0
+18	18.0	15.0	19.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8597661
+CC uniprot_ids:P29381
+CC data_type:SELEX
+XX
+//
+AC MA0587_1
+XX
+ID  TCP16
+XX
+DE MA0587_1 MA0587_1_TCP16 ; From JASPAR
+PO	A	C	G	T
+01	3.0	0.0	60.0	1.0
+02	1.0	3.0	0.0	60.0
+03	0.0	0.0	64.0	0.0
+04	0.0	0.0	64.0	0.0
+05	32.0	8.0	15.0	9.0
+06	1.0	60.0	2.0	1.0
+07	0.0	64.0	0.0	0.0
+08	0.0	64.0	0.0	0.0
+09	18.0	10.0	29.0	7.0
+10	12.0	20.0	26.0	6.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:22074922
+CC uniprot_ids:Q9M1U4
+CC data_type:SELEX
+XX
+//
+AC MA0588_1
+XX
+ID  TGA1
+XX
+DE MA0588_1 MA0588_1_TGA1 ; From JASPAR
+PO	A	C	G	T
+01	2.0	5.0	6.0	10.0
+02	3.0	8.0	16.0	2.0
+03	11.0	9.0	12.0	0.0
+04	0.0	0.0	0.0	36.0
+05	0.0	0.0	36.0	0.0
+06	36.0	0.0	0.0	0.0
+07	0.0	33.0	0.0	3.0
+08	2.0	0.0	34.0	0.0
+09	1.0	3.0	2.0	20.0
+10	6.0	5.0	6.0	5.0
+11	11.0	0.0	6.0	7.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:1446171
+CC uniprot_ids:Q39237
+CC data_type:SELEX
+XX
+//
+AC MA0589_1
+XX
+ID  WRKY1
+XX
+DE MA0589_1 MA0589_1_WRKY1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	50.0
+02	0.0	0.0	0.0	50.0
+03	0.0	0.0	50.0	0.0
+04	50.0	0.0	0.0	0.0
+05	0.0	50.0	0.0	0.0
+06	1.0	47.0	1.0	1.0
+07	2.0	5.0	40.0	3.0
+08	32.0	11.0	4.0	3.0
+09	2.0	7.0	37.0	4.0
+10	2.0	28.0	5.0	14.0
+11	8.0	20.0	5.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:8972846
+CC uniprot_ids:Q9SI37
+CC data_type:SELEX
+XX
+//
+AC MA0590_1
+XX
+ID  LFY
+XX
+DE MA0590_1 MA0590_1_LFY ; From JASPAR
+PO	A	C	G	T
+01	32.0	104.0	49.0	199.0
+02	266.0	13.0	17.0	80.0
+03	56.0	75.0	12.0	325.0
+04	20.0	7.0	178.0	360.0
+05	126.0	0.0	246.0	4.0
+06	228.0	43.0	2.0	50.0
+07	10.0	364.0	0.0	8.0
+08	0.0	358.0	0.0	19.0
+09	94.0	2.0	273.0	10.0
+10	35.0	174.0	174.0	35.0
+11	10.0	273.0	2.0	94.0
+12	19.0	0.0	358.0	0.0
+13	8.0	0.0	364.0	10.0
+14	50.0	2.0	43.0	228.0
+15	4.0	246.0	0.0	126.0
+16	360.0	178.0	7.0	20.0
+17	325.0	12.0	75.0	56.0
+18	80.0	17.0	13.0	266.0
+19	199.0	49.0	104.0	32.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:LEAFY
+CC pubmed_ids:21515819
+CC uniprot_ids:Q00958
+CC data_type:SELEX-seq
+XX
+//
+AC MA0931_1
+XX
+ID  ABI5
+XX
+DE MA0931_1 MA0931_1_ABI5 ; From JASPAR
+PO	A	C	G	T
+01	181.0	257.0	257.0	306.0
+02	87.0	87.0	660.0	167.0
+03	608.0	314.0	0.0	78.0
+04	0.0	922.0	78.0	0.0
+05	999.0	0.0	0.0	0.0
+06	0.0	999.0	0.0	0.0
+07	0.0	0.0	999.0	0.0
+08	0.0	0.0	0.0	999.0
+09	152.0	70.0	709.0	70.0
+10	164.0	164.0	337.0	336.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:12376636
+CC uniprot_ids:Q9SJN0
+CC data_type:PBM
+XX
+//
+AC MA0932_1
+XX
+ID  AHL12
+XX
+DE MA0932_1 MA0932_1_AHL12 ; From JASPAR
+PO	A	C	G	T
+01	772.0	18.0	146.0	64.0
+02	843.0	35.0	24.0	98.0
+03	484.0	14.0	5.0	497.0
+04	332.0	6.0	3.0	660.0
+05	660.0	3.0	6.0	332.0
+06	497.0	5.0	14.0	484.0
+07	98.0	24.0	35.0	843.0
+08	64.0	146.0	18.0	772.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:A_T hook factors
+CC pubmed_ids:22442143
+CC uniprot_ids:Q8LPN5
+CC data_type:PBM
+XX
+//
+AC MA0933_1
+XX
+ID  AHL20
+XX
+DE MA0933_1 MA0933_1_AHL20 ; From JASPAR
+PO	A	C	G	T
+01	774.0	66.0	73.0	88.0
+02	753.0	6.0	5.0	235.0
+03	120.0	4.0	13.0	862.0
+04	250.0	6.0	6.0	738.0
+05	774.0	4.0	4.0	218.0
+06	843.0	8.0	1.0	148.0
+07	648.0	12.0	3.0	337.0
+08	54.0	28.0	18.0	900.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:A_T hook factors
+CC pubmed_ids:22442143
+CC uniprot_ids:Q8GWQ2
+CC data_type:PBM
+XX
+//
+AC MA0934_1
+XX
+ID  AHL25
+XX
+DE MA0934_1 MA0934_1_AHL25 ; From JASPAR
+PO	A	C	G	T
+01	872.0	26.0	53.0	49.0
+02	616.0	4.0	6.0	375.0
+03	207.0	4.0	3.0	786.0
+04	225.0	3.0	2.0	770.0
+05	770.0	2.0	3.0	225.0
+06	786.0	3.0	4.0	207.0
+07	375.0	6.0	4.0	616.0
+08	49.0	53.0	26.0	872.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:A_T hook factors
+CC pubmed_ids:22442143
+CC uniprot_ids:Q6DBQ1
+CC data_type:PBM
+XX
+//
+AC MA0935_1
+XX
+ID  NAC025
+XX
+DE MA0935_1 MA0935_1_NAC025 ; From JASPAR
+PO	A	C	G	T
+01	1.0	421.0	1.0	578.0
+02	965.0	0.0	35.0	0.0
+03	0.0	999.0	0.0	0.0
+04	0.0	0.0	999.0	0.0
+05	0.0	276.0	69.0	655.0
+06	827.0	173.0	0.0	0.0
+07	930.0	0.0	0.0	69.0
+08	50.0	599.0	50.0	300.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q8GY42
+CC data_type:PBM
+XX
+//
+AC MA0936_1
+XX
+ID  NAC046
+XX
+DE MA0936_1 MA0936_1_NAC046 ; From JASPAR
+PO	A	C	G	T
+01	544.0	217.0	80.0	159.0
+02	66.0	630.0	38.0	267.0
+03	813.0	120.0	43.0	24.0
+04	102.0	858.0	24.0	16.0
+05	94.0	49.0	812.0	45.0
+06	143.0	565.0	112.0	180.0
+07	459.0	402.0	48.0	91.0
+08	805.0	40.0	96.0	59.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9SQQ6
+CC data_type:PBM
+XX
+//
+AC MA0937_1
+XX
+ID  NAC055
+XX
+DE MA0937_1 MA0937_1_NAC055 ; From JASPAR
+PO	A	C	G	T
+01	796.0	26.0	44.0	134.0
+02	19.0	774.0	18.0	188.0
+03	970.0	18.0	4.0	9.0
+04	22.0	960.0	6.0	12.0
+05	16.0	16.0	948.0	20.0
+06	14.0	116.0	134.0	736.0
+07	878.0	80.0	4.0	37.0
+08	866.0	9.0	4.0	121.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9LDY8
+CC data_type:PBM
+XX
+//
+AC MA0939_1
+XX
+ID  NAC079
+XX
+DE MA0939_1 MA0939_1_NAC079 ; From JASPAR
+PO	A	C	G	T
+01	665.0	1.0	222.0	112.0
+02	1.0	691.0	1.0	308.0
+03	998.0	1.0	1.0	1.0
+04	1.0	998.0	1.0	1.0
+05	1.0	1.0	998.0	1.0
+06	1.0	855.0	1.0	143.0
+07	784.0	72.0	1.0	143.0
+08	998.0	1.0	1.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FLR3
+CC data_type:PBM
+XX
+//
+AC MA0940_1
+XX
+ID  AP1
+XX
+DE MA0940_1 MA0940_1_AP1 ; From JASPAR
+PO	A	C	G	T
+01	734.0	799.0	32.0	57.0
+02	84.0	941.0	39.0	558.0
+03	1323.0	46.0	35.0	218.0
+04	1134.0	19.0	152.0	317.0
+05	1551.0	10.0	15.0	46.0
+06	1277.0	15.0	24.0	306.0
+07	1191.0	23.0	252.0	156.0
+08	682.0	21.0	257.0	662.0
+09	653.0	12.0	930.0	27.0
+10	133.0	60.0	1354.0	75.0
+11	1146.0	153.0	170.0	153.0
+12	1279.0	122.0	168.0	53.0
+13	1257.0	22.0	162.0	181.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:8774892
+CC uniprot_ids:P35631
+CC data_type:ChIP-seq
+XX
+//
+AC MA0941_1
+XX
+ID  ABF2
+XX
+DE MA0941_1 MA0941_1_ABF2 ; From JASPAR
+PO	A	C	G	T
+01	231.0	308.0	231.0	231.0
+02	308.0	231.0	231.0	231.0
+03	191.0	268.0	191.0	350.0
+04	274.0	120.0	403.0	202.0
+05	699.0	177.0	103.0	21.0
+06	0.0	840.0	0.0	159.0
+07	999.0	0.0	0.0	0.0
+08	0.0	917.0	0.0	82.0
+09	19.0	19.0	942.0	19.0
+10	19.0	19.0	19.0	942.0
+11	218.0	59.0	664.0	59.0
+12	213.0	130.0	287.0	371.0
+13	229.0	229.0	229.0	312.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:11005831
+CC uniprot_ids:Q9M7Q4
+CC data_type:PBM
+XX
+//
+AC MA0942_1
+XX
+ID  ARF1
+XX
+DE MA0942_1 MA0942_1_ARF1 ; From JASPAR
+PO	A	C	G	T
+01	722.0	2.0	276.0	1.0
+02	3.0	993.0	1.0	4.0
+03	4.0	993.0	2.0	2.0
+04	4.0	2.0	992.0	1.0
+05	989.0	3.0	1.0	7.0
+06	2.0	993.0	2.0	2.0
+07	901.0	4.0	88.0	8.0
+08	262.0	220.0	207.0	312.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:9188533
+CC uniprot_ids:Q8L7G0
+CC data_type:PBM
+XX
+//
+AC MA0943_1
+XX
+ID  ARF5
+XX
+DE MA0943_1 MA0943_1_ARF5 ; From JASPAR
+PO	A	C	G	T
+01	303.0	160.0	477.0	59.0
+02	9.0	969.0	15.0	8.0
+03	97.0	898.0	4.0	2.0
+04	12.0	1.0	985.0	2.0
+05	952.0	1.0	46.0	1.0
+06	2.0	992.0	3.0	3.0
+07	773.0	224.0	2.0	2.0
+08	491.0	98.0	218.0	193.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:25002510
+CC uniprot_ids:P93024
+CC data_type:PBM
+XX
+//
+AC MA0944_1
+XX
+ID  ARF8
+XX
+DE MA0944_1 MA0944_1_ARF8 ; From JASPAR
+PO	A	C	G	T
+01	270.0	233.0	204.0	293.0
+02	225.0	259.0	106.0	410.0
+03	4.0	0.0	90.0	906.0
+04	38.0	1.0	900.0	60.0
+05	0.0	13.0	0.0	987.0
+06	54.0	863.0	2.0	82.0
+07	61.0	27.0	798.0	114.0
+08	121.0	138.0	651.0	89.0
+09	228.0	337.0	217.0	219.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:Q9FGV1
+CC data_type:PBM
+XX
+//
+AC MA0945_1
+XX
+ID  ARR1
+XX
+DE MA0945_1 MA0945_1_ARR1 ; From JASPAR
+PO	A	C	G	T
+01	406.0	168.0	208.0	218.0
+02	172.0	292.0	343.0	192.0
+03	297.0	466.0	139.0	99.0
+04	306.0	83.0	564.0	47.0
+05	423.0	22.0	235.0	320.0
+06	965.0	0.0	0.0	34.0
+07	21.0	1.0	1.0	977.0
+08	56.0	897.0	4.0	43.0
+09	143.0	156.0	91.0	609.0
+10	257.0	190.0	181.0	372.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:11135105
+CC uniprot_ids:Q940D0
+CC data_type:PBM
+XX
+//
+AC MA0946_1
+XX
+ID  ARR11
+XX
+DE MA0946_1 MA0946_1_ARR11 ; From JASPAR
+PO	A	C	G	T
+01	625.0	51.0	55.0	269.0
+02	927.0	11.0	29.0	32.0
+03	5.0	2.0	982.0	11.0
+04	989.0	2.0	4.0	4.0
+05	7.0	3.0	2.0	987.0
+06	732.0	22.0	4.0	242.0
+07	3.0	833.0	2.0	162.0
+08	14.0	5.0	968.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:12610214
+CC uniprot_ids:Q9FXD6
+CC data_type:PBM
+XX
+//
+AC MA0947_1
+XX
+ID  ARR14
+XX
+DE MA0947_1 MA0947_1_ARR14 ; From JASPAR
+PO	A	C	G	T
+01	945.0	5.0	26.0	24.0
+02	2.0	1.0	984.0	13.0
+03	991.0	1.0	3.0	5.0
+04	2.0	3.0	2.0	993.0
+05	506.0	154.0	1.0	339.0
+06	1.0	960.0	1.0	38.0
+07	10.0	5.0	960.0	26.0
+08	83.0	484.0	401.0	32.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8L9Y3
+CC data_type:PBM
+XX
+//
+AC MA0948_1
+XX
+ID  ARR18
+XX
+DE MA0948_1 MA0948_1_ARR18 ; From JASPAR
+PO	A	C	G	T
+01	324.0	225.0	225.0	225.0
+02	202.0	202.0	202.0	394.0
+03	274.0	370.0	178.0	178.0
+04	329.0	186.0	194.0	290.0
+05	834.0	25.0	25.0	115.0
+06	0.0	88.0	912.0	0.0
+07	999.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	999.0
+09	728.0	25.0	25.0	222.0
+10	48.0	673.0	48.0	231.0
+11	159.0	72.0	697.0	72.0
+12	341.0	243.0	264.0	151.0
+13	225.0	225.0	225.0	326.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FGT7
+CC data_type:PBM
+XX
+//
+AC MA0949_1
+XX
+ID  ARR2
+XX
+DE MA0949_1 MA0949_1_ARR2 ; From JASPAR
+PO	A	C	G	T
+01	174.0	257.0	394.0	174.0
+02	338.0	572.0	45.0	45.0
+03	214.0	0.0	786.0	0.0
+04	476.0	0.0	214.0	309.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	1000.0	0.0	0.0
+08	0.0	0.0	0.0	1000.0
+09	162.0	76.0	76.0	687.0
+10	205.0	205.0	205.0	386.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9ZWJ9
+CC data_type:PBM
+XX
+//
+AC MA0950_1
+XX
+ID  ATHB-12
+XX
+DE MA0950_1 MA0950_1_ATHB-12 ; From JASPAR
+PO	A	C	G	T
+01	579.0	191.0	107.0	124.0
+02	668.0	46.0	53.0	233.0
+03	18.0	35.0	6.0	941.0
+04	48.0	201.0	633.0	118.0
+05	965.0	7.0	15.0	13.0
+06	9.0	8.0	17.0	966.0
+07	30.0	10.0	19.0	940.0
+08	128.0	18.0	766.0	88.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9M276
+CC data_type:PBM
+XX
+//
+AC MA0951_1
+XX
+ID  ATHB-16
+XX
+DE MA0951_1 MA0951_1_ATHB-16 ; From JASPAR
+PO	A	C	G	T
+01	72.0	214.0	1.0	713.0
+02	999.0	0.0	0.0	0.0
+03	999.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	999.0
+05	545.0	318.0	137.0	0.0
+06	999.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	999.0
+08	67.0	1.0	67.0	865.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q940J1
+CC data_type:PBM
+XX
+//
+AC MA0952_1
+XX
+ID  ATHB-51
+XX
+DE MA0952_1 MA0952_1_ATHB-51 ; From JASPAR
+PO	A	C	G	T
+01	691.0	253.0	4.0	51.0
+02	985.0	5.0	4.0	7.0
+03	2.0	8.0	1.0	988.0
+04	411.0	6.0	3.0	580.0
+05	990.0	2.0	5.0	3.0
+06	10.0	2.0	4.0	984.0
+07	5.0	18.0	12.0	965.0
+08	105.0	18.0	777.0	100.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:16554366
+CC uniprot_ids:Q9LZR0
+CC data_type:PBM
+XX
+//
+AC MA0953_1
+XX
+ID  ATHB-6
+XX
+DE MA0953_1 MA0953_1_ATHB-6 ; From JASPAR
+PO	A	C	G	T
+01	177.0	252.0	287.0	284.0
+02	149.0	524.0	85.0	243.0
+03	745.0	89.0	73.0	92.0
+04	886.0	71.0	1.0	42.0
+05	20.0	6.0	1.0	972.0
+06	356.0	310.0	128.0	206.0
+07	924.0	5.0	38.0	32.0
+08	106.0	66.0	130.0	698.0
+09	234.0	111.0	266.0	389.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:P46668
+CC data_type:PBM
+XX
+//
+AC MA0955_1
+XX
+ID  POPTR_0002s00440g
+XX
+DE MA0955_1 MA0955_1_POPTR_0002s00440g ; From JASPAR
+PO	A	C	G	T
+01	201.0	266.0	325.0	209.0
+02	9.0	29.0	954.0	7.0
+03	8.0	11.0	99.0	882.0
+04	951.0	43.0	5.0	0.0
+05	153.0	706.0	29.0	112.0
+06	41.0	80.0	859.0	19.0
+07	188.0	50.0	696.0	67.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:B9GPL8
+CC data_type:PBM
+XX
+//
+AC MA0956_1
+XX
+ID  BEE2
+XX
+DE MA0956_1 MA0956_1_BEE2 ; From JASPAR
+PO	A	C	G	T
+01	256.0	253.0	236.0	255.0
+02	211.0	229.0	342.0	218.0
+03	136.0	722.0	38.0	104.0
+04	893.0	0.0	33.0	74.0
+05	23.0	820.0	0.0	157.0
+06	157.0	0.0	820.0	23.0
+07	74.0	33.0	0.0	893.0
+08	104.0	38.0	722.0	136.0
+09	218.0	342.0	229.0	211.0
+10	255.0	236.0	253.0	256.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12897250
+CC uniprot_ids:Q93VJ4
+CC data_type:PBM
+XX
+//
+AC MA0957_1
+XX
+ID  BHLH3
+XX
+DE MA0957_1 MA0957_1_BHLH3 ; From JASPAR
+PO	A	C	G	T
+01	258.0	94.0	603.0	44.0
+02	45.0	930.0	14.0	11.0
+03	950.0	7.0	20.0	22.0
+04	10.0	937.0	12.0	42.0
+05	42.0	12.0	937.0	10.0
+06	22.0	20.0	7.0	950.0
+07	11.0	14.0	930.0	45.0
+08	44.0	603.0	94.0	258.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:O23487
+CC data_type:PBM
+XX
+//
+AC MA0958_1
+XX
+ID  BHLH13
+XX
+DE MA0958_1 MA0958_1_BHLH13 ; From JASPAR
+PO	A	C	G	T
+01	295.0	116.0	569.0	20.0
+02	53.0	945.0	1.0	1.0
+03	992.0	2.0	3.0	4.0
+04	1.0	952.0	1.0	46.0
+05	15.0	1.0	982.0	1.0
+06	4.0	4.0	1.0	991.0
+07	1.0	2.0	987.0	10.0
+08	38.0	696.0	65.0	201.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9LNJ5
+CC data_type:PBM
+XX
+//
+AC MA0959_1
+XX
+ID  AIB
+XX
+DE MA0959_1 MA0959_1_AIB ; From JASPAR
+PO	A	C	G	T
+01	76.0	14.0	901.0	8.0
+02	59.0	939.0	1.0	2.0
+03	966.0	1.0	28.0	5.0
+04	0.0	903.0	2.0	94.0
+05	94.0	2.0	903.0	0.0
+06	5.0	28.0	1.0	966.0
+07	2.0	1.0	939.0	59.0
+08	8.0	901.0	14.0	76.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9ZPY8
+CC data_type:PBM
+XX
+//
+AC MA0960_1
+XX
+ID  BHLH104
+XX
+DE MA0960_1 MA0960_1_BHLH104 ; From JASPAR
+PO	A	C	G	T
+01	130.0	26.0	822.0	22.0
+02	15.0	74.0	866.0	45.0
+03	6.0	994.0	0.0	0.0
+04	996.0	0.0	4.0	0.0
+05	0.0	999.0	0.0	1.0
+06	1.0	0.0	999.0	0.0
+07	0.0	4.0	0.0	996.0
+08	0.0	0.0	994.0	6.0
+09	45.0	866.0	74.0	15.0
+10	22.0	822.0	26.0	130.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q8L467
+CC data_type:PBM
+XX
+//
+AC MA0961_1
+XX
+ID  BHLH112
+XX
+DE MA0961_1 MA0961_1_BHLH112 ; From JASPAR
+PO	A	C	G	T
+01	221.0	250.0	306.0	222.0
+02	0.0	1000.0	0.0	0.0
+03	177.0	823.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	0.0	1000.0	0.0
+09	218.0	343.0	217.0	223.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q94JL3
+CC data_type:PBM
+XX
+//
+AC MA0962_1
+XX
+ID  BHLH34
+XX
+DE MA0962_1 MA0962_1_BHLH34 ; From JASPAR
+PO	A	C	G	T
+01	154.0	39.0	653.0	154.0
+02	0.0	999.0	0.0	0.0
+03	727.0	0.0	242.0	31.0
+04	0.0	848.0	0.0	152.0
+05	0.0	0.0	999.0	0.0
+06	0.0	0.0	0.0	999.0
+07	0.0	0.0	999.0	0.0
+08	96.0	143.0	476.0	286.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9LTC7
+CC data_type:PBM
+XX
+//
+AC MA0963_1
+XX
+ID  BHLH78
+XX
+DE MA0963_1 MA0963_1_BHLH78 ; From JASPAR
+PO	A	C	G	T
+01	10.0	10.0	971.0	10.0
+02	10.0	971.0	10.0	10.0
+03	971.0	10.0	10.0	10.0
+04	10.0	971.0	10.0	10.0
+05	10.0	10.0	971.0	10.0
+06	10.0	10.0	10.0	971.0
+07	10.0	10.0	971.0	10.0
+08	10.0	971.0	10.0	10.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9FJL4
+CC data_type:PBM
+XX
+//
+AC MA0966_1
+XX
+ID  BIM3
+XX
+DE MA0966_1 MA0966_1_BIM3 ; From JASPAR
+PO	A	C	G	T
+01	294.0	203.0	270.0	233.0
+02	159.0	165.0	433.0	243.0
+03	74.0	821.0	8.0	96.0
+04	942.0	0.0	25.0	33.0
+05	15.0	918.0	0.0	67.0
+06	67.0	0.0	918.0	15.0
+07	33.0	25.0	0.0	942.0
+08	96.0	8.0	821.0	74.0
+09	243.0	433.0	165.0	159.0
+10	233.0	270.0	203.0	294.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15680330
+CC uniprot_ids:Q9FMB6
+CC data_type:PBM
+XX
+//
+AC MA0967_1
+XX
+ID  BZIP60
+XX
+DE MA0967_1 MA0967_1_BZIP60 ; From JASPAR
+PO	A	C	G	T
+01	18.0	64.0	24.0	893.0
+02	26.0	59.0	840.0	74.0
+03	892.0	17.0	43.0	49.0
+04	13.0	799.0	13.0	175.0
+05	175.0	13.0	799.0	13.0
+06	49.0	43.0	17.0	892.0
+07	74.0	840.0	59.0	26.0
+08	893.0	24.0	64.0	18.0
+XX
+CC tax_group:plants
+CC tf_family:Group K
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q9C7S0
+CC data_type:PBM
+XX
+//
+AC MA0969_1
+XX
+ID  CAMTA2
+XX
+DE MA0969_1 MA0969_1_CAMTA2 ; From JASPAR
+PO	A	C	G	T
+01	313.0	203.0	220.0	264.0
+02	327.0	237.0	176.0	260.0
+03	393.0	121.0	243.0	243.0
+04	220.0	438.0	306.0	36.0
+05	26.0	955.0	8.0	11.0
+06	18.0	11.0	970.0	1.0
+07	31.0	682.0	7.0	280.0
+08	8.0	7.0	970.0	15.0
+09	7.0	11.0	54.0	928.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CAMTA
+CC pubmed_ids:17689537
+CC uniprot_ids:Q6NPP4
+CC data_type:PBM
+XX
+//
+AC MA0970_1
+XX
+ID  CAMTA3
+XX
+DE MA0970_1 MA0970_1_CAMTA3 ; From JASPAR
+PO	A	C	G	T
+01	233.0	540.0	184.0	43.0
+02	14.0	974.0	5.0	8.0
+03	32.0	0.0	962.0	6.0
+04	68.0	664.0	1.0	267.0
+05	37.0	0.0	963.0	0.0
+06	1.0	1.0	0.0	998.0
+07	231.0	274.0	211.0	285.0
+08	290.0	247.0	250.0	213.0
+09	241.0	258.0	251.0	251.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CAMTA
+CC pubmed_ids:17689537
+CC uniprot_ids:Q8GSA7
+CC data_type:PBM
+XX
+//
+AC MA0971_1
+XX
+ID  DREB1A
+XX
+DE MA0971_1 MA0971_1_DREB1A ; From JASPAR
+PO	A	C	G	T
+01	590.0	118.0	126.0	166.0
+02	139.0	159.0	137.0	565.0
+03	2.0	0.0	997.0	1.0
+04	10.0	14.0	3.0	973.0
+05	5.0	991.0	4.0	1.0
+06	0.0	0.0	994.0	6.0
+07	48.0	0.0	948.0	3.0
+08	16.0	504.0	19.0	461.0
+09	341.0	240.0	279.0	140.0
+10	322.0	205.0	322.0	152.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:Q9M0L0
+CC data_type:PBM
+XX
+//
+AC MA0972_1
+XX
+ID  CCA1
+XX
+DE MA0972_1 MA0972_1_CCA1 ; From JASPAR
+PO	A	C	G	T
+01	934.0	1.0	10.0	54.0
+02	960.0	1.0	37.0	2.0
+03	985.0	4.0	10.0	1.0
+04	35.0	0.0	5.0	960.0
+05	992.0	5.0	1.0	2.0
+06	1.0	12.0	1.0	986.0
+07	5.0	991.0	0.0	4.0
+08	21.0	91.0	14.0	874.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19218364
+CC uniprot_ids:P92973
+CC data_type:PBM
+XX
+//
+AC MA0973_1
+XX
+ID  CDF2
+XX
+DE MA0973_1 MA0973_1_CDF2 ; From JASPAR
+PO	A	C	G	T
+01	334.0	284.0	235.0	148.0
+02	608.0	92.0	150.0	150.0
+03	693.0	16.0	41.0	250.0
+04	980.0	10.0	4.0	5.0
+05	979.0	10.0	2.0	9.0
+06	868.0	29.0	81.0	22.0
+07	17.0	7.0	969.0	6.0
+08	53.0	295.0	154.0	498.0
+09	328.0	77.0	395.0	200.0
+10	299.0	282.0	155.0	264.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:7995527
+CC uniprot_ids:Q93ZL5
+CC data_type:PBM
+XX
+//
+AC MA0975_1
+XX
+ID  CRF2
+XX
+DE MA0975_1 MA0975_1_CRF2 ; From JASPAR
+PO	A	C	G	T
+01	44.0	478.0	348.0	131.0
+02	108.0	783.0	81.0	27.0
+03	0.0	0.0	999.0	0.0
+04	0.0	977.0	23.0	0.0
+05	0.0	999.0	0.0	0.0
+06	0.0	0.0	999.0	0.0
+07	23.0	931.0	0.0	46.0
+08	118.0	735.0	59.0	88.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9SUQ2
+CC data_type:PBM
+XX
+//
+AC MA0977_1
+XX
+ID  DOF2_5
+XX
+DE MA0977_1 MA0977_1_DOF2_5 ; From JASPAR
+PO	A	C	G	T
+01	756.0	26.0	182.0	36.0
+02	598.0	1.0	12.0	389.0
+03	990.0	1.0	4.0	5.0
+04	986.0	1.0	8.0	6.0
+05	744.0	1.0	254.0	1.0
+06	4.0	1.0	977.0	18.0
+07	8.0	198.0	65.0	729.0
+08	238.0	44.0	557.0	160.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9ZPY0
+CC data_type:PBM
+XX
+//
+AC MA0978_1
+XX
+ID  DREB1E
+XX
+DE MA0978_1 MA0978_1_DREB1E ; From JASPAR
+PO	A	C	G	T
+01	978.0	2.0	15.0	4.0
+02	9.0	15.0	3.0	973.0
+03	6.0	1.0	991.0	3.0
+04	3.0	3.0	2.0	992.0
+05	3.0	992.0	1.0	4.0
+06	2.0	2.0	992.0	4.0
+07	169.0	0.0	828.0	2.0
+08	1.0	790.0	1.0	208.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:18643985
+CC uniprot_ids:Q9SGJ6
+CC data_type:PBM
+XX
+//
+AC MA0979_1
+XX
+ID  ERF008
+XX
+DE MA0979_1 MA0979_1_ERF008 ; From JASPAR
+PO	A	C	G	T
+01	148.0	787.0	24.0	41.0
+02	335.0	15.0	634.0	17.0
+03	27.0	889.0	58.0	26.0
+04	39.0	934.0	19.0	8.0
+05	66.0	44.0	865.0	26.0
+06	320.0	524.0	56.0	101.0
+07	70.0	828.0	68.0	34.0
+08	100.0	417.0	329.0	154.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:O22174
+CC data_type:PBM
+XX
+//
+AC MA0981_1
+XX
+ID  DOF1_8
+XX
+DE MA0981_1 MA0981_1_DOF1_8 ; From JASPAR
+PO	A	C	G	T
+01	251.0	259.0	256.0	234.0
+02	321.0	197.0	250.0	233.0
+03	415.0	100.0	135.0	350.0
+04	812.0	72.0	38.0	77.0
+05	831.0	64.0	3.0	102.0
+06	658.0	233.0	27.0	83.0
+07	65.0	23.0	846.0	65.0
+08	170.0	241.0	231.0	359.0
+09	268.0	189.0	270.0	273.0
+10	288.0	209.0	269.0	234.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q84JQ8
+CC data_type:PBM
+XX
+//
+AC MA0982_1
+XX
+ID  DOF2_4
+XX
+DE MA0982_1 MA0982_1_DOF2_4 ; From JASPAR
+PO	A	C	G	T
+01	381.0	171.0	233.0	215.0
+02	426.0	90.0	127.0	356.0
+03	807.0	71.0	18.0	104.0
+04	815.0	66.0	1.0	118.0
+05	658.0	252.0	16.0	75.0
+06	81.0	73.0	762.0	84.0
+07	177.0	242.0	210.0	371.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:O80928
+CC data_type:PBM
+XX
+//
+AC MA0983_1
+XX
+ID  DOF5_6
+XX
+DE MA0983_1 MA0983_1_DOF5_6 ; From JASPAR
+PO	A	C	G	T
+01	254.0	257.0	262.0	228.0
+02	364.0	170.0	227.0	239.0
+03	432.0	84.0	108.0	376.0
+04	955.0	35.0	1.0	10.0
+05	928.0	40.0	1.0	32.0
+06	613.0	308.0	56.0	24.0
+07	50.0	28.0	884.0	38.0
+08	152.0	247.0	213.0	388.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9FM03
+CC data_type:PBM
+XX
+//
+AC MA0984_1
+XX
+ID  DOF5_7
+XX
+DE MA0984_1 MA0984_1_DOF5_7 ; From JASPAR
+PO	A	C	G	T
+01	448.0	86.0	224.0	241.0
+02	684.0	12.0	61.0	243.0
+03	970.0	4.0	10.0	16.0
+04	899.0	3.0	79.0	19.0
+05	363.0	42.0	589.0	6.0
+06	485.0	61.0	443.0	11.0
+07	102.0	191.0	460.0	247.0
+08	174.0	215.0	408.0	204.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9LSL6
+CC data_type:PBM
+XX
+//
+AC MA0986_1
+XX
+ID  DREB2C
+XX
+DE MA0986_1 MA0986_1_DREB2C ; From JASPAR
+PO	A	C	G	T
+01	110.0	757.0	121.0	13.0
+02	809.0	3.0	185.0	3.0
+03	4.0	985.0	3.0	8.0
+04	7.0	986.0	3.0	4.0
+05	8.0	3.0	984.0	4.0
+06	776.0	158.0	47.0	19.0
+07	5.0	977.0	5.0	13.0
+08	806.0	50.0	27.0	117.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:23868510
+CC uniprot_ids:Q8LFR2
+CC data_type:PBM
+XX
+//
+AC MA0987_1
+XX
+ID  PHYPADRAFT_140773
+XX
+DE MA0987_1 MA0987_1_PHYPADRAFT_140773 ; From JASPAR
+PO	A	C	G	T
+01	243.0	266.0	253.0	238.0
+02	302.0	215.0	260.0	222.0
+03	396.0	111.0	173.0	321.0
+04	888.0	43.0	10.0	60.0
+05	892.0	46.0	1.0	61.0
+06	715.0	205.0	28.0	52.0
+07	72.0	22.0	839.0	67.0
+08	182.0	258.0	229.0	331.0
+09	271.0	193.0	271.0	265.0
+10	280.0	218.0	272.0	229.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:A9T5V8
+CC data_type:PBM
+XX
+//
+AC MA0988_1
+XX
+ID  PHYPADRAFT_143875
+XX
+DE MA0988_1 MA0988_1_PHYPADRAFT_143875 ; From JASPAR
+PO	A	C	G	T
+01	250.0	272.0	222.0	256.0
+02	208.0	231.0	392.0	169.0
+03	106.0	844.0	12.0	38.0
+04	923.0	0.0	10.0	66.0
+05	22.0	940.0	0.0	39.0
+06	39.0	0.0	940.0	22.0
+07	66.0	10.0	0.0	923.0
+08	38.0	12.0	844.0	106.0
+09	169.0	392.0	231.0	208.0
+10	256.0	222.0	272.0	250.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:A9TDF9
+CC data_type:PBM
+XX
+//
+AC MA0989_1
+XX
+ID  PHYPADRAFT_153324
+XX
+DE MA0989_1 MA0989_1_PHYPADRAFT_153324 ; From JASPAR
+PO	A	C	G	T
+01	253.0	264.0	261.0	222.0
+02	334.0	193.0	255.0	218.0
+03	482.0	71.0	118.0	330.0
+04	861.0	62.0	13.0	65.0
+05	926.0	36.0	0.0	38.0
+06	672.0	147.0	52.0	129.0
+07	71.0	27.0	898.0	5.0
+08	139.0	288.0	195.0	378.0
+09	285.0	158.0	297.0	260.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:A9TZW5
+CC data_type:PBM
+XX
+//
+AC MA0990_1
+XX
+ID  HDG11
+XX
+DE MA0990_1 MA0990_1_HDG11 ; From JASPAR
+PO	A	C	G	T
+01	209.0	392.0	115.0	285.0
+02	582.0	256.0	67.0	94.0
+03	495.0	27.0	70.0	409.0
+04	57.0	11.0	9.0	923.0
+05	315.0	55.0	33.0	598.0
+06	922.0	28.0	43.0	7.0
+07	833.0	39.0	23.0	105.0
+08	135.0	26.0	1.0	839.0
+09	81.0	25.0	756.0	137.0
+10	220.0	504.0	49.0	227.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9FX31
+CC data_type:PBM
+XX
+//
+AC MA0993_1
+XX
+ID  ERF7
+XX
+DE MA0993_1 MA0993_1_ERF7 ; From JASPAR
+PO	A	C	G	T
+01	263.0	442.0	140.0	156.0
+02	77.0	14.0	874.0	35.0
+03	48.0	868.0	84.0	0.0
+04	129.0	770.0	36.0	65.0
+05	90.0	25.0	875.0	10.0
+06	146.0	456.0	132.0	266.0
+07	212.0	593.0	66.0	128.0
+08	419.0	174.0	210.0	198.0
+09	276.0	208.0	198.0	317.0
+10	279.0	209.0	201.0	312.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9LDE4
+CC data_type:PBM
+XX
+//
+AC MA0997_1
+XX
+ID  ERF069
+XX
+DE MA0997_1 MA0997_1_ERF069 ; From JASPAR
+PO	A	C	G	T
+01	193.0	294.0	315.0	197.0
+02	197.0	471.0	175.0	157.0
+03	18.0	0.0	982.0	0.0
+04	61.0	828.0	86.0	24.0
+05	98.0	680.0	76.0	146.0
+06	179.0	0.0	820.0	0.0
+07	138.0	419.0	212.0	230.0
+08	224.0	404.0	193.0	180.0
+09	351.0	209.0	231.0	209.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8W4I5
+CC data_type:PBM
+XX
+//
+AC MA0998_1
+XX
+ID  ERF096
+XX
+DE MA0998_1 MA0998_1_ERF096 ; From JASPAR
+PO	A	C	G	T
+01	193.0	300.0	280.0	227.0
+02	289.0	468.0	167.0	76.0
+03	34.0	13.0	939.0	13.0
+04	32.0	905.0	36.0	27.0
+05	97.0	850.0	21.0	32.0
+06	43.0	10.0	928.0	19.0
+07	129.0	591.0	131.0	149.0
+08	35.0	903.0	24.0	38.0
+09	384.0	176.0	240.0	200.0
+10	233.0	254.0	223.0	290.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9LSX0
+CC data_type:PBM
+XX
+//
+AC MA1004_1
+XX
+ID  ERF13
+XX
+DE MA1004_1 MA1004_1_ERF13 ; From JASPAR
+PO	A	C	G	T
+01	217.0	478.0	283.0	22.0
+02	0.0	49.0	951.0	0.0
+03	16.0	951.0	32.0	0.0
+04	0.0	983.0	16.0	0.0
+05	0.0	16.0	983.0	0.0
+06	97.0	645.0	145.0	113.0
+07	0.0	999.0	0.0	0.0
+08	461.0	103.0	282.0	154.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8L9K1
+CC data_type:PBM
+XX
+//
+AC MA1006_1
+XX
+ID  ERF6
+XX
+DE MA1006_1 MA1006_1_ERF6 ; From JASPAR
+PO	A	C	G	T
+01	291.0	352.0	179.0	179.0
+02	78.0	221.0	166.0	535.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	88.0	912.0	0.0
+08	0.0	1000.0	0.0	0.0
+09	159.0	156.0	530.0	155.0
+10	172.0	278.0	257.0	294.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8VZ91
+CC data_type:PBM
+XX
+//
+AC MA1007_1
+XX
+ID  PHYPADRAFT_173530
+XX
+DE MA1007_1 MA1007_1_PHYPADRAFT_173530 ; From JASPAR
+PO	A	C	G	T
+01	72.0	1.0	286.0	642.0
+02	0.0	0.0	999.0	0.0
+03	50.0	0.0	0.0	949.0
+04	0.0	999.0	0.0	0.0
+05	0.0	0.0	999.0	0.0
+06	0.0	0.0	999.0	0.0
+07	0.0	150.0	0.0	849.0
+08	84.0	1.0	665.0	250.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:A9U3V6
+CC data_type:PBM
+XX
+//
+AC MA1008_1
+XX
+ID  PHYPADRAFT_182268
+XX
+DE MA1008_1 MA1008_1_PHYPADRAFT_182268 ; From JASPAR
+PO	A	C	G	T
+01	292.0	180.0	180.0	348.0
+02	144.0	79.0	288.0	489.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	0.0	1000.0	0.0
+08	0.0	76.0	0.0	924.0
+09	70.0	70.0	789.0	70.0
+10	292.0	246.0	291.0	171.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:A9S898
+CC data_type:PBM
+XX
+//
+AC MA1009_1
+XX
+ID  ARF3
+XX
+DE MA1009_1 MA1009_1_ARF3 ; From JASPAR
+PO	A	C	G	T
+01	2.0	4.0	77.0	917.0
+02	2.0	3.0	991.0	3.0
+03	1.0	16.0	2.0	981.0
+04	2.0	990.0	1.0	6.0
+05	2.0	8.0	980.0	10.0
+06	3.0	24.0	964.0	10.0
+07	618.0	124.0	212.0	46.0
+08	575.0	95.0	191.0	139.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:O23661
+CC data_type:PBM
+XX
+//
+AC MA1010_1
+XX
+ID  PHYPADRAFT_64121
+XX
+DE MA1010_1 MA1010_1_PHYPADRAFT_64121 ; From JASPAR
+PO	A	C	G	T
+01	264.0	273.0	180.0	283.0
+02	41.0	41.0	41.0	877.0
+03	20.0	20.0	853.0	107.0
+04	107.0	20.0	125.0	748.0
+05	20.0	941.0	20.0	20.0
+06	0.0	87.0	912.0	0.0
+07	87.0	0.0	912.0	0.0
+08	0.0	0.0	0.0	1000.0
+09	608.0	70.0	158.0	164.0
+10	288.0	209.0	209.0	294.0
+11	309.0	230.0	230.0	230.0
+12	309.0	230.0	230.0	230.0
+13	309.0	230.0	230.0	230.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:A9RC32
+CC data_type:PBM
+XX
+//
+AC MA1011_1
+XX
+ID  PHYPADRAFT_72483
+XX
+DE MA1011_1 MA1011_1_PHYPADRAFT_72483 ; From JASPAR
+PO	A	C	G	T
+01	264.0	238.0	308.0	190.0
+02	210.0	181.0	272.0	337.0
+03	69.0	849.0	17.0	64.0
+04	806.0	0.0	106.0	87.0
+05	55.0	800.0	0.0	146.0
+06	146.0	0.0	800.0	55.0
+07	87.0	106.0	0.0	806.0
+08	64.0	17.0	849.0	69.0
+09	337.0	272.0	181.0	210.0
+10	190.0	308.0	238.0	264.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:A9RZ73
+CC data_type:PBM
+XX
+//
+AC MA1012_1
+XX
+ID  AGL27
+XX
+DE MA1012_1 MA1012_1_AGL27 ; From JASPAR
+PO	A	C	G	T
+01	25.0	78.0	25.0	14.0
+02	1.0	4.0	0.0	137.0
+03	0.0	0.0	0.0	142.0
+04	14.0	0.0	1.0	127.0
+05	0.0	142.0	0.0	0.0
+06	0.0	55.0	0.0	87.0
+07	108.0	0.0	1.0	33.0
+08	32.0	2.0	0.0	108.0
+09	9.0	0.0	0.0	133.0
+10	2.0	0.0	0.0	140.0
+11	15.0	21.0	2.0	104.0
+12	17.0	15.0	42.0	68.0
+13	33.0	0.0	109.0	0.0
+14	11.0	2.0	92.0	37.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:24067612
+CC uniprot_ids:Q9AT76
+CC data_type:ChIP-seq
+XX
+//
+AC MA1013_1
+XX
+ID  GATA10
+XX
+DE MA1013_1 MA1013_1_GATA10 ; From JASPAR
+PO	A	C	G	T
+01	100.0	67.0	133.0	699.0
+02	841.0	27.0	132.0	0.0
+03	0.0	0.0	999.0	0.0
+04	999.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	999.0
+06	0.0	999.0	0.0	0.0
+07	0.0	111.0	84.0	805.0
+08	111.0	111.0	740.0	37.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q8VZP4
+CC data_type:PBM
+XX
+//
+AC MA1014_1
+XX
+ID  GATA11
+XX
+DE MA1014_1 MA1014_1_GATA11 ; From JASPAR
+PO	A	C	G	T
+01	167.0	42.0	167.0	624.0
+02	902.0	0.0	97.0	0.0
+03	0.0	0.0	999.0	0.0
+04	999.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	999.0
+06	0.0	999.0	0.0	0.0
+07	0.0	0.0	0.0	999.0
+08	44.0	131.0	695.0	131.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q6DBP8
+CC data_type:PBM
+XX
+//
+AC MA1015_1
+XX
+ID  GATA12
+XX
+DE MA1015_1 MA1015_1_GATA12 ; From JASPAR
+PO	A	C	G	T
+01	190.0	282.0	146.0	382.0
+02	599.0	112.0	230.0	59.0
+03	189.0	67.0	738.0	6.0
+04	968.0	2.0	22.0	7.0
+05	7.0	22.0	2.0	968.0
+06	6.0	738.0	67.0	189.0
+07	59.0	230.0	112.0	599.0
+08	382.0	146.0	282.0	190.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:P69781
+CC data_type:PBM
+XX
+//
+AC MA1016_1
+XX
+ID  GATA15
+XX
+DE MA1016_1 MA1016_1_GATA15 ; From JASPAR
+PO	A	C	G	T
+01	206.0	281.0	217.0	296.0
+02	308.0	200.0	284.0	208.0
+03	182.0	288.0	66.0	465.0
+04	40.0	38.0	903.0	19.0
+05	980.0	0.0	0.0	19.0
+06	3.0	1.0	0.0	996.0
+07	55.0	663.0	156.0	126.0
+08	324.0	201.0	268.0	207.0
+09	269.0	239.0	280.0	212.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q8LG10
+CC data_type:PBM
+XX
+//
+AC MA1017_1
+XX
+ID  GATA8
+XX
+DE MA1017_1 MA1017_1_GATA8 ; From JASPAR
+PO	A	C	G	T
+01	207.0	319.0	261.0	214.0
+02	476.0	241.0	152.0	131.0
+03	59.0	29.0	899.0	13.0
+04	991.0	1.0	2.0	6.0
+05	2.0	21.0	0.0	977.0
+06	27.0	649.0	132.0	192.0
+07	60.0	379.0	108.0	453.0
+08	384.0	158.0	369.0	89.0
+09	314.0	187.0	320.0	179.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q9SV30
+CC data_type:PBM
+XX
+//
+AC MA1018_1
+XX
+ID  GATA9
+XX
+DE MA1018_1 MA1018_1_GATA9 ; From JASPAR
+PO	A	C	G	T
+01	227.0	227.0	227.0	318.0
+02	161.0	516.0	161.0	161.0
+03	204.0	291.0	51.0	453.0
+04	925.0	0.0	74.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	1000.0	0.0	0.0
+09	23.0	97.0	23.0	858.0
+10	294.0	89.0	452.0	165.0
+11	296.0	199.0	199.0	305.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:O82632
+CC data_type:PBM
+XX
+//
+AC MA1019_1
+XX
+ID  Glyma19g26560_1
+XX
+DE MA1019_1 MA1019_1_Glyma19g26560_1 ; From JASPAR
+PO	A	C	G	T
+01	104.0	199.0	480.0	218.0
+02	19.0	14.0	908.0	59.0
+03	86.0	19.0	861.0	33.0
+04	109.0	307.0	440.0	144.0
+05	42.0	882.0	27.0	49.0
+06	3.0	996.0	1.0	0.0
+07	4.0	976.0	0.0	20.0
+08	896.0	17.0	76.0	11.0
+09	17.0	844.0	50.0	89.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:I1N7U7
+CC data_type:PBM
+XX
+//
+AC MA1020_1
+XX
+ID  GT-1
+XX
+DE MA1020_1 MA1020_1_GT-1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	150.0	649.0	200.0
+02	0.0	67.0	0.0	932.0
+03	30.0	0.0	0.0	970.0
+04	999.0	0.0	0.0	0.0
+05	971.0	29.0	0.0	0.0
+06	30.0	970.0	0.0	0.0
+07	0.0	939.0	0.0	61.0
+08	624.0	167.0	125.0	84.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:10437822
+CC uniprot_ids:Q9FX53
+CC data_type:PBM
+XX
+//
+AC MA1021_1
+XX
+ID  PHYPADRAFT_48267
+XX
+DE MA1021_1 MA1021_1_PHYPADRAFT_48267 ; From JASPAR
+PO	A	C	G	T
+01	154.0	461.0	154.0	231.0
+02	1.0	998.0	1.0	1.0
+03	998.0	1.0	1.0	1.0
+04	1.0	998.0	1.0	1.0
+05	53.0	1.0	946.0	1.0
+06	1.0	1.0	1.0	998.0
+07	1.0	1.0	998.0	1.0
+08	143.0	642.0	72.0	143.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:A9TN45
+CC data_type:PBM
+XX
+//
+AC MA1022_1
+XX
+ID  PHYPADRAFT_38837
+XX
+DE MA1022_1 MA1022_1_PHYPADRAFT_38837 ; From JASPAR
+PO	A	C	G	T
+01	251.0	264.0	257.0	228.0
+02	343.0	186.0	254.0	217.0
+03	463.0	85.0	129.0	323.0
+04	828.0	68.0	24.0	81.0
+05	855.0	62.0	1.0	82.0
+06	644.0	216.0	54.0	86.0
+07	61.0	27.0	860.0	52.0
+08	150.0	269.0	207.0	374.0
+09	259.0	174.0	307.0	259.0
+10	283.0	262.0	227.0	227.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:A9TZG0
+CC data_type:PBM
+XX
+//
+AC MA1023_1
+XX
+ID  PHYPADRAFT_28324
+XX
+DE MA1023_1 MA1023_1_PHYPADRAFT_28324 ; From JASPAR
+PO	A	C	G	T
+01	72.0	72.0	286.0	571.0
+02	0.0	0.0	999.0	0.0
+03	0.0	0.0	0.0	999.0
+04	0.0	999.0	0.0	0.0
+05	0.0	0.0	999.0	0.0
+06	0.0	0.0	999.0	0.0
+07	0.0	217.0	0.0	782.0
+08	118.0	1.0	705.0	177.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:A9RGN0
+CC data_type:PBM
+XX
+//
+AC MA1024_1
+XX
+ID  HAT1
+XX
+DE MA1024_1 MA1024_1_HAT1 ; From JASPAR
+PO	A	C	G	T
+01	149.0	374.0	328.0	149.0
+02	69.0	506.0	69.0	356.0
+03	1000.0	0.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	1000.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	98.0	0.0	0.0	902.0
+09	101.0	101.0	286.0	512.0
+10	349.0	181.0	289.0	181.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:8253077
+CC uniprot_ids:P46600
+CC data_type:PBM
+XX
+//
+AC MA1025_1
+XX
+ID  HBI1
+XX
+DE MA1025_1 MA1025_1_HBI1 ; From JASPAR
+PO	A	C	G	T
+01	229.0	313.0	229.0	229.0
+02	229.0	229.0	313.0	229.0
+03	132.0	240.0	315.0	313.0
+04	24.0	106.0	762.0	108.0
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	904.0	0.0	95.0
+08	0.0	0.0	1000.0	0.0
+09	21.0	21.0	21.0	936.0
+10	21.0	21.0	936.0	21.0
+11	202.0	485.0	195.0	118.0
+12	226.0	226.0	226.0	322.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:24550223
+CC uniprot_ids:Q9ZPW3
+CC data_type:PBM
+XX
+//
+AC MA1027_1
+XX
+ID  KAN1
+XX
+DE MA1027_1 MA1027_1_KAN1 ; From JASPAR
+PO	A	C	G	T
+01	433.0	129.0	237.0	200.0
+02	259.0	213.0	285.0	242.0
+03	618.0	16.0	43.0	323.0
+04	128.0	192.0	58.0	623.0
+05	898.0	14.0	68.0	20.0
+06	54.0	87.0	19.0	840.0
+07	36.0	147.0	169.0	648.0
+08	63.0	876.0	18.0	44.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:24464295
+CC uniprot_ids:Q93WJ9
+CC data_type:PBM
+XX
+//
+AC MA1028_1
+XX
+ID  KAN4
+XX
+DE MA1028_1 MA1028_1_KAN4 ; From JASPAR
+PO	A	C	G	T
+01	11.0	10.0	965.0	14.0
+02	941.0	12.0	26.0	21.0
+03	905.0	2.0	2.0	92.0
+04	2.0	102.0	3.0	893.0
+05	893.0	3.0	102.0	2.0
+06	92.0	2.0	2.0	905.0
+07	21.0	26.0	12.0	941.0
+08	14.0	965.0	10.0	11.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:20444210
+CC uniprot_ids:Q9FJV5
+CC data_type:PBM
+XX
+//
+AC MA1030_1
+XX
+ID  P0510F09_23
+XX
+DE MA1030_1 MA1030_1_P0510F09_23 ; From JASPAR
+PO	A	C	G	T
+01	416.0	113.0	60.0	411.0
+02	535.0	24.0	369.0	72.0
+03	416.0	562.0	7.0	15.0
+04	26.0	962.0	1.0	11.0
+05	41.0	928.0	27.0	4.0
+06	10.0	1.0	0.0	989.0
+07	832.0	32.0	83.0	54.0
+08	373.0	132.0	389.0	106.0
+09	266.0	258.0	226.0	250.0
+10	241.0	256.0	220.0	283.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q5N9C9
+CC data_type:PBM
+XX
+//
+AC MA1031_1
+XX
+ID  OJ1581_H09_2
+XX
+DE MA1031_1 MA1031_1_OJ1581_H09_2 ; From JASPAR
+PO	A	C	G	T
+01	175.0	131.0	414.0	279.0
+02	74.0	146.0	335.0	445.0
+03	0.0	0.0	929.0	71.0
+04	0.0	0.0	1000.0	0.0
+05	127.0	101.0	661.0	112.0
+06	112.0	661.0	101.0	127.0
+07	0.0	1000.0	0.0	0.0
+08	71.0	929.0	0.0	0.0
+09	445.0	335.0	146.0	74.0
+10	279.0	414.0	131.0	175.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q6H878
+CC data_type:PBM
+XX
+//
+AC MA1032_1
+XX
+ID  DREB1G
+XX
+DE MA1032_1 MA1032_1_DREB1G ; From JASPAR
+PO	A	C	G	T
+01	314.0	229.0	229.0	229.0
+02	119.0	226.0	119.0	535.0
+03	180.0	0.0	820.0	0.0
+04	0.0	999.0	0.0	0.0
+05	0.0	999.0	0.0	0.0
+06	0.0	0.0	999.0	0.0
+07	884.0	0.0	115.0	0.0
+08	0.0	999.0	0.0	0.0
+09	845.0	22.0	22.0	111.0
+10	131.0	219.0	221.0	430.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q6EP77
+CC data_type:PBM
+XX
+//
+AC MA1033_1
+XX
+ID  OJ1058_F05_8
+XX
+DE MA1033_1 MA1033_1_OJ1058_F05_8 ; From JASPAR
+PO	A	C	G	T
+01	661.0	332.0	3.0	3.0
+02	3.0	990.0	3.0	3.0
+03	990.0	3.0	3.0	3.0
+04	3.0	990.0	3.0	3.0
+05	3.0	3.0	990.0	3.0
+06	3.0	3.0	3.0	990.0
+07	3.0	3.0	990.0	3.0
+08	5.0	5.0	495.0	495.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q75HX9
+CC data_type:PBM
+XX
+//
+AC MA1034_1
+XX
+ID  Os05g0497200
+XX
+DE MA1034_1 MA1034_1_Os05g0497200 ; From JASPAR
+PO	A	C	G	T
+01	3.0	990.0	3.0	3.0
+02	3.0	3.0	990.0	3.0
+03	3.0	661.0	332.0	3.0
+04	3.0	990.0	3.0	3.0
+05	3.0	3.0	990.0	3.0
+06	3.0	990.0	3.0	3.0
+07	3.0	990.0	3.0	3.0
+08	495.0	5.0	495.0	5.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q75K84
+CC data_type:PBM
+XX
+//
+AC MA1035_1
+XX
+ID  TCP4
+XX
+DE MA1035_1 MA1035_1_TCP4 ; From JASPAR
+PO	A	C	G	T
+01	112.0	1.0	775.0	112.0
+02	1.0	1.0	998.0	1.0
+03	1.0	1.0	998.0	1.0
+04	831.0	167.0	1.0	1.0
+05	1.0	998.0	1.0	1.0
+06	1.0	998.0	1.0	1.0
+07	997.0	1.0	1.0	1.0
+08	1.0	996.0	1.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12000681
+CC uniprot_ids:Q8LPR5
+CC data_type:PBM
+XX
+//
+AC MA1036_1
+XX
+ID  MYB111
+XX
+DE MA1036_1 MA1036_1_MYB111 ; From JASPAR
+PO	A	C	G	T
+01	229.0	4.0	757.0	10.0
+02	5.0	2.0	636.0	357.0
+03	3.0	12.0	4.0	981.0
+04	874.0	7.0	10.0	109.0
+05	18.0	4.0	976.0	2.0
+06	6.0	8.0	858.0	128.0
+07	6.0	4.0	5.0	985.0
+08	525.0	30.0	390.0	55.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9FJ07
+CC data_type:PBM
+XX
+//
+AC MA1037_1
+XX
+ID  MYB24
+XX
+DE MA1037_1 MA1037_1_MYB24 ; From JASPAR
+PO	A	C	G	T
+01	293.0	213.0	260.0	235.0
+02	369.0	158.0	243.0	231.0
+03	287.0	20.0	596.0	97.0
+04	25.0	0.0	253.0	722.0
+05	50.0	60.0	0.0	889.0
+06	542.0	206.0	60.0	192.0
+07	53.0	26.0	879.0	42.0
+08	51.0	5.0	860.0	84.0
+09	39.0	360.0	19.0	582.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9SPG9
+CC data_type:PBM
+XX
+//
+AC MA1038_1
+XX
+ID  MYB3
+XX
+DE MA1038_1 MA1038_1_MYB3 ; From JASPAR
+PO	A	C	G	T
+01	285.0	176.0	279.0	260.0
+02	59.0	59.0	823.0	59.0
+03	20.0	20.0	771.0	188.0
+04	0.0	0.0	0.0	1000.0
+05	929.0	0.0	0.0	71.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	0.0	1000.0	0.0
+08	0.0	0.0	0.0	1000.0
+09	650.0	74.0	202.0	74.0
+10	273.0	191.0	345.0	191.0
+11	311.0	230.0	230.0	230.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9S9K9
+CC data_type:PBM
+XX
+//
+AC MA1039_1
+XX
+ID  MYB4
+XX
+DE MA1039_1 MA1039_1_MYB4 ; From JASPAR
+PO	A	C	G	T
+01	253.0	36.0	674.0	36.0
+02	9.0	0.0	766.0	225.0
+03	0.0	9.0	0.0	991.0
+04	565.0	9.0	35.0	391.0
+05	26.0	0.0	974.0	0.0
+06	18.0	18.0	777.0	188.0
+07	10.0	0.0	0.0	990.0
+08	319.0	73.0	536.0	73.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9SZP1
+CC data_type:PBM
+XX
+//
+AC MA1040_1
+XX
+ID  MYB46
+XX
+DE MA1040_1 MA1040_1_MYB46 ; From JASPAR
+PO	A	C	G	T
+01	81.0	3.0	911.0	5.0
+02	3.0	2.0	387.0	608.0
+03	6.0	7.0	1.0	985.0
+04	836.0	30.0	6.0	128.0
+05	4.0	4.0	991.0	2.0
+06	5.0	3.0	898.0	95.0
+07	2.0	33.0	1.0	964.0
+08	580.0	24.0	358.0	38.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9LXV2
+CC data_type:PBM
+XX
+//
+AC MA1041_1
+XX
+ID  MYB55
+XX
+DE MA1041_1 MA1041_1_MYB55 ; From JASPAR
+PO	A	C	G	T
+01	980.0	1.0	16.0	3.0
+02	48.0	946.0	2.0	4.0
+03	2.0	989.0	2.0	6.0
+04	227.0	49.0	23.0	701.0
+05	979.0	1.0	16.0	4.0
+06	267.0	730.0	1.0	2.0
+07	2.0	958.0	1.0	39.0
+08	118.0	54.0	756.0	72.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9M118
+CC data_type:PBM
+XX
+//
+AC MA1042_1
+XX
+ID  MYB59
+XX
+DE MA1042_1 MA1042_1_MYB59 ; From JASPAR
+PO	A	C	G	T
+01	357.0	14.0	548.0	80.0
+02	17.0	7.0	114.0	862.0
+03	31.0	14.0	6.0	949.0
+04	874.0	39.0	17.0	71.0
+05	17.0	8.0	956.0	19.0
+06	24.0	11.0	948.0	18.0
+07	39.0	40.0	5.0	916.0
+08	552.0	267.0	23.0	158.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q4JL84
+CC data_type:PBM
+XX
+//
+AC MA1043_1
+XX
+ID  NAC083
+XX
+DE MA1043_1 MA1043_1_NAC083 ; From JASPAR
+PO	A	C	G	T
+01	427.0	124.0	124.0	325.0
+02	25.0	327.0	25.0	623.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	598.0	0.0	402.0
+07	1000.0	0.0	0.0	0.0
+08	1000.0	0.0	0.0	0.0
+09	126.0	522.0	126.0	226.0
+10	225.0	325.0	225.0	225.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FY93
+CC data_type:PBM
+XX
+//
+AC MA1044_1
+XX
+ID  NAC92
+XX
+DE MA1044_1 MA1044_1_NAC92 ; From JASPAR
+PO	A	C	G	T
+01	227.0	227.0	227.0	318.0
+02	318.0	227.0	227.0	227.0
+03	559.0	80.0	282.0	80.0
+04	22.0	935.0	22.0	22.0
+05	909.0	0.0	0.0	91.0
+06	430.0	480.0	0.0	91.0
+07	0.0	0.0	1000.0	0.0
+08	224.0	497.0	92.0	186.0
+09	247.0	607.0	23.0	123.0
+10	932.0	23.0	23.0	23.0
+11	274.0	299.0	256.0	170.0
+12	314.0	229.0	229.0	229.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FKA0
+CC data_type:PBM
+XX
+//
+AC MA1045_1
+XX
+ID  NAC043
+XX
+DE MA1045_1 MA1045_1_NAC043 ; From JASPAR
+PO	A	C	G	T
+01	444.0	185.0	185.0	185.0
+02	46.0	46.0	46.0	863.0
+03	442.0	0.0	83.0	475.0
+04	719.0	0.0	280.0	0.0
+05	76.0	924.0	0.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	245.0	0.0	755.0
+08	1000.0	0.0	0.0	0.0
+09	806.0	65.0	65.0	65.0
+10	310.0	205.0	205.0	280.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q84WP6
+CC data_type:PBM
+XX
+//
+AC MA1046_1
+XX
+ID  NTL9
+XX
+DE MA1046_1 MA1046_1_NTL9 ; From JASPAR
+PO	A	C	G	T
+01	10.0	10.0	10.0	971.0
+02	5.0	5.0	5.0	985.0
+03	985.0	5.0	5.0	5.0
+04	985.0	5.0	5.0	5.0
+05	5.0	5.0	985.0	5.0
+06	5.0	5.0	5.0	985.0
+07	985.0	5.0	5.0	5.0
+08	985.0	5.0	5.0	5.0
+09	10.0	10.0	10.0	971.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:F4JN35
+CC data_type:DAP-seq
+XX
+//
+AC MA1048_1
+XX
+ID  ERF018
+XX
+DE MA1048_1 MA1048_1_ERF018 ; From JASPAR
+PO	A	C	G	T
+01	581.0	1.0	412.0	6.0
+02	1.0	993.0	2.0	4.0
+03	6.0	990.0	2.0	1.0
+04	2.0	2.0	993.0	2.0
+05	718.0	8.0	65.0	208.0
+06	3.0	991.0	1.0	5.0
+07	44.0	943.0	1.0	12.0
+08	735.0	10.0	70.0	184.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9S7L5
+CC data_type:PBM
+XX
+//
+AC MA1049_1
+XX
+ID  ERF094
+XX
+DE MA1049_1 MA1049_1_ERF094 ; From JASPAR
+PO	A	C	G	T
+01	346.0	461.0	192.0	0.0
+02	0.0	0.0	999.0	0.0
+03	0.0	999.0	0.0	0.0
+04	122.0	877.0	0.0	0.0
+05	25.0	0.0	975.0	0.0
+06	0.0	951.0	49.0	0.0
+07	0.0	999.0	0.0	0.0
+08	241.0	104.0	482.0	173.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9LND1
+CC data_type:PBM
+XX
+//
+AC MA1050_1
+XX
+ID  OsI_08196
+XX
+DE MA1050_1 MA1050_1_OsI_08196 ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	946.0	53.0
+02	46.0	0.0	953.0	0.0
+03	91.0	91.0	726.0	91.0
+04	0.0	863.0	46.0	91.0
+05	0.0	999.0	0.0	0.0
+06	0.0	999.0	0.0	0.0
+07	899.0	50.0	50.0	0.0
+08	1.0	855.0	72.0	72.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:A2X7K8
+CC data_type:PBM
+XX
+//
+AC MA1051_1
+XX
+ID  RAP2-3
+XX
+DE MA1051_1 MA1051_1_RAP2-3 ; From JASPAR
+PO	A	C	G	T
+01	119.0	232.0	543.0	107.0
+02	147.0	761.0	33.0	58.0
+03	7.0	6.0	982.0	5.0
+04	6.0	746.0	244.0	4.0
+05	16.0	977.0	4.0	3.0
+06	6.0	3.0	976.0	15.0
+07	109.0	780.0	26.0	85.0
+08	257.0	664.0	6.0	73.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:P42736
+CC data_type:PBM
+XX
+//
+AC MA1053_1
+XX
+ID  ERF109
+XX
+DE MA1053_1 MA1053_1_ERF109 ; From JASPAR
+PO	A	C	G	T
+01	38.0	287.0	661.0	13.0
+02	50.0	936.0	8.0	6.0
+03	3.0	5.0	989.0	3.0
+04	3.0	827.0	168.0	2.0
+05	13.0	982.0	2.0	3.0
+06	4.0	13.0	978.0	5.0
+07	38.0	862.0	13.0	86.0
+08	207.0	773.0	2.0	18.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:25882345
+CC uniprot_ids:Q9SZ06
+CC data_type:PBM
+XX
+//
+AC MA1054_1
+XX
+ID  ARALYDRAFT_897773
+XX
+DE MA1054_1 MA1054_1_ARALYDRAFT_897773 ; From JASPAR
+PO	A	C	G	T
+01	92.0	278.0	167.0	463.0
+02	27.0	79.0	491.0	402.0
+03	36.0	4.0	877.0	83.0
+04	17.0	7.0	957.0	19.0
+05	40.0	125.0	826.0	9.0
+06	756.0	215.0	7.0	22.0
+07	2.0	949.0	47.0	2.0
+08	1.0	995.0	2.0	1.0
+09	862.0	2.0	132.0	4.0
+10	20.0	907.0	6.0	67.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:D7L3Y2
+CC data_type:PBM
+XX
+//
+AC MA1056_1
+XX
+ID  SPL11
+XX
+DE MA1056_1 MA1056_1_SPL11 ; From JASPAR
+PO	A	C	G	T
+01	229.0	229.0	229.0	314.0
+02	314.0	229.0	229.0	229.0
+03	172.0	318.0	172.0	339.0
+04	147.0	624.0	63.0	166.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	1000.0	0.0	0.0	0.0
+08	0.0	1000.0	0.0	0.0
+09	21.0	21.0	936.0	21.0
+10	21.0	21.0	773.0	185.0
+11	572.0	78.0	78.0	271.0
+12	188.0	271.0	188.0	353.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q9FZK0
+CC data_type:PBM
+XX
+//
+AC MA1057_1
+XX
+ID  SPL12
+XX
+DE MA1057_1 MA1057_1_SPL12 ; From JASPAR
+PO	A	C	G	T
+01	272.0	182.0	211.0	335.0
+02	143.0	49.0	761.0	47.0
+03	8.0	38.0	12.0	942.0
+04	947.0	46.0	5.0	2.0
+05	5.0	994.0	0.0	1.0
+06	76.0	78.0	744.0	102.0
+07	249.0	53.0	538.0	159.0
+08	278.0	262.0	151.0	310.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q9S7P5
+CC data_type:PBM
+XX
+//
+AC MA1058_1
+XX
+ID  SPL4
+XX
+DE MA1058_1 MA1058_1_SPL4 ; From JASPAR
+PO	A	C	G	T
+01	233.0	327.0	198.0	242.0
+02	208.0	54.0	636.0	102.0
+03	44.0	83.0	26.0	847.0
+04	934.0	51.0	11.0	3.0
+05	44.0	893.0	5.0	57.0
+06	197.0	106.0	557.0	140.0
+07	264.0	104.0	414.0	218.0
+08	252.0	252.0	205.0	290.0
+09	269.0	258.0	195.0	277.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q9S7A9
+CC data_type:PBM
+XX
+//
+AC MA1060_1
+XX
+ID  SPL7
+XX
+DE MA1060_1 MA1060_1_SPL7 ; From JASPAR
+PO	A	C	G	T
+01	51.0	777.0	123.0	49.0
+02	42.0	26.0	912.0	20.0
+03	43.0	12.0	89.0	856.0
+04	885.0	62.0	22.0	31.0
+05	39.0	922.0	14.0	25.0
+06	65.0	106.0	798.0	31.0
+07	286.0	208.0	365.0	142.0
+08	118.0	614.0	41.0	227.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q8S9G8
+CC data_type:PBM
+XX
+//
+AC MA1061_1
+XX
+ID  SPT
+XX
+DE MA1061_1 MA1061_1_SPT ; From JASPAR
+PO	A	C	G	T
+01	202.0	427.0	208.0	163.0
+02	47.0	568.0	255.0	129.0
+03	0.0	961.0	0.0	39.0
+04	885.0	0.0	99.0	16.0
+05	9.0	910.0	0.0	80.0
+06	88.0	0.0	912.0	0.0
+07	0.0	12.0	0.0	988.0
+08	84.0	115.0	724.0	76.0
+09	221.0	301.0	237.0	242.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9FUA4
+CC data_type:PBM
+XX
+//
+AC MA1063_1
+XX
+ID  TCP19
+XX
+DE MA1063_1 MA1063_1_TCP19 ; From JASPAR
+PO	A	C	G	T
+01	148.0	221.0	181.0	450.0
+02	137.0	151.0	506.0	206.0
+03	32.0	7.0	846.0	115.0
+04	112.0	57.0	778.0	53.0
+05	190.0	283.0	409.0	118.0
+06	109.0	739.0	22.0	130.0
+07	13.0	961.0	1.0	25.0
+08	0.0	999.0	0.0	1.0
+09	841.0	29.0	128.0	2.0
+10	0.0	812.0	106.0	81.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9LT89
+CC data_type:PBM
+XX
+//
+AC MA1064_1
+XX
+ID  TCP2
+XX
+DE MA1064_1 MA1064_1_TCP2 ; From JASPAR
+PO	A	C	G	T
+01	217.0	168.0	429.0	186.0
+02	88.0	194.0	154.0	564.0
+03	35.0	0.0	844.0	121.0
+04	0.0	0.0	981.0	19.0
+05	68.0	78.0	521.0	333.0
+06	333.0	521.0	78.0	68.0
+07	19.0	981.0	0.0	0.0
+08	121.0	844.0	0.0	35.0
+09	564.0	154.0	194.0	88.0
+10	186.0	429.0	168.0	217.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q93V43
+CC data_type:PBM
+XX
+//
+AC MA1066_1
+XX
+ID  TCP23
+XX
+DE MA1066_1 MA1066_1_TCP23 ; From JASPAR
+PO	A	C	G	T
+01	5.0	3.0	966.0	26.0
+02	10.0	5.0	980.0	5.0
+03	37.0	88.0	835.0	41.0
+04	7.0	971.0	8.0	13.0
+05	4.0	984.0	8.0	4.0
+06	12.0	980.0	3.0	6.0
+07	954.0	10.0	31.0	5.0
+08	10.0	959.0	11.0	21.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9LQF0
+CC data_type:PBM
+XX
+//
+AC MA1067_1
+XX
+ID  TCP5
+XX
+DE MA1067_1 MA1067_1_TCP5 ; From JASPAR
+PO	A	C	G	T
+01	2.0	2.0	993.0	2.0
+02	2.0	2.0	995.0	2.0
+03	2.0	2.0	995.0	2.0
+04	995.0	2.0	2.0	2.0
+05	2.0	995.0	2.0	2.0
+06	2.0	995.0	2.0	2.0
+07	995.0	2.0	2.0	2.0
+08	2.0	745.0	2.0	250.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9FME3
+CC data_type:PBM
+XX
+//
+AC MA1071_1
+XX
+ID  DOF5_3
+XX
+DE MA1071_1 MA1071_1_DOF5_3 ; From JASPAR
+PO	A	C	G	T
+01	247.0	247.0	262.0	244.0
+02	327.0	213.0	228.0	233.0
+03	396.0	128.0	146.0	331.0
+04	842.0	61.0	17.0	81.0
+05	850.0	79.0	0.0	70.0
+06	611.0	329.0	14.0	47.0
+07	66.0	52.0	767.0	116.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q84TE9
+CC data_type:PBM
+XX
+//
+AC MA1074_1
+XX
+ID  UNE10
+XX
+DE MA1074_1 MA1074_1_UNE10 ; From JASPAR
+PO	A	C	G	T
+01	214.0	499.0	72.0	214.0
+02	0.0	999.0	0.0	0.0
+03	999.0	0.0	0.0	0.0
+04	0.0	999.0	0.0	0.0
+05	0.0	0.0	999.0	0.0
+06	0.0	0.0	0.0	999.0
+07	0.0	0.0	999.0	0.0
+08	267.0	533.0	67.0	134.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q8GZ38
+CC data_type:PBM
+XX
+//
+AC MA1075_1
+XX
+ID  WRKY12
+XX
+DE MA1075_1 MA1075_1_WRKY12 ; From JASPAR
+PO	A	C	G	T
+01	172.0	707.0	76.0	46.0
+02	70.0	33.0	819.0	78.0
+03	20.0	62.0	5.0	913.0
+04	10.0	15.0	29.0	946.0
+05	8.0	6.0	954.0	33.0
+06	971.0	6.0	10.0	14.0
+07	29.0	949.0	5.0	16.0
+08	25.0	722.0	101.0	151.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q93WY4
+CC data_type:PBM
+XX
+//
+AC MA1077_1
+XX
+ID  WRKY18
+XX
+DE MA1077_1 MA1077_1_WRKY18 ; From JASPAR
+PO	A	C	G	T
+01	290.0	262.0	204.0	244.0
+02	258.0	279.0	152.0	312.0
+03	392.0	16.0	585.0	8.0
+04	1.0	1.0	988.0	11.0
+05	0.0	0.0	2.0	997.0
+06	1.0	997.0	0.0	2.0
+07	985.0	8.0	2.0	5.0
+08	964.0	10.0	11.0	16.0
+09	186.0	372.0	289.0	153.0
+10	212.0	254.0	398.0	135.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9C5T4
+CC data_type:PBM
+XX
+//
+AC MA1078_1
+XX
+ID  WRKY2
+XX
+DE MA1078_1 MA1078_1_WRKY2 ; From JASPAR
+PO	A	C	G	T
+01	115.0	393.0	246.0	246.0
+02	277.0	11.0	713.0	0.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	1000.0	0.0	0.0
+06	961.0	19.0	19.0	0.0
+07	806.0	0.0	163.0	31.0
+08	271.0	528.0	72.0	129.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FG77
+CC data_type:PBM
+XX
+//
+AC MA1080_1
+XX
+ID  WRKY23
+XX
+DE MA1080_1 MA1080_1_WRKY23 ; From JASPAR
+PO	A	C	G	T
+01	698.0	1.0	300.0	1.0
+02	1.0	1.0	998.0	1.0
+03	1.0	1.0	1.0	998.0
+04	1.0	998.0	1.0	1.0
+05	998.0	1.0	1.0	1.0
+06	998.0	1.0	1.0	1.0
+07	167.0	831.0	1.0	1.0
+08	143.0	143.0	712.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:O22900
+CC data_type:PBM
+XX
+//
+AC MA1084_1
+XX
+ID  WRKY38
+XX
+DE MA1084_1 MA1084_1_WRKY38 ; From JASPAR
+PO	A	C	G	T
+01	152.0	672.0	73.0	104.0
+02	69.0	28.0	849.0	55.0
+03	26.0	30.0	21.0	923.0
+04	8.0	23.0	39.0	930.0
+05	9.0	16.0	961.0	14.0
+06	955.0	17.0	10.0	18.0
+07	16.0	951.0	13.0	20.0
+08	15.0	679.0	17.0	289.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q8GWF1
+CC data_type:PBM
+XX
+//
+AC MA1086_1
+XX
+ID  WRKY43
+XX
+DE MA1086_1 MA1086_1_WRKY43 ; From JASPAR
+PO	A	C	G	T
+01	374.0	213.0	169.0	245.0
+02	509.0	92.0	342.0	58.0
+03	53.0	18.0	877.0	52.0
+04	74.0	14.0	4.0	908.0
+05	87.0	892.0	11.0	11.0
+06	798.0	62.0	61.0	79.0
+07	765.0	32.0	131.0	71.0
+08	256.0	460.0	108.0	176.0
+09	332.0	196.0	310.0	163.0
+10	231.0	311.0	218.0	240.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q8GY11
+CC data_type:PBM
+XX
+//
+AC MA1088_1
+XX
+ID  WRKY48
+XX
+DE MA1088_1 MA1088_1_WRKY48 ; From JASPAR
+PO	A	C	G	T
+01	262.0	237.0	265.0	235.0
+02	263.0	231.0	252.0	255.0
+03	326.0	154.0	410.0	111.0
+04	21.0	0.0	869.0	110.0
+05	21.0	0.0	0.0	978.0
+06	63.0	930.0	1.0	6.0
+07	662.0	145.0	66.0	127.0
+08	538.0	76.0	228.0	159.0
+09	269.0	386.0	155.0	190.0
+10	234.0	232.0	313.0	221.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FGZ4
+CC data_type:PBM
+XX
+//
+AC MA1089_1
+XX
+ID  WRKY57
+XX
+DE MA1089_1 MA1089_1_WRKY57 ; From JASPAR
+PO	A	C	G	T
+01	398.0	177.0	202.0	223.0
+02	408.0	173.0	161.0	258.0
+03	499.0	76.0	312.0	114.0
+04	38.0	17.0	870.0	75.0
+05	30.0	0.0	0.0	969.0
+06	52.0	914.0	7.0	27.0
+07	879.0	48.0	23.0	50.0
+08	817.0	14.0	113.0	56.0
+09	260.0	508.0	87.0	145.0
+10	199.0	207.0	386.0	207.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9C983
+CC data_type:PBM
+XX
+//
+AC MA1090_1
+XX
+ID  WRKY60
+XX
+DE MA1090_1 MA1090_1_WRKY60 ; From JASPAR
+PO	A	C	G	T
+01	270.0	278.0	269.0	183.0
+02	106.0	409.0	106.0	380.0
+03	136.0	22.0	820.0	22.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	1000.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	1000.0	0.0	0.0	0.0
+09	258.0	608.0	67.0	67.0
+10	145.0	246.0	465.0	145.0
+11	228.0	228.0	228.0	316.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SK33
+CC data_type:PBM
+XX
+//
+AC MA1091_1
+XX
+ID  WRKY62
+XX
+DE MA1091_1 MA1091_1_WRKY62 ; From JASPAR
+PO	A	C	G	T
+01	126.0	126.0	1.0	748.0
+02	308.0	1.0	691.0	1.0
+03	1.0	1.0	998.0	1.0
+04	1.0	1.0	1.0	998.0
+05	1.0	998.0	1.0	1.0
+06	998.0	1.0	1.0	1.0
+07	998.0	1.0	1.0	1.0
+08	273.0	726.0	1.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9LZV6
+CC data_type:PBM
+XX
+//
+AC MA1092_1
+XX
+ID  WRKY63
+XX
+DE MA1092_1 MA1092_1_WRKY63 ; From JASPAR
+PO	A	C	G	T
+01	200.0	371.0	143.0	286.0
+02	157.0	0.0	843.0	0.0
+03	0.0	0.0	999.0	0.0
+04	0.0	0.0	0.0	999.0
+05	0.0	999.0	0.0	0.0
+06	999.0	0.0	0.0	0.0
+07	981.0	0.0	0.0	19.0
+08	128.0	513.0	231.0	128.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9C6H5
+CC data_type:PBM
+XX
+//
+AC MA1093_1
+XX
+ID  WRKY75
+XX
+DE MA1093_1 MA1093_1_WRKY75 ; From JASPAR
+PO	A	C	G	T
+01	302.0	279.0	140.0	279.0
+02	500.0	17.0	483.0	0.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	260.0	620.0	0.0	120.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FYA2
+CC data_type:PBM
+XX
+//
+AC MA1095_1
+XX
+ID  ARALYDRAFT_495258
+XX
+DE MA1095_1 MA1095_1_ARALYDRAFT_495258 ; From JASPAR
+PO	A	C	G	T
+01	2.0	2.0	993.0	2.0
+02	250.0	2.0	745.0	2.0
+03	2.0	498.0	498.0	2.0
+04	2.0	993.0	2.0	2.0
+05	2.0	993.0	2.0	2.0
+06	2.0	993.0	2.0	2.0
+07	993.0	2.0	2.0	2.0
+08	3.0	990.0	3.0	3.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:D7MRK3
+CC data_type:PBM
+XX
+//
+AC MA1096_1
+XX
+ID  ARALYDRAFT_496250
+XX
+DE MA1096_1 MA1096_1_ARALYDRAFT_496250 ; From JASPAR
+PO	A	C	G	T
+01	3.0	3.0	990.0	3.0
+02	2.0	2.0	994.0	2.0
+03	2.0	2.0	994.0	2.0
+04	994.0	2.0	2.0	2.0
+05	2.0	994.0	2.0	2.0
+06	2.0	994.0	2.0	2.0
+07	994.0	2.0	2.0	2.0
+08	3.0	990.0	3.0	3.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:D7MUG0
+CC data_type:PBM
+XX
+//
+AC MA1097_1
+XX
+ID  ARALYDRAFT_493022
+XX
+DE MA1097_1 MA1097_1_ARALYDRAFT_493022 ; From JASPAR
+PO	A	C	G	T
+01	3.0	3.0	990.0	3.0
+02	3.0	3.0	990.0	3.0
+03	3.0	332.0	661.0	3.0
+04	332.0	661.0	3.0	3.0
+05	3.0	990.0	3.0	3.0
+06	3.0	990.0	3.0	3.0
+07	990.0	3.0	3.0	3.0
+08	5.0	985.0	5.0	5.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:D7MCT1
+CC data_type:PBM
+XX
+//
+AC MA1098_1
+XX
+ID  ARALYDRAFT_484486
+XX
+DE MA1098_1 MA1098_1_ARALYDRAFT_484486 ; From JASPAR
+PO	A	C	G	T
+01	2.0	2.0	993.0	2.0
+02	250.0	2.0	745.0	2.0
+03	2.0	498.0	498.0	2.0
+04	2.0	993.0	2.0	2.0
+05	2.0	993.0	2.0	2.0
+06	2.0	993.0	2.0	2.0
+07	993.0	2.0	2.0	2.0
+08	3.0	990.0	3.0	3.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:D7LRC3
+CC data_type:PBM
+XX
+//
+AC MA1156_1
+XX
+ID  JKD
+XX
+DE MA1156_1 MA1156_1_JKD ; From JASPAR
+PO	A	C	G	T
+01	163.0	108.0	67.0	258.0
+02	161.0	99.0	72.0	264.0
+03	162.0	101.0	79.0	254.0
+04	176.0	63.0	75.0	282.0
+05	145.0	70.0	74.0	307.0
+06	83.0	30.0	31.0	452.0
+07	6.0	24.0	13.0	553.0
+08	0.0	5.0	4.0	587.0
+09	0.0	10.0	0.0	586.0
+10	0.0	0.0	596.0	0.0
+11	0.0	0.0	13.0	583.0
+12	11.0	564.0	0.0	21.0
+13	31.0	62.0	331.0	172.0
+14	9.0	20.0	42.0	525.0
+15	57.0	99.0	34.0	406.0
+16	87.0	0.0	0.0	509.0
+17	134.0	27.0	8.0	427.0
+18	71.0	228.0	193.0	104.0
+19	47.0	135.0	39.0	375.0
+20	143.0	55.0	209.0	189.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q700D2
+CC data_type:DAP-seq
+XX
+//
+AC MA1157_1
+XX
+ID  NUC
+XX
+DE MA1157_1 MA1157_1_NUC ; From JASPAR
+PO	A	C	G	T
+01	139.0	103.0	87.0	241.0
+02	141.0	104.0	90.0	235.0
+03	151.0	109.0	83.0	227.0
+04	170.0	77.0	84.0	239.0
+05	127.0	76.0	85.0	282.0
+06	70.0	47.0	42.0	411.0
+07	8.0	33.0	19.0	510.0
+08	0.0	5.0	8.0	557.0
+09	0.0	8.0	0.0	562.0
+10	0.0	0.0	570.0	0.0
+11	0.0	0.0	5.0	565.0
+12	0.0	570.0	0.0	0.0
+13	18.0	51.0	381.0	120.0
+14	3.0	19.0	33.0	515.0
+15	63.0	89.0	46.0	372.0
+16	74.0	0.0	3.0	493.0
+17	148.0	41.0	15.0	366.0
+18	56.0	183.0	202.0	129.0
+19	24.0	148.0	55.0	343.0
+20	131.0	54.0	227.0	158.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q9FFH3
+CC data_type:DAP-seq
+XX
+//
+AC MA1158_1
+XX
+ID  MGP
+XX
+DE MA1158_1 MA1158_1_MGP ; From JASPAR
+PO	A	C	G	T
+01	187.0	203.0	50.0	154.0
+02	363.0	50.0	139.0	42.0
+03	143.0	183.0	185.0	83.0
+04	402.0	15.0	50.0	127.0
+05	512.0	0.0	2.0	80.0
+06	421.0	26.0	73.0	74.0
+07	552.0	21.0	20.0	1.0
+08	153.0	379.0	52.0	10.0
+09	0.0	0.0	594.0	0.0
+10	593.0	0.0	1.0	0.0
+11	0.0	594.0	0.0	0.0
+12	578.0	0.0	16.0	0.0
+13	587.0	3.0	4.0	0.0
+14	566.0	9.0	16.0	3.0
+15	484.0	28.0	19.0	63.0
+16	319.0	80.0	56.0	139.0
+17	285.0	77.0	68.0	164.0
+18	269.0	72.0	112.0	141.0
+19	257.0	80.0	94.0	163.0
+20	263.0	68.0	104.0	159.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q9ZWA6
+CC data_type:DAP-seq
+XX
+//
+AC MA1159_1
+XX
+ID  SGR5
+XX
+DE MA1159_1 MA1159_1_SGR5 ; From JASPAR
+PO	A	C	G	T
+01	293.0	126.0	40.0	141.0
+02	343.0	57.0	160.0	40.0
+03	340.0	48.0	116.0	96.0
+04	433.0	0.0	44.0	123.0
+05	310.0	16.0	27.0	247.0
+06	486.0	22.0	92.0	0.0
+07	532.0	4.0	22.0	42.0
+08	33.0	0.0	566.0	1.0
+09	591.0	6.0	0.0	3.0
+10	0.0	599.0	1.0	0.0
+11	592.0	1.0	7.0	0.0
+12	598.0	1.0	0.0	1.0
+13	560.0	10.0	11.0	19.0
+14	428.0	34.0	21.0	117.0
+15	285.0	83.0	43.0	189.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:F4IPE3
+CC data_type:DAP-seq
+XX
+//
+AC MA1160_1
+XX
+ID  IDD6
+XX
+DE MA1160_1 MA1160_1_IDD6 ; From JASPAR
+PO	A	C	G	T
+01	61.0	36.0	32.0	113.0
+02	61.0	32.0	34.0	115.0
+03	60.0	43.0	32.0	107.0
+04	72.0	27.0	28.0	115.0
+05	58.0	23.0	28.0	133.0
+06	25.0	15.0	11.0	191.0
+07	0.0	6.0	5.0	231.0
+08	0.0	2.0	0.0	240.0
+09	0.0	6.0	1.0	235.0
+10	0.0	1.0	240.0	1.0
+11	0.0	2.0	15.0	225.0
+12	2.0	237.0	0.0	3.0
+13	13.0	21.0	154.0	54.0
+14	2.0	9.0	14.0	217.0
+15	7.0	32.0	13.0	190.0
+16	35.0	0.0	6.0	201.0
+17	65.0	5.0	1.0	171.0
+18	21.0	89.0	108.0	24.0
+19	4.0	66.0	4.0	168.0
+20	38.0	15.0	117.0	72.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q8RWX7
+CC data_type:DAP-seq
+XX
+//
+AC MA1161_1
+XX
+ID  TSO1
+XX
+DE MA1161_1 MA1161_1_TSO1 ; From JASPAR
+PO	A	C	G	T
+01	136.0	15.0	28.0	85.0
+02	97.0	9.0	28.0	130.0
+03	71.0	11.0	8.0	174.0
+04	54.0	6.0	9.0	195.0
+05	86.0	38.0	15.0	125.0
+06	160.0	26.0	41.0	37.0
+07	228.0	0.0	35.0	1.0
+08	232.0	1.0	16.0	15.0
+09	244.0	0.0	0.0	20.0
+10	0.0	8.0	3.0	253.0
+11	0.0	0.0	0.0	264.0
+12	0.0	69.0	0.0	195.0
+13	214.0	0.0	45.0	5.0
+14	264.0	0.0	0.0	0.0
+15	264.0	0.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CPP
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LUI3
+CC data_type:DAP-seq
+XX
+//
+AC MA1162_1
+XX
+ID  TCX2
+XX
+DE MA1162_1 MA1162_1_TCX2 ; From JASPAR
+PO	A	C	G	T
+01	257.0	49.0	61.0	232.0
+02	135.0	23.0	28.0	413.0
+03	60.0	41.0	1.0	497.0
+04	54.0	173.0	41.0	331.0
+05	292.0	132.0	107.0	68.0
+06	559.0	6.0	26.0	8.0
+07	554.0	14.0	1.0	30.0
+08	514.0	0.0	14.0	71.0
+09	10.0	1.0	7.0	581.0
+10	0.0	0.0	0.0	599.0
+11	0.0	318.0	0.0	281.0
+12	435.0	1.0	163.0	0.0
+13	599.0	0.0	0.0	0.0
+14	599.0	0.0	0.0	0.0
+15	178.0	93.0	10.0	318.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CPP
+CC pubmed_ids:25215497
+CC uniprot_ids:F4JIF5
+CC data_type:DAP-seq
+XX
+//
+AC MA1164_1
+XX
+ID  HHO5
+XX
+DE MA1164_1 MA1164_1_HHO5 ; From JASPAR
+PO	A	C	G	T
+01	212.0	168.0	57.0	163.0
+02	264.0	99.0	111.0	126.0
+03	304.0	39.0	166.0	91.0
+04	489.0	19.0	29.0	63.0
+05	597.0	0.0	0.0	3.0
+06	0.0	0.0	513.0	87.0
+07	600.0	0.0	0.0	0.0
+08	2.0	0.0	0.0	598.0
+09	14.0	1.0	5.0	580.0
+10	0.0	600.0	0.0	0.0
+11	79.0	233.0	70.0	218.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:F4JRB0
+CC data_type:DAP-seq
+XX
+//
+AC MA1166_1
+XX
+ID  PHL12
+XX
+DE MA1166_1 MA1166_1_PHL12 ; From JASPAR
+PO	A	C	G	T
+01	54.0	14.0	23.0	14.0
+02	67.0	9.0	12.0	17.0
+03	80.0	3.0	17.0	5.0
+04	43.0	16.0	44.0	2.0
+05	42.0	10.0	53.0	0.0
+06	4.0	0.0	101.0	0.0
+07	99.0	0.0	1.0	5.0
+08	105.0	0.0	0.0	0.0
+09	0.0	0.0	1.0	104.0
+10	83.0	22.0	0.0	0.0
+11	0.0	0.0	0.0	105.0
+12	3.0	0.0	0.0	102.0
+13	0.0	86.0	0.0	19.0
+14	7.0	44.0	14.0	40.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8VYI2
+CC data_type:DAP-seq
+XX
+//
+AC MA1167_1
+XX
+ID  EFM
+XX
+DE MA1167_1 MA1167_1_EFM ; From JASPAR
+PO	A	C	G	T
+01	316.0	6.0	229.0	49.0
+02	0.0	0.0	600.0	0.0
+03	544.0	0.0	4.0	52.0
+04	600.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	600.0
+06	490.0	110.0	0.0	0.0
+07	1.0	1.0	0.0	598.0
+08	95.0	70.0	34.0	401.0
+09	28.0	529.0	12.0	31.0
+10	138.0	158.0	149.0	155.0
+11	206.0	79.0	166.0	149.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9ZQ85
+CC data_type:DAP-seq
+XX
+//
+AC MA1168_1
+XX
+ID  MYR2
+XX
+DE MA1168_1 MA1168_1_MYR2 ; From JASPAR
+PO	A	C	G	T
+01	257.0	84.0	115.0	142.0
+02	315.0	33.0	103.0	147.0
+03	206.0	62.0	174.0	156.0
+04	262.0	97.0	239.0	0.0
+05	0.0	0.0	597.0	1.0
+06	586.0	10.0	0.0	2.0
+07	596.0	0.0	0.0	2.0
+08	0.0	0.0	0.0	598.0
+09	288.0	310.0	0.0	0.0
+10	13.0	0.0	0.0	585.0
+11	85.0	20.0	55.0	438.0
+12	108.0	241.0	33.0	216.0
+13	110.0	131.0	102.0	255.0
+14	146.0	96.0	131.0	225.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SQQ9
+CC data_type:DAP-seq
+XX
+//
+AC MA1169_1
+XX
+ID  MYB105
+XX
+DE MA1169_1 MA1169_1_MYB105 ; From JASPAR
+PO	A	C	G	T
+01	36.0	0.0	13.0	46.0
+02	18.0	21.0	6.0	50.0
+03	35.0	29.0	3.0	28.0
+04	35.0	7.0	22.0	31.0
+05	44.0	5.0	0.0	46.0
+06	42.0	3.0	8.0	42.0
+07	79.0	0.0	1.0	15.0
+08	0.0	95.0	0.0	0.0
+09	3.0	85.0	7.0	0.0
+10	0.0	0.0	95.0	0.0
+11	0.0	0.0	0.0	95.0
+12	0.0	0.0	1.0	94.0
+13	80.0	2.0	6.0	7.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SEZ4
+CC data_type:DAP-seq
+XX
+//
+AC MA1170_1
+XX
+ID  MYB118
+XX
+DE MA1170_1 MA1170_1_MYB118 ; From JASPAR
+PO	A	C	G	T
+01	135.0	34.0	40.0	69.0
+02	129.0	35.0	34.0	80.0
+03	117.0	33.0	32.0	96.0
+04	107.0	34.0	51.0	86.0
+05	51.0	80.0	29.0	118.0
+06	164.0	7.0	84.0	23.0
+07	146.0	0.0	57.0	75.0
+08	78.0	178.0	22.0	0.0
+09	6.0	251.0	19.0	2.0
+10	0.0	0.0	278.0	0.0
+11	0.0	0.0	0.0	278.0
+12	1.0	0.0	0.0	277.0
+13	278.0	0.0	0.0	0.0
+14	2.0	270.0	0.0	6.0
+15	145.0	5.0	78.0	50.0
+16	123.0	24.0	23.0	108.0
+17	138.0	22.0	18.0	100.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LVW4
+CC data_type:DAP-seq
+XX
+//
+AC MA1171_1
+XX
+ID  MYB52
+XX
+DE MA1171_1 MA1171_1_MYB52 ; From JASPAR
+PO	A	C	G	T
+01	27.0	39.0	12.0	31.0
+02	35.0	10.0	29.0	35.0
+03	35.0	7.0	17.0	50.0
+04	32.0	16.0	15.0	46.0
+05	100.0	0.0	0.0	9.0
+06	0.0	109.0	0.0	0.0
+07	0.0	95.0	14.0	0.0
+08	0.0	0.0	109.0	0.0
+09	0.0	0.0	0.0	109.0
+10	0.0	0.0	0.0	109.0
+11	81.0	0.0	10.0	18.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q6R0C4
+CC data_type:DAP-seq
+XX
+//
+AC MA1172_1
+XX
+ID  MYB3R5
+XX
+DE MA1172_1 MA1172_1_MYB3R5 ; From JASPAR
+PO	A	C	G	T
+01	258.0	77.0	97.0	134.0
+02	306.0	65.0	65.0	130.0
+03	339.0	21.0	48.0	158.0
+04	312.0	22.0	19.0	213.0
+05	203.0	56.0	40.0	267.0
+06	199.0	79.0	127.0	161.0
+07	41.0	59.0	50.0	416.0
+08	196.0	0.0	224.0	146.0
+09	389.0	4.0	154.0	19.0
+10	20.0	546.0	0.0	0.0
+11	0.0	566.0	0.0	0.0
+12	0.0	0.0	566.0	0.0
+13	0.0	2.0	0.0	564.0
+14	4.0	0.0	0.0	562.0
+15	238.0	0.0	291.0	37.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q6R032
+CC data_type:DAP-seq
+XX
+//
+AC MA1173_1
+XX
+ID  MYB101
+XX
+DE MA1173_1 MA1173_1_MYB101 ; From JASPAR
+PO	A	C	G	T
+01	327.0	82.0	86.0	105.0
+02	369.0	53.0	70.0	108.0
+03	198.0	249.0	47.0	106.0
+04	140.0	261.0	44.0	155.0
+05	180.0	120.0	188.0	112.0
+06	160.0	51.0	47.0	342.0
+07	596.0	2.0	1.0	1.0
+08	598.0	0.0	2.0	0.0
+09	0.0	600.0	0.0	0.0
+10	54.0	424.0	49.0	73.0
+11	86.0	4.0	510.0	0.0
+12	367.0	43.0	27.0	163.0
+13	407.0	72.0	2.0	119.0
+14	206.0	112.0	22.0	260.0
+15	139.0	181.0	68.0	212.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:O80883
+CC data_type:DAP-seq
+XX
+//
+AC MA1174_1
+XX
+ID  MYB56
+XX
+DE MA1174_1 MA1174_1_MYB56 ; From JASPAR
+PO	A	C	G	T
+01	236.0	49.0	114.0	201.0
+02	169.0	73.0	78.0	280.0
+03	265.0	106.0	71.0	158.0
+04	270.0	80.0	103.0	147.0
+05	333.0	91.0	45.0	131.0
+06	1.0	3.0	0.0	596.0
+07	600.0	0.0	0.0	0.0
+08	600.0	0.0	0.0	0.0
+09	0.0	600.0	0.0	0.0
+10	26.0	35.0	417.0	122.0
+11	143.0	0.0	457.0	0.0
+12	223.0	41.0	2.0	334.0
+13	237.0	143.0	13.0	207.0
+14	194.0	58.0	25.0	323.0
+15	133.0	135.0	37.0	295.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q6R053
+CC data_type:DAP-seq
+XX
+//
+AC MA1175_1
+XX
+ID  MYB81
+XX
+DE MA1175_1 MA1175_1_MYB81 ; From JASPAR
+PO	A	C	G	T
+01	149.0	163.0	223.0	65.0
+02	30.0	99.0	0.0	471.0
+03	600.0	0.0	0.0	0.0
+04	600.0	0.0	0.0	0.0
+05	0.0	600.0	0.0	0.0
+06	118.0	234.0	114.0	134.0
+07	94.0	0.0	506.0	0.0
+08	268.0	102.0	0.0	230.0
+09	264.0	95.0	1.0	240.0
+10	124.0	59.0	7.0	410.0
+11	113.0	180.0	39.0	268.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SLH1
+CC data_type:DAP-seq
+XX
+//
+AC MA1176_1
+XX
+ID  MYB119
+XX
+DE MA1176_1 MA1176_1_MYB119 ; From JASPAR
+PO	A	C	G	T
+01	93.0	179.0	78.0	248.0
+02	287.0	27.0	188.0	96.0
+03	252.0	0.0	117.0	229.0
+04	173.0	392.0	33.0	0.0
+05	16.0	514.0	68.0	0.0
+06	0.0	0.0	598.0	0.0
+07	0.0	0.0	0.0	598.0
+08	0.0	1.0	0.0	597.0
+09	576.0	0.0	1.0	21.0
+10	13.0	506.0	7.0	72.0
+11	316.0	36.0	155.0	91.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FIM4
+CC data_type:DAP-seq
+XX
+//
+AC MA1177_1
+XX
+ID  MYB65
+XX
+DE MA1177_1 MA1177_1_MYB65 ; From JASPAR
+PO	A	C	G	T
+01	284.0	61.0	105.0	149.0
+02	129.0	250.0	41.0	179.0
+03	105.0	218.0	65.0	211.0
+04	183.0	121.0	205.0	90.0
+05	75.0	75.0	0.0	449.0
+06	599.0	0.0	0.0	0.0
+07	599.0	0.0	0.0	0.0
+08	0.0	599.0	0.0	0.0
+09	38.0	354.0	118.0	89.0
+10	76.0	0.0	523.0	0.0
+11	178.0	153.0	4.0	264.0
+12	280.0	219.0	2.0	98.0
+13	266.0	57.0	75.0	201.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FR97
+CC data_type:DAP-seq
+XX
+//
+AC MA1179_1
+XX
+ID  MYB1
+XX
+DE MA1179_1 MA1179_1_MYB1 ; From JASPAR
+PO	A	C	G	T
+01	48.0	10.0	47.0	39.0
+02	35.0	17.0	11.0	81.0
+03	48.0	8.0	26.0	62.0
+04	95.0	1.0	32.0	16.0
+05	0.0	144.0	0.0	0.0
+06	3.0	89.0	52.0	0.0
+07	0.0	0.0	144.0	0.0
+08	0.0	0.0	0.0	144.0
+09	0.0	0.0	0.0	144.0
+10	97.0	0.0	8.0	39.0
+11	73.0	16.0	19.0	36.0
+12	75.0	13.0	18.0	38.0
+13	44.0	11.0	45.0	44.0
+14	41.0	36.0	20.0	47.0
+15	32.0	35.0	15.0	62.0
+16	19.0	38.0	65.0	22.0
+17	27.0	25.0	29.0	63.0
+18	28.0	23.0	17.0	76.0
+19	60.0	3.0	39.0	42.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q42575
+CC data_type:DAP-seq
+XX
+//
+AC MA1180_1
+XX
+ID  MYB3R4
+XX
+DE MA1180_1 MA1180_1_MYB3R4 ; From JASPAR
+PO	A	C	G	T
+01	261.0	91.0	80.0	163.0
+02	289.0	48.0	88.0	170.0
+03	311.0	33.0	31.0	220.0
+04	180.0	69.0	52.0	294.0
+05	235.0	102.0	116.0	142.0
+06	27.0	71.0	41.0	456.0
+07	258.0	2.0	225.0	110.0
+08	388.0	1.0	180.0	26.0
+09	29.0	566.0	0.0	0.0
+10	0.0	595.0	0.0	0.0
+11	0.0	0.0	595.0	0.0
+12	0.0	0.0	0.0	595.0
+13	0.0	0.0	0.0	595.0
+14	262.0	3.0	301.0	29.0
+15	151.0	115.0	202.0	127.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q94FL9
+CC data_type:DAP-seq
+XX
+//
+AC MA1181_1
+XX
+ID  MYB113
+XX
+DE MA1181_1 MA1181_1_MYB113 ; From JASPAR
+PO	A	C	G	T
+01	257.0	41.0	130.0	158.0
+02	426.0	5.0	46.0	109.0
+03	132.0	0.0	290.0	164.0
+04	102.0	0.0	44.0	440.0
+05	1.0	299.0	0.0	286.0
+06	259.0	195.0	54.0	78.0
+07	0.0	0.0	586.0	0.0
+08	0.0	0.0	3.0	583.0
+09	0.0	0.0	0.0	586.0
+10	548.0	0.0	38.0	0.0
+11	40.0	139.0	89.0	318.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FNV9
+CC data_type:DAP-seq
+XX
+//
+AC MA1182_1
+XX
+ID  RVE8
+XX
+DE MA1182_1 MA1182_1_RVE8 ; From JASPAR
+PO	A	C	G	T
+01	490.0	8.0	38.0	57.0
+02	0.0	0.0	593.0	0.0
+03	593.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	593.0
+05	590.0	0.0	0.0	3.0
+06	0.0	2.0	0.0	591.0
+07	0.0	0.0	0.0	593.0
+08	50.0	2.0	0.0	541.0
+09	115.0	44.0	35.0	399.0
+10	132.0	111.0	92.0	258.0
+11	167.0	73.0	133.0	220.0
+12	145.0	96.0	123.0	229.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8RWU3
+CC data_type:DAP-seq
+XX
+//
+AC MA1183_1
+XX
+ID  RVE6
+XX
+DE MA1183_1 MA1183_1_RVE6 ; From JASPAR
+PO	A	C	G	T
+01	521.0	2.0	44.0	29.0
+02	0.0	0.0	596.0	0.0
+03	596.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	596.0
+05	579.0	1.0	0.0	16.0
+06	0.0	2.0	0.0	594.0
+07	0.0	0.0	0.0	596.0
+08	40.0	0.0	1.0	555.0
+09	113.0	36.0	20.0	427.0
+10	90.0	109.0	92.0	305.0
+11	134.0	91.0	141.0	230.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8H0W3
+CC data_type:DAP-seq
+XX
+//
+AC MA1184_1
+XX
+ID  RVE1
+XX
+DE MA1184_1 MA1184_1_RVE1 ; From JASPAR
+PO	A	C	G	T
+01	234.0	117.0	106.0	143.0
+02	203.0	147.0	101.0	149.0
+03	237.0	124.0	142.0	97.0
+04	332.0	42.0	58.0	168.0
+05	526.0	0.0	0.0	74.0
+06	600.0	0.0	0.0	0.0
+07	586.0	5.0	4.0	5.0
+08	4.0	0.0	10.0	586.0
+09	600.0	0.0	0.0	0.0
+10	0.0	0.0	0.0	600.0
+11	0.0	600.0	0.0	0.0
+12	85.0	42.0	12.0	461.0
+13	205.0	103.0	77.0	215.0
+14	254.0	130.0	87.0	129.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:F4KGY6
+CC data_type:DAP-seq
+XX
+//
+AC MA1185_1
+XX
+ID  LHY
+XX
+DE MA1185_1 MA1185_1_LHY ; From JASPAR
+PO	A	C	G	T
+01	512.0	1.0	31.0	55.0
+02	0.0	0.0	599.0	0.0
+03	599.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	599.0
+05	597.0	2.0	0.0	0.0
+06	0.0	8.0	5.0	586.0
+07	3.0	0.0	3.0	593.0
+08	51.0	6.0	0.0	542.0
+09	172.0	46.0	34.0	347.0
+10	113.0	144.0	117.0	225.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:F4HQG9
+CC data_type:DAP-seq
+XX
+//
+AC MA1186_1
+XX
+ID  YAB4
+XX
+DE MA1186_1 MA1186_1_YAB4 ; From JASPAR
+PO	A	C	G	T
+01	189.0	152.0	84.0	174.0
+02	199.0	103.0	62.0	235.0
+03	162.0	112.0	63.0	262.0
+04	325.0	65.0	54.0	155.0
+05	330.0	20.0	31.0	218.0
+06	14.0	321.0	31.0	233.0
+07	89.0	428.0	67.0	15.0
+08	18.0	12.0	0.0	569.0
+09	24.0	54.0	0.0	521.0
+10	598.0	0.0	0.0	1.0
+11	0.0	0.0	0.0	599.0
+12	0.0	599.0	0.0	0.0
+13	81.0	279.0	4.0	235.0
+14	243.0	49.0	47.0	260.0
+15	194.0	202.0	24.0	179.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9M9A3
+CC data_type:DAP-seq
+XX
+//
+AC MA1187_1
+XX
+ID  RVE4
+XX
+DE MA1187_1 MA1187_1_RVE4 ; From JASPAR
+PO	A	C	G	T
+01	526.0	0.0	24.0	11.0
+02	0.0	0.0	558.0	3.0
+03	561.0	0.0	0.0	0.0
+04	0.0	1.0	0.0	560.0
+05	548.0	1.0	0.0	12.0
+06	0.0	1.0	4.0	556.0
+07	0.0	1.0	0.0	560.0
+08	16.0	0.0	0.0	545.0
+09	79.0	25.0	10.0	447.0
+10	95.0	100.0	93.0	273.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q6R0G4
+CC data_type:DAP-seq
+XX
+//
+AC MA1188_1
+XX
+ID  At3g11280
+XX
+DE MA1188_1 MA1188_1_At3g11280 ; From JASPAR
+PO	A	C	G	T
+01	361.0	46.0	60.0	115.0
+02	260.0	16.0	28.0	278.0
+03	29.0	326.0	34.0	193.0
+04	117.0	360.0	64.0	41.0
+05	0.0	17.0	0.0	565.0
+06	4.0	93.0	0.0	485.0
+07	582.0	0.0	0.0	0.0
+08	0.0	3.0	6.0	573.0
+09	0.0	582.0	0.0	0.0
+10	120.0	144.0	22.0	296.0
+11	122.0	63.0	52.0	345.0
+12	189.0	195.0	51.0	147.0
+13	290.0	15.0	28.0	249.0
+14	112.0	155.0	30.0	285.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1189_1
+XX
+ID  AT5G61620
+XX
+DE MA1189_1 MA1189_1_AT5G61620 ; From JASPAR
+PO	A	C	G	T
+01	205.0	82.0	149.0	163.0
+02	257.0	18.0	68.0	256.0
+03	208.0	10.0	10.0	371.0
+04	175.0	30.0	112.0	282.0
+05	114.0	58.0	6.0	421.0
+06	96.0	0.0	503.0	0.0
+07	0.0	0.0	599.0	0.0
+08	599.0	0.0	0.0	0.0
+09	0.0	0.0	0.0	599.0
+10	559.0	16.0	9.0	15.0
+11	512.0	0.0	53.0	34.0
+12	151.0	47.0	310.0	91.0
+13	264.0	55.0	191.0	89.0
+14	185.0	71.0	35.0	308.0
+15	179.0	52.0	62.0	306.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FKF9
+CC data_type:DAP-seq
+XX
+//
+AC MA1190_1
+XX
+ID  RVE5
+XX
+DE MA1190_1 MA1190_1_RVE5 ; From JASPAR
+PO	A	C	G	T
+01	533.0	4.0	36.0	26.0
+02	0.0	0.0	599.0	0.0
+03	599.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	599.0
+05	551.0	0.0	0.0	48.0
+06	0.0	1.0	0.0	598.0
+07	1.0	0.0	0.0	598.0
+08	27.0	0.0	0.0	572.0
+09	116.0	33.0	26.0	424.0
+10	98.0	107.0	83.0	311.0
+11	153.0	105.0	120.0	221.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:C0SVG5
+CC data_type:DAP-seq
+XX
+//
+AC MA1191_1
+XX
+ID  RVE7L
+XX
+DE MA1191_1 MA1191_1_RVE7L ; From JASPAR
+PO	A	C	G	T
+01	169.0	143.0	95.0	192.0
+02	234.0	129.0	93.0	143.0
+03	207.0	147.0	93.0	152.0
+04	226.0	120.0	147.0	106.0
+05	334.0	54.0	51.0	160.0
+06	540.0	1.0	5.0	53.0
+07	599.0	0.0	0.0	0.0
+08	596.0	0.0	3.0	0.0
+09	0.0	0.0	3.0	596.0
+10	599.0	0.0	0.0	0.0
+11	0.0	0.0	0.0	599.0
+12	0.0	599.0	0.0	0.0
+13	108.0	78.0	15.0	398.0
+14	199.0	103.0	79.0	218.0
+15	287.0	103.0	91.0	118.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:F4J2J6
+CC data_type:DAP-seq
+XX
+//
+AC MA1192_1
+XX
+ID  DIV1
+XX
+DE MA1192_1 MA1192_1_DIV1 ; From JASPAR
+PO	A	C	G	T
+01	246.0	27.0	25.0	282.0
+02	187.0	65.0	142.0	186.0
+03	218.0	47.0	57.0	258.0
+04	229.0	7.0	313.0	31.0
+05	0.0	0.0	575.0	5.0
+06	580.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	580.0
+08	579.0	0.0	0.0	1.0
+09	578.0	0.0	1.0	1.0
+10	25.0	53.0	443.0	59.0
+11	226.0	36.0	259.0	59.0
+12	156.0	62.0	41.0	321.0
+13	153.0	55.0	65.0	307.0
+14	232.0	53.0	108.0	187.0
+15	188.0	63.0	131.0	198.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1193_1
+XX
+ID  AT2G38090
+XX
+DE MA1193_1 MA1193_1_AT2G38090 ; From JASPAR
+PO	A	C	G	T
+01	30.0	13.0	11.0	10.0
+02	38.0	10.0	8.0	8.0
+03	28.0	10.0	12.0	14.0
+04	32.0	1.0	21.0	10.0
+05	24.0	2.0	18.0	20.0
+06	34.0	1.0	0.0	29.0
+07	17.0	9.0	13.0	25.0
+08	26.0	7.0	0.0	31.0
+09	20.0	0.0	42.0	2.0
+10	0.0	0.0	64.0	0.0
+11	64.0	0.0	0.0	0.0
+12	0.0	0.0	1.0	63.0
+13	62.0	1.0	1.0	0.0
+14	63.0	0.0	0.0	1.0
+15	12.0	3.0	40.0	9.0
+16	18.0	10.0	24.0	12.0
+17	42.0	4.0	3.0	15.0
+18	7.0	3.0	7.0	47.0
+19	26.0	9.0	24.0	5.0
+20	30.0	6.0	18.0	10.0
+21	21.0	0.0	24.0	19.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1194_1
+XX
+ID  AT3G10580
+XX
+DE MA1194_1 MA1194_1_AT3G10580 ; From JASPAR
+PO	A	C	G	T
+01	64.0	14.0	33.0	29.0
+02	61.0	2.0	31.0	46.0
+03	61.0	4.0	2.0	73.0
+04	43.0	14.0	30.0	53.0
+05	65.0	12.0	11.0	52.0
+06	48.0	5.0	76.0	11.0
+07	0.0	0.0	132.0	8.0
+08	139.0	1.0	0.0	0.0
+09	4.0	0.0	0.0	136.0
+10	137.0	0.0	0.0	3.0
+11	138.0	0.0	1.0	1.0
+12	17.0	6.0	97.0	20.0
+13	41.0	37.0	53.0	9.0
+14	63.0	0.0	0.0	77.0
+15	12.0	22.0	12.0	94.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1195_1
+XX
+ID  AT5G56840
+XX
+DE MA1195_1 MA1195_1_AT5G56840 ; From JASPAR
+PO	A	C	G	T
+01	335.0	45.0	57.0	163.0
+02	377.0	20.0	72.0	131.0
+03	47.0	324.0	37.0	192.0
+04	114.0	358.0	59.0	69.0
+05	11.0	24.0	2.0	563.0
+06	13.0	19.0	7.0	561.0
+07	594.0	3.0	0.0	3.0
+08	0.0	2.0	1.0	597.0
+09	0.0	600.0	0.0	0.0
+10	6.0	481.0	0.0	113.0
+11	432.0	6.0	47.0	115.0
+12	224.0	86.0	30.0	260.0
+13	333.0	4.0	10.0	253.0
+14	254.0	68.0	25.0	253.0
+15	197.0	147.0	88.0	168.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1196_1
+XX
+ID  AT5G05790
+XX
+DE MA1196_1 MA1196_1_AT5G05790 ; From JASPAR
+PO	A	C	G	T
+01	319.0	79.0	59.0	130.0
+02	295.0	2.0	33.0	257.0
+03	16.0	340.0	40.0	191.0
+04	139.0	348.0	67.0	33.0
+05	0.0	22.0	0.0	565.0
+06	7.0	112.0	15.0	453.0
+07	587.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	587.0
+09	0.0	587.0	0.0	0.0
+10	133.0	164.0	15.0	275.0
+11	119.0	70.0	57.0	341.0
+12	131.0	200.0	116.0	140.0
+13	351.0	0.0	26.0	210.0
+14	92.0	119.0	37.0	339.0
+15	150.0	256.0	41.0	140.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1197_1
+XX
+ID  CAMTA1
+XX
+DE MA1197_1 MA1197_1_CAMTA1 ; From JASPAR
+PO	A	C	G	T
+01	301.0	56.0	117.0	124.0
+02	430.0	46.0	45.0	77.0
+03	405.0	6.0	132.0	55.0
+04	172.0	140.0	285.0	1.0
+05	0.0	598.0	0.0	0.0
+06	0.0	0.0	598.0	0.0
+07	0.0	578.0	0.0	20.0
+08	0.0	0.0	598.0	0.0
+09	0.0	0.0	3.0	595.0
+10	63.0	58.0	326.0	151.0
+11	235.0	33.0	156.0	174.0
+12	237.0	58.0	170.0	133.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CAMTA
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FY74
+CC data_type:DAP-seq
+XX
+//
+AC MA1198_1
+XX
+ID  HAT2
+XX
+DE MA1198_1 MA1198_1_HAT2 ; From JASPAR
+PO	A	C	G	T
+01	300.0	23.0	43.0	232.0
+02	110.0	186.0	112.0	190.0
+03	0.0	249.0	0.0	349.0
+04	598.0	0.0	0.0	0.0
+05	598.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	598.0
+07	0.0	541.0	0.0	57.0
+08	598.0	0.0	0.0	0.0
+09	113.0	12.0	0.0	473.0
+10	114.0	42.0	36.0	406.0
+11	229.0	52.0	131.0	186.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:8253077
+CC uniprot_ids:P46601
+CC data_type:DAP-seq
+XX
+//
+AC MA1199_1
+XX
+ID  AGL16
+XX
+DE MA1199_1 MA1199_1_AGL16 ; From JASPAR
+PO	A	C	G	T
+01	35.0	19.0	4.0	360.0
+02	11.0	0.0	3.0	404.0
+03	100.0	11.0	28.0	279.0
+04	0.0	418.0	0.0	0.0
+05	0.0	357.0	0.0	61.0
+06	123.0	83.0	23.0	189.0
+07	66.0	77.0	40.0	235.0
+08	131.0	0.0	0.0	287.0
+09	0.0	4.0	4.0	410.0
+10	44.0	59.0	23.0	292.0
+11	109.0	35.0	135.0	139.0
+12	62.0	0.0	356.0	0.0
+13	0.0	0.0	393.0	25.0
+14	210.0	44.0	12.0	152.0
+15	358.0	15.0	8.0	37.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:A2RVQ5
+CC data_type:DAP-seq
+XX
+//
+AC MA1201_1
+XX
+ID  AGL42
+XX
+DE MA1201_1 MA1201_1_AGL42 ; From JASPAR
+PO	A	C	G	T
+01	0.0	146.0	0.0	0.0
+02	146.0	0.0	0.0	0.0
+03	0.0	12.0	0.0	134.0
+04	0.0	146.0	0.0	0.0
+05	146.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	146.0
+07	17.0	73.0	16.0	40.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:Q9FIS1
+CC data_type:DAP-seq
+XX
+//
+AC MA1202_1
+XX
+ID  AGL55
+XX
+DE MA1202_1 MA1202_1_AGL55 ; From JASPAR
+PO	A	C	G	T
+01	0.0	5.0	4.0	81.0
+02	0.0	90.0	0.0	0.0
+03	90.0	0.0	0.0	0.0
+04	0.0	90.0	0.0	0.0
+05	0.0	90.0	0.0	0.0
+06	90.0	0.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:M alpha
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:Q9C960
+CC data_type:DAP-seq
+XX
+//
+AC MA1203_1
+XX
+ID  AGL63
+XX
+DE MA1203_1 MA1203_1_AGL63 ; From JASPAR
+PO	A	C	G	T
+01	91.0	6.0	39.0	461.0
+02	94.0	33.0	194.0	276.0
+03	8.0	579.0	0.0	10.0
+04	10.0	544.0	0.0	43.0
+05	444.0	35.0	81.0	37.0
+06	457.0	9.0	33.0	98.0
+07	542.0	0.0	0.0	55.0
+08	456.0	1.0	1.0	139.0
+09	412.0	28.0	27.0	130.0
+10	102.0	100.0	24.0	371.0
+11	64.0	0.0	522.0	11.0
+12	4.0	0.0	591.0	2.0
+13	282.0	235.0	20.0	60.0
+14	546.0	13.0	2.0	36.0
+15	473.0	10.0	28.0	86.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:Q9SA07
+CC data_type:DAP-seq
+XX
+//
+AC MA1204_1
+XX
+ID  AGL13
+XX
+DE MA1204_1 MA1204_1_AGL13 ; From JASPAR
+PO	A	C	G	T
+01	59.0	3.0	0.0	157.0
+02	9.0	0.0	2.0	208.0
+03	123.0	2.0	25.0	69.0
+04	2.0	217.0	0.0	0.0
+05	0.0	161.0	0.0	58.0
+06	141.0	36.0	7.0	35.0
+07	169.0	2.0	7.0	41.0
+08	219.0	0.0	0.0	0.0
+09	174.0	0.0	0.0	45.0
+10	174.0	8.0	6.0	31.0
+11	81.0	12.0	15.0	111.0
+12	74.0	0.0	145.0	0.0
+13	0.0	0.0	217.0	2.0
+14	120.0	15.0	5.0	79.0
+15	209.0	3.0	0.0	7.0
+16	191.0	0.0	4.0	24.0
+17	126.0	14.0	41.0	38.0
+18	90.0	19.0	20.0	90.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:Q38837
+CC data_type:DAP-seq
+XX
+//
+AC MA1205_1
+XX
+ID  AGL6
+XX
+DE MA1205_1 MA1205_1_AGL6 ; From JASPAR
+PO	A	C	G	T
+01	83.0	8.0	5.0	386.0
+02	72.0	1.0	8.0	401.0
+03	200.0	8.0	67.0	207.0
+04	11.0	465.0	5.0	1.0
+05	1.0	394.0	0.0	87.0
+06	253.0	92.0	39.0	98.0
+07	347.0	8.0	42.0	85.0
+08	467.0	0.0	2.0	13.0
+09	422.0	0.0	0.0	60.0
+10	385.0	18.0	23.0	56.0
+11	206.0	49.0	34.0	193.0
+12	128.0	0.0	353.0	1.0
+13	0.0	0.0	482.0	0.0
+14	295.0	71.0	13.0	103.0
+15	441.0	4.0	3.0	34.0
+16	432.0	4.0	9.0	37.0
+17	247.0	61.0	113.0	61.0
+18	256.0	27.0	46.0	153.0
+19	237.0	41.0	26.0	178.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:P29386
+CC data_type:DAP-seq
+XX
+//
+AC MA1206_1
+XX
+ID  ARF2
+XX
+DE MA1206_1 MA1206_1_ARF2 ; From JASPAR
+PO	A	C	G	T
+01	245.0	116.0	50.0	188.0
+02	151.0	61.0	193.0	194.0
+03	0.0	395.0	204.0	0.0
+04	200.0	384.0	15.0	0.0
+05	112.0	0.0	487.0	0.0
+06	559.0	0.0	40.0	0.0
+07	0.0	599.0	0.0	0.0
+08	562.0	37.0	0.0	0.0
+09	271.0	57.0	131.0	140.0
+10	219.0	87.0	207.0	86.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:25002510
+CC uniprot_ids:Q94JM3
+CC data_type:DAP-seq
+XX
+//
+AC MA1207_1
+XX
+ID  GT-3a
+XX
+DE MA1207_1 MA1207_1_GT-3a ; From JASPAR
+PO	A	C	G	T
+01	145.0	72.0	96.0	58.0
+02	155.0	69.0	98.0	49.0
+03	11.0	360.0	0.0	0.0
+04	371.0	0.0	0.0	0.0
+05	0.0	328.0	0.0	43.0
+06	0.0	0.0	371.0	0.0
+07	0.0	0.0	0.0	371.0
+08	0.0	0.0	324.0	47.0
+09	54.0	40.0	76.0	201.0
+10	106.0	82.0	57.0	126.0
+11	183.0	15.0	40.0	133.0
+12	204.0	66.0	14.0	87.0
+13	259.0	4.0	0.0	108.0
+14	107.0	64.0	4.0	196.0
+15	130.0	3.0	104.0	134.0
+16	80.0	42.0	36.0	213.0
+17	91.0	42.0	140.0	98.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:10437822
+CC uniprot_ids:Q9SDW0
+CC data_type:DAP-seq
+XX
+//
+AC MA1208_1
+XX
+ID  GT-2
+XX
+DE MA1208_1 MA1208_1_GT-2 ; From JASPAR
+PO	A	C	G	T
+01	171.0	56.0	62.0	309.0
+02	111.0	56.0	29.0	402.0
+03	181.0	0.0	0.0	417.0
+04	35.0	13.0	21.0	529.0
+05	0.0	0.0	0.0	598.0
+06	128.0	35.0	0.0	435.0
+07	598.0	0.0	0.0	0.0
+08	0.0	593.0	0.0	5.0
+09	40.0	378.0	4.0	176.0
+10	136.0	36.0	295.0	131.0
+11	33.0	186.0	25.0	354.0
+12	182.0	107.0	95.0	214.0
+13	173.0	52.0	165.0	208.0
+14	112.0	97.0	105.0	284.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:10437822
+CC uniprot_ids:Q39117
+CC data_type:DAP-seq
+XX
+//
+AC MA1209_1
+XX
+ID  ATHB-20
+XX
+DE MA1209_1 MA1209_1_ATHB-20 ; From JASPAR
+PO	A	C	G	T
+01	58.0	59.0	23.0	90.0
+02	30.0	115.0	2.0	83.0
+03	230.0	0.0	0.0	0.0
+04	230.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	230.0
+06	218.0	0.0	9.0	3.0
+07	230.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	230.0
+09	0.0	1.0	0.0	229.0
+10	71.0	19.0	110.0	30.0
+11	131.0	27.0	31.0	41.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q8LAT0
+CC data_type:DAP-seq
+XX
+//
+AC MA1211_1
+XX
+ID  ATHB-X
+XX
+DE MA1211_1 MA1211_1_ATHB-X ; From JASPAR
+PO	A	C	G	T
+01	103.0	191.0	105.0	196.0
+02	0.0	373.0	0.0	222.0
+03	584.0	11.0	0.0	0.0
+04	595.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	595.0
+06	45.0	308.0	5.0	237.0
+07	595.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	595.0
+09	27.0	8.0	13.0	547.0
+10	219.0	15.0	234.0	127.0
+11	114.0	73.0	216.0	192.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:A9Z1E8
+CC data_type:DAP-seq
+XX
+//
+AC MA1212_1
+XX
+ID  ATHB-13
+XX
+DE MA1212_1 MA1212_1_ATHB-13 ; From JASPAR
+PO	A	C	G	T
+01	137.0	147.0	70.0	246.0
+02	90.0	295.0	0.0	215.0
+03	600.0	0.0	0.0	0.0
+04	599.0	0.0	0.0	1.0
+05	0.0	0.0	0.0	600.0
+06	484.0	109.0	1.0	6.0
+07	600.0	0.0	0.0	0.0
+08	0.0	2.0	0.0	598.0
+09	63.0	2.0	48.0	487.0
+10	201.0	70.0	187.0	142.0
+11	269.0	62.0	109.0	160.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q8LC03
+CC data_type:DAP-seq
+XX
+//
+AC MA1214_1
+XX
+ID  ATHB-40
+XX
+DE MA1214_1 MA1214_1_ATHB-40 ; From JASPAR
+PO	A	C	G	T
+01	233.0	93.0	118.0	156.0
+02	213.0	169.0	95.0	123.0
+03	404.0	25.0	68.0	103.0
+04	111.0	325.0	68.0	96.0
+05	21.0	530.0	0.0	49.0
+06	600.0	0.0	0.0	0.0
+07	600.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	600.0
+09	388.0	18.0	25.0	169.0
+10	600.0	0.0	0.0	0.0
+11	0.0	0.0	0.0	600.0
+12	56.0	5.0	41.0	498.0
+13	92.0	9.0	397.0	102.0
+14	255.0	60.0	141.0	144.0
+15	221.0	104.0	126.0	149.0
+16	171.0	145.0	133.0	151.0
+17	192.0	159.0	79.0	170.0
+18	206.0	121.0	56.0	217.0
+19	216.0	67.0	70.0	247.0
+20	261.0	64.0	54.0	221.0
+21	221.0	85.0	51.0	243.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:O23208
+CC data_type:DAP-seq
+XX
+//
+AC MA1215_1
+XX
+ID  ATHB-53
+XX
+DE MA1215_1 MA1215_1_ATHB-53 ; From JASPAR
+PO	A	C	G	T
+01	163.0	246.0	66.0	124.0
+02	108.0	405.0	0.0	86.0
+03	599.0	0.0	0.0	0.0
+04	599.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	599.0
+06	563.0	0.0	14.0	22.0
+07	599.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	599.0
+09	34.0	0.0	34.0	531.0
+10	130.0	29.0	380.0	60.0
+11	241.0	57.0	146.0	155.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9LVR0
+CC data_type:DAP-seq
+XX
+//
+AC MA1218_1
+XX
+ID  DREB1D
+XX
+DE MA1218_1 MA1218_1_DREB1D ; From JASPAR
+PO	A	C	G	T
+01	113.0	162.0	78.0	244.0
+02	103.0	130.0	190.0	174.0
+03	410.0	17.0	72.0	98.0
+04	34.0	109.0	52.0	402.0
+05	0.0	0.0	597.0	0.0
+06	0.0	0.0	0.0	597.0
+07	0.0	597.0	0.0	0.0
+08	0.0	0.0	597.0	0.0
+09	21.0	0.0	576.0	0.0
+10	0.0	311.0	0.0	286.0
+11	200.0	95.0	245.0	57.0
+12	274.0	65.0	165.0	93.0
+13	214.0	152.0	88.0	143.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:Q9FJ93
+CC data_type:DAP-seq
+XX
+//
+AC MA1220_1
+XX
+ID  TINY
+XX
+DE MA1220_1 MA1220_1_TINY ; From JASPAR
+PO	A	C	G	T
+01	146.0	226.0	66.0	158.0
+02	148.0	98.0	141.0	209.0
+03	55.0	320.0	53.0	168.0
+04	41.0	432.0	23.0	100.0
+05	408.0	0.0	186.0	2.0
+06	0.0	596.0	0.0	0.0
+07	0.0	596.0	0.0	0.0
+08	0.0	0.0	596.0	0.0
+09	534.0	33.0	0.0	29.0
+10	0.0	596.0	0.0	0.0
+11	485.0	2.0	95.0	14.0
+12	212.0	189.0	82.0	113.0
+13	203.0	127.0	64.0	202.0
+14	195.0	66.0	165.0	170.0
+15	154.0	173.0	95.0	174.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q39127
+CC data_type:DAP-seq
+XX
+//
+AC MA1221_1
+XX
+ID  RAP2-6
+XX
+DE MA1221_1 MA1221_1_RAP2-6 ; From JASPAR
+PO	A	C	G	T
+01	103.0	139.0	18.0	337.0
+02	64.0	22.0	326.0	185.0
+03	187.0	11.0	381.0	18.0
+04	1.0	574.0	0.0	22.0
+05	0.0	0.0	597.0	0.0
+06	1.0	15.0	581.0	0.0
+07	8.0	567.0	0.0	22.0
+08	0.0	3.0	579.0	15.0
+09	15.0	60.0	511.0	11.0
+10	197.0	310.0	14.0	76.0
+11	67.0	9.0	454.0	67.0
+12	146.0	47.0	353.0	51.0
+13	200.0	173.0	49.0	175.0
+14	114.0	32.0	337.0	114.0
+15	107.0	62.0	346.0	82.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q7G1L2
+CC data_type:DAP-seq
+XX
+//
+AC MA1222_1
+XX
+ID  ERF014
+XX
+DE MA1222_1 MA1222_1_ERF014 ; From JASPAR
+PO	A	C	G	T
+01	61.0	342.0	52.0	140.0
+02	80.0	395.0	40.0	80.0
+03	235.0	57.0	139.0	164.0
+04	76.0	361.0	49.0	109.0
+05	78.0	405.0	33.0	79.0
+06	143.0	25.0	206.0	221.0
+07	23.0	446.0	39.0	87.0
+08	1.0	592.0	0.0	2.0
+09	511.0	0.0	73.0	11.0
+10	0.0	595.0	0.0	0.0
+11	0.0	595.0	0.0	0.0
+12	27.0	0.0	568.0	0.0
+13	164.0	307.0	9.0	115.0
+14	0.0	591.0	0.0	4.0
+15	351.0	2.0	137.0	105.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9LPE8
+CC data_type:DAP-seq
+XX
+//
+AC MA1223_1
+XX
+ID  ERF035
+XX
+DE MA1223_1 MA1223_1_ERF035 ; From JASPAR
+PO	A	C	G	T
+01	200.0	65.0	177.0	143.0
+02	197.0	88.0	122.0	178.0
+03	198.0	104.0	72.0	211.0
+04	236.0	41.0	75.0	233.0
+05	74.0	76.0	213.0	222.0
+06	3.0	16.0	0.0	566.0
+07	0.0	0.0	585.0	0.0
+08	0.0	0.0	0.0	585.0
+09	0.0	585.0	0.0	0.0
+10	0.0	0.0	585.0	0.0
+11	0.0	0.0	585.0	0.0
+12	0.0	78.0	0.0	507.0
+13	56.0	19.0	472.0	38.0
+14	161.0	71.0	323.0	30.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9M210
+CC data_type:DAP-seq
+XX
+//
+AC MA1225_1
+XX
+ID  ERF5
+XX
+DE MA1225_1 MA1225_1_ERF5 ; From JASPAR
+PO	A	C	G	T
+01	59.0	369.0	38.0	114.0
+02	88.0	385.0	14.0	93.0
+03	214.0	42.0	180.0	144.0
+04	32.0	360.0	72.0	116.0
+05	58.0	494.0	5.0	23.0
+06	81.0	0.0	370.0	129.0
+07	3.0	529.0	32.0	16.0
+08	16.0	564.0	0.0	0.0
+09	68.0	0.0	503.0	9.0
+10	4.0	537.0	20.0	19.0
+11	4.0	576.0	0.0	0.0
+12	73.0	0.0	465.0	42.0
+13	3.0	418.0	17.0	142.0
+14	55.0	424.0	29.0	72.0
+15	238.0	17.0	219.0	106.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:O80341
+CC data_type:DAP-seq
+XX
+//
+AC MA1226_1
+XX
+ID  DREB2G
+XX
+DE MA1226_1 MA1226_1_DREB2G ; From JASPAR
+PO	A	C	G	T
+01	95.0	41.0	357.0	94.0
+02	88.0	54.0	371.0	74.0
+03	137.0	179.0	58.0	213.0
+04	84.0	49.0	312.0	142.0
+05	98.0	42.0	386.0	61.0
+06	304.0	133.0	12.0	138.0
+07	185.0	0.0	395.0	7.0
+08	34.0	0.0	531.0	22.0
+09	21.0	509.0	0.0	57.0
+10	0.0	0.0	587.0	0.0
+11	0.0	0.0	587.0	0.0
+12	25.0	156.0	0.0	406.0
+13	0.0	0.0	584.0	3.0
+14	54.0	38.0	491.0	4.0
+15	237.0	156.0	50.0	144.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:P61827
+CC data_type:DAP-seq
+XX
+//
+AC MA1228_1
+XX
+ID  ERF091
+XX
+DE MA1228_1 MA1228_1_ERF091 ; From JASPAR
+PO	A	C	G	T
+01	187.0	52.0	263.0	35.0
+02	78.0	289.0	0.0	170.0
+03	0.0	0.0	534.0	3.0
+04	34.0	0.0	503.0	0.0
+05	0.0	526.0	0.0	11.0
+06	0.0	0.0	537.0	0.0
+07	0.0	0.0	537.0	0.0
+08	13.0	505.0	0.0	19.0
+09	6.0	7.0	472.0	52.0
+10	85.0	69.0	378.0	5.0
+11	179.0	205.0	32.0	121.0
+12	91.0	25.0	337.0	84.0
+13	128.0	48.0	288.0	73.0
+14	124.0	221.0	72.0	120.0
+15	104.0	50.0	299.0	84.0
+16	101.0	68.0	290.0	78.0
+17	127.0	182.0	83.0	145.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8LBQ7
+CC data_type:DAP-seq
+XX
+//
+AC MA1229_1
+XX
+ID  ERF034
+XX
+DE MA1229_1 MA1229_1_ERF034 ; From JASPAR
+PO	A	C	G	T
+01	176.0	154.0	66.0	164.0
+02	192.0	55.0	134.0	179.0
+03	91.0	89.0	184.0	196.0
+04	25.0	85.0	2.0	448.0
+05	0.0	0.0	560.0	0.0
+06	18.0	0.0	14.0	528.0
+07	0.0	560.0	0.0	0.0
+08	0.0	0.0	560.0	0.0
+09	0.0	0.0	560.0	0.0
+10	0.0	114.0	0.0	446.0
+11	74.0	19.0	434.0	33.0
+12	154.0	71.0	287.0	48.0
+13	178.0	150.0	71.0	161.0
+14	145.0	63.0	217.0	135.0
+15	151.0	78.0	164.0	167.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q8LBQ7
+CC data_type:DAP-seq
+XX
+//
+AC MA1230_1
+XX
+ID  ERF037
+XX
+DE MA1230_1 MA1230_1_ERF037 ; From JASPAR
+PO	A	C	G	T
+01	47.0	307.0	65.0	179.0
+02	37.0	446.0	31.0	84.0
+03	443.0	0.0	155.0	0.0
+04	0.0	598.0	0.0	0.0
+05	0.0	598.0	0.0	0.0
+06	0.0	0.0	598.0	0.0
+07	589.0	3.0	0.0	6.0
+08	0.0	598.0	0.0	0.0
+09	529.0	0.0	62.0	7.0
+10	232.0	199.0	70.0	97.0
+11	229.0	110.0	39.0	220.0
+12	188.0	79.0	112.0	219.0
+13	154.0	142.0	101.0	201.0
+14	136.0	213.0	62.0	187.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:O80654
+CC data_type:DAP-seq
+XX
+//
+AC MA1232_1
+XX
+ID  ERF054
+XX
+DE MA1232_1 MA1232_1_ERF054 ; From JASPAR
+PO	A	C	G	T
+01	11.0	3.0	546.0	7.0
+02	153.0	21.0	199.0	194.0
+03	1.0	564.0	0.0	2.0
+04	0.0	0.0	567.0	0.0
+05	0.0	2.0	565.0	0.0
+06	0.0	213.0	0.0	354.0
+07	23.0	12.0	484.0	48.0
+08	77.0	96.0	374.0	20.0
+09	213.0	190.0	40.0	124.0
+10	99.0	30.0	330.0	108.0
+11	179.0	62.0	236.0	90.0
+12	142.0	178.0	85.0	162.0
+13	108.0	71.0	275.0	113.0
+14	132.0	82.0	264.0	89.0
+15	115.0	158.0	93.0	201.0
+16	125.0	83.0	282.0	77.0
+17	121.0	92.0	250.0	104.0
+18	115.0	153.0	110.0	189.0
+19	121.0	97.0	245.0	104.0
+20	144.0	85.0	231.0	107.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9M0J3
+CC data_type:DAP-seq
+XX
+//
+AC MA1234_1
+XX
+ID  ERF017
+XX
+DE MA1234_1 MA1234_1_ERF017 ; From JASPAR
+PO	A	C	G	T
+01	217.0	45.0	183.0	154.0
+02	127.0	34.0	53.0	385.0
+03	47.0	19.0	403.0	130.0
+04	0.0	0.0	599.0	0.0
+05	291.0	79.0	42.0	187.0
+06	0.0	599.0	0.0	0.0
+07	0.0	0.0	599.0	0.0
+08	0.0	0.0	599.0	0.0
+09	43.0	185.0	0.0	371.0
+10	27.0	9.0	524.0	39.0
+11	160.0	72.0	306.0	61.0
+12	195.0	157.0	84.0	163.0
+13	136.0	46.0	292.0	125.0
+14	192.0	83.0	226.0	98.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q84QC2
+CC data_type:DAP-seq
+XX
+//
+AC MA1235_1
+XX
+ID  AIL7
+XX
+DE MA1235_1 MA1235_1_AIL7 ; From JASPAR
+PO	A	C	G	T
+01	11.0	515.0	1.0	12.0
+02	114.0	17.0	380.0	28.0
+03	182.0	103.0	158.0	96.0
+04	227.0	46.0	30.0	236.0
+05	86.0	40.0	11.0	402.0
+06	93.0	249.0	2.0	195.0
+07	33.0	308.0	0.0	198.0
+08	0.0	539.0	0.0	0.0
+09	133.0	18.0	353.0	35.0
+10	517.0	0.0	0.0	22.0
+11	32.0	6.0	403.0	98.0
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:11058102
+CC uniprot_ids:Q6J9N8
+CC data_type:DAP-seq
+XX
+//
+AC MA1236_1
+XX
+ID  ERF003
+XX
+DE MA1236_1 MA1236_1_ERF003 ; From JASPAR
+PO	A	C	G	T
+01	148.0	219.0	100.0	129.0
+02	96.0	48.0	362.0	90.0
+03	113.0	65.0	368.0	50.0
+04	186.0	185.0	64.0	161.0
+05	146.0	26.0	307.0	117.0
+06	114.0	30.0	331.0	121.0
+07	178.0	153.0	28.0	237.0
+08	90.0	7.0	374.0	125.0
+09	146.0	17.0	385.0	48.0
+10	12.0	543.0	0.0	41.0
+11	0.0	0.0	596.0	0.0
+12	1.0	3.0	592.0	0.0
+13	29.0	400.0	0.0	167.0
+14	0.0	0.0	587.0	9.0
+15	15.0	45.0	524.0	12.0
+16	270.0	211.0	19.0	96.0
+17	46.0	9.0	501.0	40.0
+18	146.0	69.0	347.0	34.0
+19	233.0	98.0	74.0	191.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1239_1
+XX
+ID  ERF104
+XX
+DE MA1239_1 MA1239_1_ERF104 ; From JASPAR
+PO	A	C	G	T
+01	78.0	299.0	75.0	105.0
+02	151.0	96.0	194.0	116.0
+03	81.0	317.0	58.0	101.0
+04	97.0	309.0	56.0	95.0
+05	165.0	61.0	207.0	124.0
+06	67.0	293.0	56.0	141.0
+07	86.0	363.0	33.0	75.0
+08	125.0	50.0	213.0	169.0
+09	22.0	369.0	76.0	90.0
+10	82.0	464.0	6.0	5.0
+11	36.0	0.0	496.0	25.0
+12	0.0	555.0	2.0	0.0
+13	0.0	557.0	0.0	0.0
+14	27.0	0.0	527.0	3.0
+15	2.0	466.0	0.0	89.0
+16	4.0	553.0	0.0	0.0
+17	214.0	0.0	281.0	62.0
+18	40.0	274.0	51.0	192.0
+19	130.0	218.0	60.0	149.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9FKG1
+CC data_type:DAP-seq
+XX
+//
+AC MA1240_1
+XX
+ID  ERF10
+XX
+DE MA1240_1 MA1240_1_ERF10 ; From JASPAR
+PO	A	C	G	T
+01	146.0	117.0	138.0	170.0
+02	79.0	288.0	74.0	130.0
+03	110.0	273.0	68.0	120.0
+04	177.0	88.0	177.0	129.0
+05	107.0	286.0	74.0	104.0
+06	84.0	311.0	56.0	120.0
+07	139.0	96.0	175.0	161.0
+08	90.0	283.0	49.0	149.0
+09	115.0	324.0	10.0	122.0
+10	151.0	64.0	173.0	183.0
+11	35.0	342.0	75.0	119.0
+12	23.0	538.0	6.0	4.0
+13	38.0	0.0	448.0	85.0
+14	0.0	571.0	0.0	0.0
+15	0.0	571.0	0.0	0.0
+16	27.0	0.0	544.0	0.0
+17	5.0	511.0	0.0	55.0
+18	34.0	528.0	0.0	9.0
+19	195.0	0.0	323.0	53.0
+20	44.0	310.0	42.0	175.0
+21	143.0	182.0	86.0	160.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9ZWA2
+CC data_type:DAP-seq
+XX
+//
+AC MA1241_1
+XX
+ID  ERF043
+XX
+DE MA1241_1 MA1241_1_ERF043 ; From JASPAR
+PO	A	C	G	T
+01	174.0	184.0	82.0	151.0
+02	169.0	81.0	153.0	188.0
+03	29.0	352.0	83.0	127.0
+04	18.0	537.0	14.0	22.0
+05	540.0	0.0	51.0	0.0
+06	0.0	591.0	0.0	0.0
+07	0.0	591.0	0.0	0.0
+08	0.0	0.0	591.0	0.0
+09	588.0	0.0	0.0	3.0
+10	0.0	591.0	0.0	0.0
+11	567.0	0.0	23.0	1.0
+12	215.0	202.0	81.0	93.0
+13	222.0	97.0	38.0	234.0
+14	197.0	86.0	97.0	211.0
+15	161.0	138.0	96.0	196.0
+16	137.0	191.0	73.0	190.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9M080
+CC data_type:DAP-seq
+XX
+//
+AC MA1242_1
+XX
+ID  DREB2F
+XX
+DE MA1242_1 MA1242_1_DREB2F ; From JASPAR
+PO	A	C	G	T
+01	39.0	309.0	39.0	91.0
+02	48.0	347.0	16.0	67.0
+03	118.0	11.0	217.0	132.0
+04	0.0	458.0	6.0	14.0
+05	1.0	477.0	0.0	0.0
+06	347.0	0.0	131.0	0.0
+07	0.0	478.0	0.0	0.0
+08	0.0	475.0	0.0	3.0
+09	25.0	0.0	453.0	0.0
+10	21.0	438.0	0.0	19.0
+11	20.0	346.0	2.0	110.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9SVX5
+CC data_type:DAP-seq
+XX
+//
+AC MA1243_1
+XX
+ID  DREB2E
+XX
+DE MA1243_1 MA1243_1_DREB2E ; From JASPAR
+PO	A	C	G	T
+01	132.0	194.0	106.0	165.0
+02	202.0	102.0	118.0	175.0
+03	135.0	214.0	92.0	156.0
+04	154.0	218.0	67.0	158.0
+05	119.0	86.0	117.0	275.0
+06	175.0	202.0	70.0	150.0
+07	257.0	329.0	7.0	4.0
+08	531.0	0.0	66.0	0.0
+09	0.0	597.0	0.0	0.0
+10	0.0	597.0	0.0	0.0
+11	0.0	0.0	597.0	0.0
+12	431.0	164.0	0.0	2.0
+13	0.0	597.0	0.0	0.0
+14	364.0	31.0	8.0	194.0
+15	40.0	106.0	3.0	448.0
+16	240.0	74.0	33.0	250.0
+17	252.0	65.0	155.0	125.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:O80917
+CC data_type:DAP-seq
+XX
+//
+AC MA1244_1
+XX
+ID  ABR1
+XX
+DE MA1244_1 MA1244_1_ABR1 ; From JASPAR
+PO	A	C	G	T
+01	122.0	57.0	317.0	104.0
+02	145.0	75.0	281.0	99.0
+03	140.0	230.0	96.0	134.0
+04	100.0	64.0	308.0	128.0
+05	181.0	79.0	285.0	55.0
+06	237.0	149.0	79.0	135.0
+07	225.0	26.0	186.0	163.0
+08	253.0	18.0	193.0	136.0
+09	103.0	97.0	14.0	386.0
+10	59.0	15.0	308.0	218.0
+11	150.0	27.0	401.0	22.0
+12	2.0	590.0	0.0	8.0
+13	0.0	0.0	598.0	2.0
+14	0.0	12.0	588.0	0.0
+15	4.0	584.0	0.0	12.0
+16	5.0	10.0	550.0	35.0
+17	33.0	105.0	445.0	17.0
+18	196.0	298.0	30.0	76.0
+19	66.0	36.0	421.0	77.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9FGF8
+CC data_type:DAP-seq
+XX
+//
+AC MA1246_1
+XX
+ID  LEP
+XX
+DE MA1246_1 MA1246_1_LEP ; From JASPAR
+PO	A	C	G	T
+01	125.0	74.0	128.0	163.0
+02	40.0	250.0	78.0	122.0
+03	36.0	413.0	9.0	32.0
+04	69.0	23.0	226.0	172.0
+05	4.0	398.0	52.0	36.0
+06	2.0	488.0	0.0	0.0
+07	26.0	0.0	456.0	8.0
+08	0.0	480.0	0.0	10.0
+09	0.0	489.0	0.0	1.0
+10	23.0	0.0	460.0	7.0
+11	12.0	301.0	20.0	157.0
+12	75.0	303.0	22.0	90.0
+13	206.0	27.0	146.0	111.0
+14	119.0	232.0	44.0	95.0
+15	133.0	189.0	41.0	127.0
+16	125.0	56.0	187.0	122.0
+17	61.0	252.0	56.0	121.0
+18	108.0	254.0	48.0	80.0
+19	72.0	80.0	222.0	116.0
+20	88.0	240.0	51.0	111.0
+21	68.0	278.0	44.0	100.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9M644
+CC data_type:DAP-seq
+XX
+//
+AC MA1247_1
+XX
+ID  ERF087
+XX
+DE MA1247_1 MA1247_1_ERF087 ; From JASPAR
+PO	A	C	G	T
+01	129.0	178.0	28.0	260.0
+02	97.0	38.0	374.0	86.0
+03	212.0	11.0	366.0	6.0
+04	8.0	577.0	0.0	10.0
+05	0.0	0.0	595.0	0.0
+06	6.0	1.0	586.0	2.0
+07	0.0	586.0	0.0	9.0
+08	0.0	0.0	594.0	1.0
+09	15.0	55.0	511.0	14.0
+10	200.0	314.0	11.0	70.0
+11	42.0	15.0	485.0	53.0
+12	165.0	64.0	301.0	65.0
+13	182.0	165.0	65.0	183.0
+14	133.0	42.0	294.0	126.0
+15	125.0	69.0	296.0	105.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9FZ90
+CC data_type:DAP-seq
+XX
+//
+AC MA1248_1
+XX
+ID  ERF012
+XX
+DE MA1248_1 MA1248_1_ERF012 ; From JASPAR
+PO	A	C	G	T
+01	108.0	226.0	85.0	149.0
+02	122.0	257.0	65.0	124.0
+03	189.0	104.0	132.0	143.0
+04	114.0	260.0	77.0	117.0
+05	110.0	274.0	66.0	118.0
+06	193.0	92.0	134.0	149.0
+07	106.0	250.0	69.0	143.0
+08	110.0	277.0	52.0	129.0
+09	211.0	69.0	136.0	152.0
+10	106.0	259.0	71.0	132.0
+11	102.0	306.0	51.0	109.0
+12	174.0	42.0	143.0	209.0
+13	26.0	394.0	50.0	98.0
+14	0.0	568.0	0.0	0.0
+15	530.0	0.0	36.0	2.0
+16	0.0	568.0	0.0	0.0
+17	1.0	567.0	0.0	0.0
+18	4.0	1.0	563.0	0.0
+19	299.0	171.0	0.0	98.0
+20	0.0	558.0	0.0	10.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:Q9SFE4
+CC data_type:DAP-seq
+XX
+//
+AC MA1250_1
+XX
+ID  DREB2D
+XX
+DE MA1250_1 MA1250_1_DREB2D ; From JASPAR
+PO	A	C	G	T
+01	59.0	334.0	55.0	109.0
+02	93.0	340.0	34.0	90.0
+03	205.0	73.0	150.0	129.0
+04	50.0	340.0	53.0	114.0
+05	74.0	360.0	30.0	93.0
+06	118.0	13.0	205.0	221.0
+07	19.0	489.0	18.0	31.0
+08	6.0	551.0	0.0	0.0
+09	396.0	0.0	160.0	1.0
+10	0.0	554.0	1.0	2.0
+11	1.0	556.0	0.0	0.0
+12	32.0	0.0	519.0	6.0
+13	74.0	366.0	10.0	107.0
+14	21.0	395.0	8.0	133.0
+15	237.0	21.0	127.0	172.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9LQZ2
+CC data_type:DAP-seq
+XX
+//
+AC MA1251_1
+XX
+ID  RAP2-9
+XX
+DE MA1251_1 MA1251_1_RAP2-9 ; From JASPAR
+PO	A	C	G	T
+01	144.0	196.0	94.0	159.0
+02	174.0	117.0	125.0	177.0
+03	144.0	151.0	106.0	192.0
+04	145.0	182.0	93.0	173.0
+05	184.0	127.0	137.0	145.0
+06	147.0	170.0	100.0	176.0
+07	173.0	187.0	82.0	151.0
+08	197.0	66.0	147.0	183.0
+09	44.0	259.0	86.0	204.0
+10	6.0	582.0	3.0	2.0
+11	550.0	0.0	42.0	1.0
+12	0.0	593.0	0.0	0.0
+13	0.0	593.0	0.0	0.0
+14	0.0	0.0	593.0	0.0
+15	566.0	9.0	0.0	18.0
+16	0.0	593.0	0.0	0.0
+17	396.0	162.0	14.0	21.0
+18	278.0	100.0	6.0	209.0
+19	170.0	134.0	72.0	217.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:Q8W3M3
+CC data_type:DAP-seq
+XX
+//
+AC MA1252_1
+XX
+ID  ERF086
+XX
+DE MA1252_1 MA1252_1_ERF086 ; From JASPAR
+PO	A	C	G	T
+01	86.0	245.0	46.0	101.0
+02	84.0	255.0	26.0	113.0
+03	148.0	42.0	150.0	138.0
+04	61.0	254.0	37.0	126.0
+05	39.0	397.0	0.0	42.0
+06	59.0	0.0	256.0	163.0
+07	0.0	397.0	61.0	20.0
+08	1.0	477.0	0.0	0.0
+09	8.0	0.0	469.0	1.0
+10	2.0	466.0	1.0	9.0
+11	3.0	475.0	0.0	0.0
+12	13.0	0.0	459.0	6.0
+13	8.0	260.0	11.0	199.0
+14	104.0	214.0	34.0	126.0
+15	194.0	37.0	123.0	124.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q6J9Q2
+CC data_type:DAP-seq
+XX
+//
+AC MA1253_1
+XX
+ID  ERF036
+XX
+DE MA1253_1 MA1253_1_ERF036 ; From JASPAR
+PO	A	C	G	T
+01	163.0	107.0	93.0	198.0
+02	202.0	64.0	114.0	181.0
+03	116.0	78.0	170.0	197.0
+04	38.0	55.0	33.0	435.0
+05	25.0	32.0	479.0	25.0
+06	0.0	0.0	5.0	556.0
+07	0.0	559.0	0.0	2.0
+08	0.0	0.0	561.0	0.0
+09	6.0	0.0	555.0	0.0
+10	27.0	55.0	16.0	463.0
+11	50.0	20.0	444.0	47.0
+12	141.0	81.0	268.0	71.0
+13	171.0	165.0	68.0	157.0
+14	164.0	72.0	187.0	138.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9LU18
+CC data_type:DAP-seq
+XX
+//
+AC MA1256_1
+XX
+ID  RAP2-12
+XX
+DE MA1256_1 MA1256_1_RAP2-12 ; From JASPAR
+PO	A	C	G	T
+01	127.0	224.0	119.0	127.0
+02	133.0	64.0	286.0	114.0
+03	140.0	86.0	276.0	95.0
+04	159.0	192.0	90.0	156.0
+05	133.0	83.0	250.0	131.0
+06	191.0	72.0	250.0	84.0
+07	244.0	131.0	52.0	170.0
+08	266.0	14.0	170.0	147.0
+09	274.0	15.0	184.0	124.0
+10	68.0	207.0	4.0	318.0
+11	10.0	6.0	494.0	87.0
+12	52.0	0.0	542.0	3.0
+13	0.0	596.0	0.0	1.0
+14	0.0	0.0	596.0	1.0
+15	0.0	0.0	596.0	1.0
+16	7.0	575.0	0.0	15.0
+17	9.0	6.0	517.0	65.0
+18	66.0	101.0	402.0	28.0
+19	228.0	188.0	49.0	132.0
+20	98.0	42.0	350.0	107.0
+21	155.0	81.0	252.0	109.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9SSA8
+CC data_type:DAP-seq
+XX
+//
+AC MA1257_1
+XX
+ID  ERF9
+XX
+DE MA1257_1 MA1257_1_ERF9 ; From JASPAR
+PO	A	C	G	T
+01	90.0	246.0	79.0	140.0
+02	89.0	24.0	353.0	89.0
+03	109.0	50.0	336.0	60.0
+04	106.0	265.0	69.0	115.0
+05	83.0	32.0	343.0	97.0
+06	106.0	63.0	333.0	53.0
+07	143.0	239.0	39.0	134.0
+08	104.0	32.0	269.0	150.0
+09	161.0	37.0	270.0	87.0
+10	111.0	167.0	17.0	260.0
+11	73.0	6.0	383.0	93.0
+12	167.0	15.0	360.0	13.0
+13	26.0	496.0	0.0	33.0
+14	0.0	0.0	551.0	4.0
+15	10.0	0.0	544.0	1.0
+16	16.0	493.0	0.0	46.0
+17	4.0	0.0	514.0	37.0
+18	31.0	34.0	483.0	7.0
+19	204.0	253.0	6.0	92.0
+20	52.0	8.0	439.0	56.0
+21	161.0	71.0	264.0	59.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9FE67
+CC data_type:DAP-seq
+XX
+//
+AC MA1258_1
+XX
+ID  DREB2A
+XX
+DE MA1258_1 MA1258_1_DREB2A ; From JASPAR
+PO	A	C	G	T
+01	166.0	130.0	102.0	183.0
+02	138.0	82.0	243.0	118.0
+03	155.0	78.0	204.0	144.0
+04	103.0	149.0	76.0	253.0
+05	166.0	54.0	146.0	215.0
+06	360.0	9.0	162.0	50.0
+07	219.0	19.0	35.0	308.0
+08	0.0	0.0	581.0	0.0
+09	18.0	0.0	226.0	337.0
+10	2.0	579.0	0.0	0.0
+11	0.0	0.0	581.0	0.0
+12	1.0	0.0	580.0	0.0
+13	0.0	78.0	0.0	503.0
+14	16.0	25.0	413.0	127.0
+15	145.0	68.0	267.0	101.0
+16	212.0	129.0	67.0	173.0
+17	127.0	48.0	270.0	136.0
+18	149.0	74.0	258.0	100.0
+19	160.0	129.0	108.0	184.0
+20	149.0	87.0	225.0	120.0
+21	182.0	91.0	206.0	102.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9952441
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1259_1
+XX
+ID  ERF023
+XX
+DE MA1259_1 MA1259_1_ERF023 ; From JASPAR
+PO	A	C	G	T
+01	161.0	75.0	222.0	114.0
+02	171.0	90.0	168.0	143.0
+03	195.0	116.0	63.0	198.0
+04	204.0	47.0	124.0	197.0
+05	103.0	73.0	184.0	212.0
+06	12.0	64.0	7.0	489.0
+07	0.0	0.0	572.0	0.0
+08	40.0	1.0	26.0	505.0
+09	0.0	572.0	0.0	0.0
+10	0.0	0.0	572.0	0.0
+11	0.0	0.0	572.0	0.0
+12	1.0	46.0	0.0	525.0
+13	17.0	7.0	540.0	8.0
+14	162.0	67.0	308.0	35.0
+15	165.0	149.0	70.0	188.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q1ECI2
+CC data_type:DAP-seq
+XX
+//
+AC MA1260_1
+XX
+ID  ERF013
+XX
+DE MA1260_1 MA1260_1_ERF013 ; From JASPAR
+PO	A	C	G	T
+01	101.0	80.0	237.0	123.0
+02	136.0	86.0	191.0	128.0
+03	139.0	129.0	117.0	156.0
+04	113.0	77.0	255.0	96.0
+05	125.0	79.0	209.0	128.0
+06	128.0	143.0	92.0	178.0
+07	122.0	46.0	270.0	103.0
+08	136.0	85.0	194.0	126.0
+09	147.0	153.0	57.0	184.0
+10	141.0	53.0	202.0	145.0
+11	128.0	39.0	233.0	141.0
+12	59.0	82.0	10.0	390.0
+13	0.0	0.0	541.0	0.0
+14	111.0	5.0	133.0	292.0
+15	0.0	540.0	0.0	1.0
+16	0.0	0.0	541.0	0.0
+17	0.0	0.0	541.0	0.0
+18	4.0	11.0	0.0	526.0
+19	3.0	0.0	538.0	0.0
+20	104.0	45.0	351.0	41.0
+21	198.0	128.0	60.0	155.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9CAP4
+CC data_type:DAP-seq
+XX
+//
+AC MA1261_1
+XX
+ID  ERF122
+XX
+DE MA1261_1 MA1261_1_ERF122 ; From JASPAR
+PO	A	C	G	T
+01	34.0	47.0	15.0	42.0
+02	26.0	20.0	42.0	50.0
+03	39.0	7.0	57.0	35.0
+04	40.0	30.0	14.0	54.0
+05	10.0	35.0	16.0	77.0
+06	55.0	0.0	80.0	3.0
+07	0.0	120.0	0.0	18.0
+08	0.0	0.0	136.0	2.0
+09	0.0	0.0	138.0	0.0
+10	0.0	106.0	0.0	32.0
+11	0.0	3.0	89.0	46.0
+12	25.0	0.0	106.0	7.0
+13	41.0	53.0	9.0	35.0
+14	0.0	10.0	91.0	37.0
+15	25.0	26.0	67.0	20.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q38Q40
+CC data_type:DAP-seq
+XX
+//
+AC MA1262_1
+XX
+ID  ERF2
+XX
+DE MA1262_1 MA1262_1_ERF2 ; From JASPAR
+PO	A	C	G	T
+01	99.0	276.0	73.0	147.0
+02	117.0	278.0	74.0	126.0
+03	169.0	82.0	187.0	157.0
+04	92.0	314.0	74.0	115.0
+05	114.0	293.0	74.0	114.0
+06	162.0	83.0	220.0	130.0
+07	65.0	325.0	63.0	142.0
+08	102.0	348.0	27.0	118.0
+09	162.0	46.0	190.0	197.0
+10	34.0	367.0	85.0	109.0
+11	118.0	451.0	9.0	17.0
+12	42.0	0.0	509.0	44.0
+13	3.0	590.0	0.0	2.0
+14	7.0	588.0	0.0	0.0
+15	43.0	0.0	550.0	2.0
+16	0.0	565.0	0.0	30.0
+17	0.0	595.0	0.0	0.0
+18	177.0	0.0	353.0	65.0
+19	26.0	305.0	52.0	212.0
+20	122.0	251.0	78.0	144.0
+21	218.0	29.0	212.0	136.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:O80338
+CC data_type:DAP-seq
+XX
+//
+AC MA1263_1
+XX
+ID  ERF055
+XX
+DE MA1263_1 MA1263_1_ERF055 ; From JASPAR
+PO	A	C	G	T
+01	232.0	21.0	145.0	200.0
+02	132.0	37.0	133.0	296.0
+03	50.0	45.0	277.0	226.0
+04	0.0	0.0	598.0	0.0
+05	117.0	19.0	171.0	291.0
+06	0.0	598.0	0.0	0.0
+07	0.0	0.0	598.0	0.0
+08	0.0	0.0	597.0	1.0
+09	0.0	139.0	0.0	459.0
+10	8.0	18.0	535.0	37.0
+11	111.0	70.0	378.0	39.0
+12	198.0	171.0	63.0	166.0
+13	110.0	54.0	319.0	115.0
+14	181.0	78.0	246.0	93.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9SKW5
+CC data_type:DAP-seq
+XX
+//
+AC MA1264_1
+XX
+ID  ERF095
+XX
+DE MA1264_1 MA1264_1_ERF095 ; From JASPAR
+PO	A	C	G	T
+01	124.0	213.0	47.0	207.0
+02	137.0	59.0	277.0	118.0
+03	189.0	45.0	327.0	30.0
+04	78.0	335.0	2.0	176.0
+05	4.0	0.0	587.0	0.0
+06	55.0	2.0	534.0	0.0
+07	3.0	570.0	0.0	18.0
+08	0.0	0.0	591.0	0.0
+09	0.0	4.0	587.0	0.0
+10	13.0	525.0	0.0	53.0
+11	5.0	6.0	503.0	77.0
+12	76.0	85.0	423.0	7.0
+13	191.0	231.0	43.0	126.0
+14	90.0	25.0	402.0	74.0
+15	143.0	51.0	318.0	79.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:A0A178VAV2
+CC data_type:DAP-seq
+XX
+//
+AC MA1266_1
+XX
+ID  RAP2-11
+XX
+DE MA1266_1 MA1266_1_RAP2-11 ; From JASPAR
+PO	A	C	G	T
+01	106.0	270.0	110.0	102.0
+02	106.0	236.0	75.0	171.0
+03	131.0	82.0	212.0	163.0
+04	69.0	248.0	39.0	232.0
+05	86.0	342.0	41.0	119.0
+06	163.0	42.0	220.0	163.0
+07	15.0	323.0	42.0	208.0
+08	61.0	373.0	71.0	83.0
+09	25.0	0.0	539.0	24.0
+10	0.0	588.0	0.0	0.0
+11	0.0	588.0	0.0	0.0
+12	0.0	0.0	588.0	0.0
+13	0.0	112.0	329.0	147.0
+14	0.0	560.0	0.0	28.0
+15	102.0	132.0	193.0	161.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q6J9S1
+CC data_type:DAP-seq
+XX
+//
+AC MA1267_1
+XX
+ID  DOF5_8
+XX
+DE MA1267_1 MA1267_1_DOF5_8 ; From JASPAR
+PO	A	C	G	T
+01	151.0	116.0	72.0	258.0
+02	138.0	137.0	62.0	260.0
+03	132.0	95.0	93.0	277.0
+04	91.0	132.0	49.0	325.0
+05	105.0	142.0	42.0	308.0
+06	84.0	104.0	41.0	368.0
+07	102.0	114.0	33.0	348.0
+08	146.0	119.0	37.0	295.0
+09	134.0	149.0	62.0	252.0
+10	107.0	184.0	32.0	274.0
+11	64.0	139.0	26.0	368.0
+12	89.0	39.0	32.0	437.0
+13	72.0	44.0	35.0	446.0
+14	20.0	116.0	25.0	436.0
+15	113.0	105.0	27.0	352.0
+16	290.0	79.0	107.0	121.0
+17	1.0	585.0	10.0	1.0
+18	1.0	21.0	1.0	574.0
+19	0.0	0.0	0.0	597.0
+20	0.0	1.0	0.0	596.0
+21	105.0	22.0	1.0	469.0
+22	57.0	78.0	86.0	376.0
+23	122.0	138.0	120.0	217.0
+24	141.0	142.0	103.0	211.0
+25	133.0	108.0	61.0	295.0
+26	124.0	119.0	69.0	285.0
+27	108.0	107.0	81.0	301.0
+28	147.0	104.0	54.0	292.0
+29	182.0	82.0	50.0	283.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9FGD6
+CC data_type:DAP-seq
+XX
+//
+AC MA1268_1
+XX
+ID  CDF5
+XX
+DE MA1268_1 MA1268_1_CDF5 ; From JASPAR
+PO	A	C	G	T
+01	131.0	120.0	57.0	288.0
+02	138.0	85.0	62.0	311.0
+03	91.0	51.0	82.0	372.0
+04	75.0	42.0	113.0	366.0
+05	68.0	263.0	22.0	243.0
+06	348.0	72.0	81.0	95.0
+07	0.0	596.0	0.0	0.0
+08	0.0	24.0	0.0	572.0
+09	0.0	4.0	0.0	592.0
+10	0.0	0.0	0.0	596.0
+11	89.0	21.0	8.0	478.0
+12	80.0	103.0	60.0	353.0
+13	98.0	250.0	59.0	189.0
+14	80.0	151.0	30.0	335.0
+15	65.0	80.0	21.0	430.0
+16	66.0	62.0	25.0	443.0
+17	84.0	60.0	34.0	418.0
+18	97.0	109.0	36.0	354.0
+19	78.0	142.0	60.0	316.0
+20	114.0	110.0	51.0	321.0
+21	73.0	100.0	68.0	355.0
+22	80.0	82.0	56.0	378.0
+23	99.0	76.0	52.0	369.0
+24	121.0	99.0	59.0	317.0
+25	114.0	89.0	81.0	312.0
+26	134.0	98.0	73.0	291.0
+27	153.0	122.0	48.0	273.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9SEZ3
+CC data_type:DAP-seq
+XX
+//
+AC MA1269_1
+XX
+ID  DOF4_5
+XX
+DE MA1269_1 MA1269_1_DOF4_5 ; From JASPAR
+PO	A	C	G	T
+01	182.0	108.0	194.0	116.0
+02	402.0	72.0	47.0	79.0
+03	349.0	7.0	27.0	217.0
+04	600.0	0.0	0.0	0.0
+05	600.0	0.0	0.0	0.0
+06	600.0	0.0	0.0	0.0
+07	0.0	0.0	600.0	0.0
+08	104.0	125.0	57.0	314.0
+09	282.0	15.0	135.0	168.0
+10	235.0	54.0	233.0	78.0
+11	139.0	361.0	45.0	55.0
+12	91.0	48.0	33.0	428.0
+13	67.0	31.0	45.0	457.0
+14	65.0	51.0	24.0	460.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:O49550
+CC data_type:DAP-seq
+XX
+//
+AC MA1270_1
+XX
+ID  DOF3_2
+XX
+DE MA1270_1 MA1270_1_DOF3_2 ; From JASPAR
+PO	A	C	G	T
+01	101.0	78.0	143.0	278.0
+02	75.0	151.0	51.0	323.0
+03	177.0	111.0	27.0	285.0
+04	319.0	138.0	85.0	58.0
+05	0.0	600.0	0.0	0.0
+06	0.0	0.0	0.0	600.0
+07	0.0	0.0	1.0	599.0
+08	0.0	0.0	0.0	600.0
+09	135.0	0.0	0.0	465.0
+10	39.0	55.0	10.0	496.0
+11	129.0	175.0	176.0	120.0
+12	129.0	211.0	107.0	153.0
+13	87.0	189.0	57.0	267.0
+14	83.0	98.0	56.0	363.0
+15	89.0	55.0	59.0	397.0
+16	104.0	120.0	48.0	328.0
+17	126.0	92.0	55.0	327.0
+18	132.0	92.0	88.0	288.0
+19	77.0	134.0	115.0	274.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9M1E6
+CC data_type:DAP-seq
+XX
+//
+AC MA1273_1
+XX
+ID  DOF4_2
+XX
+DE MA1273_1 MA1273_1_DOF4_2 ; From JASPAR
+PO	A	C	G	T
+01	288.0	70.0	106.0	134.0
+02	281.0	98.0	96.0	123.0
+03	303.0	73.0	108.0	114.0
+04	236.0	75.0	145.0	142.0
+05	214.0	110.0	166.0	108.0
+06	477.0	38.0	48.0	35.0
+07	580.0	0.0	0.0	18.0
+08	598.0	0.0	0.0	0.0
+09	598.0	0.0	0.0	0.0
+10	598.0	0.0	0.0	0.0
+11	0.0	0.0	598.0	0.0
+12	112.0	0.0	463.0	23.0
+13	89.0	253.0	28.0	228.0
+14	346.0	60.0	70.0	122.0
+15	390.0	38.0	72.0	98.0
+16	353.0	66.0	50.0	129.0
+17	303.0	44.0	105.0	146.0
+18	285.0	75.0	119.0	119.0
+19	265.0	94.0	120.0	119.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9SUB1
+CC data_type:DAP-seq
+XX
+//
+AC MA1274_1
+XX
+ID  DOF3_6
+XX
+DE MA1274_1 MA1274_1_DOF3_6 ; From JASPAR
+PO	A	C	G	T
+01	57.0	103.0	91.0	349.0
+02	60.0	103.0	2.0	435.0
+03	131.0	92.0	42.0	335.0
+04	293.0	67.0	72.0	168.0
+05	1.0	555.0	2.0	42.0
+06	1.0	23.0	0.0	576.0
+07	0.0	12.0	0.0	588.0
+08	1.0	1.0	0.0	598.0
+09	86.0	21.0	2.0	491.0
+10	72.0	101.0	35.0	392.0
+11	137.0	155.0	85.0	223.0
+12	147.0	150.0	32.0	271.0
+13	63.0	162.0	53.0	322.0
+14	62.0	98.0	35.0	405.0
+15	62.0	86.0	4.0	448.0
+16	63.0	125.0	1.0	411.0
+17	98.0	59.0	52.0	391.0
+18	79.0	124.0	61.0	336.0
+19	64.0	110.0	66.0	360.0
+20	115.0	104.0	44.0	337.0
+21	122.0	84.0	60.0	334.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9M2U1
+CC data_type:DAP-seq
+XX
+//
+AC MA1275_1
+XX
+ID  DOF1_6
+XX
+DE MA1275_1 MA1275_1_DOF1_6 ; From JASPAR
+PO	A	C	G	T
+01	158.0	144.0	154.0	144.0
+02	132.0	158.0	204.0	106.0
+03	343.0	84.0	88.0	85.0
+04	332.0	2.0	3.0	263.0
+05	600.0	0.0	0.0	0.0
+06	600.0	0.0	0.0	0.0
+07	544.0	0.0	56.0	0.0
+08	0.0	0.0	600.0	0.0
+09	0.0	86.0	23.0	491.0
+10	342.0	1.0	227.0	30.0
+11	298.0	45.0	155.0	102.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9SX97
+CC data_type:DAP-seq
+XX
+//
+AC MA1276_1
+XX
+ID  DOF3_5
+XX
+DE MA1276_1 MA1276_1_DOF3_5 ; From JASPAR
+PO	A	C	G	T
+01	107.0	206.0	187.0	99.0
+02	467.0	4.0	103.0	25.0
+03	348.0	0.0	0.0	251.0
+04	599.0	0.0	0.0	0.0
+05	599.0	0.0	0.0	0.0
+06	599.0	0.0	0.0	0.0
+07	0.0	0.0	599.0	0.0
+08	2.0	6.0	219.0	372.0
+09	169.0	31.0	198.0	201.0
+10	348.0	48.0	136.0	67.0
+11	276.0	131.0	67.0	125.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9SVC5
+CC data_type:DAP-seq
+XX
+//
+AC MA1277_1
+XX
+ID  DOF1_7
+XX
+DE MA1277_1 MA1277_1_DOF1_7 ; From JASPAR
+PO	A	C	G	T
+01	277.0	94.0	97.0	127.0
+02	311.0	71.0	106.0	107.0
+03	331.0	50.0	117.0	97.0
+04	316.0	76.0	106.0	97.0
+05	274.0	68.0	122.0	131.0
+06	164.0	139.0	202.0	90.0
+07	388.0	48.0	108.0	51.0
+08	466.0	0.0	3.0	126.0
+09	595.0	0.0	0.0	0.0
+10	595.0	0.0	0.0	0.0
+11	575.0	0.0	20.0	0.0
+12	0.0	0.0	595.0	0.0
+13	96.0	113.0	94.0	292.0
+14	371.0	18.0	90.0	116.0
+15	342.0	26.0	177.0	50.0
+16	381.0	52.0	83.0	79.0
+17	326.0	69.0	66.0	134.0
+18	293.0	51.0	135.0	116.0
+19	288.0	87.0	131.0	89.0
+20	266.0	78.0	95.0	156.0
+21	273.0	62.0	151.0	109.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:O82155
+CC data_type:DAP-seq
+XX
+//
+AC MA1278_1
+XX
+ID  DOF3_4
+XX
+DE MA1278_1 MA1278_1_DOF3_4 ; From JASPAR
+PO	A	C	G	T
+01	145.0	136.0	80.0	239.0
+02	130.0	137.0	104.0	229.0
+03	92.0	169.0	82.0	257.0
+04	111.0	194.0	57.0	238.0
+05	80.0	153.0	42.0	325.0
+06	81.0	107.0	62.0	350.0
+07	87.0	164.0	34.0	315.0
+08	102.0	135.0	74.0	289.0
+09	106.0	119.0	62.0	313.0
+10	91.0	142.0	51.0	316.0
+11	113.0	67.0	70.0	350.0
+12	67.0	83.0	69.0	381.0
+13	47.0	169.0	17.0	367.0
+14	161.0	93.0	43.0	303.0
+15	204.0	146.0	157.0	93.0
+16	0.0	600.0	0.0	0.0
+17	0.0	14.0	0.0	586.0
+18	0.0	7.0	0.0	593.0
+19	0.0	0.0	0.0	600.0
+20	145.0	29.0	0.0	426.0
+21	59.0	105.0	104.0	332.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q39088
+CC data_type:DAP-seq
+XX
+//
+AC MA1279_1
+XX
+ID  DOF1_5
+XX
+DE MA1279_1 MA1279_1_DOF1_5 ; From JASPAR
+PO	A	C	G	T
+01	257.0	82.0	140.0	121.0
+02	259.0	86.0	118.0	137.0
+03	333.0	60.0	105.0	102.0
+04	318.0	62.0	101.0	119.0
+05	329.0	75.0	121.0	75.0
+06	329.0	55.0	114.0	102.0
+07	301.0	61.0	143.0	95.0
+08	251.0	73.0	147.0	129.0
+09	184.0	94.0	199.0	123.0
+10	440.0	34.0	71.0	55.0
+11	486.0	8.0	1.0	105.0
+12	599.0	1.0	0.0	0.0
+13	599.0	0.0	1.0	0.0
+14	591.0	0.0	9.0	0.0
+15	0.0	0.0	600.0	0.0
+16	46.0	35.0	140.0	379.0
+17	232.0	22.0	273.0	73.0
+18	325.0	122.0	41.0	112.0
+19	400.0	81.0	38.0	81.0
+20	340.0	71.0	54.0	135.0
+21	308.0	63.0	119.0	110.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:P68350
+CC data_type:DAP-seq
+XX
+//
+AC MA1280_1
+XX
+ID  DOF5_4
+XX
+DE MA1280_1 MA1280_1_DOF5_4 ; From JASPAR
+PO	A	C	G	T
+01	142.0	194.0	174.0	90.0
+02	529.0	17.0	34.0	20.0
+03	456.0	0.0	3.0	141.0
+04	599.0	0.0	0.0	1.0
+05	600.0	0.0	0.0	0.0
+06	600.0	0.0	0.0	0.0
+07	0.0	0.0	600.0	0.0
+08	22.0	37.0	209.0	332.0
+09	193.0	23.0	127.0	257.0
+10	387.0	32.0	131.0	50.0
+11	303.0	102.0	80.0	115.0
+12	293.0	77.0	52.0	178.0
+13	262.0	96.0	76.0	166.0
+14	273.0	87.0	55.0	185.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q8LDR0
+CC data_type:DAP-seq
+XX
+//
+AC MA1281_1
+XX
+ID  DOF5_1
+XX
+DE MA1281_1 MA1281_1_DOF5_1 ; From JASPAR
+PO	A	C	G	T
+01	217.0	86.0	116.0	96.0
+02	355.0	25.0	90.0	45.0
+03	412.0	4.0	13.0	86.0
+04	512.0	0.0	1.0	2.0
+05	505.0	0.0	0.0	10.0
+06	464.0	2.0	49.0	0.0
+07	2.0	0.0	511.0	2.0
+08	150.0	93.0	82.0	190.0
+09	306.0	16.0	71.0	122.0
+10	369.0	0.0	104.0	42.0
+11	354.0	76.0	58.0	27.0
+12	320.0	39.0	99.0	57.0
+13	328.0	20.0	80.0	87.0
+14	225.0	37.0	149.0	104.0
+15	261.0	61.0	96.0	97.0
+16	329.0	16.0	103.0	67.0
+17	349.0	0.0	73.0	93.0
+18	345.0	45.0	104.0	21.0
+19	260.0	27.0	110.0	118.0
+20	275.0	59.0	140.0	41.0
+21	263.0	39.0	119.0	94.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9LZ56
+CC data_type:DAP-seq
+XX
+//
+AC MA1282_1
+XX
+ID  TCP13
+XX
+DE MA1282_1 MA1282_1_TCP13 ; From JASPAR
+PO	A	C	G	T
+01	17.0	9.0	96.0	8.0
+02	6.0	11.0	7.0	106.0
+03	11.0	9.0	97.0	13.0
+04	0.0	0.0	129.0	1.0
+05	0.0	0.0	130.0	0.0
+06	0.0	0.0	130.0	0.0
+07	99.0	21.0	0.0	10.0
+08	0.0	129.0	0.0	1.0
+09	0.0	130.0	0.0	0.0
+10	120.0	0.0	10.0	0.0
+11	0.0	117.0	6.0	7.0
+12	57.0	16.0	12.0	45.0
+13	50.0	10.0	27.0	43.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12000681
+CC uniprot_ids:Q9S7W5
+CC data_type:DAP-seq
+XX
+//
+AC MA1283_1
+XX
+ID  TCP14
+XX
+DE MA1283_1 MA1283_1_TCP14 ; From JASPAR
+PO	A	C	G	T
+01	31.0	5.0	5.0	6.0
+02	13.0	16.0	13.0	5.0
+03	40.0	0.0	4.0	3.0
+04	14.0	2.0	18.0	13.0
+05	36.0	2.0	4.0	5.0
+06	5.0	5.0	28.0	9.0
+07	10.0	14.0	18.0	5.0
+08	22.0	2.0	12.0	11.0
+09	2.0	10.0	16.0	19.0
+10	0.0	0.0	47.0	0.0
+11	0.0	0.0	0.0	47.0
+12	2.0	0.0	45.0	0.0
+13	0.0	0.0	47.0	0.0
+14	0.0	0.0	47.0	0.0
+15	19.0	0.0	18.0	10.0
+16	0.0	47.0	0.0	0.0
+17	0.0	47.0	0.0	0.0
+18	0.0	47.0	0.0	0.0
+19	43.0	0.0	4.0	0.0
+20	0.0	47.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q93Z00
+CC data_type:DAP-seq
+XX
+//
+AC MA1284_1
+XX
+ID  TCP1
+XX
+DE MA1284_1 MA1284_1_TCP1 ; From JASPAR
+PO	A	C	G	T
+01	36.0	7.0	16.0	36.0
+02	4.0	7.0	84.0	0.0
+03	0.0	6.0	5.0	84.0
+04	0.0	0.0	95.0	0.0
+05	0.0	0.0	95.0	0.0
+06	0.0	0.0	95.0	0.0
+07	8.0	54.0	8.0	25.0
+08	0.0	94.0	1.0	0.0
+09	0.0	95.0	0.0	0.0
+10	9.0	82.0	0.0	4.0
+11	52.0	26.0	8.0	9.0
+12	15.0	61.0	2.0	17.0
+13	16.0	34.0	22.0	23.0
+14	13.0	22.0	12.0	48.0
+15	21.0	37.0	15.0	22.0
+16	20.0	34.0	10.0	31.0
+17	16.0	28.0	8.0	43.0
+18	23.0	43.0	11.0	18.0
+19	25.0	18.0	12.0	40.0
+20	16.0	31.0	25.0	23.0
+21	22.0	22.0	17.0	34.0
+22	23.0	26.0	11.0	35.0
+23	15.0	13.0	36.0	31.0
+24	20.0	11.0	40.0	24.0
+25	15.0	15.0	36.0	29.0
+26	28.0	36.0	10.0	21.0
+27	19.0	37.0	15.0	24.0
+28	22.0	27.0	18.0	28.0
+29	36.0	19.0	21.0	19.0
+30	12.0	35.0	8.0	40.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9FYG7
+CC data_type:DAP-seq
+XX
+//
+AC MA1285_1
+XX
+ID  TCP9
+XX
+DE MA1285_1 MA1285_1_TCP9 ; From JASPAR
+PO	A	C	G	T
+01	77.0	192.0	60.0	66.0
+02	85.0	205.0	57.0	48.0
+03	195.0	79.0	51.0	70.0
+04	65.0	89.0	49.0	192.0
+05	50.0	55.0	78.0	212.0
+06	103.0	58.0	42.0	192.0
+07	65.0	92.0	151.0	87.0
+08	92.0	170.0	30.0	103.0
+09	89.0	166.0	34.0	106.0
+10	46.0	13.0	332.0	4.0
+11	1.0	19.0	1.0	374.0
+12	16.0	0.0	379.0	0.0
+13	1.0	0.0	394.0	0.0
+14	24.0	0.0	370.0	1.0
+15	53.0	97.0	23.0	222.0
+16	0.0	388.0	0.0	7.0
+17	2.0	393.0	0.0	0.0
+18	1.0	371.0	1.0	22.0
+19	356.0	1.0	38.0	0.0
+20	2.0	346.0	11.0	36.0
+21	104.0	178.0	36.0	77.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:O64647
+CC data_type:DAP-seq
+XX
+//
+AC MA1286_1
+XX
+ID  TCP24
+XX
+DE MA1286_1 MA1286_1_TCP24 ; From JASPAR
+PO	A	C	G	T
+01	153.0	81.0	214.0	146.0
+02	113.0	108.0	94.0	279.0
+03	74.0	100.0	196.0	224.0
+04	12.0	11.0	553.0	18.0
+05	0.0	0.0	593.0	1.0
+06	0.0	0.0	594.0	0.0
+07	527.0	24.0	26.0	17.0
+08	0.0	594.0	0.0	0.0
+09	0.0	594.0	0.0	0.0
+10	567.0	0.0	27.0	0.0
+11	16.0	560.0	9.0	9.0
+12	195.0	192.0	40.0	167.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9C758
+CC data_type:DAP-seq
+XX
+//
+AC MA1287_1
+XX
+ID  TCP21
+XX
+DE MA1287_1 MA1287_1_TCP21 ; From JASPAR
+PO	A	C	G	T
+01	188.0	77.0	99.0	234.0
+02	35.0	5.0	558.0	0.0
+03	0.0	20.0	0.0	578.0
+04	0.0	0.0	598.0	0.0
+05	0.0	0.0	598.0	0.0
+06	54.0	1.0	520.0	23.0
+07	154.0	289.0	33.0	122.0
+08	0.0	597.0	0.0	1.0
+09	15.0	582.0	0.0	1.0
+10	62.0	415.0	14.0	107.0
+11	424.0	37.0	88.0	49.0
+12	58.0	338.0	65.0	137.0
+13	153.0	150.0	118.0	177.0
+14	161.0	104.0	96.0	237.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9FTA2
+CC data_type:DAP-seq
+XX
+//
+AC MA1288_1
+XX
+ID  TCP22
+XX
+DE MA1288_1 MA1288_1_TCP22 ; From JASPAR
+PO	A	C	G	T
+01	227.0	93.0	109.0	166.0
+02	165.0	87.0	112.0	231.0
+03	12.0	2.0	581.0	0.0
+04	0.0	25.0	0.0	570.0
+05	1.0	0.0	594.0	0.0
+06	0.0	0.0	595.0	0.0
+07	57.0	3.0	513.0	22.0
+08	172.0	227.0	58.0	138.0
+09	0.0	595.0	0.0	0.0
+10	1.0	594.0	0.0	0.0
+11	45.0	439.0	9.0	102.0
+12	441.0	25.0	87.0	42.0
+13	51.0	321.0	70.0	153.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9C7G4
+CC data_type:DAP-seq
+XX
+//
+AC MA1289_1
+XX
+ID  TCP3
+XX
+DE MA1289_1 MA1289_1_TCP3 ; From JASPAR
+PO	A	C	G	T
+01	165.0	69.0	209.0	139.0
+02	122.0	95.0	77.0	288.0
+03	58.0	89.0	185.0	250.0
+04	2.0	2.0	563.0	15.0
+05	0.0	0.0	582.0	0.0
+06	0.0	0.0	582.0	0.0
+07	503.0	51.0	0.0	28.0
+08	0.0	582.0	0.0	0.0
+09	0.0	582.0	0.0	0.0
+10	544.0	0.0	38.0	0.0
+11	1.0	561.0	6.0	14.0
+12	215.0	154.0	51.0	162.0
+13	196.0	74.0	104.0	208.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12000681
+CC uniprot_ids:Q9MAH8
+CC data_type:DAP-seq
+XX
+//
+AC MA1290_1
+XX
+ID  TCP17
+XX
+DE MA1290_1 MA1290_1_TCP17 ; From JASPAR
+PO	A	C	G	T
+01	8.0	6.0	92.0	2.0
+02	2.0	5.0	0.0	101.0
+03	0.0	2.0	105.0	1.0
+04	0.0	0.0	106.0	2.0
+05	3.0	0.0	20.0	85.0
+06	1.0	107.0	0.0	0.0
+07	0.0	108.0	0.0	0.0
+08	1.0	106.0	1.0	0.0
+09	17.0	80.0	5.0	6.0
+10	90.0	6.0	6.0	6.0
+11	9.0	77.0	9.0	13.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12000681
+CC uniprot_ids:Q9LEZ9
+CC data_type:DAP-seq
+XX
+//
+AC MA1291_1
+XX
+ID  TCP7
+XX
+DE MA1291_1 MA1291_1_TCP7 ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	587.0	0.0
+02	0.0	15.0	0.0	573.0
+03	68.0	0.0	520.0	0.0
+04	0.0	0.0	588.0	0.0
+05	4.0	1.0	583.0	0.0
+06	228.0	92.0	162.0	106.0
+07	22.0	514.0	0.0	52.0
+08	2.0	586.0	0.0	0.0
+09	25.0	556.0	4.0	3.0
+10	451.0	30.0	75.0	32.0
+11	42.0	321.0	66.0	159.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:Q9FMX2
+CC data_type:DAP-seq
+XX
+//
+AC MA1292_1
+XX
+ID  MYB27
+XX
+DE MA1292_1 MA1292_1_MYB27 ; From JASPAR
+PO	A	C	G	T
+01	278.0	80.0	109.0	129.0
+02	357.0	55.0	77.0	107.0
+03	385.0	19.0	71.0	121.0
+04	469.0	0.0	6.0	121.0
+05	495.0	0.0	2.0	99.0
+06	412.0	0.0	178.0	6.0
+07	0.0	0.0	1.0	595.0
+08	0.0	0.0	0.0	596.0
+09	595.0	0.0	0.0	1.0
+10	0.0	0.0	596.0	0.0
+11	0.0	0.0	596.0	0.0
+12	0.0	5.0	0.0	591.0
+13	512.0	48.0	25.0	11.0
+14	277.0	66.0	103.0	150.0
+15	315.0	55.0	139.0	87.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9SCP1
+CC data_type:DAP-seq
+XX
+//
+AC MA1293_1
+XX
+ID  MYB57
+XX
+DE MA1293_1 MA1293_1_MYB57 ; From JASPAR
+PO	A	C	G	T
+01	76.0	199.0	53.0	269.0
+02	109.0	151.0	81.0	256.0
+03	0.0	20.0	22.0	555.0
+04	500.0	0.0	97.0	0.0
+05	0.0	597.0	0.0	0.0
+06	0.0	597.0	0.0	0.0
+07	2.0	0.0	0.0	595.0
+08	597.0	0.0	0.0	0.0
+09	597.0	0.0	0.0	0.0
+10	1.0	483.0	0.0	113.0
+11	44.0	57.0	0.0	496.0
+12	95.0	127.0	20.0	355.0
+13	133.0	108.0	56.0	300.0
+14	171.0	88.0	67.0	271.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9SSA1
+CC data_type:DAP-seq
+XX
+//
+AC MA1294_1
+XX
+ID  MYB62
+XX
+DE MA1294_1 MA1294_1_MYB62 ; From JASPAR
+PO	A	C	G	T
+01	198.0	60.0	96.0	86.0
+02	170.0	88.0	74.0	108.0
+03	204.0	48.0	76.0	112.0
+04	213.0	66.0	61.0	100.0
+05	227.0	23.0	60.0	130.0
+06	299.0	12.0	58.0	71.0
+07	112.0	32.0	263.0	33.0
+08	0.0	0.0	5.0	435.0
+09	0.0	0.0	0.0	440.0
+10	411.0	0.0	0.0	29.0
+11	0.0	0.0	440.0	0.0
+12	0.0	0.0	440.0	0.0
+13	5.0	188.0	5.0	242.0
+14	228.0	47.0	71.0	94.0
+15	130.0	66.0	134.0	110.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9C9G7
+CC data_type:DAP-seq
+XX
+//
+AC MA1295_1
+XX
+ID  WRKY20
+XX
+DE MA1295_1 MA1295_1_WRKY20 ; From JASPAR
+PO	A	C	G	T
+01	235.0	55.0	157.0	153.0
+02	162.0	151.0	156.0	131.0
+03	34.0	418.0	74.0	74.0
+04	11.0	3.0	420.0	166.0
+05	2.0	1.0	0.0	597.0
+06	0.0	1.0	0.0	599.0
+07	0.0	0.0	600.0	0.0
+08	599.0	0.0	1.0	0.0
+09	1.0	599.0	0.0	0.0
+10	0.0	270.0	0.0	330.0
+11	231.0	38.0	108.0	223.0
+12	160.0	40.0	136.0	264.0
+13	156.0	68.0	127.0	249.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q93WV0
+CC data_type:DAP-seq
+XX
+//
+AC MA1296_1
+XX
+ID  WRKY46
+XX
+DE MA1296_1 MA1296_1_WRKY46 ; From JASPAR
+PO	A	C	G	T
+01	2.0	19.0	1.0	0.0
+02	0.0	0.0	16.0	6.0
+03	0.0	0.0	0.0	22.0
+04	0.0	0.0	0.0	22.0
+05	0.0	0.0	22.0	0.0
+06	18.0	0.0	4.0	0.0
+07	0.0	22.0	0.0	0.0
+08	0.0	3.0	0.0	19.0
+09	0.0	3.0	1.0	18.0
+10	3.0	4.0	0.0	15.0
+11	1.0	4.0	9.0	8.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SKD9
+CC data_type:DAP-seq
+XX
+//
+AC MA1297_1
+XX
+ID  WRKY26
+XX
+DE MA1297_1 MA1297_1_WRKY26 ; From JASPAR
+PO	A	C	G	T
+01	53.0	16.0	9.0	6.0
+02	55.0	7.0	5.0	17.0
+03	56.0	11.0	3.0	14.0
+04	71.0	0.0	13.0	0.0
+05	0.0	0.0	84.0	0.0
+06	0.0	2.0	1.0	81.0
+07	0.0	84.0	0.0	0.0
+08	84.0	0.0	0.0	0.0
+09	84.0	0.0	0.0	0.0
+10	13.0	71.0	0.0	0.0
+11	15.0	5.0	59.0	5.0
+12	21.0	22.0	24.0	17.0
+13	18.0	22.0	5.0	39.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9C5T3
+CC data_type:DAP-seq
+XX
+//
+AC MA1298_1
+XX
+ID  WRKY29
+XX
+DE MA1298_1 MA1298_1_WRKY29 ; From JASPAR
+PO	A	C	G	T
+01	315.0	114.0	65.0	100.0
+02	403.0	42.0	60.0	89.0
+03	438.0	15.0	38.0	103.0
+04	496.0	0.0	81.0	17.0
+05	0.0	0.0	594.0	0.0
+06	0.0	1.0	0.0	593.0
+07	0.0	594.0	0.0	0.0
+08	593.0	1.0	0.0	0.0
+09	588.0	0.0	6.0	0.0
+10	132.0	439.0	0.0	23.0
+11	67.0	64.0	274.0	189.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SUS1
+CC data_type:DAP-seq
+XX
+//
+AC MA1299_1
+XX
+ID  WRKY17
+XX
+DE MA1299_1 MA1299_1_WRKY17 ; From JASPAR
+PO	A	C	G	T
+01	57.0	25.0	23.0	22.0
+02	67.0	24.0	14.0	22.0
+03	94.0	9.0	18.0	6.0
+04	117.0	0.0	6.0	4.0
+05	125.0	0.0	1.0	1.0
+06	0.0	0.0	127.0	0.0
+07	0.0	5.0	1.0	121.0
+08	0.0	127.0	0.0	0.0
+09	125.0	0.0	2.0	0.0
+10	127.0	0.0	0.0	0.0
+11	20.0	97.0	8.0	2.0
+12	29.0	9.0	78.0	11.0
+13	32.0	38.0	32.0	25.0
+14	28.0	42.0	16.0	41.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SJA8
+CC data_type:DAP-seq
+XX
+//
+AC MA1300_1
+XX
+ID  WRKY6
+XX
+DE MA1300_1 MA1300_1_WRKY6 ; From JASPAR
+PO	A	C	G	T
+01	41.0	195.0	21.0	28.0
+02	1.0	0.0	262.0	22.0
+03	0.0	0.0	0.0	285.0
+04	0.0	0.0	0.0	285.0
+05	0.0	0.0	285.0	0.0
+06	285.0	0.0	0.0	0.0
+07	0.0	285.0	0.0	0.0
+08	0.0	85.0	0.0	200.0
+09	77.0	38.0	37.0	133.0
+10	74.0	23.0	43.0	145.0
+11	58.0	41.0	89.0	97.0
+12	68.0	29.0	84.0	104.0
+13	59.0	77.0	19.0	130.0
+14	75.0	42.0	44.0	124.0
+15	101.0	23.0	82.0	79.0
+16	110.0	41.0	49.0	85.0
+17	63.0	81.0	65.0	76.0
+18	87.0	79.0	39.0	80.0
+19	78.0	84.0	34.0	89.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9C519
+CC data_type:DAP-seq
+XX
+//
+AC MA1301_1
+XX
+ID  WRKY33
+XX
+DE MA1301_1 MA1301_1_WRKY33 ; From JASPAR
+PO	A	C	G	T
+01	296.0	145.0	49.0	108.0
+02	380.0	83.0	35.0	100.0
+03	372.0	48.0	28.0	150.0
+04	476.0	0.0	122.0	0.0
+05	0.0	0.0	598.0	0.0
+06	0.0	0.0	0.0	598.0
+07	0.0	598.0	0.0	0.0
+08	598.0	0.0	0.0	0.0
+09	598.0	0.0	0.0	0.0
+10	184.0	400.0	0.0	14.0
+11	98.0	67.0	350.0	83.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q8S8P5
+CC data_type:DAP-seq
+XX
+//
+AC MA1302_1
+XX
+ID  WRKY65
+XX
+DE MA1302_1 MA1302_1_WRKY65 ; From JASPAR
+PO	A	C	G	T
+01	257.0	122.0	99.0	122.0
+02	380.0	43.0	84.0	93.0
+03	418.0	25.0	34.0	123.0
+04	458.0	6.0	127.0	9.0
+05	0.0	0.0	600.0	0.0
+06	0.0	1.0	0.0	599.0
+07	0.0	600.0	0.0	0.0
+08	600.0	0.0	0.0	0.0
+09	599.0	0.0	0.0	1.0
+10	36.0	542.0	0.0	22.0
+11	50.0	38.0	419.0	93.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9LP56
+CC data_type:DAP-seq
+XX
+//
+AC MA1303_1
+XX
+ID  WRKY22
+XX
+DE MA1303_1 MA1303_1_WRKY22 ; From JASPAR
+PO	A	C	G	T
+01	318.0	116.0	78.0	87.0
+02	461.0	29.0	50.0	59.0
+03	518.0	5.0	14.0	62.0
+04	532.0	0.0	58.0	9.0
+05	0.0	0.0	599.0	0.0
+06	0.0	0.0	0.0	599.0
+07	0.0	599.0	0.0	0.0
+08	599.0	0.0	0.0	0.0
+09	599.0	0.0	0.0	0.0
+10	71.0	508.0	0.0	20.0
+11	54.0	60.0	314.0	171.0
+12	182.0	140.0	128.0	149.0
+13	140.0	135.0	67.0	257.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:O04609
+CC data_type:DAP-seq
+XX
+//
+AC MA1304_1
+XX
+ID  WRKY59
+XX
+DE MA1304_1 MA1304_1_WRKY59 ; From JASPAR
+PO	A	C	G	T
+01	56.0	48.0	26.0	43.0
+02	109.0	12.0	25.0	27.0
+03	97.0	15.0	16.0	45.0
+04	103.0	18.0	8.0	44.0
+05	130.0	0.0	39.0	4.0
+06	0.0	0.0	173.0	0.0
+07	0.0	2.0	0.0	171.0
+08	0.0	173.0	0.0	0.0
+09	173.0	0.0	0.0	0.0
+10	173.0	0.0	0.0	0.0
+11	93.0	62.0	6.0	12.0
+12	46.0	38.0	58.0	31.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SJ09
+CC data_type:DAP-seq
+XX
+//
+AC MA1305_1
+XX
+ID  WRKY55
+XX
+DE MA1305_1 MA1305_1_WRKY55 ; From JASPAR
+PO	A	C	G	T
+01	188.0	73.0	186.0	152.0
+02	141.0	148.0	167.0	143.0
+03	71.0	415.0	59.0	54.0
+04	31.0	2.0	543.0	23.0
+05	0.0	0.0	0.0	599.0
+06	0.0	0.0	0.0	599.0
+07	0.0	0.0	599.0	0.0
+08	599.0	0.0	0.0	0.0
+09	0.0	599.0	0.0	0.0
+10	0.0	128.0	1.0	470.0
+11	90.0	72.0	48.0	389.0
+12	126.0	65.0	103.0	305.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SHB5
+CC data_type:DAP-seq
+XX
+//
+AC MA1306_1
+XX
+ID  WRKY11
+XX
+DE MA1306_1 MA1306_1_WRKY11 ; From JASPAR
+PO	A	C	G	T
+01	227.0	67.0	173.0	130.0
+02	149.0	109.0	178.0	161.0
+03	107.0	358.0	84.0	48.0
+04	11.0	0.0	512.0	74.0
+05	0.0	1.0	0.0	596.0
+06	1.0	0.0	0.0	596.0
+07	0.0	0.0	597.0	0.0
+08	595.0	0.0	2.0	0.0
+09	0.0	597.0	0.0	0.0
+10	16.0	47.0	0.0	534.0
+11	59.0	20.0	8.0	510.0
+12	56.0	42.0	37.0	462.0
+13	102.0	70.0	93.0	332.0
+14	144.0	85.0	139.0	229.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SV15
+CC data_type:DAP-seq
+XX
+//
+AC MA1308_1
+XX
+ID  WRKY70
+XX
+DE MA1308_1 MA1308_1_WRKY70 ; From JASPAR
+PO	A	C	G	T
+01	210.0	77.0	168.0	144.0
+02	123.0	165.0	181.0	130.0
+03	75.0	464.0	32.0	28.0
+04	14.0	0.0	584.0	1.0
+05	0.0	0.0	0.0	599.0
+06	0.0	0.0	0.0	599.0
+07	0.0	0.0	599.0	0.0
+08	599.0	0.0	0.0	0.0
+09	0.0	599.0	0.0	0.0
+10	2.0	58.0	3.0	536.0
+11	71.0	24.0	11.0	493.0
+12	82.0	45.0	37.0	435.0
+13	99.0	73.0	118.0	309.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9LY00
+CC data_type:DAP-seq
+XX
+//
+AC MA1309_1
+XX
+ID  WRKY3
+XX
+DE MA1309_1 MA1309_1_WRKY3 ; From JASPAR
+PO	A	C	G	T
+01	325.0	132.0	63.0	78.0
+02	404.0	75.0	34.0	85.0
+03	386.0	62.0	26.0	124.0
+04	467.0	0.0	131.0	0.0
+05	0.0	0.0	598.0	0.0
+06	0.0	0.0	0.0	598.0
+07	0.0	597.0	0.0	1.0
+08	598.0	0.0	0.0	0.0
+09	598.0	0.0	0.0	0.0
+10	180.0	398.0	1.0	19.0
+11	106.0	69.0	347.0	76.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9ZQ70
+CC data_type:DAP-seq
+XX
+//
+AC MA1310_1
+XX
+ID  WRKY42
+XX
+DE MA1310_1 MA1310_1_WRKY42 ; From JASPAR
+PO	A	C	G	T
+01	55.0	73.0	70.0	111.0
+02	71.0	45.0	58.0	135.0
+03	64.0	34.0	68.0	143.0
+04	75.0	41.0	92.0	101.0
+05	125.0	72.0	55.0	57.0
+06	118.0	92.0	30.0	69.0
+07	81.0	88.0	39.0	101.0
+08	75.0	79.0	49.0	106.0
+09	96.0	51.0	93.0	69.0
+10	67.0	69.0	89.0	84.0
+11	51.0	184.0	28.0	46.0
+12	1.0	0.0	301.0	7.0
+13	0.0	0.0	0.0	309.0
+14	0.0	0.0	0.0	309.0
+15	0.0	0.0	307.0	2.0
+16	309.0	0.0	0.0	0.0
+17	0.0	309.0	0.0	0.0
+18	6.0	90.0	7.0	206.0
+19	97.0	38.0	37.0	137.0
+20	82.0	45.0	38.0	144.0
+21	63.0	48.0	92.0	106.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9XEC3
+CC data_type:DAP-seq
+XX
+//
+AC MA1312_1
+XX
+ID  WRKY47
+XX
+DE MA1312_1 MA1312_1_WRKY47 ; From JASPAR
+PO	A	C	G	T
+01	46.0	26.0	8.0	8.0
+02	14.0	38.0	5.0	31.0
+03	7.0	41.0	17.0	23.0
+04	13.0	7.0	45.0	23.0
+05	25.0	17.0	28.0	18.0
+06	6.0	80.0	2.0	0.0
+07	2.0	0.0	65.0	21.0
+08	0.0	0.0	1.0	87.0
+09	5.0	0.0	0.0	83.0
+10	0.0	0.0	88.0	0.0
+11	74.0	0.0	13.0	1.0
+12	0.0	88.0	0.0	0.0
+13	1.0	33.0	1.0	53.0
+14	34.0	13.0	3.0	38.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9ZSI7
+CC data_type:DAP-seq
+XX
+//
+AC MA1313_1
+XX
+ID  WRKY7
+XX
+DE MA1313_1 MA1313_1_WRKY7 ; From JASPAR
+PO	A	C	G	T
+01	220.0	79.0	160.0	135.0
+02	121.0	116.0	179.0	178.0
+03	114.0	395.0	55.0	30.0
+04	3.0	0.0	552.0	39.0
+05	0.0	0.0	0.0	594.0
+06	0.0	0.0	0.0	594.0
+07	0.0	0.0	593.0	1.0
+08	587.0	0.0	7.0	0.0
+09	0.0	593.0	0.0	1.0
+10	3.0	13.0	0.0	578.0
+11	12.0	3.0	0.0	579.0
+12	26.0	25.0	4.0	539.0
+13	61.0	70.0	81.0	382.0
+14	129.0	78.0	118.0	269.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9STX0
+CC data_type:DAP-seq
+XX
+//
+AC MA1314_1
+XX
+ID  WRKY14
+XX
+DE MA1314_1 MA1314_1_WRKY14 ; From JASPAR
+PO	A	C	G	T
+01	286.0	128.0	78.0	106.0
+02	426.0	38.0	51.0	83.0
+03	454.0	22.0	24.0	98.0
+04	509.0	1.0	84.0	4.0
+05	0.0	0.0	598.0	0.0
+06	0.0	0.0	0.0	598.0
+07	0.0	598.0	0.0	0.0
+08	598.0	0.0	0.0	0.0
+09	598.0	0.0	0.0	0.0
+10	36.0	549.0	0.0	13.0
+11	53.0	54.0	397.0	94.0
+12	168.0	165.0	142.0	123.0
+13	144.0	157.0	76.0	221.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SA80
+CC data_type:DAP-seq
+XX
+//
+AC MA1315_1
+XX
+ID  WRKY24
+XX
+DE MA1315_1 MA1315_1_WRKY24 ; From JASPAR
+PO	A	C	G	T
+01	112.0	130.0	158.0	200.0
+02	42.0	423.0	50.0	85.0
+03	21.0	2.0	525.0	52.0
+04	0.0	0.0	0.0	600.0
+05	2.0	0.0	0.0	598.0
+06	0.0	0.0	600.0	0.0
+07	599.0	0.0	1.0	0.0
+08	1.0	599.0	0.0	0.0
+09	0.0	114.0	0.0	486.0
+10	133.0	29.0	27.0	411.0
+11	101.0	36.0	36.0	427.0
+12	111.0	79.0	78.0	332.0
+13	123.0	102.0	103.0	272.0
+14	143.0	116.0	101.0	240.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FFS3
+CC data_type:DAP-seq
+XX
+//
+AC MA1316_1
+XX
+ID  WRKY71
+XX
+DE MA1316_1 MA1316_1_WRKY71 ; From JASPAR
+PO	A	C	G	T
+01	349.0	103.0	69.0	77.0
+02	475.0	32.0	36.0	55.0
+03	510.0	13.0	20.0	55.0
+04	552.0	2.0	40.0	4.0
+05	0.0	0.0	598.0	0.0
+06	0.0	0.0	0.0	598.0
+07	0.0	598.0	0.0	0.0
+08	598.0	0.0	0.0	0.0
+09	598.0	0.0	0.0	0.0
+10	157.0	408.0	4.0	29.0
+11	128.0	82.0	294.0	94.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q93WV4
+CC data_type:DAP-seq
+XX
+//
+AC MA1317_1
+XX
+ID  WRKY50
+XX
+DE MA1317_1 MA1317_1_WRKY50 ; From JASPAR
+PO	A	C	G	T
+01	104.0	213.0	88.0	163.0
+02	57.0	56.0	216.0	239.0
+03	6.0	1.0	2.0	559.0
+04	3.0	0.0	0.0	565.0
+05	0.0	0.0	568.0	0.0
+06	567.0	0.0	1.0	0.0
+07	0.0	568.0	0.0	0.0
+08	2.0	22.0	1.0	543.0
+09	43.0	10.0	4.0	511.0
+10	29.0	23.0	14.0	502.0
+11	51.0	63.0	48.0	406.0
+12	116.0	88.0	90.0	274.0
+13	142.0	124.0	87.0	215.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q8VWQ5
+CC data_type:DAP-seq
+XX
+//
+AC MA1318_1
+XX
+ID  WRKY27
+XX
+DE MA1318_1 MA1318_1_WRKY27 ; From JASPAR
+PO	A	C	G	T
+01	278.0	65.0	129.0	128.0
+02	133.0	125.0	167.0	175.0
+03	171.0	345.0	48.0	36.0
+04	3.0	1.0	554.0	42.0
+05	0.0	0.0	0.0	600.0
+06	0.0	0.0	0.0	600.0
+07	0.0	0.0	600.0	0.0
+08	595.0	0.0	3.0	2.0
+09	0.0	600.0	0.0	0.0
+10	6.0	20.0	0.0	574.0
+11	46.0	10.0	2.0	542.0
+12	43.0	34.0	2.0	521.0
+13	70.0	64.0	89.0	377.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FLX8
+CC data_type:DAP-seq
+XX
+//
+AC MA1320_1
+XX
+ID  SPL15
+XX
+DE MA1320_1 MA1320_1_SPL15 ; From JASPAR
+PO	A	C	G	T
+01	91.0	30.0	62.0	63.0
+02	111.0	33.0	43.0	59.0
+03	128.0	29.0	28.0	61.0
+04	39.0	58.0	33.0	116.0
+05	5.0	45.0	16.0	180.0
+06	5.0	0.0	241.0	0.0
+07	0.0	0.0	0.0	246.0
+08	246.0	0.0	0.0	0.0
+09	0.0	246.0	0.0	0.0
+10	0.0	0.0	244.0	2.0
+11	0.0	0.0	241.0	5.0
+12	219.0	4.0	3.0	20.0
+13	69.0	106.0	18.0	53.0
+14	94.0	44.0	66.0	42.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q9M2Q6
+CC data_type:DAP-seq
+XX
+//
+AC MA1321_1
+XX
+ID  SPL13A
+XX
+DE MA1321_1 MA1321_1_SPL13A ; From JASPAR
+PO	A	C	G	T
+01	262.0	64.0	96.0	156.0
+02	122.0	118.0	90.0	248.0
+03	50.0	95.0	65.0	368.0
+04	0.0	0.0	578.0	0.0
+05	0.0	0.0	0.0	578.0
+06	578.0	0.0	0.0	0.0
+07	0.0	578.0	0.0	0.0
+08	2.0	19.0	460.0	97.0
+09	79.0	0.0	438.0	61.0
+10	346.0	71.0	10.0	151.0
+11	174.0	163.0	59.0	182.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:B9DI20
+CC data_type:DAP-seq
+XX
+//
+AC MA1323_1
+XX
+ID  GATA19
+XX
+DE MA1323_1 MA1323_1_GATA19 ; From JASPAR
+PO	A	C	G	T
+01	22.0	101.0	27.0	52.0
+02	56.0	54.0	51.0	41.0
+03	10.0	2.0	190.0	0.0
+04	202.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	202.0
+06	2.0	197.0	3.0	0.0
+07	1.0	55.0	89.0	57.0
+08	21.0	1.0	180.0	0.0
+09	159.0	7.0	27.0	9.0
+10	33.0	1.0	6.0	162.0
+11	6.0	81.0	13.0	102.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q6QPM2
+CC data_type:DAP-seq
+XX
+//
+AC MA1324_1
+XX
+ID  GATA20
+XX
+DE MA1324_1 MA1324_1_GATA20 ; From JASPAR
+PO	A	C	G	T
+01	70.0	0.0	1.0	5.0
+02	0.0	8.0	0.0	68.0
+03	2.0	70.0	0.0	4.0
+04	13.0	25.0	38.0	0.0
+05	0.0	0.0	76.0	0.0
+06	76.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	76.0
+08	2.0	73.0	0.0	1.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q9ZPX0
+CC data_type:DAP-seq
+XX
+//
+AC MA1325_1
+XX
+ID  GATA14
+XX
+DE MA1325_1 MA1325_1_GATA14 ; From JASPAR
+PO	A	C	G	T
+01	81.0	101.0	89.0	280.0
+02	100.0	119.0	133.0	199.0
+03	81.0	87.0	42.0	341.0
+04	497.0	4.0	26.0	24.0
+05	0.0	1.0	550.0	0.0
+06	551.0	0.0	0.0	0.0
+07	0.0	2.0	0.0	549.0
+08	4.0	547.0	0.0	0.0
+09	2.0	97.0	31.0	421.0
+10	202.0	46.0	296.0	7.0
+11	189.0	70.0	127.0	165.0
+12	106.0	55.0	70.0	320.0
+13	71.0	112.0	83.0	285.0
+14	86.0	124.0	97.0	244.0
+15	99.0	125.0	119.0	208.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12504119
+CC uniprot_ids:Q9M1U2
+CC data_type:DAP-seq
+XX
+//
+AC MA1326_1
+XX
+ID  ZHD5
+XX
+DE MA1326_1 MA1326_1_ZHD5 ; From JASPAR
+PO	A	C	G	T
+01	206.0	122.0	140.0	132.0
+02	116.0	217.0	105.0	162.0
+03	165.0	19.0	371.0	45.0
+04	0.0	22.0	2.0	576.0
+05	316.0	90.0	194.0	0.0
+06	591.0	3.0	6.0	0.0
+07	0.0	0.0	0.0	600.0
+08	0.0	0.0	0.0	600.0
+09	599.0	0.0	0.0	1.0
+10	335.0	19.0	237.0	9.0
+11	51.0	170.0	138.0	241.0
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9FRL5
+CC data_type:DAP-seq
+XX
+//
+AC MA1328_1
+XX
+ID  ZHD9
+XX
+DE MA1328_1 MA1328_1_ZHD9 ; From JASPAR
+PO	A	C	G	T
+01	241.0	11.0	11.0	337.0
+02	152.0	45.0	17.0	386.0
+03	226.0	52.0	4.0	318.0
+04	332.0	92.0	66.0	110.0
+05	221.0	76.0	102.0	201.0
+06	138.0	137.0	55.0	270.0
+07	174.0	182.0	93.0	151.0
+08	242.0	175.0	127.0	56.0
+09	15.0	225.0	19.0	341.0
+10	4.0	1.0	0.0	595.0
+11	600.0	0.0	0.0	0.0
+12	599.0	0.0	1.0	0.0
+13	4.0	9.0	0.0	587.0
+14	0.0	222.0	6.0	372.0
+15	539.0	13.0	32.0	16.0
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q8LFD3
+CC data_type:DAP-seq
+XX
+//
+AC MA1330_1
+XX
+ID  ZHD6
+XX
+DE MA1330_1 MA1330_1_ZHD6 ; From JASPAR
+PO	A	C	G	T
+01	368.0	45.0	29.0	158.0
+02	357.0	63.0	54.0	126.0
+03	260.0	76.0	88.0	176.0
+04	179.0	153.0	76.0	192.0
+05	217.0	35.0	242.0	106.0
+06	12.0	13.0	2.0	573.0
+07	411.0	14.0	175.0	0.0
+08	585.0	0.0	13.0	2.0
+09	0.0	0.0	0.0	600.0
+10	0.0	0.0	0.0	600.0
+11	598.0	0.0	2.0	0.0
+12	394.0	7.0	192.0	7.0
+13	75.0	108.0	142.0	275.0
+14	167.0	73.0	160.0	200.0
+15	286.0	53.0	95.0	166.0
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1331_1
+XX
+ID  BEH4
+XX
+DE MA1331_1 MA1331_1_BEH4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	324.0	4.0	270.0
+02	157.0	1.0	440.0	0.0
+03	0.0	598.0	0.0	0.0
+04	598.0	0.0	0.0	0.0
+05	0.0	598.0	0.0	0.0
+06	0.0	0.0	598.0	0.0
+07	2.0	0.0	0.0	596.0
+08	0.0	0.0	598.0	0.0
+09	13.0	132.0	65.0	388.0
+10	91.0	88.0	365.0	54.0
+11	191.0	119.0	195.0	93.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15681342
+CC uniprot_ids:Q9ZV88
+CC data_type:DAP-seq
+XX
+//
+AC MA1332_1
+XX
+ID  BEH2
+XX
+DE MA1332_1 MA1332_1_BEH2 ; From JASPAR
+PO	A	C	G	T
+01	83.0	184.0	103.0	229.0
+02	36.0	414.0	66.0	83.0
+03	406.0	72.0	106.0	15.0
+04	0.0	599.0	0.0	0.0
+05	598.0	0.0	0.0	1.0
+06	0.0	599.0	0.0	0.0
+07	0.0	0.0	599.0	0.0
+08	0.0	0.0	0.0	599.0
+09	0.0	0.0	599.0	0.0
+10	0.0	407.0	1.0	191.0
+11	234.0	0.0	365.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15681342
+CC uniprot_ids:Q94A43
+CC data_type:DAP-seq
+XX
+//
+AC MA1333_1
+XX
+ID  BEH3
+XX
+DE MA1333_1 MA1333_1_BEH3 ; From JASPAR
+PO	A	C	G	T
+01	3.0	319.0	43.0	225.0
+02	179.0	28.0	383.0	0.0
+03	0.0	589.0	0.0	1.0
+04	590.0	0.0	0.0	0.0
+05	0.0	590.0	0.0	0.0
+06	1.0	0.0	589.0	0.0
+07	1.0	0.0	0.0	589.0
+08	0.0	0.0	590.0	0.0
+09	51.0	74.0	60.0	405.0
+10	60.0	140.0	338.0	52.0
+11	239.0	91.0	179.0	81.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15681342
+CC uniprot_ids:O49404
+CC data_type:DAP-seq
+XX
+//
+AC MA1334_1
+XX
+ID  BZIP11
+XX
+DE MA1334_1 MA1334_1_BZIP11 ; From JASPAR
+PO	A	C	G	T
+01	73.0	79.0	105.0	334.0
+02	16.0	14.0	418.0	143.0
+03	142.0	428.0	0.0	21.0
+04	0.0	572.0	19.0	0.0
+05	591.0	0.0	0.0	0.0
+06	0.0	588.0	2.0	1.0
+07	3.0	2.0	586.0	0.0
+08	0.0	0.0	0.0	591.0
+09	43.0	534.0	14.0	0.0
+10	571.0	0.0	19.0	1.0
+11	2.0	46.0	373.0	170.0
+12	67.0	501.0	3.0	20.0
+13	344.0	60.0	38.0	149.0
+14	191.0	96.0	72.0	232.0
+15	169.0	182.0	68.0	172.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:O65683
+CC data_type:DAP-seq
+XX
+//
+AC MA1335_1
+XX
+ID  TGA4
+XX
+DE MA1335_1 MA1335_1_TGA4 ; From JASPAR
+PO	A	C	G	T
+01	44.0	123.0	0.0	433.0
+02	22.0	117.0	398.0	63.0
+03	566.0	3.0	5.0	26.0
+04	0.0	581.0	0.0	19.0
+05	71.0	2.0	527.0	0.0
+06	0.0	2.0	0.0	598.0
+07	42.0	558.0	0.0	0.0
+08	599.0	1.0	0.0	0.0
+09	0.0	89.0	195.0	316.0
+10	18.0	500.0	37.0	45.0
+11	342.0	62.0	111.0	85.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q39162
+CC data_type:DAP-seq
+XX
+//
+AC MA1336_1
+XX
+ID  TGA3
+XX
+DE MA1336_1 MA1336_1_TGA3 ; From JASPAR
+PO	A	C	G	T
+01	182.0	69.0	189.0	158.0
+02	290.0	61.0	232.0	15.0
+03	3.0	3.0	0.0	592.0
+04	0.0	6.0	583.0	9.0
+05	598.0	0.0	0.0	0.0
+06	0.0	577.0	0.0	21.0
+07	26.0	1.0	571.0	0.0
+08	0.0	1.0	0.0	597.0
+09	71.0	527.0	0.0	0.0
+10	593.0	0.0	1.0	4.0
+11	0.0	83.0	215.0	300.0
+12	39.0	447.0	51.0	61.0
+13	306.0	52.0	104.0	136.0
+14	156.0	67.0	87.0	288.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q39234
+CC data_type:DAP-seq
+XX
+//
+AC MA1337_1
+XX
+ID  BZIP44
+XX
+DE MA1337_1 MA1337_1_BZIP44 ; From JASPAR
+PO	A	C	G	T
+01	156.0	66.0	161.0	145.0
+02	210.0	51.0	103.0	164.0
+03	143.0	37.0	65.0	283.0
+04	32.0	5.0	423.0	68.0
+05	153.0	320.0	54.0	1.0
+06	3.0	24.0	1.0	500.0
+07	0.0	0.0	479.0	49.0
+08	528.0	0.0	0.0	0.0
+09	0.0	520.0	0.0	8.0
+10	4.0	1.0	523.0	0.0
+11	2.0	1.0	0.0	525.0
+12	0.0	0.0	528.0	0.0
+13	0.0	0.0	425.0	103.0
+14	124.0	397.0	1.0	6.0
+15	328.0	79.0	71.0	50.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:C0Z2L5
+CC data_type:DAP-seq
+XX
+//
+AC MA1339_1
+XX
+ID  BZIP43
+XX
+DE MA1339_1 MA1339_1_BZIP43 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	19.0	9.0
+02	3.0	25.0	0.0	0.0
+03	0.0	28.0	0.0	0.0
+04	28.0	0.0	0.0	0.0
+05	0.0	27.0	0.0	1.0
+06	0.0	0.0	28.0	0.0
+07	0.0	0.0	0.0	28.0
+08	0.0	27.0	1.0	0.0
+09	27.0	0.0	0.0	1.0
+10	0.0	0.0	24.0	4.0
+11	3.0	25.0	0.0	0.0
+12	18.0	3.0	1.0	6.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q9FMC2
+CC data_type:DAP-seq
+XX
+//
+AC MA1340_1
+XX
+ID  BZIP3
+XX
+DE MA1340_1 MA1340_1_BZIP3 ; From JASPAR
+PO	A	C	G	T
+01	176.0	69.0	182.0	147.0
+02	199.0	95.0	109.0	171.0
+03	150.0	55.0	57.0	312.0
+04	27.0	10.0	439.0	98.0
+05	169.0	307.0	75.0	23.0
+06	38.0	56.0	1.0	479.0
+07	0.0	70.0	452.0	52.0
+08	574.0	0.0	0.0	0.0
+09	0.0	566.0	3.0	5.0
+10	3.0	8.0	561.0	2.0
+11	0.0	0.0	0.0	574.0
+12	0.0	0.0	574.0	0.0
+13	0.0	3.0	459.0	112.0
+14	129.0	431.0	2.0	12.0
+15	314.0	78.0	113.0	69.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q9LFU3
+CC data_type:DAP-seq
+XX
+//
+AC MA1341_1
+XX
+ID  BZIP53
+XX
+DE MA1341_1 MA1341_1_BZIP53 ; From JASPAR
+PO	A	C	G	T
+01	178.0	67.0	185.0	168.0
+02	241.0	73.0	105.0	179.0
+03	152.0	37.0	63.0	346.0
+04	20.0	1.0	503.0	74.0
+05	159.0	387.0	50.0	2.0
+06	0.0	26.0	0.0	572.0
+07	0.0	14.0	529.0	55.0
+08	598.0	0.0	0.0	0.0
+09	0.0	595.0	1.0	2.0
+10	1.0	2.0	595.0	0.0
+11	0.0	0.0	0.0	598.0
+12	0.0	22.0	576.0	0.0
+13	24.0	0.0	450.0	124.0
+14	138.0	430.0	14.0	16.0
+15	348.0	100.0	81.0	69.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q9LZP8
+CC data_type:DAP-seq
+XX
+//
+AC MA1343_1
+XX
+ID  BZIP52
+XX
+DE MA1343_1 MA1343_1_BZIP52 ; From JASPAR
+PO	A	C	G	T
+01	207.0	68.0	109.0	215.0
+02	51.0	68.0	46.0	434.0
+03	0.0	0.0	548.0	51.0
+04	309.0	290.0	0.0	0.0
+05	0.0	599.0	0.0	0.0
+06	599.0	0.0	0.0	0.0
+07	1.0	0.0	598.0	0.0
+08	3.0	479.0	85.0	32.0
+09	0.0	198.0	4.0	397.0
+10	61.0	78.0	242.0	218.0
+11	116.0	0.0	332.0	151.0
+12	98.0	118.0	139.0	244.0
+13	187.0	204.0	65.0	143.0
+14	247.0	102.0	76.0	174.0
+XX
+CC tax_group:plants
+CC tf_family:Group I
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q8VWG0
+CC data_type:DAP-seq
+XX
+//
+AC MA1344_1
+XX
+ID  BZIP28
+XX
+DE MA1344_1 MA1344_1_BZIP28 ; From JASPAR
+PO	A	C	G	T
+01	177.0	65.0	147.0	159.0
+02	172.0	108.0	103.0	165.0
+03	138.0	90.0	91.0	229.0
+04	125.0	39.0	254.0	130.0
+05	249.0	69.0	174.0	56.0
+06	127.0	79.0	3.0	339.0
+07	1.0	181.0	315.0	51.0
+08	546.0	0.0	2.0	0.0
+09	0.0	544.0	0.0	4.0
+10	4.0	0.0	544.0	0.0
+11	0.0	0.0	0.0	548.0
+12	6.0	0.0	542.0	0.0
+13	0.0	0.0	407.0	141.0
+14	89.0	431.0	1.0	27.0
+15	302.0	42.0	118.0	86.0
+XX
+CC tax_group:plants
+CC tf_family:Group B
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q9SG86
+CC data_type:DAP-seq
+XX
+//
+AC MA1345_1
+XX
+ID  BZIP48
+XX
+DE MA1345_1 MA1345_1_BZIP48 ; From JASPAR
+PO	A	C	G	T
+01	7.0	4.0	328.0	114.0
+02	84.0	369.0	0.0	0.0
+03	0.0	452.0	0.0	1.0
+04	453.0	0.0	0.0	0.0
+05	1.0	449.0	0.0	3.0
+06	4.0	1.0	448.0	0.0
+07	0.0	1.0	0.0	452.0
+08	36.0	417.0	0.0	0.0
+09	433.0	0.0	16.0	4.0
+10	5.0	24.0	319.0	105.0
+11	53.0	384.0	3.0	13.0
+12	279.0	34.0	33.0	107.0
+13	130.0	77.0	72.0	174.0
+14	122.0	145.0	46.0	140.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q8RU59
+CC data_type:DAP-seq
+XX
+//
+AC MA1346_1
+XX
+ID  TGA10
+XX
+DE MA1346_1 MA1346_1_TGA10 ; From JASPAR
+PO	A	C	G	T
+01	193.0	72.0	216.0	112.0
+02	256.0	90.0	107.0	140.0
+03	118.0	122.0	54.0	299.0
+04	45.0	53.0	473.0	22.0
+05	316.0	200.0	77.0	0.0
+06	0.0	0.0	0.0	593.0
+07	4.0	0.0	550.0	39.0
+08	590.0	0.0	3.0	0.0
+09	0.0	559.0	1.0	33.0
+10	6.0	0.0	587.0	0.0
+11	12.0	5.0	1.0	575.0
+12	34.0	505.0	48.0	6.0
+13	524.0	0.0	48.0	21.0
+14	34.0	258.0	98.0	203.0
+15	135.0	184.0	83.0	191.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:E3VNM4
+CC data_type:DAP-seq
+XX
+//
+AC MA0968_2
+XX
+ID  BZIP68
+XX
+DE MA0968_2 MA0968_2_BZIP68 ; From JASPAR
+PO	A	C	G	T
+01	51.0	126.0	42.0	381.0
+02	2.0	0.0	502.0	96.0
+03	106.0	493.0	1.0	0.0
+04	0.0	598.0	0.0	2.0
+05	600.0	0.0	0.0	0.0
+06	1.0	589.0	4.0	6.0
+07	2.0	4.0	594.0	0.0
+08	0.0	0.0	1.0	599.0
+09	58.0	306.0	234.0	2.0
+10	327.0	1.0	143.0	129.0
+11	93.0	161.0	212.0	134.0
+12	154.0	344.0	28.0	74.0
+13	285.0	76.0	68.0	171.0
+14	171.0	122.0	82.0	225.0
+15	157.0	191.0	66.0	186.0
+XX
+CC tax_group:plants
+CC tf_family:Group G
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q84LG2
+CC data_type:DAP-seq
+XX
+//
+AC MA1348_1
+XX
+ID  TGA9
+XX
+DE MA1348_1 MA1348_1_TGA9 ; From JASPAR
+PO	A	C	G	T
+01	51.0	51.0	481.0	9.0
+02	318.0	198.0	76.0	0.0
+03	8.0	0.0	1.0	583.0
+04	0.0	0.0	526.0	66.0
+05	591.0	0.0	1.0	0.0
+06	0.0	548.0	0.0	44.0
+07	11.0	0.0	581.0	0.0
+08	1.0	0.0	0.0	591.0
+09	16.0	552.0	24.0	0.0
+10	567.0	0.0	25.0	0.0
+11	13.0	239.0	76.0	264.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q93XM6
+CC data_type:DAP-seq
+XX
+//
+AC MA1349_1
+XX
+ID  BZIP16
+XX
+DE MA1349_1 MA1349_1_BZIP16 ; From JASPAR
+PO	A	C	G	T
+01	205.0	70.0	160.0	159.0
+02	227.0	52.0	116.0	199.0
+03	182.0	60.0	75.0	277.0
+04	52.0	28.0	334.0	180.0
+05	97.0	174.0	254.0	69.0
+06	145.0	170.0	0.0	279.0
+07	0.0	302.0	265.0	27.0
+08	594.0	0.0	0.0	0.0
+09	0.0	586.0	7.0	1.0
+10	0.0	7.0	587.0	0.0
+11	0.0	0.0	0.0	594.0
+12	0.0	0.0	594.0	0.0
+13	0.0	0.0	529.0	65.0
+14	33.0	561.0	0.0	0.0
+15	464.0	22.0	94.0	14.0
+XX
+CC tax_group:plants
+CC tf_family:Group G
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:Q501B2
+CC data_type:DAP-seq
+XX
+//
+AC MA1350_1
+XX
+ID  BZIP42
+XX
+DE MA1350_1 MA1350_1_BZIP42 ; From JASPAR
+PO	A	C	G	T
+01	13.0	3.0	0.0	51.0
+02	1.0	0.0	64.0	2.0
+03	9.0	55.0	3.0	0.0
+04	0.0	0.0	0.0	67.0
+05	0.0	0.0	65.0	2.0
+06	67.0	0.0	0.0	0.0
+07	0.0	67.0	0.0	0.0
+08	1.0	0.0	66.0	0.0
+09	1.0	0.0	0.0	66.0
+10	0.0	0.0	67.0	0.0
+11	0.0	0.0	58.0	9.0
+12	18.0	49.0	0.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q9LW45
+CC data_type:DAP-seq
+XX
+//
+AC MA1352_1
+XX
+ID  TRP1
+XX
+DE MA1352_1 MA1352_1_TRP1 ; From JASPAR
+PO	A	C	G	T
+01	253.0	4.0	8.0	42.0
+02	19.0	250.0	11.0	27.0
+03	17.0	263.0	14.0	13.0
+04	30.0	218.0	11.0	48.0
+05	29.0	0.0	3.0	275.0
+06	302.0	0.0	2.0	3.0
+07	304.0	0.0	1.0	2.0
+08	307.0	0.0	0.0	0.0
+09	4.0	302.0	0.0	1.0
+10	13.0	290.0	0.0	4.0
+11	1.0	296.0	6.0	4.0
+12	3.0	2.0	2.0	300.0
+13	296.0	2.0	2.0	7.0
+14	295.0	9.0	2.0	1.0
+15	306.0	0.0	0.0	1.0
+16	3.0	288.0	1.0	15.0
+17	6.0	292.0	4.0	5.0
+18	24.0	272.0	0.0	11.0
+19	13.0	8.0	1.0	285.0
+20	290.0	4.0	6.0	7.0
+21	263.0	8.0	28.0	8.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:11278537
+CC uniprot_ids:Q8L7L8
+CC data_type:DAP-seq
+XX
+//
+AC MA1353_1
+XX
+ID  AT1G72740
+XX
+DE MA1353_1 MA1353_1_AT1G72740 ; From JASPAR
+PO	A	C	G	T
+01	187.0	94.0	223.0	96.0
+02	187.0	71.0	242.0	100.0
+03	278.0	23.0	230.0	69.0
+04	254.0	10.0	77.0	259.0
+05	2.0	107.0	1.0	490.0
+06	3.0	1.0	0.0	596.0
+07	595.0	0.0	4.0	1.0
+08	0.0	1.0	599.0	0.0
+09	0.0	0.0	597.0	3.0
+10	0.0	3.0	566.0	31.0
+11	1.0	28.0	0.0	571.0
+12	22.0	1.0	0.0	577.0
+13	77.0	33.0	19.0	471.0
+14	229.0	120.0	73.0	178.0
+15	76.0	82.0	281.0	161.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:F4IEY4
+CC data_type:DAP-seq
+XX
+//
+AC MA1354_1
+XX
+ID  AT4G12670
+XX
+DE MA1354_1 MA1354_1_AT4G12670 ; From JASPAR
+PO	A	C	G	T
+01	0.0	35.0	0.0	7.0
+02	3.0	3.0	0.0	36.0
+03	41.0	0.0	0.0	1.0
+04	41.0	0.0	0.0	1.0
+05	39.0	1.0	1.0	1.0
+06	0.0	42.0	0.0	0.0
+07	4.0	35.0	1.0	2.0
+08	0.0	41.0	0.0	1.0
+09	1.0	0.0	1.0	40.0
+10	38.0	0.0	1.0	3.0
+11	40.0	0.0	2.0	0.0
+12	39.0	0.0	3.0	0.0
+13	1.0	36.0	0.0	5.0
+14	0.0	39.0	2.0	1.0
+15	6.0	32.0	1.0	3.0
+16	1.0	1.0	0.0	40.0
+17	42.0	0.0	0.0	0.0
+18	34.0	2.0	1.0	5.0
+19	36.0	1.0	2.0	3.0
+20	2.0	35.0	2.0	3.0
+21	7.0	28.0	0.0	7.0
+22	0.0	39.0	0.0	3.0
+23	8.0	0.0	0.0	34.0
+24	38.0	3.0	0.0	1.0
+25	40.0	0.0	0.0	2.0
+26	40.0	0.0	1.0	1.0
+27	5.0	35.0	0.0	2.0
+28	0.0	39.0	1.0	2.0
+29	0.0	32.0	4.0	6.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q700D7
+CC data_type:DAP-seq
+XX
+//
+AC MA1355_1
+XX
+ID  TRB2
+XX
+DE MA1355_1 MA1355_1_TRB2 ; From JASPAR
+PO	A	C	G	T
+01	275.0	91.0	69.0	163.0
+02	247.0	122.0	50.0	179.0
+03	183.0	146.0	50.0	219.0
+04	120.0	85.0	93.0	300.0
+05	320.0	8.0	90.0	180.0
+06	399.0	3.0	1.0	195.0
+07	353.0	0.0	245.0	0.0
+08	45.0	553.0	0.0	0.0
+09	0.0	598.0	0.0	0.0
+10	0.0	598.0	0.0	0.0
+11	0.0	0.0	0.0	598.0
+12	598.0	0.0	0.0	0.0
+13	505.0	0.0	91.0	2.0
+14	197.0	92.0	11.0	298.0
+15	92.0	121.0	28.0	357.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9JFW5
+CC data_type:DAP-seq
+XX
+//
+AC MA1356_1
+XX
+ID  TRP2
+XX
+DE MA1356_1 MA1356_1_TRP2 ; From JASPAR
+PO	A	C	G	T
+01	335.0	34.0	21.0	35.0
+02	317.0	24.0	18.0	66.0
+03	44.0	303.0	22.0	56.0
+04	23.0	344.0	28.0	30.0
+05	47.0	272.0	15.0	91.0
+06	72.0	0.0	4.0	349.0
+07	423.0	0.0	1.0	1.0
+08	419.0	1.0	2.0	3.0
+09	422.0	2.0	0.0	1.0
+10	7.0	416.0	0.0	2.0
+11	6.0	414.0	2.0	3.0
+12	0.0	416.0	0.0	9.0
+13	4.0	3.0	0.0	418.0
+14	407.0	2.0	13.0	3.0
+15	422.0	1.0	2.0	0.0
+16	409.0	4.0	2.0	10.0
+17	27.0	350.0	1.0	47.0
+18	18.0	383.0	0.0	24.0
+19	54.0	303.0	7.0	61.0
+20	37.0	43.0	7.0	338.0
+21	337.0	28.0	15.0	45.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9SNB9
+CC data_type:DAP-seq
+XX
+//
+AC MA1357_1
+XX
+ID  bHLH80
+XX
+DE MA1357_1 MA1357_1_bHLH80 ; From JASPAR
+PO	A	C	G	T
+01	132.0	38.0	103.0	322.0
+02	104.0	18.0	429.0	44.0
+03	1.0	594.0	0.0	0.0
+04	595.0	0.0	0.0	0.0
+05	595.0	0.0	0.0	0.0
+06	0.0	0.0	595.0	0.0
+07	0.0	0.0	0.0	595.0
+08	1.0	0.0	235.0	359.0
+09	0.0	0.0	595.0	0.0
+10	146.0	277.0	81.0	91.0
+11	235.0	140.0	49.0	171.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9C8P8
+CC data_type:DAP-seq
+XX
+//
+AC MA1358_1
+XX
+ID  bHLH130
+XX
+DE MA1358_1 MA1358_1_bHLH130 ; From JASPAR
+PO	A	C	G	T
+01	65.0	14.0	54.0	52.0
+02	31.0	33.0	68.0	53.0
+03	0.0	184.0	1.0	0.0
+04	98.0	87.0	0.0	0.0
+05	185.0	0.0	0.0	0.0
+06	1.0	184.0	0.0	0.0
+07	1.0	0.0	0.0	184.0
+08	4.0	0.0	0.0	181.0
+09	0.0	0.0	185.0	0.0
+10	18.0	105.0	17.0	45.0
+11	79.0	52.0	19.0	35.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q66GR3
+CC data_type:DAP-seq
+XX
+//
+AC MA1361_1
+XX
+ID  bHLH18
+XX
+DE MA1361_1 MA1361_1_bHLH18 ; From JASPAR
+PO	A	C	G	T
+01	34.0	128.0	20.0	19.0
+02	109.0	2.0	58.0	32.0
+03	0.0	143.0	7.0	51.0
+04	38.0	4.0	153.0	6.0
+05	28.0	32.0	8.0	133.0
+06	12.0	13.0	116.0	60.0
+07	60.0	15.0	29.0	97.0
+08	55.0	27.0	31.0	88.0
+09	61.0	61.0	15.0	64.0
+10	11.0	190.0	0.0	0.0
+11	193.0	0.0	4.0	4.0
+12	0.0	199.0	0.0	2.0
+13	9.0	0.0	192.0	0.0
+14	7.0	3.0	0.0	191.0
+15	0.0	0.0	197.0	4.0
+16	29.0	34.0	79.0	59.0
+17	39.0	60.0	34.0	68.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q1PF17
+CC data_type:DAP-seq
+XX
+//
+AC MA1362_1
+XX
+ID  bHLH77
+XX
+DE MA1362_1 MA1362_1_bHLH77 ; From JASPAR
+PO	A	C	G	T
+01	21.0	12.0	35.0	7.0
+02	28.0	13.0	12.0	22.0
+03	16.0	2.0	32.0	25.0
+04	31.0	4.0	10.0	30.0
+05	21.0	13.0	22.0	19.0
+06	13.0	7.0	40.0	15.0
+07	0.0	23.0	22.0	30.0
+08	0.0	75.0	0.0	0.0
+09	74.0	0.0	1.0	0.0
+10	0.0	69.0	0.0	6.0
+11	0.0	0.0	75.0	0.0
+12	0.0	0.0	0.0	75.0
+13	0.0	0.0	75.0	0.0
+14	28.0	36.0	0.0	11.0
+15	10.0	10.0	28.0	27.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q9LK48
+CC data_type:DAP-seq
+XX
+//
+AC MA1363_1
+XX
+ID  LRL2
+XX
+DE MA1363_1 MA1363_1_LRL2 ; From JASPAR
+PO	A	C	G	T
+01	1.0	27.0	5.0	1.0
+02	6.0	1.0	23.0	4.0
+03	3.0	2.0	5.0	24.0
+04	5.0	1.0	25.0	3.0
+05	6.0	9.0	8.0	11.0
+06	0.0	5.0	13.0	16.0
+07	9.0	7.0	2.0	16.0
+08	0.0	10.0	13.0	11.0
+09	4.0	8.0	18.0	4.0
+10	0.0	34.0	0.0	0.0
+11	34.0	0.0	0.0	0.0
+12	0.0	34.0	0.0	0.0
+13	1.0	0.0	33.0	0.0
+14	0.0	0.0	0.0	34.0
+15	0.0	1.0	33.0	0.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q8S3D5
+CC data_type:DAP-seq
+XX
+//
+AC MA1364_1
+XX
+ID  BHLH72
+XX
+DE MA1364_1 MA1364_1_BHLH72 ; From JASPAR
+PO	A	C	G	T
+01	11.0	33.0	54.0	14.0
+02	28.0	20.0	22.0	42.0
+03	19.0	9.0	51.0	33.0
+04	46.0	8.0	39.0	19.0
+05	42.0	14.0	32.0	24.0
+06	28.0	8.0	22.0	54.0
+07	4.0	29.0	66.0	13.0
+08	4.0	85.0	4.0	19.0
+09	0.0	112.0	0.0	0.0
+10	112.0	0.0	0.0	0.0
+11	0.0	106.0	0.0	6.0
+12	0.0	0.0	112.0	0.0
+13	0.0	0.0	0.0	112.0
+14	0.0	0.0	110.0	2.0
+15	5.0	24.0	65.0	18.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15448264
+CC uniprot_ids:Q570R7
+CC data_type:DAP-seq
+XX
+//
+AC MA1366_1
+XX
+ID  DF1
+XX
+DE MA1366_1 MA1366_1_DF1 ; From JASPAR
+PO	A	C	G	T
+01	292.0	39.0	111.0	38.0
+02	101.0	225.0	39.0	115.0
+03	149.0	30.0	292.0	9.0
+04	0.0	0.0	480.0	0.0
+05	0.0	0.0	0.0	480.0
+06	416.0	0.0	14.0	50.0
+07	480.0	0.0	0.0	0.0
+08	449.0	3.0	8.0	20.0
+09	380.0	3.0	0.0	97.0
+10	316.0	31.0	32.0	101.0
+11	191.0	71.0	73.0	145.0
+12	149.0	41.0	141.0	149.0
+13	164.0	46.0	94.0	176.0
+14	207.0	47.0	100.0	126.0
+15	248.0	41.0	53.0	138.0
+16	226.0	51.0	55.0	148.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:2255908
+CC uniprot_ids:Q9C6K3
+CC data_type:DAP-seq
+XX
+//
+AC MA1367_1
+XX
+ID  AT1G76870
+XX
+DE MA1367_1 MA1367_1_AT1G76870 ; From JASPAR
+PO	A	C	G	T
+01	209.0	94.0	53.0	100.0
+02	218.0	64.0	59.0	115.0
+03	173.0	127.0	65.0	91.0
+04	87.0	173.0	73.0	123.0
+05	287.0	21.0	3.0	145.0
+06	436.0	5.0	5.0	10.0
+07	418.0	0.0	2.0	36.0
+08	448.0	6.0	0.0	2.0
+09	6.0	450.0	0.0	0.0
+10	0.0	452.0	0.0	4.0
+11	175.0	4.0	257.0	20.0
+12	41.0	150.0	222.0	43.0
+13	177.0	71.0	53.0	155.0
+14	229.0	46.0	35.0	146.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22236699
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1369_1
+XX
+ID  HDG1
+XX
+DE MA1369_1 MA1369_1_HDG1 ; From JASPAR
+PO	A	C	G	T
+01	179.0	56.0	274.0	90.0
+02	23.0	218.0	0.0	358.0
+03	518.0	67.0	0.0	14.0
+04	400.0	0.0	0.0	199.0
+05	0.0	0.0	0.0	599.0
+06	126.0	0.0	0.0	473.0
+07	598.0	0.0	1.0	0.0
+08	599.0	0.0	0.0	0.0
+09	0.0	0.0	0.0	599.0
+10	62.0	4.0	488.0	45.0
+11	167.0	291.0	23.0	118.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9M2E8
+CC data_type:DAP-seq
+XX
+//
+AC MA1370_1
+XX
+ID  IDD5
+XX
+DE MA1370_1 MA1370_1_IDD5 ; From JASPAR
+PO	A	C	G	T
+01	40.0	18.0	20.0	82.0
+02	29.0	4.0	8.0	119.0
+03	1.0	7.0	4.0	148.0
+04	0.0	2.0	7.0	151.0
+05	0.0	3.0	0.0	157.0
+06	0.0	0.0	159.0	1.0
+07	0.0	1.0	0.0	159.0
+08	0.0	160.0	0.0	0.0
+09	3.0	14.0	111.0	32.0
+10	1.0	5.0	8.0	146.0
+11	3.0	25.0	10.0	122.0
+12	17.0	4.0	8.0	131.0
+13	53.0	6.0	0.0	101.0
+14	13.0	57.0	75.0	15.0
+15	6.0	44.0	3.0	107.0
+16	31.0	14.0	78.0	37.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q9ZUL3
+CC data_type:DAP-seq
+XX
+//
+AC MA1371_1
+XX
+ID  IDD4
+XX
+DE MA1371_1 MA1371_1_IDD4 ; From JASPAR
+PO	A	C	G	T
+01	213.0	233.0	42.0	103.0
+02	429.0	5.0	140.0	17.0
+03	57.0	250.0	242.0	42.0
+04	430.0	0.0	14.0	147.0
+05	510.0	0.0	0.0	81.0
+06	470.0	29.0	78.0	14.0
+07	529.0	42.0	16.0	4.0
+08	186.0	301.0	78.0	26.0
+09	16.0	0.0	575.0	0.0
+10	580.0	10.0	0.0	1.0
+11	0.0	591.0	0.0	0.0
+12	585.0	0.0	6.0	0.0
+13	581.0	3.0	7.0	0.0
+14	547.0	15.0	23.0	6.0
+15	448.0	24.0	35.0	84.0
+16	309.0	71.0	61.0	150.0
+17	264.0	72.0	61.0	194.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q8GYC1
+CC data_type:DAP-seq
+XX
+//
+AC MA1372_1
+XX
+ID  ZAT10
+XX
+DE MA1372_1 MA1372_1_ZAT10 ; From JASPAR
+PO	A	C	G	T
+01	23.0	402.0	14.0	161.0
+02	431.0	0.0	15.0	154.0
+03	34.0	325.0	157.0	84.0
+04	132.0	102.0	0.0	366.0
+05	158.0	155.0	128.0	159.0
+06	161.0	153.0	1.0	285.0
+07	0.0	486.0	0.0	114.0
+08	600.0	0.0	0.0	0.0
+09	0.0	444.0	156.0	0.0
+10	30.0	13.0	0.0	557.0
+11	173.0	158.0	133.0	136.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q96289
+CC data_type:DAP-seq
+XX
+//
+AC MA1373_1
+XX
+ID  GAF1
+XX
+DE MA1373_1 MA1373_1_GAF1 ; From JASPAR
+PO	A	C	G	T
+01	28.0	37.0	2.0	27.0
+02	64.0	4.0	25.0	1.0
+03	8.0	34.0	33.0	19.0
+04	57.0	1.0	2.0	34.0
+05	87.0	0.0	0.0	7.0
+06	68.0	6.0	17.0	3.0
+07	91.0	2.0	1.0	0.0
+08	24.0	67.0	3.0	0.0
+09	2.0	0.0	92.0	0.0
+10	94.0	0.0	0.0	0.0
+11	5.0	89.0	0.0	0.0
+12	93.0	0.0	1.0	0.0
+13	83.0	11.0	0.0	0.0
+14	91.0	0.0	3.0	0.0
+15	75.0	7.0	0.0	12.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q9SCQ6
+CC data_type:DAP-seq
+XX
+//
+AC MA1374_1
+XX
+ID  IDD7
+XX
+DE MA1374_1 MA1374_1_IDD7 ; From JASPAR
+PO	A	C	G	T
+01	190.0	232.0	44.0	119.0
+02	394.0	20.0	153.0	18.0
+03	95.0	224.0	197.0	69.0
+04	400.0	3.0	36.0	146.0
+05	489.0	1.0	0.0	95.0
+06	424.0	49.0	88.0	24.0
+07	528.0	31.0	23.0	3.0
+08	136.0	375.0	57.0	17.0
+09	2.0	0.0	583.0	0.0
+10	575.0	9.0	0.0	1.0
+11	0.0	585.0	0.0	0.0
+12	574.0	0.0	11.0	0.0
+13	576.0	2.0	6.0	1.0
+14	540.0	11.0	29.0	5.0
+15	441.0	25.0	39.0	80.0
+16	293.0	89.0	66.0	137.0
+17	267.0	77.0	62.0	179.0
+18	244.0	95.0	108.0	138.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24039602
+CC uniprot_ids:Q8H1F5
+CC data_type:DAP-seq
+XX
+//
+AC MA1375_1
+XX
+ID  ANL2
+XX
+DE MA1375_1 MA1375_1_ANL2 ; From JASPAR
+PO	A	C	G	T
+01	121.0	3.0	334.0	140.0
+02	38.0	513.0	1.0	46.0
+03	598.0	0.0	0.0	0.0
+04	0.0	1.0	0.0	597.0
+05	0.0	1.0	0.0	597.0
+06	473.0	0.0	2.0	123.0
+07	598.0	0.0	0.0	0.0
+08	192.0	1.0	0.0	405.0
+09	8.0	0.0	42.0	548.0
+10	339.0	8.0	228.0	23.0
+11	109.0	284.0	35.0	170.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q0WV12
+CC data_type:DAP-seq
+XX
+//
+AC MA1376_1
+XX
+ID  DEAR3
+XX
+DE MA1376_1 MA1376_1_DEAR3 ; From JASPAR
+PO	A	C	G	T
+01	192.0	143.0	90.0	172.0
+02	231.0	61.0	140.0	165.0
+03	223.0	7.0	112.0	255.0
+04	18.0	6.0	131.0	442.0
+05	0.0	0.0	597.0	0.0
+06	14.0	1.0	14.0	568.0
+07	0.0	597.0	0.0	0.0
+08	0.0	0.0	597.0	0.0
+09	0.0	0.0	596.0	1.0
+10	1.0	71.0	0.0	525.0
+11	2.0	1.0	592.0	2.0
+12	179.0	100.0	277.0	41.0
+13	156.0	180.0	78.0	183.0
+14	135.0	84.0	209.0	169.0
+15	157.0	112.0	179.0	149.0
+16	155.0	160.0	128.0	154.0
+17	191.0	76.0	187.0	143.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1377_1
+XX
+ID  PLT1
+XX
+DE MA1377_1 MA1377_1_PLT1 ; From JASPAR
+PO	A	C	G	T
+01	30.0	13.0	97.0	55.0
+02	42.0	5.0	111.0	37.0
+03	3.0	171.0	0.0	21.0
+04	146.0	9.0	24.0	16.0
+05	2.0	187.0	3.0	3.0
+06	29.0	4.0	156.0	6.0
+07	59.0	41.0	64.0	31.0
+08	92.0	9.0	16.0	78.0
+09	37.0	20.0	5.0	133.0
+10	43.0	82.0	0.0	70.0
+11	13.0	103.0	1.0	78.0
+12	0.0	193.0	0.0	2.0
+13	47.0	9.0	126.0	13.0
+14	189.0	0.0	6.0	0.0
+15	16.0	9.0	142.0	28.0
+16	76.0	3.0	114.0	2.0
+17	80.0	62.0	10.0	43.0
+18	80.0	28.0	49.0	38.0
+19	72.0	33.0	54.0	36.0
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:11058102
+CC uniprot_ids:Q5YGP8
+CC data_type:DAP-seq
+XX
+//
+AC MA1378_1
+XX
+ID  AIL6
+XX
+DE MA1378_1 MA1378_1_AIL6 ; From JASPAR
+PO	A	C	G	T
+01	11.0	345.0	16.0	159.0
+02	135.0	351.0	13.0	32.0
+03	2.0	24.0	3.0	502.0
+04	33.0	357.0	33.0	108.0
+05	2.0	7.0	517.0	5.0
+06	222.0	0.0	278.0	31.0
+07	167.0	7.0	238.0	119.0
+08	368.0	16.0	46.0	101.0
+09	223.0	24.0	41.0	243.0
+10	96.0	153.0	97.0	185.0
+11	37.0	372.0	17.0	105.0
+12	23.0	11.0	473.0	24.0
+13	83.0	78.0	59.0	311.0
+14	98.0	14.0	386.0	33.0
+15	131.0	260.0	24.0	116.0
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:11058102
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1379_1
+XX
+ID  SOL1
+XX
+DE MA1379_1 MA1379_1_SOL1 ; From JASPAR
+PO	A	C	G	T
+01	192.0	17.0	27.0	364.0
+02	95.0	16.0	6.0	483.0
+03	167.0	37.0	7.0	389.0
+04	219.0	69.0	46.0	266.0
+05	441.0	54.0	70.0	35.0
+06	543.0	0.0	43.0	14.0
+07	466.0	3.0	66.0	65.0
+08	484.0	0.0	23.0	93.0
+09	0.0	0.0	0.0	600.0
+10	0.0	0.0	0.0	600.0
+11	0.0	169.0	0.0	431.0
+12	482.0	0.0	118.0	0.0
+13	555.0	45.0	0.0	0.0
+14	599.0	0.0	1.0	0.0
+15	268.0	16.0	0.0	316.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CPP
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9M9H7
+CC data_type:DAP-seq
+XX
+//
+AC MA1380_1
+XX
+ID  TCX6
+XX
+DE MA1380_1 MA1380_1_TCX6 ; From JASPAR
+PO	A	C	G	T
+01	236.0	0.0	33.0	328.0
+02	0.0	0.0	0.0	597.0
+03	0.0	0.0	85.0	512.0
+04	0.0	82.0	0.0	515.0
+05	403.0	0.0	194.0	0.0
+06	597.0	0.0	0.0	0.0
+07	597.0	0.0	0.0	0.0
+08	91.0	16.0	0.0	490.0
+09	152.0	96.0	13.0	336.0
+10	8.0	30.0	0.0	559.0
+11	51.0	18.0	65.0	463.0
+12	139.0	45.0	49.0	364.0
+13	232.0	16.0	112.0	237.0
+14	425.0	8.0	20.0	144.0
+15	409.0	19.0	12.0	157.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CPP
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SL70
+CC data_type:DAP-seq
+XX
+//
+AC MA1381_1
+XX
+ID  AT3G46070
+XX
+DE MA1381_1 MA1381_1_AT3G46070 ; From JASPAR
+PO	A	C	G	T
+01	45.0	53.0	14.0	90.0
+02	27.0	91.0	15.0	69.0
+03	78.0	47.0	8.0	69.0
+04	63.0	55.0	16.0	68.0
+05	18.0	79.0	14.0	91.0
+06	48.0	64.0	19.0	71.0
+07	9.0	0.0	0.0	193.0
+08	0.0	202.0	0.0	0.0
+09	200.0	0.0	0.0	2.0
+10	2.0	200.0	0.0	0.0
+11	0.0	0.0	0.0	202.0
+12	14.0	131.0	22.0	35.0
+13	42.0	44.0	10.0	106.0
+14	59.0	78.0	13.0	52.0
+15	63.0	65.0	16.0	58.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24567191
+CC uniprot_ids:Q9LX86
+CC data_type:DAP-seq
+XX
+//
+AC MA1382_1
+XX
+ID  FAR1
+XX
+DE MA1382_1 MA1382_1_FAR1 ; From JASPAR
+PO	A	C	G	T
+01	234.0	117.0	98.0	142.0
+02	122.0	191.0	97.0	181.0
+03	73.0	236.0	58.0	224.0
+04	126.0	193.0	13.0	259.0
+05	8.0	550.0	17.0	16.0
+06	591.0	0.0	0.0	0.0
+07	0.0	591.0	0.0	0.0
+08	0.0	0.0	591.0	0.0
+09	0.0	587.0	0.0	4.0
+10	0.0	0.0	590.0	1.0
+11	0.0	586.0	0.0	5.0
+12	27.0	321.0	50.0	193.0
+13	112.0	62.0	147.0	270.0
+14	145.0	212.0	82.0	152.0
+15	135.0	219.0	66.0	171.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY-like_FRS/FRF
+CC tf_class:GCM domain factors
+CC pubmed_ids:18033885
+CC uniprot_ids:Q9SWG3
+CC data_type:DAP-seq
+XX
+//
+AC MA1383_1
+XX
+ID  KAN2
+XX
+DE MA1383_1 MA1383_1_KAN2 ; From JASPAR
+PO	A	C	G	T
+01	74.0	52.0	16.0	72.0
+02	45.0	43.0	14.0	112.0
+03	58.0	44.0	24.0	88.0
+04	93.0	44.0	49.0	28.0
+05	30.0	24.0	113.0	47.0
+06	137.0	18.0	8.0	51.0
+07	170.0	0.0	0.0	44.0
+08	0.0	0.0	0.0	214.0
+09	214.0	0.0	0.0	0.0
+10	0.0	0.0	0.0	214.0
+11	2.0	0.0	0.0	212.0
+12	3.0	210.0	0.0	1.0
+13	7.0	48.0	0.0	159.0
+14	24.0	55.0	12.0	123.0
+15	46.0	40.0	12.0	116.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9C616
+CC data_type:DAP-seq
+XX
+//
+AC MA1384_1
+XX
+ID  PHL7
+XX
+DE MA1384_1 MA1384_1_PHL7 ; From JASPAR
+PO	A	C	G	T
+01	344.0	58.0	90.0	106.0
+02	349.0	24.0	94.0	131.0
+03	301.0	87.0	110.0	100.0
+04	261.0	122.0	215.0	0.0
+05	0.0	0.0	598.0	0.0
+06	451.0	86.0	1.0	60.0
+07	598.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	598.0
+09	531.0	67.0	0.0	0.0
+10	3.0	0.0	0.0	595.0
+11	88.0	44.0	13.0	453.0
+12	14.0	542.0	5.0	37.0
+13	26.0	273.0	114.0	185.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SJW0
+CC data_type:DAP-seq
+XX
+//
+AC MA1385_1
+XX
+ID  AT2G40260
+XX
+DE MA1385_1 MA1385_1_AT2G40260 ; From JASPAR
+PO	A	C	G	T
+01	139.0	129.0	27.0	305.0
+02	162.0	121.0	54.0	263.0
+03	250.0	72.0	67.0	211.0
+04	250.0	66.0	114.0	170.0
+05	383.0	35.0	8.0	174.0
+06	461.0	0.0	2.0	137.0
+07	148.0	151.0	35.0	266.0
+08	599.0	0.0	0.0	1.0
+09	0.0	0.0	0.0	600.0
+10	1.0	0.0	0.0	599.0
+11	0.0	600.0	0.0	0.0
+12	0.0	194.0	9.0	397.0
+13	134.0	152.0	29.0	285.0
+14	76.0	83.0	20.0	421.0
+15	130.0	87.0	78.0	305.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1387_1
+XX
+ID  HRS1
+XX
+DE MA1387_1 MA1387_1_HRS1 ; From JASPAR
+PO	A	C	G	T
+01	234.0	85.0	129.0	148.0
+02	126.0	66.0	290.0	114.0
+03	260.0	70.0	92.0	174.0
+04	392.0	48.0	45.0	111.0
+05	101.0	71.0	34.0	390.0
+06	132.0	302.0	97.0	65.0
+07	144.0	101.0	250.0	101.0
+08	423.0	32.0	61.0	80.0
+09	548.0	0.0	20.0	28.0
+10	0.0	0.0	405.0	191.0
+11	596.0	0.0	0.0	0.0
+12	0.0	0.0	0.0	596.0
+13	25.0	22.0	4.0	545.0
+14	0.0	596.0	0.0	0.0
+15	43.0	250.0	28.0	275.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FX67
+CC data_type:DAP-seq
+XX
+//
+AC MA1388_1
+XX
+ID  PHL2
+XX
+DE MA1388_1 MA1388_1_PHL2 ; From JASPAR
+PO	A	C	G	T
+01	254.0	145.0	201.0	0.0
+02	0.0	0.0	600.0	0.0
+03	572.0	22.0	0.0	6.0
+04	600.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	600.0
+06	237.0	363.0	0.0	0.0
+07	124.0	7.0	10.0	459.0
+08	174.0	54.0	204.0	168.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q94A57
+CC data_type:DAP-seq
+XX
+//
+AC MA1389_1
+XX
+ID  PHL1
+XX
+DE MA1389_1 MA1389_1_PHL1 ; From JASPAR
+PO	A	C	G	T
+01	385.0	87.0	85.0	43.0
+02	334.0	66.0	105.0	95.0
+03	325.0	49.0	188.0	38.0
+04	38.0	2.0	545.0	15.0
+05	482.0	49.0	25.0	44.0
+06	600.0	0.0	0.0	0.0
+07	0.0	1.0	59.0	540.0
+08	599.0	1.0	0.0	0.0
+09	0.0	0.0	1.0	599.0
+10	46.0	14.0	43.0	497.0
+11	2.0	597.0	1.0	0.0
+12	0.0	263.0	154.0	183.0
+13	226.0	122.0	125.0	127.0
+14	317.0	61.0	44.0	178.0
+15	154.0	76.0	101.0	269.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8GUN5
+CC data_type:DAP-seq
+XX
+//
+AC MA1396_1
+XX
+ID  GATA6
+XX
+DE MA1396_1 MA1396_1_GATA6 ; From JASPAR
+PO	A	C	G	T
+01	45.0	159.0	37.0	176.0
+02	391.0	0.0	22.0	4.0
+03	0.0	0.0	417.0	0.0
+04	417.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	417.0
+06	0.0	417.0	0.0	0.0
+07	0.0	69.0	6.0	342.0
+08	345.0	0.0	72.0	0.0
+09	93.0	57.0	244.0	23.0
+10	298.0	50.0	30.0	39.0
+11	94.0	47.0	40.0	236.0
+12	91.0	162.0	53.0	111.0
+13	99.0	117.0	44.0	157.0
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SD38
+CC data_type:DAP-seq
+XX
+//
+AC MA1397_1
+XX
+ID  AT1G74840
+XX
+DE MA1397_1 MA1397_1_AT1G74840 ; From JASPAR
+PO	A	C	G	T
+01	300.0	8.0	14.0	278.0
+02	255.0	32.0	114.0	199.0
+03	46.0	92.0	2.0	460.0
+04	39.0	0.0	561.0	0.0
+05	0.0	0.0	600.0	0.0
+06	600.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	600.0
+08	578.0	6.0	5.0	11.0
+09	549.0	0.0	38.0	13.0
+10	168.0	60.0	235.0	137.0
+11	208.0	72.0	228.0	92.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1400_1
+XX
+ID  AT1G19000
+XX
+DE MA1400_1 MA1400_1_AT1G19000 ; From JASPAR
+PO	A	C	G	T
+01	272.0	22.0	73.0	232.0
+02	319.0	9.0	28.0	243.0
+03	282.0	27.0	136.0	154.0
+04	33.0	81.0	1.0	484.0
+05	29.0	0.0	570.0	0.0
+06	0.0	0.0	599.0	0.0
+07	599.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	599.0
+09	580.0	8.0	5.0	6.0
+10	554.0	0.0	33.0	12.0
+11	82.0	56.0	338.0	123.0
+12	172.0	61.0	319.0	47.0
+13	161.0	86.0	48.0	304.0
+14	169.0	71.0	86.0	273.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1401_1
+XX
+ID  RVE7
+XX
+DE MA1401_1 MA1401_1_RVE7 ; From JASPAR
+PO	A	C	G	T
+01	252.0	93.0	164.0	88.0
+02	421.0	9.0	16.0	151.0
+03	594.0	0.0	0.0	3.0
+04	597.0	0.0	0.0	0.0
+05	597.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	597.0
+07	597.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	597.0
+09	0.0	597.0	0.0	0.0
+10	22.0	46.0	3.0	526.0
+11	154.0	100.0	66.0	277.0
+12	297.0	102.0	108.0	90.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:B3H5A8
+CC data_type:DAP-seq
+XX
+//
+AC MA1402_1
+XX
+ID  BPC6
+XX
+DE MA1402_1 MA1402_1_BPC6 ; From JASPAR
+PO	A	C	G	T
+01	24.0	134.0	2.0	28.0
+02	18.0	19.0	0.0	151.0
+03	13.0	161.0	10.0	4.0
+04	15.0	7.0	5.0	161.0
+05	12.0	142.0	7.0	27.0
+06	6.0	2.0	5.0	175.0
+07	0.0	160.0	3.0	25.0
+08	2.0	6.0	1.0	179.0
+09	1.0	177.0	2.0	8.0
+10	0.0	1.0	0.0	187.0
+11	1.0	168.0	0.0	19.0
+12	2.0	0.0	0.0	186.0
+13	2.0	186.0	0.0	0.0
+14	0.0	1.0	0.0	187.0
+15	12.0	169.0	0.0	7.0
+16	4.0	3.0	0.0	181.0
+17	12.0	168.0	5.0	3.0
+18	8.0	6.0	0.0	174.0
+19	6.0	170.0	0.0	12.0
+20	3.0	2.0	2.0	181.0
+21	50.0	123.0	1.0	14.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:BBR/BPC
+CC pubmed_ids:15722463
+CC uniprot_ids:Q8L999
+CC data_type:DAP-seq
+XX
+//
+AC MA1403_1
+XX
+ID  BPC5
+XX
+DE MA1403_1 MA1403_1_BPC5 ; From JASPAR
+PO	A	C	G	T
+01	95.0	0.0	7.0	0.0
+02	3.0	0.0	99.0	0.0
+03	102.0	0.0	0.0	0.0
+04	2.0	0.0	98.0	2.0
+05	100.0	0.0	0.0	2.0
+06	1.0	0.0	99.0	2.0
+07	99.0	0.0	0.0	3.0
+08	0.0	1.0	100.0	1.0
+09	99.0	0.0	2.0	1.0
+10	1.0	1.0	100.0	0.0
+11	102.0	0.0	0.0	0.0
+12	0.0	0.0	102.0	0.0
+13	102.0	0.0	0.0	0.0
+14	4.0	0.0	97.0	1.0
+15	101.0	0.0	1.0	0.0
+16	2.0	0.0	100.0	0.0
+17	101.0	0.0	1.0	0.0
+18	1.0	1.0	100.0	0.0
+19	98.0	0.0	1.0	3.0
+20	1.0	1.0	99.0	1.0
+21	101.0	0.0	1.0	0.0
+22	0.0	1.0	101.0	0.0
+23	100.0	0.0	0.0	2.0
+24	1.0	1.0	99.0	1.0
+25	98.0	0.0	3.0	1.0
+26	1.0	1.0	99.0	1.0
+27	98.0	0.0	0.0	4.0
+28	0.0	4.0	98.0	0.0
+29	100.0	2.0	0.0	0.0
+30	5.0	3.0	91.0	3.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:BBR/BPC
+CC pubmed_ids:15722463
+CC uniprot_ids:F4JUI3
+CC data_type:DAP-seq
+XX
+//
+AC MA1404_1
+XX
+ID  BPC1
+XX
+DE MA1404_1 MA1404_1_BPC1 ; From JASPAR
+PO	A	C	G	T
+01	82.0	18.0	421.0	18.0
+02	483.0	4.0	29.0	23.0
+03	8.0	15.0	483.0	33.0
+04	501.0	0.0	18.0	20.0
+05	67.0	9.0	448.0	15.0
+06	500.0	0.0	39.0	0.0
+07	43.0	17.0	461.0	18.0
+08	478.0	3.0	44.0	14.0
+09	39.0	0.0	482.0	18.0
+10	520.0	6.0	2.0	11.0
+11	27.0	2.0	508.0	2.0
+12	518.0	11.0	3.0	7.0
+13	62.0	9.0	450.0	18.0
+14	460.0	0.0	56.0	23.0
+15	54.0	0.0	462.0	23.0
+16	485.0	0.0	54.0	0.0
+17	41.0	10.0	467.0	21.0
+18	508.0	0.0	9.0	22.0
+19	71.0	2.0	459.0	7.0
+20	478.0	12.0	35.0	14.0
+21	73.0	19.0	440.0	7.0
+22	450.0	15.0	39.0	35.0
+23	47.0	20.0	427.0	45.0
+24	436.0	22.0	43.0	38.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:BBR/BPC
+CC pubmed_ids:15722463
+CC uniprot_ids:Q9SKD0
+CC data_type:DAP-seq
+XX
+//
+AC MA0954_2
+XX
+ID  ATHB-7
+XX
+DE MA0954_2 MA0954_2_ATHB-7 ; From JASPAR
+PO	A	C	G	T
+01	92.0	58.0	68.0	382.0
+02	53.0	389.0	92.0	66.0
+03	473.0	62.0	11.0	54.0
+04	560.0	3.0	0.0	37.0
+05	0.0	1.0	1.0	598.0
+06	2.0	2.0	464.0	132.0
+07	600.0	0.0	0.0	0.0
+08	0.0	0.0	0.0	600.0
+09	0.0	0.0	2.0	598.0
+10	37.0	3.0	551.0	9.0
+11	324.0	46.0	181.0	49.0
+12	174.0	57.0	98.0	271.0
+13	128.0	91.0	93.0	288.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:P46897
+CC data_type:DAP-seq
+XX
+//
+AC MA1000_2
+XX
+ID  ERF105
+XX
+DE MA1000_2 MA1000_2_ERF105 ; From JASPAR
+PO	A	C	G	T
+01	144.0	57.0	278.0	107.0
+02	149.0	181.0	36.0	220.0
+03	168.0	44.0	257.0	117.0
+04	189.0	37.0	312.0	48.0
+05	50.0	307.0	0.0	229.0
+06	0.0	0.0	586.0	0.0
+07	21.0	0.0	565.0	0.0
+08	1.0	569.0	0.0	16.0
+09	0.0	0.0	586.0	0.0
+10	0.0	1.0	585.0	0.0
+11	21.0	544.0	0.0	21.0
+12	1.0	0.0	523.0	62.0
+13	78.0	109.0	382.0	17.0
+14	211.0	204.0	60.0	111.0
+15	123.0	27.0	330.0	106.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8VY90
+CC data_type:DAP-seq
+XX
+//
+AC MA0586_2
+XX
+ID  SPL14
+XX
+DE MA0586_2 MA0586_2_SPL14 ; From JASPAR
+PO	A	C	G	T
+01	125.0	7.0	74.0	377.0
+02	23.0	534.0	0.0	26.0
+03	0.0	583.0	0.0	0.0
+04	0.0	0.0	583.0	0.0
+05	0.0	0.0	0.0	583.0
+06	583.0	0.0	0.0	0.0
+07	0.0	581.0	0.0	2.0
+08	302.0	87.0	129.0	65.0
+09	239.0	105.0	113.0	126.0
+10	164.0	104.0	83.0	232.0
+11	148.0	86.0	104.0	245.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18302343
+CC uniprot_ids:Q8RY95
+CC data_type:DAP-seq
+XX
+//
+AC MA1026_2
+XX
+ID  ATHB-15
+XX
+DE MA1026_2 MA1026_2_ATHB-15 ; From JASPAR
+PO	A	C	G	T
+01	265.0	43.0	158.0	124.0
+02	363.0	31.0	84.0	112.0
+03	268.0	35.0	60.0	227.0
+04	212.0	63.0	131.0	184.0
+05	199.0	46.0	329.0	16.0
+06	13.0	97.0	0.0	480.0
+07	518.0	1.0	68.0	3.0
+08	590.0	0.0	0.0	0.0
+09	0.0	0.0	0.0	590.0
+10	27.0	82.0	462.0	19.0
+11	590.0	0.0	0.0	0.0
+12	0.0	0.0	0.0	590.0
+13	10.0	0.0	218.0	362.0
+14	494.0	1.0	87.0	8.0
+15	97.0	248.0	63.0	182.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9ZU11
+CC data_type:DAP-seq
+XX
+//
+AC MA0548_2
+XX
+ID  AGL15
+XX
+DE MA0548_2 MA0548_2_AGL15 ; From JASPAR
+PO	A	C	G	T
+01	133.0	218.0	137.0	111.0
+02	48.0	33.0	5.0	513.0
+03	16.0	5.0	3.0	575.0
+04	84.0	8.0	21.0	486.0
+05	0.0	596.0	0.0	3.0
+06	0.0	435.0	0.0	164.0
+07	200.0	80.0	50.0	269.0
+08	88.0	85.0	53.0	373.0
+09	162.0	0.0	4.0	433.0
+10	7.0	8.0	0.0	584.0
+11	89.0	45.0	31.0	434.0
+12	138.0	42.0	168.0	251.0
+13	125.0	1.0	473.0	0.0
+14	0.0	0.0	585.0	14.0
+15	325.0	50.0	28.0	196.0
+16	543.0	13.0	5.0	38.0
+17	475.0	7.0	29.0	88.0
+18	113.0	175.0	185.0	126.0
+19	157.0	77.0	50.0	315.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:12743119
+CC uniprot_ids:Q38847
+CC data_type:DAP-seq
+XX
+//
+AC MA0550_2
+XX
+ID  BZR1
+XX
+DE MA0550_2 MA0550_2_BZR1 ; From JASPAR
+PO	A	C	G	T
+01	95.0	260.0	131.0	102.0
+02	4.0	519.0	4.0	61.0
+03	351.0	34.0	203.0	0.0
+04	0.0	575.0	0.0	13.0
+05	573.0	1.0	4.0	10.0
+06	0.0	588.0	0.0	0.0
+07	0.0	0.0	588.0	0.0
+08	5.0	0.0	0.0	583.0
+09	0.0	0.0	588.0	0.0
+10	11.0	277.0	39.0	261.0
+11	213.0	47.0	280.0	48.0
+12	198.0	148.0	91.0	151.0
+13	165.0	169.0	114.0	140.0
+14	106.0	152.0	78.0	252.0
+15	111.0	171.0	133.0	173.0
+16	166.0	144.0	73.0	205.0
+17	141.0	158.0	98.0	191.0
+18	150.0	131.0	121.0	186.0
+19	164.0	152.0	85.0	187.0
+20	96.0	136.0	126.0	230.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15681342
+CC uniprot_ids:Q8S307
+CC data_type:ChIP-chip
+XX
+//
+AC MA1059_2
+XX
+ID  SPL5
+XX
+DE MA1059_2 MA1059_2_SPL5 ; From JASPAR
+PO	A	C	G	T
+01	244.0	107.0	109.0	138.0
+02	273.0	73.0	123.0	129.0
+03	102.0	150.0	89.0	257.0
+04	25.0	153.0	36.0	384.0
+05	0.0	0.0	598.0	0.0
+06	0.0	0.0	0.0	598.0
+07	598.0	0.0	0.0	0.0
+08	0.0	598.0	0.0	0.0
+09	0.0	0.0	598.0	0.0
+10	0.0	0.0	598.0	0.0
+11	546.0	8.0	1.0	43.0
+12	170.0	259.0	19.0	150.0
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q9S758
+CC data_type:DAP-seq
+XX
+//
+AC MA1405_1
+XX
+ID  SIZF2
+XX
+DE MA1405_1 MA1405_1_SIZF2 ; From JASPAR
+PO	A	C	G	T
+01	16191.0	20703.0	39343.0	23762.0
+02	88380.0	627.0	8331.0	2662.0
+03	264.0	78711.0	20496.0	530.0
+04	3329.0	918.0	1251.0	94502.0
+05	7440.0	2953.0	88717.0	889.0
+06	63395.0	4073.0	4720.0	27813.0
+07	889.0	88717.0	2953.0	7440.0
+08	94502.0	1251.0	918.0	3329.0
+09	530.0	20496.0	78711.0	264.0
+10	2662.0	8331.0	627.0	88380.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:9421523
+CC uniprot_ids:I3NN78
+CC data_type:PBM
+XX
+//
+AC MA1406_1
+XX
+ID  ATHB-4
+XX
+DE MA1406_1 MA1406_1_ATHB-4 ; From JASPAR
+PO	A	C	G	T
+01	2392.0	40381.0	1915.0	55312.0
+02	82255.0	3298.0	618.0	13829.0
+03	98348.0	1291.0	93.0	268.0
+04	297.0	333.0	76.0	99294.0
+05	3466.0	42828.0	40460.0	13246.0
+06	99128.0	66.0	333.0	473.0
+07	998.0	228.0	422.0	98352.0
+08	5565.0	764.0	2806.0	90866.0
+09	18045.0	3599.0	68409.0	9947.0
+10	12542.0	33825.0	35017.0	18616.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:P92953
+CC data_type:PBM
+XX
+//
+AC MA1408_1
+XX
+ID  FaEOBII
+XX
+DE MA1408_1 MA1408_1_FaEOBII ; From JASPAR
+PO	A	C	G	T
+01	45035.0	6949.0	26996.0	21020.0
+02	21068.0	992.0	73515.0	4425.0
+03	1124.0	422.0	9987.0	88466.0
+04	2313.0	1649.0	767.0	95271.0
+05	77467.0	6291.0	2500.0	13742.0
+06	1296.0	865.0	97032.0	807.0
+07	1374.0	865.0	91609.0	6153.0
+08	1336.0	21093.0	480.0	77091.0
+09	66987.0	9932.0	8318.0	14763.0
+10	28881.0	20021.0	24969.0	26129.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:
+CC data_type:PBM
+XX
+//
+AC MA1409_1
+XX
+ID  OsRR22
+XX
+DE MA1409_1 MA1409_1_OsRR22 ; From JASPAR
+PO	A	C	G	T
+01	51257.0	11381.0	11771.0	25591.0
+02	86870.0	3042.0	6041.0	4047.0
+03	486.0	522.0	97670.0	1322.0
+04	97906.0	287.0	778.0	1028.0
+05	495.0	484.0	510.0	98511.0
+06	72395.0	7724.0	464.0	19416.0
+07	444.0	91648.0	611.0	7297.0
+08	1690.0	2838.0	92633.0	2838.0
+09	13926.0	33145.0	46756.0	6173.0
+10	20468.0	11356.0	5511.0	62666.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_ARR-B
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:12610214
+CC uniprot_ids:Q5SML5
+CC data_type:PBM
+XX
+//
+AC MA1410_1
+XX
+ID  StBRC1
+XX
+DE MA1410_1 MA1410_1_StBRC1 ; From JASPAR
+PO	A	C	G	T
+01	11498.0	23683.0	36598.0	28222.0
+02	2437.0	2082.0	93015.0	2466.0
+03	419.0	447.0	98500.0	634.0
+04	4402.0	14768.0	75089.0	5741.0
+05	4602.0	59710.0	31742.0	3946.0
+06	925.0	97660.0	962.0	453.0
+07	6571.0	91694.0	1031.0	705.0
+08	30634.0	52830.0	11378.0	5158.0
+09	16590.0	52087.0	9765.0	21559.0
+10	14072.0	48745.0	17972.0	19211.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21241251
+CC uniprot_ids:
+CC data_type:PBM
+XX
+//
+AC MA1411_1
+XX
+ID  TSAR1
+XX
+DE MA1411_1 MA1411_1_TSAR1 ; From JASPAR
+PO	A	C	G	T
+01	31261.0	26502.0	19831.0	22405.0
+02	3300.0	5250.0	91222.0	228.0
+03	12545.0	87319.0	51.0	84.0
+04	93404.0	16.0	5527.0	1052.0
+05	284.0	98016.0	142.0	1558.0
+06	1558.0	142.0	98016.0	284.0
+07	1052.0	5527.0	16.0	93404.0
+08	84.0	51.0	87319.0	12545.0
+09	228.0	91222.0	5250.0	3300.0
+10	32821.0	14091.0	33427.0	19661.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15448264
+CC uniprot_ids:
+CC data_type:PBM
+XX
+//
+AC MA1412_1
+XX
+ID  TSAR2
+XX
+DE MA1412_1 MA1412_1_TSAR2 ; From JASPAR
+PO	A	C	G	T
+01	17675.0	28815.0	22859.0	30652.0
+02	2687.0	2274.0	94487.0	552.0
+03	1998.0	97506.0	139.0	358.0
+04	72496.0	128.0	26792.0	585.0
+05	392.0	95417.0	60.0	4131.0
+06	4131.0	60.0	95417.0	392.0
+07	585.0	26792.0	128.0	72496.0
+08	358.0	139.0	97506.0	1998.0
+09	552.0	94487.0	2274.0	2687.0
+10	26626.0	19532.0	32839.0	21003.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15448264
+CC uniprot_ids:
+CC data_type:PBM
+XX
+//
+AC MA1414_1
+XX
+ID  E2FA
+XX
+DE MA1414_1 MA1414_1_E2FA ; From JASPAR
+PO	A	C	G	T
+01	394.0	203.0	184.0	670.0
+02	355.0	339.0	579.0	178.0
+03	23.0	62.0	1355.0	11.0
+04	21.0	1375.0	22.0	33.0
+05	35.0	6.0	1391.0	19.0
+06	7.0	1415.0	18.0	11.0
+07	1.0	1376.0	1.0	73.0
+08	1368.0	10.0	21.0	52.0
+09	574.0	345.0	121.0	411.0
+10	535.0	293.0	334.0	289.0
+XX
+CC tax_group:plants
+CC tf_family:E2F
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:27203113
+CC uniprot_ids:Q9FNY0
+CC data_type:ChIP-seq
+XX
+//
+AC MA1415_1
+XX
+ID  REF6
+XX
+DE MA1415_1 MA1415_1_REF6 ; From JASPAR
+PO	A	C	G	T
+01	1983.0	209.0	1144.0	351.0
+02	2634.0	137.0	577.0	339.0
+03	3458.0	27.0	24.0	178.0
+04	3511.0	34.0	118.0	24.0
+05	1.0	3661.0	1.0	24.0
+06	3622.0	25.0	30.0	10.0
+07	6.0	21.0	3625.0	35.0
+08	3533.0	21.0	105.0	28.0
+09	45.0	10.0	3581.0	51.0
+10	752.0	1063.0	884.0	988.0
+11	2249.0	473.0	441.0	524.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:27111034
+CC uniprot_ids:Q9STM3
+CC data_type:ChIP-seq
+XX
+//
+AC MA1085_2
+XX
+ID  WRKY40
+XX
+DE MA1085_2 MA1085_2_WRKY40 ; From JASPAR
+PO	A	C	G	T
+01	89.0	49.0	34.0	62.0
+02	107.0	34.0	38.0	55.0
+03	234.0	0.0	0.0	0.0
+04	0.0	0.0	234.0	0.0
+05	0.0	0.0	0.0	234.0
+06	0.0	234.0	0.0	0.0
+07	230.0	0.0	0.0	4.0
+08	232.0	0.0	0.0	2.0
+09	83.0	54.0	46.0	51.0
+10	76.0	48.0	50.0	60.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:27203113
+CC uniprot_ids:Q9SAH7
+CC data_type:ChIP-seq
+XX
+//
+AC MA1416_1
+XX
+ID  RAMOSA1
+XX
+DE MA1416_1 MA1416_1_RAMOSA1 ; From JASPAR
+PO	A	C	G	T
+01	10200.0	3932.0	56665.0	4047.0
+02	56235.0	3491.0	12116.0	3002.0
+03	7487.0	2714.0	61021.0	3622.0
+04	61422.0	2682.0	8810.0	1930.0
+05	1100.0	1543.0	70293.0	1908.0
+06	74267.0	348.0	83.0	146.0
+07	9.0	99.0	74518.0	218.0
+08	74320.0	279.0	80.0	165.0
+09	9.0	119.0	74498.0	218.0
+10	74515.0	168.0	70.0	91.0
+11	35.0	115.0	74518.0	176.0
+12	62368.0	2040.0	8936.0	1500.0
+13	7816.0	2212.0	61788.0	3028.0
+14	56980.0	2591.0	12358.0	2915.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16041362
+CC uniprot_ids:
+CC data_type:ChIP-seq
+XX
+//
+AC MA1417_1
+XX
+ID  O2
+XX
+DE MA1417_1 MA1417_1_O2 ; From JASPAR
+PO	A	C	G	T
+01	306.0	374.0	1046.0	312.0
+02	129.0	391.0	151.0	1367.0
+03	29.0	9.0	1895.0	105.0
+04	56.0	1959.0	12.0	11.0
+05	3.0	2016.0	17.0	2.0
+06	2021.0	3.0	12.0	2.0
+07	18.0	1485.0	7.0	528.0
+08	354.0	103.0	1571.0	10.0
+09	4.0	13.0	2.0	2019.0
+10	19.0	1991.0	28.0	0.0
+11	1961.0	11.0	62.0	4.0
+12	37.0	282.0	412.0	1307.0
+13	124.0	1672.0	97.0	145.0
+XX
+CC tax_group:plants
+CC tf_family:Group C
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:25215497
+CC uniprot_ids:P12959
+CC data_type:ChIP-seq
+XX
+//
+AC MA1424_1
+XX
+ID  ERF019
+XX
+DE MA1424_1 MA1424_1_ERF019 ; From JASPAR
+PO	A	C	G	T
+01	192.0	468.0	120.0	218.0
+02	275.0	97.0	328.0	298.0
+03	63.0	528.0	144.0	263.0
+04	30.0	949.0	3.0	16.0
+05	902.0	0.0	97.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	0.0	0.0	1000.0	0.0
+09	796.0	127.0	5.0	70.0
+10	0.0	1000.0	0.0	0.0
+11	741.0	90.0	132.0	35.0
+12	320.0	359.0	90.0	229.0
+13	293.0	288.0	152.0	265.0
+14	285.0	172.0	293.0	248.0
+15	275.0	330.0	191.0	203.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:31133749
+CC uniprot_ids:O80542
+CC data_type:DAP-seq
+XX
+//
+AC MA1425_1
+XX
+ID  HYH
+XX
+DE MA1425_1 MA1425_1_HYH ; From JASPAR
+PO	A	C	G	T
+01	201.0	201.0	396.0	201.0
+02	372.0	152.0	321.0	152.0
+03	283.0	72.0	72.0	571.0
+04	23.0	350.0	523.0	102.0
+05	999.0	0.0	0.0	0.0
+06	0.0	999.0	0.0	0.0
+07	0.0	0.0	999.0	0.0
+08	0.0	0.0	0.0	999.0
+09	48.0	154.0	747.0	48.0
+10	203.0	97.0	392.0	306.0
+11	177.0	466.0	177.0	177.0
+12	321.0	226.0	226.0	226.0
+XX
+CC tax_group:plants
+CC tf_family:Group H
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:12023303
+CC uniprot_ids:Q8W191
+CC data_type:PBM
+XX
+//
+AC MA1426_1
+XX
+ID  MYB124
+XX
+DE MA1426_1 MA1426_1_MYB124 ; From JASPAR
+PO	A	C	G	T
+01	324.0	230.0	221.0	223.0
+02	200.0	284.0	183.0	330.0
+03	546.0	266.0	178.0	8.0
+04	40.0	799.0	124.0	36.0
+05	36.0	0.0	963.0	0.0
+06	0.0	999.0	0.0	0.0
+07	1.0	0.0	680.0	318.0
+08	61.0	718.0	119.0	100.0
+09	80.0	610.0	159.0	149.0
+10	271.0	222.0	197.0	309.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:20675570
+CC uniprot_ids:Q94FL6
+CC data_type:PBM
+XX
+//
+AC MA1428_1
+XX
+ID  TCP8
+XX
+DE MA1428_1 MA1428_1_TCP8 ; From JASPAR
+PO	A	C	G	T
+01	172.0	240.0	373.0	213.0
+02	41.0	15.0	801.0	140.0
+03	143.0	29.0	725.0	101.0
+04	150.0	255.0	433.0	161.0
+05	160.0	652.0	63.0	122.0
+06	32.0	963.0	2.0	0.0
+07	20.0	902.0	0.0	76.0
+08	864.0	1.0	113.0	20.0
+09	32.0	725.0	97.0	145.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:25702611
+CC uniprot_ids:Q9C518
+CC data_type:PBM
+XX
+//
+AC MA1430_1
+XX
+ID  TB1
+XX
+DE MA1430_1 MA1430_1_TB1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	999.0	0.0
+02	0.0	0.0	999.0	0.0
+03	84.0	308.0	518.0	88.0
+04	0.0	998.0	0.0	0.0
+05	0.0	999.0	0.0	0.0
+06	41.0	958.0	0.0	0.0
+07	37.0	953.0	0.0	7.0
+08	153.0	839.0	4.0	3.0
+09	143.0	648.0	13.0	195.0
+10	385.0	405.0	119.0	89.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12000681
+CC uniprot_ids:Q8LN68
+CC data_type:PBM
+XX
+//
+AC MA0570_2
+XX
+ID  ABF1
+XX
+DE MA0570_2 MA0570_2_ABF1 ; From JASPAR
+PO	A	C	G	T
+01	593.0	284.0	60.0	204.0
+02	83.0	793.0	124.0	141.0
+03	1123.0	4.0	11.0	3.0
+04	10.0	1099.0	15.0	17.0
+05	16.0	9.0	1107.0	9.0
+06	4.0	8.0	1.0	1128.0
+07	9.0	3.0	1123.0	6.0
+08	39.0	11.0	707.0	384.0
+09	81.0	999.0	28.0	33.0
+10	909.0	36.0	117.0	79.0
+11	348.0	195.0	234.0	364.0
+12	358.0	213.0	225.0	345.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:10636868
+CC uniprot_ids:Q9M7Q5
+CC data_type:ChIP-seq
+XX
+//
+AC MA1706_1
+XX
+ID  AT1G14600
+XX
+DE MA1706_1 MA1706_1_AT1G14600 ; From JASPAR
+PO	A	C	G	T
+01	301.191	195.956	306.897	195.956
+02	358.547	48.8426	48.8426	543.768
+03	806.293	0.237698	94.0579	99.4111
+04	94.0579	596.188	0.237698	309.517
+05	905.892	0.237698	0.237698	93.6328
+06	0.237698	0.237698	0.237698	999.287
+07	200.943	0.237698	93.6328	705.187
+08	0.237698	798.582	0.237698	200.943
+09	147.677	260.756	54.2817	537.285
+10	299.771	201.395	201.395	297.439
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:24464295
+CC uniprot_ids:Q700D9
+CC data_type:PBM
+XX
+//
+AC MA1659_1
+XX
+ID  ABF4
+XX
+DE MA1659_1 MA1659_1_ABF4 ; From JASPAR
+PO	A	C	G	T
+01	1452.0	1325.0	1105.0	2164.0
+02	970.0	689.0	2625.0	1762.0
+03	660.0	5169.0	62.0	155.0
+04	135.0	5763.0	86.0	62.0
+05	5906.0	20.0	47.0	73.0
+06	175.0	5666.0	44.0	161.0
+07	210.0	166.0	5470.0	200.0
+08	121.0	58.0	52.0	5815.0
+09	610.0	3358.0	1825.0	253.0
+10	2322.0	583.0	1360.0	1781.0
+11	1460.0	1865.0	928.0	1793.0
+12	1630.0	1901.0	849.0	1666.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:25220462
+CC uniprot_ids:Q9M7Q2
+CC data_type:DAP-seq
+XX
+//
+AC MA1660_1
+XX
+ID  NAC013
+XX
+DE MA1660_1 MA1660_1_NAC013 ; From JASPAR
+PO	A	C	G	T
+01	398.0	261.0	175.0	362.0
+02	303.0	217.0	306.0	370.0
+03	223.0	130.0	229.0	614.0
+04	101.0	22.0	24.0	1049.0
+05	195.0	29.0	128.0	844.0
+06	631.0	144.0	182.0	239.0
+07	16.0	1172.0	0.0	8.0
+08	2.0	9.0	81.0	1104.0
+09	1.0	2.0	0.0	1193.0
+10	41.0	131.0	964.0	60.0
+11	134.0	180.0	101.0	781.0
+12	164.0	164.0	224.0	644.0
+13	207.0	558.0	198.0	233.0
+14	240.0	293.0	138.0	525.0
+15	295.0	529.0	197.0	175.0
+16	23.0	1125.0	28.0	20.0
+17	1195.0	0.0	0.0	1.0
+18	1094.0	98.0	1.0	3.0
+19	9.0	0.0	1181.0	6.0
+20	250.0	148.0	120.0	678.0
+21	875.0	108.0	15.0	198.0
+22	1016.0	19.0	16.0	145.0
+23	380.0	309.0	164.0	343.0
+24	338.0	352.0	177.0	329.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24045019
+CC uniprot_ids:F4IED2
+CC data_type:DAP-seq
+XX
+//
+AC MA1661_1
+XX
+ID  GTL1
+XX
+DE MA1661_1 MA1661_1_GTL1 ; From JASPAR
+PO	A	C	G	T
+01	492.0	95.0	203.0	283.0
+02	314.0	253.0	127.0	379.0
+03	24.0	7.0	1023.0	19.0
+04	42.0	5.0	1020.0	6.0
+05	48.0	3.0	93.0	929.0
+06	300.0	17.0	74.0	682.0
+07	1038.0	5.0	12.0	18.0
+08	1033.0	13.0	10.0	17.0
+09	996.0	11.0	13.0	53.0
+10	954.0	18.0	23.0	78.0
+11	409.0	126.0	138.0	400.0
+12	356.0	124.0	193.0	400.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:21169508
+CC uniprot_ids:A0A1P8ATX4
+CC data_type:DAP-seq
+XX
+//
+AC MA1662_1
+XX
+ID  AT3G10030
+XX
+DE MA1662_1 MA1662_1_AT3G10030 ; From JASPAR
+PO	A	C	G	T
+01	335.0	254.0	122.0	299.0
+02	296.0	117.0	316.0	281.0
+03	66.0	60.0	55.0	829.0
+04	30.0	12.0	4.0	964.0
+05	965.0	12.0	22.0	11.0
+06	972.0	11.0	16.0	11.0
+07	22.0	958.0	8.0	22.0
+08	765.0	20.0	199.0	26.0
+09	16.0	8.0	962.0	24.0
+10	873.0	53.0	9.0	75.0
+11	378.0	182.0	234.0	216.0
+12	300.0	188.0	225.0	297.0
+13	274.0	212.0	124.0	400.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:31133749
+CC uniprot_ids:Q94JR1
+CC data_type:DAP-seq
+XX
+//
+AC MA1669_1
+XX
+ID  DREB1B
+XX
+DE MA1669_1 MA1669_1_DREB1B ; From JASPAR
+PO	A	C	G	T
+01	718.0	486.0	667.0	865.0
+02	527.0	726.0	396.0	1087.0
+03	417.0	789.0	445.0	1085.0
+04	756.0	33.0	1879.0	68.0
+05	15.0	2617.0	21.0	83.0
+06	13.0	2711.0	4.0	8.0
+07	8.0	14.0	2708.0	6.0
+08	2607.0	44.0	34.0	51.0
+09	10.0	2697.0	12.0	17.0
+10	2232.0	108.0	235.0	161.0
+11	293.0	194.0	102.0	2147.0
+12	742.0	879.0	576.0	539.0
+13	945.0	389.0	746.0	656.0
+14	817.0	570.0	512.0	837.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:19761621
+CC uniprot_ids:P93835
+CC data_type:DAP-seq
+XX
+//
+AC MA1670_1
+XX
+ID  DREB1C
+XX
+DE MA1670_1 MA1670_1_DREB1C ; From JASPAR
+PO	A	C	G	T
+01	2439.0	2044.0	1220.0	2749.0
+02	2252.0	1566.0	1900.0	2734.0
+03	1988.0	1872.0	1172.0	3420.0
+04	1562.0	1719.0	1265.0	3906.0
+05	2243.0	45.0	6059.0	105.0
+06	59.0	7517.0	35.0	841.0
+07	43.0	8357.0	15.0	37.0
+08	43.0	38.0	8333.0	38.0
+09	8318.0	50.0	48.0	36.0
+10	28.0	8363.0	26.0	35.0
+11	6267.0	594.0	647.0	944.0
+12	1931.0	855.0	561.0	5105.0
+13	2883.0	1880.0	1687.0	2002.0
+14	2984.0	1292.0	1942.0	2234.0
+15	2781.0	1613.0	1517.0	2541.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9SYS6
+CC data_type:DAP-seq
+XX
+//
+AC MA1671_1
+XX
+ID  ERF118
+XX
+DE MA1671_1 MA1671_1_ERF118 ; From JASPAR
+PO	A	C	G	T
+01	703.0	1819.0	234.0	643.0
+02	977.0	385.0	1143.0	894.0
+03	254.0	2309.0	354.0	482.0
+04	30.0	3343.0	0.0	26.0
+05	195.0	8.0	3186.0	10.0
+06	0.0	3396.0	2.0	1.0
+07	19.0	3370.0	3.0	7.0
+08	170.0	9.0	3190.0	30.0
+09	2.0	3338.0	11.0	48.0
+10	593.0	1903.0	286.0	617.0
+11	931.0	292.0	1537.0	639.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:25220462
+CC uniprot_ids:Q9CA27
+CC data_type:DAP-seq
+XX
+//
+AC MA1672_1
+XX
+ID  GBF2
+XX
+DE MA1672_1 MA1672_1_GBF2 ; From JASPAR
+PO	A	C	G	T
+01	2246.0	1574.0	2262.0	1840.0
+02	2324.0	2084.0	679.0	2835.0
+03	560.0	2988.0	3420.0	954.0
+04	7479.0	101.0	145.0	197.0
+05	223.0	7122.0	221.0	356.0
+06	319.0	107.0	7275.0	221.0
+07	227.0	127.0	77.0	7491.0
+08	174.0	83.0	7553.0	112.0
+09	333.0	153.0	6028.0	1408.0
+10	1027.0	6254.0	282.0	359.0
+11	5558.0	596.0	891.0	877.0
+12	2457.0	1420.0	1653.0	2392.0
+13	2559.0	1516.0	1488.0	2359.0
+XX
+CC tax_group:plants
+CC tf_family:Group G
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:25215497
+CC uniprot_ids:P42775
+CC data_type:PBM
+XX
+//
+AC MA1673_1
+XX
+ID  LBD18
+XX
+DE MA1673_1 MA1673_1_LBD18 ; From JASPAR
+PO	A	C	G	T
+01	1364.0	1402.0	922.0	2177.0
+02	1382.0	2201.0	833.0	1449.0
+03	501.0	245.0	4833.0	286.0
+04	122.0	5323.0	290.0	130.0
+05	228.0	5168.0	316.0	153.0
+06	128.0	40.0	5531.0	166.0
+07	105.0	171.0	5338.0	251.0
+08	5373.0	93.0	159.0	240.0
+09	3997.0	191.0	1009.0	668.0
+10	4330.0	472.0	384.0	679.0
+11	2258.0	1201.0	671.0	1735.0
+12	1519.0	1189.0	1247.0	1910.0
+XX
+CC tax_group:plants
+CC tf_family:LBD
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:29681137
+CC uniprot_ids:O22131
+CC data_type:DAP-seq
+XX
+//
+AC MA1675_1
+XX
+ID  NAC029
+XX
+DE MA1675_1 MA1675_1_NAC029 ; From JASPAR
+PO	A	C	G	T
+01	116.0	93.0	78.0	159.0
+02	235.0	50.0	54.0	107.0
+03	41.0	211.0	81.0	113.0
+04	444.0	1.0	0.0	1.0
+05	11.0	429.0	4.0	2.0
+06	6.0	4.0	428.0	8.0
+07	22.0	294.0	42.0	88.0
+08	421.0	11.0	5.0	9.0
+09	422.0	2.0	2.0	20.0
+10	7.0	388.0	22.0	29.0
+11	30.0	66.0	16.0	334.0
+12	103.0	75.0	93.0	175.0
+13	148.0	106.0	74.0	118.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24477691
+CC uniprot_ids:O49255
+CC data_type:DAP-seq
+XX
+//
+AC MA1677_1
+XX
+ID  NAC078
+XX
+DE MA1677_1 MA1677_1_NAC078 ; From JASPAR
+PO	A	C	G	T
+01	1698.0	1538.0	929.0	1671.0
+02	1965.0	1228.0	1361.0	1282.0
+03	9.0	5734.0	9.0	84.0
+04	5690.0	18.0	58.0	70.0
+05	5496.0	255.0	22.0	63.0
+06	1.0	9.0	5745.0	81.0
+07	4732.0	228.0	142.0	734.0
+08	5341.0	98.0	35.0	362.0
+09	5581.0	49.0	57.0	149.0
+10	1103.0	2610.0	757.0	1366.0
+11	1772.0	1650.0	1053.0	1361.0
+12	1780.0	951.0	1146.0	1959.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q84K00
+CC data_type:DAP-seq
+XX
+//
+AC MA1679_1
+XX
+ID  RAP2-1
+XX
+DE MA1679_1 MA1679_1_RAP2-1 ; From JASPAR
+PO	A	C	G	T
+01	216.0	345.0	123.0	215.0
+02	266.0	114.0	272.0	247.0
+03	98.0	389.0	186.0	226.0
+04	46.0	810.0	17.0	26.0
+05	810.0	2.0	78.0	9.0
+06	4.0	890.0	3.0	2.0
+07	5.0	890.0	0.0	4.0
+08	5.0	2.0	890.0	2.0
+09	738.0	106.0	10.0	45.0
+10	2.0	892.0	1.0	4.0
+11	739.0	67.0	44.0	49.0
+12	229.0	237.0	71.0	362.0
+13	214.0	221.0	121.0	343.0
+14	254.0	137.0	239.0	269.0
+15	236.0	265.0	154.0	244.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:20230648
+CC uniprot_ids:Q8LC30
+CC data_type:DAP-seq
+XX
+//
+AC MA1681_1
+XX
+ID  SRM1
+XX
+DE MA1681_1 MA1681_1_SRM1 ; From JASPAR
+PO	A	C	G	T
+01	1356.0	254.0	290.0	1250.0
+02	1153.0	375.0	709.0	913.0
+03	1274.0	358.0	443.0	1075.0
+04	2050.0	135.0	631.0	334.0
+05	11.0	4.0	3125.0	10.0
+06	3062.0	44.0	19.0	25.0
+07	20.0	10.0	13.0	3107.0
+08	3017.0	21.0	25.0	87.0
+09	3005.0	27.0	41.0	77.0
+10	90.0	128.0	2774.0	158.0
+11	913.0	246.0	1692.0	299.0
+12	743.0	264.0	234.0	1909.0
+13	958.0	357.0	390.0	1445.0
+14	1245.0	392.0	543.0	970.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FNN6
+CC data_type:DAP-seq
+XX
+//
+AC MA1682_1
+XX
+ID  TCX3
+XX
+DE MA1682_1 MA1682_1_TCX3 ; From JASPAR
+PO	A	C	G	T
+01	314.0	154.0	90.0	413.0
+02	457.0	127.0	91.0	296.0
+03	701.0	48.0	63.0	159.0
+04	751.0	37.0	46.0	137.0
+05	782.0	10.0	36.0	143.0
+06	22.0	6.0	11.0	932.0
+07	24.0	1.0	2.0	944.0
+08	0.0	971.0	0.0	0.0
+09	940.0	2.0	11.0	18.0
+10	943.0	0.0	3.0	25.0
+11	955.0	2.0	3.0	11.0
+12	182.0	60.0	16.0	713.0
+13	316.0	97.0	62.0	496.0
+14	244.0	154.0	60.0	513.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:CPP
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8L548
+CC data_type:DAP-seq
+XX
+//
+AC MA2005_1
+XX
+ID  NAC016
+XX
+DE MA2005_1 MA2005_1_NAC016 ; From JASPAR
+PO	A	C	G	T
+01	853.0	869.0	617.0	926.0
+02	996.0	733.0	819.0	717.0
+03	17.0	3090.0	33.0	125.0
+04	3073.0	61.0	63.0	68.0
+05	2869.0	279.0	33.0	84.0
+06	24.0	21.0	3176.0	44.0
+07	91.0	2392.0	72.0	710.0
+08	2866.0	140.0	72.0	187.0
+09	2960.0	68.0	48.0	189.0
+10	777.0	800.0	707.0	981.0
+11	932.0	779.0	611.0	943.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:A4FVP6
+CC data_type:
+XX
+//
+AC MA2006_1
+XX
+ID  NAC020
+XX
+DE MA2006_1 MA2006_1_NAC020 ; From JASPAR
+PO	A	C	G	T
+01	263.0	143.0	214.0	302.0
+02	378.0	151.0	139.0	254.0
+03	149.0	77.0	550.0	146.0
+04	161.0	84.0	541.0	136.0
+05	45.0	7.0	2.0	868.0
+06	147.0	11.0	78.0	686.0
+07	198.0	62.0	463.0	199.0
+08	27.0	885.0	1.0	9.0
+09	2.0	2.0	448.0	470.0
+10	1.0	1.0	1.0	919.0
+11	70.0	66.0	769.0	17.0
+12	105.0	94.0	49.0	674.0
+13	228.0	112.0	384.0	198.0
+14	255.0	210.0	201.0	256.0
+15	208.0	379.0	147.0	188.0
+16	578.0	61.0	145.0	138.0
+17	35.0	734.0	100.0	53.0
+18	921.0	0.0	1.0	0.0
+19	849.0	69.0	3.0	1.0
+20	2.0	1.0	910.0	9.0
+21	200.0	133.0	89.0	500.0
+22	585.0	105.0	14.0	218.0
+23	767.0	6.0	13.0	136.0
+24	207.0	312.0	143.0	260.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q67Z40
+CC data_type:
+XX
+//
+AC MA1732_1
+XX
+ID  E2FD
+XX
+DE MA1732_1 MA1732_1_E2FD ; From JASPAR
+PO	A	C	G	T
+01	207.65	9.107	245.902	537.341
+02	103.825	1.821	12.75	881.603
+03	47.359	3.643	1.821	947.177
+04	36.43	0.0	7.286	956.284
+05	14.572	1.821	5.464	978.142
+06	5.464	3.643	989.071	1.821
+07	0.0	0.0	1000.0	0.0
+08	1.821	998.179	0.0	0.0
+09	1.821	0.0	996.357	1.821
+10	1.821	14.572	983.607	0.0
+11	0.0	10.929	987.25	1.821
+12	992.714	0.0	7.286	0.0
+13	1000.0	0.0	0.0	0.0
+14	958.106	12.75	10.929	18.215
+15	774.135	51.002	21.858	153.005
+XX
+CC tax_group:plants
+CC tf_family:E2F
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:16126853
+CC uniprot_ids:Q9LFQ9
+CC data_type:DAP-seq
+XX
+//
+AC MA2007_1
+XX
+ID  MYB107
+XX
+DE MA2007_1 MA2007_1_MYB107 ; From JASPAR
+PO	A	C	G	T
+01	116.0	151.0	97.0	216.0
+02	89.0	192.0	43.0	256.0
+03	57.0	441.0	25.0	57.0
+04	564.0	1.0	7.0	8.0
+05	32.0	532.0	3.0	13.0
+06	7.0	563.0	3.0	7.0
+07	473.0	12.0	3.0	92.0
+08	571.0	7.0	1.0	1.0
+09	454.0	106.0	8.0	12.0
+10	23.0	525.0	5.0	27.0
+11	227.0	133.0	42.0	178.0
+12	178.0	155.0	60.0	187.0
+13	224.0	115.0	85.0	156.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:9628022
+CC uniprot_ids:Q9LDI5
+CC data_type:DAP-seq
+XX
+//
+AC MA2008_1
+XX
+ID  MYB99
+XX
+DE MA2008_1 MA2008_1_MYB99 ; From JASPAR
+PO	A	C	G	T
+01	154.0	332.0	106.0	431.0
+02	168.0	312.0	90.0	453.0
+03	0.0	1023.0	0.0	0.0
+04	987.0	1.0	26.0	9.0
+05	0.0	1004.0	11.0	8.0
+06	0.0	1022.0	1.0	0.0
+07	1.0	0.0	12.0	1010.0
+08	1020.0	3.0	0.0	0.0
+09	535.0	372.0	32.0	84.0
+10	140.0	471.0	35.0	377.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SNW9
+CC data_type:DAP-seq
+XX
+//
+AC MA2009_1
+XX
+ID  NAC010
+XX
+DE MA2009_1 MA2009_1_NAC010 ; From JASPAR
+PO	A	C	G	T
+01	225.0	105.0	309.0	171.0
+02	189.0	29.0	27.0	565.0
+03	523.0	7.0	83.0	197.0
+04	495.0	67.0	122.0	126.0
+05	8.0	796.0	0.0	6.0
+06	4.0	1.0	79.0	726.0
+07	1.0	1.0	1.0	807.0
+08	71.0	96.0	626.0	17.0
+09	112.0	67.0	27.0	604.0
+10	191.0	125.0	290.0	204.0
+11	209.0	207.0	205.0	189.0
+12	186.0	322.0	108.0	194.0
+13	594.0	30.0	71.0	115.0
+14	17.0	634.0	87.0	72.0
+15	802.0	1.0	3.0	4.0
+16	709.0	97.0	3.0	1.0
+17	10.0	1.0	792.0	7.0
+18	144.0	100.0	64.0	502.0
+19	235.0	72.0	10.0	493.0
+20	669.0	13.0	14.0	114.0
+21	112.0	495.0	59.0	144.0
+22	130.0	436.0	77.0	167.0
+23	232.0	121.0	142.0	315.0
+24	266.0	158.0	119.0	267.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:F4HY61
+CC data_type:
+XX
+//
+AC MA2010_1
+XX
+ID  SMB
+XX
+DE MA2010_1 MA2010_1_SMB ; From JASPAR
+PO	A	C	G	T
+01	1022.0	851.0	488.0	1241.0
+02	1139.0	616.0	758.0	1089.0
+03	418.0	2165.0	553.0	466.0
+04	3480.0	45.0	35.0	42.0
+05	3246.0	251.0	25.0	80.0
+06	6.0	21.0	3530.0	45.0
+07	8.0	3329.0	33.0	232.0
+08	3245.0	115.0	64.0	178.0
+09	3387.0	33.0	29.0	153.0
+10	869.0	1004.0	716.0	1013.0
+11	998.0	1078.0	740.0	786.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:Q9MA17
+CC data_type:DAP-seq
+XX
+//
+AC MA1245_2
+XX
+ID  ERF112
+XX
+DE MA1245_2 MA1245_2_ERF112 ; From JASPAR
+PO	A	C	G	T
+01	641.0	302.0	895.0	657.0
+02	217.0	1507.0	361.0	410.0
+03	168.0	2246.0	33.0	48.0
+04	253.0	20.0	2173.0	49.0
+05	1.0	2454.0	37.0	3.0
+06	38.0	2449.0	1.0	7.0
+07	219.0	3.0	2236.0	37.0
+08	7.0	2446.0	14.0	28.0
+09	38.0	2406.0	3.0	48.0
+10	831.0	73.0	1264.0	327.0
+11	304.0	1165.0	243.0	783.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:P93007
+CC data_type:DAP-seq
+XX
+//
+AC MA1365_2
+XX
+ID  AT5G47660
+XX
+DE MA1365_2 MA1365_2_AT5G47660 ; From JASPAR
+PO	A	C	G	T
+01	2448.0	540.0	1096.0	1345.0
+02	1466.0	1149.0	808.0	2006.0
+03	549.0	76.0	4639.0	165.0
+04	0.0	0.0	5429.0	0.0
+05	0.0	14.0	0.0	5415.0
+06	5302.0	30.0	38.0	59.0
+07	5236.0	8.0	50.0	135.0
+08	4920.0	23.0	104.0	382.0
+09	4790.0	1.0	34.0	604.0
+10	2233.0	631.0	685.0	1880.0
+11	2014.0	822.0	679.0	1914.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FGJ1
+CC data_type:DAP-seq
+XX
+//
+AC MA1327_2
+XX
+ID  ATHB-23
+XX
+DE MA1327_2 MA1327_2_ATHB-23 ; From JASPAR
+PO	A	C	G	T
+01	660.0	381.0	278.0	1113.0
+02	466.0	226.0	103.0	1637.0
+03	2432.0	0.0	0.0	0.0
+04	2432.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	2432.0
+06	0.0	0.0	0.0	2432.0
+07	2432.0	0.0	0.0	0.0
+08	2432.0	0.0	0.0	0.0
+09	646.0	310.0	374.0	1102.0
+10	670.0	397.0	302.0	1063.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q8LFD3
+CC data_type:DAP-seq
+XX
+//
+AC MA0110_3
+XX
+ID  ATHB-5
+XX
+DE MA0110_3 MA0110_3_ATHB-5 ; From JASPAR
+PO	A	C	G	T
+01	3639.0	1914.0	1346.0	3223.0
+02	2718.0	2228.0	1336.0	3840.0
+03	1051.0	7517.0	386.0	1168.0
+04	9632.0	197.0	74.0	219.0
+05	9563.0	154.0	50.0	355.0
+06	230.0	98.0	59.0	9735.0
+07	841.0	8049.0	254.0	978.0
+08	9809.0	48.0	51.0	214.0
+09	648.0	178.0	175.0	9121.0
+10	633.0	312.0	394.0	8783.0
+11	3099.0	1661.0	2309.0	3053.0
+12	3606.0	1561.0	1609.0	3346.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:P46667
+CC data_type:DAP-seq
+XX
+//
+AC MA1393_2
+XX
+ID  MYB70
+XX
+DE MA1393_2 MA1393_2_MYB70 ; From JASPAR
+PO	A	C	G	T
+01	671.0	278.0	309.0	612.0
+02	454.0	299.0	181.0	936.0
+03	1560.0	29.0	116.0	165.0
+04	1708.0	7.0	100.0	55.0
+05	0.0	1848.0	6.0	16.0
+06	66.0	1736.0	0.0	68.0
+07	18.0	1.0	1849.0	2.0
+08	137.0	112.0	71.0	1550.0
+09	164.0	95.0	19.0	1592.0
+10	814.0	179.0	377.0	500.0
+11	594.0	364.0	305.0	607.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:O22179
+CC data_type:DAP-seq
+XX
+//
+AC MA0974_2
+XX
+ID  CDF3
+XX
+DE MA0974_2 MA0974_2_CDF3 ; From JASPAR
+PO	A	C	G	T
+01	396.0	166.0	213.0	382.0
+02	337.0	214.0	256.0	350.0
+03	879.0	63.0	79.0	136.0
+04	964.0	24.0	29.0	140.0
+05	1143.0	2.0	7.0	5.0
+06	1133.0	4.0	11.0	9.0
+07	1125.0	3.0	19.0	10.0
+08	1.0	0.0	1154.0	2.0
+09	29.0	44.0	37.0	1047.0
+10	86.0	7.0	1038.0	26.0
+11	430.0	210.0	104.0	413.0
+12	519.0	186.0	130.0	322.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q8LFV3
+CC data_type:DAP-seq
+XX
+//
+AC MA0976_2
+XX
+ID  CRF4
+XX
+DE MA0976_2 MA0976_2_CRF4 ; From JASPAR
+PO	A	C	G	T
+01	165.0	1167.0	247.0	321.0
+02	249.0	1377.0	111.0	163.0
+03	89.0	4.0	1744.0	63.0
+04	4.0	1865.0	22.0	9.0
+05	10.0	1866.0	15.0	9.0
+06	113.0	2.0	1734.0	51.0
+07	10.0	1794.0	9.0	87.0
+08	55.0	1804.0	16.0	25.0
+09	1104.0	12.0	653.0	131.0
+10	67.0	1659.0	40.0	134.0
+11	331.0	1002.0	198.0	369.0
+12	612.0	168.0	757.0	363.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9SUE3
+CC data_type:DAP-seq
+XX
+//
+AC MA1265_2
+XX
+ID  ERF015
+XX
+DE MA1265_2 MA1265_2_ERF015 ; From JASPAR
+PO	A	C	G	T
+01	375.0	146.0	356.0	341.0
+02	130.0	594.0	153.0	341.0
+03	26.0	1145.0	18.0	29.0
+04	1121.0	0.0	73.0	24.0
+05	3.0	1209.0	2.0	4.0
+06	6.0	1209.0	0.0	3.0
+07	9.0	1.0	1205.0	3.0
+08	897.0	141.0	24.0	156.0
+09	11.0	1201.0	3.0	3.0
+10	1001.0	30.0	132.0	55.0
+11	438.0	361.0	181.0	238.0
+12	384.0	330.0	147.0	357.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q6NLD5
+CC data_type:DAP-seq
+XX
+//
+AC MA1233_2
+XX
+ID  ERF021
+XX
+DE MA1233_2 MA1233_2_ERF021 ; From JASPAR
+PO	A	C	G	T
+01	723.0	1062.0	509.0	865.0
+02	777.0	1231.0	362.0	789.0
+03	756.0	363.0	1265.0	775.0
+04	424.0	1691.0	388.0	656.0
+05	186.0	2340.0	102.0	531.0
+06	889.0	15.0	2078.0	177.0
+07	38.0	3024.0	76.0	21.0
+08	19.0	3113.0	14.0	13.0
+09	56.0	8.0	3076.0	19.0
+10	2213.0	500.0	104.0	342.0
+11	27.0	3048.0	44.0	40.0
+12	2867.0	54.0	158.0	80.0
+13	1271.0	837.0	299.0	752.0
+14	1020.0	831.0	545.0	763.0
+15	1024.0	461.0	885.0	789.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9C9I2
+CC data_type:DAP-seq
+XX
+//
+AC MA1227_2
+XX
+ID  ERF027
+XX
+DE MA1227_2 MA1227_2_ERF027 ; From JASPAR
+PO	A	C	G	T
+01	2281.0	2065.0	1253.0	2566.0
+02	2124.0	1440.0	1886.0	2715.0
+03	1537.0	1971.0	999.0	3658.0
+04	1018.0	2217.0	799.0	4131.0
+05	2993.0	257.0	4656.0	259.0
+06	59.0	7829.0	39.0	238.0
+07	49.0	8069.0	15.0	32.0
+08	38.0	30.0	8067.0	30.0
+09	7473.0	249.0	83.0	360.0
+10	27.0	8089.0	22.0	27.0
+11	7176.0	100.0	562.0	327.0
+12	2884.0	1583.0	1063.0	2635.0
+13	2750.0	1629.0	1362.0	2424.0
+14	2824.0	1225.0	1823.0	2293.0
+15	2512.0	1635.0	1448.0	2570.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q38Q39
+CC data_type:DAP-seq
+XX
+//
+AC MA1238_2
+XX
+ID  ERF038
+XX
+DE MA1238_2 MA1238_2_ERF038 ; From JASPAR
+PO	A	C	G	T
+01	575.0	277.0	497.0	561.0
+02	259.0	811.0	246.0	594.0
+03	123.0	1622.0	64.0	101.0
+04	1691.0	0.0	197.0	22.0
+05	7.0	1892.0	4.0	7.0
+06	11.0	1895.0	1.0	3.0
+07	17.0	5.0	1882.0	6.0
+08	1631.0	120.0	30.0	129.0
+09	16.0	1883.0	4.0	7.0
+10	1588.0	35.0	202.0	85.0
+11	673.0	562.0	280.0	395.0
+12	621.0	465.0	272.0	552.0
+13	608.0	277.0	494.0	531.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9ZQP3
+CC data_type:DAP-seq
+XX
+//
+AC MA0995_2
+XX
+ID  ERF039
+XX
+DE MA0995_2 MA0995_2_ERF039 ; From JASPAR
+PO	A	C	G	T
+01	282.0	574.0	258.0	530.0
+02	285.0	875.0	168.0	316.0
+03	679.0	23.0	864.0	78.0
+04	3.0	1617.0	23.0	1.0
+05	11.0	1605.0	10.0	18.0
+06	19.0	13.0	1605.0	7.0
+07	1381.0	137.0	45.0	81.0
+08	1.0	1615.0	15.0	13.0
+09	1521.0	21.0	72.0	30.0
+10	495.0	533.0	236.0	380.0
+11	484.0	420.0	278.0	462.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9SUK8
+CC data_type:DAP-seq
+XX
+//
+AC MA1005_2
+XX
+ID  ERF3
+XX
+DE MA1005_2 MA1005_2_ERF3 ; From JASPAR
+PO	A	C	G	T
+01	519.0	229.0	644.0	491.0
+02	162.0	1145.0	257.0	319.0
+03	113.0	1713.0	16.0	41.0
+04	186.0	8.0	1658.0	31.0
+05	0.0	1878.0	3.0	2.0
+06	30.0	1844.0	1.0	8.0
+07	149.0	2.0	1697.0	35.0
+08	2.0	1852.0	7.0	22.0
+09	12.0	1852.0	1.0	18.0
+10	658.0	48.0	925.0	252.0
+11	239.0	887.0	194.0	563.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:O80339
+CC data_type:DAP-seq
+XX
+//
+AC MA0992_2
+XX
+ID  ERF4
+XX
+DE MA0992_2 MA0992_2_ERF4 ; From JASPAR
+PO	A	C	G	T
+01	227.0	109.0	368.0	319.0
+02	88.0	644.0	165.0	126.0
+03	11.0	1005.0	2.0	5.0
+04	24.0	1.0	979.0	19.0
+05	5.0	992.0	9.0	17.0
+06	5.0	1015.0	2.0	1.0
+07	9.0	0.0	1006.0	8.0
+08	34.0	349.0	13.0	627.0
+09	42.0	900.0	25.0	56.0
+10	827.0	19.0	91.0	86.0
+11	253.0	306.0	101.0	363.0
+12	318.0	287.0	113.0	305.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:O80340
+CC data_type:DAP-seq
+XX
+//
+AC MA0565_2
+XX
+ID  FUS3
+XX
+DE MA0565_2 MA0565_2_FUS3 ; From JASPAR
+PO	A	C	G	T
+01	469.0	152.0	218.0	307.0
+02	355.0	309.0	143.0	339.0
+03	1146.0	0.0	0.0	0.0
+04	0.0	1146.0	0.0	0.0
+05	1141.0	2.0	2.0	1.0
+06	3.0	5.0	1.0	1137.0
+07	0.0	1.0	1145.0	0.0
+08	0.0	1146.0	0.0	0.0
+09	1055.0	18.0	28.0	45.0
+10	446.0	125.0	98.0	477.0
+XX
+CC tax_group:plants
+CC tf_family:ABI3
+CC tf_class:B3
+CC pubmed_ids:23314941
+CC uniprot_ids:Q9LW31
+CC data_type:DAP-seq
+XX
+//
+AC MA1368_2
+XX
+ID  GT-4
+XX
+DE MA1368_2 MA1368_2_GT-4 ; From JASPAR
+PO	A	C	G	T
+01	209.0	130.0	110.0	197.0
+02	77.0	157.0	89.0	323.0
+03	111.0	55.0	37.0	443.0
+04	516.0	20.0	44.0	66.0
+05	621.0	6.0	4.0	15.0
+06	10.0	612.0	9.0	15.0
+07	8.0	181.0	2.0	455.0
+08	571.0	24.0	28.0	23.0
+09	20.0	26.0	33.0	567.0
+10	87.0	1.0	552.0	6.0
+11	20.0	5.0	618.0	3.0
+12	9.0	5.0	3.0	629.0
+13	63.0	36.0	11.0	536.0
+14	396.0	41.0	63.0	146.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:20717979
+CC uniprot_ids:Q9LU92
+CC data_type:DAP-seq
+XX
+//
+AC MA1398_2
+XX
+ID  KUA1
+XX
+DE MA1398_2 MA1398_2_KUA1 ; From JASPAR
+PO	A	C	G	T
+01	873.0	194.0	273.0	477.0
+02	328.0	600.0	211.0	678.0
+03	69.0	1567.0	112.0	69.0
+04	127.0	61.0	18.0	1611.0
+05	107.0	40.0	41.0	1629.0
+06	1751.0	29.0	11.0	26.0
+07	14.0	14.0	9.0	1780.0
+08	15.0	1771.0	17.0	14.0
+09	35.0	1502.0	27.0	253.0
+10	943.0	102.0	335.0	437.0
+11	633.0	377.0	174.0	633.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LVS0
+CC data_type:DAP-seq
+XX
+//
+AC MA1391_2
+XX
+ID  MYB33
+XX
+DE MA1391_2 MA1391_2_MYB33 ; From JASPAR
+PO	A	C	G	T
+01	192.0	147.0	70.0	213.0
+02	217.0	126.0	75.0	204.0
+03	341.0	75.0	85.0	121.0
+04	20.0	11.0	2.0	589.0
+05	614.0	3.0	3.0	2.0
+06	613.0	0.0	7.0	2.0
+07	0.0	615.0	0.0	7.0
+08	12.0	569.0	6.0	35.0
+09	31.0	1.0	586.0	4.0
+10	148.0	35.0	15.0	424.0
+11	370.0	87.0	16.0	149.0
+12	268.0	51.0	61.0	242.0
+13	199.0	135.0	107.0	181.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8W1W6
+CC data_type:DAP-seq
+XX
+//
+AC MA1394_2
+XX
+ID  MYB73
+XX
+DE MA1394_2 MA1394_2_MYB73 ; From JASPAR
+PO	A	C	G	T
+01	298.0	222.0	192.0	354.0
+02	274.0	268.0	46.0	478.0
+03	1056.0	0.0	6.0	4.0
+04	1024.0	36.0	1.0	5.0
+05	5.0	1047.0	2.0	12.0
+06	19.0	102.0	847.0	98.0
+07	19.0	4.0	1026.0	17.0
+08	16.0	27.0	4.0	1019.0
+09	191.0	614.0	24.0	237.0
+10	963.0	32.0	36.0	35.0
+11	411.0	231.0	130.0	294.0
+12	355.0	199.0	184.0	328.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:O23160
+CC data_type:DAP-seq
+XX
+//
+AC MA0980_2
+XX
+ID  RAP2-10
+XX
+DE MA0980_2 MA0980_2_RAP2-10 ; From JASPAR
+PO	A	C	G	T
+01	477.0	694.0	291.0	1106.0
+02	467.0	733.0	280.0	1088.0
+03	1041.0	48.0	1374.0	105.0
+04	16.0	2516.0	6.0	30.0
+05	9.0	2544.0	9.0	6.0
+06	16.0	6.0	2534.0	12.0
+07	2503.0	19.0	10.0	36.0
+08	10.0	2539.0	7.0	12.0
+09	2443.0	29.0	65.0	31.0
+10	1212.0	510.0	306.0	540.0
+11	933.0	458.0	409.0	768.0
+12	906.0	381.0	545.0	736.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:Q9SW63
+CC data_type:DAP-seq
+XX
+//
+AC MA1062_2
+XX
+ID  TCP15
+XX
+DE MA1062_2 MA1062_2_TCP15 ; From JASPAR
+PO	A	C	G	T
+01	280.0	141.0	171.0	235.0
+02	254.0	182.0	159.0	232.0
+03	366.0	127.0	128.0	206.0
+04	286.0	141.0	158.0	242.0
+05	99.0	43.0	660.0	25.0
+06	11.0	41.0	10.0	765.0
+07	77.0	4.0	736.0	10.0
+08	2.0	1.0	823.0	1.0
+09	24.0	3.0	788.0	12.0
+10	317.0	134.0	135.0	241.0
+11	11.0	785.0	4.0	27.0
+12	3.0	821.0	1.0	2.0
+13	8.0	732.0	5.0	82.0
+14	762.0	6.0	48.0	11.0
+15	27.0	654.0	46.0	100.0
+16	246.0	157.0	137.0	287.0
+17	212.0	133.0	116.0	366.0
+18	246.0	156.0	170.0	255.0
+19	237.0	175.0	140.0	275.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:24477691
+CC uniprot_ids:Q9C9L2
+CC data_type:DAP-seq
+XX
+//
+AC MA1065_2
+XX
+ID  TCP20
+XX
+DE MA1065_2 MA1065_2_TCP20 ; From JASPAR
+PO	A	C	G	T
+01	328.0	170.0	215.0	257.0
+02	303.0	228.0	187.0	252.0
+03	406.0	165.0	156.0	243.0
+04	332.0	176.0	198.0	264.0
+05	106.0	52.0	767.0	45.0
+06	19.0	53.0	12.0	886.0
+07	77.0	7.0	877.0	9.0
+08	4.0	1.0	962.0	3.0
+09	37.0	3.0	914.0	16.0
+10	379.0	158.0	159.0	274.0
+11	13.0	915.0	4.0	38.0
+12	4.0	962.0	0.0	4.0
+13	9.0	876.0	4.0	81.0
+14	887.0	8.0	61.0	14.0
+15	35.0	769.0	60.0	106.0
+16	358.0	181.0	172.0	259.0
+17	272.0	145.0	157.0	396.0
+18	277.0	181.0	215.0	297.0
+19	271.0	222.0	158.0	319.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LSD5
+CC data_type:DAP-seq
+XX
+//
+AC MA1047_2
+XX
+ID  TGA5
+XX
+DE MA1047_2 MA1047_2_TGA5 ; From JASPAR
+PO	A	C	G	T
+01	1135.0	511.0	554.0	912.0
+02	818.0	560.0	537.0	1197.0
+03	648.0	382.0	1574.0	508.0
+04	1934.0	540.0	474.0	164.0
+05	19.0	57.0	10.0	3026.0
+06	41.0	26.0	2769.0	276.0
+07	3036.0	11.0	23.0	42.0
+08	4.0	2802.0	22.0	284.0
+09	288.0	16.0	2804.0	4.0
+10	28.0	23.0	16.0	3045.0
+11	273.0	2650.0	140.0	49.0
+12	2907.0	9.0	147.0	49.0
+13	206.0	973.0	612.0	1321.0
+14	669.0	1257.0	443.0	743.0
+15	1121.0	530.0	603.0	858.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:25215497
+CC uniprot_ids:Q39163
+CC data_type:DAP-seq
+XX
+//
+AC MA1076_2
+XX
+ID  WRKY15
+XX
+DE MA1076_2 MA1076_2_WRKY15 ; From JASPAR
+PO	A	C	G	T
+01	403.0	201.0	271.0	365.0
+02	395.0	254.0	197.0	394.0
+03	426.0	250.0	201.0	363.0
+04	489.0	192.0	175.0	384.0
+05	521.0	127.0	163.0	429.0
+06	583.0	58.0	515.0	84.0
+07	15.0	7.0	1210.0	8.0
+08	2.0	8.0	3.0	1227.0
+09	9.0	1222.0	2.0	7.0
+10	1221.0	8.0	4.0	7.0
+11	1218.0	3.0	11.0	8.0
+12	65.0	1088.0	8.0	79.0
+13	100.0	88.0	893.0	159.0
+14	330.0	246.0	338.0	326.0
+15	309.0	305.0	189.0	437.0
+16	350.0	182.0	296.0	412.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:25215497
+CC uniprot_ids:O22176
+CC data_type:DAP-seq
+XX
+//
+AC MA1311_2
+XX
+ID  WRKY28
+XX
+DE MA1311_2 MA1311_2_WRKY28 ; From JASPAR
+PO	A	C	G	T
+01	929.0	287.0	243.0	633.0
+02	901.0	240.0	240.0	711.0
+03	919.0	67.0	924.0	182.0
+04	21.0	11.0	2047.0	13.0
+05	6.0	8.0	1.0	2077.0
+06	12.0	2062.0	8.0	10.0
+07	2059.0	17.0	6.0	10.0
+08	2050.0	7.0	18.0	17.0
+09	158.0	1730.0	55.0	149.0
+10	596.0	254.0	740.0	502.0
+11	694.0	436.0	330.0	632.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q8VWJ2
+CC data_type:DAP-seq
+XX
+//
+AC MA1329_2
+XX
+ID  ZHD1
+XX
+DE MA1329_2 MA1329_2_ZHD1 ; From JASPAR
+PO	A	C	G	T
+01	834.0	351.0	309.0	978.0
+02	967.0	422.0	333.0	750.0
+03	1813.0	246.0	193.0	220.0
+04	386.0	1155.0	193.0	738.0
+05	47.0	24.0	9.0	2392.0
+06	2412.0	14.0	26.0	20.0
+07	2417.0	15.0	18.0	22.0
+08	25.0	29.0	9.0	2409.0
+09	19.0	43.0	12.0	2398.0
+10	2382.0	14.0	25.0	51.0
+11	2233.0	73.0	60.0	106.0
+12	562.0	402.0	473.0	1035.0
+13	691.0	423.0	370.0	988.0
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607
+CC uniprot_ids:Q9SB61
+CC data_type:DAP-seq
+XX
+//
+AC MA1685_1
+XX
+ID  ARF10
+XX
+DE MA1685_1 MA1685_1_ARF10 ; From JASPAR
+PO	A	C	G	T
+01	6226.0	10279.0	1870.0	1383.0
+02	5611.0	5964.0	2004.0	6179.0
+03	14080.0	1960.0	1922.0	1796.0
+04	8441.0	2941.0	7020.0	1356.0
+05	5069.0	5484.0	3268.0	5937.0
+06	1319.0	649.0	17180.0	610.0
+07	264.0	167.0	19132.0	195.0
+08	186.0	250.0	19192.0	130.0
+09	13662.0	268.0	5695.0	133.0
+10	388.0	375.0	18929.0	66.0
+11	18959.0	144.0	605.0	50.0
+12	113.0	19406.0	147.0	92.0
+13	14594.0	443.0	4553.0	168.0
+14	6191.0	8527.0	1711.0	3329.0
+15	1672.0	6272.0	6594.0	5220.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNT7
+CC data_type:DAP-seq
+XX
+//
+AC MA1686_1
+XX
+ID  ARF13
+XX
+DE MA1686_1 MA1686_1_ARF13 ; From JASPAR
+PO	A	C	G	T
+01	5788.0	794.0	652.0	1172.0
+02	3446.0	543.0	4009.0	408.0
+03	569.0	6725.0	463.0	649.0
+04	576.0	145.0	7420.0	265.0
+05	328.0	29.0	8001.0	48.0
+06	55.0	55.0	8271.0	25.0
+07	268.0	67.0	8022.0	49.0
+08	118.0	86.0	8175.0	27.0
+09	7344.0	111.0	943.0	8.0
+10	36.0	8284.0	55.0	31.0
+11	7953.0	33.0	393.0	27.0
+12	749.0	4283.0	214.0	3160.0
+13	532.0	518.0	6710.0	646.0
+14	745.0	516.0	875.0	6270.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNU0
+CC data_type:DAP-seq
+XX
+//
+AC MA1687_1
+XX
+ID  ARF14
+XX
+DE MA1687_1 MA1687_1_ARF14 ; From JASPAR
+PO	A	C	G	T
+01	862.0	8235.0	681.0	1307.0
+02	2403.0	571.0	7563.0	548.0
+03	498.0	2616.0	7532.0	439.0
+04	417.0	2651.0	7664.0	353.0
+05	702.0	2221.0	7827.0	335.0
+06	350.0	187.0	10466.0	82.0
+07	10113.0	158.0	747.0	67.0
+08	63.0	10858.0	94.0	70.0
+09	10769.0	60.0	195.0	61.0
+10	245.0	3731.0	97.0	7012.0
+11	233.0	95.0	10683.0	74.0
+12	234.0	291.0	150.0	10410.0
+13	233.0	10042.0	177.0	633.0
+14	593.0	2808.0	6490.0	1194.0
+15	995.0	2579.0	6910.0	601.0
+16	719.0	2592.0	6957.0	817.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNU1
+CC data_type:DAP-seq
+XX
+//
+AC MA1688_1
+XX
+ID  ARF16
+XX
+DE MA1688_1 MA1688_1_ARF16 ; From JASPAR
+PO	A	C	G	T
+01	2470.0	1473.0	2135.0	1754.0
+02	3249.0	1643.0	1614.0	1326.0
+03	980.0	5307.0	965.0	580.0
+04	5651.0	950.0	578.0	653.0
+05	6555.0	574.0	511.0	192.0
+06	302.0	374.0	6749.0	407.0
+07	7230.0	142.0	359.0	101.0
+08	357.0	6981.0	283.0	211.0
+09	7198.0	220.0	214.0	200.0
+10	6756.0	261.0	338.0	477.0
+11	687.0	565.0	6061.0	519.0
+12	5396.0	697.0	942.0	797.0
+13	2328.0	2087.0	1543.0	1874.0
+14	2681.0	1648.0	1781.0	1722.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:K7URZ7
+CC data_type:DAP-seq
+XX
+//
+AC MA1689_1
+XX
+ID  ARF18
+XX
+DE MA1689_1 MA1689_1_ARF18 ; From JASPAR
+PO	A	C	G	T
+01	985.0	580.0	588.0	644.0
+02	700.0	897.0	751.0	449.0
+03	77.0	2334.0	50.0	336.0
+04	346.0	2297.0	91.0	63.0
+05	60.0	16.0	2698.0	23.0
+06	2735.0	13.0	39.0	10.0
+07	9.0	2746.0	25.0	17.0
+08	2672.0	108.0	12.0	5.0
+09	2292.0	154.0	209.0	142.0
+10	2075.0	277.0	321.0	124.0
+11	889.0	665.0	746.0	497.0
+12	998.0	533.0	549.0	717.0
+13	729.0	603.0	632.0	833.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:A0A060CYJ7
+CC data_type:DAP-seq
+XX
+//
+AC MA1690_1
+XX
+ID  ARF25
+XX
+DE MA1690_1 MA1690_1_ARF25 ; From JASPAR
+PO	A	C	G	T
+01	7526.0	7690.0	1231.0	2993.0
+02	13488.0	1748.0	1955.0	2249.0
+03	9458.0	2342.0	6525.0	1115.0
+04	4788.0	8051.0	3997.0	2604.0
+05	1286.0	638.0	16922.0	594.0
+06	490.0	134.0	18723.0	93.0
+07	179.0	121.0	19073.0	67.0
+08	7031.0	261.0	11973.0	175.0
+09	602.0	171.0	18527.0	140.0
+10	18246.0	140.0	1021.0	33.0
+11	119.0	19053.0	197.0	71.0
+12	18584.0	96.0	704.0	56.0
+13	9076.0	6075.0	978.0	3311.0
+14	1349.0	2535.0	8454.0	7102.0
+15	1956.0	2345.0	8006.0	7133.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:C0PH36
+CC data_type:DAP-seq
+XX
+//
+AC MA1691_1
+XX
+ID  ARF27
+XX
+DE MA1691_1 MA1691_1_ARF27 ; From JASPAR
+PO	A	C	G	T
+01	1524.0	2266.0	1789.0	1251.0
+02	1928.0	2049.0	1322.0	1531.0
+03	2684.0	860.0	1857.0	1429.0
+04	700.0	671.0	4962.0	497.0
+05	173.0	6134.0	279.0	244.0
+06	5932.0	635.0	115.0	148.0
+07	163.0	93.0	6412.0	162.0
+08	6497.0	133.0	160.0	40.0
+09	92.0	6539.0	89.0	110.0
+10	6652.0	76.0	55.0	47.0
+11	782.0	467.0	596.0	4985.0
+12	1645.0	1498.0	2355.0	1332.0
+13	1969.0	1600.0	1667.0	1594.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNV4
+CC data_type:DAP-seq
+XX
+//
+AC MA1692_1
+XX
+ID  ARF29
+XX
+DE MA1692_1 MA1692_1_ARF29 ; From JASPAR
+PO	A	C	G	T
+01	1242.0	1455.0	1310.0	1234.0
+02	1450.0	1357.0	1244.0	1190.0
+03	1269.0	1239.0	1117.0	1616.0
+04	1475.0	1102.0	1278.0	1386.0
+05	468.0	468.0	3994.0	311.0
+06	200.0	4649.0	147.0	245.0
+07	576.0	4459.0	116.0	90.0
+08	83.0	16.0	5091.0	51.0
+09	5053.0	43.0	120.0	25.0
+10	16.0	5154.0	36.0	35.0
+11	4801.0	289.0	121.0	30.0
+12	3983.0	329.0	602.0	327.0
+13	1531.0	1370.0	1531.0	809.0
+14	1598.0	1242.0	1396.0	1005.0
+15	1622.0	1206.0	988.0	1425.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNV6
+CC data_type:DAP-seq
+XX
+//
+AC MA1693_1
+XX
+ID  ARF34
+XX
+DE MA1693_1 MA1693_1_ARF34 ; From JASPAR
+PO	A	C	G	T
+01	4678.0	2573.0	3827.0	3172.0
+02	3908.0	3118.0	3747.0	3477.0
+03	388.0	13025.0	544.0	293.0
+04	11877.0	1396.0	585.0	392.0
+05	363.0	174.0	13571.0	142.0
+06	13106.0	391.0	622.0	131.0
+07	146.0	13756.0	233.0	115.0
+08	13693.0	172.0	181.0	204.0
+09	1458.0	607.0	10249.0	1936.0
+10	1230.0	11608.0	825.0	587.0
+11	5728.0	3751.0	2708.0	2063.0
+12	4406.0	3332.0	3589.0	2923.0
+13	3224.0	3521.0	4418.0	3087.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:A0A060D7X7
+CC data_type:DAP-seq
+XX
+//
+AC MA1694_1
+XX
+ID  ARF35
+XX
+DE MA1694_1 MA1694_1_ARF35 ; From JASPAR
+PO	A	C	G	T
+01	1326.0	1297.0	1351.0	1048.0
+02	1011.0	1549.0	1219.0	1243.0
+03	2144.0	1043.0	1014.0	821.0
+04	744.0	2700.0	1101.0	477.0
+05	250.0	4409.0	122.0	241.0
+06	330.0	4521.0	117.0	54.0
+07	37.0	15.0	4934.0	36.0
+08	4934.0	16.0	58.0	14.0
+09	7.0	4975.0	23.0	17.0
+10	4709.0	253.0	39.0	21.0
+11	3063.0	556.0	856.0	547.0
+12	955.0	905.0	2699.0	463.0
+13	1548.0	1161.0	1382.0	931.0
+14	1377.0	1285.0	935.0	1425.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1695_1
+XX
+ID  ARF36
+XX
+DE MA1695_1 MA1695_1_ARF36 ; From JASPAR
+PO	A	C	G	T
+01	4333.0	1368.0	4470.0	1079.0
+02	1572.0	6035.0	1646.0	1997.0
+03	1106.0	795.0	8866.0	483.0
+04	438.0	121.0	10453.0	238.0
+05	526.0	86.0	10568.0	70.0
+06	1507.0	130.0	9538.0	75.0
+07	541.0	120.0	10495.0	94.0
+08	10483.0	87.0	652.0	28.0
+09	82.0	11032.0	83.0	53.0
+10	10839.0	53.0	316.0	42.0
+11	3409.0	4456.0	595.0	2790.0
+12	935.0	1586.0	7323.0	1406.0
+13	1087.0	1444.0	2452.0	6267.0
+14	1273.0	6723.0	759.0	2495.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1696_1
+XX
+ID  ARF39
+XX
+DE MA1696_1 MA1696_1_ARF39 ; From JASPAR
+PO	A	C	G	T
+01	539.0	2006.0	641.0	882.0
+02	720.0	576.0	2373.0	399.0
+03	514.0	32.0	3496.0	26.0
+04	46.0	27.0	3983.0	12.0
+05	302.0	46.0	3612.0	108.0
+06	2101.0	29.0	1884.0	54.0
+07	3833.0	29.0	172.0	34.0
+08	58.0	3926.0	62.0	22.0
+09	3856.0	106.0	69.0	37.0
+10	688.0	1832.0	697.0	851.0
+11	466.0	1030.0	2258.0	314.0
+12	629.0	517.0	669.0	2253.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:
+CC data_type:DAP-seq
+XX
+//
+AC MA1697_1
+XX
+ID  ARF4
+XX
+DE MA1697_1 MA1697_1_ARF4 ; From JASPAR
+PO	A	C	G	T
+01	2014.0	1950.0	1732.0	970.0
+02	1712.0	2246.0	1795.0	913.0
+03	5236.0	734.0	356.0	340.0
+04	375.0	5738.0	334.0	219.0
+05	335.0	143.0	6073.0	115.0
+06	6453.0	57.0	112.0	44.0
+07	35.0	6524.0	74.0	33.0
+08	6158.0	155.0	271.0	82.0
+09	5261.0	667.0	243.0	495.0
+10	316.0	516.0	5584.0	250.0
+11	1927.0	1481.0	1918.0	1340.0
+12	1751.0	1750.0	1555.0	1610.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNT1
+CC data_type:DAP-seq
+XX
+//
+AC MA1698_1
+XX
+ID  ARF7
+XX
+DE MA1698_1 MA1698_1_ARF7 ; From JASPAR
+PO	A	C	G	T
+01	1740.0	1003.0	752.0	570.0
+02	775.0	1727.0	745.0	818.0
+03	1321.0	502.0	463.0	1779.0
+04	251.0	317.0	3325.0	172.0
+05	113.0	3717.0	135.0	100.0
+06	141.0	3801.0	64.0	59.0
+07	83.0	120.0	3799.0	63.0
+08	3801.0	46.0	176.0	42.0
+09	18.0	3917.0	76.0	54.0
+10	2657.0	173.0	1196.0	39.0
+11	3150.0	457.0	229.0	229.0
+12	419.0	529.0	2904.0	213.0
+13	771.0	970.0	1756.0	568.0
+14	798.0	1001.0	735.0	1531.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:24485461
+CC uniprot_ids:D9HNT4
+CC data_type:DAP-seq
+XX
+//
+AC MA1733_1
+XX
+ID  ASR3
+XX
+DE MA1733_1 MA1733_1_ASR3 ; From JASPAR
+PO	A	C	G	T
+01	393.99	188.648	240.401	176.962
+02	465.776	181.97	123.539	228.715
+03	562.604	130.217	88.481	218.698
+04	472.454	83.472	158.598	285.476
+05	343.907	120.2	285.476	250.417
+06	183.639	0.0	101.836	714.524
+07	420.701	0.0	579.299	0.0
+08	60.1	809.683	0.0	130.217
+09	0.0	1000.0	0.0	0.0
+10	0.0	894.825	0.0	105.175
+11	15.025	103.506	10.017	871.452
+12	474.124	28.381	0.0	497.496
+13	649.416	165.275	31.72	153.589
+14	624.374	78.464	78.464	218.698
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22236699
+CC uniprot_ids:Q8VZ20
+CC data_type:DAP-seq
+XX
+//
+AC MA1734_1
+XX
+ID  AT1G19040
+XX
+DE MA1734_1 MA1734_1_AT1G19040 ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	0.0	0.0	139.415	860.585
+03	0.0	0.0	0.0	1000.0
+04	20.654	32.702	919.105	27.539
+05	187.608	344.234	208.262	259.897
+06	239.243	127.367	316.695	316.695
+07	132.53	512.909	177.281	177.281
+08	148.021	418.244	92.943	340.792
+09	166.954	351.119	285.714	196.213
+10	0.0	948.365	13.769	37.866
+11	1000.0	0.0	0.0	0.0
+12	776.248	223.752	0.0	0.0
+13	1.721	0.0	993.115	5.164
+14	58.52	271.945	79.174	590.361
+15	290.878	146.299	5.164	557.659
+16	647.16	12.048	0.0	340.792
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:A0JQ66
+CC data_type:DAP-seq
+XX
+//
+AC MA1735_1
+XX
+ID  AT2G38300
+XX
+DE MA1735_1 MA1735_1_AT2G38300 ; From JASPAR
+PO	A	C	G	T
+01	646.667	93.333	25.0	235.0
+02	833.333	20.0	8.333	138.333
+03	285.0	378.333	63.333	273.333
+04	995.0	0.0	3.333	1.667
+05	0.0	0.0	1.667	998.333
+06	0.0	0.0	0.0	1000.0
+07	0.0	1000.0	0.0	0.0
+08	0.0	333.333	8.333	658.333
+09	221.667	285.0	55.0	438.333
+10	148.333	143.333	15.0	693.333
+11	230.0	133.333	106.667	530.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8GYE4
+CC data_type:DAP-seq
+XX
+//
+AC MA1736_1
+XX
+ID  AT5G04390
+XX
+DE MA1736_1 MA1736_1_AT5G04390 ; From JASPAR
+PO	A	C	G	T
+01	175.292	404.007	83.472	337.229
+02	400.668	213.689	58.431	327.212
+03	382.304	293.823	118.531	205.342
+04	145.242	440.735	120.2	293.823
+05	270.451	131.886	88.481	509.182
+06	270.451	170.284	0.0	559.265
+07	0.0	984.975	0.0	15.025
+08	1000.0	0.0	0.0	0.0
+09	0.0	963.272	36.728	0.0
+10	0.0	0.0	0.0	1000.0
+11	288.815	277.129	180.301	253.756
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:27203113
+CC uniprot_ids:Q84K31
+CC data_type:PBM
+XX
+//
+AC MA1737_1
+XX
+ID  AT5G05090
+XX
+DE MA1737_1 MA1737_1_AT5G05090 ; From JASPAR
+PO	A	C	G	T
+01	325.083	224.972	224.972	224.972
+02	248.785	260.211	48.4426	442.561
+03	825.532	24.5276	24.5276	125.413
+04	0.221712	0.221712	999.335	0.221712
+05	999.335	0.221712	0.221712	0.221712
+06	0.221712	0.221712	0.221712	999.335
+07	287.819	317.618	0.221712	394.341
+08	0.221712	776.894	0.221712	222.663
+09	25.2493	25.2493	723.019	226.482
+10	299.003	201.779	297.439	201.779
+11	322.918	225.694	225.694	225.694
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:24477691
+CC uniprot_ids:Q9FF65
+CC data_type:PBM
+XX
+//
+AC MA1738_1
+XX
+ID  ATMYB31
+XX
+DE MA1738_1 MA1738_1_ATMYB31 ; From JASPAR
+PO	A	C	G	T
+01	173.986	505.068	43.919	277.027
+02	768.581	113.176	20.27	97.973
+03	559.122	285.473	23.649	131.757
+04	0.0	753.378	10.135	236.486
+05	165.541	244.932	30.405	559.122
+06	486.486	302.365	76.014	135.135
+07	106.419	807.432	0.0	86.149
+08	27.027	765.203	0.0	207.77
+09	1000.0	0.0	0.0	0.0
+10	736.486	258.446	3.378	1.689
+11	0.0	1000.0	0.0	0.0
+12	199.324	373.311	28.716	398.649
+13	760.135	45.608	160.473	33.784
+14	288.851	527.027	18.581	165.541
+15	263.514	439.189	0.0	297.297
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9CA52
+CC data_type:DAP-seq
+XX
+//
+AC MA1739_1
+XX
+ID  BHLH122
+XX
+DE MA1739_1 MA1739_1_BHLH122 ; From JASPAR
+PO	A	C	G	T
+01	246.231	137.353	201.005	415.41
+02	202.68	229.481	242.881	324.958
+03	365.159	75.377	269.682	289.782
+04	165.829	209.38	355.109	269.682
+05	11.725	988.275	0.0	0.0
+06	551.089	435.511	0.0	13.4
+07	1000.0	0.0	0.0	0.0
+08	0.0	994.975	5.025	0.0
+09	0.0	0.0	1.675	998.325
+10	1.675	0.0	0.0	998.325
+11	1.675	0.0	998.325	0.0
+12	127.303	505.863	137.353	229.481
+13	353.434	281.407	132.328	232.831
+14	284.757	247.906	113.903	353.434
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:24261563
+CC uniprot_ids:Q9C690
+CC data_type:DAP-seq
+XX
+//
+AC MA1740_1
+XX
+ID  BHLH49
+XX
+DE MA1740_1 MA1740_1_BHLH49 ; From JASPAR
+PO	A	C	G	T
+01	304.312	231.896	231.896	231.896
+02	299.252	134.777	359.742	206.229
+03	0.0393524	999.882	0.0393524	0.0
+04	999.882	0.0393524	0.0393524	0.0
+05	0.0393524	999.882	0.0393524	0.0
+06	0.0393524	0.0393524	999.882	0.0
+07	0.0393524	0.0393524	0.0393524	999.882
+08	0.0393524	0.0393524	999.882	0.0
+09	90.4114	808.94	82.5053	18.1432
+10	212.5	338.255	237.241	212.004
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:12897250
+CC uniprot_ids:Q9CAA9
+CC data_type:PBM
+XX
+//
+AC MA1741_1
+XX
+ID  BRN2
+XX
+DE MA1741_1 MA1741_1_BRN2 ; From JASPAR
+PO	A	C	G	T
+01	36.789	959.866	0.0	3.344
+02	0.0	0.0	269.231	730.769
+03	0.0	0.0	5.017	994.983
+04	198.997	209.03	536.789	55.184
+05	389.632	193.98	107.023	309.365
+06	456.522	71.906	212.375	259.197
+07	321.07	175.585	165.552	337.793
+08	168.896	260.87	140.468	429.766
+09	331.104	153.846	182.274	332.776
+10	6.689	531.773	48.495	413.043
+11	998.328	1.672	0.0	0.0
+12	301.003	698.997	0.0	0.0
+13	1.672	0.0	924.749	73.579
+14	50.167	464.883	31.773	453.177
+15	441.472	135.452	6.689	416.388
+16	792.642	8.361	0.0	198.997
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:Q9SV87
+CC data_type:DAP-seq
+XX
+//
+AC MA1742_1
+XX
+ID  BZIP18
+XX
+DE MA1742_1 MA1742_1_BZIP18 ; From JASPAR
+PO	A	C	G	T
+01	90.452	102.178	63.652	743.719
+02	0.0	0.0	894.472	105.528
+03	524.288	470.687	5.025	0.0
+04	0.0	1000.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	15.075	0.0	984.925	0.0
+07	0.0	850.921	95.477	53.601
+08	0.0	219.43	1.675	778.894
+09	93.802	110.553	549.414	246.231
+10	165.829	0.0	499.162	335.008
+11	219.43	237.856	214.405	328.308
+XX
+CC tax_group:plants
+CC tf_family:Group I
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:23942522
+CC uniprot_ids:O22873
+CC data_type:DAP-seq
+XX
+//
+AC MA1743_1
+XX
+ID  BZIP2
+XX
+DE MA1743_1 MA1743_1_BZIP2 ; From JASPAR
+PO	A	C	G	T
+01	318.493	106.164	296.233	279.11
+02	392.123	111.301	179.795	316.781
+03	265.411	56.507	101.027	577.055
+04	25.685	1.712	789.384	183.219
+05	219.178	604.452	152.397	23.973
+06	75.342	77.055	0.0	847.603
+07	0.0	126.712	803.082	70.205
+08	1000.0	0.0	0.0	0.0
+09	0.0	991.438	0.0	8.562
+10	1.712	3.425	994.863	0.0
+11	0.0	0.0	0.0	1000.0
+12	0.0	0.0	1000.0	0.0
+13	0.0	0.0	782.534	217.466
+14	202.055	787.671	1.712	8.562
+15	638.699	111.301	133.562	116.438
+XX
+CC tax_group:plants
+CC tf_family:Group S
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:Q9SI15
+CC data_type:DAP-seq
+XX
+//
+AC MA1744_1
+XX
+ID  BZIP30
+XX
+DE MA1744_1 MA1744_1_BZIP30 ; From JASPAR
+PO	A	C	G	T
+01	126.879	288.079	114.805	470.236
+02	92.5719	0.048703	719.089	188.29
+03	570.751	427.072	2.17484	0.0
+04	7.99682	971.697	0.0379701	20.268
+05	936.294	35.9428	3.42784	24.3353
+06	213.387	9.80712	767.477	9.32882
+07	24.1532	681.583	76.2806	217.983
+08	14.0374	79.9757	33.1726	872.814
+09	188.407	77.3705	664.215	70.0077
+10	87.4126	60.3789	387.858	464.35
+XX
+CC tax_group:plants
+CC tf_family:Group I
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:23942522
+CC uniprot_ids:Q9SIG8
+CC data_type:PBM
+XX
+//
+AC MA1745_1
+XX
+ID  BZIP63
+XX
+DE MA1745_1 MA1745_1_BZIP63 ; From JASPAR
+PO	A	C	G	T
+01	229.166	229.166	229.166	312.503
+02	203.331	203.331	390.006	203.331
+03	187.672	436.984	187.672	187.672
+04	166.258	148.14	20.9414	664.661
+05	0.0444802	356.147	643.764	0.0
+06	999.867	0.0444802	0.0444802	0.0
+07	0.0444802	999.867	0.0444802	0.0
+08	0.0444802	0.0444802	999.867	0.0
+09	20.8789	20.8789	20.8789	937.363
+10	46.7133	123.19	783.383	46.7133
+11	138.849	62.3726	597.6	201.178
+12	229.103	312.691	229.103	229.103
+XX
+CC tax_group:plants
+CC tf_family:Group C
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:B9DGI8
+CC data_type:PBM
+XX
+//
+AC MA1746_1
+XX
+ID  BZIP69
+XX
+DE MA1746_1 MA1746_1_BZIP69 ; From JASPAR
+PO	A	C	G	T
+01	84.158	113.861	34.653	767.327
+02	19.802	14.851	900.99	64.356
+03	480.198	519.802	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	965.347	4.95	29.703
+08	0.0	4.95	0.0	995.05
+09	0.0	4.95	990.099	4.95
+10	4.95	29.703	321.782	643.564
+11	420.792	376.238	59.406	143.564
+XX
+CC tax_group:plants
+CC tf_family:Group I
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:23942522
+CC uniprot_ids:Q9LNE0
+CC data_type:DAP-seq
+XX
+//
+AC MA1747_1
+XX
+ID  DOF4_3
+XX
+DE MA1747_1 MA1747_1_DOF4_3 ; From JASPAR
+PO	A	C	G	T
+01	393.103	203.448	186.207	217.241
+02	434.483	63.793	115.517	386.207
+03	1000.0	0.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	301.724	177.586	91.379	429.31
+08	577.586	1.724	344.828	75.862
+09	187.931	146.552	570.69	94.828
+10	3.448	994.828	0.0	1.724
+11	0.0	5.172	0.0	994.828
+12	1.724	0.0	0.0	998.276
+13	0.0	1.724	0.0	998.276
+14	406.897	65.517	103.448	424.138
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9SUB0
+CC data_type:DAP-seq
+XX
+//
+AC MA1748_1
+XX
+ID  DREB1F
+XX
+DE MA1748_1 MA1748_1_DREB1F ; From JASPAR
+PO	A	C	G	T
+01	188.9	273.477	235.384	302.239
+02	259.283	67.8922	637.734	35.0902
+03	3.26369	767.286	7.41021	222.04
+04	0.2299	982.293	13.7342	3.74301
+05	3.63456	1.31061	992.76	2.29444
+06	961.958	19.0863	4.09174	14.8644
+07	20.2421	970.453	9.18675	0.118572
+08	526.675	149.394	168.441	155.49
+09	148.467	148.467	130.368	572.699
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:18643985
+CC uniprot_ids:Q9LN86
+CC data_type:PBM
+XX
+//
+AC MA1749_1
+XX
+ID  E2FC
+XX
+DE MA1749_1 MA1749_1_E2FC ; From JASPAR
+PO	A	C	G	T
+01	913.043	86.957	0.0	0.0
+02	347.826	0.0	130.435	521.739
+03	391.304	0.0	217.391	391.304
+04	347.826	0.0	217.391	434.783
+05	260.87	0.0	217.391	521.739
+06	173.913	43.478	782.609	0.0
+07	0.0	43.478	782.609	173.913
+08	217.391	782.609	0.0	0.0
+09	0.0	0.0	1000.0	0.0
+10	0.0	1000.0	0.0	0.0
+11	0.0	1000.0	0.0	0.0
+12	913.043	86.957	0.0	0.0
+13	826.087	86.957	0.0	86.957
+14	913.043	0.0	86.957	0.0
+15	695.652	0.0	260.87	43.478
+XX
+CC tax_group:plants
+CC tf_family:E2F
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:16126853
+CC uniprot_ids:Q9FV70
+CC data_type:DAP-seq
+XX
+//
+AC MA1750_1
+XX
+ID  E2FE
+XX
+DE MA1750_1 MA1750_1_E2FE ; From JASPAR
+PO	A	C	G	T
+01	207.65	9.107	245.902	537.341
+02	103.825	1.821	12.75	881.603
+03	47.359	3.643	1.821	947.177
+04	36.43	0.0	7.286	956.284
+05	14.572	1.821	5.464	978.142
+06	5.464	3.643	989.071	1.821
+07	0.0	0.0	1000.0	0.0
+08	1.821	998.179	0.0	0.0
+09	1.821	0.0	996.357	1.821
+10	1.821	14.572	983.607	0.0
+11	0.0	10.929	987.25	1.821
+12	992.714	0.0	7.286	0.0
+13	1000.0	0.0	0.0	0.0
+14	958.106	12.75	10.929	18.215
+15	774.135	51.002	21.858	153.005
+XX
+CC tax_group:plants
+CC tf_family:E2F
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:16126853
+CC uniprot_ids:Q8LSZ4
+CC data_type:DAP-seq
+XX
+//
+AC MA1751_1
+XX
+ID  EIL3
+XX
+DE MA1751_1 MA1751_1_EIL3 ; From JASPAR
+PO	A	C	G	T
+01	204.241	387.276	204.241	204.241
+02	696.105	101.298	101.298	101.298
+03	22.7331	22.7331	931.801	22.7331
+04	499.115	0.148808	500.587	0.148808
+05	0.148808	0.148808	0.148808	999.554
+06	505.702	0.148808	0.148808	494.0
+07	0.148808	999.554	0.148808	0.148808
+08	999.554	0.148808	0.148808	0.148808
+09	45.9076	45.9076	45.9076	862.277
+10	148.851	148.851	148.851	553.448
+11	227.416	317.753	227.416	227.416
+XX
+CC tax_group:plants
+CC tf_family:EIL
+CC tf_class:
+CC pubmed_ids:28119721
+CC uniprot_ids:O23116
+CC data_type:DAP-seq
+XX
+//
+AC MA1752_1
+XX
+ID  ERF025
+XX
+DE MA1752_1 MA1752_1_ERF025 ; From JASPAR
+PO	A	C	G	T
+01	245.409	325.543	128.548	300.501
+02	210.351	340.568	136.895	312.187
+03	193.656	171.953	257.095	377.295
+04	128.548	342.237	76.795	452.421
+05	111.853	355.593	56.761	475.793
+06	238.731	3.339	757.93	0.0
+07	0.0	949.917	0.0	50.083
+08	0.0	1000.0	0.0	0.0
+09	0.0	0.0	1000.0	0.0
+10	939.9	16.694	0.0	43.406
+11	1.669	998.331	0.0	0.0
+12	814.691	3.339	163.606	18.364
+13	373.957	260.434	173.623	191.987
+14	348.915	198.664	111.853	340.568
+15	337.229	146.912	233.723	282.137
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9FJ90
+CC data_type:DAP-seq
+XX
+//
+AC MA1753_1
+XX
+ID  ERF057
+XX
+DE MA1753_1 MA1753_1_ERF057 ; From JASPAR
+PO	A	C	G	T
+01	84.775	636.678	86.505	192.042
+02	140.138	676.471	38.062	145.329
+03	366.782	115.917	271.626	245.675
+04	38.062	641.869	76.125	243.945
+05	72.664	802.768	31.142	93.426
+06	269.896	3.46	389.273	337.37
+07	34.602	861.592	44.983	58.824
+08	1.73	982.699	12.111	3.46
+09	410.035	1.73	577.855	10.381
+10	5.19	994.81	0.0	0.0
+11	0.0	1000.0	0.0	0.0
+12	89.965	3.46	873.702	32.872
+13	122.837	693.772	12.111	171.28
+14	51.903	856.401	0.0	91.696
+15	482.699	129.758	188.581	198.962
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9FJQ2
+CC data_type:DAP-seq
+XX
+//
+AC MA1754_1
+XX
+ID  ERF073
+XX
+DE MA1754_1 MA1754_1_ERF073 ; From JASPAR
+PO	A	C	G	T
+01	156.306	440.497	147.425	255.773
+02	209.591	474.245	90.586	225.577
+03	310.835	126.11	287.744	275.311
+04	115.453	479.574	133.215	271.758
+05	181.172	648.313	28.419	142.096
+06	168.739	88.81	376.554	365.897
+07	33.748	742.451	154.529	69.272
+08	24.867	975.133	0.0	0.0
+09	31.972	0.0	968.028	0.0
+10	0.0	992.895	0.0	7.105
+11	0.0	1000.0	0.0	0.0
+12	12.433	0.0	975.133	12.433
+13	0.0	948.49	0.0	51.51
+14	94.139	836.59	14.21	55.062
+15	506.217	0.0	380.107	113.677
+16	120.782	383.659	83.481	412.078
+17	275.311	293.073	62.167	369.449
+18	280.639	76.377	264.654	378.33
+19	150.977	419.183	108.348	321.492
+20	241.563	410.302	115.453	232.682
+21	261.101	177.62	323.268	238.011
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q8H0T5
+CC data_type:DAP-seq
+XX
+//
+AC MA1755_1
+XX
+ID  GATA4
+XX
+DE MA1755_1 MA1755_1_GATA4 ; From JASPAR
+PO	A	C	G	T
+01	287.104	250.462	176.667	285.767
+02	181.21	300.221	159.884	358.685
+03	437.69	167.17	255.627	139.512
+04	164.439	62.4937	739.361	33.7058
+05	938.813	3.37821	16.1048	41.7039
+06	41.7039	16.1048	3.37821	938.813
+07	33.7058	739.361	62.4937	164.439
+08	139.512	255.627	167.17	437.69
+09	358.685	159.884	300.221	181.21
+10	285.767	176.667	250.462	287.104
+XX
+CC tax_group:plants
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:27203113
+CC uniprot_ids:O49743
+CC data_type:PBM
+XX
+//
+AC MA1756_1
+XX
+ID  GRF9
+XX
+DE MA1756_1 MA1756_1_GRF9 ; From JASPAR
+PO	A	C	G	T
+01	163.043	130.435	184.783	521.739
+02	32.609	108.696	43.478	815.217
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	902.174	0.0	97.826
+06	967.391	32.609	0.0	0.0
+07	0.0	0.0	1000.0	0.0
+08	760.87	32.609	97.826	108.696
+09	478.261	163.043	206.522	152.174
+10	336.957	130.435	304.348	228.261
+11	456.522	163.043	119.565	260.87
+12	130.435	250.0	239.13	380.435
+13	369.565	163.043	130.435	336.957
+14	239.13	413.043	239.13	108.696
+15	478.261	217.391	119.565	184.783
+XX
+CC tax_group:plants
+CC tf_family:GRF
+CC tf_class:CH3
+CC pubmed_ids:22942381
+CC uniprot_ids:Q8S9M3
+CC data_type:DAP-seq
+XX
+//
+AC MA1757_1
+XX
+ID  HDG7
+XX
+DE MA1757_1 MA1757_1_HDG7 ; From JASPAR
+PO	A	C	G	T
+01	272.5	10.0	452.5	265.0
+02	30.0	902.5	0.0	67.5
+03	1000.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	0.0	0.0	1000.0
+06	790.0	2.5	7.5	200.0
+07	995.0	0.0	5.0	0.0
+08	462.5	0.0	0.0	537.5
+09	10.0	0.0	70.0	920.0
+10	452.5	15.0	395.0	137.5
+11	175.0	382.5	87.5	355.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:16778018
+CC uniprot_ids:Q9LTK3
+CC data_type:DAP-seq
+XX
+//
+AC MA1758_1
+XX
+ID  HSFA1E
+XX
+DE MA1758_1 MA1758_1_HSFA1E ; From JASPAR
+PO	A	C	G	T
+01	661.605	67.245	236.443	34.707
+02	10.846	0.0	986.985	2.169
+03	986.985	0.0	13.015	0.0
+04	939.262	4.338	26.03	30.369
+05	123.644	199.566	587.852	88.937
+06	210.412	420.824	203.905	164.859
+07	123.644	32.538	10.846	832.972
+08	39.046	0.0	10.846	950.108
+09	2.169	965.293	32.538	0.0
+10	47.722	84.599	13.015	854.664
+11	852.495	39.046	108.46	0.0
+12	2.169	6.508	980.477	10.846
+13	978.308	6.508	6.508	8.677
+14	774.403	30.369	86.768	108.46
+15	190.889	190.889	422.993	195.228
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:Q9SCW5
+CC data_type:DAP-seq
+XX
+//
+AC MA1759_1
+XX
+ID  HSFA4A
+XX
+DE MA1759_1 MA1759_1_HSFA4A ; From JASPAR
+PO	A	C	G	T
+01	227.045	200.334	140.234	432.387
+02	237.062	315.526	198.664	248.748
+03	285.476	203.673	171.953	338.898
+04	540.902	93.489	235.392	130.217
+05	153.589	71.786	689.482	85.142
+06	796.327	75.125	78.464	50.083
+07	804.674	28.381	45.075	121.87
+08	121.87	188.648	482.471	207.012
+09	106.845	575.96	185.309	131.886
+10	96.828	18.364	16.694	868.114
+11	8.347	5.008	0.0	986.644
+12	3.339	988.314	0.0	8.347
+13	5.008	73.456	28.381	893.155
+14	896.494	6.678	90.15	6.678
+15	10.017	8.347	969.95	11.686
+16	984.975	0.0	8.347	6.678
+17	853.088	35.058	28.381	83.472
+18	195.326	135.225	542.571	126.878
+19	330.551	375.626	160.267	133.556
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:O49403
+CC data_type:DAP-seq
+XX
+//
+AC MA1760_1
+XX
+ID  HSFA6A
+XX
+DE MA1760_1 MA1760_1_HSFA6A ; From JASPAR
+PO	A	C	G	T
+01	2.857	0.0	997.143	0.0
+02	982.857	0.0	0.0	17.143
+03	951.429	2.857	0.0	45.714
+04	80.0	234.286	574.286	111.429
+05	297.143	322.857	197.143	182.857
+06	117.143	34.286	0.0	848.571
+07	5.714	0.0	0.0	994.286
+08	0.0	1000.0	0.0	0.0
+09	0.0	51.429	17.143	931.429
+10	917.143	5.714	77.143	0.0
+11	0.0	0.0	997.143	2.857
+12	1000.0	0.0	0.0	0.0
+13	834.286	31.429	54.286	80.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:Q1PDN3
+CC data_type:DAP-seq
+XX
+//
+AC MA1761_1
+XX
+ID  HSFB3
+XX
+DE MA1761_1 MA1761_1_HSFB3 ; From JASPAR
+PO	A	C	G	T
+01	782.765	37.702	95.153	84.381
+02	894.075	7.181	0.0	98.743
+03	116.697	175.943	561.939	145.422
+04	91.562	596.05	204.668	107.72
+05	52.065	0.0	8.977	938.959
+06	1.795	0.0	7.181	991.023
+07	0.0	989.228	1.795	8.977
+08	0.0	199.282	48.474	752.244
+09	899.461	10.772	78.995	10.772
+10	163.375	17.953	712.747	105.925
+11	897.666	0.0	61.041	41.293
+12	802.513	30.521	62.837	104.129
+13	231.598	188.51	416.517	163.375
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:O22230
+CC data_type:DAP-seq
+XX
+//
+AC MA1762_1
+XX
+ID  MYB10
+XX
+DE MA1762_1 MA1762_1_MYB10 ; From JASPAR
+PO	A	C	G	T
+01	242.735	251.282	160.684	345.299
+02	99.145	312.821	116.239	471.795
+03	75.214	454.701	32.479	437.607
+04	17.094	707.692	18.803	256.41
+05	996.581	0.0	1.709	1.709
+06	8.547	991.453	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	350.427	3.419	0.0	646.154
+09	1000.0	0.0	0.0	0.0
+10	333.333	663.248	3.419	0.0
+11	13.675	823.932	1.709	160.684
+12	456.41	165.812	51.282	326.496
+13	353.846	235.897	56.41	353.846
+14	328.205	213.675	109.402	348.718
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9LTV4
+CC data_type:DAP-seq
+XX
+//
+AC MA1764_1
+XX
+ID  MYB116
+XX
+DE MA1764_1 MA1764_1_MYB116 ; From JASPAR
+PO	A	C	G	T
+01	156.997	267.918	119.454	455.631
+02	197.952	308.874	218.43	274.744
+03	54.608	153.584	107.509	684.3
+04	266.212	1.706	732.082	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	13.652	0.0	3.413	982.935
+08	1000.0	0.0	0.0	0.0
+09	977.816	22.184	0.0	0.0
+10	0.0	909.556	0.0	90.444
+11	133.106	107.509	5.119	754.266
+12	148.464	172.355	63.14	616.041
+13	203.072	184.3	87.031	525.597
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q94FU0
+CC data_type:DAP-seq
+XX
+//
+AC MA1765_1
+XX
+ID  MYB121
+XX
+DE MA1765_1 MA1765_1_MYB121 ; From JASPAR
+PO	A	C	G	T
+01	244.328	225.131	129.145	401.396
+02	130.89	284.468	102.967	481.675
+03	308.901	169.284	249.564	272.251
+04	197.208	101.222	108.202	593.368
+05	923.211	0.0	76.789	0.0
+06	3.49	996.51	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	94.241	0.0	82.024	823.735
+09	1000.0	0.0	0.0	0.0
+10	734.729	258.29	0.0	6.981
+11	41.885	719.023	0.0	239.092
+12	273.997	167.539	33.159	525.305
+13	296.684	153.578	87.26	462.478
+14	338.569	143.106	101.222	417.103
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:22197883
+CC uniprot_ids:Q9LRU5
+CC data_type:DAP-seq
+XX
+//
+AC MA1766_1
+XX
+ID  MYB17
+XX
+DE MA1766_1 MA1766_1_MYB17 ; From JASPAR
+PO	A	C	G	T
+01	70.053	439.58	77.058	413.31
+02	134.851	367.776	61.296	436.077
+03	101.576	609.457	10.508	278.459
+04	996.497	0.0	0.0	3.503
+05	129.597	870.403	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	241.681	40.28	0.0	718.039
+08	1000.0	0.0	0.0	0.0
+09	127.846	865.149	5.254	1.751
+10	1.751	805.604	0.0	192.644
+11	544.658	117.338	22.767	315.236
+12	420.315	246.935	57.793	274.956
+13	304.729	336.252	96.322	262.697
+14	315.236	227.671	101.576	355.517
+15	292.469	210.158	98.074	399.299
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9M2D9
+CC data_type:DAP-seq
+XX
+//
+AC MA1767_1
+XX
+ID  MYB23
+XX
+DE MA1767_1 MA1767_1_MYB23 ; From JASPAR
+PO	A	C	G	T
+01	231.884	347.826	120.773	299.517
+02	0.0	985.507	0.0	14.493
+03	1000.0	0.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	589.372	9.662	0.0	400.966
+07	1000.0	0.0	0.0	0.0
+08	420.29	342.995	101.449	135.266
+09	251.208	449.275	91.787	207.729
+10	309.179	154.589	72.464	463.768
+11	275.362	260.87	96.618	367.15
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q96276
+CC data_type:DAP-seq
+XX
+//
+AC MA1768_1
+XX
+ID  MYB30
+XX
+DE MA1768_1 MA1768_1_MYB30 ; From JASPAR
+PO	A	C	G	T
+01	153.199	306.397	195.286	345.118
+02	141.414	356.902	84.175	417.508
+03	260.943	439.394	67.34	232.323
+04	180.135	537.037	67.34	215.488
+05	11.785	843.434	0.0	144.781
+06	983.165	15.152	0.0	1.684
+07	880.471	102.694	3.367	13.468
+08	0.0	1000.0	0.0	0.0
+09	62.29	525.253	21.886	390.572
+10	764.31	11.785	173.401	50.505
+11	166.667	744.108	0.0	89.226
+12	85.859	681.818	0.0	232.323
+13	616.162	79.125	57.239	247.475
+14	402.357	383.838	45.455	168.35
+15	161.616	612.795	45.455	180.135
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SCU7
+CC data_type:DAP-seq
+XX
+//
+AC MA1769_1
+XX
+ID  MYB39
+XX
+DE MA1769_1 MA1769_1_MYB39 ; From JASPAR
+PO	A	C	G	T
+01	157.265	169.231	196.581	476.923
+02	49.573	309.402	94.017	547.009
+03	66.667	352.137	73.504	507.692
+04	34.188	670.085	17.094	278.632
+05	993.162	0.0	6.838	0.0
+06	138.462	856.41	0.0	5.128
+07	0.0	1000.0	0.0	0.0
+08	169.231	0.0	0.0	830.769
+09	1000.0	0.0	0.0	0.0
+10	553.846	439.316	0.0	6.838
+11	46.154	470.085	0.0	483.761
+12	252.991	78.632	0.0	668.376
+13	223.932	206.838	54.701	514.53
+14	252.991	218.803	92.308	435.897
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q8GWP0
+CC data_type:DAP-seq
+XX
+//
+AC MA1770_1
+XX
+ID  MYB40
+XX
+DE MA1770_1 MA1770_1_MYB40 ; From JASPAR
+PO	A	C	G	T
+01	42.194	350.211	126.582	481.013
+02	16.878	308.017	37.975	637.131
+03	25.316	430.38	0.0	544.304
+04	995.781	0.0	4.219	0.0
+05	8.439	991.561	0.0	0.0
+06	0.0	995.781	4.219	0.0
+07	405.063	0.0	0.0	594.937
+08	995.781	4.219	0.0	0.0
+09	400.844	590.717	0.0	8.439
+10	33.755	578.059	0.0	388.186
+11	371.308	147.679	88.608	392.405
+12	240.506	227.848	63.291	468.354
+13	244.726	261.603	97.046	396.624
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:F4K6R6
+CC data_type:DAP-seq
+XX
+//
+AC MA1771_1
+XX
+ID  MYB41
+XX
+DE MA1771_1 MA1771_1_MYB41 ; From JASPAR
+PO	A	C	G	T
+01	250.0	108.696	250.0	391.304
+02	201.087	184.783	86.957	527.174
+03	309.783	92.391	211.957	385.87
+04	103.261	141.304	521.739	233.696
+05	65.217	239.13	201.087	494.565
+06	76.087	179.348	70.652	673.913
+07	103.261	456.522	108.696	331.522
+08	1000.0	0.0	0.0	0.0
+09	54.348	945.652	0.0	0.0
+10	0.0	1000.0	0.0	0.0
+11	92.391	16.304	0.0	891.304
+12	1000.0	0.0	0.0	0.0
+13	619.565	369.565	0.0	10.87
+14	97.826	538.043	21.739	342.391
+15	217.391	135.87	10.87	635.87
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9M0J5
+CC data_type:DAP-seq
+XX
+//
+AC MA1772_1
+XX
+ID  MYB43
+XX
+DE MA1772_1 MA1772_1_MYB43 ; From JASPAR
+PO	A	C	G	T
+01	132.53	325.301	216.867	325.301
+02	0.0	361.446	84.337	554.217
+03	144.578	216.867	48.193	590.361
+04	24.096	542.169	12.048	421.687
+05	1000.0	0.0	0.0	0.0
+06	24.096	975.904	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	349.398	0.0	0.0	650.602
+09	1000.0	0.0	0.0	0.0
+10	397.59	602.41	0.0	0.0
+11	0.0	662.651	12.048	325.301
+12	289.157	156.627	24.096	530.12
+13	240.964	168.675	24.096	566.265
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SPG7
+CC data_type:DAP-seq
+XX
+//
+AC MA1773_1
+XX
+ID  MYB51
+XX
+DE MA1773_1 MA1773_1_MYB51 ; From JASPAR
+PO	A	C	G	T
+01	267.631	298.373	132.007	301.989
+02	289.331	198.915	106.691	405.063
+03	274.864	283.906	130.199	311.031
+04	262.206	321.881	121.157	294.756
+05	379.747	195.298	117.541	307.414
+06	356.239	179.024	173.599	291.139
+07	341.772	242.315	104.882	311.031
+08	381.555	195.298	148.282	274.864
+09	262.206	265.823	160.94	311.031
+10	285.714	226.04	155.515	332.731
+11	83.183	372.514	95.841	448.463
+12	99.458	385.172	90.416	424.955
+13	104.882	500.904	14.467	379.747
+14	998.192	1.808	0.0	0.0
+15	0.0	1000.0	0.0	0.0
+16	0.0	1000.0	0.0	0.0
+17	453.888	1.808	3.617	540.687
+18	998.192	0.0	1.808	0.0
+19	204.34	772.152	14.467	9.042
+20	83.183	589.512	19.892	307.414
+21	419.53	90.416	23.508	466.546
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:O49782
+CC data_type:DAP-seq
+XX
+//
+AC MA1774_1
+XX
+ID  MYB60
+XX
+DE MA1774_1 MA1774_1_MYB60 ; From JASPAR
+PO	A	C	G	T
+01	278.281	314.48	110.86	296.38
+02	328.054	190.045	151.584	330.317
+03	251.131	180.995	169.683	398.19
+04	144.796	361.991	85.973	407.24
+05	110.86	366.516	90.498	432.127
+06	85.973	513.575	52.036	348.416
+07	0.0	975.113	0.0	24.887
+08	993.213	4.525	2.262	0.0
+09	871.041	126.697	0.0	2.262
+10	0.0	1000.0	0.0	0.0
+11	65.611	529.412	0.0	404.977
+12	975.113	0.0	24.887	0.0
+13	128.959	834.842	0.0	36.199
+14	126.697	513.575	0.0	359.729
+15	244.344	85.973	65.611	604.072
+16	219.457	298.643	72.398	409.502
+17	246.606	285.068	101.81	366.516
+18	307.692	185.52	190.045	316.742
+19	187.783	339.367	133.484	339.367
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q8GYP5
+CC data_type:DAP-seq
+XX
+//
+AC MA1775_1
+XX
+ID  MYB61
+XX
+DE MA1775_1 MA1775_1_MYB61 ; From JASPAR
+PO	A	C	G	T
+01	236.486	314.189	162.162	287.162
+02	170.608	295.608	111.486	422.297
+03	146.959	434.122	163.851	255.068
+04	0.0	528.716	6.757	464.527
+05	1000.0	0.0	0.0	0.0
+06	204.392	795.608	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	427.365	69.257	0.0	503.378
+09	1000.0	0.0	0.0	0.0
+10	307.432	690.878	0.0	1.689
+11	0.0	859.797	0.0	140.203
+12	456.081	92.905	184.122	266.892
+13	219.595	326.014	121.622	332.77
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q8VZQ2
+CC data_type:DAP-seq
+XX
+//
+AC MA1776_1
+XX
+ID  MYB67
+XX
+DE MA1776_1 MA1776_1_MYB67 ; From JASPAR
+PO	A	C	G	T
+01	100.167	377.295	118.531	404.007
+02	81.803	480.801	198.664	238.731
+03	6.678	549.249	0.0	444.073
+04	1000.0	0.0	0.0	0.0
+05	91.82	904.841	0.0	3.339
+06	0.0	1000.0	0.0	0.0
+07	323.873	41.736	0.0	634.391
+08	1000.0	0.0	0.0	0.0
+09	597.663	400.668	0.0	1.669
+10	11.686	888.147	0.0	100.167
+11	445.743	116.861	245.409	191.987
+12	222.037	338.898	80.134	358.932
+13	253.756	275.459	101.836	368.948
+14	362.27	227.045	141.903	268.781
+15	250.417	307.179	155.259	287.145
+16	292.154	295.492	128.548	283.806
+17	297.162	258.765	160.267	283.806
+18	248.748	332.22	138.564	280.467
+19	318.865	225.376	133.556	322.204
+20	287.145	253.756	198.664	260.434
+21	272.12	303.84	150.25	273.79
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9LTW2
+CC data_type:DAP-seq
+XX
+//
+AC MA1777_1
+XX
+ID  MYB74
+XX
+DE MA1777_1 MA1777_1_MYB74 ; From JASPAR
+PO	A	C	G	T
+01	197.952	218.43	220.137	363.481
+02	68.259	302.048	93.857	535.836
+03	122.867	319.113	78.498	479.522
+04	18.771	568.259	29.01	383.959
+05	1000.0	0.0	0.0	0.0
+06	71.672	924.915	1.706	1.706
+07	0.0	1000.0	0.0	0.0
+08	168.942	0.0	0.0	831.058
+09	1000.0	0.0	0.0	0.0
+10	448.805	551.195	0.0	0.0
+11	5.119	716.724	0.0	278.157
+12	370.307	92.15	10.239	527.304
+13	324.232	230.375	66.553	378.84
+14	274.744	232.082	116.041	377.133
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9M0Y5
+CC data_type:DAP-seq
+XX
+//
+AC MA1778_1
+XX
+ID  MYB80
+XX
+DE MA1778_1 MA1778_1_MYB80 ; From JASPAR
+PO	A	C	G	T
+01	157.983	152.941	317.647	371.429
+02	62.185	242.017	136.134	559.664
+03	100.84	297.479	63.866	537.815
+04	62.185	470.588	65.546	401.681
+05	998.319	0.0	0.0	1.681
+06	228.571	771.429	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	211.765	8.403	5.042	774.79
+09	1000.0	0.0	0.0	0.0
+10	626.891	371.429	0.0	1.681
+11	80.672	391.597	8.403	519.328
+12	216.807	68.908	6.723	707.563
+13	294.118	194.958	28.571	482.353
+14	226.891	154.622	168.067	450.42
+15	257.143	196.639	139.496	406.723
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9XHV0
+CC data_type:DAP-seq
+XX
+//
+AC MA1779_1
+XX
+ID  MYB83
+XX
+DE MA1779_1 MA1779_1_MYB83 ; From JASPAR
+PO	A	C	G	T
+01	130.024	508.274	96.927	264.775
+02	108.747	810.875	4.728	75.65
+03	1000.0	0.0	0.0	0.0
+04	231.678	758.865	9.456	0.0
+05	0.0	992.908	0.0	7.092
+06	848.7	14.184	7.092	130.024
+07	822.695	125.296	52.009	0.0
+08	184.397	801.418	14.184	0.0
+09	290.78	489.362	16.548	203.31
+10	314.421	252.955	191.489	241.135
+11	186.761	557.92	66.194	189.125
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25220462
+CC uniprot_ids:Q9C6U1
+CC data_type:DAP-seq
+XX
+//
+AC MA1780_1
+XX
+ID  MYB92
+XX
+DE MA1780_1 MA1780_1_MYB92 ; From JASPAR
+PO	A	C	G	T
+01	197.861	262.032	149.733	390.374
+02	208.556	304.813	117.647	368.984
+03	144.385	379.679	69.519	406.417
+04	967.914	32.086	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	117.647	0.0	0.0	882.353
+08	1000.0	0.0	0.0	0.0
+09	700.535	299.465	0.0	0.0
+10	90.909	641.711	64.171	203.209
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:9628022
+CC uniprot_ids:Q9SBF3
+CC data_type:DAP-seq
+XX
+//
+AC MA1781_1
+XX
+ID  MYB94
+XX
+DE MA1781_1 MA1781_1_MYB94 ; From JASPAR
+PO	A	C	G	T
+01	400.353	211.64	105.82	282.187
+02	294.533	261.023	98.765	345.679
+03	192.24	301.587	164.021	342.152
+04	125.22	301.587	109.347	463.845
+05	186.949	455.026	105.82	252.205
+06	107.584	571.429	54.674	266.314
+07	0.0	931.217	0.0	68.783
+08	998.236	1.764	0.0	0.0
+09	788.36	211.64	0.0	0.0
+10	0.0	1000.0	0.0	0.0
+11	42.328	453.263	1.764	502.646
+12	975.309	0.0	17.637	7.055
+13	125.22	851.852	0.0	22.928
+14	51.146	582.011	0.0	366.843
+15	329.806	81.129	44.092	544.974
+16	268.078	266.314	86.42	379.189
+17	218.695	361.552	102.293	317.46
+18	269.841	257.496	137.566	335.097
+19	308.642	262.787	137.566	291.005
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SN78
+CC data_type:DAP-seq
+XX
+//
+AC MA1783_1
+XX
+ID  NAC005
+XX
+DE MA1783_1 MA1783_1_NAC005 ; From JASPAR
+PO	A	C	G	T
+01	222.034	59.322	27.119	691.525
+02	361.017	77.966	91.525	469.492
+03	415.254	183.051	271.186	130.508
+04	0.0	998.305	0.0	1.695
+05	0.0	0.0	3.39	996.61
+06	0.0	0.0	0.0	1000.0
+07	235.593	376.271	286.441	101.695
+08	125.424	149.153	93.22	632.203
+09	189.831	149.153	171.186	489.831
+10	179.661	345.763	62.712	411.864
+11	320.339	210.169	115.254	354.237
+12	494.915	152.542	177.966	174.576
+13	20.339	493.22	62.712	423.729
+14	998.305	0.0	1.695	0.0
+15	994.915	5.085	0.0	0.0
+16	0.0	0.0	1000.0	0.0
+17	62.712	157.627	116.949	662.712
+18	281.356	66.102	20.339	632.203
+19	462.712	18.644	20.339	498.305
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:O81914
+CC data_type:DAP-seq
+XX
+//
+AC MA1784_1
+XX
+ID  NAC011
+XX
+DE MA1784_1 MA1784_1_NAC011 ; From JASPAR
+PO	A	C	G	T
+01	236.842	74.561	548.246	140.351
+02	4.386	0.0	0.0	995.614
+03	26.316	0.0	8.772	964.912
+04	188.596	26.316	543.86	241.228
+05	0.0	1000.0	0.0	0.0
+06	0.0	0.0	48.246	951.754
+07	0.0	8.772	0.0	991.228
+08	105.263	429.825	372.807	92.105
+09	271.93	184.211	135.965	407.895
+10	280.702	175.439	298.246	245.614
+11	276.316	372.807	100.877	250.0
+12	214.912	307.018	131.579	346.491
+13	372.807	70.175	311.404	245.614
+14	0.0	793.86	105.263	100.877
+15	995.614	0.0	4.386	0.0
+16	793.86	201.754	0.0	4.386
+17	0.0	0.0	1000.0	0.0
+18	162.281	258.772	118.421	460.526
+19	618.421	109.649	17.544	254.386
+20	899.123	4.386	4.386	92.105
+21	118.421	535.088	92.105	254.386
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9LQK5
+CC data_type:DAP-seq
+XX
+//
+AC MA1785_1
+XX
+ID  NAC018
+XX
+DE MA1785_1 MA1785_1_NAC018 ; From JASPAR
+PO	A	C	G	T
+01	590.909	75.758	144.781	188.552
+02	28.62	609.428	97.643	264.31
+03	1000.0	0.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	33.67	286.195	195.286	484.848
+07	656.566	289.562	0.0	53.872
+08	792.929	0.0	0.0	207.071
+09	82.492	570.707	111.111	235.69
+10	72.391	405.724	57.239	464.646
+11	218.855	119.529	227.273	434.343
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9ZNU2
+CC data_type:DAP-seq
+XX
+//
+AC MA1786_1
+XX
+ID  NAC019
+XX
+DE MA1786_1 MA1786_1_NAC019 ; From JASPAR
+PO	A	C	G	T
+01	241.99	259.536	225.63	272.843
+02	351.522	147.271	279.296	221.91
+03	40.6829	542.294	104.147	312.876
+04	984.639	1.99826	1.97837	11.3847
+05	54.8179	938.251	0.545538	6.38542
+06	6.99085	3.91416	957.764	31.3308
+07	115.697	273.41	317.658	293.235
+08	516.624	349.784	34.3745	99.2176
+09	659.77	28.2725	71.657	240.301
+10	167.485	347.544	240.061	244.91
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:27203113
+CC uniprot_ids:Q9C932
+CC data_type:PBM
+XX
+//
+AC MA1787_1
+XX
+ID  NAC047
+XX
+DE MA1787_1 MA1787_1_NAC047 ; From JASPAR
+PO	A	C	G	T
+01	256.667	126.667	70.0	546.667
+02	278.333	201.667	148.333	371.667
+03	261.667	258.333	170.0	310.0
+04	260.0	206.667	165.0	368.333
+05	551.667	88.333	121.667	238.333
+06	6.667	708.333	33.333	251.667
+07	1000.0	0.0	0.0	0.0
+08	0.0	995.0	0.0	5.0
+09	1.667	10.0	980.0	8.333
+10	41.667	230.0	151.667	576.667
+11	521.667	366.667	5.0	106.667
+12	651.667	0.0	0.0	348.333
+13	48.333	640.0	96.667	215.0
+14	66.667	285.0	45.0	603.333
+15	195.0	136.667	166.667	501.667
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q84TD6
+CC data_type:DAP-seq
+XX
+//
+AC MA1788_1
+XX
+ID  NAC054
+XX
+DE MA1788_1 MA1788_1_NAC054 ; From JASPAR
+PO	A	C	G	T
+01	8.811	991.189	0.0	0.0
+02	0.0	0.0	299.559	700.441
+03	0.0	0.0	0.0	1000.0
+04	180.617	176.211	621.145	22.026
+05	233.48	162.996	114.537	488.987
+06	229.075	215.859	220.264	334.802
+07	193.833	312.775	189.427	303.965
+08	334.802	277.533	101.322	286.344
+09	656.388	8.811	189.427	145.374
+10	0.0	814.978	0.0	185.022
+11	1000.0	0.0	0.0	0.0
+12	123.348	876.652	0.0	0.0
+13	0.0	0.0	995.595	4.405
+14	44.053	378.855	105.727	471.366
+15	378.855	215.859	13.216	392.07
+16	885.463	8.811	8.811	96.916
+17	171.806	418.502	136.564	273.128
+18	123.348	651.982	101.322	123.348
+19	193.833	92.511	123.348	590.308
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FRV4
+CC data_type:DAP-seq
+XX
+//
+AC MA1789_1
+XX
+ID  NAC071
+XX
+DE MA1789_1 MA1789_1_NAC071 ; From JASPAR
+PO	A	C	G	T
+01	5.051	994.949	0.0	0.0
+02	0.0	3.367	134.68	861.953
+03	0.0	3.367	0.0	996.633
+04	45.455	508.418	338.384	107.744
+05	414.141	132.997	102.694	350.168
+06	228.956	227.273	126.263	417.508
+07	183.502	380.471	134.68	301.347
+08	116.162	309.764	124.579	449.495
+09	149.832	190.236	122.896	537.037
+10	28.62	740.741	146.465	84.175
+11	1000.0	0.0	0.0	0.0
+12	632.997	367.003	0.0	0.0
+13	1.684	0.0	968.013	30.303
+14	89.226	340.067	65.657	505.051
+15	707.071	84.175	0.0	208.754
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:O49697
+CC data_type:DAP-seq
+XX
+//
+AC MA1790_1
+XX
+ID  NAC073
+XX
+DE MA1790_1 MA1790_1_NAC073 ; From JASPAR
+PO	A	C	G	T
+01	3.35	984.925	0.0	11.725
+02	5.025	0.0	199.33	795.645
+03	0.0	6.7	1.675	991.625
+04	134.003	452.261	388.61	25.126
+05	319.933	102.178	40.201	537.688
+06	179.229	239.531	189.28	391.96
+07	185.93	396.985	217.755	199.33
+08	244.556	259.631	125.628	370.184
+09	422.111	26.801	46.901	504.188
+10	20.101	586.265	118.928	274.707
+11	984.925	8.375	0.0	6.7
+12	442.211	557.789	0.0	0.0
+13	67.002	0.0	837.521	95.477
+14	80.402	574.539	53.601	291.457
+15	251.256	221.106	3.35	524.288
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:O49459
+CC data_type:DAP-seq
+XX
+//
+AC MA1791_1
+XX
+ID  NAC087
+XX
+DE MA1791_1 MA1791_1_NAC087 ; From JASPAR
+PO	A	C	G	T
+01	34.783	0.0	0.0	965.217
+02	250.435	15.652	126.957	606.957
+03	373.913	142.609	245.217	238.261
+04	3.478	996.522	0.0	0.0
+05	0.0	0.0	330.435	669.565
+06	8.696	1.739	0.0	989.565
+07	130.435	158.261	693.913	17.391
+08	172.174	135.652	38.261	653.913
+09	231.304	194.783	250.435	323.478
+10	240.0	314.783	163.478	281.739
+11	206.957	307.826	165.217	320.0
+12	566.957	40.0	194.783	198.261
+13	0.0	777.391	10.435	212.174
+14	1000.0	0.0	0.0	0.0
+15	278.261	721.739	0.0	0.0
+16	0.0	0.0	980.87	19.13
+17	76.522	283.478	102.609	537.391
+18	398.261	175.652	8.696	417.391
+19	846.957	1.739	3.478	147.826
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FK44
+CC data_type:DAP-seq
+XX
+//
+AC MA1792_1
+XX
+ID  NAC098
+XX
+DE MA1792_1 MA1792_1_NAC098 ; From JASPAR
+PO	A	C	G	T
+01	17.212	982.788	0.0	0.0
+02	0.0	0.0	406.196	593.804
+03	0.0	0.0	0.0	1000.0
+04	91.222	117.04	781.411	10.327
+05	144.578	142.857	46.472	666.093
+06	216.867	197.935	253.012	332.186
+07	235.8	290.878	180.723	292.599
+08	246.127	278.83	148.021	327.022
+09	535.284	43.029	179.002	242.685
+10	5.164	731.497	24.096	239.243
+11	1000.0	0.0	0.0	0.0
+12	318.417	678.141	0.0	3.442
+13	1.721	0.0	981.067	17.212
+14	63.683	247.849	118.761	569.707
+15	351.119	223.752	0.0	425.129
+16	829.604	1.721	5.164	163.511
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:O04017
+CC data_type:DAP-seq
+XX
+//
+AC MA1793_1
+XX
+ID  NID1
+XX
+DE MA1793_1 MA1793_1_NID1 ; From JASPAR
+PO	A	C	G	T
+01	194.581	387.94	244.9	172.578
+02	116.234	224.888	28.951	629.927
+03	131.798	102.644	92.8765	672.681
+04	961.631	3.89086	14.4202	20.0581
+05	17.9262	36.0989	14.9732	931.002
+06	23.0713	933.172	15.0081	28.7486
+07	43.2075	636.52	69.1318	251.141
+08	412.024	101.604	281.767	204.605
+09	245.25	233.289	221.912	299.549
+10	368.215	162.173	158.962	310.65
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:27203113
+CC uniprot_ids:Q84TG2
+CC data_type:PBM
+XX
+//
+AC MA1794_1
+XX
+ID  NLP7
+XX
+DE MA1794_1 MA1794_1_NLP7 ; From JASPAR
+PO	A	C	G	T
+01	447.059	109.244	117.647	326.05
+02	341.176	129.412	164.706	364.706
+03	299.16	89.076	183.193	428.571
+04	10.084	181.513	1.681	806.723
+05	65.546	0.0	934.454	0.0
+06	329.412	174.79	339.496	156.303
+07	0.0	1000.0	0.0	0.0
+08	0.0	443.697	40.336	515.966
+09	18.487	389.916	21.849	569.748
+10	10.084	80.672	0.0	909.244
+11	38.655	15.126	0.0	946.218
+12	99.16	472.269	322.689	105.882
+13	400.0	112.605	415.126	72.269
+14	305.882	122.689	351.261	220.168
+15	346.218	122.689	280.672	250.42
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:RWP-RK
+CC pubmed_ids:23511481
+CC uniprot_ids:Q84TH9
+CC data_type:DAP-seq
+XX
+//
+AC MA1795_1
+XX
+ID  RAP2-4
+XX
+DE MA1795_1 MA1795_1_RAP2-4 ; From JASPAR
+PO	A	C	G	T
+01	180.753	553.982	128.655	136.61
+02	584.029	0.180857	415.695	0.0
+03	0.969223	933.312	65.2835	0.4355
+04	1.16794	968.011	0.0911949	30.7301
+05	93.4849	6.80597	786.663	113.047
+06	496.772	241.805	80.4898	180.934
+07	98.7225	822.47	0.368731	78.4383
+08	270.589	550.376	52.4889	126.546
+09	468.198	141.019	160.596	230.187
+10	268.544	245.43	189.239	296.787
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q8H1E4
+CC data_type:PBM
+XX
+//
+AC MA1796_1
+XX
+ID  RAP2-7
+XX
+DE MA1796_1 MA1796_1_RAP2-7 ; From JASPAR
+PO	A	C	G	T
+01	0.830565	0.830565	250.0	748.339
+02	614.264	154.141	230.828	0.766871
+03	0.712251	784.188	214.387	0.712251
+04	0.712251	0.712251	855.413	143.162
+05	690.951	0.766871	307.515	0.766871
+06	0.766871	0.766871	921.012	77.454
+07	0.766871	0.766871	997.699	0.766871
+08	272.645	0.905797	182.065	544.384
+XX
+CC tax_group:plants
+CC tf_family:AP2
+CC tf_class:AP2/EREBP
+CC pubmed_ids:26410299
+CC uniprot_ids:Q9SK03
+CC data_type:PBM
+XX
+//
+AC MA1797_1
+XX
+ID  RAV2
+XX
+DE MA1797_1 MA1797_1_RAV2 ; From JASPAR
+PO	A	C	G	T
+01	214.387	71.9373	712.963	0.712251
+02	0.453721	998.639	0.453721	0.453721
+03	907.895	0.453721	91.1978	0.453721
+04	998.639	0.453721	0.453721	0.453721
+05	0.453721	998.639	0.453721	0.453721
+06	998.639	0.453721	0.453721	0.453721
+07	0.453721	0.453721	136.57	862.523
+08	561.721	250.0	0.623441	187.656
+XX
+CC tax_group:plants
+CC tf_family:RAV
+CC tf_class:B3
+CC pubmed_ids:9862967
+CC uniprot_ids:P82280
+CC data_type:PBM
+XX
+//
+AC MA1799_1
+XX
+ID  SPL10
+XX
+DE MA1799_1 MA1799_1_SPL10 ; From JASPAR
+PO	A	C	G	T
+01	299.611	233.337	164.43	302.622
+02	197.136	260.837	148.993	393.034
+03	33.7681	0.364043	962.482	3.38555
+04	0.776952	4.74753	14.4057	980.07
+05	957.365	41.8539	0.347909	0.433521
+06	10.4636	970.586	9.09659	9.85422
+07	58.1111	44.3608	744.234	153.294
+08	337.057	23.1097	596.006	43.8271
+09	490.095	163.138	100.947	245.82
+10	298.562	323.429	165.501	212.508
+XX
+CC tax_group:plants
+CC tf_family:SBP
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16554053
+CC uniprot_ids:Q8S9L0
+CC data_type:PBM
+XX
+//
+AC MA1800_1
+XX
+ID  TEM1
+XX
+DE MA1800_1 MA1800_1_TEM1 ; From JASPAR
+PO	A	C	G	T
+01	219.542	97.7096	682.505	0.243665
+02	87.8331	911.816	0.175316	0.175316
+03	874.61	15.7714	109.463	0.156152
+04	999.532	0.156152	0.156152	0.156152
+05	0.156152	999.532	0.156152	0.156152
+06	999.532	0.156152	0.156152	0.156152
+07	0.172295	0.172295	241.385	758.27
+08	599.65	125.125	0.24975	274.975
+XX
+CC tax_group:plants
+CC tf_family:RAV
+CC tf_class:B3
+CC pubmed_ids:9862967
+CC uniprot_ids:Q9C6M5
+CC data_type:PBM
+XX
+//
+AC MA1801_1
+XX
+ID  TREE1
+XX
+DE MA1801_1 MA1801_1_TREE1 ; From JASPAR
+PO	A	C	G	T
+01	331.239	222.92	222.92	222.92
+02	174.296	174.296	477.112	174.296
+03	49.5298	157.848	242.295	550.327
+04	190.934	208.474	96.4523	504.14
+05	808.57	0.248198	0.248198	190.934
+06	0.248198	0.248198	900.554	98.9491
+07	190.934	808.57	0.248198	0.248198
+08	98.9491	0.248198	0.248198	900.554
+09	315.841	27.3278	432.68	224.151
+10	385.892	170.017	176.875	267.216
+11	200.718	200.718	296.922	301.641
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:33139535
+CC uniprot_ids:O81793
+CC data_type:PBM
+XX
+//
+AC MA1802_1
+XX
+ID  TRP5
+XX
+DE MA1802_1 MA1802_1_TRP5 ; From JASPAR
+PO	A	C	G	T
+01	190.483	350.571	281.34	177.605
+02	303.26	238.553	109.354	348.832
+03	343.327	61.4782	56.7515	538.444
+04	845.275	18.7213	119.064	16.9397
+05	851.986	24.2295	28.4335	95.3515
+06	745.83	124.524	98.9385	30.7072
+07	43.5582	775.957	7.34557	173.139
+08	25.9422	930.638	17.2165	26.2029
+09	90.9602	518.232	70.135	320.673
+10	190.934	334.262	109.063	365.741
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:15364931
+CC uniprot_ids:Q6R0E3
+CC data_type:PBM
+XX
+//
+AC MA1803_1
+XX
+ID  VIP1
+XX
+DE MA1803_1 MA1803_1_VIP1 ; From JASPAR
+PO	A	C	G	T
+01	341.404	101.695	210.654	346.247
+02	99.274	108.959	48.426	743.341
+03	16.949	0.0	849.879	133.172
+04	508.475	481.84	9.685	0.0
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	19.37	0.0	980.63	0.0
+08	0.0	978.208	9.685	12.107
+09	0.0	33.898	0.0	966.102
+10	101.695	96.852	753.027	48.426
+11	162.228	0.0	276.029	561.743
+12	341.404	261.501	169.492	227.603
+13	268.765	346.247	101.695	283.293
+14	404.358	220.339	121.065	254.237
+XX
+CC tax_group:plants
+CC tf_family:Group I
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:23942522
+CC uniprot_ids:Q9MA75
+CC data_type:DAP-seq
+XX
+//
+AC MA1804_1
+XX
+ID  WIN1
+XX
+DE MA1804_1 MA1804_1_WIN1 ; From JASPAR
+PO	A	C	G	T
+01	248.762	390.137	266.799	94.3015
+02	136.992	720.483	132.943	9.58234
+03	384.131	0.677724	614.608	0.583322
+04	1.02898	795.182	186.526	17.2631
+05	1.11886	955.576	0.685446	42.6196
+06	201.865	9.18523	711.658	77.2925
+07	164.166	679.174	79.1131	77.5465
+08	348.47	351.972	155.019	144.539
+09	253.096	163.003	425.715	158.186
+10	184.07	238.726	171.626	405.579
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9XI33
+CC data_type:PBM
+XX
+//
+AC MA1805_1
+XX
+ID  WRKY53
+XX
+DE MA1805_1 MA1805_1_WRKY53 ; From JASPAR
+PO	A	C	G	T
+01	426.335	115.034	401.507	57.1241
+02	7.90237	0.0860491	979.618	12.3934
+03	0.408888	0.392855	1.26578	997.932
+04	45.9119	950.25	1.38642	2.45156
+05	895.975	55.585	9.65922	38.7803
+06	895.657	7.51994	75.759	21.0638
+07	84.7546	706.102	56.2474	152.896
+08	136.43	193.603	485.806	184.161
+09	204.341	314.124	262.378	219.157
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9SUP6
+CC data_type:PBM
+XX
+//
+AC MA1807_1
+XX
+ID  ZHD10
+XX
+DE MA1807_1 MA1807_1_ZHD10 ; From JASPAR
+PO	A	C	G	T
+01	255.319	296.099	159.574	289.007
+02	306.738	63.83	166.667	462.766
+03	0.0	28.369	0.0	971.631
+04	828.014	0.0	171.986	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	0.0	0.0	1000.0
+08	1000.0	0.0	0.0	0.0
+09	627.66	0.0	372.34	0.0
+10	92.199	171.986	138.298	597.518
+11	225.177	159.574	244.681	370.567
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:21059647
+CC uniprot_ids:Q9FIW9
+CC data_type:DAP-seq
+XX
+//
+AC MA1808_1
+XX
+ID  GLYMA-06G314400
+XX
+DE MA1808_1 MA1808_1_GLYMA-06G314400 ; From JASPAR
+PO	A	C	G	T
+01	4908.0	11920.0	5299.0	5706.0
+02	18522.0	2293.0	3696.0	3322.0
+03	1272.0	24345.0	1277.0	939.0
+04	745.0	411.0	25777.0	900.0
+05	433.0	530.0	207.0	26663.0
+06	595.0	357.0	26215.0	666.0
+07	1246.0	1261.0	21101.0	4225.0
+08	1863.0	24505.0	862.0	603.0
+09	22437.0	1356.0	2120.0	1920.0
+10	7096.0	6788.0	6336.0	7613.0
+11	7296.0	6274.0	6535.0	7728.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:18365246
+CC uniprot_ids:I1KFN0
+CC data_type:ChIP-seq
+XX
+//
+AC MA1809_1
+XX
+ID  GLYMA-07G038400
+XX
+DE MA1809_1 MA1809_1_GLYMA-07G038400 ; From JASPAR
+PO	A	C	G	T
+01	2069.0	1964.0	1378.0	2122.0
+02	2150.0	1352.0	1300.0	2731.0
+03	298.0	6804.0	260.0	171.0
+04	505.0	238.0	127.0	6663.0
+05	232.0	167.0	6779.0	355.0
+06	6019.0	729.0	272.0	513.0
+07	214.0	6887.0	189.0	243.0
+08	6590.0	315.0	162.0	466.0
+09	211.0	6694.0	246.0	382.0
+10	2179.0	1453.0	1704.0	2197.0
+11	1788.0	1676.0	1555.0	2514.0
+XX
+CC tax_group:plants
+CC tf_family:GRF
+CC tf_class:CH3
+CC pubmed_ids:29985961
+CC uniprot_ids:I1KHB3
+CC data_type:ChIP-seq
+XX
+//
+AC MA1810_1
+XX
+ID  GLYMA-08G357600
+XX
+DE MA1810_1 MA1810_1_GLYMA-08G357600 ; From JASPAR
+PO	A	C	G	T
+01	49.0	38.0	47.0	55.0
+02	44.0	66.0	33.0	46.0
+03	120.0	11.0	24.0	34.0
+04	13.0	7.0	10.0	159.0
+05	4.0	10.0	172.0	3.0
+06	5.0	177.0	1.0	6.0
+07	183.0	2.0	2.0	2.0
+08	7.0	3.0	1.0	178.0
+09	2.0	4.0	179.0	4.0
+10	8.0	163.0	8.0	10.0
+11	158.0	8.0	9.0	14.0
+12	42.0	29.0	54.0	64.0
+13	46.0	41.0	60.0	42.0
+14	48.0	37.0	46.0	58.0
+XX
+CC tax_group:plants
+CC tf_family:ABI3
+CC tf_class:B3
+CC pubmed_ids:29660015
+CC uniprot_ids:I1KZD3
+CC data_type:ChIP-seq
+XX
+//
+AC MA1811_1
+XX
+ID  GLYMA-13G317000
+XX
+DE MA1811_1 MA1811_1_GLYMA-13G317000 ; From JASPAR
+PO	A	C	G	T
+01	3013.0	8215.0	3433.0	3671.0
+02	12296.0	1390.0	2539.0	2107.0
+03	660.0	16694.0	566.0	412.0
+04	370.0	182.0	17411.0	369.0
+05	310.0	369.0	140.0	17513.0
+06	434.0	269.0	17185.0	444.0
+07	791.0	895.0	13599.0	3047.0
+08	1190.0	16137.0	626.0	379.0
+09	14399.0	966.0	1636.0	1331.0
+10	4529.0	4702.0	4253.0	4848.0
+11	4885.0	4354.0	4336.0	4757.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:18365246
+CC uniprot_ids:K7M309
+CC data_type:ChIP-seq
+XX
+//
+AC MA1812_1
+XX
+ID  ASR1
+XX
+DE MA1812_1 MA1812_1_ASR1 ; From JASPAR
+PO	A	C	G	T
+01	53.0	36.0	19.0	48.0
+02	42.0	34.0	35.0	45.0
+03	33.0	51.0	24.0	48.0
+04	124.0	10.0	5.0	17.0
+05	20.0	1.0	135.0	0.0
+06	1.0	0.0	155.0	0.0
+07	0.0	153.0	0.0	3.0
+08	0.0	156.0	0.0	0.0
+09	0.0	155.0	0.0	1.0
+10	149.0	1.0	6.0	0.0
+11	111.0	6.0	7.0	32.0
+12	41.0	14.0	7.0	94.0
+13	69.0	19.0	14.0	54.0
+14	59.0	21.0	34.0	42.0
+15	46.0	29.0	26.0	55.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:15101820
+CC uniprot_ids:A0A3Q7EM19
+CC data_type:ChIP-seq
+XX
+//
+AC MA1813_1
+XX
+ID  EIL4
+XX
+DE MA1813_1 MA1813_1_EIL4 ; From JASPAR
+PO	A	C	G	T
+01	85.0	38.0	51.0	307.0
+02	211.0	29.0	68.0	173.0
+03	0.0	481.0	0.0	0.0
+04	415.0	0.0	26.0	40.0
+05	439.0	11.0	11.0	20.0
+06	21.0	25.0	4.0	431.0
+07	1.0	0.0	478.0	2.0
+08	389.0	6.0	6.0	80.0
+09	466.0	8.0	0.0	7.0
+10	75.0	99.0	51.0	256.0
+11	149.0	105.0	81.0	146.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:EIL
+CC pubmed_ids:15811366
+CC uniprot_ids:Q76DI3
+CC data_type:ChIP-seq
+XX
+//
+AC MA1814_1
+XX
+ID  RIN
+XX
+DE MA1814_1 MA1814_1_RIN ; From JASPAR
+PO	A	C	G	T
+01	1259.0	576.0	683.0	2305.0
+02	1295.0	689.0	719.0	2120.0
+03	682.0	3258.0	246.0	637.0
+04	235.0	573.0	85.0	3930.0
+05	3927.0	239.0	87.0	570.0
+06	248.0	163.0	98.0	4314.0
+07	469.0	70.0	55.0	4229.0
+08	203.0	33.0	50.0	4537.0
+09	357.0	58.0	99.0	4309.0
+10	285.0	65.0	143.0	4330.0
+11	331.0	32.0	4270.0	190.0
+12	265.0	110.0	3924.0	524.0
+13	1089.0	525.0	2029.0	1180.0
+14	1882.0	765.0	670.0	1506.0
+15	1945.0	689.0	680.0	1509.0
+XX
+CC tax_group:plants
+CC tf_family:MIKC
+CC tf_class:MADS box factors
+CC pubmed_ids:18363783
+CC uniprot_ids:Q8S4L4
+CC data_type:ChIP-seq
+XX
+//
+AC MA1815_1
+XX
+ID  GRF4
+XX
+DE MA1815_1 MA1815_1_GRF4 ; From JASPAR
+PO	A	C	G	T
+01	19.0	24.0	8.0	14.0
+02	23.0	8.0	16.0	18.0
+03	7.0	1.0	54.0	3.0
+04	3.0	59.0	3.0	0.0
+05	56.0	1.0	5.0	3.0
+06	2.0	1.0	61.0	1.0
+07	3.0	60.0	0.0	2.0
+08	53.0	2.0	0.0	10.0
+09	2.0	3.0	59.0	1.0
+10	2.0	59.0	4.0	0.0
+11	22.0	11.0	6.0	26.0
+12	19.0	8.0	24.0	14.0
+13	11.0	28.0	12.0	14.0
+XX
+CC tax_group:plants
+CC tf_family:GRF
+CC tf_class:CH3
+CC pubmed_ids:24532604
+CC uniprot_ids:Q6ZIK5 
+CC data_type:ChIP-seq
+XX
+//
+AC MA1816_1
+XX
+ID  O11
+XX
+DE MA1816_1 MA1816_1_O11 ; From JASPAR
+PO	A	C	G	T
+01	1186.0	1538.0	1632.0	1104.0
+02	1291.0	1413.0	1400.0	1356.0
+03	964.0	1164.0	1901.0	1431.0
+04	22.0	5216.0	61.0	161.0
+05	5442.0	10.0	0.0	8.0
+06	3.0	5439.0	15.0	3.0
+07	4.0	17.0	5435.0	4.0
+08	8.0	0.0	12.0	5440.0
+09	163.0	60.0	5212.0	25.0
+10	1431.0	1901.0	1164.0	964.0
+11	1359.0	1392.0	1416.0	1293.0
+12	1105.0	1631.0	1539.0	1185.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:7742856
+CC uniprot_ids:A0A1D6EAS7
+CC data_type:ChIP-seq
+XX
+//
+AC MA1817_1
+XX
+ID  Zm00001d020267
+XX
+DE MA1817_1 MA1817_1_Zm00001d020267 ; From JASPAR
+PO	A	C	G	T
+01	1873.0	7440.0	3127.0	2361.0
+02	1541.0	8346.0	2985.0	1929.0
+03	453.0	711.0	13149.0	488.0
+04	299.0	13416.0	683.0	403.0
+05	271.0	13624.0	555.0	351.0
+06	567.0	247.0	13656.0	331.0
+07	308.0	13462.0	632.0	399.0
+08	277.0	13749.0	446.0	329.0
+09	458.0	233.0	13639.0	471.0
+10	379.0	13257.0	657.0	508.0
+11	354.0	13267.0	760.0	420.0
+12	2204.0	3064.0	7641.0	1892.0
+13	2006.0	6993.0	3317.0	2485.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:26303437
+CC uniprot_ids:A0A060D1F1
+CC data_type:ChIP-seq
+XX
+//
+AC MA1818_1
+XX
+ID  Zm00001d052229
+XX
+DE MA1818_1 MA1818_1_Zm00001d052229 ; From JASPAR
+PO	A	C	G	T
+01	975.0	4801.0	2029.0	1151.0
+02	1193.0	1587.0	5207.0	969.0
+03	0.0	8956.0	0.0	0.0
+04	0.0	8956.0	0.0	0.0
+05	0.0	0.0	8956.0	0.0
+06	0.0	8956.0	0.0	0.0
+07	0.0	8956.0	0.0	0.0
+08	0.0	0.0	8956.0	0.0
+09	977.0	5049.0	1720.0	1210.0
+10	920.0	5142.0	1908.0	986.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:C4JBG6
+CC data_type:ChIP-seq
+XX
+//
+AC MA1819_1
+XX
+ID  Zm00001d005892
+XX
+DE MA1819_1 MA1819_1_Zm00001d005892 ; From JASPAR
+PO	A	C	G	T
+01	3849.0	7060.0	12797.0	3667.0
+02	3675.0	11954.0	6742.0	5002.0
+03	761.0	24431.0	1309.0	872.0
+04	795.0	767.0	25046.0	765.0
+05	852.0	23527.0	1794.0	1200.0
+06	535.0	25251.0	917.0	670.0
+07	795.0	435.0	25421.0	722.0
+08	885.0	23482.0	1696.0	1310.0
+09	613.0	25022.0	990.0	748.0
+10	1241.0	1029.0	24113.0	990.0
+11	3768.0	12889.0	5911.0	4805.0
+12	3329.0	13547.0	6580.0	3917.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:A0A1D6ERG6
+CC data_type:ChIP-seq
+XX
+//
+AC MA1820_1
+XX
+ID  Zm00001d024324
+XX
+DE MA1820_1 MA1820_1_Zm00001d024324 ; From JASPAR
+PO	A	C	G	T
+01	3094.0	5929.0	10701.0	2995.0
+02	2719.0	10708.0	5462.0	3830.0
+03	548.0	20536.0	959.0	676.0
+04	630.0	627.0	20748.0	714.0
+05	475.0	20683.0	934.0	627.0
+06	474.0	20957.0	695.0	593.0
+07	619.0	350.0	21141.0	609.0
+08	508.0	20319.0	1100.0	792.0
+09	499.0	20733.0	864.0	623.0
+10	685.0	425.0	20848.0	761.0
+11	692.0	19965.0	1113.0	949.0
+12	2485.0	11929.0	5360.0	2945.0
+13	3014.0	5407.0	11092.0	3206.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:K7TL41
+CC data_type:ChIP-seq
+XX
+//
+AC MA1821_1
+XX
+ID  Zm00001d020595
+XX
+DE MA1821_1 MA1821_1_Zm00001d020595 ; From JASPAR
+PO	A	C	G	T
+01	856.0	1437.0	3902.0	869.0
+02	962.0	1187.0	4239.0	676.0
+03	0.0	7064.0	0.0	0.0
+04	0.0	0.0	7064.0	0.0
+05	1.0	0.0	7061.0	2.0
+06	0.0	7062.0	1.0	1.0
+07	0.0	0.0	7064.0	0.0
+08	0.0	0.0	7064.0	0.0
+09	0.0	7056.0	3.0	5.0
+10	759.0	1193.0	4405.0	707.0
+11	1110.0	1448.0	3732.0	774.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:A0A1D6I4Y7
+CC data_type:ChIP-seq
+XX
+//
+AC MA1822_1
+XX
+ID  Zm00001d018571
+XX
+DE MA1822_1 MA1822_1_Zm00001d018571 ; From JASPAR
+PO	A	C	G	T
+01	144.0	229.0	142.0	199.0
+02	235.0	164.0	171.0	144.0
+03	116.0	336.0	118.0	144.0
+04	69.0	59.0	563.0	23.0
+05	10.0	50.0	24.0	630.0
+06	675.0	15.0	16.0	8.0
+07	13.0	637.0	19.0	45.0
+08	58.0	25.0	613.0	18.0
+09	8.0	17.0	14.0	675.0
+10	630.0	19.0	54.0	11.0
+11	23.0	580.0	51.0	60.0
+12	180.0	144.0	261.0	129.0
+13	148.0	180.0	163.0	223.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:A0A1D6HQE4
+CC data_type:ChIP-seq
+XX
+//
+AC MA1823_1
+XX
+ID  Zm00001d027846
+XX
+DE MA1823_1 MA1823_1_Zm00001d027846 ; From JASPAR
+PO	A	C	G	T
+01	430.0	159.0	223.0	175.0
+02	399.0	157.0	264.0	167.0
+03	818.0	46.0	86.0	37.0
+04	893.0	17.0	44.0	33.0
+05	929.0	6.0	30.0	22.0
+06	23.0	24.0	866.0	74.0
+07	896.0	29.0	38.0	24.0
+08	915.0	11.0	28.0	33.0
+09	914.0	27.0	33.0	13.0
+10	752.0	53.0	123.0	59.0
+11	429.0	154.0	233.0	171.0
+12	424.0	130.0	261.0	172.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10074718
+CC uniprot_ids:B4FDH4
+CC data_type:ChIP-seq
+XX
+//
+AC MA1824_1
+XX
+ID  Zm00001d005692
+XX
+DE MA1824_1 MA1824_1_Zm00001d005692 ; From JASPAR
+PO	A	C	G	T
+01	1156.0	633.0	652.0	815.0
+02	1009.0	821.0	681.0	745.0
+03	440.0	1879.0	254.0	683.0
+04	3130.0	34.0	27.0	65.0
+05	3145.0	30.0	24.0	57.0
+06	31.0	47.0	32.0	3146.0
+07	2697.0	148.0	148.0	263.0
+08	3173.0	18.0	28.0	37.0
+09	72.0	19.0	26.0	3139.0
+10	706.0	240.0	520.0	1790.0
+11	912.0	699.0	925.0	720.0
+12	1010.0	563.0	674.0	1009.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:8253077
+CC uniprot_ids:C0PNY4
+CC data_type:ChIP-seq
+XX
+//
+AC MA1825_1
+XX
+ID  Zm00001d044409
+XX
+DE MA1825_1 MA1825_1_Zm00001d044409 ; From JASPAR
+PO	A	C	G	T
+01	1019.0	574.0	629.0	901.0
+02	1124.0	488.0	595.0	916.0
+03	295.0	1554.0	370.0	904.0
+04	10.0	2994.0	92.0	27.0
+05	20.0	52.0	142.0	2909.0
+06	27.0	1.0	2.0	3093.0
+07	3099.0	9.0	14.0	1.0
+08	25.0	87.0	28.0	2983.0
+09	48.0	3042.0	10.0	23.0
+10	364.0	1215.0	302.0	1242.0
+11	755.0	762.0	832.0	774.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:10652136
+CC uniprot_ids:A0A1D6NLI6
+CC data_type:ChIP-seq
+XX
+//
+AC MA1826_1
+XX
+ID  bHLH145
+XX
+DE MA1826_1 MA1826_1_bHLH145 ; From JASPAR
+PO	A	C	G	T
+01	314.0	634.0	473.0	358.0
+02	454.0	432.0	582.0	311.0
+03	193.0	1148.0	188.0	250.0
+04	176.0	158.0	1370.0	75.0
+05	34.0	1582.0	42.0	121.0
+06	1562.0	47.0	115.0	55.0
+07	13.0	1620.0	33.0	113.0
+08	113.0	34.0	1619.0	13.0
+09	57.0	121.0	48.0	1553.0
+10	120.0	41.0	1584.0	34.0
+11	75.0	1367.0	160.0	177.0
+12	247.0	188.0	1151.0	193.0
+13	313.0	581.0	433.0	452.0
+14	356.0	472.0	636.0	315.0
+XX
+CC tax_group:plants
+CC tf_family:ARF
+CC tf_class:B3
+CC pubmed_ids:2145628
+CC uniprot_ids:ZmARF5
+CC data_type:ChIP-seq
+XX
+//
+AC MA1827_1
+XX
+ID  Zm00001d044785
+XX
+DE MA1827_1 MA1827_1_Zm00001d044785 ; From JASPAR
+PO	A	C	G	T
+01	165.0	149.0	147.0	142.0
+02	145.0	129.0	119.0	210.0
+03	12.0	510.0	29.0	52.0
+04	19.0	530.0	32.0	22.0
+05	48.0	28.0	26.0	501.0
+06	37.0	47.0	31.0	488.0
+07	511.0	41.0	35.0	16.0
+08	3.0	10.0	11.0	579.0
+09	7.0	575.0	4.0	17.0
+10	69.0	247.0	107.0	180.0
+11	130.0	150.0	139.0	184.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:2902624
+CC uniprot_ids:K7W4V3
+CC data_type:ChIP-seq
+XX
+//
+AC MA1828_1
+XX
+ID  Zm00001d038683
+XX
+DE MA1828_1 MA1828_1_Zm00001d038683 ; From JASPAR
+PO	A	C	G	T
+01	359.0	604.0	490.0	343.0
+02	350.0	540.0	521.0	385.0
+03	135.0	197.0	1406.0	58.0
+04	17.0	65.0	50.0	1664.0
+05	12.0	42.0	1727.0	15.0
+06	10.0	9.0	1768.0	9.0
+07	138.0	85.0	111.0	1462.0
+08	9.0	1755.0	28.0	4.0
+09	24.0	1746.0	18.0	8.0
+10	1121.0	265.0	189.0	221.0
+11	305.0	569.0	550.0	372.0
+12	295.0	492.0	654.0	355.0
+XX
+CC tax_group:plants
+CC tf_family:TCP
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:18816164
+CC uniprot_ids:C0HEC8
+CC data_type:ChIP-seq
+XX
+//
+AC MA1829_1
+XX
+ID  Zm00001d035604
+XX
+DE MA1829_1 MA1829_1_Zm00001d035604 ; From JASPAR
+PO	A	C	G	T
+01	48.0	77.0	77.0	82.0
+02	63.0	68.0	69.0	84.0
+03	41.0	35.0	53.0	155.0
+04	247.0	9.0	17.0	11.0
+05	8.0	263.0	7.0	6.0
+06	3.0	276.0	2.0	3.0
+07	17.0	10.0	14.0	243.0
+08	268.0	7.0	8.0	1.0
+09	243.0	28.0	10.0	3.0
+10	15.0	247.0	3.0	19.0
+11	63.0	75.0	32.0	114.0
+12	85.0	77.0	48.0	74.0
+13	89.0	63.0	64.0	68.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:31009122
+CC uniprot_ids:A0A1D6LHJ4
+CC data_type:ChIP-seq
+XX
+//
+AC MA1830_1
+XX
+ID  Zm00001d015407
+XX
+DE MA1830_1 MA1830_1_Zm00001d015407 ; From JASPAR
+PO	A	C	G	T
+01	175.0	126.0	110.0	145.0
+02	185.0	118.0	101.0	152.0
+03	276.0	56.0	66.0	158.0
+04	279.0	120.0	54.0	103.0
+05	389.0	43.0	44.0	80.0
+06	334.0	24.0	91.0	107.0
+07	144.0	24.0	351.0	37.0
+08	45.0	11.0	483.0	17.0
+09	481.0	20.0	16.0	39.0
+10	536.0	3.0	6.0	11.0
+11	8.0	5.0	26.0	517.0
+12	513.0	17.0	7.0	19.0
+13	57.0	8.0	6.0	485.0
+14	20.0	16.0	23.0	497.0
+15	34.0	477.0	13.0	32.0
+16	20.0	92.0	16.0	428.0
+17	105.0	79.0	37.0	335.0
+18	71.0	56.0	77.0	352.0
+19	63.0	64.0	112.0	317.0
+20	124.0	70.0	52.0	310.0
+21	116.0	192.0	98.0	150.0
+22	128.0	113.0	146.0	169.0
+23	158.0	75.0	112.0	211.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:24477691
+CC uniprot_ids:A0A060D7H5
+CC data_type:ChIP-seq
+XX
+//
+AC MA1831_1
+XX
+ID  Zm00001d031796
+XX
+DE MA1831_1 MA1831_1_Zm00001d031796 ; From JASPAR
+PO	A	C	G	T
+01	1688.0	6667.0	3858.0	1608.0
+02	1680.0	3534.0	7250.0	1357.0
+03	11164.0	807.0	1352.0	498.0
+04	199.0	13089.0	257.0	276.0
+05	309.0	323.0	13025.0	164.0
+06	1454.0	655.0	11443.0	269.0
+07	227.0	13138.0	239.0	217.0
+08	282.0	514.0	12856.0	169.0
+09	10265.0	1019.0	2008.0	529.0
+10	242.0	12691.0	634.0	254.0
+11	2022.0	2882.0	7673.0	1244.0
+12	3416.0	3467.0	4782.0	2156.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:24477691
+CC uniprot_ids:A0A060D609
+CC data_type:ChIP-seq
+XX
+//
+AC MA1832_1
+XX
+ID  Zm00001d002364
+XX
+DE MA1832_1 MA1832_1_Zm00001d002364 ; From JASPAR
+PO	A	C	G	T
+01	2288.0	9863.0	4044.0	2895.0
+02	1747.0	11808.0	3334.0	2201.0
+03	1536.0	2981.0	13670.0	903.0
+04	0.0	19090.0	0.0	0.0
+05	0.0	19090.0	0.0	0.0
+06	0.0	0.0	19090.0	0.0
+07	0.0	19090.0	0.0	0.0
+08	0.0	19090.0	0.0	0.0
+09	0.0	0.0	19090.0	0.0
+10	1785.0	11009.0	3546.0	2750.0
+11	1941.0	11352.0	3763.0	2034.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9159183
+CC uniprot_ids:C4J4G2
+CC data_type:ChIP-seq
+XX
+//
+AC MA1833_1
+XX
+ID  Zm00001d049364
+XX
+DE MA1833_1 MA1833_1_Zm00001d049364 ; From JASPAR
+PO	A	C	G	T
+01	2350.0	9280.0	4348.0	2628.0
+02	2486.0	4638.0	9048.0	2434.0
+03	1345.0	13507.0	2196.0	1558.0
+04	3673.0	9771.0	2975.0	2187.0
+05	711.0	1027.0	16187.0	681.0
+06	352.0	17229.0	601.0	424.0
+07	464.0	17025.0	607.0	510.0
+08	652.0	366.0	17063.0	525.0
+09	300.0	17272.0	593.0	441.0
+10	465.0	17013.0	612.0	516.0
+11	605.0	321.0	17121.0	559.0
+12	416.0	16869.0	777.0	544.0
+13	461.0	16513.0	1008.0	624.0
+14	4800.0	2765.0	8879.0	2162.0
+15	2247.0	9179.0	4110.0	3070.0
+16	2100.0	9497.0	4550.0	2459.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9159183
+CC uniprot_ids:B6TYT8
+CC data_type:ChIP-seq
+XX
+//
+AC MA1834_1
+XX
+ID  Zm00001d034298
+XX
+DE MA1834_1 MA1834_1_Zm00001d034298 ; From JASPAR
+PO	A	C	G	T
+01	1331.0	2050.0	2146.0	1075.0
+02	1471.0	2040.0	1597.0	1494.0
+03	190.0	6091.0	160.0	161.0
+04	41.0	5812.0	487.0	262.0
+05	6373.0	128.0	17.0	84.0
+06	55.0	6223.0	252.0	72.0
+07	499.0	489.0	5256.0	358.0
+08	418.0	5039.0	401.0	744.0
+09	192.0	522.0	5681.0	207.0
+10	1361.0	1886.0	1893.0	1462.0
+11	1226.0	2323.0	1777.0	1276.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:24477691
+CC uniprot_ids:A0A1D6L6L0
+CC data_type:ChIP-seq
+XX
+//
+AC MA1835_1
+XX
+ID  TFLG2-Zm00001d042777
+XX
+DE MA1835_1 MA1835_1_TFLG2-Zm00001d042777 ; From JASPAR
+PO	A	C	G	T
+01	111.0	175.0	159.0	217.0
+02	266.0	123.0	165.0	108.0
+03	103.0	364.0	87.0	108.0
+04	58.0	68.0	513.0	23.0
+05	8.0	24.0	24.0	606.0
+06	613.0	11.0	26.0	12.0
+07	4.0	625.0	14.0	19.0
+08	25.0	17.0	616.0	4.0
+09	10.0	29.0	13.0	610.0
+10	602.0	25.0	26.0	9.0
+11	28.0	517.0	65.0	52.0
+12	137.0	106.0	287.0	132.0
+13	121.0	169.0	132.0	240.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298
+CC uniprot_ids:O49067
+CC data_type:ChIP-seq
+XX
+//
+AC MA2011_1
+XX
+ID  ERF010
+XX
+DE MA2011_1 MA2011_1_ERF010 ; From JASPAR
+PO	A	C	G	T
+01	303.0	128.0	285.0	283.0
+02	118.0	465.0	127.0	289.0
+03	68.0	858.0	30.0	43.0
+04	915.0	0.0	71.0	13.0
+05	2.0	993.0	0.0	4.0
+06	4.0	992.0	0.0	3.0
+07	9.0	1.0	984.0	5.0
+08	719.0	144.0	23.0	113.0
+09	11.0	983.0	2.0	3.0
+10	750.0	107.0	78.0	64.0
+11	305.0	331.0	93.0	270.0
+12	272.0	308.0	138.0	281.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q9FH94
+CC data_type:
+XX
+//
+AC MA2012_1
+XX
+ID  ERF023
+XX
+DE MA2012_1 MA2012_1_ERF023 ; From JASPAR
+PO	A	C	G	T
+01	30.0	155.0	46.0	87.0
+02	27.0	253.0	16.0	22.0
+03	284.0	0.0	32.0	2.0
+04	0.0	317.0	1.0	0.0
+05	1.0	317.0	0.0	0.0
+06	5.0	0.0	310.0	3.0
+07	277.0	18.0	8.0	15.0
+08	1.0	314.0	1.0	2.0
+09	297.0	2.0	6.0	13.0
+10	109.0	108.0	37.0	64.0
+11	106.0	67.0	38.0	107.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480
+CC uniprot_ids:Q1ECI2
+CC data_type:
+XX
+//
+AC MA2013_1
+XX
+ID  ERF115
+XX
+DE MA2013_1 MA2013_1_ERF115 ; From JASPAR
+PO	A	C	G	T
+01	198.0	458.0	73.0	176.0
+02	237.0	139.0	300.0	229.0
+03	53.0	344.0	53.0	455.0
+04	43.0	815.0	15.0	32.0
+05	56.0	8.0	715.0	126.0
+06	13.0	839.0	35.0	18.0
+07	23.0	866.0	6.0	10.0
+08	14.0	1.0	880.0	10.0
+09	4.0	865.0	12.0	24.0
+10	13.0	880.0	0.0	12.0
+11	44.0	3.0	840.0	18.0
+12	31.0	698.0	55.0	121.0
+13	480.0	286.0	42.0	97.0
+14	293.0	71.0	375.0	166.0
+15	174.0	418.0	92.0	221.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931
+CC uniprot_ids:Q9LY29
+CC data_type:
+XX
+//
+AC MA2014_1
+XX
+ID  BAM8
+XX
+DE MA2014_1 MA2014_1_BAM8 ; From JASPAR
+PO	A	C	G	T
+01	420.0	498.0	325.0	633.0
+02	418.0	441.0	207.0	810.0
+03	116.0	1278.0	279.0	203.0
+04	1383.0	101.0	273.0	119.0
+05	6.0	1856.0	4.0	10.0
+06	1846.0	2.0	14.0	14.0
+07	2.0	1862.0	1.0	11.0
+08	9.0	1.0	1863.0	3.0
+09	9.0	31.0	5.0	1831.0
+10	66.0	1.0	1803.0	6.0
+11	116.0	1018.0	140.0	602.0
+12	320.0	500.0	863.0	193.0
+13	803.0	222.0	409.0	442.0
+14	600.0	371.0	456.0	449.0
+XX
+CC tax_group:plants
+CC tf_family:BES/BZR
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21487098
+CC uniprot_ids:Q9FH80
+CC data_type:
+XX
+//
+AC MA2015_1
+XX
+ID  NAC002
+XX
+DE MA2015_1 MA2015_1_NAC002 ; From JASPAR
+PO	A	C	G	T
+01	346.0	237.0	229.0	357.0
+02	501.0	152.0	185.0	331.0
+03	175.0	531.0	115.0	348.0
+04	1143.0	12.0	3.0	11.0
+05	31.0	1096.0	14.0	28.0
+06	38.0	13.0	1089.0	29.0
+07	47.0	753.0	103.0	266.0
+08	1066.0	58.0	13.0	32.0
+09	1070.0	16.0	16.0	67.0
+10	26.0	1013.0	64.0	66.0
+11	69.0	144.0	63.0	893.0
+12	293.0	243.0	232.0	401.0
+13	387.0	259.0	195.0	328.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:beta-Hairpin exposed by an alpha/beta-scaffold
+CC pubmed_ids:24914054
+CC uniprot_ids:Q39013
+CC data_type:
+XX
+//
+AC MA2016_1
+XX
+ID  GRF6
+XX
+DE MA2016_1 MA2016_1_GRF6 ; From JASPAR
+PO	A	C	G	T
+01	276.0	305.0	166.0	499.0
+02	205.0	146.0	54.0	841.0
+03	0.0	1246.0	0.0	0.0
+04	0.0	3.0	3.0	1240.0
+05	1.0	0.0	1245.0	0.0
+06	1245.0	1.0	0.0	0.0
+07	0.0	1245.0	0.0	1.0
+08	1228.0	1.0	17.0	0.0
+09	391.0	398.0	193.0	264.0
+10	500.0	185.0	265.0	296.0
+XX
+CC tax_group:plants
+CC tf_family:GRF
+CC tf_class:C3H zinc finger factors
+CC pubmed_ids:22942381
+CC uniprot_ids:Q9ZQ12
+CC data_type:
+XX
+//
+AC MA2017_1
+XX
+ID  JUB1
+XX
+DE MA2017_1 MA2017_1_JUB1 ; From JASPAR
+PO	A	C	G	T
+01	151.0	79.0	132.0	147.0
+02	113.0	153.0	65.0	178.0
+03	96.0	236.0	115.0	62.0
+04	458.0	30.0	10.0	11.0
+05	9.0	492.0	0.0	8.0
+06	9.0	8.0	489.0	3.0
+07	3.0	12.0	492.0	2.0
+08	12.0	476.0	0.0	21.0
+09	33.0	10.0	457.0	9.0
+10	288.0	36.0	82.0	103.0
+11	68.0	122.0	196.0	123.0
+12	67.0	47.0	121.0	274.0
+13	142.0	91.0	139.0	137.0
+14	148.0	102.0	98.0	161.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:22345491
+CC uniprot_ids:Q9SK55
+CC data_type:
+XX
+//
+AC MA2018_1
+XX
+ID  NAC69
+XX
+DE MA2018_1 MA2018_1_NAC69 ; From JASPAR
+PO	A	C	G	T
+01	100.0	80.0	88.0	94.0
+02	124.0	96.0	66.0	76.0
+03	306.0	7.0	37.0	12.0
+04	5.0	314.0	40.0	3.0
+05	353.0	2.0	4.0	3.0
+06	337.0	18.0	2.0	5.0
+07	5.0	1.0	349.0	7.0
+08	10.0	6.0	297.0	49.0
+09	49.0	273.0	2.0	38.0
+10	331.0	7.0	13.0	11.0
+11	136.0	72.0	48.0	106.0
+12	103.0	103.0	59.0	97.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9M126
+CC data_type:
+XX
+//
+AC MA2019_1
+XX
+ID  HSFA1B
+XX
+DE MA2019_1 MA2019_1_HSFA1B ; From JASPAR
+PO	A	C	G	T
+01	1802.0	1746.0	1029.0	3083.0
+02	3819.0	983.0	1728.0	1130.0
+03	155.0	105.0	7327.0	73.0
+04	7359.0	86.0	95.0	120.0
+05	7308.0	54.0	124.0	174.0
+06	3914.0	804.0	1940.0	1002.0
+07	216.0	6814.0	401.0	229.0
+08	345.0	133.0	77.0	7105.0
+09	122.0	108.0	101.0	7329.0
+10	95.0	7300.0	122.0	143.0
+11	1158.0	1761.0	990.0	3751.0
+12	3033.0	1204.0	1541.0	1882.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:27493213
+CC uniprot_ids:O81821
+CC data_type:
+XX
+//
+AC MA2020_1
+XX
+ID  HSFB4
+XX
+DE MA2020_1 MA2020_1_HSFB4 ; From JASPAR
+PO	A	C	G	T
+01	44.0	11.0	25.0	9.0
+02	15.0	4.0	64.0	6.0
+03	81.0	1.0	4.0	3.0
+04	86.0	1.0	1.0	1.0
+05	2.0	3.0	83.0	1.0
+06	10.0	16.0	4.0	59.0
+07	2.0	1.0	0.0	86.0
+08	0.0	0.0	0.0	89.0
+09	0.0	89.0	0.0	0.0
+10	1.0	62.0	0.0	26.0
+11	42.0	6.0	30.0	11.0
+12	25.0	8.0	40.0	16.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:Q9C635
+CC data_type:
+XX
+//
+AC MA2021_1
+XX
+ID  LBD13
+XX
+DE MA2021_1 MA2021_1_LBD13 ; From JASPAR
+PO	A	C	G	T
+01	184.0	382.0	180.0	309.0
+02	247.0	494.0	116.0	198.0
+03	231.0	44.0	145.0	635.0
+04	17.0	979.0	20.0	39.0
+05	16.0	1018.0	4.0	17.0
+06	809.0	6.0	168.0	72.0
+07	7.0	1031.0	8.0	9.0
+08	10.0	1021.0	16.0	8.0
+09	46.0	11.0	980.0	18.0
+10	57.0	227.0	143.0	628.0
+11	353.0	369.0	112.0	221.0
+12	295.0	125.0	306.0	329.0
+13	270.0	370.0	148.0	267.0
+XX
+CC tax_group:plants
+CC tf_family:LBD
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:17913740
+CC uniprot_ids:Q9AT61
+CC data_type:
+XX
+//
+AC MA2022_1
+XX
+ID  LOB
+XX
+DE MA2022_1 MA2022_1_LOB ; From JASPAR
+PO	A	C	G	T
+01	65.0	553.0	74.0	103.0
+02	116.0	569.0	24.0	86.0
+03	92.0	18.0	552.0	133.0
+04	7.0	760.0	10.0	18.0
+05	28.0	739.0	4.0	24.0
+06	39.0	4.0	729.0	23.0
+07	4.0	768.0	7.0	16.0
+08	39.0	721.0	8.0	27.0
+09	37.0	1.0	733.0	24.0
+10	14.0	693.0	38.0	50.0
+11	250.0	398.0	44.0	103.0
+12	129.0	33.0	532.0	101.0
+13	73.0	538.0	71.0	113.0
+14	147.0	331.0	56.0	261.0
+15	170.0	74.0	373.0	178.0
+16	96.0	463.0	96.0	140.0
+17	159.0	382.0	87.0	167.0
+XX
+CC tax_group:plants
+CC tf_family:LBD
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:17913740
+CC uniprot_ids:Q9FML4
+CC data_type:
+XX
+//
+AC MA2023_1
+XX
+ID  PHL4
+XX
+DE MA2023_1 MA2023_1_PHL4 ; From JASPAR
+PO	A	C	G	T
+01	65.0	37.0	40.0	45.0
+02	90.0	22.0	29.0	46.0
+03	72.0	39.0	32.0	44.0
+04	75.0	32.0	75.0	5.0
+05	1.0	1.0	180.0	5.0
+06	154.0	16.0	5.0	12.0
+07	187.0	0.0	0.0	0.0
+08	1.0	0.0	0.0	186.0
+09	184.0	2.0	1.0	0.0
+10	1.0	1.0	0.0	185.0
+11	16.0	3.0	12.0	156.0
+12	4.0	183.0	0.0	0.0
+13	7.0	114.0	27.0	39.0
+14	49.0	28.0	33.0	77.0
+15	42.0	29.0	21.0	95.0
+16	56.0	32.0	34.0	65.0
+17	51.0	39.0	42.0	55.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:30327661
+CC uniprot_ids:Q8GXC2
+CC data_type:
+XX
+//
+AC MA2024_1
+XX
+ID  MYB63
+XX
+DE MA2024_1 MA2024_1_MYB63 ; From JASPAR
+PO	A	C	G	T
+01	18.0	32.0	19.0	50.0
+02	15.0	53.0	8.0	43.0
+03	1.0	108.0	2.0	8.0
+04	115.0	1.0	1.0	2.0
+05	6.0	111.0	1.0	1.0
+06	1.0	116.0	0.0	2.0
+07	32.0	4.0	2.0	81.0
+08	117.0	0.0	1.0	1.0
+09	11.0	107.0	0.0	1.0
+10	1.0	108.0	3.0	7.0
+11	69.0	15.0	14.0	21.0
+12	28.0	65.0	4.0	22.0
+13	33.0	45.0	9.0	32.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19122102
+CC uniprot_ids:Q6R0A6
+CC data_type:
+XX
+//
+AC MA2025_1
+XX
+ID  MYB93
+XX
+DE MA2025_1 MA2025_1_MYB93 ; From JASPAR
+PO	A	C	G	T
+01	112.0	157.0	72.0	192.0
+02	113.0	196.0	60.0	164.0
+03	111.0	107.0	32.0	283.0
+04	516.0	4.0	8.0	5.0
+05	12.0	511.0	4.0	6.0
+06	7.0	519.0	0.0	7.0
+07	400.0	11.0	17.0	105.0
+08	516.0	2.0	2.0	13.0
+09	483.0	32.0	7.0	11.0
+10	6.0	492.0	3.0	32.0
+11	126.0	245.0	36.0	126.0
+12	161.0	135.0	78.0	159.0
+13	205.0	119.0	75.0	134.0
+14	217.0	115.0	68.0	133.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:32246506
+CC uniprot_ids:Q9S9Z2
+CC data_type:
+XX
+//
+AC MA2026_1
+XX
+ID  MYB108
+XX
+DE MA2026_1 MA2026_1_MYB108 ; From JASPAR
+PO	A	C	G	T
+01	22.0	27.0	11.0	48.0
+02	28.0	19.0	18.0	43.0
+03	15.0	5.0	13.0	75.0
+04	83.0	0.0	25.0	0.0
+05	1.0	105.0	0.0	2.0
+06	0.0	107.0	0.0	1.0
+07	16.0	0.0	3.0	89.0
+08	108.0	0.0	0.0	0.0
+09	104.0	2.0	1.0	1.0
+10	3.0	84.0	0.0	21.0
+11	11.0	5.0	3.0	89.0
+12	20.0	10.0	3.0	75.0
+13	30.0	15.0	15.0	48.0
+14	37.0	24.0	15.0	32.0
+15	31.0	27.0	16.0	34.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9LDE1
+CC data_type:
+XX
+//
+AC MA2027_1
+XX
+ID  MYB44
+XX
+DE MA2027_1 MA2027_1_MYB44 ; From JASPAR
+PO	A	C	G	T
+01	202.0	130.0	117.0	224.0
+02	166.0	168.0	25.0	314.0
+03	665.0	1.0	2.0	5.0
+04	638.0	33.0	1.0	1.0
+05	3.0	663.0	1.0	6.0
+06	4.0	52.0	559.0	58.0
+07	9.0	3.0	655.0	6.0
+08	3.0	20.0	2.0	648.0
+09	117.0	370.0	19.0	167.0
+10	612.0	18.0	21.0	22.0
+11	260.0	143.0	84.0	186.0
+12	225.0	120.0	121.0	207.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25220462
+CC uniprot_ids:Q9FDW1
+CC data_type:
+XX
+//
+AC MA2028_1
+XX
+ID  MYB49
+XX
+DE MA2028_1 MA2028_1_MYB49 ; From JASPAR
+PO	A	C	G	T
+01	49.0	33.0	51.0	55.0
+02	37.0	46.0	25.0	80.0
+03	15.0	32.0	9.0	132.0
+04	11.0	43.0	17.0	117.0
+05	182.0	1.0	1.0	4.0
+06	7.0	175.0	2.0	4.0
+07	1.0	187.0	0.0	0.0
+08	12.0	2.0	1.0	173.0
+09	188.0	0.0	0.0	0.0
+10	164.0	18.0	1.0	5.0
+11	12.0	142.0	4.0	30.0
+12	29.0	12.0	5.0	142.0
+13	82.0	29.0	10.0	67.0
+14	56.0	35.0	28.0	69.0
+15	51.0	44.0	30.0	63.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SPG6
+CC data_type:
+XX
+//
+AC MA2029_1
+XX
+ID  MYB88
+XX
+DE MA2029_1 MA2029_1_MYB88 ; From JASPAR
+PO	A	C	G	T
+01	60.0	54.0	16.0	38.0
+02	33.0	68.0	36.0	31.0
+03	150.0	15.0	3.0	0.0
+04	3.0	159.0	6.0	0.0
+05	1.0	1.0	165.0	1.0
+06	0.0	167.0	1.0	0.0
+07	1.0	1.0	27.0	139.0
+08	1.0	165.0	2.0	0.0
+09	0.0	152.0	3.0	13.0
+10	18.0	6.0	3.0	141.0
+11	7.0	138.0	6.0	17.0
+12	38.0	72.0	21.0	37.0
+13	49.0	42.0	37.0	40.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:F4IRB4
+CC data_type:
+XX
+//
+AC MA2030_1
+XX
+ID  MYB96
+XX
+DE MA2030_1 MA2030_1_MYB96 ; From JASPAR
+PO	A	C	G	T
+01	63.0	20.0	10.0	40.0
+02	46.0	36.0	8.0	43.0
+03	11.0	78.0	11.0	33.0
+04	20.0	50.0	10.0	53.0
+05	38.0	74.0	10.0	11.0
+06	8.0	107.0	1.0	17.0
+07	1.0	123.0	0.0	9.0
+08	131.0	1.0	0.0	1.0
+09	113.0	15.0	3.0	2.0
+10	0.0	132.0	0.0	1.0
+11	11.0	23.0	1.0	98.0
+12	116.0	2.0	6.0	9.0
+13	14.0	116.0	0.0	3.0
+14	8.0	102.0	0.0	23.0
+15	90.0	10.0	5.0	28.0
+16	50.0	43.0	12.0	28.0
+17	21.0	78.0	8.0	26.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q24JK1
+CC data_type:
+XX
+//
+AC MA2031_1
+XX
+ID  AT5G04760
+XX
+DE MA2031_1 MA2031_1_AT5G04760 ; From JASPAR
+PO	A	C	G	T
+01	1646.0	661.0	672.0	1196.0
+02	867.0	999.0	645.0	1664.0
+03	11.0	4161.0	3.0	0.0
+04	231.0	100.0	94.0	3750.0
+05	176.0	36.0	29.0	3934.0
+06	4053.0	79.0	39.0	4.0
+07	118.0	55.0	127.0	3875.0
+08	67.0	4094.0	10.0	4.0
+09	573.0	2121.0	242.0	1239.0
+10	1314.0	709.0	739.0	1413.0
+11	1276.0	918.0	524.0	1457.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LZ21
+CC data_type:
+XX
+//
+AC MA2032_1
+XX
+ID  TRB1
+XX
+DE MA2032_1 MA2032_1_TRB1 ; From JASPAR
+PO	A	C	G	T
+01	1648.0	1082.0	1087.0	1126.0
+02	2956.0	451.0	682.0	854.0
+03	4615.0	128.0	96.0	104.0
+04	4355.0	40.0	443.0	105.0
+05	138.0	4706.0	35.0	64.0
+06	86.0	4755.0	36.0	66.0
+07	71.0	4767.0	55.0	50.0
+08	108.0	44.0	57.0	4734.0
+09	4824.0	34.0	44.0	41.0
+10	2829.0	372.0	1303.0	439.0
+11	1714.0	1073.0	474.0	1682.0
+XX
+CC tax_group:plants
+CC tf_family:Myb-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26597966
+CC uniprot_ids:Q8VWK4
+CC data_type:
+XX
+//
+AC MA2033_1
+XX
+ID  NAC038
+XX
+DE MA2033_1 MA2033_1_NAC038 ; From JASPAR
+PO	A	C	G	T
+01	195.0	72.0	51.0	112.0
+02	89.0	53.0	199.0	89.0
+03	86.0	46.0	222.0	76.0
+04	30.0	2.0	5.0	393.0
+05	98.0	9.0	51.0	272.0
+06	153.0	21.0	165.0	91.0
+07	6.0	423.0	0.0	1.0
+08	0.0	2.0	255.0	173.0
+09	2.0	0.0	0.0	428.0
+10	35.0	16.0	378.0	1.0
+11	42.0	44.0	10.0	334.0
+12	176.0	57.0	103.0	94.0
+13	117.0	102.0	103.0	108.0
+14	96.0	161.0	70.0	103.0
+15	294.0	17.0	58.0	61.0
+16	6.0	337.0	40.0	47.0
+17	420.0	2.0	2.0	6.0
+18	358.0	65.0	5.0	2.0
+19	1.0	1.0	422.0	6.0
+20	79.0	51.0	29.0	271.0
+21	177.0	51.0	7.0	195.0
+22	384.0	4.0	2.0	40.0
+23	102.0	148.0	48.0	132.0
+24	81.0	182.0	70.0	97.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9ZQ25
+CC data_type:
+XX
+//
+AC MA2034_1
+XX
+ID  NAC057
+XX
+DE MA2034_1 MA2034_1_NAC057 ; From JASPAR
+PO	A	C	G	T
+01	731.0	628.0	443.0	780.0
+02	971.0	448.0	579.0	584.0
+03	36.0	2380.0	22.0	144.0
+04	2461.0	36.0	35.0	50.0
+05	2158.0	269.0	61.0	94.0
+06	30.0	8.0	2524.0	20.0
+07	33.0	95.0	42.0	2412.0
+08	2146.0	54.0	10.0	372.0
+09	2337.0	55.0	35.0	155.0
+10	571.0	758.0	413.0	840.0
+11	657.0	825.0	443.0	657.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9LSH5
+CC data_type:
+XX
+//
+AC MA2035_1
+XX
+ID  NAC075
+XX
+DE MA2035_1 MA2035_1_NAC075 ; From JASPAR
+PO	A	C	G	T
+01	249.0	151.0	168.0	225.0
+02	297.0	148.0	162.0	186.0
+03	404.0	80.0	174.0	135.0
+04	113.0	41.0	585.0	54.0
+05	455.0	30.0	30.0	278.0
+06	591.0	12.0	73.0	117.0
+07	163.0	40.0	476.0	114.0
+08	17.0	766.0	2.0	8.0
+09	1.0	3.0	113.0	676.0
+10	0.0	0.0	1.0	792.0
+11	71.0	164.0	543.0	15.0
+12	177.0	74.0	26.0	516.0
+13	238.0	145.0	185.0	225.0
+14	163.0	230.0	241.0	159.0
+15	237.0	176.0	139.0	241.0
+16	510.0	23.0	83.0	177.0
+17	13.0	516.0	188.0	76.0
+18	788.0	1.0	3.0	1.0
+19	677.0	112.0	0.0	4.0
+20	8.0	1.0	770.0	14.0
+21	110.0	459.0	65.0	159.0
+22	142.0	83.0	19.0	549.0
+23	412.0	52.0	68.0	261.0
+24	147.0	339.0	85.0	222.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:Q9M0F8
+CC data_type:
+XX
+//
+AC MA2036_1
+XX
+ID  NAC076
+XX
+DE MA2036_1 MA2036_1_NAC076 ; From JASPAR
+PO	A	C	G	T
+01	914.0	802.0	497.0	1034.0
+02	1056.0	615.0	667.0	909.0
+03	408.0	1879.0	539.0	421.0
+04	3171.0	22.0	20.0	34.0
+05	2963.0	216.0	16.0	52.0
+06	7.0	18.0	3193.0	29.0
+07	16.0	3023.0	23.0	185.0
+08	2965.0	81.0	55.0	146.0
+09	3088.0	19.0	17.0	123.0
+10	775.0	931.0	615.0	926.0
+11	871.0	1018.0	682.0	676.0
+12	960.0	566.0	616.0	1105.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:O65508
+CC data_type:
+XX
+//
+AC MA2037_1
+XX
+ID  NAC096
+XX
+DE MA2037_1 MA2037_1_NAC096 ; From JASPAR
+PO	A	C	G	T
+01	306.0	290.0	191.0	357.0
+02	380.0	189.0	260.0	315.0
+03	51.0	904.0	51.0	138.0
+04	1110.0	13.0	7.0	14.0
+05	1011.0	84.0	23.0	26.0
+06	7.0	1.0	1129.0	7.0
+07	4.0	30.0	9.0	1101.0
+08	1012.0	12.0	6.0	114.0
+09	1089.0	12.0	12.0	31.0
+10	216.0	352.0	145.0	431.0
+11	238.0	415.0	183.0	308.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9LS24
+CC data_type:
+XX
+//
+AC MA2038_1
+XX
+ID  NAC103
+XX
+DE MA2038_1 MA2038_1_NAC103 ; From JASPAR
+PO	A	C	G	T
+01	498.0	380.0	209.0	378.0
+02	456.0	331.0	351.0	327.0
+03	18.0	1379.0	18.0	50.0
+04	1411.0	16.0	15.0	23.0
+05	1318.0	103.0	15.0	29.0
+06	10.0	2.0	1442.0	11.0
+07	102.0	155.0	90.0	1118.0
+08	141.0	61.0	8.0	1255.0
+09	1415.0	10.0	10.0	30.0
+10	264.0	445.0	246.0	510.0
+11	318.0	509.0	294.0	344.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FMJ1
+CC data_type:
+XX
+//
+AC MA2039_1
+XX
+ID  ASIL2
+XX
+DE MA2039_1 MA2039_1_ASIL2 ; From JASPAR
+PO	A	C	G	T
+01	480.0	168.0	281.0	470.0
+02	297.0	210.0	210.0	682.0
+03	33.0	1089.0	33.0	244.0
+04	74.0	10.0	147.0	1168.0
+05	12.0	1367.0	14.0	6.0
+06	6.0	1391.0	0.0	2.0
+07	14.0	2.0	1382.0	1.0
+08	63.0	61.0	1244.0	31.0
+09	25.0	1233.0	7.0	134.0
+10	83.0	59.0	1217.0	40.0
+11	853.0	144.0	228.0	174.0
+12	393.0	419.0	252.0	335.0
+13	393.0	188.0	449.0	369.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9LJG8
+CC data_type:
+XX
+//
+AC MA2040_1
+XX
+ID  AT5G05550
+XX
+DE MA2040_1 MA2040_1_AT5G05550 ; From JASPAR
+PO	A	C	G	T
+01	845.0	280.0	463.0	710.0
+02	482.0	390.0	327.0	1099.0
+03	41.0	1863.0	43.0	351.0
+04	160.0	13.0	328.0	1797.0
+05	24.0	2244.0	15.0	15.0
+06	7.0	2283.0	0.0	8.0
+07	13.0	0.0	2281.0	4.0
+08	105.0	119.0	2017.0	57.0
+09	59.0	2038.0	10.0	191.0
+10	128.0	68.0	2037.0	65.0
+11	1363.0	208.0	428.0	299.0
+12	597.0	641.0	377.0	683.0
+13	707.0	289.0	796.0	506.0
+XX
+CC tax_group:plants
+CC tf_family:Trihelix
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:F4K0Q7
+CC data_type:
+XX
+//
+AC MA2041_1
+XX
+ID  MYB13
+XX
+DE MA2041_1 MA2041_1_MYB13 ; From JASPAR
+PO	A	C	G	T
+01	348.0	300.0	168.0	332.0
+02	324.0	265.0	214.0	345.0
+03	349.0	320.0	157.0	322.0
+04	215.0	472.0	147.0	314.0
+05	140.0	581.0	70.0	357.0
+06	60.0	914.0	36.0	138.0
+07	1107.0	5.0	11.0	25.0
+08	107.0	1022.0	8.0	11.0
+09	10.0	1117.0	6.0	15.0
+10	905.0	46.0	17.0	180.0
+11	1106.0	11.0	22.0	9.0
+12	90.0	1034.0	5.0	19.0
+13	35.0	1016.0	16.0	81.0
+14	728.0	191.0	95.0	134.0
+15	390.0	360.0	106.0	292.0
+16	375.0	313.0	153.0	307.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19122102
+CC uniprot_ids:Q9LNC9
+CC data_type:
+XX
+//
+AC MA2042_1
+XX
+ID  MYB58
+XX
+DE MA2042_1 MA2042_1_MYB58 ; From JASPAR
+PO	A	C	G	T
+01	563.0	303.0	205.0	480.0
+02	406.0	402.0	311.0	432.0
+03	335.0	590.0	202.0	424.0
+04	294.0	310.0	165.0	782.0
+05	163.0	861.0	98.0	429.0
+06	35.0	1368.0	14.0	134.0
+07	1500.0	8.0	21.0	22.0
+08	163.0	1361.0	12.0	15.0
+09	9.0	1520.0	7.0	15.0
+10	1374.0	21.0	23.0	133.0
+11	1440.0	59.0	30.0	22.0
+12	209.0	1291.0	11.0	40.0
+13	91.0	1185.0	35.0	240.0
+14	466.0	688.0	138.0	259.0
+15	355.0	798.0	105.0	293.0
+16	529.0	352.0	213.0	457.0
+17	498.0	411.0	234.0	408.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26484765
+CC uniprot_ids:Q9SA47
+CC data_type:
+XX
+//
+AC MA2043_1
+XX
+ID  NAC004
+XX
+DE MA2043_1 MA2043_1_NAC004 ; From JASPAR
+PO	A	C	G	T
+01	279.0	229.0	129.0	288.0
+02	422.0	120.0	250.0	133.0
+03	0.0	918.0	1.0	6.0
+04	898.0	1.0	19.0	7.0
+05	874.0	28.0	1.0	22.0
+06	0.0	2.0	912.0	11.0
+07	648.0	38.0	16.0	223.0
+08	842.0	14.0	2.0	67.0
+09	858.0	29.0	2.0	36.0
+10	173.0	348.0	171.0	233.0
+11	256.0	259.0	179.0	231.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:O81913
+CC data_type:
+XX
+//
+AC MA2044_1
+XX
+ID  NAC007
+XX
+DE MA2044_1 MA2044_1_NAC007 ; From JASPAR
+PO	A	C	G	T
+01	613.0	525.0	325.0	710.0
+02	721.0	368.0	473.0	611.0
+03	285.0	1236.0	361.0	291.0
+04	2117.0	13.0	19.0	24.0
+05	1962.0	161.0	11.0	39.0
+06	4.0	7.0	2144.0	18.0
+07	3.0	2037.0	9.0	124.0
+08	1974.0	60.0	40.0	99.0
+09	2067.0	15.0	13.0	78.0
+10	542.0	624.0	413.0	594.0
+11	607.0	686.0	437.0	443.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:Q9FWX2
+CC data_type:
+XX
+//
+AC MA2045_1
+XX
+ID  NAC031
+XX
+DE MA2045_1 MA2045_1_NAC031 ; From JASPAR
+PO	A	C	G	T
+01	269.0	142.0	221.0	281.0
+02	378.0	169.0	127.0	239.0
+03	161.0	82.0	513.0	157.0
+04	200.0	93.0	464.0	156.0
+05	69.0	5.0	10.0	829.0
+06	173.0	18.0	95.0	627.0
+07	261.0	64.0	449.0	139.0
+08	18.0	882.0	3.0	10.0
+09	1.0	4.0	599.0	309.0
+10	0.0	2.0	2.0	909.0
+11	115.0	56.0	734.0	8.0
+12	119.0	95.0	40.0	659.0
+13	406.0	112.0	188.0	207.0
+14	274.0	200.0	193.0	246.0
+15	245.0	298.0	138.0	232.0
+16	635.0	44.0	99.0	135.0
+17	34.0	665.0	105.0	109.0
+18	883.0	7.0	4.0	19.0
+19	750.0	145.0	10.0	8.0
+20	11.0	1.0	880.0	21.0
+21	153.0	146.0	96.0	518.0
+22	382.0	120.0	23.0	388.0
+23	748.0	19.0	13.0	133.0
+24	217.0	302.0	134.0	260.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9S851
+CC data_type:
+XX
+//
+AC MA2046_1
+XX
+ID  NAC035
+XX
+DE MA2046_1 MA2046_1_NAC035 ; From JASPAR
+PO	A	C	G	T
+01	230.0	184.0	148.0	251.0
+02	191.0	187.0	185.0	250.0
+03	329.0	143.0	156.0	185.0
+04	431.0	109.0	112.0	161.0
+05	41.0	632.0	36.0	104.0
+06	800.0	4.0	3.0	6.0
+07	43.0	736.0	24.0	10.0
+08	10.0	8.0	787.0	8.0
+09	41.0	29.0	649.0	94.0
+10	45.0	720.0	7.0	41.0
+11	755.0	4.0	29.0	25.0
+12	235.0	253.0	104.0	221.0
+13	181.0	274.0	112.0	246.0
+14	195.0	133.0	226.0	259.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:22345491
+CC uniprot_ids:Q9ZVP8
+CC data_type:
+XX
+//
+AC MA2047_1
+XX
+ID  NAC037
+XX
+DE MA2047_1 MA2047_1_NAC037 ; From JASPAR
+PO	A	C	G	T
+01	543.0	530.0	269.0	645.0
+02	690.0	347.0	462.0	488.0
+03	25.0	1779.0	32.0	151.0
+04	1919.0	22.0	17.0	29.0
+05	1709.0	217.0	14.0	47.0
+06	6.0	24.0	1928.0	29.0
+07	4.0	1727.0	32.0	224.0
+08	1725.0	85.0	56.0	121.0
+09	1827.0	16.0	24.0	120.0
+10	450.0	601.0	330.0	606.0
+11	496.0	643.0	438.0	410.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:20935069
+CC uniprot_ids:Q9SL41
+CC data_type:
+XX
+//
+AC MA2048_1
+XX
+ID  NAC045
+XX
+DE MA2048_1 MA2048_1_NAC045 ; From JASPAR
+PO	A	C	G	T
+01	446.0	353.0	263.0	342.0
+02	531.0	193.0	304.0	376.0
+03	112.0	367.0	814.0	111.0
+04	1389.0	4.0	5.0	6.0
+05	1327.0	52.0	16.0	9.0
+06	23.0	11.0	1354.0	16.0
+07	84.0	1158.0	41.0	121.0
+08	1328.0	17.0	11.0	48.0
+09	1352.0	3.0	10.0	39.0
+10	148.0	917.0	142.0	197.0
+11	287.0	695.0	172.0	250.0
+12	364.0	238.0	263.0	539.0
+13	444.0	330.0	250.0	380.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:A4VCM0
+CC data_type:
+XX
+//
+AC MA2049_1
+XX
+ID  NAC053
+XX
+DE MA2049_1 MA2049_1_NAC053 ; From JASPAR
+PO	A	C	G	T
+01	1157.0	1073.0	639.0	1093.0
+02	1383.0	799.0	960.0	820.0
+03	2.0	3931.0	2.0	27.0
+04	3873.0	8.0	38.0	43.0
+05	3762.0	161.0	8.0	31.0
+06	1.0	2.0	3927.0	32.0
+07	3241.0	134.0	50.0	537.0
+08	3640.0	56.0	17.0	249.0
+09	3814.0	31.0	21.0	96.0
+10	819.0	1483.0	640.0	1020.0
+11	1125.0	1249.0	687.0	901.0
+12	1168.0	634.0	812.0	1348.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q949N0
+CC data_type:
+XX
+//
+AC MA2050_1
+XX
+ID  NAC101
+XX
+DE MA2050_1 MA2050_1_NAC101 ; From JASPAR
+PO	A	C	G	T
+01	896.0	554.0	460.0	739.0
+02	784.0	628.0	374.0	863.0
+03	715.0	409.0	941.0	584.0
+04	248.0	1815.0	253.0	333.0
+05	2593.0	11.0	17.0	28.0
+06	2461.0	145.0	7.0	36.0
+07	32.0	35.0	2538.0	44.0
+08	82.0	2318.0	57.0	192.0
+09	2449.0	56.0	42.0	102.0
+10	2513.0	14.0	14.0	108.0
+11	587.0	644.0	405.0	1013.0
+12	706.0	813.0	562.0	568.0
+13	787.0	453.0	465.0	944.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9LVA1
+CC data_type:
+XX
+//
+AC MA2051_1
+XX
+ID  NAC68
+XX
+DE MA2051_1 MA2051_1_NAC68 ; From JASPAR
+PO	A	C	G	T
+01	394.0	317.0	204.0	391.0
+02	395.0	323.0	222.0	366.0
+03	1208.0	31.0	42.0	25.0
+04	39.0	1163.0	44.0	60.0
+05	1292.0	3.0	3.0	8.0
+06	1261.0	15.0	6.0	24.0
+07	25.0	16.0	1243.0	22.0
+08	28.0	38.0	39.0	1201.0
+09	840.0	134.0	46.0	286.0
+10	408.0	72.0	81.0	745.0
+11	380.0	286.0	271.0	369.0
+12	396.0	255.0	213.0	442.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:A8MQY1
+CC data_type:
+XX
+//
+AC MA2052_1
+XX
+ID  ZAT6
+XX
+DE MA2052_1 MA2052_1_ZAT6 ; From JASPAR
+PO	A	C	G	T
+01	2817.0	1418.0	1391.0	2958.0
+02	2604.0	1840.0	1459.0	2681.0
+03	7234.0	393.0	310.0	647.0
+04	7675.0	170.0	164.0	575.0
+05	210.0	82.0	45.0	8247.0
+06	342.0	40.0	7885.0	317.0
+07	8264.0	56.0	82.0	182.0
+08	290.0	37.0	173.0	8084.0
+09	214.0	77.0	213.0	8080.0
+10	1185.0	410.0	5912.0	1077.0
+11	3267.0	1175.0	1824.0	2318.0
+12	2603.0	1165.0	1611.0	3205.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:24834923
+CC uniprot_ids:O22533
+CC data_type:
+XX
+//
+AC MA2053_1
+XX
+ID  NAC105
+XX
+DE MA2053_1 MA2053_1_NAC105 ; From JASPAR
+PO	A	C	G	T
+01	333.0	313.0	166.0	389.0
+02	389.0	209.0	257.0	346.0
+03	128.0	680.0	214.0	179.0
+04	1178.0	10.0	5.0	8.0
+05	1122.0	69.0	3.0	7.0
+06	9.0	12.0	1176.0	4.0
+07	73.0	990.0	37.0	101.0
+08	1136.0	20.0	14.0	31.0
+09	1172.0	4.0	2.0	23.0
+10	107.0	825.0	87.0	182.0
+11	239.0	699.0	108.0	155.0
+12	331.0	180.0	205.0	485.0
+13	390.0	297.0	186.0	328.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054
+CC uniprot_ids:Q9FH59
+CC data_type:
+XX
+//
+AC MA0008_3
+XX
+ID  HAT5
+XX
+DE MA0008_3 MA0008_3_HAT5 ; From JASPAR
+PO	A	C	G	T
+01	72.0	32.0	29.0	58.0
+02	80.0	27.0	18.0	66.0
+03	50.0	31.0	20.0	90.0
+04	16.0	148.0	1.0	26.0
+05	190.0	1.0	0.0	0.0
+06	190.0	0.0	0.0	1.0
+07	1.0	0.0	0.0	190.0
+08	134.0	2.0	2.0	53.0
+09	189.0	0.0	0.0	2.0
+10	0.0	0.0	0.0	191.0
+11	6.0	0.0	4.0	181.0
+12	13.0	5.0	168.0	5.0
+13	95.0	20.0	30.0	46.0
+14	75.0	15.0	29.0	72.0
+15	62.0	24.0	34.0	71.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:8253077
+CC uniprot_ids:Q02283
+CC data_type:
+XX
+//
+AC MA0930_2
+XX
+ID  ABF3
+XX
+DE MA0930_2 MA0930_2_ABF3 ; From JASPAR
+PO	A	C	G	T
+01	1414.0	3728.0	1502.0	1948.0
+02	5658.0	606.0	908.0	1420.0
+03	143.0	8374.0	36.0	39.0
+04	51.0	51.0	8414.0	76.0
+05	339.0	321.0	381.0	7551.0
+06	420.0	296.0	7845.0	31.0
+07	781.0	368.0	1935.0	5508.0
+08	662.0	7781.0	60.0	89.0
+09	3106.0	1283.0	1779.0	2424.0
+10	2541.0	1700.0	1589.0	2762.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:11005831; 11005831
+CC uniprot_ids:Q9M7Q3
+CC data_type:
+XX
+//
+AC MA0938_2
+XX
+ID  NAC058
+XX
+DE MA0938_2 MA0938_2_NAC058 ; From JASPAR
+PO	A	C	G	T
+01	307.0	175.0	240.0	385.0
+02	476.0	183.0	145.0	303.0
+03	187.0	101.0	628.0	191.0
+04	214.0	105.0	595.0	193.0
+05	61.0	8.0	3.0	1035.0
+06	204.0	15.0	132.0	756.0
+07	571.0	79.0	189.0	268.0
+08	17.0	1084.0	1.0	5.0
+09	0.0	3.0	524.0	580.0
+10	0.0	2.0	2.0	1103.0
+11	93.0	61.0	936.0	17.0
+12	133.0	128.0	45.0	801.0
+13	262.0	153.0	450.0	242.0
+14	288.0	254.0	269.0	296.0
+15	241.0	474.0	157.0	235.0
+16	739.0	57.0	150.0	161.0
+17	35.0	876.0	112.0	84.0
+18	1097.0	3.0	5.0	2.0
+19	1009.0	86.0	10.0	2.0
+20	5.0	1.0	1090.0	11.0
+21	284.0	144.0	117.0	562.0
+22	729.0	121.0	18.0	239.0
+23	948.0	7.0	14.0	138.0
+24	265.0	357.0	171.0	314.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054; 24914054
+CC uniprot_ids:Q9LS50
+CC data_type:
+XX
+//
+AC MA0964_2
+XX
+ID  BIM1
+XX
+DE MA0964_2 MA0964_2_BIM1 ; From JASPAR
+PO	A	C	G	T
+01	433.0	255.0	283.0	417.0
+02	433.0	271.0	535.0	149.0
+03	96.0	91.0	190.0	1011.0
+04	5.0	1377.0	3.0	3.0
+05	1380.0	1.0	0.0	7.0
+06	1.0	1376.0	0.0	11.0
+07	11.0	0.0	1376.0	1.0
+08	7.0	0.0	1.0	1380.0
+09	3.0	3.0	1377.0	5.0
+10	1011.0	190.0	91.0	96.0
+11	149.0	535.0	271.0	433.0
+12	417.0	283.0	255.0	433.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15680330
+CC uniprot_ids:Q9LEZ3
+CC data_type:
+XX
+//
+AC MA0965_2
+XX
+ID  BIM2
+XX
+DE MA0965_2 MA0965_2_BIM2 ; From JASPAR
+PO	A	C	G	T
+01	3104.0	2178.0	2211.0	2885.0
+02	3238.0	2012.0	2323.0	2805.0
+03	3383.0	1958.0	1799.0	3238.0
+04	2362.0	1874.0	4148.0	1994.0
+05	2197.0	1902.0	3272.0	3007.0
+06	28.0	10294.0	20.0	36.0
+07	10091.0	36.0	166.0	85.0
+08	16.0	10174.0	23.0	165.0
+09	162.0	23.0	10179.0	14.0
+10	84.0	165.0	36.0	10093.0
+11	36.0	20.0	10294.0	28.0
+12	3003.0	3275.0	1899.0	2201.0
+13	1996.0	4150.0	1874.0	2358.0
+14	3238.0	1796.0	1964.0	3380.0
+15	2808.0	2323.0	2010.0	3237.0
+16	2882.0	2214.0	2174.0	3108.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:15680330
+CC uniprot_ids:Q9CAA4
+CC data_type:
+XX
+//
+AC MA0994_2
+XX
+ID  ERF8
+XX
+DE MA0994_2 MA0994_2_ERF8 ; From JASPAR
+PO	A	C	G	T
+01	195.0	222.0	125.0	201.0
+02	198.0	79.0	286.0	180.0
+03	249.0	91.0	273.0	130.0
+04	116.0	180.0	33.0	414.0
+05	103.0	50.0	491.0	99.0
+06	426.0	29.0	252.0	36.0
+07	32.0	649.0	5.0	57.0
+08	3.0	3.0	728.0	9.0
+09	16.0	9.0	714.0	4.0
+10	11.0	701.0	0.0	31.0
+11	6.0	2.0	728.0	7.0
+12	16.0	46.0	667.0	14.0
+13	108.0	537.0	11.0	87.0
+14	21.0	9.0	674.0	39.0
+15	268.0	90.0	321.0	64.0
+16	191.0	213.0	109.0	230.0
+17	168.0	58.0	354.0	163.0
+18	175.0	93.0	321.0	154.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931; 9756931
+CC uniprot_ids:Q9MAI5
+CC data_type:
+XX
+//
+AC MA1055_2
+XX
+ID  SPL1
+XX
+DE MA1055_2 MA1055_2_SPL1 ; From JASPAR
+PO	A	C	G	T
+01	1193.0	663.0	652.0	1155.0
+02	1027.0	707.0	660.0	1269.0
+03	422.0	522.0	347.0	2372.0
+04	140.0	43.0	3426.0	54.0
+05	19.0	49.0	19.0	3576.0
+06	3606.0	30.0	10.0	17.0
+07	54.0	3558.0	11.0	40.0
+08	126.0	50.0	3382.0	105.0
+09	227.0	45.0	3054.0	337.0
+10	2954.0	216.0	77.0	416.0
+11	989.0	773.0	428.0	1473.0
+12	1216.0	736.0	748.0	963.0
+13	1188.0	757.0	657.0	1061.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:SBP
+CC pubmed_ids:24477691; 16554053
+CC uniprot_ids:Q9SMX9
+CC data_type:
+XX
+//
+AC MA1068_2
+XX
+ID  TGA2
+XX
+DE MA1068_2 MA1068_2_TGA2 ; From JASPAR
+PO	A	C	G	T
+01	459.0	220.0	214.0	337.0
+02	327.0	235.0	211.0	457.0
+03	290.0	130.0	613.0	197.0
+04	655.0	258.0	297.0	20.0
+05	2.0	4.0	3.0	1221.0
+06	3.0	1.0	1152.0	74.0
+07	1221.0	3.0	3.0	3.0
+08	3.0	1182.0	5.0	40.0
+09	39.0	2.0	1188.0	1.0
+10	1.0	2.0	3.0	1224.0
+11	63.0	1154.0	6.0	7.0
+12	1224.0	0.0	5.0	1.0
+13	28.0	360.0	264.0	578.0
+14	222.0	573.0	136.0	299.0
+15	448.0	216.0	231.0	335.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:10662863; 10662863
+CC uniprot_ids:P43273
+CC data_type:
+XX
+//
+AC MA1069_2
+XX
+ID  TGA6
+XX
+DE MA1069_2 MA1069_2_TGA6 ; From JASPAR
+PO	A	C	G	T
+01	702.0	297.0	361.0	543.0
+02	541.0	356.0	324.0	682.0
+03	449.0	225.0	856.0	373.0
+04	1192.0	284.0	298.0	129.0
+05	21.0	10.0	4.0	1868.0
+06	21.0	10.0	1827.0	45.0
+07	1869.0	9.0	9.0	16.0
+08	18.0	945.0	30.0	910.0
+09	25.0	24.0	1846.0	8.0
+10	108.0	18.0	14.0	1763.0
+11	53.0	1803.0	23.0	24.0
+12	1862.0	3.0	23.0	15.0
+13	111.0	296.0	233.0	1263.0
+14	389.0	721.0	331.0	462.0
+15	702.0	304.0	385.0	512.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298; 8487298
+CC uniprot_ids:Q39140
+CC data_type:
+XX
+//
+AC MA1070_2
+XX
+ID  TGA7
+XX
+DE MA1070_2 MA1070_2_TGA7 ; From JASPAR
+PO	A	C	G	T
+01	659.0	295.0	313.0	492.0
+02	453.0	314.0	289.0	703.0
+03	367.0	183.0	909.0	300.0
+04	982.0	371.0	352.0	54.0
+05	7.0	13.0	3.0	1736.0
+06	7.0	6.0	1611.0	135.0
+07	1734.0	5.0	8.0	12.0
+08	5.0	1651.0	9.0	94.0
+09	107.0	3.0	1646.0	3.0
+10	5.0	7.0	4.0	1743.0
+11	114.0	1593.0	41.0	11.0
+12	1709.0	1.0	39.0	10.0
+13	65.0	509.0	402.0	783.0
+14	358.0	795.0	208.0	398.0
+15	658.0	290.0	321.0	490.0
+XX
+CC tax_group:plants
+CC tf_family:Group D
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:8487298; 8487298
+CC uniprot_ids:Q93ZE2
+CC data_type:
+XX
+//
+AC MA1079_2
+XX
+ID  WRKY21
+XX
+DE MA1079_2 MA1079_2_WRKY21 ; From JASPAR
+PO	A	C	G	T
+01	79.0	51.0	44.0	65.0
+02	77.0	34.0	54.0	74.0
+03	87.0	58.0	33.0	61.0
+04	137.0	42.0	24.0	36.0
+05	198.0	8.0	17.0	16.0
+06	203.0	3.0	12.0	21.0
+07	220.0	1.0	11.0	7.0
+08	2.0	0.0	236.0	1.0
+09	0.0	0.0	0.0	239.0
+10	0.0	238.0	0.0	1.0
+11	237.0	0.0	1.0	1.0
+12	239.0	0.0	0.0	0.0
+13	28.0	197.0	0.0	14.0
+14	33.0	16.0	153.0	37.0
+15	66.0	82.0	42.0	49.0
+16	71.0	71.0	28.0	69.0
+17	86.0	37.0	43.0	73.0
+18	89.0	35.0	42.0	73.0
+19	80.0	40.0	46.0	73.0
+20	80.0	44.0	49.0	66.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049; 11449049
+CC uniprot_ids:O04336
+CC data_type:
+XX
+//
+AC MA1081_2
+XX
+ID  WRKY25
+XX
+DE MA1081_2 MA1081_2_WRKY25 ; From JASPAR
+PO	A	C	G	T
+01	393.0	181.0	277.0	377.0
+02	416.0	248.0	210.0	354.0
+03	423.0	236.0	218.0	351.0
+04	427.0	212.0	129.0	460.0
+05	328.0	179.0	131.0	590.0
+06	444.0	24.0	731.0	29.0
+07	9.0	7.0	1202.0	10.0
+08	3.0	7.0	0.0	1218.0
+09	4.0	1217.0	4.0	3.0
+10	1215.0	4.0	4.0	5.0
+11	1201.0	5.0	13.0	9.0
+12	130.0	1002.0	18.0	78.0
+13	149.0	53.0	927.0	99.0
+14	348.0	227.0	320.0	333.0
+15	326.0	259.0	181.0	462.0
+16	382.0	212.0	254.0	380.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049; 11449049
+CC uniprot_ids:O22921
+CC data_type:
+XX
+//
+AC MA1083_2
+XX
+ID  WRKY30
+XX
+DE MA1083_2 MA1083_2_WRKY30 ; From JASPAR
+PO	A	C	G	T
+01	1030.0	507.0	432.0	585.0
+02	1385.0	269.0	366.0	534.0
+03	1530.0	65.0	885.0	74.0
+04	26.0	11.0	2498.0	19.0
+05	7.0	7.0	3.0	2537.0
+06	16.0	2526.0	6.0	6.0
+07	2524.0	9.0	5.0	16.0
+08	2521.0	11.0	8.0	14.0
+09	56.0	2387.0	19.0	92.0
+10	125.0	176.0	1992.0	261.0
+11	556.0	1009.0	481.0	508.0
+12	631.0	659.0	316.0	948.0
+13	731.0	437.0	579.0	807.0
+14	823.0	440.0	497.0	794.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FL62
+CC data_type:
+XX
+//
+AC MA1087_2
+XX
+ID  WRKY45
+XX
+DE MA1087_2 MA1087_2_WRKY45 ; From JASPAR
+PO	A	C	G	T
+01	739.0	377.0	475.0	603.0
+02	878.0	445.0	339.0	532.0
+03	1345.0	339.0	218.0	292.0
+04	1914.0	75.0	85.0	120.0
+05	1960.0	34.0	51.0	149.0
+06	2087.0	16.0	59.0	32.0
+07	16.0	3.0	2159.0	16.0
+08	4.0	5.0	7.0	2178.0
+09	12.0	2166.0	6.0	10.0
+10	2160.0	16.0	2.0	16.0
+11	2155.0	8.0	15.0	16.0
+12	721.0	1211.0	56.0	206.0
+13	586.0	297.0	936.0	375.0
+14	708.0	485.0	424.0	577.0
+15	684.0	451.0	314.0	745.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9S763
+CC data_type:
+XX
+//
+AC MA1094_2
+XX
+ID  WRKY8
+XX
+DE MA1094_2 MA1094_2_WRKY8 ; From JASPAR
+PO	A	C	G	T
+01	278.0	149.0	203.0	230.0
+02	360.0	154.0	142.0	204.0
+03	529.0	122.0	103.0	106.0
+04	736.0	27.0	54.0	43.0
+05	781.0	9.0	25.0	45.0
+06	804.0	6.0	42.0	8.0
+07	4.0	1.0	851.0	4.0
+08	1.0	1.0	3.0	855.0
+09	1.0	854.0	2.0	3.0
+10	851.0	4.0	1.0	4.0
+11	850.0	3.0	3.0	4.0
+12	91.0	728.0	3.0	38.0
+13	155.0	85.0	504.0	116.0
+14	266.0	226.0	144.0	224.0
+15	266.0	175.0	90.0	329.0
+16	293.0	123.0	139.0	305.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q9FL26
+CC data_type:
+XX
+//
+AC MA1163_2
+XX
+ID  PHL11
+XX
+DE MA1163_2 MA1163_2_PHL11 ; From JASPAR
+PO	A	C	G	T
+01	835.0	310.0	352.0	616.0
+02	795.0	337.0	453.0	528.0
+03	1171.0	237.0	579.0	126.0
+04	48.0	21.0	1980.0	64.0
+05	1845.0	101.0	16.0	151.0
+06	2079.0	3.0	8.0	23.0
+07	7.0	9.0	51.0	2046.0
+08	2045.0	52.0	9.0	7.0
+09	23.0	8.0	3.0	2079.0
+10	150.0	16.0	100.0	1847.0
+11	67.0	1977.0	20.0	49.0
+12	128.0	575.0	237.0	1173.0
+13	531.0	451.0	337.0	794.0
+14	619.0	352.0	309.0	833.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497; 25215497
+CC uniprot_ids:C0SVS4
+CC data_type:
+XX
+//
+AC MA1165_2
+XX
+ID  HHO6
+XX
+DE MA1165_2 MA1165_2_HHO6 ; From JASPAR
+PO	A	C	G	T
+01	2662.0	2443.0	1581.0	3909.0
+02	2870.0	2659.0	1573.0	3493.0
+03	4865.0	1624.0	1608.0	2498.0
+04	5692.0	1493.0	1372.0	2038.0
+05	10221.0	76.0	107.0	191.0
+06	19.0	32.0	10366.0	178.0
+07	10410.0	52.0	58.0	75.0
+08	435.0	16.0	17.0	10127.0
+09	332.0	71.0	105.0	10087.0
+10	50.0	10484.0	21.0	40.0
+11	1638.0	1723.0	865.0	6369.0
+12	2496.0	1775.0	3352.0	2972.0
+13	3235.0	2118.0	1768.0	3474.0
+14	3441.0	1763.0	1741.0	3650.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FX84
+CC data_type:
+XX
+//
+AC MA1178_2
+XX
+ID  MYB3R1
+XX
+DE MA1178_2 MA1178_2_MYB3R1 ; From JASPAR
+PO	A	C	G	T
+01	1259.0	682.0	474.0	1142.0
+02	999.0	634.0	511.0	1413.0
+03	761.0	1321.0	593.0	882.0
+04	299.0	745.0	70.0	2443.0
+05	3492.0	10.0	24.0	31.0
+06	3524.0	9.0	10.0	14.0
+07	19.0	3491.0	9.0	38.0
+08	47.0	58.0	3410.0	42.0
+09	64.0	18.0	3254.0	221.0
+10	169.0	193.0	62.0	3133.0
+11	694.0	1927.0	146.0	790.0
+12	1795.0	473.0	582.0	707.0
+13	1266.0	656.0	515.0	1120.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497; 25215497
+CC uniprot_ids:Q9S7G7
+CC data_type:
+XX
+//
+AC MA1210_2
+XX
+ID  HAT22
+XX
+DE MA1210_2 MA1210_2_HAT22 ; From JASPAR
+PO	A	C	G	T
+01	1122.0	540.0	543.0	1011.0
+02	950.0	791.0	488.0	987.0
+03	362.0	2470.0	86.0	298.0
+04	3066.0	41.0	21.0	88.0
+05	3127.0	25.0	6.0	58.0
+06	55.0	23.0	15.0	3123.0
+07	2276.0	309.0	309.0	322.0
+08	3128.0	14.0	26.0	48.0
+09	52.0	9.0	18.0	3137.0
+10	83.0	20.0	78.0	3035.0
+11	259.0	92.0	2650.0	215.0
+12	1122.0	406.0	761.0	927.0
+13	1120.0	459.0	607.0	1030.0
+XX
+CC tax_group:plants
+CC tf_family:HD-ZIP
+CC tf_class:Homeo domain factors
+CC pubmed_ids:8253077
+CC uniprot_ids:P46604
+CC data_type:
+XX
+//
+AC MA1213_2
+XX
+ID  ZHD3
+XX
+DE MA1213_2 MA1213_2_ZHD3 ; From JASPAR
+PO	A	C	G	T
+01	2877.0	1041.0	1101.0	2478.0
+02	2259.0	1751.0	784.0	2703.0
+03	705.0	5659.0	189.0	944.0
+04	7125.0	133.0	26.0	213.0
+05	7415.0	23.0	5.0	54.0
+06	31.0	19.0	8.0	7439.0
+07	1160.0	247.0	247.0	5843.0
+08	7442.0	7.0	14.0	34.0
+09	39.0	11.0	29.0	7418.0
+10	129.0	30.0	67.0	7271.0
+11	897.0	148.0	5524.0	928.0
+12	2341.0	824.0	1964.0	2368.0
+13	2244.0	1209.0	943.0	3101.0
+XX
+CC tax_group:plants
+CC tf_family:PLINC
+CC tf_class:Homeo domain factors
+CC pubmed_ids:11247607; 11247607
+CC uniprot_ids:O64722
+CC data_type:
+XX
+//
+AC MA1219_2
+XX
+ID  ERF011
+XX
+DE MA1219_2 MA1219_2_ERF011 ; From JASPAR
+PO	A	C	G	T
+01	732.0	765.0	349.0	600.0
+02	811.0	393.0	524.0	718.0
+03	412.0	807.0	326.0	901.0
+04	139.0	2130.0	96.0	81.0
+05	2305.0	7.0	98.0	36.0
+06	13.0	2411.0	10.0	12.0
+07	8.0	2427.0	5.0	6.0
+08	23.0	12.0	2401.0	10.0
+09	2115.0	74.0	47.0	210.0
+10	10.0	2394.0	14.0	28.0
+11	841.0	1106.0	275.0	224.0
+12	1197.0	437.0	268.0	544.0
+13	733.0	629.0	367.0	717.0
+14	749.0	508.0	526.0	663.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:15319480; 9952441
+CC uniprot_ids:Q9SNE1
+CC data_type:
+XX
+//
+AC MA1231_2
+XX
+ID  ERF15
+XX
+DE MA1231_2 MA1231_2_ERF15 ; From JASPAR
+PO	A	C	G	T
+01	404.0	837.0	296.0	596.0
+02	487.0	841.0	178.0	627.0
+03	442.0	248.0	375.0	1068.0
+04	206.0	731.0	280.0	916.0
+05	1010.0	942.0	94.0	87.0
+06	30.0	7.0	2078.0	18.0
+07	3.0	2124.0	1.0	5.0
+08	59.0	2062.0	3.0	9.0
+09	51.0	3.0	2067.0	12.0
+10	14.0	2066.0	14.0	39.0
+11	10.0	2107.0	8.0	8.0
+12	579.0	62.0	911.0	581.0
+13	214.0	929.0	236.0	754.0
+14	509.0	695.0	348.0	581.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931; 9756931
+CC uniprot_ids:Q8VYM0
+CC data_type:
+XX
+//
+AC MA1272_2
+XX
+ID  DOF2_2
+XX
+DE MA1272_2 MA1272_2_DOF2_2 ; From JASPAR
+PO	A	C	G	T
+01	357.0	142.0	190.0	397.0
+02	203.0	278.0	255.0	350.0
+03	1086.0	0.0	0.0	0.0
+04	1077.0	0.0	0.0	9.0
+05	1086.0	0.0	0.0	0.0
+06	1084.0	0.0	0.0	2.0
+07	1086.0	0.0	0.0	0.0
+08	0.0	0.0	1086.0	0.0
+09	263.0	154.0	208.0	461.0
+10	460.0	112.0	195.0	319.0
+XX
+CC tax_group:plants
+CC tf_family:DOF
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:10758479
+CC uniprot_ids:Q9ZV33
+CC data_type:
+XX
+//
+AC MA1307_2
+XX
+ID  WRKY31
+XX
+DE MA1307_2 MA1307_2_WRKY31 ; From JASPAR
+PO	A	C	G	T
+01	98.0	78.0	41.0	82.0
+02	83.0	66.0	76.0	74.0
+03	88.0	67.0	42.0	102.0
+04	88.0	44.0	41.0	126.0
+05	134.0	4.0	153.0	8.0
+06	2.0	0.0	296.0	1.0
+07	0.0	0.0	0.0	299.0
+08	2.0	296.0	1.0	0.0
+09	297.0	1.0	1.0	0.0
+10	290.0	0.0	3.0	6.0
+11	16.0	264.0	4.0	15.0
+12	29.0	11.0	240.0	19.0
+13	72.0	108.0	49.0	70.0
+14	64.0	92.0	42.0	101.0
+15	84.0	47.0	105.0	63.0
+16	76.0	41.0	107.0	75.0
+17	68.0	44.0	59.0	128.0
+18	67.0	74.0	65.0	93.0
+XX
+CC tax_group:plants
+CC tf_family:WRKY
+CC tf_class:GCM domain factors
+CC pubmed_ids:11449049
+CC uniprot_ids:Q93WT0
+CC data_type:
+XX
+//
+AC MA0577_3
+XX
+ID  SPL3
+XX
+DE MA0577_3 MA0577_3_SPL3 ; From JASPAR
+PO	A	C	G	T
+01	200.0	288.0	143.0	319.0
+02	108.0	241.0	85.0	516.0
+03	11.0	6.0	928.0	5.0
+04	2.0	3.0	10.0	935.0
+05	942.0	3.0	3.0	2.0
+06	7.0	939.0	1.0	3.0
+07	75.0	6.0	856.0	13.0
+08	34.0	5.0	872.0	39.0
+09	760.0	56.0	15.0	119.0
+10	237.0	275.0	122.0	316.0
+11	340.0	171.0	226.0	213.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:SBP
+CC pubmed_ids:10524240; 16554053
+CC uniprot_ids:P93015
+CC data_type:
+XX
+//
+AC MA1322_2
+XX
+ID  SPL9
+XX
+DE MA1322_2 MA1322_2_SPL9 ; From JASPAR
+PO	A	C	G	T
+01	514.0	475.0	481.0	646.0
+02	674.0	396.0	461.0	585.0
+03	294.0	57.0	169.0	1596.0
+04	180.0	1710.0	51.0	175.0
+05	94.0	1844.0	56.0	122.0
+06	31.0	19.0	2027.0	39.0
+07	17.0	7.0	10.0	2082.0
+08	2053.0	20.0	22.0	21.0
+09	25.0	2010.0	29.0	52.0
+10	683.0	396.0	558.0	479.0
+11	664.0	314.0	522.0	616.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:SBP
+CC pubmed_ids:10524240; 16554053
+CC uniprot_ids:Q700W2
+CC data_type:
+XX
+//
+AC MA1338_2
+XX
+ID  DPBF3
+XX
+DE MA1338_2 MA1338_2_DPBF3 ; From JASPAR
+PO	A	C	G	T
+01	836.0	341.0	460.0	792.0
+02	819.0	393.0	480.0	737.0
+03	709.0	512.0	414.0	794.0
+04	317.0	355.0	262.0	1495.0
+05	74.0	30.0	2110.0	215.0
+06	811.0	1580.0	17.0	21.0
+07	6.0	2407.0	5.0	11.0
+08	2419.0	1.0	5.0	4.0
+09	1.0	2409.0	14.0	5.0
+10	9.0	26.0	2388.0	6.0
+11	7.0	9.0	1.0	2412.0
+12	97.0	269.0	2041.0	22.0
+13	307.0	17.0	671.0	1434.0
+14	335.0	1703.0	156.0	235.0
+15	901.0	790.0	299.0	439.0
+16	775.0	462.0	390.0	802.0
+17	711.0	520.0	359.0	839.0
+XX
+CC tax_group:plants
+CC tf_family:Group A
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:10636868
+CC uniprot_ids:Q9LES3
+CC data_type:
+XX
+//
+AC MA1351_2
+XX
+ID  GBF3
+XX
+DE MA1351_2 MA1351_2_GBF3 ; From JASPAR
+PO	A	C	G	T
+01	1144.0	4087.0	2431.0	1799.0
+02	7456.0	509.0	636.0	860.0
+03	260.0	8349.0	340.0	512.0
+04	341.0	139.0	8749.0	232.0
+05	136.0	113.0	27.0	9185.0
+06	133.0	60.0	9137.0	131.0
+07	385.0	212.0	7410.0	1454.0
+08	828.0	8130.0	275.0	228.0
+09	7429.0	400.0	831.0	801.0
+10	2879.0	1756.0	1943.0	2883.0
+11	2928.0	1909.0	1879.0	2745.0
+XX
+CC tax_group:plants
+CC tf_family:Group G
+CC tf_class:Basic leucine zipper factors _bZIP_
+CC pubmed_ids:9680995
+CC uniprot_ids:P42776
+CC data_type:
+XX
+//
+AC MA1359_2
+XX
+ID  BPE
+XX
+DE MA1359_2 MA1359_2_BPE ; From JASPAR
+PO	A	C	G	T
+01	109.0	83.0	110.0	94.0
+02	101.0	79.0	74.0	142.0
+03	90.0	72.0	162.0	72.0
+04	76.0	162.0	87.0	71.0
+05	1.0	393.0	2.0	0.0
+06	396.0	0.0	0.0	0.0
+07	0.0	388.0	0.0	8.0
+08	9.0	0.0	387.0	0.0
+09	0.0	0.0	0.0	396.0
+10	0.0	2.0	393.0	1.0
+11	72.0	85.0	162.0	77.0
+12	73.0	161.0	72.0	90.0
+13	142.0	75.0	81.0	98.0
+14	95.0	108.0	85.0	108.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q0JXE7
+CC data_type:
+XX
+//
+AC MA1360_2
+XX
+ID  BHLH74
+XX
+DE MA1360_2 MA1360_2_BHLH74 ; From JASPAR
+PO	A	C	G	T
+01	100.0	96.0	121.0	122.0
+02	125.0	79.0	97.0	138.0
+03	119.0	118.0	110.0	92.0
+04	52.0	111.0	159.0	117.0
+05	0.0	438.0	0.0	1.0
+06	439.0	0.0	0.0	0.0
+07	0.0	436.0	0.0	3.0
+08	3.0	0.0	436.0	0.0
+09	0.0	0.0	0.0	439.0
+10	0.0	0.0	438.0	1.0
+11	128.0	114.0	148.0	49.0
+12	89.0	131.0	92.0	127.0
+13	130.0	102.0	92.0	115.0
+14	125.0	110.0	94.0	110.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors _bHLH_
+CC pubmed_ids:21335373
+CC uniprot_ids:Q6NKN9
+CC data_type:
+XX
+//
+AC MA1386_2
+XX
+ID  HHO3
+XX
+DE MA1386_2 MA1386_2_HHO3 ; From JASPAR
+PO	A	C	G	T
+01	652.0	436.0	311.0	849.0
+02	666.0	534.0	321.0	727.0
+03	777.0	381.0	490.0	600.0
+04	1482.0	236.0	174.0	356.0
+05	2197.0	12.0	8.0	31.0
+06	2.0	4.0	2170.0	72.0
+07	2206.0	11.0	9.0	22.0
+08	79.0	2.0	1.0	2166.0
+09	68.0	18.0	32.0	2130.0
+10	5.0	2237.0	4.0	2.0
+11	247.0	386.0	167.0	1448.0
+12	680.0	378.0	474.0	716.0
+13	684.0	415.0	339.0	810.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q9FPE8
+CC data_type:
+XX
+//
+AC MA1390_2
+XX
+ID  HHO2
+XX
+DE MA1390_2 MA1390_2_HHO2 ; From JASPAR
+PO	A	C	G	T
+01	395.0	471.0	237.0	435.0
+02	469.0	240.0	435.0	394.0
+03	1046.0	130.0	123.0	239.0
+04	1453.0	14.0	22.0	49.0
+05	10.0	7.0	1350.0	171.0
+06	1510.0	4.0	16.0	8.0
+07	37.0	2.0	3.0	1496.0
+08	55.0	23.0	14.0	1446.0
+09	15.0	1518.0	1.0	4.0
+10	155.0	960.0	119.0	304.0
+11	717.0	181.0	291.0	349.0
+12	443.0	238.0	258.0	599.0
+13	506.0	280.0	249.0	503.0
+14	497.0	237.0	299.0	505.0
+XX
+CC tax_group:plants
+CC tf_family:GARP_G2-like
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497
+CC uniprot_ids:Q8VZS3
+CC data_type:
+XX
+//
+AC MA1392_2
+XX
+ID  MYB98
+XX
+DE MA1392_2 MA1392_2_MYB98 ; From JASPAR
+PO	A	C	G	T
+01	425.0	76.0	189.0	329.0
+02	307.0	30.0	178.0	504.0
+03	529.0	378.0	83.0	29.0
+04	9.0	991.0	3.0	16.0
+05	11.0	5.0	1000.0	3.0
+06	6.0	1.0	1.0	1011.0
+07	5.0	4.0	6.0	1004.0
+08	1004.0	4.0	3.0	8.0
+09	0.0	1015.0	2.0	2.0
+10	407.0	117.0	182.0	313.0
+11	377.0	95.0	156.0	391.0
+XX
+CC tax_group:plants
+CC tf_family:Myb
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25215497; 25215497
+CC uniprot_ids:Q9S7L2
+CC data_type:
+XX
+//
+AC MA1427_2
+XX
+ID  NAC028
+XX
+DE MA1427_2 MA1427_2_NAC028 ; From JASPAR
+PO	A	C	G	T
+01	347.0	371.0	214.0	370.0
+02	481.0	212.0	311.0	298.0
+03	31.0	1188.0	34.0	49.0
+04	1279.0	4.0	7.0	12.0
+05	1202.0	71.0	10.0	19.0
+06	13.0	2.0	1281.0	6.0
+07	97.0	90.0	48.0	1067.0
+08	1103.0	64.0	7.0	128.0
+09	1266.0	9.0	3.0	24.0
+10	198.0	301.0	138.0	665.0
+11	195.0	824.0	117.0	166.0
+12	365.0	189.0	230.0	518.0
+13	420.0	303.0	197.0	382.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054; 27203113
+CC uniprot_ids:Q9SRZ8
+CC data_type:
+XX
+//
+AC MA1663_2
+XX
+ID  NAC050
+XX
+DE MA1663_2 MA1663_2_NAC050 ; From JASPAR
+PO	A	C	G	T
+01	1241.0	1036.0	869.0	1123.0
+02	1140.0	1204.0	729.0	1196.0
+03	1427.0	778.0	1097.0	967.0
+04	108.0	3913.0	118.0	130.0
+05	4208.0	22.0	14.0	25.0
+06	4035.0	144.0	38.0	52.0
+07	41.0	23.0	4171.0	34.0
+08	988.0	316.0	238.0	2727.0
+09	3785.0	157.0	43.0	284.0
+10	4088.0	40.0	27.0	114.0
+11	411.0	3192.0	280.0	386.0
+12	1308.0	1162.0	556.0	1243.0
+13	1316.0	731.0	742.0	1480.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054; 26617990
+CC uniprot_ids:Q9SQX9
+CC data_type:
+XX
+//
+AC MA1664_2
+XX
+ID  HSFA6B
+XX
+DE MA1664_2 MA1664_2_HSFA6B ; From JASPAR
+PO	A	C	G	T
+01	205.0	245.0	413.0	293.0
+02	228.0	412.0	234.0	282.0
+03	47.0	44.0	14.0	1051.0
+04	15.0	18.0	9.0	1114.0
+05	13.0	1108.0	20.0	15.0
+06	27.0	50.0	16.0	1063.0
+07	366.0	78.0	660.0	52.0
+08	14.0	11.0	1121.0	10.0
+09	1114.0	7.0	12.0	23.0
+10	1044.0	15.0	40.0	57.0
+11	268.0	259.0	364.0	265.0
+12	287.0	397.0	238.0	234.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:27493213; 27493213
+CC uniprot_ids:Q9LUH8
+CC data_type:
+XX
+//
+AC MA1665_2
+XX
+ID  HSFB2A
+XX
+DE MA1665_2 MA1665_2_HSFB2A ; From JASPAR
+PO	A	C	G	T
+01	206.0	292.0	154.0	235.0
+02	179.0	171.0	84.0	453.0
+03	374.0	77.0	390.0	46.0
+04	9.0	4.0	866.0	8.0
+05	878.0	2.0	2.0	5.0
+06	871.0	1.0	2.0	13.0
+07	46.0	32.0	713.0	96.0
+08	96.0	264.0	433.0	94.0
+09	22.0	2.0	4.0	859.0
+10	12.0	2.0	2.0	871.0
+11	7.0	858.0	7.0	15.0
+12	59.0	261.0	82.0	485.0
+13	431.0	82.0	181.0	193.0
+14	228.0	131.0	309.0	219.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:24477691; 24477691
+CC uniprot_ids:Q9SCW4
+CC data_type:
+XX
+//
+AC MA1666_2
+XX
+ID  HSFB2B
+XX
+DE MA1666_2 MA1666_2_HSFB2B ; From JASPAR
+PO	A	C	G	T
+01	278.0	516.0	236.0	270.0
+02	277.0	243.0	147.0	633.0
+03	543.0	151.0	529.0	77.0
+04	8.0	11.0	1274.0	7.0
+05	1262.0	5.0	8.0	25.0
+06	1257.0	5.0	7.0	31.0
+07	77.0	53.0	1032.0	138.0
+08	155.0	352.0	655.0	138.0
+09	43.0	4.0	6.0	1247.0
+10	28.0	7.0	8.0	1257.0
+11	10.0	1264.0	9.0	17.0
+12	35.0	195.0	83.0	987.0
+13	736.0	144.0	209.0	211.0
+14	236.0	164.0	688.0	212.0
+15	762.0	104.0	174.0	260.0
+16	580.0	186.0	249.0	285.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:Q9T0D3
+CC data_type:
+XX
+//
+AC MA1667_2
+XX
+ID  HSFC1
+XX
+DE MA1667_2 MA1667_2_HSFC1 ; From JASPAR
+PO	A	C	G	T
+01	308.0	292.0	613.0	367.0
+02	358.0	470.0	305.0	447.0
+03	73.0	45.0	14.0	1448.0
+04	28.0	7.0	6.0	1539.0
+05	12.0	1538.0	15.0	15.0
+06	34.0	765.0	99.0	682.0
+07	1476.0	9.0	80.0	15.0
+08	22.0	22.0	1521.0	15.0
+09	1559.0	1.0	9.0	11.0
+10	1479.0	12.0	36.0	53.0
+11	447.0	269.0	522.0	342.0
+12	362.0	648.0	299.0	271.0
+XX
+CC tax_group:plants
+CC tf_family:
+CC tf_class:Heat shock factors
+CC pubmed_ids:8689565
+CC uniprot_ids:Q9LV52
+CC data_type:
+XX
+//
+AC MA1674_2
+XX
+ID  NAC017
+XX
+DE MA1674_2 MA1674_2_NAC017 ; From JASPAR
+PO	A	C	G	T
+01	298.0	237.0	240.0	222.0
+02	340.0	235.0	156.0	266.0
+03	218.0	116.0	527.0	136.0
+04	12.0	957.0	9.0	19.0
+05	990.0	1.0	0.0	6.0
+06	879.0	92.0	7.0	19.0
+07	9.0	4.0	978.0	6.0
+08	127.0	72.0	60.0	738.0
+09	917.0	24.0	6.0	50.0
+10	928.0	4.0	6.0	59.0
+11	255.0	275.0	193.0	274.0
+12	260.0	284.0	153.0	300.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24045017; 24045017
+CC uniprot_ids:Q9XIC5
+CC data_type:
+XX
+//
+AC MA1676_2
+XX
+ID  NAC062
+XX
+DE MA1676_2 MA1676_2_NAC062 ; From JASPAR
+PO	A	C	G	T
+01	150.0	108.0	102.0	180.0
+02	135.0	127.0	106.0	172.0
+03	129.0	78.0	255.0	78.0
+04	94.0	76.0	88.0	282.0
+05	21.0	58.0	35.0	426.0
+06	533.0	2.0	2.0	3.0
+07	520.0	5.0	4.0	11.0
+08	4.0	3.0	528.0	5.0
+09	51.0	26.0	18.0	445.0
+10	507.0	8.0	2.0	23.0
+11	514.0	2.0	4.0	20.0
+12	112.0	203.0	56.0	169.0
+13	147.0	157.0	72.0	164.0
+14	194.0	76.0	91.0	179.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054; 24914054
+CC uniprot_ids:Q9SCK6
+CC data_type:
+XX
+//
+AC MA1678_2
+XX
+ID  NTL8
+XX
+DE MA1678_2 MA1678_2_NTL8 ; From JASPAR
+PO	A	C	G	T
+01	324.0	197.0	197.0	264.0
+02	245.0	165.0	175.0	397.0
+03	64.0	171.0	669.0	78.0
+04	958.0	5.0	10.0	9.0
+05	912.0	12.0	42.0	16.0
+06	8.0	6.0	956.0	12.0
+07	795.0	79.0	35.0	73.0
+08	957.0	4.0	3.0	18.0
+09	933.0	10.0	16.0	23.0
+10	45.0	850.0	40.0	47.0
+11	220.0	468.0	96.0	198.0
+12	245.0	189.0	142.0	406.0
+13	324.0	201.0	154.0	303.0
+XX
+CC tax_group:plants
+CC tf_family:NAC
+CC tf_class:GCM domain factors
+CC pubmed_ids:24914054; 24914054
+CC uniprot_ids:Q9XIN7
+CC data_type:
+XX
+//
+AC MA1001_3
+XX
+ID  ERF11
+XX
+DE MA1001_3 MA1001_3_ERF11 ; From JASPAR
+PO	A	C	G	T
+01	138.0	830.0	181.0	224.0
+02	193.0	1008.0	63.0	109.0
+03	59.0	6.0	1270.0	38.0
+04	4.0	1347.0	13.0	9.0
+05	16.0	1346.0	5.0	6.0
+06	76.0	2.0	1271.0	24.0
+07	9.0	1281.0	9.0	74.0
+08	40.0	1304.0	11.0	18.0
+09	852.0	5.0	435.0	81.0
+10	85.0	1086.0	45.0	157.0
+11	290.0	653.0	144.0	286.0
+12	435.0	126.0	522.0	290.0
+XX
+CC tax_group:plants
+CC tf_family:ERF/DREB
+CC tf_class:AP2/EREBP
+CC pubmed_ids:9756931; 9756931
+CC uniprot_ids:Q9C5I3
+CC data_type:
+XX
+//
+AC  UN0001_1
+XX
+ID PK00315_1
+XX
+DE  UN0001_1 UN0001_1_PK00315_1 ; From JASPAR
+P0           A         C         G         T
+1          226       226       320       226
+2          186       260       186       367
+3           86       163       664        86
+4          839       159         0         0
+5            0       922         0        77
+6          917         0        82         0
+7           77         0       922         0
+8           77       840        82         0
+9           23        23       106       846
+10         317        64       477       141
+11         246       164       281       308
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 1
+CC  accession: UN0001_1
+CC  AC: UN0001_1
+CC  id: UN0001_1
+CC  name: UN0001_1_PK00315_1
+CC  version: 
+CC  name: UN0001_1_PK00315_1
+CC  description: UN0001_1 UN0001_1_PK00315_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 1
+XX
+//
+AC  UN0002_1
+XX
+ID PK01144_1
+XX
+DE  UN0002_1 UN0002_1_PK01144_1 ; From JASPAR
+P0           A         C         G         T
+1          349       229       253       168
+2           23       872         4       100
+3           31         0        82       886
+4           43         2        25       929
+5           43        25        22       909
+6          331       133        78       456
+7          222       219       213       344
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 2
+CC  accession: UN0002_1
+CC  AC: UN0002_1
+CC  id: UN0002_1
+CC  name: UN0002_1_PK01144_1
+CC  version: 
+CC  name: UN0002_1_PK01144_1
+CC  description: UN0002_1 UN0002_1_PK01144_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 2
+XX
+//
+AC  UN0003_1
+XX
+ID PK01630_1
+XX
+DE  UN0003_1 UN0003_1_PK01630_1 ; From JASPAR
+P0           A         C         G         T
+1          166       111       677        44
+2          134       864         0         0
+3          904        14        43        36
+4            0       926         0        73
+5           94         0       904         0
+6           52        67        82       798
+7            8         0       927        64
+8          473        53       290       182
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 3
+CC  accession: UN0003_1
+CC  AC: UN0003_1
+CC  id: UN0003_1
+CC  name: UN0003_1_PK01630_1
+CC  version: 
+CC  name: UN0003_1_PK01630_1
+CC  description: UN0003_1 UN0003_1_PK01630_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 3
+XX
+//
+AC  UN0005_1
+XX
+ID PK03025_1
+XX
+DE  UN0005_1 UN0005_1_PK03025_1 ; From JASPAR
+P0           A         C         G         T
+1          495         4         4       495
+2          985         4         4         4
+3            4         4         4       985
+4          985         4         4         4
+5          985         4         4         4
+6          985         4         4         4
+7            4         4         4       985
+8            4       495         4       495
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 4
+CC  accession: UN0005_1
+CC  AC: UN0005_1
+CC  id: UN0005_1
+CC  name: UN0005_1_PK03025_1
+CC  version: 
+CC  name: UN0005_1_PK03025_1
+CC  description: UN0005_1 UN0005_1_PK03025_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 4
+XX
+//
+AC  UN0007_1
+XX
+ID PK03929_1
+XX
+DE  UN0007_1 UN0007_1_PK03929_1 ; From JASPAR
+P0           A         C         G         T
+1          223       275       188       313
+2          279       247       161       311
+3          430       189       231       147
+4           39       908        16        35
+5           34        46        80       839
+6           31         4        22       941
+7           24        10        24       940
+8          349       118        73       458
+9          207       251       170       371
+10         245       240       255       258
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 5
+CC  accession: UN0007_1
+CC  AC: UN0007_1
+CC  id: UN0007_1
+CC  name: UN0007_1_PK03929_1
+CC  version: 
+CC  name: UN0007_1_PK03929_1
+CC  description: UN0007_1 UN0007_1_PK03929_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 5
+XX
+//
+AC  UN0008_1
+XX
+ID PK04914_1
+XX
+DE  UN0008_1 UN0008_1_PK04914_1 ; From JASPAR
+P0           A         C         G         T
+1          246        13       547       191
+2          151       828        10        10
+3            0       990         9         0
+4            0         0       999         0
+5            0         0        18       980
+6            0       307         9       682
+7          924         0        10        64
+8          421       156       234       187
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 6
+CC  accession: UN0008_1
+CC  AC: UN0008_1
+CC  id: UN0008_1
+CC  name: UN0008_1_PK04914_1
+CC  version: 
+CC  name: UN0008_1_PK04914_1
+CC  description: UN0008_1 UN0008_1_PK04914_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 6
+XX
+//
+AC  UN0010_1
+XX
+ID PK05432_1
+XX
+DE  UN0010_1 UN0010_1_PK05432_1 ; From JASPAR
+P0           A         C         G         T
+1          263       231       242       263
+2          220       264       220       294
+3          384       103       451        60
+4            4         1       894       100
+5            8         2         2       986
+6           34       963         0         1
+7          725       132        35       106
+8          622        47       201       129
+9          314       408       121       154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 7
+CC  accession: UN0010_1
+CC  AC: UN0010_1
+CC  id: UN0010_1
+CC  name: UN0010_1_PK05432_1
+CC  version: 
+CC  name: UN0010_1_PK05432_1
+CC  description: UN0010_1 UN0010_1_PK05432_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 7
+XX
+//
+AC  UN0011_1
+XX
+ID PK05451_1
+XX
+DE  UN0011_1 UN0011_1_PK05451_1 ; From JASPAR
+P0           A         C         G         T
+1           83       582        83       250
+2            0       998         0         0
+3          998         0         0         0
+4            0       998         0         0
+5            0         0       998         0
+6            0         0         0       998
+7            0         0       998         0
+8          285       570        71        71
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 8
+CC  accession: UN0011_1
+CC  AC: UN0011_1
+CC  id: UN0011_1
+CC  name: UN0011_1_PK05451_1
+CC  version: 
+CC  name: UN0011_1_PK05451_1
+CC  description: UN0011_1 UN0011_1_PK05451_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 8
+XX
+//
+AC  UN0013_1
+XX
+ID PK05732_1
+XX
+DE  UN0013_1 UN0013_1_PK05732_1 ; From JASPAR
+P0           A         C         G         T
+1          469       128       117       285
+2          336       339       127       196
+3          892        17        39        50
+4           37        12         0       949
+5          105        58        87       748
+6           62       837        33        66
+7           78       336       175       410
+8          231       276       200       290
+9          209       266       160       363
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 9
+CC  accession: UN0013_1
+CC  AC: UN0013_1
+CC  id: UN0013_1
+CC  name: UN0013_1_PK05732_1
+CC  version: 
+CC  name: UN0013_1_PK05732_1
+CC  description: UN0013_1 UN0013_1_PK05732_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 9
+XX
+//
+AC  UN0015_1
+XX
+ID PK06517_1
+XX
+DE  UN0015_1 UN0015_1_PK06517_1 ; From JASPAR
+P0           A         C         G         T
+1          167       498       167       167
+2            0       997         0         0
+3          997         0         0         0
+4            0       997         0         0
+5            0         0       997         0
+6            0         0         0       997
+7            0         0       997         0
+8          125       747       125         1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 10
+CC  accession: UN0015_1
+CC  AC: UN0015_1
+CC  id: UN0015_1
+CC  name: UN0015_1_PK06517_1
+CC  version: 
+CC  name: UN0015_1_PK06517_1
+CC  description: UN0015_1 UN0015_1_PK06517_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 10
+XX
+//
+AC  UN0016_1
+XX
+ID PK07031_1
+XX
+DE  UN0016_1 UN0016_1_PK07031_1 ; From JASPAR
+P0           A         C         G         T
+1          355       222       252       169
+2           58       816        17       107
+3           50        17       243       688
+4           74         0        65       859
+5           73        21        44       860
+6          314       154       110       420
+7          213       245       210       330
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 11
+CC  accession: UN0016_1
+CC  AC: UN0016_1
+CC  id: UN0016_1
+CC  name: UN0016_1_PK07031_1
+CC  version: 
+CC  name: UN0016_1_PK07031_1
+CC  description: UN0016_1 UN0016_1_PK07031_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 11
+XX
+//
+AC  UN0017_1
+XX
+ID PK07402_1
+XX
+DE  UN0017_1 UN0017_1_PK07402_1 ; From JASPAR
+P0           A         C         G         T
+1          138       346       272       242
+2          190       534       166       108
+3          608         2       384         5
+4            0       993         5         1
+5            0       994         0         4
+6           10         1       977        10
+7          441       411        42       104
+8           75       790        31       102
+9          367       227        86       319
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 12
+CC  accession: UN0017_1
+CC  AC: UN0017_1
+CC  id: UN0017_1
+CC  name: UN0017_1_PK07402_1
+CC  version: 
+CC  name: UN0017_1_PK07402_1
+CC  description: UN0017_1 UN0017_1_PK07402_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 12
+XX
+//
+AC  UN0019_1
+XX
+ID PK07858_1
+XX
+DE  UN0019_1 UN0019_1_PK07858_1 ; From JASPAR
+P0           A         C         G         T
+1          235       294        59       411
+2            0       998         0         0
+3          998         0         0         0
+4            0       998         0         0
+5            0         0       998         0
+6            0         0         0       998
+7            0         0       998         0
+8           67       532       200       200
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 13
+CC  accession: UN0019_1
+CC  AC: UN0019_1
+CC  id: UN0019_1
+CC  name: UN0019_1_PK07858_1
+CC  version: 
+CC  name: UN0019_1_PK07858_1
+CC  description: UN0019_1 UN0019_1_PK07858_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 13
+XX
+//
+AC  UN0021_1
+XX
+ID PK08602_1
+XX
+DE  UN0021_1 UN0021_1_PK08602_1 ; From JASPAR
+P0           A         C         G         T
+1          200       307       292       200
+2           96       621        96       186
+3            0       999         0         0
+4          999         0         0         0
+5            0       999         0         0
+6            0       999         0         0
+7            0         0       999         0
+8            0       999         0         0
+9          134       574        49       241
+10         335       270       239       154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 14
+CC  accession: UN0021_1
+CC  AC: UN0021_1
+CC  id: UN0021_1
+CC  name: UN0021_1_PK08602_1
+CC  version: 
+CC  name: UN0021_1_PK08602_1
+CC  description: UN0021_1 UN0021_1_PK08602_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 14
+XX
+//
+AC  UN0022_1
+XX
+ID PK09021_1
+XX
+DE  UN0022_1 UN0022_1_PK09021_1 ; From JASPAR
+P0           A         C         G         T
+1          217       253       282       246
+2          295       243       282       178
+3            0         0         0       999
+4            0         0       999         0
+5          999         0         0         0
+6            0       999         0         0
+7            0         0       999         0
+8            0         0         0       999
+9          265       669        32        32
+10         711        71       109       107
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 15
+CC  accession: UN0022_1
+CC  AC: UN0022_1
+CC  id: UN0022_1
+CC  name: UN0022_1_PK09021_1
+CC  version: 
+CC  name: UN0022_1_PK09021_1
+CC  description: UN0022_1 UN0022_1_PK09021_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 15
+XX
+//
+AC  UN0025_1
+XX
+ID PK09702_1
+XX
+DE  UN0025_1 UN0025_1_PK09702_1 ; From JASPAR
+P0           A         C         G         T
+1            1       125       871         1
+2            0       997         0         0
+3          997         0         0         0
+4            0       997         0         0
+5            0         0       997         0
+6            0         0         0       997
+7            0         0       997         0
+8          332       167       498         1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 16
+CC  accession: UN0025_1
+CC  AC: UN0025_1
+CC  id: UN0025_1
+CC  name: UN0025_1_PK09702_1
+CC  version: 
+CC  name: UN0025_1_PK09702_1
+CC  description: UN0025_1 UN0025_1_PK09702_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 16
+XX
+//
+AC  UN0026_1
+XX
+ID PK10344_1
+XX
+DE  UN0026_1 UN0026_1_PK10344_1 ; From JASPAR
+P0           A         C         G         T
+1           91         0       725       182
+2            0         0       997         0
+3            0         0       997         0
+4          855       143         0         0
+5            0       997         0         0
+6            0       997         0         0
+7          997         0         0         0
+8            1       871         1       125
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 17
+CC  accession: UN0026_1
+CC  AC: UN0026_1
+CC  id: UN0026_1
+CC  name: UN0026_1_PK10344_1
+CC  version: 
+CC  name: UN0026_1_PK10344_1
+CC  description: UN0026_1 UN0026_1_PK10344_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 17
+XX
+//
+AC  UN0027_1
+XX
+ID PK10955_1
+XX
+DE  UN0027_1 UN0027_1_PK10955_1 ; From JASPAR
+P0           A         C         G         T
+1          500       136       253       109
+2            9       970         3        17
+3            8        89        43       857
+4            7         0         3       988
+5            7         4         8       979
+6          308        59        16       615
+7          181       187       126       504
+8          218       225       246       310
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 18
+CC  accession: UN0027_1
+CC  AC: UN0027_1
+CC  id: UN0027_1
+CC  name: UN0027_1_PK10955_1
+CC  version: 
+CC  name: UN0027_1_PK10955_1
+CC  description: UN0027_1 UN0027_1_PK10955_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 18
+XX
+//
+AC  UN0029_1
+XX
+ID PK12011_1
+XX
+DE  UN0029_1 UN0029_1_PK12011_1 ; From JASPAR
+P0           A         C         G         T
+1          138       287        85       488
+2          985         0        12         1
+3          926        58         7         8
+4            3       986         0         9
+5           35        80       798        84
+6          112        24       701       161
+7          213       266       113       405
+8          288       312       108       291
+9          363       216       180       239
+10         265       228       209       296
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 19
+CC  accession: UN0029_1
+CC  AC: UN0029_1
+CC  id: UN0029_1
+CC  name: UN0029_1_PK12011_1
+CC  version: 
+CC  name: UN0029_1_PK12011_1
+CC  description: UN0029_1 UN0029_1_PK12011_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 19
+XX
+//
+AC  UN0030_1
+XX
+ID PK12240_1
+XX
+DE  UN0030_1 UN0030_1_PK12240_1 ; From JASPAR
+P0           A         C         G         T
+1            2         2       992         2
+2            2         2       992         2
+3            2         2       992         2
+4            2       745       250         2
+5            2       992         2         2
+6            2       992         2         2
+7          250       745         2         2
+8            2       745       250         2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 20
+CC  accession: UN0030_1
+CC  AC: UN0030_1
+CC  id: UN0030_1
+CC  name: UN0030_1_PK12240_1
+CC  version: 
+CC  name: UN0030_1_PK12240_1
+CC  description: UN0030_1 UN0030_1_PK12240_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 20
+XX
+//
+AC  UN0032_1
+XX
+ID PK13314_1
+XX
+DE  UN0032_1 UN0032_1_PK13314_1 ; From JASPAR
+P0           A         C         G         T
+1          135       302       177       384
+2          169       211       421       197
+3           22        15       862        99
+4           41         8       919        30
+5          155       167       482       194
+6           72       727        52       146
+7            0       991         6         1
+8           14       908         0        77
+9          828        46       105        19
+10           6       806        77       110
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 21
+CC  accession: UN0032_1
+CC  AC: UN0032_1
+CC  id: UN0032_1
+CC  name: UN0032_1_PK13314_1
+CC  version: 
+CC  name: UN0032_1_PK13314_1
+CC  description: UN0032_1 UN0032_1_PK13314_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 21
+XX
+//
+AC  UN0034_1
+XX
+ID PK14653_1
+XX
+DE  UN0034_1 UN0034_1_PK14653_1 ; From JASPAR
+P0           A         C         G         T
+1           95       137       489       276
+2           17         4       923        54
+3           57        20       915         6
+4          134       207       568        89
+5           53       881        11        53
+6            8       975         4        12
+7            0       989         0        10
+8          886        34        73         6
+9            1       870        62        65
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 22
+CC  accession: UN0034_1
+CC  AC: UN0034_1
+CC  id: UN0034_1
+CC  name: UN0034_1_PK14653_1
+CC  version: 
+CC  name: UN0034_1_PK14653_1
+CC  description: UN0034_1 UN0034_1_PK14653_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 22
+XX
+//
+AC  UN0036_1
+XX
+ID PK15337_1
+XX
+DE  UN0036_1 UN0036_1_PK15337_1 ; From JASPAR
+P0           A         C         G         T
+1          354       244       223       177
+2           69       769        33       127
+3           51         1       159       788
+4           67         6        39       886
+5           73        39        43       842
+6          325       155        92       426
+7          212       241       212       333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 23
+CC  accession: UN0036_1
+CC  AC: UN0036_1
+CC  id: UN0036_1
+CC  name: UN0036_1_PK15337_1
+CC  version: 
+CC  name: UN0036_1_PK15337_1
+CC  description: UN0036_1 UN0036_1_PK15337_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 23
+XX
+//
+AC  UN0037_1
+XX
+ID PK15505_1
+XX
+DE  UN0037_1 UN0037_1_PK15505_1 ; From JASPAR
+P0           A         C         G         T
+1          290       295       173       240
+2          190       120       628        59
+3            0       999         0         0
+4          999         0         0         0
+5            0       999         0         0
+6            0         0       999         0
+7            0         0         0       999
+8            0         0       999         0
+9           76       255       137       530
+10         190       263       286       259
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 24
+CC  accession: UN0037_1
+CC  AC: UN0037_1
+CC  id: UN0037_1
+CC  name: UN0037_1_PK15505_1
+CC  version: 
+CC  name: UN0037_1_PK15505_1
+CC  description: UN0037_1 UN0037_1_PK15505_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 24
+XX
+//
+AC  UN0038_1
+XX
+ID PK16335_1
+XX
+DE  UN0038_1 UN0038_1_PK16335_1 ; From JASPAR
+P0           A         C         G         T
+1          233       233       233       298
+2          298       233       233       233
+3          298       233       233       233
+4          158       293       243       304
+5           99        99       614       185
+6          772       227         0         0
+7           64       935         0         0
+8          999         0         0         0
+9           16        16       951        16
+10          16       951        16        16
+11          16        16        16       951
+12         167        91       649        91
+13         150       150       300       399
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 25
+CC  accession: UN0038_1
+CC  AC: UN0038_1
+CC  id: UN0038_1
+CC  name: UN0038_1_PK16335_1
+CC  version: 
+CC  name: UN0038_1_PK16335_1
+CC  description: UN0038_1 UN0038_1_PK16335_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 25
+XX
+//
+AC  UN0039_1
+XX
+ID PK16340_1
+XX
+DE  UN0039_1 UN0039_1_PK16340_1 ; From JASPAR
+P0           A         C         G         T
+1           67       812        73        46
+2           50         0       329       619
+3           68         0        40       890
+4           77        10        57       853
+5          327       135        85       450
+6          237       244       175       343
+7          230       245       245       279
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 26
+CC  accession: UN0039_1
+CC  AC: UN0039_1
+CC  id: UN0039_1
+CC  name: UN0039_1_PK16340_1
+CC  version: 
+CC  name: UN0039_1_PK16340_1
+CC  description: UN0039_1 UN0039_1_PK16340_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 26
+XX
+//
+AC  UN0040_1
+XX
+ID PK17878_1
+XX
+DE  UN0040_1 UN0040_1_PK17878_1 ; From JASPAR
+P0           A         C         G         T
+1           80       878         0        40
+2            0         0       999         0
+3            0       965        33         0
+4            0       999         0         0
+5            0         0       999         0
+6           66       632       100       200
+7          138       826         0        34
+8          649        50       250        50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 27
+CC  accession: UN0040_1
+CC  AC: UN0040_1
+CC  id: UN0040_1
+CC  name: UN0040_1_PK17878_1
+CC  version: 
+CC  name: UN0040_1_PK17878_1
+CC  description: UN0040_1 UN0040_1_PK17878_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 27
+XX
+//
+AC  UN0041_1
+XX
+ID PK18009_1
+XX
+DE  UN0041_1 UN0041_1_PK18009_1 ; From JASPAR
+P0           A         C         G         T
+1          233       233       300       233
+2          153       153       419       273
+3          749       137         0       112
+4           56       831        56        56
+5          999         0         0         0
+6          112       887         0         0
+7           56         0       887        56
+8            0         0         0       999
+9          185        17       780        17
+10         152       152       220       473
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 28
+CC  accession: UN0041_1
+CC  AC: UN0041_1
+CC  id: UN0041_1
+CC  name: UN0041_1_PK18009_1
+CC  version: 
+CC  name: UN0041_1_PK18009_1
+CC  description: UN0041_1 UN0041_1_PK18009_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 28
+XX
+//
+AC  UN0042_1
+XX
+ID PK18401_1
+XX
+DE  UN0042_1 UN0042_1_PK18401_1 ; From JASPAR
+P0           A         C         G         T
+1          300       233       233       233
+2          233       233       233       300
+3          377       180       261       180
+4          224       194       530        49
+5            0       932         0        67
+6          999         0         0         0
+7           67       932         0         0
+8            0         0       932        67
+9           16        16        16       949
+10          16        16       949        16
+11          69       147       593       189
+12         200       311       200       288
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 29
+CC  accession: UN0042_1
+CC  AC: UN0042_1
+CC  id: UN0042_1
+CC  name: UN0042_1_PK18401_1
+CC  version: 
+CC  name: UN0042_1_PK18401_1
+CC  description: UN0042_1 UN0042_1_PK18401_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 29
+XX
+//
+AC  UN0043_1
+XX
+ID PK18474_1
+XX
+DE  UN0043_1 UN0043_1_PK18474_1 ; From JASPAR
+P0           A         C         G         T
+1          307       270       210       210
+2          456       117       309       117
+3            0       999         0         0
+4          999         0         0         0
+5            0       999         0         0
+6            0         0       999         0
+7            0         0         0       999
+8            0         0       999         0
+9           39       743        96       120
+10         226       281       253       238
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 30
+CC  accession: UN0043_1
+CC  AC: UN0043_1
+CC  id: UN0043_1
+CC  name: UN0043_1_PK18474_1
+CC  version: 
+CC  name: UN0043_1_PK18474_1
+CC  description: UN0043_1 UN0043_1_PK18474_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 30
+XX
+//
+AC  UN0044_1
+XX
+ID PK19166_1
+XX
+DE  UN0044_1 UN0044_1_PK19166_1 ; From JASPAR
+P0           A         C         G         T
+1           29       734       117       117
+2            0       956         0        42
+3          382       616         0         0
+4            0       999         0         0
+5            0         0         0       999
+6          999         0         0         0
+7          615         0        51       333
+8           77       230       115       576
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 31
+CC  accession: UN0044_1
+CC  AC: UN0044_1
+CC  id: UN0044_1
+CC  name: UN0044_1_PK19166_1
+CC  version: 
+CC  name: UN0044_1_PK19166_1
+CC  description: UN0044_1 UN0044_1_PK19166_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 31
+XX
+//
+AC  UN0046_1
+XX
+ID PK19363_1
+XX
+DE  UN0046_1 UN0046_1_PK19363_1 ; From JASPAR
+P0           A         C         G         T
+1          150       716        75        58
+2           25        12       948        12
+3           18       874       106         0
+4           18       974         6         0
+5            0         6       993         0
+6           58       627       137       176
+7          157       774         7        60
+8          488        66       299       144
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 32
+CC  accession: UN0046_1
+CC  AC: UN0046_1
+CC  id: UN0046_1
+CC  name: UN0046_1_PK19363_1
+CC  version: 
+CC  name: UN0046_1_PK19363_1
+CC  description: UN0046_1 UN0046_1_PK19363_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 32
+XX
+//
+AC  UN0047_1
+XX
+ID PK19621_1
+XX
+DE  UN0047_1 UN0047_1_PK19621_1 ; From JASPAR
+P0           A         C         G         T
+1          158       413       182       245
+2          146       468       228       156
+3           93       185        25       695
+4          109        64        82       744
+5          981         4         8         5
+6            9        38        27       925
+7           11       963         5        19
+8          103       493       102       299
+9          310       172       232       284
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 33
+CC  accession: UN0047_1
+CC  AC: UN0047_1
+CC  id: UN0047_1
+CC  name: UN0047_1_PK19621_1
+CC  version: 
+CC  name: UN0047_1_PK19621_1
+CC  description: UN0047_1 UN0047_1_PK19621_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 33
+XX
+//
+AC  UN0048_1
+XX
+ID PK19717_1
+XX
+DE  UN0048_1 UN0048_1_PK19717_1 ; From JASPAR
+P0           A         C         G         T
+1          100       115       712        72
+2            6         8       955        29
+3           49        34       893        22
+4          116       401       401        81
+5           23       929         2        44
+6            8       982         4         4
+7           21       930         2        46
+8          553       313        72        60
+9            0       882        36        80
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 34
+CC  accession: UN0048_1
+CC  AC: UN0048_1
+CC  id: UN0048_1
+CC  name: UN0048_1_PK19717_1
+CC  version: 
+CC  name: UN0048_1_PK19717_1
+CC  description: UN0048_1 UN0048_1_PK19717_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 34
+XX
+//
+AC  UN0049_1
+XX
+ID PK20225_1
+XX
+DE  UN0049_1 UN0049_1_PK20225_1 ; From JASPAR
+P0           A         C         G         T
+1          219       287       250       242
+2          135       788        33        42
+3          757        98        70        73
+4            4       819        47       128
+5           80         0       897        21
+6           46        29         0       923
+7           14         0       984         0
+8          245       461       171       121
+9          199       243       303       253
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 35
+CC  accession: UN0049_1
+CC  AC: UN0049_1
+CC  id: UN0049_1
+CC  name: UN0049_1_PK20225_1
+CC  version: 
+CC  name: UN0049_1_PK20225_1
+CC  description: UN0049_1 UN0049_1_PK20225_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 35
+XX
+//
+AC  UN0050_1
+XX
+ID PK20317_1
+XX
+DE  UN0050_1 UN0050_1_PK20317_1 ; From JASPAR
+P0           A         C         G         T
+1           62       868        37        31
+2           22         0       330       646
+3           45         0        55       898
+4           53         0        60       884
+5          340       100        81       477
+6          245       222       168       363
+7          217       252       259       270
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 36
+CC  accession: UN0050_1
+CC  AC: UN0050_1
+CC  id: UN0050_1
+CC  name: UN0050_1_PK20317_1
+CC  version: 
+CC  name: UN0050_1_PK20317_1
+CC  description: UN0050_1 UN0050_1_PK20317_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 36
+XX
+//
+AC  UN0051_1
+XX
+ID PK20392_1
+XX
+DE  UN0051_1 UN0051_1_PK20392_1 ; From JASPAR
+P0           A         C         G         T
+1          154       289       184       371
+2          148       395        79       376
+3          776        73        80        70
+4          945        27         4        22
+5           13        14         2       968
+6          478       330        66       124
+7          973         5         9        11
+8           63        30        47       858
+9          243        61       294       400
+10         199       233       377       189
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 37
+CC  accession: UN0051_1
+CC  AC: UN0051_1
+CC  id: UN0051_1
+CC  name: UN0051_1_PK20392_1
+CC  version: 
+CC  name: UN0051_1_PK20392_1
+CC  description: UN0051_1 UN0051_1_PK20392_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 37
+XX
+//
+AC  UN0054_1
+XX
+ID PK20543_1
+XX
+DE  UN0054_1 UN0054_1_PK20543_1 ; From JASPAR
+P0           A         C         G         T
+1          105       253       119       521
+2          145        60        36       757
+3          803        23       107        64
+4          980        13         0         5
+5            6       961         1        30
+6           35       642        15       306
+7          332       352       180       134
+8          234       231       297       236
+9          420       141       278       159
+10         181       295       357       165
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 38
+CC  accession: UN0054_1
+CC  AC: UN0054_1
+CC  id: UN0054_1
+CC  name: UN0054_1_PK20543_1
+CC  version: 
+CC  name: UN0054_1_PK20543_1
+CC  description: UN0054_1 UN0054_1_PK20543_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 38
+XX
+//
+AC  UN0057_1
+XX
+ID PK21166_1
+XX
+DE  UN0057_1 UN0057_1_PK21166_1 ; From JASPAR
+P0           A         C         G         T
+1          150       483        50       316
+2          999         0         0         0
+3          123       845        10        20
+4            0       979         0        20
+5          282        70         0       646
+6          999         0         0         0
+7          260       739         0         0
+8           54       616        13       315
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 39
+CC  accession: UN0057_1
+CC  AC: UN0057_1
+CC  id: UN0057_1
+CC  name: UN0057_1_PK21166_1
+CC  version: 
+CC  name: UN0057_1_PK21166_1
+CC  description: UN0057_1 UN0057_1_PK21166_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 39
+XX
+//
+AC  UN0059_1
+XX
+ID PK23009_1
+XX
+DE  UN0059_1 UN0059_1_PK23009_1 ; From JASPAR
+P0           A         C         G         T
+1          237       217       214       330
+2          233       189       305       271
+3          212       407       107       272
+4          420       157       317       103
+5           24       890         5        79
+6           29       104        54       811
+7           52         0        19       927
+8           39        12        18       930
+9          338        73        25       563
+10         176       226       162       434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 40
+CC  accession: UN0059_1
+CC  AC: UN0059_1
+CC  id: UN0059_1
+CC  name: UN0059_1_PK23009_1
+CC  version: 
+CC  name: UN0059_1_PK23009_1
+CC  description: UN0059_1 UN0059_1_PK23009_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 40
+XX
+//
+AC  UN0060_1
+XX
+ID PK23763_1
+XX
+DE  UN0060_1 UN0060_1_PK23763_1 ; From JASPAR
+P0           A         C         G         T
+1          210       276       176       337
+2          287       270       143       298
+3          461       173       238       127
+4           26       933        13        26
+5           35        52        71       839
+6           30         6        21       941
+7           22         8        24       944
+8          366        91        53       489
+9          199       244       149       406
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 41
+CC  accession: UN0060_1
+CC  AC: UN0060_1
+CC  id: UN0060_1
+CC  name: UN0060_1_PK23763_1
+CC  version: 
+CC  name: UN0060_1_PK23763_1
+CC  description: UN0060_1 UN0060_1_PK23763_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 41
+XX
+//
+AC  UN0061_1
+XX
+ID PK23964_1
+XX
+DE  UN0061_1 UN0061_1_PK23964_1 ; From JASPAR
+P0           A         C         G         T
+1          373       117       250       258
+2          132       167       272       427
+3           45        47       540       366
+4          268       716        14         0
+5           16       942         1        39
+6          960         0        37         1
+7           52       787       100        59
+8           88        64       831        15
+9           50        49        27       873
+10         277       218       452        51
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 42
+CC  accession: UN0061_1
+CC  AC: UN0061_1
+CC  id: UN0061_1
+CC  name: UN0061_1_PK23964_1
+CC  version: 
+CC  name: UN0061_1_PK23964_1
+CC  description: UN0061_1 UN0061_1_PK23964_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 42
+XX
+//
+AC  UN0063_1
+XX
+ID PK24205_1
+XX
+DE  UN0063_1 UN0063_1_PK24205_1 ; From JASPAR
+P0           A         C         G         T
+1          452       211       133       202
+2           86       671       154        86
+3          999         0         0         0
+4            0       999         0         0
+5            0         0       999         0
+6            0         0         0       999
+7            0         0       999         0
+8            0         0       570       429
+9          116       651       116       116
+10         381       222       232       163
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 43
+CC  accession: UN0063_1
+CC  AC: UN0063_1
+CC  id: UN0063_1
+CC  name: UN0063_1_PK24205_1
+CC  version: 
+CC  name: UN0063_1_PK24205_1
+CC  description: UN0063_1 UN0063_1_PK24205_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 43
+XX
+//
+AC  UN0064_1
+XX
+ID PK24580_1
+XX
+DE  UN0064_1 UN0064_1_PK24580_1 ; From JASPAR
+P0           A         C         G         T
+1          272       453       182        91
+2            0         0       998         0
+3           59       880        59         0
+4            0       998         0         0
+5            0         0       998         0
+6            0       117       880         0
+7            0       998         0         0
+8          614       230        77        77
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 44
+CC  accession: UN0064_1
+CC  AC: UN0064_1
+CC  id: UN0064_1
+CC  name: UN0064_1_PK24580_1
+CC  version: 
+CC  name: UN0064_1_PK24580_1
+CC  description: UN0064_1 UN0064_1_PK24580_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 44
+XX
+//
+AC  UN0067_1
+XX
+ID PK25034_1
+XX
+DE  UN0067_1 UN0067_1_PK25034_1 ; From JASPAR
+P0           A         C         G         T
+1          293       185       217       302
+2          223       175       310       289
+3          139        98        50       711
+4           25        28       929        15
+5          963         0         0        35
+6           20       929         1        48
+7          542       106       253        97
+8           91        94       496       316
+9          123       381       328       166
+10         222       209       159       408
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 45
+CC  accession: UN0067_1
+CC  AC: UN0067_1
+CC  id: UN0067_1
+CC  name: UN0067_1_PK25034_1
+CC  version: 
+CC  name: UN0067_1_PK25034_1
+CC  description: UN0067_1 UN0067_1_PK25034_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 45
+XX
+//
+AC  UN0068_1
+XX
+ID PK25870_1
+XX
+DE  UN0068_1 UN0068_1_PK25870_1 ; From JASPAR
+P0           A         C         G         T
+1          303       196       178       321
+2          392        12       594         0
+3            0         0       969        30
+4           20         0        30       949
+5           20       949        30         0
+6          999         0         0         0
+7          999         0         0         0
+8          434       376        58       130
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 46
+CC  accession: UN0068_1
+CC  AC: UN0068_1
+CC  id: UN0068_1
+CC  name: UN0068_1_PK25870_1
+CC  version: 
+CC  name: UN0068_1_PK25870_1
+CC  description: UN0068_1 UN0068_1_PK25870_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 46
+XX
+//
+AC  UN0070_1
+XX
+ID PK26523_1
+XX
+DE  UN0070_1 UN0070_1_PK26523_1 ; From JASPAR
+P0           A         C         G         T
+1          384       148       196       270
+2          558        69        63       309
+3          269       349        98       283
+4          960         5        20        14
+5           27        12        10       949
+6           70        28        32       867
+7           41       904        14        39
+8           32       417       137       413
+9          243       286       197       272
+10         180       274       164       381
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 47
+CC  accession: UN0070_1
+CC  AC: UN0070_1
+CC  id: UN0070_1
+CC  name: UN0070_1_PK26523_1
+CC  version: 
+CC  name: UN0070_1_PK26523_1
+CC  description: UN0070_1 UN0070_1_PK26523_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 47
+XX
+//
+AC  UN0072_1
+XX
+ID PK27085_1
+XX
+DE  UN0072_1 UN0072_1_PK27085_1 ; From JASPAR
+P0           A         C         G         T
+1          971         9         9         9
+2          971         9         9         9
+3            9         9         9       971
+4            9         9         9       971
+5            9         9         9       971
+6          971         9         9         9
+7            9         9         9       971
+8            9         9         9       971
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 48
+CC  accession: UN0072_1
+CC  AC: UN0072_1
+CC  id: UN0072_1
+CC  name: UN0072_1_PK27085_1
+CC  version: 
+CC  name: UN0072_1_PK27085_1
+CC  description: UN0072_1 UN0072_1_PK27085_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 48
+XX
+//
+AC  UN0073_1
+XX
+ID PK27109_1
+XX
+DE  UN0073_1 UN0073_1_PK27109_1 ; From JASPAR
+P0           A         C         G         T
+1           37        37       703       222
+2          743       205         0        51
+3            0       926        24        48
+4          999         0         0         0
+5           48         0       950         0
+6            0       950         0        48
+7            0         0         0       999
+8          185       111       666        37
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 49
+CC  accession: UN0073_1
+CC  AC: UN0073_1
+CC  id: UN0073_1
+CC  name: UN0073_1_PK27109_1
+CC  version: 
+CC  name: UN0073_1_PK27109_1
+CC  description: UN0073_1 UN0073_1_PK27109_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 49
+XX
+//
+AC  UN0074_1
+XX
+ID PK27149_1
+XX
+DE  UN0074_1 UN0074_1_PK27149_1 ; From JASPAR
+P0           A         C         G         T
+1           71       143         0       784
+2            0       166       610       222
+3          999         0         0         0
+4            0       999         0         0
+5            0         0       972        26
+6            0        30         0       968
+7           74        74       850         0
+8           91         0       544       363
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 50
+CC  accession: UN0074_1
+CC  AC: UN0074_1
+CC  id: UN0074_1
+CC  name: UN0074_1_PK27149_1
+CC  version: 
+CC  name: UN0074_1_PK27149_1
+CC  description: UN0074_1 UN0074_1_PK27149_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 50
+XX
+//
+AC  UN0076_1
+XX
+ID PK27683_1
+XX
+DE  UN0076_1 UN0076_1_PK27683_1 ; From JASPAR
+P0           A         C         G         T
+1          340       134       240       284
+2          414        58       170       356
+3           57        57        30       854
+4           61        35        45       856
+5           24       606         0       367
+6          814        17        85        82
+7          895        14        32        57
+8          883        25        51        39
+9          303       246        75       374
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 51
+CC  accession: UN0076_1
+CC  AC: UN0076_1
+CC  id: UN0076_1
+CC  name: UN0076_1_PK27683_1
+CC  version: 
+CC  name: UN0076_1_PK27683_1
+CC  description: UN0076_1 UN0076_1_PK27683_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 51
+XX
+//
+AC  UN0077_1
+XX
+ID PK27693_1
+XX
+DE  UN0077_1 UN0077_1_PK27693_1 ; From JASPAR
+P0           A         C         G         T
+1          199       367       180       251
+2          173       394       241       190
+3          128       222        39       610
+4          138        96        84       679
+5          972         3         7        16
+6           15        45        36       902
+7           14       956        11        17
+8          116       436       138       307
+9          261       211       231       294
+10         220       227       256       295
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 52
+CC  accession: UN0077_1
+CC  AC: UN0077_1
+CC  id: UN0077_1
+CC  name: UN0077_1_PK27693_1
+CC  version: 
+CC  name: UN0077_1_PK27693_1
+CC  description: UN0077_1 UN0077_1_PK27693_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 52
+XX
+//
+AC  UN0078_1
+XX
+ID PK28187_1
+XX
+DE  UN0078_1 UN0078_1_PK28187_1 ; From JASPAR
+P0           A         C         G         T
+1            4         4         4       985
+2          990         3         3         3
+3            3       990         3         3
+4            3       990         3         3
+5            3         3         3       990
+6          990         3         3         3
+7            3       990         3         3
+8            4       985         4         4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 53
+CC  accession: UN0078_1
+CC  AC: UN0078_1
+CC  id: UN0078_1
+CC  name: UN0078_1_PK28187_1
+CC  version: 
+CC  name: UN0078_1_PK28187_1
+CC  description: UN0078_1 UN0078_1_PK28187_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 53
+XX
+//
+AC  UN0080_1
+XX
+ID PHL3
+XX
+DE  UN0080_1 UN0080_1_PHL3 ; From JASPAR
+P0           A         C         G         T
+1          389       161       203       245
+2          587        81       101       229
+3           48        37       518       395
+4          929         2        60         7
+5           37         0         0       962
+6           91        45       139       724
+7            0       988         0        11
+8           48       364       298       289
+9          212       310       223       254
+10         216       267       190       326
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 54
+CC  accession: UN0080_1
+CC  AC: UN0080_1
+CC  id: UN0080_1
+CC  name: UN0080_1_PHL3
+CC  version: 
+CC  name: UN0080_1_PHL3
+CC  description: UN0080_1 UN0080_1_PHL3 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 54
+XX
+//
+AC  UN0275_1
+XX
+ID CEG01538_1
+XX
+DE  UN0275_1 UN0275_1_CEG01538_1 ; From JASPAR
+P0           A         C         G         T
+1           69       241        34       654
+2          112       112       687        87
+3          999         0         0         0
+4            0         0         0       999
+5            0         0         0       999
+6            0         0       999         0
+7          111        49         0       839
+8          138       103        17       741
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 191
+CC  accession: UN0275_1
+CC  AC: UN0275_1
+CC  id: UN0275_1
+CC  name: UN0275_1_CEG01538_1
+CC  version: 
+CC  name: UN0275_1_CEG01538_1
+CC  description: UN0275_1 UN0275_1_CEG01538_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 191
+XX
+//
+AC  UN0276_1
+XX
+ID PNRC2
+XX
+DE  UN0276_1 UN0276_1_PNRC2 ; From JASPAR
+P0           A         C         G         T
+1          725       182        91         0
+2          873         0         0       125
+3          686         0         0       312
+4          312       686         0         0
+5            0       998         0         0
+6            0       935         0        62
+7           62         0         0       935
+8          997         0         0         0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 192
+CC  accession: UN0276_1
+CC  AC: UN0276_1
+CC  id: UN0276_1
+CC  name: UN0276_1_PNRC2
+CC  version: 
+CC  name: UN0276_1_PNRC2
+CC  description: UN0276_1 UN0276_1_PNRC2 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 192
+XX
+//
+AC  UN0351_1
+XX
+ID ARID6
+XX
+DE  UN0351_1 UN0351_1_ARID6 ; From JASPAR
+P0           A         C         G         T
+1          297        71        78       292
+2          328        58        69       283
+3          246        39        57       396
+4          199        47        43       449
+5           49        10        14       665
+6           55        19        24       640
+7          686         1        20        31
+8          704         5         9        20
+9           13         5         4       716
+10          21        14         4       699
+11          18         0       701        19
+12         642        10        27        59
+13         587        23        32        96
+14         288        60        56       334
+15         272        72        57       337
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 243
+CC  accession: UN0351_1
+CC  AC: UN0351_1
+CC  id: UN0351_1
+CC  name: UN0351_1_ARID6
+CC  version: 
+CC  name: UN0351_1_ARID6
+CC  description: UN0351_1 UN0351_1_ARID6 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 243
+XX
+//
+AC  UN0353_1
+XX
+ID AT3G11100
+XX
+DE  UN0353_1 UN0353_1_AT3G11100 ; From JASPAR
+P0           A         C         G         T
+1          479      1021       300       696
+2          615       330      1002       549
+3         1432       652       254       158
+4           16      2413         6        61
+5           24        13      2445        14
+6           57        26      2394        19
+7          102      2298        12        84
+8           73        55      2311        57
+9         2127        58       198       113
+10         355       653       886       602
+11         760       289       875       572
+12         810       396       698       592
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 244
+CC  accession: UN0353_1
+CC  AC: UN0353_1
+CC  id: UN0353_1
+CC  name: UN0353_1_AT3G11100
+CC  version: 
+CC  name: UN0353_1_AT3G11100
+CC  description: UN0353_1 UN0353_1_AT3G11100 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 244
+XX
+//
+AC  UN0354_1
+XX
+ID AT3G42860
+XX
+DE  UN0354_1 UN0354_1_AT3G42860 ; From JASPAR
+P0           A         C         G         T
+1          626       198       199       264
+2          804       100       170       213
+3         1072        26       166        23
+4            9         6      1268         4
+5            0         2         2      1283
+6           10      1271         1         5
+7         1277         5         2         3
+8         1279         1         3         4
+9           66      1136         6        79
+10         122       114       871       180
+11         339       305       301       342
+12         334       357       165       431
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 245
+CC  accession: UN0354_1
+CC  AC: UN0354_1
+CC  id: UN0354_1
+CC  name: UN0354_1_AT3G42860
+CC  version: 
+CC  name: UN0354_1_AT3G42860
+CC  description: UN0354_1 UN0354_1_AT3G42860 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 245
+XX
+//
+AC  UN0355_1
+XX
+ID AT3G49930
+XX
+DE  UN0355_1 UN0355_1_AT3G49930 ; From JASPAR
+P0           A         C         G         T
+1          222       290       146       466
+2          294       286       131       413
+3           44        90        39       951
+4         1068        10        17        29
+5           35      1013        42        34
+6           23      1078        11        12
+7           40         5        30      1049
+8         1077         7        14        26
+9          887       139        19        79
+10         234       362        74       454
+11         325       205       119       475
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 246
+CC  accession: UN0355_1
+CC  AC: UN0355_1
+CC  id: UN0355_1
+CC  name: UN0355_1_AT3G49930
+CC  version: 
+CC  name: UN0355_1_AT3G49930
+CC  description: UN0355_1 UN0355_1_AT3G49930 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 246
+XX
+//
+AC  UN0357_1
+XX
+ID AT5G23930
+XX
+DE  UN0357_1 UN0357_1_AT5G23930 ; From JASPAR
+P0           A         C         G         T
+1          228      1033       293       520
+2          535      1323        91       125
+3            0         0      2074         0
+4            0      2074         0         0
+5            0      2074         0         0
+6            0         0      2074         0
+7            0      2074         0         0
+8            0      2074         0         0
+9          600        43      1135       296
+10         191      1036       249       598
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 247
+CC  accession: UN0357_1
+CC  AC: UN0357_1
+CC  id: UN0357_1
+CC  name: UN0357_1_AT5G23930
+CC  version: 
+CC  name: UN0357_1_AT5G23930
+CC  description: UN0357_1 UN0357_1_AT5G23930 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 247
+XX
+//
+AC  UN0359_1
+XX
+ID BHLH28
+XX
+DE  UN0359_1 UN0359_1_BHLH28 ; From JASPAR
+P0           A         C         G         T
+1          806       581       525       836
+2          740       657       481       870
+3          716       514       610       908
+4          688       548       559       953
+5          734       287      1141       586
+6          394        51       291      2012
+7          117      2536        12        83
+8           22      2660        16        50
+9           16         5      2716        11
+10          10         4         9      2725
+11        2714        12        12        10
+12           8      2699        19        22
+13        1731       261       509       247
+14        1043       455       581       669
+15         823       489       436      1000
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 248
+CC  accession: UN0359_1
+CC  AC: UN0359_1
+CC  id: UN0359_1
+CC  name: UN0359_1_BHLH28
+CC  version: 
+CC  name: UN0359_1_BHLH28
+CC  description: UN0359_1 UN0359_1_BHLH28 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 248
+XX
+//
+AC  UN0362_1
+XX
+ID EICBP_B
+XX
+DE  UN0362_1 UN0362_1_EICBP_B ; From JASPAR
+P0           A         C         G         T
+1          302       175       186       243
+2          291       180       169       266
+3          224       292       224       166
+4          644        65        84       113
+5          762        30        48        66
+6          791        23        47        45
+7          610        97       182        17
+8            7       888         3         8
+9           28         9       861         8
+10          18       839         6        43
+11           9         3       889         5
+12          10        10        21       865
+13          95        53       596       162
+14         530        52       143       181
+15         343       153       200       210
+16         281       168       225       232
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 249
+CC  accession: UN0362_1
+CC  AC: UN0362_1
+CC  id: UN0362_1
+CC  name: UN0362_1_EICBP_B
+CC  version: 
+CC  name: UN0362_1_EICBP_B
+CC  description: UN0362_1 UN0362_1_EICBP_B ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 249
+XX
+//
+AC  UN0379_1
+XX
+ID S1FA3
+XX
+DE  UN0379_1 UN0379_1_S1FA3 ; From JASPAR
+P0           A         C         G         T
+1          410       371       703       496
+2          476       573       418       513
+3           97        81        34      1768
+4           39         9         5      1927
+5           17      1915        23        25
+6           58      1078       118       726
+7         1842        16       102        20
+8           38        30      1892        20
+9         1943         4        15        18
+10        1800        19        69        92
+11         513       379       627       461
+12         462       759       365       394
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 250
+CC  accession: UN0379_1
+CC  AC: UN0379_1
+CC  id: UN0379_1
+CC  name: UN0379_1_S1FA3
+CC  version: 
+CC  name: UN0379_1_S1FA3
+CC  description: UN0379_1 UN0379_1_S1FA3 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 250
+XX
+//
+AC  UN0386_1
+XX
+ID AGL95
+XX
+DE  UN0386_1 UN0386_1_AGL95 ; From JASPAR
+P0           A         C         G         T
+1          603        71       247        79
+2           37        12       934        17
+3          945        10        25        20
+4          911         7        22        61
+5          103       195       556       146
+6          244       405       215       136
+7          141        34        15       810
+8           37         5        17       941
+9           13       945        18        24
+10          50       141        74       734
+11         763        39       176        22
+12          13        15       955        17
+13         913        25        22        40
+14         724        47       104       124
+15         229       218       393       160
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 252
+CC  accession: UN0386_1
+CC  AC: UN0386_1
+CC  id: UN0386_1
+CC  name: UN0386_1_AGL95
+CC  version: 
+CC  name: UN0386_1_AGL95
+CC  description: UN0386_1 UN0386_1_AGL95 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 252
+XX
+//
+AC  UN0388_1
+XX
+ID ARID3
+XX
+DE  UN0388_1 UN0388_1_ARID3 ; From JASPAR
+P0           A         C         G         T
+1          703        64       108       126
+2          714        90        42       154
+3          564        64        13       359
+4          269        57        44       630
+5          220       196        66       518
+6          381       159       275       185
+7          797        70         0       132
+8          976         7        18         0
+9          980         0         0        20
+10           0         0         0      1000
+11           0       262         0       738
+12         775         0       225         0
+13         934        11        55         0
+14         535         0        22       443
+15         269        31        18       683
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 253
+CC  accession: UN0388_1
+CC  AC: UN0388_1
+CC  id: UN0388_1
+CC  name: UN0388_1_ARID3
+CC  version: 
+CC  name: UN0388_1_ARID3
+CC  description: UN0388_1 UN0388_1_ARID3 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 253
+XX
+//
+AC  UN0389_1
+XX
+ID AT1G66420
+XX
+DE  UN0389_1 UN0389_1_AT1G66420 ; From JASPAR
+P0           A         C         G         T
+1          736        38        75       151
+2          566        75       208       151
+3          189       660        57        94
+4          321       528       151         0
+5            0        19         0       981
+6          113       189         0       698
+7          981         0         0        19
+8            0         0         0      1000
+9            0       981         0        19
+10          19       981         0         0
+11         774         0       132        94
+12         132       132        38       698
+13         528        38         0       434
+14         340        19        57       585
+15         283       434        75       208
+16          75       226       113       585
+17         208        57       170       566
+18         453       170       245       132
+19         208        94       340       358
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 254
+CC  accession: UN0389_1
+CC  AC: UN0389_1
+CC  id: UN0389_1
+CC  name: UN0389_1_AT1G66420
+CC  version: 
+CC  name: UN0389_1_AT1G66420
+CC  description: UN0389_1 UN0389_1_AT1G66420 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 254
+XX
+//
+AC  UN0390_1
+XX
+ID AT2G31460
+XX
+DE  UN0390_1 UN0390_1_AT2G31460 ; From JASPAR
+P0           A         C         G         T
+1          335       104       293       268
+2          476        85       159       280
+3          457        49       226       268
+4           18        18       957         6
+5          988         0        12         0
+6         1000         0         0         0
+7         1000         0         0         0
+8            6         0         0       994
+9            0         0       994         6
+10         945        37         6        12
+11         366        37        30       567
+12         390        79       329       201
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 255
+CC  accession: UN0390_1
+CC  AC: UN0390_1
+CC  id: UN0390_1
+CC  name: UN0390_1_AT2G31460
+CC  version: 
+CC  name: UN0390_1_AT2G31460
+CC  description: UN0390_1 UN0390_1_AT2G31460 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 255
+XX
+//
+AC  UN0391_1
+XX
+ID AT3G58630
+XX
+DE  UN0391_1 UN0391_1_AT3G58630 ; From JASPAR
+P0           A         C         G         T
+1          234       359       115       292
+2          187       216       364       232
+3           97       150        59       694
+4           38       804        45       114
+5          139         2       859         0
+6           29       950         0        22
+7            0      1000         0         0
+8            0         0      1000         0
+9            0         0      1000         0
+10         793       101        29        77
+11         241        27       701        31
+12         575       105       114       207
+13         360       178        74       387
+14         272       115       252       360
+15         182       238       207       373
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 256
+CC  accession: UN0391_1
+CC  AC: UN0391_1
+CC  id: UN0391_1
+CC  name: UN0391_1_AT3G58630
+CC  version: 
+CC  name: UN0391_1_AT3G58630
+CC  description: UN0391_1 UN0391_1_AT3G58630 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 256
+XX
+//
+AC  UN0392_1
+XX
+ID AT4G00390
+XX
+DE  UN0392_1 UN0392_1_AT4G00390 ; From JASPAR
+P0           A         C         G         T
+1          285       191       332       191
+2          679        75       171        75
+3           25       924        25        25
+4           25       924        25        25
+5            0         0      1000         0
+6            0        86       914         0
+7            0        99        86       815
+8            0       914        86         0
+9          254       149       453       144
+10         377       175       273       175
+11         225       326       225       225
+12         225       326       225       225
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 257
+CC  accession: UN0392_1
+CC  AC: UN0392_1
+CC  id: UN0392_1
+CC  name: UN0392_1_AT4G00390
+CC  version: 
+CC  name: UN0392_1_AT4G00390
+CC  description: UN0392_1 UN0392_1_AT4G00390 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 257
+XX
+//
+AC  UN0393_1
+XX
+ID AT4G09450
+XX
+DE  UN0393_1 UN0393_1_AT4G09450 ; From JASPAR
+P0           A         C         G         T
+1          168       374       180       277
+2          165       398       227       210
+3          111       184        17       688
+4           63        34        68       835
+5          972         7        10        12
+6            9        31        21       938
+7           16       968         7         9
+8           75       559        80       286
+9          279       164       209       348
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 258
+CC  accession: UN0393_1
+CC  AC: UN0393_1
+CC  id: UN0393_1
+CC  name: UN0393_1_AT4G09450
+CC  version: 
+CC  name: UN0393_1_AT4G09450
+CC  description: UN0393_1 UN0393_1_AT4G09450 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 258
+XX
+//
+AC  UN0394_1
+XX
+ID AtPLATZ6
+XX
+DE  UN0394_1 UN0394_1_AtPLATZ6 ; From JASPAR
+P0           A         C         G         T
+1          580        70       308        42
+2            5         7       988         0
+3          968         5         3        23
+4          922         8        17        53
+5           75       238       550       137
+6          288       337       188       187
+7           98        42        12       848
+8           13         0         7       980
+9            3       985         5         7
+10           0       142        47       812
+11         778        37       183         2
+12           2        10       988         0
+13         960         7         8        25
+14         700        57       110       133
+15         248       187       378       187
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 259
+CC  accession: UN0394_1
+CC  AC: UN0394_1
+CC  id: UN0394_1
+CC  name: UN0394_1_AtPLATZ6
+CC  version: 
+CC  name: UN0394_1_AtPLATZ6
+CC  description: UN0394_1 UN0394_1_AtPLATZ6 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 259
+XX
+//
+AC  UN0396_1
+XX
+ID CRC
+XX
+DE  UN0396_1 UN0396_1_CRC ; From JASPAR
+P0           A         C         G         T
+1           35       143        80       742
+2          587        48         2       363
+3          995         0         0         5
+4           28         0         0       972
+5            0       988        12         0
+6         1000         0         0         0
+7            0         0         5       995
+8          598        73        60       268
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 260
+CC  accession: UN0396_1
+CC  AC: UN0396_1
+CC  id: UN0396_1
+CC  name: UN0396_1_CRC
+CC  version: 
+CC  name: UN0396_1_CRC
+CC  description: UN0396_1 UN0396_1_CRC ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 260
+XX
+//
+AC  UN0397_1
+XX
+ID EDF3
+XX
+DE  UN0397_1 UN0397_1_EDF3 ; From JASPAR
+P0           A         C         G         T
+1          428         1       570         1
+2            1       997         1         1
+3          997         1         1         1
+4          997         1         1         1
+5            1       997         1         1
+6          997         1         1         1
+7            1         1       333       665
+8          854         1         1       143
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 261
+CC  accession: UN0397_1
+CC  AC: UN0397_1
+CC  id: UN0397_1
+CC  name: UN0397_1_EDF3
+CC  version: 
+CC  name: UN0397_1_EDF3
+CC  description: UN0397_1 UN0397_1_EDF3 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 261
+XX
+//
+AC  UN0398_1
+XX
+ID ENY
+XX
+DE  UN0398_1 UN0398_1_ENY ; From JASPAR
+P0           A         C         G         T
+1          294       113       129       464
+2          259       139       168       434
+3          114        50        50       785
+4            8        34        13       945
+5            0         5         7       988
+6            0         3         0       997
+7            0         0      1000         0
+8            0         2         5       993
+9            0      1000         0         0
+10          27        96       627       250
+11           3        40        45       911
+12         145       133        62       661
+13         175         2         3       820
+14         239        92        32       637
+15         108       324       304       264
+16          94       239       129       538
+17         249       109       353       289
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 262
+CC  accession: UN0398_1
+CC  AC: UN0398_1
+CC  id: UN0398_1
+CC  name: UN0398_1_ENY
+CC  version: 
+CC  name: UN0398_1_ENY
+CC  description: UN0398_1 UN0398_1_ENY ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 262
+XX
+//
+AC  UN0399_1
+XX
+ID GEBP
+XX
+DE  UN0399_1 UN0399_1_GEBP ; From JASPAR
+P0           A         C         G         T
+1          143        36       607       214
+2           27       972         0         0
+3            0         0       999         0
+4            0         0       949        50
+5            0       999         0         0
+6            0       974         0        25
+7           54         0       810       135
+8          160        40       560       240
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 263
+CC  accession: UN0399_1
+CC  AC: UN0399_1
+CC  id: UN0399_1
+CC  name: UN0399_1_GEBP
+CC  version: 
+CC  name: UN0399_1_GEBP
+CC  description: UN0399_1 UN0399_1_GEBP ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 263
+XX
+//
+AC  UN0400_1
+XX
+ID HMGB15
+XX
+DE  UN0400_1 UN0400_1_HMGB15 ; From JASPAR
+P0           A         C         G         T
+1           70        83        35       813
+2          695        13         0       292
+3           48         0         0       952
+4          981         6         6         6
+5          343        83        79       495
+6          206        60        41       692
+7          908        57        22        13
+8            0         3         0       997
+9         1000         0         0         0
+10         273         0         0       727
+11         641         0       229       130
+12         130        60       787        22
+13          10         6         0       984
+14         225        63        19       692
+15         102        63        54       781
+16         254        70       105       571
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 264
+CC  accession: UN0400_1
+CC  AC: UN0400_1
+CC  id: UN0400_1
+CC  name: UN0400_1_HMGB15
+CC  version: 
+CC  name: UN0400_1_HMGB15
+CC  description: UN0400_1 UN0400_1_HMGB15 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 264
+XX
+//
+AC  UN0401_1
+XX
+ID HMGB9
+XX
+DE  UN0401_1 UN0401_1_HMGB9 ; From JASPAR
+P0           A         C         G         T
+1          491       101        71       337
+2          288        85       136       491
+3          430       150       107       314
+4         1000         0         0         0
+5          308         0         0       692
+6            0         0         0      1000
+7            0         0         0      1000
+8         1000         0         0         0
+9         1000         0         0         0
+10           0         0         0      1000
+11         211       128       195       465
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 265
+CC  accession: UN0401_1
+CC  AC: UN0401_1
+CC  id: UN0401_1
+CC  name: UN0401_1_HMGB9
+CC  version: 
+CC  name: UN0401_1_HMGB9
+CC  description: UN0401_1 UN0401_1_HMGB9 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 265
+XX
+//
+AC  UN0402_1
+XX
+ID IDD11
+XX
+DE  UN0402_1 UN0402_1_IDD11 ; From JASPAR
+P0           A         C         G         T
+1          285       371       113       231
+2          621        87       209        84
+3          210       332       323       135
+4          680        12        72       236
+5          846         2         2       150
+6          641        70       142       147
+7          915        39        41         5
+8          209       682        75        34
+9            7         0       990         3
+10         991         9         0         0
+11           0      1000         0         0
+12        1000         0         0         0
+13         959        12        24         5
+14         885        31        63        21
+15         682        70        77       171
+16         448       144       118       291
+17         482       116       109       292
+18         369       152       227       251
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 266
+CC  accession: UN0402_1
+CC  AC: UN0402_1
+CC  id: UN0402_1
+CC  name: UN0402_1_IDD11
+CC  version: 
+CC  name: UN0402_1_IDD11
+CC  description: UN0402_1 UN0402_1_IDD11 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 266
+XX
+//
+AC  UN0403_1
+XX
+ID JGL
+XX
+DE  UN0403_1 UN0403_1_JGL ; From JASPAR
+P0           A         C         G         T
+1          853        25        82        40
+2          415       427       108        50
+3           37       458         7       498
+4          207        40       190       563
+5          115       267       237       382
+6           13       815        87        85
+7          963         7        30         0
+8            0        12       988         0
+9            7         0         0       993
+10           3        47        27       923
+11         397       313        78       212
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 267
+CC  accession: UN0403_1
+CC  AC: UN0403_1
+CC  id: UN0403_1
+CC  name: UN0403_1_JGL
+CC  version: 
+CC  name: UN0403_1_JGL
+CC  description: UN0403_1 UN0403_1_JGL ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 267
+XX
+//
+AC  UN0404_1
+XX
+ID KHZ1
+XX
+DE  UN0404_1 UN0404_1_KHZ1 ; From JASPAR
+P0           A         C         G         T
+1          480       127       222       172
+2          420       173       187       220
+3          372       137       230       262
+4          168       362       307       163
+5          717        98       118        67
+6          762        22         0       217
+7         1000         0         0         0
+8         1000         0         0         0
+9          985         0        15         0
+10           0         0      1000         0
+11          98       130       347       425
+12         273       105       172       450
+13         585        15       298       102
+14         477       173       148       202
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 268
+CC  accession: UN0404_1
+CC  AC: UN0404_1
+CC  id: UN0404_1
+CC  name: UN0404_1_KHZ1
+CC  version: 
+CC  name: UN0404_1_KHZ1
+CC  description: UN0404_1 UN0404_1_KHZ1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 268
+XX
+//
+AC  UN0405_1
+XX
+ID MGH6_1
+XX
+DE  UN0405_1 UN0405_1_MGH6_1 ; From JASPAR
+P0           A         C         G         T
+1            0       443         0       557
+2           82         0       814       103
+3            0       619       361        21
+4            0       969         0        31
+5            0         0       979        21
+6            0         0       268       732
+7          258       237       351       155
+8          454       103       268       175
+9          423       155       196       227
+10         258       103       278       361
+11         320       124       216       340
+12         237       371        62       330
+13         165       247       361       227
+14         670       330         0         0
+15           0       990        10         0
+16           0         0      1000         0
+17          31       206       443       320
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 269
+CC  accession: UN0405_1
+CC  AC: UN0405_1
+CC  id: UN0405_1
+CC  name: UN0405_1_MGH6_1
+CC  version: 
+CC  name: UN0405_1_MGH6_1
+CC  description: UN0405_1 UN0405_1_MGH6_1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 269
+XX
+//
+AC  UN0406_1
+XX
+ID NLP4
+XX
+DE  UN0406_1 UN0406_1_NLP4 ; From JASPAR
+P0           A         C         G         T
+1          159       241       244       356
+2          230       255       356       159
+3          205       395       121       279
+4          238       252       142       367
+5          170       192       436       203
+6          115       537       129       219
+7            3        11         0       986
+8            0         0      1000         0
+9            0       992         0         8
+10           0        14         0       986
+11           8         0       992         0
+12         129       627       112       132
+13         274       132       118       477
+14         263       151       323       263
+15         255       334       153       258
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 270
+CC  accession: UN0406_1
+CC  AC: UN0406_1
+CC  id: UN0406_1
+CC  name: UN0406_1_NLP4
+CC  version: 
+CC  name: UN0406_1_NLP4
+CC  description: UN0406_1 UN0406_1_NLP4 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 270
+XX
+//
+AC  UN0407_1
+XX
+ID REM1
+XX
+DE  UN0407_1 UN0407_1_REM1 ; From JASPAR
+P0           A         C         G         T
+1          329       121       121       429
+2            0        95       802       103
+3          409         0       191       400
+4            0         0         0      1000
+5            0         0      1000         0
+6            0         0         0      1000
+7         1000         0         0         0
+8            0         0      1000         0
+9          418       324       129       129
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 271
+CC  accession: UN0407_1
+CC  AC: UN0407_1
+CC  id: UN0407_1
+CC  name: UN0407_1_REM1
+CC  version: 
+CC  name: UN0407_1_REM1
+CC  description: UN0407_1 UN0407_1_REM1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 271
+XX
+//
+AC  UN0408_1
+XX
+ID REM21
+XX
+DE  UN0408_1 UN0408_1_REM21 ; From JASPAR
+P0           A         C         G         T
+1          306       327       102       265
+2          211       211       143       435
+3          218       279       163       340
+4          224       204       190       381
+5          170       177       259       395
+6          224       361       122       293
+7            0         0         0      1000
+8            0         0         0      1000
+9            0       993         7         0
+10        1000         0         0         0
+11           0         0         0      1000
+12           0      1000         0         0
+13         381       129       177       313
+14         197       238       150       415
+15         190       401       163       245
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 272
+CC  accession: UN0408_1
+CC  AC: UN0408_1
+CC  id: UN0408_1
+CC  name: UN0408_1_REM21
+CC  version: 
+CC  name: UN0408_1_REM21
+CC  description: UN0408_1 UN0408_1_REM21 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 272
+XX
+//
+AC  UN0409_1
+XX
+ID RKD2
+XX
+DE  UN0409_1 UN0409_1_RKD2 ; From JASPAR
+P0           A         C         G         T
+1          247       210       351       193
+2          206       286       124       383
+3          184         2       797        17
+4          610       135        65       191
+5            0       995         0         5
+6            3       194       453       349
+7          129       264       201       405
+8           15        17         0       968
+9           15        51         0       934
+10          22       763       148        66
+11         528        68       397         7
+12         240       111       244       405
+13         181       687        31       102
+14           0         0        15       985
+15          70       165        15       750
+16          19       952         9        20
+17          20       726         7       247
+18         157       370        90       383
+19         227       358       155       261
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 273
+CC  accession: UN0409_1
+CC  AC: UN0409_1
+CC  id: UN0409_1
+CC  name: UN0409_1_RKD2
+CC  version: 
+CC  name: UN0409_1_RKD2
+CC  description: UN0409_1 UN0409_1_RKD2 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 273
+XX
+//
+AC  UN0410_1
+XX
+ID STKL2
+XX
+DE  UN0410_1 UN0410_1_STKL2 ; From JASPAR
+P0           A         C         G         T
+1          492       128       103       277
+2          552        52       144       252
+3           88       541        81       291
+4          191       622       105        83
+5            8        56         0       936
+6           14         8        24       954
+7         1000         0         0         0
+8            0         0         0      1000
+9            0      1000         0         0
+10           0       919         0        81
+11         730         2       201        68
+12         277       213        52       458
+13         412        30        20       537
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 274
+CC  accession: UN0410_1
+CC  AC: UN0410_1
+CC  id: UN0410_1
+CC  name: UN0410_1_STKL2
+CC  version: 
+CC  name: UN0410_1_STKL2
+CC  description: UN0410_1 UN0410_1_STKL2 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 274
+XX
+//
+AC  UN0411_1
+XX
+ID TCX5
+XX
+DE  UN0411_1 UN0411_1_TCX5 ; From JASPAR
+P0           A         C         G         T
+1          324       225       225       225
+2          637        22       225       115
+3            0         0         0      1000
+4            0         0         0      1000
+5            0       776         0       224
+6          906         0        94         0
+7         1000         0         0         0
+8         1000         0         0         0
+9          130       251        25       594
+10         228       228       228       316
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 275
+CC  accession: UN0411_1
+CC  AC: UN0411_1
+CC  id: UN0411_1
+CC  name: UN0411_1_TCX5
+CC  version: 
+CC  name: UN0411_1_TCX5
+CC  description: UN0411_1 UN0411_1_TCX5 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 275
+XX
+//
+AC  UN0412_1
+XX
+ID VFP5
+XX
+DE  UN0412_1 UN0412_1_VFP5 ; From JASPAR
+P0           A         C         G         T
+1          302       208       102       388
+2          131       435       126       309
+3          362       119       357       161
+4          101       193        45       661
+5            2       911        29        59
+6          168         0       832         0
+7           42       757       114        87
+8            0      1000         0         0
+9            0         0      1000         0
+10           0         0       998         2
+11         634       206        15       144
+12         388         5       596        12
+13         614        76       104       206
+14         378       164       136       322
+15         322       119       255       304
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 276
+CC  accession: UN0412_1
+CC  AC: UN0412_1
+CC  id: UN0412_1
+CC  name: UN0412_1_VFP5
+CC  version: 
+CC  name: UN0412_1_VFP5
+CC  description: UN0412_1 UN0412_1_VFP5 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 276
+XX
+//
+AC  UN0413_1
+XX
+ID WOX11
+XX
+DE  UN0413_1 UN0413_1_WOX11 ; From JASPAR
+P0           A         C         G         T
+1          734         0       122       144
+2          312       118       392       179
+3            0        53         0       947
+4            0         0         0      1000
+5         1000         0         0         0
+6          954         0        46         0
+7            0       110         0       890
+8            0        23        53       924
+9          798         0       202         0
+10         479       202       319         0
+11         243       122       163       471
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 277
+CC  accession: UN0413_1
+CC  AC: UN0413_1
+CC  id: UN0413_1
+CC  name: UN0413_1_WOX11
+CC  version: 
+CC  name: UN0413_1_WOX11
+CC  description: UN0413_1 UN0413_1_WOX11 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 277
+XX
+//
+AC  UN0414_1
+XX
+ID WOX13
+XX
+DE  UN0414_1 UN0414_1_WOX13 ; From JASPAR
+P0           A         C         G         T
+1          101       200       101       599
+2           72         1         1       927
+3          134         1       799        67
+4          998         1         1         1
+5            1         1         1       998
+6            1         1         1       998
+7          154         1       844         1
+8          816        91        91         1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 278
+CC  accession: UN0414_1
+CC  AC: UN0414_1
+CC  id: UN0414_1
+CC  name: UN0414_1_WOX13
+CC  version: 
+CC  name: UN0414_1_WOX13
+CC  description: UN0414_1 UN0414_1_WOX13 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 278
+XX
+//
+AC  UN0415_1
+XX
+ID YAB1
+XX
+DE  UN0415_1 UN0415_1_YAB1 ; From JASPAR
+P0           A         C         G         T
+1          796         2         2       200
+2          997         1         1         1
+3            1         1         1       997
+4          665       112       112       112
+5          775         1         1       222
+6          112         1         1       886
+7          554       112         1       333
+8          996         1         1         1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 279
+CC  accession: UN0415_1
+CC  AC: UN0415_1
+CC  id: UN0415_1
+CC  name: UN0415_1_YAB1
+CC  version: 
+CC  name: UN0415_1_YAB1
+CC  description: UN0415_1 UN0415_1_YAB1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 279
+XX
+//
+AC  UN0416_1
+XX
+ID YAB5
+XX
+DE  UN0416_1 UN0416_1_YAB5 ; From JASPAR
+P0           A         C         G         T
+1          305       198       299       198
+2          765        78        78        78
+3          147        51        51       752
+4          625       121       227        26
+5          903        96         0         0
+6           94         0        96       809
+7           95         0         0       904
+8          905        94         0         0
+9          348        52       153       447
+10         283       276       172       270
+11         200       297       303       200
+12         328       224       224       224
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 280
+CC  accession: UN0416_1
+CC  AC: UN0416_1
+CC  id: UN0416_1
+CC  name: UN0416_1_YAB5
+CC  version: 
+CC  name: UN0416_1_YAB5
+CC  description: UN0416_1 UN0416_1_YAB5 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 280
+XX
+//
+AC  UN0417_1
+XX
+ID ZAT9
+XX
+DE  UN0417_1 UN0417_1_ZAT9 ; From JASPAR
+P0           A         C         G         T
+1           38       522        20       420
+2            0       145         0       855
+3          997         0         3         0
+4            0      1000         0         0
+5            0         0         0      1000
+6          522        33         0       445
+7          340       413       117       130
+8          383       183        55       378
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 281
+CC  accession: UN0417_1
+CC  AC: UN0417_1
+CC  id: UN0417_1
+CC  name: UN0417_1_ZAT9
+CC  version: 
+CC  name: UN0417_1_ZAT9
+CC  description: UN0417_1 UN0417_1_ZAT9 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 281
+XX
+//
+AC  UN0418_1
+XX
+ID GLYMA-04G093300
+XX
+DE  UN0418_1 UN0418_1_GLYMA-04G093300 ; From JASPAR
+P0           A         C         G         T
+1         2384      1814      1220      2467
+2         2594      1764      1184      2343
+3            0      7885         0         0
+4            0         0       119      7766
+5         7816         1         3        65
+6         7649       102        82        52
+7           26         3        24      7832
+8            0      7885         0         0
+9         2961      1883       800      2241
+10        2718      1780       847      2540
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 282
+CC  accession: UN0418_1
+CC  AC: UN0418_1
+CC  id: UN0418_1
+CC  name: UN0418_1_GLYMA-04G093300
+CC  version: 
+CC  name: UN0418_1_GLYMA-04G093300
+CC  description: UN0418_1 UN0418_1_GLYMA-04G093300 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 282
+XX
+//
+AC  UN0420_1
+XX
+ID GLYMA-08G357600
+XX
+DE  UN0420_1 UN0420_1_GLYMA-08G357600 ; From JASPAR
+P0           A         C         G         T
+1         1134      2600      1008      1671
+2         3654       593      1107      1059
+3           17      6396         0         0
+4            0         1      6412         0
+5          217       547       124      5525
+6          302       191      5839        81
+7          200       134       525      5554
+8          288      6073         0        52
+9         1824      1368      1558      1663
+10        1670      1654      1209      1880
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 283
+CC  accession: UN0420_1
+CC  AC: UN0420_1
+CC  id: UN0420_1
+CC  name: UN0420_1_GLYMA-08G357600
+CC  version: 
+CC  name: UN0420_1_GLYMA-08G357600
+CC  description: UN0420_1 UN0420_1_GLYMA-08G357600 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 283
+XX
+//
+AC  UN0421_1
+XX
+ID GLYMA-13G317000
+XX
+DE  UN0421_1 UN0421_1_GLYMA-13G317000 ; From JASPAR
+P0           A         C         G         T
+1         4020      3522      3422      4955
+2         3343      2447      6249      3880
+3        15158       355       177       229
+4           11     15390        93       425
+5        13931       118      1340       530
+6            0     15919         0         0
+7            0         0     15919         0
+8          290       365        65     15199
+9         3774      2289      7596      2260
+10        3204      2479      4529      5707
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 284
+CC  accession: UN0421_1
+CC  AC: UN0421_1
+CC  id: UN0421_1
+CC  name: UN0421_1_GLYMA-13G317000
+CC  version: 
+CC  name: UN0421_1_GLYMA-13G317000
+CC  description: UN0421_1 UN0421_1_GLYMA-13G317000 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 284
+XX
+//
+AC  UN0422_1
+XX
+ID LEC1-A
+XX
+DE  UN0422_1 UN0422_1_LEC1-A ; From JASPAR
+P0           A         C         G         T
+1         3294      7023      2759      3467
+2         9508      1783      2775      2477
+3          942     14394       501       706
+4          609       207     15158       569
+5          452       435       174     15482
+6          567       401     15073       502
+7          892       820     12672      2159
+8         1110     14415       672       346
+9        12833       887      1497      1326
+10        4101      4154      3848      4440
+11        4425      3805      3775      4538
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 285
+CC  accession: UN0422_1
+CC  AC: UN0422_1
+CC  id: UN0422_1
+CC  name: UN0422_1_LEC1-A
+CC  version: 
+CC  name: UN0422_1_LEC1-A
+CC  description: UN0422_1 UN0422_1_LEC1-A ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 285
+XX
+//
+AC  UN0423_1
+XX
+ID LEC1-A
+XX
+DE  UN0423_1 UN0423_1_LEC1-A ; From JASPAR
+P0           A         C         G         T
+1         1925      1271      2338      2083
+2         3228      1636      1564      1189
+3            0      7614         0         3
+4         7037         2       293       285
+5         6966       650         1         0
+6            0         0      7617         0
+7           40       108         0      7469
+8            4         0      7613         0
+9         1334      1200      2100      2983
+10        2166      2225      1436      1790
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 286
+CC  accession: UN0423_1
+CC  AC: UN0423_1
+CC  id: UN0423_1
+CC  name: UN0423_1_LEC1-A
+CC  version: 
+CC  name: UN0423_1_LEC1-A
+CC  description: UN0423_1 UN0423_1_LEC1-A ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 286
+XX
+//
+AC  UN0424_1
+XX
+ID LEC1-A
+XX
+DE  UN0424_1 UN0424_1_LEC1-A ; From JASPAR
+P0           A         C         G         T
+1         6705      3845      3654      4745
+2         3892      6859      2900      5298
+3        16947       590       713       699
+4         1298      4176       821     12654
+5          858       508     16842       741
+6          615       357       455     17522
+7          652       540     17337       420
+8          824       422       766     16937
+9          784     17815       141       209
+10        6548      3454      3307      5640
+11        4900      4587      3447      6015
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 287
+CC  accession: UN0424_1
+CC  AC: UN0424_1
+CC  id: UN0424_1
+CC  name: UN0424_1_LEC1-A
+CC  version: 
+CC  name: UN0424_1_LEC1-A
+CC  description: UN0424_1 UN0424_1_LEC1-A ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 287
+XX
+//
+AC  UN0426_1
+XX
+ID TAGL1
+XX
+DE  UN0426_1 UN0426_1_TAGL1 ; From JASPAR
+P0           A         C         G         T
+1         2178       657       789      1227
+2         2082       806       785      1178
+3         2930       676       401       844
+4         1091       351      2722       687
+5         4576        61       106       108
+6         4641        47        85        78
+7         4647        23        83        98
+8         4590        14       109       138
+9         4562        37        85       167
+10         320        46      4328       157
+11         461        83      4129       178
+12        2263       587       893      1108
+13        2526       536       797       992
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 288
+CC  accession: UN0426_1
+CC  AC: UN0426_1
+CC  id: UN0426_1
+CC  name: UN0426_1_TAGL1
+CC  version: 
+CC  name: UN0426_1_TAGL1
+CC  description: UN0426_1 UN0426_1_TAGL1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 288
+XX
+//
+AC  UN0427_1
+XX
+ID NF-YB1
+XX
+DE  UN0427_1 UN0427_1_NF-YB1 ; From JASPAR
+P0           A         C         G         T
+1           50       170       116        80
+2           50       229        79        58
+3            6        25       371        14
+4           11       358        32        15
+5            6       393        15         2
+6            7       321        79         9
+7           17        23       356        20
+8            2       397         6        11
+9            9         5       396         6
+10           5       383        19         9
+11           8       384        19         5
+12          57       112       198        49
+13          65       146       129        76
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 289
+CC  accession: UN0427_1
+CC  AC: UN0427_1
+CC  id: UN0427_1
+CC  name: UN0427_1_NF-YB1
+CC  version: 
+CC  name: UN0427_1_NF-YB1
+CC  description: UN0427_1 UN0427_1_NF-YB1 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 289
+XX
+//
+AC  UN0428_1
+XX
+ID ONAC127
+XX
+DE  UN0428_1 UN0428_1_ONAC127 ; From JASPAR
+P0           A         C         G         T
+1            1        11         3         5
+2            7         4         2         7
+3            0         0        20         0
+4            0        20         0         0
+5            0         0         0        20
+6            0         0        20         0
+7            0        20         0         0
+8            0        20         0         0
+9            3        11         4         2
+10           3        10         3         4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 290
+CC  accession: UN0428_1
+CC  AC: UN0428_1
+CC  id: UN0428_1
+CC  name: UN0428_1_ONAC127
+CC  version: 
+CC  name: UN0428_1_ONAC127
+CC  description: UN0428_1 UN0428_1_ONAC127 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 290
+XX
+//
+AC  UN0429_1
+XX
+ID ONAC127
+XX
+DE  UN0429_1 UN0429_1_ONAC127 ; From JASPAR
+P0           A         C         G         T
+1           21         9        15        10
+2           11        10        27         7
+3           49         0         1         5
+4            0         3        46         6
+5            1         0        48         6
+6           50         0         0         5
+7           53         1         1         0
+8            1         1        52         1
+9           51         0         2         2
+10          12        15        11        17
+11          14        15        21         5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 291
+CC  accession: UN0429_1
+CC  AC: UN0429_1
+CC  id: UN0429_1
+CC  name: UN0429_1_ONAC127
+CC  version: 
+CC  name: UN0429_1_ONAC127
+CC  description: UN0429_1 UN0429_1_ONAC127 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 291
+XX
+//
+AC  UN0430_1
+XX
+ID ONAC127
+XX
+DE  UN0430_1 UN0430_1_ONAC127 ; From JASPAR
+P0           A         C         G         T
+1           20         8        20        20
+2           16        16        22        14
+3           65         0         0         3
+4           67         0         0         1
+5            4         0        62         2
+6           57         2         7         2
+7           61         5         1         1
+8           63         0         5         0
+9           58         1         3         6
+10           3         7        56         2
+11          16        14        30         8
+12          25         9        19        15
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 292
+CC  accession: UN0430_1
+CC  AC: UN0430_1
+CC  id: UN0430_1
+CC  name: UN0430_1_ONAC127
+CC  version: 
+CC  name: UN0430_1_ONAC127
+CC  description: UN0430_1 UN0430_1_ONAC127 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 292
+XX
+//
+AC  UN0431_1
+XX
+ID bHLH172
+XX
+DE  UN0431_1 UN0431_1_bHLH172 ; From JASPAR
+P0           A         C         G         T
+1         1263      1217      1242       582
+2          629      1708       990       977
+3            0         0      4304         0
+4            0      4304         0         0
+5         4304         0         0         0
+6            0      4304         0         0
+7            0         0      4304         0
+8            0      4304         0         0
+9         1428       876      1512       488
+10         663      1791      1118       732
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 293
+CC  accession: UN0431_1
+CC  AC: UN0431_1
+CC  id: UN0431_1
+CC  name: UN0431_1_bHLH172
+CC  version: 
+CC  name: UN0431_1_bHLH172
+CC  description: UN0431_1 UN0431_1_bHLH172 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 293
+XX
+//
+AC  UN0432_1
+XX
+ID Zm00001d042907
+XX
+DE  UN0432_1 UN0432_1_Zm00001d042907 ; From JASPAR
+P0           A         C         G         T
+1          255       282       246       137
+2          123       244       160       393
+3           18        56       827        19
+4          798        62        36        24
+5           13       864        22        21
+6           13        18       879        10
+7           39       677        27       177
+8           27       835        42        16
+9          860        14        36        10
+10          37       774        43        66
+11         157       300       291       172
+12         202       264       300       154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 294
+CC  accession: UN0432_1
+CC  AC: UN0432_1
+CC  id: UN0432_1
+CC  name: UN0432_1_Zm00001d042907
+CC  version: 
+CC  name: UN0432_1_Zm00001d042907
+CC  description: UN0432_1 UN0432_1_Zm00001d042907 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 294
+XX
+//
+AC  UN0433_1
+XX
+ID Zm00001d024644
+XX
+DE  UN0433_1 UN0433_1_Zm00001d024644 ; From JASPAR
+P0           A         C         G         T
+1          327       175       191       217
+2          236       161       171       342
+3           61       555       107       187
+4           38       787        45        40
+5           73        58        31       748
+6           23        35        27       825
+7          868        14        11        17
+8            4        18         4       884
+9            6       896         3         5
+10          41       708        25       136
+11         483       137       130       160
+12         116       181       112       501
+13         243       233       138       296
+14         175       269       211       255
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 295
+CC  accession: UN0433_1
+CC  AC: UN0433_1
+CC  id: UN0433_1
+CC  name: UN0433_1_Zm00001d024644
+CC  version: 
+CC  name: UN0433_1_Zm00001d024644
+CC  description: UN0433_1 UN0433_1_Zm00001d024644 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 295
+XX
+//
+AC  UN0434_1
+XX
+ID Zm00001d013777
+XX
+DE  UN0434_1 UN0434_1_Zm00001d013777 ; From JASPAR
+P0           A         C         G         T
+1           99       534       264       207
+2          111       527       277       189
+3           15       113        30       946
+4           40       992        59        13
+5           19        32        22      1031
+6           12      1069        10        13
+7           21        24       990        69
+8           19       945        30       110
+9           11      1061        14        18
+10          32       149        73       850
+11         112       588       254       150
+12         103       416       344       241
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 296
+CC  accession: UN0434_1
+CC  AC: UN0434_1
+CC  id: UN0434_1
+CC  name: UN0434_1_Zm00001d013777
+CC  version: 
+CC  name: UN0434_1_Zm00001d013777
+CC  description: UN0434_1 UN0434_1_Zm00001d013777 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 296
+XX
+//
+AC  UN0687_1
+XX
+ID NGA4
+XX
+DE  UN0687_1 UN0687_1_NGA4 ; From JASPAR
+P0           A         C         G         T
+1           80        72        42        93
+2           62        43        47       135
+3           32        54        79       122
+4           23        19        29       216
+5            6         6        10       265
+6            5       276         4         2
+7          280         3         1         3
+8            3         2       280         2
+9           16         1       267         3
+10           3         6         2       276
+11         157         5        91        34
+12          91        58        53        85
+13          89        45        49       104
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 547
+CC  accession: UN0687_1
+CC  AC: UN0687_1
+CC  id: UN0687_1
+CC  name: UN0687_1_NGA4
+CC  version: 
+CC  name: UN0687_1_NGA4
+CC  description: UN0687_1 UN0687_1_NGA4 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 547
+XX
+//
+AC  UN0688_1
+XX
+ID BHLH10
+XX
+DE  UN0688_1 UN0688_1_BHLH10 ; From JASPAR
+P0           A         C         G         T
+1          187        97       154       169
+2          127       219        84       177
+3          106       303        59       139
+4          133        62       142       270
+5           48       412        42       105
+6           31       492        17        67
+7          308         1       293         5
+8            9       589         7         2
+9            3       601         2         1
+10          10         1       593         3
+11         487        78        16        26
+12           7       591         4         5
+13         537         7        48        15
+14         111       360        62        74
+15         139       181        51       236
+16         178        79       174       176
+17         134       185       105       183
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 548
+CC  accession: UN0688_1
+CC  AC: UN0688_1
+CC  id: UN0688_1
+CC  name: UN0688_1_BHLH10
+CC  version: 
+CC  name: UN0688_1_BHLH10
+CC  description: UN0688_1 UN0688_1_BHLH10 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 548
+XX
+//
+AC  UN0689_1
+XX
+ID NFYB2
+XX
+DE  UN0689_1 UN0689_1_NFYB2 ; From JASPAR
+P0           A         C         G         T
+1         2030      1475      1388      2546
+2         1465      1097      2724      2153
+3         6742       224       211       262
+4            0      7151        21       267
+5         6665        27       498       249
+6            0      7439         0         0
+7            0         0      7439         0
+8          181       289        46      6923
+9         1887       993      3708       851
+10        1452      1000      1918      3069
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 549
+CC  accession: UN0689_1
+CC  AC: UN0689_1
+CC  id: UN0689_1
+CC  name: UN0689_1_NFYB2
+CC  version: 
+CC  name: UN0689_1_NFYB2
+CC  description: UN0689_1 UN0689_1_NFYB2 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 549
+XX
+//
+AC  UN0690_1
+XX
+ID NFYC2
+XX
+DE  UN0690_1 UN0690_1_NFYC2 ; From JASPAR
+P0           A         C         G         T
+1          633      2373       837       837
+2         3455       259       443       523
+3          169      4264        87       160
+4          116        31      4428       105
+5           79       105        23      4473
+6          120        53      4421        86
+7          236       103      3438       903
+8          343      4053       174       110
+9         3557       184       508       431
+10        1466       882       948      1384
+11        1473       966       876      1365
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix_nb: 550
+CC  accession: UN0690_1
+CC  AC: UN0690_1
+CC  id: UN0690_1
+CC  name: UN0690_1_NFYC2
+CC  version: 
+CC  name: UN0690_1_NFYC2
+CC  description: UN0690_1 UN0690_1_NFYC2 ; From JASPAR
+CC  transfac_consensus: 
+CC  matrix_nb: 550
+XX
+//

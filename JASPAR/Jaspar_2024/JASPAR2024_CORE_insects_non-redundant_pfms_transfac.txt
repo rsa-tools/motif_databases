@@ -1,0 +1,6805 @@
+AC MA0013.1
+XX
+ID br
+XX
+DE MA0013.1 br ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	0.0	4.0
+02	4.0	0.0	0.0	2.0
+03	2.0	0.0	4.0	0.0
+04	1.0	0.0	0.0	5.0
+05	5.0	0.0	1.0	0.0
+06	6.0	0.0	0.0	0.0
+07	5.0	0.0	1.0	0.0
+08	1.0	3.0	1.0	1.0
+09	3.0	0.0	1.0	2.0
+10	5.0	0.0	0.0	1.0
+11	3.0	1.0	0.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:8062827
+CC uniprot_ids:Q24206
+CC data_type:COMPILED
+XX
+//
+AC MA0022.1
+XX
+ID dl
+XX
+DE MA0022.1 dl ; From JASPAR
+PO	A	C	G	T
+01	0.0	5.0	6.0	2.0
+02	0.0	0.0	12.0	1.0
+03	0.0	1.0	11.0	1.0
+04	0.0	0.0	10.0	3.0
+05	1.0	1.0	3.0	8.0
+06	1.0	0.0	2.0	10.0
+07	1.0	0.0	0.0	12.0
+08	0.0	0.0	0.0	13.0
+09	0.0	3.0	0.0	10.0
+10	1.0	9.0	0.0	3.0
+11	1.0	9.0	1.0	2.0
+12	3.0	5.0	5.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:Rel homology region (RHR) factors
+CC pubmed_ids:1582412
+CC uniprot_ids:P15330
+CC data_type:SELEX
+XX
+//
+AC MA0023.1
+XX
+ID dl
+XX
+DE MA0023.1 dl ; From JASPAR
+PO	A	C	G	T
+01	0.0	1.0	7.0	1.0
+02	0.0	0.0	7.0	2.0
+03	0.0	0.0	9.0	0.0
+04	0.0	0.0	8.0	1.0
+05	4.0	1.0	0.0	4.0
+06	2.0	1.0	0.0	6.0
+07	0.0	0.0	0.0	9.0
+08	0.0	1.0	0.0	8.0
+09	0.0	9.0	0.0	0.0
+10	1.0	8.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Rel homology domain (RHD)
+CC tf_class:Rel homology region (RHR) factors
+CC pubmed_ids:1582412
+CC uniprot_ids:P15330
+CC data_type:SELEX
+XX
+//
+AC MA0026.1
+XX
+ID Eip74EF
+XX
+DE MA0026.1 Eip74EF ; From JASPAR
+PO	A	C	G	T
+01	2.0	12.0	2.0	1.0
+02	5.0	12.0	0.0	0.0
+03	0.0	0.0	17.0	0.0
+04	0.0	0.0	17.0	0.0
+05	17.0	0.0	0.0	0.0
+06	17.0	0.0	0.0	0.0
+07	5.0	1.0	10.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:2208281
+CC uniprot_ids:P20105
+CC data_type:SELEX
+XX
+//
+AC MA0049.1
+XX
+ID hb
+XX
+DE MA0049.1 hb ; From JASPAR
+PO	A	C	G	T
+01	1.0	5.0	8.0	2.0
+02	6.0	8.0	2.0	0.0
+03	9.0	3.0	4.0	0.0
+04	4.0	3.0	1.0	8.0
+05	13.0	1.0	0.0	2.0
+06	16.0	0.0	0.0	0.0
+07	16.0	0.0	0.0	0.0
+08	14.0	0.0	2.0	0.0
+09	15.0	1.0	0.0	0.0
+10	9.0	2.0	2.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:2507923
+CC uniprot_ids:P05084
+CC data_type:COMPILED
+XX
+//
+AC MA0165.1
+XX
+ID Abd-B
+XX
+DE MA0165.1 Abd-B ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	0.0	20.0
+02	0.0	0.0	0.0	21.0
+03	5.0	0.0	0.0	16.0
+04	21.0	0.0	0.0	0.0
+05	0.0	3.0	0.0	18.0
+06	3.0	0.0	11.0	7.0
+07	13.0	0.0	5.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P09087
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0166.1
+XX
+ID Antp
+XX
+DE MA0166.1 Antp ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	0.0	14.0
+02	0.0	0.0	0.0	16.0
+03	16.0	0.0	0.0	0.0
+04	16.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	16.0
+06	0.0	0.0	9.0	7.0
+07	15.0	0.0	1.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P02833
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0168.1
+XX
+ID B-H1
+XX
+DE MA0168.1 B-H1 ; From JASPAR
+PO	A	C	G	T
+01	4.0	4.0	0.0	13.0
+02	0.0	0.0	0.0	21.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	8.0	0.0	0.0	13.0
+06	1.0	7.0	0.0	13.0
+07	1.0	0.0	20.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24255
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0169.1
+XX
+ID B-H2
+XX
+DE MA0169.1 B-H2 ; From JASPAR
+PO	A	C	G	T
+01	6.0	2.0	1.0	12.0
+02	0.0	0.0	0.0	21.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	5.0	0.0	0.0	16.0
+06	3.0	1.0	2.0	15.0
+07	0.0	0.0	21.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24256
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0180.1
+XX
+ID Vsx2
+XX
+DE MA0180.1 Vsx2 ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	5.0	6.0
+02	2.0	2.0	0.0	9.0
+03	0.0	0.0	0.0	13.0
+04	13.0	0.0	0.0	0.0
+05	13.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	13.0
+07	0.0	0.0	0.0	13.0
+08	10.0	0.0	3.0	0.0
+09	1.0	2.0	10.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:Q9W4B3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0181.1
+XX
+ID Vsx1
+XX
+DE MA0181.1 Vsx1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	8.0	1.0	12.0
+02	0.0	0.0	0.0	22.0
+03	22.0	0.0	0.0	0.0
+04	22.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	22.0
+06	2.0	0.0	3.0	17.0
+07	15.0	0.0	6.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q5U1D9
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0186.1
+XX
+ID Dfd
+XX
+DE MA0186.1 Dfd ; From JASPAR
+PO	A	C	G	T
+01	1.0	4.0	3.0	16.0
+02	0.0	0.0	0.0	24.0
+03	24.0	0.0	0.0	0.0
+04	24.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	24.0
+06	1.0	0.0	19.0	4.0
+07	21.0	0.0	3.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P07548
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0188.1
+XX
+ID Dr
+XX
+DE MA0188.1 Dr ; From JASPAR
+PO	A	C	G	T
+01	1.0	13.0	6.0	1.0
+02	0.0	16.0	0.0	5.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	21.0
+06	0.0	0.0	0.0	21.0
+07	21.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q03372
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0190.1
+XX
+ID Gsc
+XX
+DE MA0190.1 Gsc ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	22.0
+02	22.0	0.0	0.0	0.0
+03	22.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	22.0
+05	0.0	22.0	0.0	0.0
+06	0.0	14.0	2.0	6.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P54366
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0191.1
+XX
+ID HGTX
+XX
+DE MA0191.1 HGTX ; From JASPAR
+PO	A	C	G	T
+01	4.0	2.0	3.0	11.0
+02	0.0	0.0	0.0	20.0
+03	20.0	0.0	0.0	0.0
+04	20.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	20.0
+06	1.0	0.0	6.0	13.0
+07	15.0	0.0	5.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9NHP8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0192.1
+XX
+ID Hmx
+XX
+DE MA0192.1 Hmx ; From JASPAR
+PO	A	C	G	T
+01	1.0	3.0	0.0	16.0
+02	0.0	0.0	0.0	20.0
+03	20.0	0.0	0.0	0.0
+04	20.0	0.0	0.0	0.0
+05	1.0	0.0	0.0	19.0
+06	0.0	3.0	0.0	17.0
+07	4.0	0.0	16.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VEI9
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0193.1
+XX
+ID schlank
+XX
+DE MA0193.1 schlank ; From JASPAR
+PO	A	C	G	T
+01	0.0	19.0	0.0	0.0
+02	0.0	9.0	0.0	10.0
+03	17.0	2.0	0.0	0.0
+04	1.0	18.0	0.0	0.0
+05	0.0	12.0	0.0	7.0
+06	18.0	0.0	1.0	0.0
+07	12.0	0.0	4.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W423
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0194.1
+XX
+ID Lim1
+XX
+DE MA0194.1 Lim1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	2.0	0.0	16.0
+02	0.0	0.0	0.0	18.0
+03	18.0	0.0	0.0	0.0
+04	18.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	18.0
+06	0.0	0.0	0.0	18.0
+07	17.0	0.0	1.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9V472
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0196.1
+XX
+ID NK7.1
+XX
+DE MA0196.1 NK7.1 ; From JASPAR
+PO	A	C	G	T
+01	5.0	5.0	1.0	24.0
+02	0.0	0.0	0.0	35.0
+03	33.0	0.0	2.0	0.0
+04	35.0	0.0	0.0	0.0
+05	4.0	0.0	5.0	26.0
+06	6.0	0.0	7.0	22.0
+07	13.0	0.0	22.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O61640
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0198.1
+XX
+ID OdsH
+XX
+DE MA0198.1 OdsH ; From JASPAR
+PO	A	C	G	T
+01	0.0	11.0	4.0	7.0
+02	0.0	0.0	0.0	22.0
+03	22.0	0.0	0.0	0.0
+04	22.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	22.0
+06	0.0	0.0	0.0	22.0
+07	13.0	0.0	8.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O96616
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0199.1
+XX
+ID Optix
+XX
+DE MA0199.1 Optix ; From JASPAR
+PO	A	C	G	T
+01	0.0	5.0	0.0	22.0
+02	0.0	0.0	27.0	0.0
+03	27.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	27.0
+05	26.0	0.0	1.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-SINE
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q95RW8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0201.1
+XX
+ID Ptx1
+XX
+DE MA0201.1 Ptx1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	5.0	1.0	14.0
+02	0.0	0.0	0.0	20.0
+03	20.0	0.0	0.0	0.0
+04	20.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	20.0
+06	0.0	20.0	0.0	0.0
+07	0.0	19.0	0.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:O18400
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0202.1
+XX
+ID Rx
+XX
+DE MA0202.1 Rx ; From JASPAR
+PO	A	C	G	T
+01	3.0	13.0	0.0	11.0
+02	0.0	0.0	0.0	27.0
+03	27.0	0.0	0.0	0.0
+04	27.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	27.0
+06	0.0	0.0	0.0	27.0
+07	17.0	0.0	10.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W2Q1
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0203.1
+XX
+ID Scr
+XX
+DE MA0203.1 Scr ; From JASPAR
+PO	A	C	G	T
+01	3.0	7.0	0.0	15.0
+02	0.0	0.0	0.0	25.0
+03	25.0	0.0	0.0	0.0
+04	25.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	25.0
+06	0.0	0.0	18.0	7.0
+07	23.0	0.0	2.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P09077
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0204.1
+XX
+ID Six4
+XX
+DE MA0204.1 Six4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	20.0
+02	0.0	0.0	20.0	0.0
+03	20.0	0.0	0.0	0.0
+04	0.0	7.0	4.0	9.0
+05	20.0	0.0	0.0	0.0
+06	1.0	19.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-SINE
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9Y1P6
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0206.1
+XX
+ID abd-A
+XX
+DE MA0206.1 abd-A ; From JASPAR
+PO	A	C	G	T
+01	1.0	3.0	0.0	14.0
+02	0.0	0.0	0.0	18.0
+03	16.0	0.0	0.0	2.0
+04	18.0	0.0	0.0	0.0
+05	1.0	0.0	0.0	17.0
+06	0.0	0.0	6.0	12.0
+07	15.0	1.0	2.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P29555
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0208.1
+XX
+ID al
+XX
+DE MA0208.1 al ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	20.0
+02	20.0	0.0	0.0	0.0
+03	20.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	20.0
+05	0.0	0.0	0.0	20.0
+06	17.0	0.0	3.0	0.0
+07	18.0	0.0	2.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:Q06453
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0210.1
+XX
+ID ara
+XX
+DE MA0210.1 ara ; From JASPAR
+PO	A	C	G	T
+01	14.0	0.0	5.0	15.0
+02	23.0	0.0	0.0	11.0
+03	34.0	0.0	0.0	0.0
+04	0.0	34.0	0.0	0.0
+05	34.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24248
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0211.1
+XX
+ID bap
+XX
+DE MA0211.1 bap ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	1.0	22.0
+02	0.0	0.0	0.0	23.0
+03	23.0	0.0	0.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	0.0	23.0	0.0
+06	1.0	0.0	0.0	22.0
+07	7.0	0.0	16.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P22809
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0212.1
+XX
+ID bcd
+XX
+DE MA0212.1 bcd ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	22.0
+02	20.0	0.0	0.0	2.0
+03	22.0	0.0	0.0	0.0
+04	0.0	0.0	1.0	21.0
+05	0.0	22.0	0.0	0.0
+06	0.0	21.0	0.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P09081
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0213.1
+XX
+ID brk
+XX
+DE MA0213.1 brk ; From JASPAR
+PO	A	C	G	T
+01	1.0	5.0	4.0	0.0
+02	0.0	4.0	0.0	6.0
+03	0.0	0.0	10.0	0.0
+04	0.0	0.0	10.0	0.0
+05	0.0	10.0	0.0	0.0
+06	1.0	0.0	9.0	0.0
+07	1.0	8.0	0.0	1.0
+08	0.0	5.0	1.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:15572468
+CC uniprot_ids:Q9XTN4
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA0214.1
+XX
+ID bsh
+XX
+DE MA0214.1 bsh ; From JASPAR
+PO	A	C	G	T
+01	1.0	3.0	2.0	10.0
+02	0.0	0.0	0.0	16.0
+03	16.0	0.0	0.0	0.0
+04	16.0	0.0	0.0	0.0
+05	0.0	1.0	0.0	15.0
+06	0.0	3.0	6.0	7.0
+07	7.0	0.0	9.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q04787
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0217.1
+XX
+ID caup
+XX
+DE MA0217.1 caup ; From JASPAR
+PO	A	C	G	T
+01	4.0	1.0	2.0	12.0
+02	14.0	0.0	2.0	3.0
+03	19.0	0.0	0.0	0.0
+04	0.0	19.0	0.0	0.0
+05	19.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P54269
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0218.1
+XX
+ID ct
+XX
+DE MA0218.1 ct ; From JASPAR
+PO	A	C	G	T
+01	0.0	6.0	0.0	14.0
+02	1.0	2.0	0.0	17.0
+03	9.0	0.0	11.0	0.0
+04	20.0	0.0	0.0	0.0
+05	17.0	0.0	1.0	2.0
+06	0.0	19.0	1.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-CUT
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P10180
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0219.1
+XX
+ID ems
+XX
+DE MA0219.1 ems ; From JASPAR
+PO	A	C	G	T
+01	3.0	7.0	1.0	9.0
+02	3.0	0.0	0.0	17.0
+03	19.0	0.0	0.0	1.0
+04	19.0	0.0	1.0	0.0
+05	0.0	0.0	0.0	20.0
+06	0.0	1.0	10.0	9.0
+07	14.0	0.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P18488
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0220.1
+XX
+ID en
+XX
+DE MA0220.1 en ; From JASPAR
+PO	A	C	G	T
+01	2.0	8.0	2.0	11.0
+02	0.0	0.0	0.0	23.0
+03	23.0	0.0	0.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	23.0
+06	0.0	0.0	2.0	21.0
+07	13.0	0.0	10.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P02836
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0221.1
+XX
+ID eve
+XX
+DE MA0221.1 eve ; From JASPAR
+PO	A	C	G	T
+01	3.0	10.0	0.0	9.0
+02	1.0	0.0	0.0	21.0
+03	22.0	0.0	0.0	0.0
+04	22.0	0.0	0.0	0.0
+05	0.0	2.0	1.0	19.0
+06	0.0	2.0	11.0	9.0
+07	17.0	0.0	4.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P06602
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0225.1
+XX
+ID ftz
+XX
+DE MA0225.1 ftz ; From JASPAR
+PO	A	C	G	T
+01	1.0	2.0	0.0	15.0
+02	1.0	0.0	0.0	17.0
+03	18.0	0.0	0.0	0.0
+04	18.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	18.0
+06	0.0	0.0	9.0	9.0
+07	14.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P02835
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0227.1
+XX
+ID hth
+XX
+DE MA0227.1 hth ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	17.0
+02	0.0	0.0	17.0	0.0
+03	17.0	0.0	0.0	0.0
+04	0.0	17.0	0.0	0.0
+05	14.0	0.0	3.0	0.0
+06	0.0	0.0	8.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O46339
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0229.1
+XX
+ID inv
+XX
+DE MA0229.1 inv ; From JASPAR
+PO	A	C	G	T
+01	4.0	0.0	3.0	9.0
+02	1.0	9.0	0.0	6.0
+03	0.0	0.0	0.0	16.0
+04	16.0	0.0	0.0	0.0
+05	16.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	16.0
+07	0.0	0.0	0.0	16.0
+08	11.0	0.0	5.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P05527
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0230.1
+XX
+ID lab
+XX
+DE MA0230.1 lab ; From JASPAR
+PO	A	C	G	T
+01	1.0	3.0	0.0	12.0
+02	0.0	0.0	0.0	16.0
+03	16.0	0.0	0.0	0.0
+04	16.0	0.0	0.0	0.0
+05	1.0	0.0	0.0	15.0
+06	0.0	0.0	6.0	10.0
+07	16.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P10105
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0234.1
+XX
+ID oc
+XX
+DE MA0234.1 oc ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	19.0
+02	19.0	0.0	0.0	0.0
+03	19.0	0.0	0.0	0.0
+04	0.0	0.0	2.0	17.0
+05	0.0	19.0	0.0	0.0
+06	0.0	17.0	1.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P22810
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0235.1
+XX
+ID onecut
+XX
+DE MA0235.1 onecut ; From JASPAR
+PO	A	C	G	T
+01	1.0	2.0	0.0	12.0
+02	0.0	0.0	0.0	15.0
+03	0.0	0.0	15.0	0.0
+04	15.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	15.0
+06	0.0	0.0	0.0	15.0
+07	5.0	0.0	4.0	6.0
+XX
+CC tax_group:insects
+CC tf_family:HD-CUT
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9NJB5
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0236.1
+XX
+ID otp
+XX
+DE MA0236.1 otp ; From JASPAR
+PO	A	C	G	T
+01	1.0	6.0	2.0	11.0
+02	0.0	1.0	0.0	19.0
+03	20.0	0.0	0.0	0.0
+04	20.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	20.0
+06	0.0	1.0	4.0	15.0
+07	15.0	0.0	3.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P56672
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0238.1
+XX
+ID pb
+XX
+DE MA0238.1 pb ; From JASPAR
+PO	A	C	G	T
+01	4.0	9.0	0.0	11.0
+02	0.0	0.0	0.0	24.0
+03	24.0	0.0	0.0	0.0
+04	24.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	24.0
+06	0.0	0.0	11.0	13.0
+07	24.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P31264
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0242.1
+XX
+ID Bgb::run
+XX
+DE MA0242.1 Bgb::run ; From JASPAR
+PO	A	C	G	T
+01	12.0	2.0	0.0	15.0
+02	27.0	0.0	1.0	1.0
+03	28.0	0.0	1.0	0.0
+04	0.0	29.0	0.0	0.0
+05	0.0	28.0	1.0	0.0
+06	5.0	1.0	23.0	0.0
+07	0.0	29.0	0.0	0.0
+08	28.0	0.0	0.0	1.0
+09	20.0	0.0	9.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Runt-related factors; Runt-related factors
+CC tf_class:Runt domain factors; Runt domain factors
+CC pubmed_ids:16041365
+CC uniprot_ids:Q24040
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0244.1
+XX
+ID slbo
+XX
+DE MA0244.1 slbo ; From JASPAR
+PO	A	C	G	T
+01	9.0	1.0	1.0	1.0
+02	0.0	1.0	0.0	11.0
+03	0.0	0.0	3.0	9.0
+04	3.0	2.0	7.0	0.0
+05	2.0	10.0	0.0	0.0
+06	7.0	2.0	2.0	1.0
+07	6.0	5.0	1.0	0.0
+08	11.0	1.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:CEBP-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:15572468
+CC uniprot_ids:Q02637
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA0245.1
+XX
+ID slou
+XX
+DE MA0245.1 slou ; From JASPAR
+PO	A	C	G	T
+01	3.0	5.0	1.0	13.0
+02	0.0	1.0	0.0	21.0
+03	22.0	0.0	0.0	0.0
+04	21.0	0.0	1.0	0.0
+05	0.0	0.0	0.0	22.0
+06	2.0	1.0	5.0	14.0
+07	11.0	0.0	11.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P22807
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0246.1
+XX
+ID so
+XX
+DE MA0246.1 so ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	1.0	26.0
+02	0.0	0.0	27.0	0.0
+03	27.0	0.0	0.0	0.0
+04	0.0	0.0	1.0	26.0
+05	27.0	0.0	0.0	0.0
+06	0.0	10.0	0.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:HD-SINE
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q27350
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0248.1
+XX
+ID tup
+XX
+DE MA0248.1 tup ; From JASPAR
+PO	A	C	G	T
+01	4.0	2.0	1.0	9.0
+02	1.0	0.0	0.0	15.0
+03	16.0	0.0	0.0	0.0
+04	16.0	0.0	0.0	0.0
+05	0.0	0.0	2.0	14.0
+06	1.0	0.0	7.0	8.0
+07	2.0	0.0	13.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VJ37
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0250.1
+XX
+ID unc-4
+XX
+DE MA0250.1 unc-4 ; From JASPAR
+PO	A	C	G	T
+01	1.0	5.0	2.0	13.0
+02	0.0	0.0	0.0	21.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	21.0
+06	1.0	0.0	0.0	20.0
+07	6.0	1.0	14.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O77215
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0253.1
+XX
+ID vnd
+XX
+DE MA0253.1 vnd ; From JASPAR
+PO	A	C	G	T
+01	4.0	0.0	2.0	13.0
+02	1.0	8.0	1.0	9.0
+03	0.0	0.0	0.0	19.0
+04	0.0	15.0	2.0	2.0
+05	19.0	0.0	0.0	0.0
+06	19.0	0.0	0.0	0.0
+07	0.0	0.0	19.0	0.0
+08	2.0	0.0	0.0	17.0
+09	9.0	0.0	10.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P22808
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0254.1
+XX
+ID vvl
+XX
+DE MA0254.1 vvl ; From JASPAR
+PO	A	C	G	T
+01	0.0	2.0	0.0	9.0
+02	11.0	0.0	0.0	0.0
+03	2.0	2.0	0.0	7.0
+04	0.0	0.0	6.0	5.0
+05	3.0	8.0	0.0	0.0
+06	11.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:POU domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:15572468
+CC uniprot_ids:P16241
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA0446.1
+XX
+ID fkh
+XX
+DE MA0446.1 fkh ; From JASPAR
+PO	A	C	G	T
+01	3.0	0.0	0.0	24.0
+02	5.0	0.0	22.0	0.0
+03	0.0	0.0	0.0	27.0
+04	0.0	0.0	0.0	27.0
+05	0.0	0.0	1.0	26.0
+06	13.0	0.0	14.0	0.0
+07	4.0	13.0	2.0	8.0
+08	6.0	7.0	3.0	11.0
+09	0.0	11.0	2.0	14.0
+10	23.0	0.0	1.0	3.0
+11	15.0	4.0	4.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P14734
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0448.1
+XX
+ID H2.0
+XX
+DE MA0448.1 H2.0 ; From JASPAR
+PO	A	C	G	T
+01	6.0	3.0	4.0	19.0
+02	2.0	1.0	0.0	29.0
+03	16.0	1.0	1.0	14.0
+04	31.0	0.0	0.0	1.0
+05	0.0	0.0	0.0	32.0
+06	8.0	0.0	9.0	15.0
+07	24.0	0.0	7.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P10035
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0449.1
+XX
+ID h
+XX
+DE MA0449.1 h ; From JASPAR
+PO	A	C	G	T
+01	1.0	2.0	30.0	1.0
+02	3.0	7.0	17.0	7.0
+03	1.0	31.0	1.0	1.0
+04	22.0	1.0	10.0	1.0
+05	1.0	30.0	1.0	2.0
+06	2.0	1.0	30.0	1.0
+07	1.0	10.0	1.0	22.0
+08	1.0	1.0	31.0	1.0
+09	7.0	17.0	7.0	3.0
+10	1.0	30.0	2.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Helix-Loop-Helix
+CC tf_class:Zipper-type
+CC pubmed_ids:18332042
+CC uniprot_ids:P14003
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0454.1
+XX
+ID odd
+XX
+DE MA0454.1 odd ; From JASPAR
+PO	A	C	G	T
+01	7.0	5.0	0.0	3.0
+02	10.0	5.0	0.0	0.0
+03	0.0	14.0	1.0	0.0
+04	12.0	0.0	3.0	0.0
+05	0.0	0.0	15.0	0.0
+06	0.0	0.0	0.0	15.0
+07	15.0	0.0	0.0	0.0
+08	0.0	0.0	15.0	0.0
+09	0.0	15.0	0.0	0.0
+10	11.0	3.0	1.0	0.0
+11	5.0	4.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P23803
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0456.1
+XX
+ID opa
+XX
+DE MA0456.1 opa ; From JASPAR
+PO	A	C	G	T
+01	0.0	1.0	15.0	2.0
+02	10.0	7.0	1.0	0.0
+03	1.0	16.0	0.0	1.0
+04	1.0	15.0	1.0	1.0
+05	0.0	16.0	1.0	1.0
+06	0.0	18.0	0.0	0.0
+07	0.0	18.0	0.0	0.0
+08	0.0	14.0	0.0	4.0
+09	4.0	0.0	13.0	1.0
+10	0.0	14.0	2.0	2.0
+11	3.0	1.0	4.0	10.0
+12	2.0	0.0	16.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P39768
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0460.1
+XX
+ID ttk
+XX
+DE MA0460.1 ttk ; From JASPAR
+PO	A	C	G	T
+01	10.0	8.0	3.0	1.0
+02	22.0	0.0	0.0	0.0
+03	0.0	0.0	22.0	0.0
+04	0.0	0.0	22.0	0.0
+05	22.0	0.0	0.0	0.0
+06	0.0	5.0	0.0	17.0
+07	21.0	0.0	0.0	1.0
+08	22.0	0.0	0.0	0.0
+09	1.0	5.0	3.0	13.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P17789
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0216.2
+XX
+ID cad
+XX
+DE MA0216.2 cad ; From JASPAR
+PO	A	C	G	T
+01	854.0	0.0	1143.0	306.0
+02	575.0	341.0	1387.0	0.0
+03	0.0	1481.0	0.0	822.0
+04	745.0	1475.0	0.0	83.0
+05	2117.0	0.0	186.0	0.0
+06	0.0	95.0	0.0	2208.0
+07	2236.0	0.0	0.0	67.0
+08	2303.0	0.0	0.0	0.0
+09	2303.0	0.0	0.0	0.0
+10	1637.0	115.0	147.0	404.0
+11	1046.0	755.0	0.0	502.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:2571934
+CC uniprot_ids:P09085
+CC data_type:ChIP-chip
+XX
+//
+AC MA0533.1
+XX
+ID su(Hw)
+XX
+DE MA0533.1 su(Hw) ; From JASPAR
+PO	A	C	G	T
+01	336.0	1133.0	2808.0	460.0
+02	243.0	4116.0	35.0	343.0
+03	778.0	3001.0	231.0	727.0
+04	855.0	1480.0	977.0	1425.0
+05	2767.0	586.0	925.0	459.0
+06	3438.0	208.0	529.0	562.0
+07	4217.0	93.0	295.0	132.0
+08	3904.0	19.0	316.0	498.0
+09	410.0	235.0	3759.0	333.0
+10	17.0	441.0	96.0	4183.0
+11	4276.0	21.0	95.0	345.0
+12	7.0	11.0	1140.0	3579.0
+13	199.0	5.0	4526.0	7.0
+14	116.0	4594.0	6.0	21.0
+15	2821.0	411.0	8.0	1497.0
+16	3392.0	296.0	713.0	336.0
+17	523.0	2430.0	191.0	1593.0
+18	2535.0	354.0	1409.0	439.0
+19	1815.0	1284.0	770.0	868.0
+20	2231.0	447.0	345.0	1714.0
+21	1996.0	379.0	351.0	2011.0
+XX
+CC tax_group:insects
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:17705839
+CC uniprot_ids:P08970
+CC data_type:ChIP-chip
+XX
+//
+AC MA0237.2
+XX
+ID pan
+XX
+DE MA0237.2 pan ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	34.0	37.0
+02	0.0	71.0	0.0	0.0
+03	0.0	0.0	71.0	0.0
+04	0.0	20.0	40.0	11.0
+05	7.0	43.0	3.0	18.0
+06	11.0	10.0	19.0	31.0
+07	7.0	40.0	0.0	24.0
+08	0.0	30.0	15.0	26.0
+09	0.0	0.0	0.0	71.0
+10	0.0	0.0	0.0	71.0
+11	0.0	0.0	11.0	60.0
+12	11.0	9.0	41.0	10.0
+13	34.0	0.0	21.0	16.0
+14	22.0	0.0	0.0	49.0
+XX
+CC tax_group:insects
+CC tf_family:High Mobility Group box (HMG)
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:9118222
+CC uniprot_ids:Q8IMA8
+CC data_type:ChIP-chip
+XX
+//
+AC MA0535.1
+XX
+ID Mad
+XX
+DE MA0535.1 Mad ; From JASPAR
+PO	A	C	G	T
+01	0.0	48.0	47.0	7.0
+02	35.0	26.0	13.0	28.0
+03	0.0	14.0	88.0	0.0
+04	35.0	0.0	56.0	11.0
+05	0.0	102.0	0.0	0.0
+06	0.0	0.0	102.0	0.0
+07	23.0	65.0	0.0	14.0
+08	0.0	71.0	31.0	0.0
+09	29.0	0.0	73.0	0.0
+10	29.0	39.0	34.0	0.0
+11	11.0	53.0	25.0	13.0
+12	29.0	0.0	73.0	0.0
+13	12.0	48.0	27.0	15.0
+14	32.0	34.0	16.0	20.0
+15	11.0	28.0	63.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:SMAD factors
+CC tf_class:SMAD/NF-1 DNA-binding domain factors
+CC pubmed_ids:15572468
+CC uniprot_ids:P42003
+CC data_type:ChIP-chip
+XX
+//
+AC MA0916.1
+XX
+ID Ets21C
+XX
+DE MA0916.1 Ets21C ; From JASPAR
+PO	A	C	G	T
+01	1.0	996.0	1.0	1.0
+02	1.0	997.0	1.0	1.0
+03	1.0	1.0	997.0	1.0
+04	1.0	1.0	997.0	1.0
+05	997.0	1.0	1.0	1.0
+06	897.0	1.0	1.0	101.0
+07	333.0	1.0	665.0	1.0
+08	1.0	286.0	1.0	712.0
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:21097781
+CC uniprot_ids:P29776
+CC data_type:PBM
+XX
+//
+AC MA0917.1
+XX
+ID gcm2
+XX
+DE MA0917.1 gcm2 ; From JASPAR
+PO	A	C	G	T
+01	730.0	111.0	159.0	0.0
+02	0.0	12.0	0.0	988.0
+03	235.0	24.0	741.0	0.0
+04	47.0	800.0	141.0	12.0
+05	71.0	0.0	753.0	177.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	0.0	1000.0	0.0
+08	56.0	352.0	93.0	500.0
+XX
+CC tax_group:insects
+CC tf_family:GCM
+CC tf_class:GCM domain factors
+CC pubmed_ids:9580683
+CC uniprot_ids:Q9VLA2
+CC data_type:PBM
+XX
+//
+AC MA0167.1
+XX
+ID Awh
+XX
+DE MA0167.1 Awh ; From JASPAR
+PO	A	C	G	T
+01	3.0	16.0	0.0	21.0
+02	1.0	0.0	0.0	39.0
+03	33.0	0.0	7.0	0.0
+04	40.0	0.0	0.0	0.0
+05	0.0	0.0	1.0	39.0
+06	0.0	0.0	8.0	32.0
+07	34.0	0.0	4.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q8IRC7
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0170.1
+XX
+ID C15
+XX
+DE MA0170.1 C15 ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	0.0	17.0
+02	0.0	0.0	0.0	19.0
+03	17.0	0.0	0.0	2.0
+04	19.0	0.0	0.0	0.0
+05	6.0	2.0	0.0	11.0
+06	0.0	3.0	6.0	10.0
+07	10.0	0.0	9.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q7KS72
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0171.1
+XX
+ID CG11085
+XX
+DE MA0171.1 CG11085 ; From JASPAR
+PO	A	C	G	T
+01	0.0	3.0	0.0	10.0
+02	0.0	0.0	0.0	13.0
+03	13.0	0.0	0.0	0.0
+04	13.0	0.0	0.0	0.0
+05	1.0	0.0	0.0	12.0
+06	2.0	1.0	2.0	8.0
+07	1.0	0.0	12.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VYL0
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0172.1
+XX
+ID CG11294
+XX
+DE MA0172.1 CG11294 ; From JASPAR
+PO	A	C	G	T
+01	0.0	3.0	0.0	12.0
+02	0.0	2.0	0.0	13.0
+03	15.0	0.0	0.0	0.0
+04	15.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	15.0
+06	0.0	0.0	0.0	15.0
+07	15.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W3C6
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0173.1
+XX
+ID CG11617
+XX
+DE MA0173.1 CG11617 ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	0.0	16.0
+02	0.0	0.0	0.0	17.0
+03	10.0	0.0	3.0	4.0
+04	17.0	0.0	0.0	0.0
+05	0.0	17.0	0.0	0.0
+06	17.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	17.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type HD
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VPL4
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0174.1
+XX
+ID Dbx
+XX
+DE MA0174.1 Dbx ; From JASPAR
+PO	A	C	G	T
+01	2.0	0.0	0.0	14.0
+02	2.0	0.0	0.0	14.0
+03	6.0	0.0	2.0	8.0
+04	16.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	16.0
+06	0.0	2.0	6.0	8.0
+07	13.0	0.0	3.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Homeo
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W064
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0175.1
+XX
+ID lms
+XX
+DE MA0175.1 lms ; From JASPAR
+PO	A	C	G	T
+01	2.0	7.0	1.0	11.0
+02	0.0	0.0	0.0	21.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	21.0
+06	3.0	0.0	4.0	14.0
+07	8.0	0.0	13.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q8MZ02
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0176.1
+XX
+ID CG15696
+XX
+DE MA0176.1 CG15696 ; From JASPAR
+PO	A	C	G	T
+01	2.0	3.0	3.0	24.0
+02	2.0	3.0	0.0	27.0
+03	21.0	0.0	6.0	5.0
+04	32.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	32.0
+06	0.0	0.0	2.0	30.0
+07	16.0	0.0	16.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VDH9
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0177.1
+XX
+ID CG18599
+XX
+DE MA0177.1 CG18599 ; From JASPAR
+PO	A	C	G	T
+01	4.0	10.0	1.0	10.0
+02	0.0	0.0	0.0	25.0
+03	25.0	0.0	0.0	0.0
+04	25.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	25.0
+06	0.0	1.0	8.0	16.0
+07	23.0	0.0	2.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VEA3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0178.1
+XX
+ID CG32105
+XX
+DE MA0178.1 CG32105 ; From JASPAR
+PO	A	C	G	T
+01	2.0	4.0	0.0	13.0
+02	2.0	0.0	0.0	17.0
+03	17.0	0.0	0.0	2.0
+04	19.0	0.0	0.0	0.0
+05	0.0	0.0	1.0	18.0
+06	0.0	0.0	1.0	18.0
+07	15.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VTW5
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0179.1
+XX
+ID CG32532
+XX
+DE MA0179.1 CG32532 ; From JASPAR
+PO	A	C	G	T
+01	2.0	6.0	2.0	13.0
+02	0.0	0.0	0.0	23.0
+03	23.0	0.0	0.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	23.0
+06	0.0	0.0	2.0	21.0
+07	12.0	0.0	10.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VWH1
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0182.1
+XX
+ID CG4328
+XX
+DE MA0182.1 CG4328 ; From JASPAR
+PO	A	C	G	T
+01	12.0	2.0	3.0	13.0
+02	7.0	1.0	0.0	22.0
+03	13.0	0.0	0.0	17.0
+04	30.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	30.0
+06	0.0	0.0	6.0	24.0
+07	15.0	0.0	15.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VTW3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0183.1
+XX
+ID HHEX
+XX
+DE MA0183.1 HHEX ; From JASPAR
+PO	A	C	G	T
+01	7.0	3.0	2.0	14.0
+02	0.0	7.0	0.0	19.0
+03	0.0	6.0	7.0	13.0
+04	21.0	0.0	2.0	3.0
+05	26.0	0.0	0.0	0.0
+06	0.0	3.0	3.0	20.0
+07	7.0	0.0	1.0	18.0
+08	22.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:Q9VDF0
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0187.1
+XX
+ID Dll
+XX
+DE MA0187.1 Dll ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	0.0	22.0
+02	22.0	0.0	1.0	0.0
+03	23.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	23.0
+05	3.0	0.0	3.0	17.0
+06	10.0	0.0	9.0	4.0
+07	1.0	12.0	4.0	6.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P20009
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0207.1
+XX
+ID achi
+XX
+DE MA0207.1 achi ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	23.0
+02	0.0	0.0	23.0	0.0
+03	23.0	0.0	0.0	0.0
+04	0.0	22.0	0.0	1.0
+05	23.0	0.0	0.0	0.0
+06	3.0	0.0	12.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:A1Z916
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0209.1
+XX
+ID ap
+XX
+DE MA0209.1 ap ; From JASPAR
+PO	A	C	G	T
+01	2.0	10.0	0.0	7.0
+02	1.0	0.0	0.0	18.0
+03	19.0	0.0	0.0	0.0
+04	19.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	19.0
+06	0.0	0.0	6.0	13.0
+07	16.0	0.0	3.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P29673
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0215.1
+XX
+ID btn
+XX
+DE MA0215.1 btn ; From JASPAR
+PO	A	C	G	T
+01	5.0	1.0	4.0	13.0
+02	0.0	0.0	0.0	23.0
+03	22.0	0.0	1.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	1.0	0.0	22.0
+06	0.0	0.0	15.0	8.0
+07	19.0	0.0	3.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9U984
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0224.1
+XX
+ID exex
+XX
+DE MA0224.1 exex ; From JASPAR
+PO	A	C	G	T
+01	0.0	7.0	10.0	6.0
+02	0.0	0.0	0.0	23.0
+03	23.0	0.0	0.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	23.0
+06	1.0	1.0	0.0	21.0
+07	20.0	0.0	3.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:Q9VSC2
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0226.1
+XX
+ID hbn
+XX
+DE MA0226.1 hbn ; From JASPAR
+PO	A	C	G	T
+01	2.0	2.0	2.0	11.0
+02	0.0	0.0	0.0	17.0
+03	17.0	0.0	0.0	0.0
+04	17.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	17.0
+06	0.0	0.0	0.0	17.0
+07	9.0	0.0	7.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W2P8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0228.1
+XX
+ID ind
+XX
+DE MA0228.1 ind ; From JASPAR
+PO	A	C	G	T
+01	0.0	12.0	0.0	9.0
+02	0.0	0.0	0.0	21.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	0.0	0.0	1.0	20.0
+06	0.0	0.0	8.0	13.0
+07	19.0	0.0	2.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O96620
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0231.1
+XX
+ID lbe
+XX
+DE MA0231.1 lbe ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	22.0
+02	22.0	0.0	0.0	0.0
+03	22.0	0.0	0.0	0.0
+04	1.0	10.0	2.0	9.0
+05	4.0	5.0	3.0	10.0
+06	19.0	0.0	3.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VDA1
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0232.1
+XX
+ID lbl
+XX
+DE MA0232.1 lbl ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	23.0
+02	23.0	0.0	0.0	0.0
+03	23.0	0.0	0.0	0.0
+04	0.0	5.0	0.0	18.0
+05	1.0	3.0	7.0	12.0
+06	17.0	0.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P91626
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0233.1
+XX
+ID mirr
+XX
+DE MA0233.1 mirr ; From JASPAR
+PO	A	C	G	T
+01	20.0	1.0	1.0	19.0
+02	29.0	0.0	2.0	10.0
+03	41.0	0.0	0.0	0.0
+04	0.0	41.0	0.0	0.0
+05	41.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type HD
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:O01667
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0240.1
+XX
+ID repo
+XX
+DE MA0240.1 repo ; From JASPAR
+PO	A	C	G	T
+01	1.0	4.0	4.0	19.0
+02	1.0	0.0	0.0	27.0
+03	27.0	0.0	0.0	1.0
+04	28.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	28.0
+06	0.0	0.0	0.0	28.0
+07	21.0	0.0	7.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24477
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0241.1
+XX
+ID ro
+XX
+DE MA0241.1 ro ; From JASPAR
+PO	A	C	G	T
+01	1.0	12.0	3.0	7.0
+02	0.0	0.0	0.0	23.0
+03	23.0	0.0	0.0	0.0
+04	23.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	23.0
+06	0.0	0.0	3.0	20.0
+07	19.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P10181
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0251.1
+XX
+ID unpg
+XX
+DE MA0251.1 unpg ; From JASPAR
+PO	A	C	G	T
+01	1.0	6.0	4.0	10.0
+02	1.0	0.0	0.0	20.0
+03	21.0	0.0	0.0	0.0
+04	21.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	21.0
+06	0.0	0.0	2.0	19.0
+07	14.0	0.0	7.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q4V5A3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0256.1
+XX
+ID zen
+XX
+DE MA0256.1 zen ; From JASPAR
+PO	A	C	G	T
+01	2.0	9.0	0.0	5.0
+02	0.0	0.0	0.0	16.0
+03	16.0	0.0	0.0	0.0
+04	16.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	16.0
+06	0.0	0.0	11.0	5.0
+07	16.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P09089
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0444.1
+XX
+ID CG34031
+XX
+DE MA0444.1 CG34031 ; From JASPAR
+PO	A	C	G	T
+01	0.0	1.0	1.0	23.0
+02	0.0	0.0	0.0	25.0
+03	22.0	0.0	0.0	3.0
+04	25.0	0.0	0.0	0.0
+05	2.0	0.0	0.0	23.0
+06	7.0	0.0	1.0	17.0
+07	3.0	0.0	22.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:M9NDG6
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0445.1
+XX
+ID D
+XX
+DE MA0445.1 D ; From JASPAR
+PO	A	C	G	T
+01	1.0	8.0	7.0	13.0
+02	0.0	25.0	0.0	4.0
+03	0.0	17.0	0.0	12.0
+04	20.0	0.0	0.0	9.0
+05	0.0	0.0	0.0	29.0
+06	0.0	0.0	3.0	26.0
+07	2.0	0.0	27.0	0.0
+08	0.0	0.0	0.0	29.0
+09	1.0	2.0	4.0	22.0
+10	4.0	10.0	6.0	9.0
+11	6.0	1.0	1.0	21.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24533
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0447.1
+XX
+ID gt
+XX
+DE MA0447.1 gt ; From JASPAR
+PO	A	C	G	T
+01	28.0	5.0	25.0	2.0
+02	0.0	0.0	0.0	60.0
+03	1.0	1.0	3.0	55.0
+04	54.0	0.0	6.0	0.0
+05	0.0	53.0	0.0	7.0
+06	7.0	0.0	53.0	0.0
+07	0.0	6.0	0.0	54.0
+08	55.0	3.0	1.0	1.0
+09	60.0	0.0	0.0	0.0
+10	2.0	25.0	5.0	28.0
+XX
+CC tax_group:insects
+CC tf_family:CEBP-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:18332042
+CC uniprot_ids:P39572
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0450.1
+XX
+ID hkb
+XX
+DE MA0450.1 hkb ; From JASPAR
+PO	A	C	G	T
+01	3.0	0.0	18.0	11.0
+02	8.0	0.0	24.0	0.0
+03	0.0	0.0	32.0	0.0
+04	0.0	0.0	32.0	0.0
+05	0.0	32.0	0.0	0.0
+06	0.0	0.0	32.0	0.0
+07	0.0	0.0	3.0	29.0
+08	0.0	0.0	31.0	1.0
+09	24.0	3.0	2.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VN10
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0459.1
+XX
+ID tll
+XX
+DE MA0459.1 tll ; From JASPAR
+PO	A	C	G	T
+01	20.0	4.0	4.0	5.0
+02	29.0	0.0	4.0	0.0
+03	33.0	0.0	0.0	0.0
+04	31.0	1.0	1.0	0.0
+05	0.0	0.0	33.0	0.0
+06	0.0	2.0	0.0	31.0
+07	0.0	33.0	0.0	0.0
+08	33.0	0.0	0.0	0.0
+09	31.0	0.0	1.0	1.0
+10	17.0	10.0	2.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:18332042
+CC uniprot_ids:P18102
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0534.1
+XX
+ID EcR::usp
+XX
+DE MA0534.1 EcR::usp ; From JASPAR
+PO	A	C	G	T
+01	29.0	36.0	39.0	0.0
+02	60.0	12.0	32.0	0.0
+03	19.0	10.0	75.0	0.0
+04	5.0	3.0	35.0	61.0
+05	9.0	0.0	0.0	95.0
+06	12.0	66.0	0.0	26.0
+07	74.0	0.0	30.0	0.0
+08	34.0	11.0	5.0	54.0
+09	0.0	0.0	0.0	104.0
+10	0.0	0.0	104.0	0.0
+11	66.0	33.0	0.0	5.0
+12	49.0	55.0	0.0	0.0
+13	21.0	57.0	0.0	26.0
+14	0.0	34.0	0.0	70.0
+15	24.0	28.0	0.0	52.0
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1); RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers; Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:8649409
+CC uniprot_ids:P20153; P34021
+CC data_type:ChIP-seq
+XX
+//
+AC MA1700.1
+XX
+ID Clamp
+XX
+DE MA1700.1 Clamp ; From JASPAR
+PO	A	C	G	T
+01	332.0	250.0	1888.0	181.0
+02	1071.0	455.0	378.0	747.0
+03	189.0	175.0	2178.0	109.0
+04	713.0	1322.0	354.0	262.0
+05	74.0	29.0	2532.0	16.0
+06	2510.0	32.0	43.0	66.0
+07	62.0	11.0	2562.0	16.0
+08	325.0	1998.0	174.0	154.0
+09	31.0	12.0	2600.0	8.0
+10	2451.0	28.0	155.0	17.0
+11	71.0	36.0	2517.0	27.0
+12	2038.0	332.0	118.0	163.0
+13	234.0	502.0	1515.0	400.0
+14	1251.0	327.0	960.0	113.0
+XX
+CC tax_group:insects
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:23873939
+CC uniprot_ids:Q8IGP5
+CC data_type:ChIP-seq
+XX
+//
+AC MA2107.1
+XX
+ID cg
+XX
+DE MA2107.1 cg ; From JASPAR
+PO	A	C	G	T
+01	27181.0	3205.0	4214.0	3438.0
+02	2844.0	26173.0	2798.0	6223.0
+03	36944.0	333.0	119.0	642.0
+04	64.0	36502.0	385.0	1087.0
+05	36651.0	421.0	183.0	783.0
+06	102.0	35361.0	543.0	2032.0
+07	36748.0	387.0	184.0	719.0
+08	86.0	36057.0	909.0	986.0
+09	36502.0	302.0	312.0	922.0
+10	2722.0	24589.0	3758.0	6969.0
+11	27111.0	2630.0	4623.0	3674.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:35676368
+CC uniprot_ids:Q7KHK4
+CC data_type:
+XX
+//
+AC MA2108.1
+XX
+ID sqz
+XX
+DE MA2108.1 sqz ; From JASPAR
+PO	A	C	G	T
+01	22984.0	0.0	0.0	0.0
+02	22984.0	0.0	0.0	0.0
+03	22984.0	0.0	0.0	0.0
+04	22984.0	0.0	0.0	0.0
+05	22984.0	0.0	0.0	0.0
+06	22984.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VDZ3
+CC data_type:
+XX
+//
+AC MA2188.1
+XX
+ID acj6
+XX
+DE MA2188.1 acj6 ; From JASPAR
+PO	A	C	G	T
+01	155.639431616341	599.689165186501	133.436944937833	111.234458259325
+02	63.6104060913706	0.158629441624365	16.0215736040609	920.209390862944
+03	701.064382139148	220.794392523364	39.0706126687435	39.0706126687435
+04	937.931885488648	49.4817374136229	12.4629812438302	0.123395853899309
+05	0.123395853899309	0.123395853899309	0.123395853899309	999.629812438302
+06	12.4629812438302	0.123395853899309	111.179664363277	876.233958538993
+07	973.987698616094	0.128139415684264	0.128139415684264	25.7560225525372
+08	882.911392405063	33.4776815456362	33.4776815456362	50.1332445036642
+XX
+CC tax_group:insects
+CC tf_family:POU domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19828808
+CC uniprot_ids:P24350
+CC data_type:PBM
+XX
+//
+AC MA2189.1
+XX
+ID Adf1
+XX
+DE MA2189.1 Adf1 ; From JASPAR
+PO	A	C	G	T
+01	142.85714285714	857.14285714286	0.0	0.0
+02	0.0	0.0	1000.0	0.0
+03	714.28571428571	0.0	285.71428571429	0.0
+04	0.0	857.14285714286	0.0	142.85714285714
+05	0.0	571.42857142857	0.0	428.57142857143
+06	0.0	0.0	1000.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	285.71428571429	0.0	714.28571428571	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P05552
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2190.1
+XX
+ID Aef1
+XX
+DE MA2190.1 Aef1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	1000.0	0.0	0.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	666.66666666667	0.0	0.0	333.33333333333
+06	1000.0	0.0	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	666.66666666667	0.0	0.0	333.33333333333
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:7959011
+CC uniprot_ids:P39413
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2191.1
+XX
+ID amos
+XX
+DE MA2191.1 amos ; From JASPAR
+PO	A	C	G	T
+01	475.982532751092	113.53711790393	397.379912663755	13.1004366812227
+02	682.5	45.0	185.0	87.5
+03	0.0	1000.0	0.0	0.0
+04	985.221674876847	2.46305418719212	12.3152709359606	0.0
+05	11.1464968152866	52.5477707006369	636.942675159236	299.363057324841
+06	302.588996763754	647.249190938511	50.1618122977346	0.0
+07	38.2775119617225	0.0	4.78468899521531	956.937799043062
+08	26.3157894736842	0.0	956.937799043062	16.7464114832536
+09	115.288220551378	137.844611528822	125.31328320802	621.553884711779
+10	30.8370044052863	354.625550660793	90.3083700440529	524.229074889868
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9Y0A7
+CC data_type:SELEX
+XX
+//
+AC MA2192.1
+XX
+ID Atf-2
+XX
+DE MA2192.1 Atf-2 ; From JASPAR
+PO	A	C	G	T
+01	125.0	0.0	625.0	250.0
+02	1000.0	0.0	0.0	0.0
+03	0.0	125.0	0.0	875.0
+04	0.0	0.0	1000.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	0.0	0.0	875.0	125.0
+08	125.0	0.0	0.0	875.0
+09	0.0	500.0	500.0	0.0
+10	875.0	0.0	125.0	0.0
+11	0.0	375.0	0.0	625.0
+XX
+CC tax_group:insects
+CC tf_family:Jun-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q2PE13
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2193.1
+XX
+ID Atf3
+XX
+DE MA2193.1 Atf3 ; From JASPAR
+PO	A	C	G	T
+01	422.0	89.0	427.0	60.0
+02	0.0	7.0	0.0	992.0
+03	23.0	56.0	695.0	224.0
+04	937.0	0.0	39.0	23.0
+05	0.0	821.0	0.0	178.0
+06	192.0	0.0	807.0	0.0
+07	10.0	40.0	0.0	948.0
+08	268.0	675.0	52.0	3.0
+09	978.0	7.0	14.0	0.0
+10	38.0	439.0	112.0	409.0
+XX
+CC tax_group:insects
+CC tf_family:Fos-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:20023169
+CC uniprot_ids:Q9XZS8
+CC data_type:SELEX
+XX
+//
+AC MA2194.1
+XX
+ID Atf6
+XX
+DE MA2194.1 Atf6 ; From JASPAR
+PO	A	C	G	T
+01	104.0	175.0	113.0	607.0
+02	74.0	65.0	805.0	53.0
+03	514.0	137.0	336.0	11.0
+04	0.0	4.0	0.0	995.0
+05	0.0	1.0	981.0	16.0
+06	995.0	2.0	1.0	0.0
+07	0.0	997.0	2.0	0.0
+08	0.0	0.0	1000.0	0.0
+09	0.0	0.0	0.0	999.0
+10	10.0	61.0	923.0	4.0
+11	2.0	0.0	698.0	297.0
+12	12.0	966.0	5.0	15.0
+13	729.0	33.0	164.0	72.0
+XX
+CC tax_group:insects
+CC tf_family:Jun-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q8SX87
+CC data_type:SELEX
+XX
+//
+AC MA2195.1
+XX
+ID ato
+XX
+DE MA2195.1 ato ; From JASPAR
+PO	A	C	G	T
+01	368.42105263158	473.68421052632	157.89473684211	0.0
+02	0.0	1000.0	0.0	0.0
+03	947.36842105263	0.0	52.631578947368	0.0
+04	0.0	526.31578947368	52.631578947368	421.05263157895
+05	368.42105263158	631.57894736842	0.0	0.0
+06	52.631578947368	0.0	0.0	947.36842105263
+07	0.0	0.0	1000.0	0.0
+08	315.78947368421	368.42105263158	157.89473684211	157.89473684211
+09	157.89473684211	736.84210526316	52.631578947368	52.631578947368
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:8324823
+CC uniprot_ids:P48987
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2196.1
+XX
+ID bigmax
+XX
+DE MA2196.1 bigmax ; From JASPAR
+PO	A	C	G	T
+01	302.0	39.0	467.0	189.0
+02	648.0	10.0	265.0	74.0
+03	8.0	39.0	106.0	845.0
+04	20.0	978.0	0.0	0.0
+05	976.0	0.0	23.0	0.0
+06	3.0	991.0	0.0	5.0
+07	17.0	4.0	942.0	36.0
+08	10.0	0.0	24.0	964.0
+09	9.0	0.0	984.0	5.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VB47
+CC data_type:SELEX
+XX
+//
+AC MA2197.1
+XX
+ID bin
+XX
+DE MA2197.1 bin ; From JASPAR
+PO	A	C	G	T
+01	450.0	0.0	500.0	50.0
+02	0.0	0.0	0.0	1000.0
+03	1000.0	0.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	950.0	0.0	0.0	50.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VS05
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2198.1
+XX
+ID Blimp-1
+XX
+DE MA2198.1 Blimp-1 ; From JASPAR
+PO	A	C	G	T
+01	117.0	559.0	76.0	246.0
+02	751.0	140.0	95.0	12.0
+03	19.0	940.0	25.0	14.0
+04	9.0	47.0	19.0	923.0
+05	32.0	155.0	15.0	796.0
+06	46.0	29.0	41.0	882.0
+07	0.0	889.0	5.0	104.0
+08	592.0	160.0	183.0	63.0
+09	125.0	610.0	102.0	161.0
+10	78.0	217.0	58.0	646.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:30082278
+CC uniprot_ids:M9PBR0
+CC data_type:SELEX
+XX
+//
+AC MA2199.1
+XX
+ID bowl
+XX
+DE MA2199.1 bowl ; From JASPAR
+PO	A	C	G	T
+01	272.72727272727	0.0	727.27272727273	0.0
+02	0.0	1000.0	0.0	0.0
+03	0.0	0.0	0.0	1000.0
+04	500.0	83.333333333333	0.0	416.66666666667
+05	0.0	1000.0	0.0	0.0
+06	0.0	333.33333333333	83.333333333333	583.33333333333
+07	0.0	0.0	1000.0	0.0
+08	0.0	0.0	636.36363636364	363.63636363636
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VQU9
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2200.1
+XX
+ID bs
+XX
+DE MA2200.1 bs ; From JASPAR
+PO	A	C	G	T
+01	4.0	995.0	0.0	0.0
+02	0.0	998.0	1.0	0.0
+03	632.0	104.0	115.0	146.0
+04	11.0	0.0	0.0	988.0
+05	999.0	0.0	0.0	0.0
+06	179.0	314.0	12.0	492.0
+07	951.0	0.0	0.0	48.0
+08	248.0	4.0	0.0	747.0
+09	0.0	0.0	998.0	0.0
+10	0.0	0.0	1000.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Responders to external signals (SRF/RLM1)
+CC tf_class:MADS box factors
+CC pubmed_ids:11322877
+CC uniprot_ids:Q24535
+CC data_type:SELEX
+XX
+//
+AC MA2201.1
+XX
+ID Bteb2
+XX
+DE MA2201.1 Bteb2 ; From JASPAR
+PO	A	C	G	T
+01	124.793661274348	30.0429184549356	467.040827555849	378.122592714867
+02	693.407384552093	51.0130618121979	79.9136069114471	175.665946724262
+03	84.9487465746473	424.743732873237	9.54024155079671	480.767279001319
+04	952.933333333333	44.0	2.26666666666667	0.8
+05	0.7627765064836	997.520976353928	0.0	1.7162471395881
+06	13.8613861386139	0.0	972.153465346535	13.9851485148515
+07	0.0	997.516239969431	1.1463507833397	1.33740924722965
+08	0.0	996.77664012135	1.51687523701176	1.70648464163823
+09	0.0	986.003404577265	0.0	13.996595422735
+10	195.534290271132	789.952153110048	2.5518341307815	11.9617224880383
+11	6.79694137638063	660.436137071651	21.523647691872	311.243273860096
+12	126.578617564832	120.215945242456	28.3428130723995	724.862624120312
+13	183.540400035245	128.910036126531	134.108732046876	553.440831791347
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q0IGQ2
+CC data_type:SELEX
+XX
+//
+AC MA2202.1
+XX
+ID byn
+XX
+DE MA2202.1 byn ; From JASPAR
+PO	A	C	G	T
+01	695.0	32.0	169.0	102.0
+02	105.0	131.0	606.0	156.0
+03	24.0	12.0	950.0	12.0
+04	0.0	59.0	3.0	937.0
+05	1.0	1.0	996.0	0.0
+06	27.0	291.0	21.0	658.0
+07	19.0	50.0	845.0	84.0
+08	962.0	3.0	24.0	10.0
+09	566.0	111.0	129.0	192.0
+XX
+CC tax_group:insects
+CC tf_family:Brachyury-related factors
+CC tf_class:T-Box factors
+CC pubmed_ids:11850413
+CC uniprot_ids:P55965
+CC data_type:SELEX
+XX
+//
+AC MA2203.1
+XX
+ID CG12605
+XX
+DE MA2203.1 CG12605 ; From JASPAR
+PO	A	C	G	T
+01	136.36363636364	727.27272727273	90.909090909091	45.454545454545
+02	1000.0	0.0	0.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	909.09090909091	0.0	90.909090909091
+05	0.0	0.0	0.0	1000.0
+06	0.0	0.0	1000.0	0.0
+07	45.454545454545	0.0	0.0	954.54545454545
+08	136.36363636364	0.0	227.27272727273	636.36363636364
+09	90.909090909091	45.454545454545	863.63636363636	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q29R14
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2204.1
+XX
+ID CG4360
+XX
+DE MA2204.1 CG4360 ; From JASPAR
+PO	A	C	G	T
+01	625.0	375.0	0.0	0.0
+02	0.0	1000.0	0.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	875.0	0.0	125.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	125.0	875.0	0.0	0.0
+09	875.0	0.0	0.0	125.0
+10	875.0	0.0	0.0	125.0
+11	250.0	375.0	375.0	0.0
+12	375.0	625.0	0.0	0.0
+13	0.0	625.0	375.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VDN4
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2205.1
+XX
+ID CG7928
+XX
+DE MA2205.1 CG7928 ; From JASPAR
+PO	A	C	G	T
+01	22.0	298.0	166.0	512.0
+02	7.0	586.0	366.0	39.0
+03	0.0	975.0	0.0	24.0
+04	895.0	3.0	98.0	1.0
+05	212.0	170.0	243.0	372.0
+06	0.0	997.0	0.0	2.0
+07	0.0	1000.0	0.0	0.0
+08	0.0	1000.0	0.0	0.0
+09	0.0	8.0	0.0	991.0
+10	33.0	78.0	885.0	1.0
+11	65.0	33.0	887.0	13.0
+12	131.0	208.0	44.0	614.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VAB8
+CC data_type:SELEX
+XX
+//
+AC MA2206.1
+XX
+ID CHES-1-like
+XX
+DE MA2206.1 CHES-1-like ; From JASPAR
+PO	A	C	G	T
+01	159.0	172.0	77.0	590.0
+02	279.0	7.0	710.0	3.0
+03	7.0	29.0	2.0	959.0
+04	941.0	55.0	1.0	1.0
+05	920.0	34.0	1.0	43.0
+06	989.0	0.0	1.0	8.0
+07	0.0	983.0	0.0	16.0
+08	989.0	2.0	3.0	4.0
+09	919.0	11.0	18.0	50.0
+10	587.0	69.0	21.0	320.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:22378636
+CC uniprot_ids:Q9W3Q5
+CC data_type:SELEX
+XX
+//
+AC MA2207.1
+XX
+ID ci
+XX
+DE MA2207.1 ci ; From JASPAR
+PO	A	C	G	T
+01	545.45454545455	0.0	363.63636363636	90.909090909091
+02	0.0	0.0	1000.0	0.0
+03	727.27272727273	272.72727272727	0.0	0.0
+04	181.81818181818	818.18181818182	0.0	0.0
+05	90.909090909091	909.09090909091	0.0	0.0
+06	727.27272727273	181.81818181818	0.0	90.909090909091
+07	0.0	909.09090909091	0.0	90.909090909091
+08	272.72727272727	727.27272727273	0.0	0.0
+09	0.0	1000.0	0.0	0.0
+10	909.09090909091	0.0	90.909090909091	0.0
+11	0.0	818.18181818182	181.81818181818	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P19538
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2208.1
+XX
+ID crc
+XX
+DE MA2208.1 crc ; From JASPAR
+PO	A	C	G	T
+01	117.64705882353	58.823529411765	588.23529411765	235.29411764706
+02	294.11764705882	352.94117647059	352.94117647059	0.0
+03	0.0	0.0	0.0	1000.0
+04	0.0	0.0	823.52941176471	176.47058823529
+05	941.17647058824	0.0	0.0	58.823529411765
+06	0.0	529.41176470588	0.0	470.58823529412
+07	0.0	0.0	1000.0	0.0
+08	0.0	235.29411764706	0.0	764.70588235294
+09	1000.0	0.0	0.0	0.0
+10	1000.0	0.0	0.0	0.0
+11	0.0	117.64705882353	176.47058823529	705.88235294118
+XX
+CC tax_group:insects
+CC tf_family:ATF-4-related factors
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VID3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2209.1
+XX
+ID CrebA
+XX
+DE MA2209.1 CrebA ; From JASPAR
+PO	A	C	G	T
+01	80.4347826086956	123.913043478261	111.594202898551	684.057971014493
+02	51.9357884796978	10.3871576959396	891.406987724268	46.2700661000944
+03	165.22491349481	816.608996539792	7.78546712802768	10.3806228373702
+04	69.2102928127773	837.622005323869	36.379769299024	56.7879325643301
+05	992.639327024185	2.10304942166141	4.20609884332282	1.0515247108307
+06	2.10970464135021	995.7805907173	1.05485232067511	1.05485232067511
+07	4.21496311907271	0.0	994.731296101159	1.05374077976818
+08	1.04275286757039	8.34202294056309	6.25651720542232	984.358706986444
+09	58.7188612099644	31.1387900355872	839.857651245552	70.2846975088968
+10	13.663535439795	5.97779675491033	806.148590947908	174.210076857387
+11	37.6293508936971	888.052681091251	11.2888052681091	63.0291627469426
+12	682.080924855491	111.271676300578	122.109826589595	84.5375722543353
+XX
+CC tax_group:insects
+CC tf_family:CREB-related factors
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:21097781
+CC uniprot_ids:P29747
+CC data_type:SELEX
+XX
+//
+AC MA2210.1
+XX
+ID CrebB
+XX
+DE MA2210.1 CrebB ; From JASPAR
+PO	A	C	G	T
+01	442.199488491049	111.253196930946	397.442455242967	49.1048593350384
+02	6.84931506849315	12.5074449076831	2.97796307325789	977.665276950566
+03	2.78128950695322	7.33249051833123	830.088495575221	159.797724399494
+04	986.182036647642	4.20546710723941	1.80234304595975	7.81015319915891
+05	3.30628193567779	986.774872257289	1.50285542530809	8.41599038172528
+06	8.1203007518797	3.60902255639098	987.368421052632	0.902255639097744
+07	8.36820083682008	7.47160789001793	2.98864315600717	981.171548117155
+08	152.685421994885	839.641943734015	5.62659846547315	2.0460358056266
+09	981.464872944694	5.08221225710015	10.1644245142003	3.28849028400598
+10	42.8534770336156	396.715422119579	114.703618167821	445.727482678984
+XX
+CC tax_group:insects
+CC tf_family:CREB-related factors
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:7651429
+CC uniprot_ids:Q9VWW0
+CC data_type:SELEX
+XX
+//
+AC MA2211.1
+XX
+ID croc
+XX
+DE MA2211.1 croc ; From JASPAR
+PO	A	C	G	T
+01	305.0	146.0	29.0	518.0
+02	691.0	54.0	213.0	41.0
+03	46.0	660.0	72.0	220.0
+04	185.0	8.0	806.0	0.0
+05	61.0	36.0	5.0	896.0
+06	515.0	479.0	1.0	3.0
+07	919.0	68.0	0.0	11.0
+08	958.0	7.0	23.0	9.0
+09	0.0	899.0	0.0	100.0
+10	959.0	2.0	31.0	7.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:7489720
+CC uniprot_ids:P32027
+CC data_type:SELEX
+XX
+//
+AC MA2212.1
+XX
+ID dar1
+XX
+DE MA2212.1 dar1 ; From JASPAR
+PO	A	C	G	T
+01	250.0	0.0	750.0	0.0
+02	200.0	700.0	100.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	800.0	100.0	100.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	850.0	0.0	100.0	50.0
+07	0.0	1000.0	0.0	0.0
+08	0.0	1000.0	0.0	0.0
+09	0.0	1000.0	0.0	0.0
+10	650.0	150.0	0.0	200.0
+11	200.0	550.0	50.0	200.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:30188612
+CC uniprot_ids:Q9VZN4
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2213.1
+XX
+ID Dif
+XX
+DE MA2213.1 Dif ; From JASPAR
+PO	A	C	G	T
+01	7.0	0.0	977.0	15.0
+02	3.0	0.0	994.0	1.0
+03	181.0	0.0	798.0	19.0
+04	914.0	2.0	46.0	37.0
+05	621.0	1.0	3.0	374.0
+06	342.0	1.0	2.0	652.0
+07	31.0	34.0	3.0	930.0
+08	10.0	811.0	0.0	178.0
+09	1.0	995.0	1.0	2.0
+10	20.0	973.0	2.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:NF-kappaB-related factors
+CC tf_class:Rel homology region (RHR) factors
+CC pubmed_ids:8242747
+CC uniprot_ids:P98149
+CC data_type:SELEX
+XX
+//
+AC MA2214.1
+XX
+ID dimm
+XX
+DE MA2214.1 dimm ; From JASPAR
+PO	A	C	G	T
+01	782.0	4.0	112.0	99.0
+02	161.0	814.0	24.0	0.0
+03	0.0	999.0	0.0	0.0
+04	998.0	0.0	1.0	0.0
+05	0.0	0.0	0.0	999.0
+06	999.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	998.0
+08	0.0	0.0	998.0	1.0
+09	0.0	22.0	821.0	154.0
+10	107.0	119.0	5.0	768.0
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:B6VQA1
+CC data_type:SELEX
+XX
+//
+AC MA2215.1
+XX
+ID dm
+XX
+DE MA2215.1 dm ; From JASPAR
+PO	A	C	G	T
+01	541.0	208.0	41.0	208.0
+02	0.0	833.0	125.0	41.0
+03	0.0	1000.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	0.0	958.0	0.0	41.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	0.0	1000.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:8929412
+CC uniprot_ids:Q9W4S7
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2216.1
+XX
+ID Doc2
+XX
+DE MA2216.1 Doc2 ; From JASPAR
+PO	A	C	G	T
+01	716.0	45.0	170.0	67.0
+02	102.0	121.0	708.0	67.0
+03	0.0	26.0	972.0	1.0
+04	3.0	200.0	4.0	792.0
+05	0.0	0.0	999.0	0.0
+06	21.0	153.0	11.0	814.0
+07	29.0	197.0	591.0	180.0
+08	881.0	43.0	58.0	16.0
+XX
+CC tax_group:insects
+CC tf_family:TBX6-related factors
+CC tf_class:T-Box factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VST2
+CC data_type:SELEX
+XX
+//
+AC MA2217.1
+XX
+ID dpn
+XX
+DE MA2217.1 dpn ; From JASPAR
+PO	A	C	G	T
+01	12.0	981.0	2.0	3.0
+02	928.0	10.0	23.0	37.0
+03	0.0	987.0	0.0	12.0
+04	74.0	4.0	920.0	1.0
+05	22.0	633.0	9.0	333.0
+06	9.0	5.0	925.0	59.0
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q26263
+CC data_type:SELEX
+XX
+//
+AC MA2218.1
+XX
+ID dsf
+XX
+DE MA2218.1 dsf ; From JASPAR
+PO	A	C	G	T
+01	782.0	43.0	86.0	86.0
+02	782.0	0.0	173.0	43.0
+03	1000.0	0.0	0.0	0.0
+04	956.0	0.0	0.0	43.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	913.0	0.0	86.0
+08	956.0	0.0	43.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:11977984
+CC uniprot_ids:Q9VML1
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2219.1
+XX
+ID E(spl)m3-HLH
+XX
+DE MA2219.1 E(spl)m3-HLH ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	954.54545454545	0.0	45.454545454545	0.0
+03	0.0	1000.0	0.0	0.0
+04	45.454545454545	0.0	954.54545454545	0.0
+05	45.454545454545	136.36363636364	0.0	818.18181818182
+06	0.0	0.0	1000.0	0.0
+07	136.36363636364	636.36363636364	136.36363636364	90.909090909091
+08	0.0	818.18181818182	0.0	181.81818181818
+09	681.81818181818	181.81818181818	45.454545454545	90.909090909091
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q01068
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2220.1
+XX
+ID E(spl)mbeta-HLH
+XX
+DE MA2220.1 E(spl)mbeta-HLH ; From JASPAR
+PO	A	C	G	T
+01	0.0	928.57142857143	0.0	71.428571428571
+02	437.5	0.0	562.5	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	0.0	1000.0	0.0
+07	62.5	812.5	125.0	0.0
+08	0.0	800.0	66.666666666667	133.33333333333
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q01069
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2221.1
+XX
+ID E(spl)mdelta-HLH
+XX
+DE MA2221.1 E(spl)mdelta-HLH ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	739.13043478261	0.0	260.86956521739	0.0
+03	0.0	1000.0	0.0	0.0
+04	43.478260869565	0.0	956.52173913043	0.0
+05	86.95652173913	130.4347826087	0.0	782.60869565217
+06	0.0	0.0	1000.0	0.0
+07	173.91304347826	565.21739130435	43.478260869565	217.39130434783
+08	0.0	913.04347826087	0.0	86.95652173913
+09	695.65217391304	86.95652173913	43.478260869565	173.91304347826
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q01071
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2222.1
+XX
+ID E(spl)mgamma-HLH
+XX
+DE MA2222.1 E(spl)mgamma-HLH ; From JASPAR
+PO	A	C	G	T
+01	47.619047619048	285.71428571429	666.66666666667	0.0
+02	0.0	1000.0	0.0	0.0
+03	916.66666666667	0.0	83.333333333333	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	41.666666666667	208.33333333333	0.0	750.0
+07	0.0	0.0	1000.0	0.0
+08	83.333333333333	833.33333333333	0.0	83.333333333333
+09	0.0	916.66666666667	0.0	83.333333333333
+10	695.65217391304	0.0	173.91304347826	130.4347826087
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q01070
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2223.1
+XX
+ID EcR
+XX
+DE MA2223.1 EcR ; From JASPAR
+PO	A	C	G	T
+01	500.0	0.0	500.0	0.0
+02	857.14285714286	0.0	142.85714285714	0.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	71.428571428571	928.57142857143	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	1000.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	357.14285714286	0.0	0.0	642.85714285714
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:8649409
+CC uniprot_ids:P34021
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2224.1
+XX
+ID Eip75B
+XX
+DE MA2224.1 Eip75B ; From JASPAR
+PO	A	C	G	T
+01	652.0	234.0	23.0	90.0
+02	361.0	2.0	9.0	626.0
+03	150.0	146.0	626.0	76.0
+04	3.0	9.0	17.0	969.0
+05	793.0	9.0	196.0	1.0
+06	2.0	0.0	982.0	14.0
+07	3.0	0.0	996.0	0.0
+08	8.0	20.0	29.0	941.0
+09	7.0	954.0	8.0	28.0
+10	971.0	0.0	25.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:21097781
+CC uniprot_ids:P13055
+CC data_type:SELEX
+XX
+//
+AC MA2225.1
+XX
+ID erm
+XX
+DE MA2225.1 erm ; From JASPAR
+PO	A	C	G	T
+01	303.0	6.0	621.0	69.0
+02	108.0	105.0	0.0	786.0
+03	0.0	3.0	0.0	996.0
+04	27.0	12.0	933.0	27.0
+05	72.0	759.0	45.0	123.0
+06	33.0	72.0	132.0	762.0
+07	9.0	975.0	9.0	6.0
+08	381.0	9.0	9.0	600.0
+09	12.0	168.0	3.0	816.0
+10	33.0	15.0	3.0	948.0
+11	21.0	48.0	9.0	921.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VQ56
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2226.1
+XX
+ID ERR
+XX
+DE MA2226.1 ERR ; From JASPAR
+PO	A	C	G	T
+01	291.66666666667	583.33333333333	125.0	0.0
+02	958.33333333333	0.0	0.0	41.666666666667
+03	1000.0	0.0	0.0	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	0.0	83.333333333333	916.66666666667
+07	0.0	875.0	0.0	125.0
+08	916.66666666667	0.0	83.333333333333	0.0
+XX
+CC tax_group:insects
+CC tf_family:Steroid hormone receptors (NR3)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:25779349
+CC uniprot_ids:Q8WS79
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2227.1
+XX
+ID esg
+XX
+DE MA2227.1 esg ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	1000.0	0.0	0.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	909.09090909091	0.0	90.909090909091
+05	0.0	0.0	0.0	1000.0
+06	0.0	0.0	1000.0	0.0
+07	181.81818181818	181.81818181818	0.0	636.36363636364
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:15590906
+CC uniprot_ids:P25932
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2228.1
+XX
+ID Ets65A
+XX
+DE MA2228.1 Ets65A ; From JASPAR
+PO	A	C	G	T
+01	105.26315789474	894.73684210526	0.0	0.0
+02	0.0	1000.0	0.0	0.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	1000.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	631.57894736842	0.0	368.42105263158	0.0
+08	0.0	421.05263157895	0.0	578.94736842105
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P29774
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2229.1
+XX
+ID Ets96B
+XX
+DE MA2229.1 Ets96B ; From JASPAR
+PO	A	C	G	T
+01	619.0	47.0	190.0	142.0
+02	0.0	1000.0	0.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	181.0	0.0	818.0	0.0
+09	45.0	318.0	0.0	636.0
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q8MRW5
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2230.1
+XX
+ID Ets97D
+XX
+DE MA2230.1 Ets97D ; From JASPAR
+PO	A	C	G	T
+01	809.52380952381	47.619047619048	95.238095238095	47.619047619048
+02	95.238095238095	809.52380952381	47.619047619048	47.619047619048
+03	47.619047619048	904.7619047619	47.619047619048	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	333.33333333333	0.0	666.66666666667	0.0
+09	95.238095238095	333.33333333333	0.0	571.42857142857
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:11175357
+CC uniprot_ids:Q04688
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2231.1
+XX
+ID Ets98B
+XX
+DE MA2231.1 Ets98B ; From JASPAR
+PO	A	C	G	T
+01	818.18181818182	181.81818181818	0.0	0.0
+02	90.909090909091	636.36363636364	181.81818181818	90.909090909091
+03	181.81818181818	818.18181818182	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	0.0	1000.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	272.72727272727	0.0	0.0	727.27272727273
+09	0.0	1000.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P29775
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2232.1
+XX
+ID fd59A
+XX
+DE MA2232.1 fd59A ; From JASPAR
+PO	A	C	G	T
+01	422.0	16.0	8.0	553.0
+02	786.0	16.0	169.0	27.0
+03	489.0	121.0	119.0	269.0
+04	498.0	18.0	471.0	11.0
+05	110.0	86.0	6.0	796.0
+06	930.0	63.0	1.0	4.0
+07	962.0	22.0	0.0	14.0
+08	987.0	2.0	5.0	3.0
+09	7.0	813.0	4.0	174.0
+10	926.0	6.0	21.0	45.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:14745961
+CC uniprot_ids:Q02361
+CC data_type:SELEX
+XX
+//
+AC MA2233.1
+XX
+ID Fer1
+XX
+DE MA2233.1 Fer1 ; From JASPAR
+PO	A	C	G	T
+01	529.41176470588	117.64705882353	58.823529411765	294.11764705882
+02	58.823529411765	647.05882352941	117.64705882353	176.47058823529
+03	352.94117647059	117.64705882353	470.58823529412	58.823529411765
+04	411.76470588235	352.94117647059	0.0	235.29411764706
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	176.47058823529	823.52941176471	0.0
+08	0.0	941.17647058824	58.823529411765	0.0
+09	0.0	0.0	0.0	1000.0
+10	0.0	0.0	1000.0	0.0
+11	1000.0	0.0	0.0	0.0
+12	0.0	941.17647058824	0.0	58.823529411765
+13	58.823529411765	0.0	882.35294117647	58.823529411765
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:A0A0B4KFD8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2234.1
+XX
+ID Fer2
+XX
+DE MA2234.1 Fer2 ; From JASPAR
+PO	A	C	G	T
+01	350.0	500.0	150.0	0.0
+02	0.0	1000.0	0.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	200.0	600.0	200.0
+05	100.0	550.0	350.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	0.0	1000.0	0.0
+08	850.0	0.0	0.0	150.0
+09	0.0	950.0	0.0	50.0
+10	450.0	0.0	500.0	50.0
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:35301315
+CC uniprot_ids:A0A0B4LH78
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2235.1
+XX
+ID FoxL1
+XX
+DE MA2235.1 FoxL1 ; From JASPAR
+PO	A	C	G	T
+01	150.0	0.0	200.0	650.0
+02	350.0	250.0	300.0	100.0
+03	200.0	150.0	0.0	650.0
+04	1000.0	0.0	0.0	0.0
+05	950.0	50.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	850.0	0.0	150.0
+08	1000.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:14745961
+CC uniprot_ids:Q02360
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2236.1
+XX
+ID foxo
+XX
+DE MA2236.1 foxo ; From JASPAR
+PO	A	C	G	T
+01	0.0	300.0	150.0	550.0
+02	150.0	600.0	150.0	100.0
+03	400.0	0.0	550.0	50.0
+04	400.0	0.0	0.0	600.0
+05	800.0	50.0	0.0	150.0
+06	800.0	200.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	0.0	900.0	0.0	100.0
+09	1000.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:31134124
+CC uniprot_ids:Q95V55
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2237.1
+XX
+ID FoxP
+XX
+DE MA2237.1 FoxP ; From JASPAR
+PO	A	C	G	T
+01	315.78947368421	263.15789473684	421.05263157895	0.0
+02	500.0	100.0	400.0	0.0
+03	47.619047619048	95.238095238095	0.0	857.14285714286
+04	1000.0	0.0	0.0	0.0
+05	952.38095238095	0.0	0.0	47.619047619048
+06	1000.0	0.0	0.0	0.0
+07	0.0	857.14285714286	0.0	142.85714285714
+08	1000.0	0.0	0.0	0.0
+09	714.28571428571	95.238095238095	0.0	190.47619047619
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:30753188
+CC uniprot_ids:A0A0B4K6N2
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2238.1
+XX
+ID GATAe
+XX
+DE MA2238.1 GATAe ; From JASPAR
+PO	A	C	G	T
+01	308.0	477.0	25.0	188.0
+02	0.0	0.0	1000.0	0.0
+03	999.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	999.0	0.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	24.0	421.0	504.0	49.0
+XX
+CC tax_group:insects
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VF00
+CC data_type:SELEX
+XX
+//
+AC MA2239.1
+XX
+ID gsb
+XX
+DE MA2239.1 gsb ; From JASPAR
+PO	A	C	G	T
+01	151.0	17.0	34.0	796.0
+02	988.0	6.0	5.0	0.0
+03	997.0	0.0	1.0	0.0
+04	1.0	1.0	2.0	994.0
+05	0.0	460.0	7.0	532.0
+06	17.0	8.0	974.0	0.0
+07	996.0	0.0	1.0	1.0
+08	0.0	2.0	0.0	997.0
+09	5.0	12.0	2.0	979.0
+10	752.0	35.0	21.0	190.0
+XX
+CC tax_group:insects
+CC tf_family:Paired plus homeo domain
+CC tf_class:Paired box factors
+CC pubmed_ids:2022185
+CC uniprot_ids:P09082
+CC data_type:SELEX
+XX
+//
+AC MA2240.1
+XX
+ID Hey
+XX
+DE MA2240.1 Hey ; From JASPAR
+PO	A	C	G	T
+01	0.0	999.0	0.0	0.0
+02	956.0	0.0	43.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	0.0	999.0	0.0
+05	0.0	41.0	0.0	958.0
+06	0.0	0.0	999.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q7KM13
+CC data_type:SELEX
+XX
+//
+AC MA2241.1
+XX
+ID HLH4C
+XX
+DE MA2241.1 HLH4C ; From JASPAR
+PO	A	C	G	T
+01	241.0	36.0	661.0	60.0
+02	42.0	621.0	195.0	141.0
+03	708.0	234.0	57.0	0.0
+04	50.0	421.0	145.0	382.0
+05	3.0	996.0	0.0	0.0
+06	998.0	0.0	1.0	0.0
+07	0.0	48.0	908.0	43.0
+08	71.0	850.0	76.0	1.0
+09	0.0	1.0	0.0	998.0
+10	0.0	0.0	998.0	1.0
+11	343.0	168.0	444.0	43.0
+12	7.0	48.0	244.0	699.0
+13	144.0	232.0	610.0	13.0
+14	111.0	615.0	25.0	247.0
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:M9PH26
+CC data_type:SELEX
+XX
+//
+AC MA2242.1
+XX
+ID Hnf4
+XX
+DE MA2242.1 Hnf4 ; From JASPAR
+PO	A	C	G	T
+01	458.438287153652	3.77833753148615	533.375314861461	4.4080604534005
+02	1.36798905608755	0.0	995.896032831737	2.7359781121751
+03	16.3934426229508	1.26103404791929	918.032786885246	64.312736443884
+04	35.828025477707	20.7006369426752	363.853503184713	579.617834394904
+05	0.0	950.391644908616	3.91644908616188	45.6919060052219
+06	956.636005256242	1.31406044678055	40.7358738501971	1.31406044678055
+07	994.497936726272	0.0	2.75103163686382	2.75103163686382
+08	981.132075471698	6.73854447439353	12.1293800539084	0.0
+09	6.7476383265857	10.7962213225371	982.456140350877	0.0
+10	16.5118679050568	5.15995872033024	751.289989680083	227.03818369453
+11	9.87654320987654	4.93827160493827	86.4197530864197	898.765432098765
+12	1.26422250316056	920.353982300885	6.32111251580278	72.0606826801517
+13	844.547563805104	1.16009280742459	149.651972157773	4.64037122969838
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:9234678
+CC uniprot_ids:P49866
+CC data_type:SELEX
+XX
+//
+AC MA2243.1
+XX
+ID Hr38
+XX
+DE MA2243.1 Hr38 ; From JASPAR
+PO	A	C	G	T
+01	791.0	2.0	103.0	102.0
+02	920.0	0.0	4.0	75.0
+03	995.0	0.0	3.0	1.0
+04	0.0	0.0	788.0	211.0
+05	9.0	0.0	976.0	14.0
+06	8.0	29.0	104.0	857.0
+07	2.0	867.0	13.0	116.0
+08	894.0	3.0	91.0	9.0
+XX
+CC tax_group:insects
+CC tf_family:NGFI-B-related receptors (NR4)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:29526770
+CC uniprot_ids:P49869
+CC data_type:SELEX
+XX
+//
+AC MA2244.1
+XX
+ID Hr39
+XX
+DE MA2244.1 Hr39 ; From JASPAR
+PO	A	C	G	T
+01	12.0	775.0	199.0	12.0
+02	992.0	0.0	7.0	0.0
+03	992.0	0.0	3.0	3.0
+04	0.0	2.0	811.0	186.0
+05	3.0	0.0	996.0	0.0
+06	136.0	181.0	13.0	668.0
+07	6.0	923.0	15.0	55.0
+08	638.0	0.0	352.0	8.0
+XX
+CC tax_group:insects
+CC tf_family:GCNF-related receptors (NR6)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:8164672
+CC uniprot_ids:Q05192
+CC data_type:SELEX
+XX
+//
+AC MA2245.1
+XX
+ID Hr78
+XX
+DE MA2245.1 Hr78 ; From JASPAR
+PO	A	C	G	T
+01	526.31578947368	157.89473684211	52.631578947368	263.15789473684
+02	368.42105263158	157.89473684211	421.05263157895	52.631578947368
+03	789.47368421053	52.631578947368	157.89473684211	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	52.631578947368	0.0	947.36842105263
+07	0.0	1000.0	0.0	0.0
+08	1000.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:7479849
+CC uniprot_ids:Q24142
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2246.1
+XX
+ID Jra
+XX
+DE MA2246.1 Jra ; From JASPAR
+PO	A	C	G	T
+01	581.0	232.0	139.0	46.0
+02	0.0	0.0	0.0	1000.0
+03	0.0	0.0	767.0	232.0
+04	1000.0	0.0	0.0	0.0
+05	93.0	418.0	488.0	0.0
+06	0.0	0.0	23.0	976.0
+07	0.0	1000.0	0.0	0.0
+08	1000.0	0.0	0.0	0.0
+09	0.0	558.0	23.0	418.0
+10	69.0	604.0	232.0	93.0
+XX
+CC tax_group:insects
+CC tf_family:Jun-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:15640802
+CC uniprot_ids:P18289
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2247.1
+XX
+ID Kah
+XX
+DE MA2247.1 Kah ; From JASPAR
+PO	A	C	G	T
+01	578.0	195.0	194.0	31.0
+02	104.0	872.0	10.0	12.0
+03	85.0	859.0	0.0	54.0
+04	986.0	8.0	3.0	0.0
+05	3.0	994.0	0.0	1.0
+06	5.0	933.0	3.0	57.0
+07	2.0	0.0	4.0	992.0
+08	8.0	4.0	986.0	0.0
+09	18.0	22.0	0.0	959.0
+10	146.0	50.0	73.0	729.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9W0P9
+CC data_type:SELEX
+XX
+//
+AC MA2248.1
+XX
+ID kay
+XX
+DE MA2248.1 kay ; From JASPAR
+PO	A	C	G	T
+01	65.0	108.0	596.0	228.0
+02	750.0	28.0	216.0	5.0
+03	14.0	4.0	0.0	981.0
+04	2.0	1.0	974.0	22.0
+05	965.0	10.0	16.0	8.0
+06	94.0	455.0	343.0	106.0
+07	0.0	0.0	7.0	992.0
+08	0.0	960.0	0.0	39.0
+09	990.0	0.0	0.0	9.0
+10	0.0	230.0	31.0	738.0
+11	169.0	593.0	130.0	106.0
+XX
+CC tax_group:insects
+CC tf_family:Fos-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:21097781
+CC uniprot_ids:P21525
+CC data_type:SELEX
+XX
+//
+AC MA2249.1
+XX
+ID ken
+XX
+DE MA2249.1 ken ; From JASPAR
+PO	A	C	G	T
+01	567.0	85.0	343.0	3.0
+02	11.0	985.0	0.0	3.0
+03	1.0	0.0	0.0	998.0
+04	1.0	1.0	3.0	992.0
+05	16.0	0.0	0.0	983.0
+06	11.0	988.0	0.0	0.0
+07	485.0	33.0	20.0	460.0
+08	42.0	871.0	1.0	83.0
+09	72.0	501.0	37.0	388.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16401426
+CC uniprot_ids:O77459
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2250.1
+XX
+ID klu
+XX
+DE MA2250.1 klu ; From JASPAR
+PO	A	C	G	T
+01	350.0	550.0	100.0	0.0
+02	0.0	1000.0	0.0	0.0
+03	900.0	0.0	0.0	100.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	950.0	0.0	50.0
+07	650.0	350.0	0.0	0.0
+08	0.0	1000.0	0.0	0.0
+09	450.0	0.0	500.0	50.0
+10	0.0	842.10526315789	0.0	157.89473684211
+11	666.66666666667	111.11111111111	111.11111111111	111.11111111111
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:M9PF84
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2251.1
+XX
+ID knrl
+XX
+DE MA2251.1 knrl ; From JASPAR
+PO	A	C	G	T
+01	736.84210526316	52.631578947368	52.631578947368	157.89473684211
+02	950.0	50.0	0.0	0.0
+03	900.0	0.0	50.0	50.0
+04	50.0	450.0	200.0	300.0
+05	0.0	100.0	0.0	900.0
+06	700.0	0.0	300.0	0.0
+07	0.0	0.0	1000.0	0.0
+08	350.0	0.0	550.0	100.0
+09	0.0	0.0	600.0	400.0
+10	0.0	1000.0	0.0	0.0
+11	800.0	0.0	200.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:25779349
+CC uniprot_ids:P13054
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2252.1
+XX
+ID lmd
+XX
+DE MA2252.1 lmd ; From JASPAR
+PO	A	C	G	T
+01	45.0	136.0	500.0	318.0
+02	590.0	227.0	181.0	0.0
+03	0.0	909.0	0.0	90.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	1000.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	0.0	1000.0	0.0	0.0
+08	45.0	727.0	0.0	227.0
+09	500.0	45.0	454.0	0.0
+10	0.0	818.0	181.0	0.0
+11	409.0	318.0	136.0	136.0
+12	142.0	47.0	714.0	95.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:23184988
+CC uniprot_ids:Q962I0
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2253.1
+XX
+ID luna
+XX
+DE MA2253.1 luna ; From JASPAR
+PO	A	C	G	T
+01	379.0	152.0	438.0	28.0
+02	133.0	757.0	49.0	60.0
+03	93.0	820.0	38.0	48.0
+04	706.0	199.0	54.0	39.0
+05	0.0	998.0	0.0	1.0
+06	350.0	13.0	608.0	26.0
+07	0.0	992.0	0.0	7.0
+08	34.0	936.0	14.0	14.0
+09	9.0	921.0	0.0	68.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q8MR37
+CC data_type:SELEX
+XX
+//
+AC MA2254.1
+XX
+ID lz
+XX
+DE MA2254.1 lz ; From JASPAR
+PO	A	C	G	T
+01	375.0	192.0	21.0	411.0
+02	652.0	91.0	203.0	52.0
+03	989.0	3.0	5.0	1.0
+04	1.0	993.0	2.0	1.0
+05	0.0	996.0	1.0	1.0
+06	224.0	2.0	764.0	7.0
+07	1.0	993.0	2.0	1.0
+08	940.0	6.0	41.0	10.0
+09	752.0	54.0	142.0	50.0
+XX
+CC tax_group:insects
+CC tf_family:Runt-related factors
+CC tf_class:Runt domain factors
+CC pubmed_ids:17418114
+CC uniprot_ids:Q9W349
+CC data_type:SELEX
+XX
+//
+AC MA2255.1
+XX
+ID Max
+XX
+DE MA2255.1 Max ; From JASPAR
+PO	A	C	G	T
+01	541.0	208.0	41.0	208.0
+02	0.0	833.0	125.0	41.0
+03	0.0	1000.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	0.0	958.0	0.0	41.0
+06	0.0	0.0	1000.0	0.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	0.0	1000.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:P91664
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2256.1
+XX
+ID mid
+XX
+DE MA2256.1 mid ; From JASPAR
+PO	A	C	G	T
+01	799.0	14.0	115.0	70.0
+02	91.0	65.0	754.0	88.0
+03	6.0	6.0	987.0	0.0
+04	0.0	51.0	0.0	948.0
+05	4.0	0.0	995.0	0.0
+06	52.0	88.0	95.0	762.0
+07	23.0	156.0	527.0	292.0
+08	766.0	47.0	162.0	22.0
+XX
+CC tax_group:insects
+CC tf_family:TBX1-related factors
+CC tf_class:T-Box factors
+CC pubmed_ids:23133562
+CC uniprot_ids:Q9VMR2
+CC data_type:SELEX
+XX
+//
+AC MA2257.1
+XX
+ID Mitf
+XX
+DE MA2257.1 Mitf ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	90.909090909091	909.09090909091
+02	0.0	1000.0	0.0	0.0
+03	954.54545454545	0.0	45.454545454545	0.0
+04	0.0	909.09090909091	90.909090909091	0.0
+05	136.36363636364	0.0	863.63636363636	0.0
+06	83.333333333333	166.66666666667	0.0	750.0
+07	0.0	0.0	1000.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:1748288
+CC uniprot_ids:C3KGP2
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2258.1
+XX
+ID Mnt
+XX
+DE MA2258.1 Mnt ; From JASPAR
+PO	A	C	G	T
+01	111.11111111111	888.88888888889	0.0	0.0
+02	0.0	1000.0	0.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	1000.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	0.0	1000.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:12695332
+CC uniprot_ids:M9NGP0
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2259.1
+XX
+ID org-1
+XX
+DE MA2259.1 org-1 ; From JASPAR
+PO	A	C	G	T
+01	553.0	53.0	244.0	149.0
+02	173.0	103.0	593.0	129.0
+03	49.0	29.0	899.0	21.0
+04	0.0	104.0	17.0	877.0
+05	0.0	0.0	1000.0	0.0
+06	73.0	140.0	135.0	650.0
+07	41.0	175.0	537.0	245.0
+08	727.0	55.0	184.0	32.0
+XX
+CC tax_group:insects
+CC tf_family:TBX1-related factors
+CC tf_class:T-Box factors
+CC pubmed_ids:35081347
+CC uniprot_ids:Q9W3F4
+CC data_type:SELEX
+XX
+//
+AC MA2260.1
+XX
+ID pdm3
+XX
+DE MA2260.1 pdm3 ; From JASPAR
+PO	A	C	G	T
+01	111.725663716814	775.442477876106	111.725663716814	1.10619469026549
+02	0.905797101449275	0.905797101449275	0.905797101449275	997.282608695652
+03	906.702898550725	91.4855072463768	0.905797101449275	0.905797101449275
+04	997.282608695652	0.905797101449275	0.905797101449275	0.905797101449275
+05	0.905797101449275	0.905797101449275	0.905797101449275	997.282608695652
+06	0.905797101449275	0.905797101449275	0.905797101449275	997.282608695652
+07	997.282608695652	0.905797101449275	0.905797101449275	0.905797101449275
+08	143.465909090909	143.465909090909	143.465909090909	569.602272727273
+XX
+CC tax_group:insects
+CC tf_family:POU domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:32202500
+CC uniprot_ids:A0A0B4JD55
+CC data_type:PBM
+XX
+//
+AC MA2261.1
+XX
+ID phol
+XX
+DE MA2261.1 phol ; From JASPAR
+PO	A	C	G	T
+01	0.0	937.5	62.5	0.0
+02	0.0	0.0	1000.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	1000.0
+07	312.5	375.0	62.5	250.0
+08	0.0	0.0	0.0	1000.0
+09	0.0	0.0	0.0	1000.0
+10	0.0	0.0	750.0	250.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:12466196
+CC uniprot_ids:Q9VSZ3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2262.1
+XX
+ID pnt
+XX
+DE MA2262.1 pnt ; From JASPAR
+PO	A	C	G	T
+01	750.0	62.5	62.5	125.0
+02	0.0	1000.0	0.0	0.0
+03	55.555555555556	888.88888888889	0.0	55.555555555556
+04	0.0	0.0	1000.0	0.0
+05	111.11111111111	0.0	888.88888888889	0.0
+06	944.44444444444	0.0	0.0	55.555555555556
+07	833.33333333333	0.0	0.0	166.66666666667
+08	500.0	0.0	500.0	0.0
+09	55.555555555556	111.11111111111	0.0	833.33333333333
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P51023
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2263.1
+XX
+ID Poxm
+XX
+DE MA2263.1 Poxm ; From JASPAR
+PO	A	C	G	T
+01	142.857142857143	809.52380952381	0.0	47.6190476190476
+02	929.203539823009	8.84955752212389	61.9469026548673	0.0
+03	152.380952380952	333.333333333333	419.047619047619	95.2380952380952
+04	0.0	54.0540540540541	0.0	945.945945945946
+05	0.0	897.435897435897	102.564102564103	0.0
+06	981.308411214953	0.0	18.6915887850467	0.0
+07	389.53488372093	0.0	0.0	610.46511627907
+08	0.0	27.7777777777778	972.222222222222	0.0
+09	0.0	1000.0	0.0	0.0
+10	53.0973451327434	8.84955752212389	929.203539823009	8.84955752212389
+11	0.0	0.0	0.0	1000.0
+12	70.1754385964912	0.0	921.052631578947	8.7719298245614
+13	963.302752293578	36.697247706422	0.0	0.0
+14	35.0	963.666666666667	0.333333333333333	1.0
+15	287.730727470141	114.00651465798	557.00325732899	41.2595005428882
+XX
+CC tax_group:insects
+CC tf_family:Paired domain only
+CC tf_class:Paired box factors
+CC pubmed_ids:12774041
+CC uniprot_ids:P23757
+CC data_type:SELEX
+XX
+//
+AC MA2264.1
+XX
+ID Rel
+XX
+DE MA2264.1 Rel ; From JASPAR
+PO	A	C	G	T
+01	5.0	26.0	910.0	57.0
+02	7.0	0.0	992.0	0.0
+03	0.0	9.0	936.0	54.0
+04	0.0	1.0	993.0	5.0
+05	118.0	17.0	856.0	6.0
+06	64.0	1.0	0.0	933.0
+07	0.0	0.0	0.0	1000.0
+08	3.0	986.0	6.0	4.0
+09	37.0	962.0	0.0	0.0
+10	4.0	995.0	0.0	0.0
+11	5.0	983.0	0.0	11.0
+XX
+CC tax_group:insects
+CC tf_family:NF-kappaB-related factors
+CC tf_class:Rel homology region (RHR) factors
+CC pubmed_ids:14585984
+CC uniprot_ids:Q94527
+CC data_type:SELEX
+XX
+//
+AC MA2265.1
+XX
+ID retn
+XX
+DE MA2265.1 retn ; From JASPAR
+PO	A	C	G	T
+01	835.0	15.0	24.0	124.0
+02	41.0	8.0	11.0	938.0
+03	46.0	216.0	14.0	723.0
+04	713.0	16.0	215.0	53.0
+05	945.0	6.0	8.0	40.0
+06	120.0	19.0	25.0	834.0
+XX
+CC tax_group:insects
+CC tf_family:ARID-related
+CC tf_class:ARID
+CC pubmed_ids:8622680
+CC uniprot_ids:Q24573
+CC data_type:SELEX
+XX
+//
+AC MA2266.1
+XX
+ID Rfx
+XX
+DE MA2266.1 Rfx ; From JASPAR
+PO	A	C	G	T
+01	16.7364016736402	0.0	953.97489539749	29.2887029288703
+02	13.671875	0.0	0.0	986.328125
+03	20.8728652751423	53.1309297912713	0.0	925.996204933586
+04	34.0425531914894	23.4042553191489	942.553191489362	0.0
+05	5.87084148727984	984.344422700587	5.87084148727984	3.91389432485323
+06	0.0	28.0	0.0	972.0
+07	950.099800399202	11.9760479041916	0.0	37.9241516966068
+08	371.794871794872	49.1452991452991	561.965811965812	17.0940170940171
+09	0.0	0.0	1000.0	0.0
+10	27.4725274725275	919.413919413919	0.0	53.1135531135531
+11	914.018691588785	7.47663551401869	33.6448598130841	44.8598130841121
+12	984.189723320158	9.88142292490119	5.92885375494071	0.0
+13	7.67754318618042	980.806142034549	0.0	11.5163147792706
+XX
+CC tax_group:insects
+CC tf_family:RFX-related factors
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:10767550
+CC uniprot_ids:A0A0B4K653
+CC data_type:SELEX
+XX
+//
+AC MA2267.1
+XX
+ID rib
+XX
+DE MA2267.1 rib ; From JASPAR
+PO	A	C	G	T
+01	0.0	529.41176470588	0.0	470.58823529412
+02	0.0	0.0	1000.0	0.0
+03	0.0	1000.0	0.0	0.0
+04	647.05882352941	0.0	352.94117647059	0.0
+05	1000.0	0.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	764.70588235294	0.0	0.0	235.29411764706
+08	529.41176470588	117.64705882353	0.0	352.94117647059
+09	500.0	0.0	125.0	375.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:A0A0B4KFC4
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2268.1
+XX
+ID sage
+XX
+DE MA2268.1 sage ; From JASPAR
+PO	A	C	G	T
+01	521.73913043478	0.0	260.86956521739	217.39130434783
+02	739.13043478261	130.4347826087	130.4347826087	0.0
+03	913.04347826087	86.95652173913	0.0	0.0
+04	695.65217391304	260.86956521739	43.478260869565	0.0
+05	0.0	1000.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	434.78260869565	391.30434782609	173.91304347826
+08	217.39130434783	782.60869565217	0.0	0.0
+09	43.478260869565	43.478260869565	0.0	913.04347826087
+10	0.0	0.0	1000.0	0.0
+11	0.0	227.27272727273	90.909090909091	681.81818181818
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VHG3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2269.1
+XX
+ID sc
+XX
+DE MA2269.1 sc ; From JASPAR
+PO	A	C	G	T
+01	661.0	1.0	166.0	170.0
+02	285.0	85.0	599.0	29.0
+03	0.0	1000.0	0.0	0.0
+04	919.0	1.0	7.0	71.0
+05	0.0	0.0	819.0	180.0
+06	173.0	795.0	0.0	30.0
+07	80.0	17.0	1.0	900.0
+08	0.0	0.0	1000.0	0.0
+09	15.0	607.0	99.0	277.0
+10	156.0	184.0	0.0	659.0
+XX
+CC tax_group:insects
+CC tf_family:MyoD/ASC-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:P10084
+CC data_type:SELEX
+XX
+//
+AC MA2270.1
+XX
+ID scrt
+XX
+DE MA2270.1 scrt ; From JASPAR
+PO	A	C	G	T
+01	7.0	11.0	845.0	135.0
+02	0.0	993.0	0.0	5.0
+03	982.0	6.0	3.0	7.0
+04	997.0	1.0	1.0	0.0
+05	3.0	994.0	1.0	0.0
+06	995.0	1.0	0.0	3.0
+07	47.0	2.0	948.0	0.0
+08	2.0	1.0	994.0	2.0
+09	0.0	1.0	0.0	998.0
+10	54.0	8.0	851.0	86.0
+11	50.0	112.0	622.0	215.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VZK2
+CC data_type:SELEX
+XX
+//
+AC MA2271.1
+XX
+ID sens
+XX
+DE MA2271.1 sens ; From JASPAR
+PO	A	C	G	T
+01	954.54545454545	0.0	45.454545454545	0.0
+02	1000.0	0.0	0.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	0.0	1000.0	0.0	0.0
+06	818.18181818182	0.0	0.0	181.81818181818
+07	45.454545454545	909.09090909091	45.454545454545	0.0
+08	409.09090909091	0.0	409.09090909091	181.81818181818
+09	136.36363636364	0.0	863.63636363636	0.0
+10	58.823529411765	764.70588235294	0.0	176.47058823529
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9N658
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2272.1
+XX
+ID slp2
+XX
+DE MA2272.1 slp2 ; From JASPAR
+PO	A	C	G	T
+01	333.33333333333	0.0	666.66666666667	0.0
+02	0.0	55.555555555556	0.0	944.44444444444
+03	1000.0	0.0	0.0	0.0
+04	1000.0	0.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	0.0	1000.0	0.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	611.11111111111	166.66666666667	166.66666666667	55.555555555556
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P32031
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2273.1
+XX
+ID Sox102F
+XX
+DE MA2273.1 Sox102F ; From JASPAR
+PO	A	C	G	T
+01	754.0	9.0	74.0	161.0
+02	21.0	160.0	105.0	712.0
+03	0.0	49.0	27.0	923.0
+04	0.0	0.0	1000.0	0.0
+05	7.0	0.0	33.0	959.0
+06	0.0	16.0	43.0	940.0
+07	29.0	947.0	23.0	0.0
+08	9.0	26.0	962.0	2.0
+09	36.0	6.0	912.0	43.0
+10	62.0	20.0	96.0	820.0
+11	58.0	42.0	816.0	82.0
+12	91.0	56.0	637.0	214.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:30190506
+CC uniprot_ids:Q59DN5
+CC data_type:SELEX
+XX
+//
+AC MA2274.1
+XX
+ID Sox14
+XX
+DE MA2274.1 Sox14 ; From JASPAR
+PO	A	C	G	T
+01	250.0	450.0	300.0	0.0
+02	50.0	350.0	100.0	500.0
+03	0.0	700.0	100.0	200.0
+04	0.0	800.0	0.0	200.0
+05	200.0	0.0	0.0	800.0
+06	0.0	0.0	0.0	1000.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	0.0	1000.0	0.0
+09	0.0	0.0	0.0	1000.0
+10	0.0	550.0	100.0	350.0
+11	50.0	750.0	0.0	200.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P40656
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2275.1
+XX
+ID Sox15
+XX
+DE MA2275.1 Sox15 ; From JASPAR
+PO	A	C	G	T
+01	571.42857142857	47.619047619048	238.09523809524	142.85714285714
+02	619.04761904762	95.238095238095	95.238095238095	190.47619047619
+03	1000.0	0.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	1000.0	0.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	142.85714285714	0.0	0.0	857.14285714286
+08	285.71428571429	0.0	666.66666666667	47.619047619048
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P40657
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2276.1
+XX
+ID Sox21a
+XX
+DE MA2276.1 Sox21a ; From JASPAR
+PO	A	C	G	T
+01	604.0	178.0	117.0	99.0
+02	939.0	16.0	34.0	8.0
+03	0.0	999.0	0.0	0.0
+04	996.0	0.0	0.0	3.0
+05	604.0	391.0	2.0	1.0
+06	0.0	1.0	2.0	995.0
+07	742.0	5.0	132.0	119.0
+08	328.0	340.0	224.0	106.0
+09	1.0	995.0	0.0	2.0
+10	996.0	2.0	0.0	0.0
+11	0.0	2.0	206.0	790.0
+12	0.0	0.0	0.0	998.0
+13	4.0	0.0	995.0	0.0
+14	4.0	134.0	26.0	834.0
+15	78.0	102.0	165.0	653.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:15943880
+CC uniprot_ids:M9PFG6
+CC data_type:SELEX
+XX
+//
+AC MA2277.1
+XX
+ID Sox21b
+XX
+DE MA2277.1 Sox21b ; From JASPAR
+PO	A	C	G	T
+01	996.0	0.0	1.0	1.0
+02	994.0	1.0	2.0	1.0
+03	0.0	999.0	0.0	0.0
+04	995.0	0.0	1.0	3.0
+05	684.0	313.0	0.0	0.0
+06	0.0	0.0	0.0	999.0
+07	441.0	0.0	13.0	544.0
+08	273.0	172.0	254.0	299.0
+09	0.0	999.0	0.0	0.0
+10	998.0	0.0	0.0	0.0
+11	0.0	0.0	518.0	480.0
+12	0.0	1.0	0.0	997.0
+13	1.0	0.0	998.0	0.0
+14	2.0	0.0	4.0	991.0
+15	1.0	2.0	1.0	995.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:15943880
+CC uniprot_ids:M9PCG2
+CC data_type:SELEX
+XX
+//
+AC MA2278.1
+XX
+ID SoxN
+XX
+DE MA2278.1 SoxN ; From JASPAR
+PO	A	C	G	T
+01	0.0	995.0	4.0	0.0
+02	924.0	31.0	23.0	19.0
+03	826.0	113.0	10.0	49.0
+04	0.0	33.0	4.0	962.0
+05	416.0	133.0	244.0	206.0
+06	363.0	230.0	290.0	115.0
+07	20.0	954.0	24.0	0.0
+08	1000.0	0.0	0.0	0.0
+09	50.0	21.0	83.0	844.0
+10	20.0	8.0	12.0	958.0
+11	52.0	16.0	932.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:15943880
+CC uniprot_ids:M9PCZ7
+CC data_type:SELEX
+XX
+//
+AC MA2279.1
+XX
+ID Sp1
+XX
+DE MA2279.1 Sp1 ; From JASPAR
+PO	A	C	G	T
+01	159.0	588.0	27.0	223.0
+02	510.0	487.0	1.0	0.0
+03	26.0	968.0	0.0	5.0
+04	67.0	0.0	885.0	46.0
+05	12.0	987.0	0.0	0.0
+06	17.0	977.0	0.0	5.0
+07	15.0	857.0	0.0	126.0
+08	470.0	411.0	3.0	114.0
+09	102.0	618.0	57.0	222.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:M9PJG1
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2280.1
+XX
+ID Spps
+XX
+DE MA2280.1 Spps ; From JASPAR
+PO	A	C	G	T
+01	173.0	9.0	742.0	74.0
+02	65.0	812.0	54.0	68.0
+03	44.0	724.0	12.0	217.0
+04	394.0	605.0	0.0	0.0
+05	6.0	992.0	0.0	1.0
+06	36.0	0.0	904.0	58.0
+07	7.0	992.0	0.0	0.0
+08	6.0	993.0	0.0	0.0
+09	12.0	818.0	0.0	168.0
+10	430.0	421.0	14.0	133.0
+11	73.0	627.0	75.0	223.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:20627963
+CC uniprot_ids:A0A0B4KHC8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2281.1
+XX
+ID SREBP
+XX
+DE MA2281.1 SREBP ; From JASPAR
+PO	A	C	G	T
+01	552.301255230126	56.3458856345886	388.563458856346	2.78940027894003
+02	183.2784184514	67.5453047775947	10.7084019769358	738.467874794069
+03	2.17568670111504	975.251563774816	21.484906173511	1.08784335055752
+04	904.413619167718	2.01765447667087	85.4981084489281	8.07061790668348
+05	0.0	858.30540928674	119.913834370512	21.7807563427477
+06	21.3378086789739	116.998321745385	859.745864301127	1.9180052745145
+07	6.33071663712332	85.0848316029374	0.506457330969866	908.077994428969
+08	1.08313024641213	18.9547793122123	971.026265908476	8.93582453290008
+09	767.551369863014	3.63869863013699	44.9486301369863	183.861301369863
+10	0.836586726157278	422.755158951478	50.1952035694367	526.213050752928
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:9632664
+CC uniprot_ids:Q9VW37
+CC data_type:SELEX
+XX
+//
+AC MA2282.1
+XX
+ID SREBP
+XX
+DE MA2282.1 SREBP ; From JASPAR
+PO	A	C	G	T
+01	641.0	51.0	301.0	4.0
+02	113.0	90.0	1.0	794.0
+03	9.0	990.0	0.0	0.0
+04	984.0	0.0	15.0	0.0
+05	2.0	951.0	7.0	39.0
+06	113.0	79.0	801.0	5.0
+07	7.0	957.0	0.0	35.0
+08	9.0	826.0	132.0	32.0
+09	994.0	0.0	5.0	0.0
+10	2.0	719.0	2.0	275.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:9632664
+CC uniprot_ids:Q9VW37
+CC data_type:SELEX
+XX
+//
+AC MA2283.1
+XX
+ID srp
+XX
+DE MA2283.1 srp ; From JASPAR
+PO	A	C	G	T
+01	411.76470588235	58.823529411765	0.0	529.41176470588
+02	0.0	0.0	1000.0	0.0
+03	1000.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	1000.0
+05	1000.0	0.0	0.0	0.0
+06	1000.0	0.0	0.0	0.0
+07	0.0	125.0	875.0	0.0
+08	375.0	187.5	437.5	0.0
+XX
+CC tax_group:insects
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P52172
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2284.1
+XX
+ID ss
+XX
+DE MA2284.1 ss ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	900.0
+02	0.0	0.0	1000.0	0.0
+03	0.0	900.0	0.0	100.0
+04	0.0	100.0	900.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	0.0	1000.0	0.0
+07	1000.0	0.0	0.0	0.0
+08	0.0	800.0	0.0	200.0
+XX
+CC tax_group:insects
+CC tf_family:PAS domain factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:31018121
+CC uniprot_ids:E1JIM6
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2285.1
+XX
+ID sug
+XX
+DE MA2285.1 sug ; From JASPAR
+PO	A	C	G	T
+01	107.0	149.0	637.0	104.0
+02	682.0	188.0	128.0	0.0
+03	34.0	960.0	0.0	4.0
+04	47.0	938.0	0.0	13.0
+05	20.0	965.0	0.0	13.0
+06	13.0	986.0	0.0	0.0
+07	13.0	986.0	0.0	0.0
+08	145.0	720.0	0.0	134.0
+09	446.0	43.0	479.0	30.0
+10	50.0	724.0	134.0	90.0
+11	342.0	118.0	478.0	60.0
+12	346.0	38.0	550.0	65.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q7K0S9
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2286.1
+XX
+ID svp
+XX
+DE MA2286.1 svp ; From JASPAR
+PO	A	C	G	T
+01	714.28571428571	214.28571428571	71.428571428571	0.0
+02	714.28571428571	0.0	285.71428571429	0.0
+03	0.0	0.0	1000.0	0.0
+04	0.0	0.0	1000.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	1000.0	0.0	0.0
+07	928.57142857143	0.0	71.428571428571	0.0
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:8524239
+CC uniprot_ids:P16376
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2287.1
+XX
+ID TfAP-2
+XX
+DE MA2287.1 TfAP-2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	135.0	864.0	0.0
+02	0.0	980.0	19.0	0.0
+03	0.0	940.0	11.0	47.0
+04	0.0	210.0	131.0	657.0
+05	104.0	391.0	392.0	111.0
+06	657.0	135.0	207.0	0.0
+07	63.0	9.0	926.0	0.0
+08	0.0	17.0	982.0	0.0
+09	0.0	861.0	138.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:AP-2
+CC tf_class:Basic helix-span-helix factors (bHSH)
+CC pubmed_ids:3040262
+CC uniprot_ids:M9PIH9
+CC data_type:SELEX
+XX
+//
+AC MA2288.1
+XX
+ID tj
+XX
+DE MA2288.1 tj ; From JASPAR
+PO	A	C	G	T
+01	134.0	101.0	737.0	26.0
+02	5.0	7.0	0.0	987.0
+03	94.0	891.0	0.0	13.0
+04	979.0	0.0	12.0	7.0
+05	3.0	0.0	934.0	61.0
+06	0.0	1000.0	0.0	0.0
+07	749.0	4.0	203.0	43.0
+08	280.0	255.0	203.0	260.0
+09	374.0	75.0	93.0	456.0
+10	348.0	86.0	47.0	517.0
+XX
+CC tax_group:insects
+CC tf_family:Maf-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:21097781
+CC uniprot_ids:Q7JS61
+CC data_type:SELEX
+XX
+//
+AC MA2289.1
+XX
+ID toy
+XX
+DE MA2289.1 toy ; From JASPAR
+PO	A	C	G	T
+01	90.0	106.0	46.0	756.0
+02	40.0	3.0	31.0	924.0
+03	16.0	631.0	3.0	349.0
+04	907.0	85.0	3.0	3.0
+05	4.0	972.0	4.0	17.0
+06	1.0	2.0	996.0	0.0
+07	3.0	964.0	32.0	0.0
+08	585.0	13.0	7.0	392.0
+09	2.0	16.0	1.0	979.0
+10	2.0	124.0	873.0	0.0
+11	957.0	3.0	37.0	1.0
+12	139.0	541.0	244.0	75.0
+13	3.0	69.0	13.0	913.0
+14	79.0	2.0	901.0	16.0
+15	348.0	557.0	88.0	5.0
+16	712.0	49.0	207.0	29.0
+17	2.0	864.0	0.0	133.0
+18	742.0	119.0	38.0	99.0
+XX
+CC tax_group:insects
+CC tf_family:Paired plus homeo domain
+CC tf_class:Paired box factors
+CC pubmed_ids:10198632
+CC uniprot_ids:Q9XZC2
+CC data_type:SELEX
+XX
+//
+AC MA2290.1
+XX
+ID Usf
+XX
+DE MA2290.1 Usf ; From JASPAR
+PO	A	C	G	T
+01	562.5	250.0	187.5	0.0
+02	62.5	625.0	62.5	250.0
+03	0.0	1000.0	0.0	0.0
+04	833.33333333333	0.0	111.11111111111	55.555555555556
+05	0.0	1000.0	0.0	0.0
+06	222.22222222222	0.0	777.77777777778	0.0
+07	0.0	0.0	0.0	1000.0
+08	0.0	0.0	1000.0	0.0
+09	666.66666666667	0.0	222.22222222222	111.11111111111
+10	0.0	666.66666666667	222.22222222222	111.11111111111
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:22425977
+CC uniprot_ids:Q9W4J8
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2291.1
+XX
+ID vri
+XX
+DE MA2291.1 vri ; From JASPAR
+PO	A	C	G	T
+01	117.64705882353	0.0	352.94117647059	529.41176470588
+02	277.77777777778	0.0	722.22222222222	0.0
+03	0.0	0.0	0.0	1000.0
+04	0.0	0.0	222.22222222222	777.77777777778
+05	777.77777777778	0.0	222.22222222222	0.0
+06	0.0	722.22222222222	0.0	277.77777777778
+07	222.22222222222	0.0	777.77777777778	0.0
+08	0.0	0.0	0.0	1000.0
+09	944.44444444444	55.555555555556	0.0	0.0
+10	1000.0	0.0	0.0	0.0
+11	0.0	58.823529411765	235.29411764706	705.88235294118
+XX
+CC tax_group:insects
+CC tf_family:CEBP-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VMS4
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2292.1
+XX
+ID wor
+XX
+DE MA2292.1 wor ; From JASPAR
+PO	A	C	G	T
+01	0.0	1000.0	0.0	0.0
+02	952.38095238095	0.0	0.0	47.619047619048
+03	0.0	1000.0	0.0	0.0
+04	0.0	1000.0	0.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	0.0	0.0	1000.0	0.0
+07	52.631578947368	631.57894736842	0.0	315.78947368421
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VJP2
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2293.1
+XX
+ID Xbp1
+XX
+DE MA2293.1 Xbp1 ; From JASPAR
+PO	A	C	G	T
+01	58.0	153.0	81.0	706.0
+02	62.0	67.0	639.0	230.0
+03	803.0	28.0	96.0	71.0
+04	0.0	900.0	19.0	80.0
+05	18.0	11.0	957.0	12.0
+06	12.0	86.0	30.0	870.0
+07	92.0	17.0	858.0	31.0
+08	55.0	57.0	473.0	414.0
+XX
+CC tax_group:insects
+CC tf_family:XBP-1-related factors
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:10958673
+CC uniprot_ids:Q5BI44
+CC data_type:SELEX
+XX
+//
+AC MA2294.1
+XX
+ID Xrp1
+XX
+DE MA2294.1 Xrp1 ; From JASPAR
+PO	A	C	G	T
+01	437.5	0.0	500.0	62.5
+02	0.0	58.823529411765	0.0	941.17647058824
+03	0.0	58.823529411765	294.11764705882	647.05882352941
+04	294.11764705882	0.0	705.88235294118	0.0
+05	0.0	588.23529411765	0.0	411.76470588235
+06	0.0	0.0	1000.0	0.0
+07	58.823529411765	588.23529411765	0.0	352.94117647059
+08	1000.0	0.0	0.0	0.0
+09	1000.0	0.0	0.0	0.0
+10	0.0	0.0	58.823529411765	941.17647058824
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:30531963
+CC uniprot_ids:Q8T9G5
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA2295.1
+XX
+ID ac
+XX
+DE MA2295.1 ac ; From JASPAR
+PO	A	C	G	T
+01	499.0	293.0	1589.0	318.0
+02	23.0	2605.0	31.0	40.0
+03	2385.0	58.0	33.0	223.0
+04	40.0	57.0	2567.0	35.0
+05	35.0	2567.0	57.0	40.0
+06	223.0	33.0	57.0	2386.0
+07	40.0	30.0	2606.0	23.0
+08	319.0	1587.0	295.0	498.0
+XX
+CC tax_group:insects
+CC tf_family:MyoD/ASC-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:P10083
+CC data_type:ChIP-seq
+XX
+//
+AC MA2296.1
+XX
+ID aop
+XX
+DE MA2296.1 aop ; From JASPAR
+PO	A	C	G	T
+01	387.0	13.0	33.0	29.0
+02	67.0	306.0	62.0	27.0
+03	22.0	411.0	16.0	13.0
+04	15.0	14.0	425.0	8.0
+05	19.0	6.0	433.0	4.0
+06	444.0	11.0	6.0	1.0
+07	436.0	8.0	9.0	9.0
+XX
+CC tax_group:insects
+CC tf_family:Ets-related
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q01842
+CC data_type:ChIP-seq
+XX
+//
+AC MA2297.1
+XX
+ID BtbVII
+XX
+DE MA2297.1 BtbVII ; From JASPAR
+PO	A	C	G	T
+01	464.0	32.0	137.0	69.0
+02	12.0	20.0	10.0	660.0
+03	673.0	7.0	10.0	12.0
+04	10.0	629.0	19.0	44.0
+05	655.0	11.0	16.0	20.0
+06	21.0	16.0	20.0	645.0
+07	682.0	7.0	4.0	9.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VZU5
+CC data_type:ChIP-seq
+XX
+//
+AC MA2298.1
+XX
+ID CG3065
+XX
+DE MA2298.1 CG3065 ; From JASPAR
+PO	A	C	G	T
+01	46.0	39.0	601.0	25.0
+02	34.0	619.0	20.0	38.0
+03	14.0	675.0	14.0	8.0
+04	641.0	49.0	9.0	12.0
+05	3.0	692.0	2.0	14.0
+06	16.0	3.0	672.0	20.0
+07	7.0	694.0	6.0	4.0
+08	2.0	700.0	3.0	6.0
+09	4.0	664.0	10.0	33.0
+10	378.0	280.0	10.0	43.0
+11	22.0	562.0	29.0	98.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q2MGN0
+CC data_type:ChIP-seq
+XX
+//
+AC MA2299.1
+XX
+ID CG4854
+XX
+DE MA2299.1 CG4854 ; From JASPAR
+PO	A	C	G	T
+01	100.0	82.0	53.0	413.0
+02	6.0	12.0	622.0	8.0
+03	25.0	19.0	578.0	26.0
+04	19.0	594.0	13.0	22.0
+05	589.0	12.0	19.0	28.0
+06	570.0	11.0	36.0	31.0
+07	16.0	604.0	6.0	22.0
+08	112.0	61.0	352.0	123.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VDQ5
+CC data_type:ChIP-seq
+XX
+//
+AC MA2300.1
+XX
+ID CG8319
+XX
+DE MA2300.1 CG8319 ; From JASPAR
+PO	A	C	G	T
+01	95.0	71.0	104.0	349.0
+02	17.0	17.0	542.0	43.0
+03	16.0	20.0	567.0	16.0
+04	80.0	19.0	14.0	506.0
+05	35.0	73.0	479.0	32.0
+06	543.0	20.0	18.0	38.0
+07	18.0	559.0	20.0	22.0
+08	21.0	554.0	12.0	32.0
+09	104.0	342.0	52.0	121.0
+10	92.0	407.0	42.0	78.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VHA4
+CC data_type:ChIP-seq
+XX
+//
+AC MA2301.1
+XX
+ID clk
+XX
+DE MA2301.1 clk ; From JASPAR
+PO	A	C	G	T
+01	95.0	63.0	83.0	323.0
+02	33.0	513.0	14.0	4.0
+03	542.0	6.0	9.0	7.0
+04	19.0	521.0	11.0	13.0
+05	13.0	10.0	521.0	20.0
+06	7.0	9.0	6.0	542.0
+07	4.0	14.0	513.0	33.0
+08	322.0	84.0	63.0	95.0
+XX
+CC tax_group:insects
+CC tf_family:PAS domain factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:O61735
+CC data_type:ChIP-seq
+XX
+//
+AC MA2302.1
+XX
+ID Crg-1
+XX
+DE MA2302.1 Crg-1 ; From JASPAR
+PO	A	C	G	T
+01	109.0	37.0	41.0	254.0
+02	270.0	38.0	61.0	72.0
+03	120.0	33.0	183.0	105.0
+04	62.0	19.0	332.0	28.0
+05	19.0	19.0	10.0	393.0
+06	414.0	10.0	3.0	14.0
+07	402.0	11.0	7.0	21.0
+08	413.0	8.0	6.0	14.0
+09	9.0	22.0	8.0	402.0
+10	426.0	3.0	5.0	7.0
+11	299.0	35.0	31.0	76.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:9233804
+CC uniprot_ids:Q8IRT6
+CC data_type:ChIP-seq
+XX
+//
+AC MA2303.1
+XX
+ID crp
+XX
+DE MA2303.1 crp ; From JASPAR
+PO	A	C	G	T
+01	408.0	97.0	151.0	84.0
+02	616.0	43.0	68.0	13.0
+03	308.0	32.0	28.0	372.0
+04	3.0	735.0	0.0	2.0
+05	735.0	1.0	2.0	2.0
+06	4.0	4.0	723.0	9.0
+07	9.0	723.0	4.0	4.0
+08	2.0	1.0	1.0	736.0
+09	2.0	0.0	734.0	4.0
+10	373.0	28.0	32.0	307.0
+11	13.0	69.0	43.0	615.0
+12	83.0	152.0	96.0	409.0
+XX
+CC tax_group:insects
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9V406
+CC data_type:ChIP-seq
+XX
+//
+AC MA2304.1
+XX
+ID cwo
+XX
+DE MA2304.1 cwo ; From JASPAR
+PO	A	C	G	T
+01	286.0	58.0	834.0	269.0
+02	27.0	1389.0	14.0	17.0
+03	1358.0	20.0	25.0	44.0
+04	35.0	1359.0	14.0	39.0
+05	40.0	14.0	1358.0	35.0
+06	43.0	24.0	22.0	1358.0
+07	17.0	13.0	1390.0	27.0
+08	269.0	835.0	58.0	285.0
+XX
+CC tax_group:insects
+CC tf_family:Hairy-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9VGZ5
+CC data_type:ChIP-seq
+XX
+//
+AC MA2305.1
+XX
+ID cyc
+XX
+DE MA2305.1 cyc ; From JASPAR
+PO	A	C	G	T
+01	117.0	96.0	422.0	87.0
+02	123.0	77.0	72.0	450.0
+03	37.0	663.0	14.0	8.0
+04	679.0	11.0	17.0	15.0
+05	30.0	638.0	25.0	29.0
+06	29.0	25.0	638.0	30.0
+07	15.0	18.0	12.0	677.0
+08	8.0	14.0	663.0	37.0
+09	450.0	72.0	77.0	123.0
+10	87.0	422.0	95.0	118.0
+XX
+CC tax_group:insects
+CC tf_family:PAS domain factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:O61734
+CC data_type:ChIP-seq
+XX
+//
+AC MA2306.1
+XX
+ID D1
+XX
+DE MA2306.1 D1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	0.0	1155.0
+02	602.0	2.0	0.0	553.0
+03	1152.0	0.0	0.0	5.0
+04	1148.0	0.0	1.0	8.0
+05	1157.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	1157.0
+07	1157.0	0.0	0.0	0.0
+08	863.0	58.0	54.0	182.0
+XX
+CC tax_group:insects
+CC tf_family:HMGA
+CC tf_class:TATA-binding proteins
+CC pubmed_ids:11035986
+CC uniprot_ids:P22058
+CC data_type:ChIP-seq
+XX
+//
+AC MA2307.1
+XX
+ID D19B
+XX
+DE MA2307.1 D19B ; From JASPAR
+PO	A	C	G	T
+01	327.0	31.0	85.0	120.0
+02	75.0	116.0	317.0	55.0
+03	511.0	25.0	16.0	11.0
+04	7.0	14.0	6.0	536.0
+05	543.0	2.0	8.0	10.0
+06	8.0	545.0	2.0	8.0
+07	10.0	527.0	3.0	23.0
+08	7.0	525.0	14.0	17.0
+09	49.0	30.0	61.0	423.0
+10	71.0	44.0	308.0	140.0
+11	27.0	53.0	57.0	426.0
+12	400.0	43.0	58.0	62.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q9VRV4
+CC data_type:ChIP-seq
+XX
+//
+AC MA2308.1
+XX
+ID da
+XX
+DE MA2308.1 da ; From JASPAR
+PO	A	C	G	T
+01	13.0	1009.0	19.0	24.0
+02	1016.0	15.0	17.0	17.0
+03	29.0	28.0	983.0	25.0
+04	27.0	982.0	26.0	30.0
+05	17.0	19.0	16.0	1013.0
+06	19.0	18.0	1018.0	10.0
+XX
+CC tax_group:insects
+CC tf_family:E2A
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:P11420
+CC data_type:ChIP-seq
+XX
+//
+AC MA2309.1
+XX
+ID ewg
+XX
+DE MA2309.1 ewg ; From JASPAR
+PO	A	C	G	T
+01	514.0	172.0	1826.0	260.0
+02	91.0	2559.0	70.0	52.0
+03	146.0	21.0	2568.0	37.0
+04	48.0	2648.0	26.0	50.0
+05	2255.0	297.0	141.0	79.0
+06	79.0	141.0	297.0	2255.0
+07	50.0	26.0	2648.0	48.0
+08	37.0	2568.0	21.0	146.0
+09	52.0	70.0	2559.0	91.0
+10	260.0	1826.0	172.0	514.0
+XX
+CC tax_group:insects
+CC tf_family:Jun-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:11278998
+CC uniprot_ids:Q24312
+CC data_type:ChIP-seq
+XX
+//
+AC MA2310.1
+XX
+ID fru
+XX
+DE MA2310.1 fru ; From JASPAR
+PO	A	C	G	T
+01	1736.0	56.0	41.0	108.0
+02	1785.0	48.0	26.0	82.0
+03	1750.0	33.0	28.0	130.0
+04	52.0	54.0	1804.0	31.0
+05	155.0	46.0	39.0	1701.0
+06	1713.0	53.0	66.0	109.0
+07	1715.0	49.0	57.0	120.0
+08	225.0	80.0	78.0	1558.0
+XX
+CC tax_group:insects
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q8IN81
+CC data_type:ChIP-seq
+XX
+//
+AC MA2311.1
+XX
+ID ftz-f1
+XX
+DE MA2311.1 ftz-f1 ; From JASPAR
+PO	A	C	G	T
+01	173.0	125.0	1690.0	62.0
+02	1733.0	77.0	143.0	97.0
+03	120.0	1845.0	34.0	51.0
+04	150.0	1790.0	30.0	80.0
+05	52.0	63.0	35.0	1900.0
+06	49.0	55.0	24.0	1922.0
+07	41.0	114.0	1854.0	41.0
+08	1767.0	84.0	113.0	86.0
+XX
+CC tax_group:insects
+CC tf_family:FTZF1related(NR5A)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:25215497
+CC uniprot_ids:P33244
+CC data_type:ChIP-seq
+XX
+//
+AC MA2312.1
+XX
+ID grn
+XX
+DE MA2312.1 grn ; From JASPAR
+PO	A	C	G	T
+01	147.0	4975.0	234.0	188.0
+02	171.0	89.0	116.0	5168.0
+03	231.0	68.0	79.0	5166.0
+04	5335.0	59.0	57.0	93.0
+05	86.0	61.0	55.0	5342.0
+06	72.0	5381.0	30.0	61.0
+07	3157.0	171.0	1161.0	1055.0
+XX
+CC tax_group:insects
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P91623
+CC data_type:ChIP-seq
+XX
+//
+AC MA2313.1
+XX
+ID hng1
+XX
+DE MA2313.1 hng1 ; From JASPAR
+PO	A	C	G	T
+01	71.0	412.0	56.0	54.0
+02	56.0	42.0	445.0	50.0
+03	45.0	38.0	16.0	494.0
+04	142.0	36.0	37.0	378.0
+05	516.0	22.0	22.0	33.0
+06	18.0	549.0	10.0	16.0
+07	16.0	9.0	550.0	18.0
+08	33.0	22.0	22.0	516.0
+09	379.0	36.0	36.0	142.0
+10	494.0	16.0	38.0	45.0
+11	50.0	444.0	43.0	56.0
+12	54.0	56.0	412.0	71.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q9W2K3
+CC data_type:ChIP-seq
+XX
+//
+AC MA2314.1
+XX
+ID hr3
+XX
+DE MA2314.1 hr3 ; From JASPAR
+PO	A	C	G	T
+01	42.0	14.0	527.0	26.0
+02	25.0	19.0	523.0	42.0
+03	38.0	32.0	20.0	519.0
+04	16.0	546.0	22.0	25.0
+05	547.0	15.0	19.0	28.0
+06	20.0	556.0	19.0	14.0
+07	375.0	64.0	52.0	118.0
+08	76.0	398.0	41.0	94.0
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:25215497
+CC uniprot_ids:A8DY91
+CC data_type:ChIP-seq
+XX
+//
+AC MA2315.1
+XX
+ID insv
+XX
+DE MA2315.1 insv ; From JASPAR
+PO	A	C	G	T
+01	285.0	184.0	197.0	1038.0
+02	45.0	91.0	88.0	1480.0
+03	30.0	1562.0	53.0	59.0
+04	66.0	1214.0	102.0	322.0
+05	1456.0	39.0	133.0	76.0
+06	1561.0	34.0	71.0	38.0
+07	38.0	71.0	34.0	1561.0
+08	76.0	135.0	39.0	1454.0
+09	324.0	102.0	1212.0	66.0
+10	61.0	53.0	1560.0	30.0
+11	1478.0	88.0	93.0	45.0
+12	1034.0	198.0	185.0	287.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:23468431
+CC uniprot_ids:Q8SYK5
+CC data_type:ChIP-seq
+XX
+//
+AC MA2316.1
+XX
+ID l(3)neo38
+XX
+DE MA2316.1 l(3)neo38 ; From JASPAR
+PO	A	C	G	T
+01	424.0	14592.0	265.0	552.0
+02	772.0	13635.0	581.0	845.0
+03	880.0	13616.0	563.0	774.0
+04	734.0	13746.0	512.0	841.0
+05	626.0	13658.0	538.0	1011.0
+06	605.0	13715.0	475.0	1038.0
+07	351.0	14615.0	282.0	585.0
+XX
+CC tax_group:insects
+CC tf_family:Three-zinc finger Kruppel-related
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q8SZN9
+CC data_type:ChIP-seq
+XX
+//
+AC MA2317.1
+XX
+ID nau
+XX
+DE MA2317.1 nau ; From JASPAR
+PO	A	C	G	T
+01	0.0	3167.0	13.0	56.0
+02	3126.0	26.0	28.0	56.0
+03	0.0	16.0	3177.0	43.0
+04	43.0	3177.0	16.0	0.0
+05	44.0	28.0	19.0	3145.0
+06	55.0	13.0	3168.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:MyoD/ASC-related factors
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:P22816
+CC data_type:ChIP-seq
+XX
+//
+AC MA2318.1
+XX
+ID pita
+XX
+DE MA2318.1 pita ; From JASPAR
+PO	A	C	G	T
+01	65.0	65.0	43.0	357.0
+02	43.0	48.0	12.0	427.0
+03	516.0	3.0	4.0	7.0
+04	4.0	23.0	456.0	47.0
+05	4.0	466.0	1.0	59.0
+06	109.0	225.0	121.0	75.0
+07	267.0	43.0	170.0	50.0
+08	360.0	13.0	113.0	44.0
+09	9.0	9.0	439.0	73.0
+10	441.0	14.0	24.0	51.0
+11	20.0	463.0	0.0	47.0
+12	288.0	52.0	53.0	137.0
+13	71.0	364.0	25.0	70.0
+14	229.0	102.0	183.0	16.0
+15	445.0	66.0	4.0	15.0
+16	480.0	18.0	11.0	21.0
+17	2.0	524.0	1.0	3.0
+18	7.0	517.0	4.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25779349
+CC uniprot_ids:Q95RQ8
+CC data_type:ChIP-seq
+XX
+//
+AC MA2319.1
+XX
+ID run
+XX
+DE MA2319.1 run ; From JASPAR
+PO	A	C	G	T
+01	803.0	122.0	171.0	71.0
+02	1031.0	25.0	53.0	58.0
+03	25.0	1079.0	31.0	32.0
+04	62.0	1048.0	22.0	35.0
+05	45.0	12.0	1078.0	32.0
+06	50.0	1087.0	13.0	17.0
+07	1059.0	40.0	22.0	46.0
+08	267.0	134.0	636.0	130.0
+XX
+CC tax_group:insects
+CC tf_family:Runt-related factors
+CC tf_class:Runt domain factors
+CC pubmed_ids:21097781
+CC uniprot_ids:P22814
+CC data_type:ChIP-seq
+XX
+//
+AC MA2320.1
+XX
+ID Sox100B
+XX
+DE MA2320.1 Sox100B ; From JASPAR
+PO	A	C	G	T
+01	82.0	29.0	31.0	2132.0
+02	156.0	70.0	1908.0	140.0
+03	78.0	53.0	52.0	2091.0
+04	229.0	110.0	67.0	1868.0
+05	1868.0	67.0	110.0	229.0
+06	2091.0	52.0	53.0	78.0
+07	140.0	1908.0	70.0	156.0
+08	2132.0	31.0	29.0	82.0
+XX
+CC tax_group:insects
+CC tf_family:SOX-related factors
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:30190506
+CC uniprot_ids:Q9VA17
+CC data_type:ChIP-seq
+XX
+//
+AC MA2321.1
+XX
+ID tx
+XX
+DE MA2321.1 tx ; From JASPAR
+PO	A	C	G	T
+01	0.0	1493.0	3.0	26.0
+02	1466.0	19.0	15.0	22.0
+03	0.0	5.0	1503.0	14.0
+04	20.0	1498.0	4.0	0.0
+05	19.0	9.0	12.0	1482.0
+06	23.0	3.0	1496.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:21097781
+CC uniprot_ids:P41894
+CC data_type:ChIP-seq
+XX
+//
+AC MA2322.1
+XX
+ID ZIPIC
+XX
+DE MA2322.1 ZIPIC ; From JASPAR
+PO	A	C	G	T
+01	169.0	326.0	1077.0	169.0
+02	75.0	1462.0	69.0	135.0
+03	1547.0	56.0	62.0	76.0
+04	203.0	62.0	1288.0	188.0
+05	37.0	1643.0	24.0	37.0
+06	207.0	1368.0	77.0	89.0
+07	40.0	1650.0	23.0	28.0
+08	38.0	28.0	18.0	1657.0
+09	113.0	103.0	1450.0	75.0
+10	236.0	206.0	1047.0	252.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:25342723
+CC uniprot_ids:Q9VAB8
+CC data_type:ChIP-seq
+XX
+//
+AC MA0529.3
+XX
+ID BEAF-32
+XX
+DE MA0529.3 BEAF-32 ; From JASPAR
+PO	A	C	G	T
+01	539.0	460.0	97.0	4406.0
+02	5151.0	51.0	96.0	204.0
+03	98.0	112.0	79.0	5213.0
+04	26.0	5423.0	13.0	40.0
+05	40.0	13.0	5423.0	26.0
+06	5213.0	79.0	112.0	98.0
+07	204.0	96.0	51.0	5151.0
+08	4406.0	97.0	460.0	539.0
+XX
+CC tax_group:insects
+CC tf_family:Zinc finger, BED-type
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:22895281
+CC uniprot_ids:Q94513
+CC data_type:ChIP-seq
+XX
+//
+AC MA0010.2
+XX
+ID br
+XX
+DE MA0010.2 br ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	1.0	6.0
+02	5.0	2.0	1.0	1.0
+03	7.0	0.0	1.0	1.0
+04	3.0	0.0	0.0	6.0
+05	6.0	0.0	0.0	3.0
+06	4.0	1.0	4.0	0.0
+07	7.0	0.0	1.0	1.0
+08	1.0	8.0	0.0	0.0
+09	9.0	0.0	0.0	0.0
+10	8.0	0.0	1.0	0.0
+11	5.0	0.0	3.0	1.0
+12	4.0	0.0	0.0	5.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:8062827
+CC uniprot_ids:Q01295
+CC data_type:COMPILED
+XX
+//
+AC MA0011.2
+XX
+ID br
+XX
+DE MA0011.2 br ; From JASPAR
+PO	A	C	G	T
+01	0.0	10.0	0.0	2.0
+02	0.0	1.0	0.0	11.0
+03	12.0	0.0	0.0	0.0
+04	1.0	1.0	2.0	8.0
+05	2.0	0.0	1.0	9.0
+06	1.0	2.0	1.0	8.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:8062827
+CC uniprot_ids:Q01295
+CC data_type:COMPILED
+XX
+//
+AC MA0012.2
+XX
+ID br
+XX
+DE MA0012.2 br ; From JASPAR
+PO	A	C	G	T
+01	3.0	1.0	1.0	7.0
+02	9.0	2.0	1.0	0.0
+03	10.0	0.0	0.0	2.0
+04	12.0	0.0	0.0	0.0
+05	0.0	10.0	1.0	1.0
+06	4.0	0.0	0.0	8.0
+07	10.0	0.0	0.0	2.0
+08	6.0	0.0	4.0	2.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:8062827
+CC uniprot_ids:Q01295
+CC data_type:COMPILED
+XX
+//
+AC MA0443.2
+XX
+ID btd
+XX
+DE MA0443.2 btd ; From JASPAR
+PO	A	C	G	T
+01	10.0	0.0	20.0	0.0
+02	4.0	0.0	18.0	8.0
+03	2.0	0.0	28.0	0.0
+04	0.0	0.0	30.0	0.0
+05	0.0	0.0	30.0	0.0
+06	2.0	28.0	0.0	0.0
+07	0.0	0.0	30.0	0.0
+08	0.0	0.0	20.0	10.0
+09	15.0	1.0	10.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q24266
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0015.2
+XX
+ID Cf2
+XX
+DE MA0015.2 Cf2 ; From JASPAR
+PO	A	C	G	T
+01	25.0	13.0	40.0	2.0
+02	1.0	2.0	1.0	76.0
+03	74.0	2.0	4.0	0.0
+04	0.0	9.0	4.0	67.0
+05	78.0	2.0	0.0	0.0
+06	1.0	4.0	1.0	74.0
+07	41.0	2.0	36.0	1.0
+08	2.0	9.0	1.0	68.0
+09	53.0	3.0	20.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:1290524
+CC uniprot_ids:P20385
+CC data_type:SELEX
+XX
+//
+AC MA0184.2
+XX
+ID CG9876
+XX
+DE MA0184.2 CG9876 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	20.0
+02	18.0	0.0	0.0	2.0
+03	20.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	20.0
+05	0.0	0.0	1.0	19.0
+06	14.0	0.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q7YU61
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0530.2
+XX
+ID cnc::maf-S
+XX
+DE MA0530.2 cnc::maf-S ; From JASPAR
+PO	A	C	G	T
+01	340.0	20.0	114.0	0.0
+02	0.0	0.0	0.0	474.0
+03	0.0	0.0	474.0	0.0
+04	407.0	46.0	21.0	0.0
+05	0.0	292.0	80.0	102.0
+06	80.0	0.0	169.0	225.0
+07	78.0	215.0	90.0	91.0
+08	136.0	33.0	163.0	142.0
+09	24.0	0.0	422.0	28.0
+10	0.0	474.0	0.0	0.0
+11	368.0	0.0	106.0	0.0
+12	133.0	128.0	99.0	114.0
+13	221.0	63.0	0.0	190.0
+14	214.0	12.0	0.0	248.0
+XX
+CC tax_group:insects
+CC tf_family:Jun-related; Maf-related
+CC tf_class:Basic leucine zipper factors (bZIP); Basic leucine zipper factors (bZIP)
+CC pubmed_ids:10952900
+CC uniprot_ids:P20482; Q4QPP9
+CC data_type:ChIP-chip
+XX
+//
+AC MA0531.2
+XX
+ID CTCF
+XX
+DE MA0531.2 CTCF ; From JASPAR
+PO	A	C	G	T
+01	257.0	714.0	87.0	844.0
+02	1534.0	1.0	192.0	175.0
+03	202.0	0.0	1700.0	0.0
+04	987.0	0.0	912.0	3.0
+05	2.0	4.0	311.0	1585.0
+06	0.0	0.0	1902.0	0.0
+07	2.0	0.0	1652.0	248.0
+08	124.0	1645.0	3.0	130.0
+09	1.0	0.0	1807.0	94.0
+10	79.0	1514.0	8.0	301.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:17616980
+CC uniprot_ids:Q9VS55
+CC data_type:ChIP-chip
+XX
+//
+AC MA0185.2
+XX
+ID Deaf1
+XX
+DE MA0185.2 Deaf1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	3.0	0.0	7.0
+02	0.0	0.0	0.0	10.0
+03	0.0	10.0	0.0	0.0
+04	0.0	0.0	10.0	0.0
+05	0.0	0.0	5.0	5.0
+XX
+CC tax_group:insects
+CC tf_family:DEAF
+CC tf_class:SAND domain factors
+CC pubmed_ids:15572468
+CC uniprot_ids:Q24180
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA1455.2
+XX
+ID dmrt99B
+XX
+DE MA1455.2 dmrt99B ; From JASPAR
+PO	A	C	G	T
+01	92.0	38.0	808.0	60.0
+02	341.0	288.0	9.0	360.0
+03	348.0	85.0	39.0	526.0
+04	979.0	4.0	8.0	7.0
+05	10.0	955.0	10.0	23.0
+06	856.0	8.0	10.0	124.0
+07	934.0	26.0	39.0	0.0
+08	137.0	21.0	11.0	829.0
+09	41.0	12.0	933.0	12.0
+10	3.0	4.0	2.0	989.0
+11	618.0	35.0	66.0	279.0
+12	356.0	11.0	260.0	371.0
+13	63.0	825.0	27.0	82.0
+XX
+CC tax_group:insects
+CC tf_family:DMRT factors
+CC tf_class:DM-type intertwined zinc finger factors
+CC pubmed_ids:31133749
+CC uniprot_ids:Q9VAI8
+CC data_type:HT-SELEX
+XX
+//
+AC MA1456.2
+XX
+ID Dref
+XX
+DE MA1456.2 Dref ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	3112.0
+02	3112.0	0.0	0.0	0.0
+03	0.0	0.0	0.0	3112.0
+04	0.0	3112.0	0.0	0.0
+05	0.0	0.0	3112.0	0.0
+06	3112.0	0.0	0.0	0.0
+07	367.0	166.0	122.0	2457.0
+08	1825.0	188.0	459.0	640.0
+XX
+CC tax_group:insects
+CC tf_family:BED zinc finger factors
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21097781
+CC uniprot_ids:O96083
+CC data_type:ChIP-seq
+XX
+//
+AC MA1836.2
+XX
+ID dsx
+XX
+DE MA1836.2 dsx ; From JASPAR
+PO	A	C	G	T
+01	5460.0	97.0	26.0	233.0
+02	0.0	5444.0	124.0	248.0
+03	5236.0	120.0	151.0	309.0
+04	4573.0	247.0	249.0	747.0
+05	736.0	151.0	121.0	4808.0
+06	330.0	103.0	5383.0	0.0
+07	233.0	22.0	137.0	5424.0
+XX
+CC tax_group:insects
+CC tf_family:DMRT factors
+CC tf_class:DM-type intertwined zinc finger factors
+CC pubmed_ids:15572468
+CC uniprot_ids:P23023
+CC data_type:
+XX
+//
+AC MA0915.2
+XX
+ID dve
+XX
+DE MA0915.2 dve ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	999.0
+02	999.0	0.0	0.0	0.0
+03	999.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	999.0
+05	0.0	999.0	0.0	0.0
+06	0.0	971.0	0.0	29.0
+XX
+CC tax_group:insects
+CC tf_family:HD-CUT
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:Q9W268
+CC data_type:PBM
+XX
+//
+AC MA0189.2
+XX
+ID E5
+XX
+DE MA0189.2 E5 ; From JASPAR
+PO	A	C	G	T
+01	3.0	0.0	0.0	40.0
+02	43.0	0.0	0.0	0.0
+03	42.0	0.0	0.0	1.0
+04	1.0	0.0	1.0	41.0
+05	5.0	0.0	16.0	22.0
+06	34.0	0.0	9.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:NK
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VFQ3
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA1837.2
+XX
+ID Elba1
+XX
+DE MA1837.2 Elba1 ; From JASPAR
+PO	A	C	G	T
+01	80.0	3594.0	88.0	289.0
+02	3723.0	96.0	101.0	131.0
+03	3717.0	86.0	127.0	121.0
+04	174.0	106.0	74.0	3697.0
+05	978.0	304.0	66.0	2703.0
+06	3739.0	112.0	182.0	18.0
+07	25.0	68.0	3882.0	76.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:23240086
+CC uniprot_ids:Q9VR17
+CC data_type:
+XX
+//
+AC MA1838.2
+XX
+ID Elba2
+XX
+DE MA1838.2 Elba2 ; From JASPAR
+PO	A	C	G	T
+01	142.0	3857.0	122.0	309.0
+02	3977.0	150.0	127.0	176.0
+03	3958.0	115.0	171.0	186.0
+04	231.0	131.0	131.0	3937.0
+05	726.0	298.0	99.0	3307.0
+06	4033.0	133.0	234.0	30.0
+07	40.0	114.0	4148.0	128.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:23240086
+CC uniprot_ids:Q9VQD6
+CC data_type:
+XX
+//
+AC MA0222.2
+XX
+ID exd
+XX
+DE MA0222.2 exd ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	2.0	14.0
+02	0.0	0.0	0.0	17.0
+03	0.0	0.0	0.0	17.0
+04	0.0	0.0	17.0	0.0
+05	17.0	0.0	0.0	0.0
+06	0.0	12.0	0.0	5.0
+07	11.0	0.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P40427
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA1839.2
+XX
+ID GATAd
+XX
+DE MA1839.2 GATAd ; From JASPAR
+PO	A	C	G	T
+01	65.0	1438.0	62.0	32.0
+02	81.0	46.0	36.0	1434.0
+03	74.0	54.0	42.0	1427.0
+04	1483.0	68.0	37.0	9.0
+05	57.0	49.0	37.0	1454.0
+06	38.0	1460.0	31.0	68.0
+07	1168.0	51.0	241.0	137.0
+XX
+CC tax_group:insects
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:21097781
+CC uniprot_ids:Q95TF1
+CC data_type:
+XX
+//
+AC MA1840.2
+XX
+ID gcm
+XX
+DE MA1840.2 gcm ; From JASPAR
+PO	A	C	G	T
+01	83.0	9705.0	110.0	202.0
+02	162.0	9704.0	53.0	181.0
+03	549.0	9113.0	164.0	274.0
+04	619.0	384.0	8643.0	454.0
+05	110.0	9382.0	132.0	476.0
+06	9478.0	180.0	115.0	327.0
+07	308.0	1335.0	818.0	7639.0
+XX
+CC tax_group:insects
+CC tf_family:GCM
+CC tf_class:GCM domain factors
+CC pubmed_ids:9580683
+CC uniprot_ids:Q27403
+CC data_type:
+XX
+//
+AC MA1457.2
+XX
+ID grh
+XX
+DE MA1457.2 grh ; From JASPAR
+PO	A	C	G	T
+01	1915.0	477.0	535.0	405.0
+02	3090.0	27.0	89.0	126.0
+03	3211.0	20.0	57.0	44.0
+04	29.0	3265.0	18.0	20.0
+05	187.0	2825.0	199.0	121.0
+06	1914.0	194.0	838.0	386.0
+07	20.0	57.0	3221.0	34.0
+08	49.0	34.0	23.0	3226.0
+09	58.0	96.0	23.0	3155.0
+10	358.0	569.0	407.0	1998.0
+XX
+CC tax_group:insects
+CC tf_family:Grainyhead-related factors
+CC tf_class:Grainyhead domain factors
+CC pubmed_ids:28760809
+CC uniprot_ids:P13002
+CC data_type:ChIP-seq
+XX
+//
+AC MA1458.2
+XX
+ID Hsf
+XX
+DE MA1458.2 Hsf ; From JASPAR
+PO	A	C	G	T
+01	74.0	57.0	43.0	1948.0
+02	43.0	38.0	49.0	1992.0
+03	11.0	2070.0	22.0	19.0
+04	54.0	1297.0	279.0	492.0
+05	1981.0	51.0	49.0	41.0
+06	33.0	37.0	2036.0	16.0
+07	1996.0	66.0	29.0	31.0
+08	1936.0	41.0	50.0	95.0
+XX
+CC tax_group:insects
+CC tf_family:HSF factors
+CC tf_class:Heat shock factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P22813
+CC data_type:ChIP-seq
+XX
+//
+AC MA1841.2
+XX
+ID kn
+XX
+DE MA1841.2 kn ; From JASPAR
+PO	A	C	G	T
+01	16.0	18.0	11.0	236.0
+02	1.0	277.0	1.0	2.0
+03	6.0	252.0	5.0	18.0
+04	4.0	259.0	9.0	9.0
+05	47.0	174.0	22.0	38.0
+06	153.0	25.0	54.0	49.0
+07	12.0	6.0	258.0	5.0
+08	27.0	7.0	243.0	4.0
+09	2.0	5.0	272.0	2.0
+10	227.0	8.0	27.0	19.0
+XX
+CC tax_group:insects
+CC tf_family:EBF-related
+CC tf_class:Rel homology region (RHR) factors
+CC pubmed_ids:25779349
+CC uniprot_ids:P56721
+CC data_type:
+XX
+//
+AC MA0451.2
+XX
+ID kni
+XX
+DE MA0451.2 kni ; From JASPAR
+PO	A	C	G	T
+01	19.0	1.0	2.0	4.0
+02	25.0	1.0	0.0	0.0
+03	16.0	0.0	0.0	10.0
+04	5.0	9.0	6.0	6.0
+05	0.0	4.0	1.0	21.0
+06	21.0	0.0	5.0	0.0
+07	0.0	0.0	26.0	0.0
+08	17.0	0.0	8.0	1.0
+09	1.0	3.0	18.0	4.0
+10	0.0	26.0	0.0	0.0
+11	25.0	0.0	1.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:Thyroid hormone receptor-related factors (NR1)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:18332042
+CC uniprot_ids:P10734
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0452.3
+XX
+ID Kr
+XX
+DE MA0452.3 Kr ; From JASPAR
+PO	A	C	G	T
+01	151.0	386.0	73.0	686.0
+02	1248.0	0.0	0.0	48.0
+03	1080.0	216.0	0.0	0.0
+04	11.0	1170.0	0.0	115.0
+05	0.0	1177.0	0.0	119.0
+06	0.0	1296.0	0.0	0.0
+07	0.0	202.0	0.0	1094.0
+08	0.0	0.0	0.0	1296.0
+09	0.0	113.0	0.0	1183.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P07247
+CC data_type:ChIP-chip
+XX
+//
+AC MA0195.2
+XX
+ID Lim3
+XX
+DE MA0195.2 Lim3 ; From JASPAR
+PO	A	C	G	T
+01	4.0	0.0	0.0	16.0
+02	16.0	0.0	3.0	1.0
+03	20.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	20.0
+05	0.0	2.0	4.0	14.0
+06	16.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HD-LIM
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9VJ02
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA1459.2
+XX
+ID M1BP
+XX
+DE MA1459.2 M1BP ; From JASPAR
+PO	A	C	G	T
+01	54.0	827.0	54.0	526.0
+02	36.0	5.0	1412.0	8.0
+03	6.0	3.0	1429.0	23.0
+04	2.0	165.0	61.0	1233.0
+05	69.0	1372.0	5.0	15.0
+06	1382.0	29.0	17.0	33.0
+07	1.0	1384.0	4.0	72.0
+08	1308.0	15.0	18.0	120.0
+09	1.0	1393.0	2.0	65.0
+10	58.0	130.0	12.0	1261.0
+11	291.0	72.0	939.0	159.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:23708796
+CC uniprot_ids:Q9VHM3
+CC data_type:ChIP-seq
+XX
+//
+AC MA0197.3
+XX
+ID nub
+XX
+DE MA0197.3 nub ; From JASPAR
+PO	A	C	G	T
+01	2.0	1.0	1.0	25.0
+02	29.0	0.0	0.0	0.0
+03	0.0	0.0	0.0	29.0
+04	0.0	0.0	25.0	4.0
+05	0.0	19.0	1.0	9.0
+06	24.0	0.0	0.0	5.0
+07	28.0	0.0	1.0	0.0
+08	28.0	0.0	0.0	1.0
+09	4.0	1.0	0.0	24.0
+10	6.0	5.0	8.0	10.0
+11	19.0	5.0	1.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:POU domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P31368
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0126.2
+XX
+ID ovo
+XX
+DE MA0126.2 ovo ; From JASPAR
+PO	A	C	G	T
+01	10.0	4.0	0.0	7.0
+02	1.0	4.0	14.0	2.0
+03	4.0	2.0	2.0	13.0
+04	20.0	0.0	0.0	1.0
+05	21.0	0.0	0.0	0.0
+06	0.0	21.0	0.0	0.0
+07	7.0	5.0	3.0	6.0
+08	0.0	0.0	21.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:10637336
+CC uniprot_ids:P51521
+CC data_type:SELEX
+XX
+//
+AC MA1702.2
+XX
+ID Pdp1
+XX
+DE MA1702.2 Pdp1 ; From JASPAR
+PO	A	C	G	T
+01	126.0	46.0	64.0	4580.0
+02	110.0	49.0	119.0	4538.0
+03	4468.0	35.0	218.0	95.0
+04	109.0	340.0	74.0	4293.0
+05	331.0	76.0	4221.0	188.0
+06	154.0	3282.0	79.0	1301.0
+07	4598.0	88.0	71.0	59.0
+08	4606.0	60.0	68.0	82.0
+XX
+CC tax_group:insects
+CC tf_family:CEBP-related
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:25779349
+CC uniprot_ids:Q24217
+CC data_type:ChIP-seq
+XX
+//
+AC MA0457.2
+XX
+ID PHDP
+XX
+DE MA0457.2 PHDP ; From JASPAR
+PO	A	C	G	T
+01	4.0	6.0	0.0	7.0
+02	0.0	0.0	0.0	17.0
+03	16.0	0.0	0.0	1.0
+04	17.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	17.0
+06	1.0	0.0	1.0	15.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q9W1H7
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA1460.2
+XX
+ID pho
+XX
+DE MA1460.2 pho ; From JASPAR
+PO	A	C	G	T
+01	6191.0	297.0	268.0	195.0
+02	104.0	154.0	124.0	6569.0
+03	143.0	318.0	6303.0	187.0
+04	116.0	150.0	6516.0	169.0
+05	299.0	6080.0	274.0	298.0
+06	340.0	5236.0	923.0	452.0
+07	498.0	179.0	5995.0	279.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:23471540
+CC uniprot_ids:Q8ST83
+CC data_type:ChIP-seq
+XX
+//
+AC MA0536.2
+XX
+ID pnr
+XX
+DE MA0536.2 pnr ; From JASPAR
+PO	A	C	G	T
+01	82.0	180.0	5.0	602.0
+02	802.0	0.0	0.0	67.0
+03	0.0	32.0	1.0	836.0
+04	0.0	869.0	0.0	0.0
+05	0.0	0.0	869.0	0.0
+06	869.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	869.0
+08	580.0	0.0	87.0	202.0
+09	123.0	0.0	530.0	216.0
+XX
+CC tax_group:insects
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:9367990
+CC uniprot_ids:Q9VEZ8
+CC data_type:ChIP-chip
+XX
+//
+AC MA0200.2
+XX
+ID Pph13
+XX
+DE MA0200.2 Pph13 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	21.0
+02	21.0	0.0	0.0	0.0
+03	21.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	21.0
+05	0.0	1.0	0.0	20.0
+06	13.0	1.0	6.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:Paired-related HD factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:Q8T0V5
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0239.2
+XX
+ID prd
+XX
+DE MA0239.2 prd ; From JASPAR
+PO	A	C	G	T
+01	10.0	4.0	0.0	7.0
+02	1.0	4.0	14.0	2.0
+03	4.0	2.0	2.0	13.0
+04	20.0	0.0	0.0	1.0
+05	21.0	0.0	0.0	0.0
+06	0.0	21.0	0.0	0.0
+07	7.0	5.0	3.0	6.0
+08	0.0	0.0	21.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:Paired box factors
+CC pubmed_ids:16041365
+CC uniprot_ids:P06601
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0243.2
+XX
+ID sd
+XX
+DE MA0243.2 sd ; From JASPAR
+PO	A	C	G	T
+01	3.0	0.0	8.0	3.0
+02	8.0	1.0	1.0	4.0
+03	4.0	8.0	1.0	1.0
+04	14.0	0.0	0.0	0.0
+05	1.0	1.0	0.0	12.0
+06	3.0	0.0	1.0	10.0
+07	0.0	8.0	0.0	6.0
+08	3.0	5.0	3.0	3.0
+09	4.0	1.0	2.0	7.0
+10	5.0	6.0	3.0	0.0
+11	5.0	1.0	7.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:TEF-1-related factors
+CC tf_class:TEA domain factors
+CC pubmed_ids:15572468
+CC uniprot_ids:P30052
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA0458.2
+XX
+ID slp1
+XX
+DE MA0458.2 slp1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	41.0
+02	3.0	0.0	38.0	0.0
+03	0.0	0.0	0.0	41.0
+04	0.0	0.0	1.0	40.0
+05	0.0	0.0	2.0	39.0
+06	27.0	0.0	4.0	10.0
+07	1.0	22.0	7.0	11.0
+08	17.0	8.0	15.0	1.0
+09	4.0	13.0	3.0	21.0
+10	15.0	3.0	4.0	19.0
+XX
+CC tax_group:insects
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P32030
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0086.3
+XX
+ID sna
+XX
+DE MA0086.3 sna ; From JASPAR
+PO	A	C	G	T
+01	454.0	57.0	387.0	102.0
+02	835.0	7.0	114.0	44.0
+03	5.0	984.0	6.0	5.0
+04	984.0	4.0	7.0	5.0
+05	87.0	4.0	903.0	6.0
+06	5.0	4.0	986.0	5.0
+07	5.0	4.0	7.0	984.0
+08	10.0	5.0	976.0	10.0
+09	42.0	455.0	184.0	319.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:8371971
+CC uniprot_ids:P08044
+CC data_type:SMiLE-seq
+XX
+//
+AC MA0532.2
+XX
+ID Stat92E
+XX
+DE MA0532.2 Stat92E ; From JASPAR
+PO	A	C	G	T
+01	91.0	1.0	17.0	9.0
+02	47.0	0.0	27.0	44.0
+03	0.0	1.0	1.0	116.0
+04	0.0	6.0	0.0	112.0
+05	0.0	106.0	0.0	12.0
+06	0.0	67.0	14.0	37.0
+07	38.0	21.0	30.0	29.0
+08	41.0	2.0	70.0	5.0
+09	0.0	1.0	117.0	0.0
+10	113.0	0.0	2.0	3.0
+11	118.0	0.0	0.0	0.0
+12	63.0	9.0	10.0	36.0
+XX
+CC tax_group:insects
+CC tf_family:STAT factors
+CC tf_class:STAT domain factors
+CC pubmed_ids:8608596
+CC uniprot_ids:Q24151
+CC data_type:ChIP-chip
+XX
+//
+AC MA1461.2
+XX
+ID sv
+XX
+DE MA1461.2 sv ; From JASPAR
+PO	A	C	G	T
+01	2.0	273.0	444.0	279.0
+02	58.0	734.0	4.0	202.0
+03	644.0	15.0	312.0	26.0
+04	152.0	284.0	383.0	179.0
+05	1.0	323.0	5.0	669.0
+06	2.0	640.0	356.0	1.0
+07	934.0	2.0	59.0	4.0
+08	375.0	29.0	68.0	526.0
+09	1.0	129.0	868.0	1.0
+10	1.0	982.0	3.0	12.0
+11	106.0	1.0	890.0	1.0
+12	4.0	2.0	8.0	983.0
+13	128.0	1.0	868.0	1.0
+14	945.0	2.0	13.0	38.0
+15	25.0	971.0	2.0	1.0
+16	71.0	213.0	669.0	45.0
+XX
+CC tax_group:insects
+CC tf_family:Paired domain only
+CC tf_class:Paired box factors
+CC pubmed_ids:19718746
+CC uniprot_ids:O16804
+CC data_type:HT-SELEX
+XX
+//
+AC MA0247.3
+XX
+ID tin
+XX
+DE MA0247.3 tin ; From JASPAR
+PO	A	C	G	T
+01	0.0	188.0	137.0	190.0
+02	0.0	51.0	0.0	464.0
+03	0.0	425.0	34.0	56.0
+04	326.0	0.0	189.0	0.0
+05	515.0	0.0	0.0	0.0
+06	0.0	0.0	515.0	0.0
+07	0.0	0.0	0.0	515.0
+08	0.0	0.0	515.0	0.0
+09	13.0	157.0	301.0	44.0
+XX
+CC tax_group:insects
+CC tf_family:Homeo
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P22711
+CC data_type:ChIP-chip
+XX
+//
+AC MA0205.3
+XX
+ID Trl
+XX
+DE MA0205.3 Trl ; From JASPAR
+PO	A	C	G	T
+01	4107.0	597.0	1902.0	252.0
+02	6613.0	47.0	44.0	154.0
+03	91.0	54.0	6535.0	178.0
+04	6743.0	21.0	44.0	50.0
+05	10.0	38.0	6783.0	27.0
+06	6603.0	182.0	45.0	28.0
+07	141.0	29.0	6638.0	50.0
+08	5105.0	845.0	495.0	413.0
+09	1888.0	621.0	3800.0	549.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:22099633
+CC uniprot_ids:Q08605
+CC data_type:ChIP-seq
+XX
+//
+AC MA0249.3
+XX
+ID twi
+XX
+DE MA0249.3 twi ; From JASPAR
+PO	A	C	G	T
+01	2583.0	166.0	69.0	78.0
+02	15.0	2804.0	24.0	53.0
+03	2844.0	26.0	11.0	15.0
+04	16.0	2025.0	154.0	701.0
+05	2723.0	57.0	83.0	33.0
+06	31.0	69.0	46.0	2750.0
+07	137.0	54.0	2671.0	34.0
+XX
+CC tax_group:insects
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:25779349
+CC uniprot_ids:P10627
+CC data_type:ChIP-seq
+XX
+//
+AC MA0094.3
+XX
+ID Ubx
+XX
+DE MA0094.3 Ubx ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	20.0
+02	0.0	0.0	0.0	20.0
+03	17.0	0.0	0.0	3.0
+04	20.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	20.0
+06	0.0	0.0	6.0	14.0
+07	14.0	0.0	6.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18585360
+CC uniprot_ids:P83949
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0016.2
+XX
+ID usp
+XX
+DE MA0016.2 usp ; From JASPAR
+PO	A	C	G	T
+01	0.0	1.0	37.0	0.0
+02	1.0	0.0	36.0	1.0
+03	0.0	0.0	38.0	0.0
+04	0.0	0.0	38.0	0.0
+05	0.0	0.0	0.0	38.0
+06	0.0	36.0	1.0	1.0
+07	35.0	0.0	3.0	0.0
+08	5.0	25.0	3.0	5.0
+09	5.0	8.0	22.0	3.0
+XX
+CC tax_group:insects
+CC tf_family:RXR-related receptors (NR2)
+CC tf_class:Nuclear receptors with C4 zinc fingers
+CC pubmed_ids:1280827
+CC uniprot_ids:P20153
+CC data_type:SELEX
+XX
+//
+AC MA1462.2
+XX
+ID vfl
+XX
+DE MA1462.2 vfl ; From JASPAR
+PO	A	C	G	T
+01	52.0	10668.0	180.0	831.0
+02	11435.0	28.0	163.0	105.0
+03	43.0	58.0	11602.0	28.0
+04	91.0	53.0	11545.0	42.0
+05	93.0	689.0	37.0	10912.0
+06	11460.0	125.0	94.0	52.0
+07	2143.0	1746.0	6863.0	979.0
+XX
+CC tax_group:insects
+CC tf_family:More than 3 adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:22028662
+CC uniprot_ids:Q9VWC6
+CC data_type:ChIP-seq
+XX
+//
+AC MA0252.2
+XX
+ID vis
+XX
+DE MA0252.2 vis ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	22.0
+02	0.0	0.0	22.0	0.0
+03	22.0	0.0	0.0	0.0
+04	0.0	22.0	0.0	0.0
+05	22.0	0.0	0.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:A1Z913
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0255.2
+XX
+ID z
+XX
+DE MA0255.2 z ; From JASPAR
+PO	A	C	G	T
+01	11.0	3.0	5.0	22.0
+02	1.0	7.0	3.0	30.0
+03	1.0	0.0	40.0	0.0
+04	41.0	0.0	0.0	0.0
+05	1.0	0.0	40.0	0.0
+06	8.0	10.0	0.0	23.0
+07	2.0	6.0	29.0	4.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:15572468
+CC uniprot_ids:P09956
+CC data_type:DNaseI footprinting
+XX
+//
+AC MA0257.2
+XX
+ID zen2
+XX
+DE MA0257.2 zen2 ; From JASPAR
+PO	A	C	G	T
+01	1.0	0.0	0.0	25.0
+02	26.0	0.0	0.0	0.0
+03	26.0	0.0	0.0	0.0
+04	0.0	1.0	0.0	25.0
+05	0.0	0.0	10.0	16.0
+06	22.0	0.0	4.0	0.0
+XX
+CC tax_group:insects
+CC tf_family:HOX
+CC tf_class:Homeo domain factors
+CC pubmed_ids:18332042
+CC uniprot_ids:P09090
+CC data_type:bacterial 1-hybrid
+XX
+//
+AC MA0085.2
+XX
+ID Su(H)
+XX
+DE MA0085.2 Su(H) ; From JASPAR
+PO	A	C	G	T
+01	0.0	4.0	0.0	6.0
+02	0.0	0.0	10.0	0.0
+03	0.0	0.0	0.0	10.0
+04	0.0	0.0	10.0	0.0
+05	3.0	0.0	7.0	0.0
+06	0.0	0.0	10.0	0.0
+07	10.0	0.0	0.0	0.0
+08	10.0	0.0	0.0	0.0
+09	5.0	5.0	0.0	0.0
+10	1.0	7.0	1.0	1.0
+XX
+CC tax_group:insects
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:7590239
+CC uniprot_ids:
+CC data_type:COMPILED
+XX
+//

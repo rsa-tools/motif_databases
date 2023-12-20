@@ -1,0 +1,4079 @@
+AC MA0271.1
+XX
+ID ARG80
+XX
+DE MA0271.1 ARG80 ; From JASPAR
+PO	A	C	G	T
+01	89.0	0.0	0.0	69.0
+02	0.0	0.0	301.0	0.0
+03	161.0	0.0	0.0	0.0
+04	0.0	301.0	0.0	0.0
+05	44.0	0.0	79.0	69.0
+06	0.0	256.0	0.0	20.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:MADS box factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P07249
+CC data_type:ChIP-chip
+XX
+//
+AC MA0274.1
+XX
+ID ARR1
+XX
+DE MA0274.1 ARR1 ; From JASPAR
+PO	A	C	G	T
+01	160.0	0.0	0.0	0.0
+02	24.0	75.0	29.0	73.0
+03	30.0	70.0	0.0	87.0
+04	0.0	0.0	0.0	161.0
+05	73.0	0.0	161.0	0.0
+06	129.0	41.0	12.0	0.0
+07	137.0	0.0	29.0	3.0
+08	11.0	0.0	24.0	129.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:16522208
+CC uniprot_ids:Q06596
+CC data_type:ChIP-chip
+XX
+//
+AC MA0275.1
+XX
+ID ASG1
+XX
+DE MA0275.1 ASG1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	76.0	0.0	24.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	72.0	11.0	16.0	0.0
+06	53.0	0.0	0.0	47.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P40467
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0276.1
+XX
+ID ASH1
+XX
+DE MA0276.1 ASH1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	220.0	8.0	35.0
+02	0.0	291.0	0.0	3.0
+03	61.0	21.0	133.0	10.0
+04	58.0	54.0	101.0	12.0
+05	130.0	0.0	54.0	0.0
+06	0.0	11.0	8.0	147.0
+07	33.0	150.0	8.0	35.0
+08	80.0	0.0	92.0	26.0
+09	0.0	8.0	249.0	19.0
+10	0.0	0.0	256.0	18.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P34233
+CC data_type:ChIP-chip
+XX
+//
+AC MA0277.1
+XX
+ID AZF1
+XX
+DE MA0277.1 AZF1 ; From JASPAR
+PO	A	C	G	T
+01	63.0	13.0	13.0	13.0
+02	100.0	0.0	0.0	0.0
+03	100.0	0.0	0.0	0.0
+04	88.0	13.0	0.0	0.0
+05	75.0	0.0	25.0	0.0
+06	0.0	0.0	100.0	0.0
+07	78.0	16.0	3.0	3.0
+08	81.0	6.0	6.0	6.0
+09	63.0	13.0	13.0	13.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P41696
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0283.1
+XX
+ID CHA4
+XX
+DE MA0283.1 CHA4 ; From JASPAR
+PO	A	C	G	T
+01	22.0	5.0	68.0	5.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	71.0	0.0	28.0	0.0
+07	22.0	1.0	76.0	1.0
+08	48.0	10.0	10.0	31.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P43634
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0287.1
+XX
+ID CUP2
+XX
+DE MA0287.1 CUP2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	7.0	0.0	2.0
+02	9.0	0.0	0.0	0.0
+03	0.0	0.0	9.0	0.0
+04	2.0	7.0	0.0	0.0
+05	6.0	0.0	3.0	0.0
+06	4.0	1.0	4.0	0.0
+07	9.0	0.0	0.0	0.0
+08	9.0	0.0	0.0	0.0
+09	7.0	0.0	2.0	0.0
+10	4.0	0.0	0.0	5.0
+11	2.0	0.0	7.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Copper-fist DNA-binding domain
+CC pubmed_ids:17130146
+CC uniprot_ids:P15315
+CC data_type:COMPILED
+XX
+//
+AC MA0288.1
+XX
+ID CUP9
+XX
+DE MA0288.1 CUP9 ; From JASPAR
+PO	A	C	G	T
+01	7.0	10.0	3.0	79.0
+02	0.0	0.0	100.0	0.0
+03	84.0	0.0	9.0	7.0
+04	1.0	99.0	0.0	0.0
+05	91.0	0.0	9.0	0.0
+06	0.0	64.0	9.0	27.0
+07	75.0	15.0	0.0	10.0
+08	40.0	0.0	0.0	60.0
+09	39.0	13.0	3.0	45.0
+XX
+CC tax_group:fungi
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P41817
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0289.1
+XX
+ID DAL80
+XX
+DE MA0289.1 DAL80 ; From JASPAR
+PO	A	C	G	T
+01	11.0	67.0	6.0	17.0
+02	0.0	0.0	100.0	0.0
+03	100.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	100.0
+05	100.0	0.0	0.0	0.0
+06	90.0	1.0	1.0	7.0
+07	3.0	19.0	75.0	3.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P26343
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0290.1
+XX
+ID DAL81
+XX
+DE MA0290.1 DAL81 ; From JASPAR
+PO	A	C	G	T
+01	203.0	0.0	0.0	0.0
+02	203.0	0.0	0.0	0.0
+03	203.0	0.0	0.0	0.0
+04	203.0	0.0	0.0	0.0
+05	0.0	0.0	203.0	0.0
+06	0.0	203.0	0.0	0.0
+07	0.0	203.0	0.0	0.0
+08	0.0	0.0	203.0	0.0
+09	0.0	203.0	0.0	0.0
+10	0.0	0.0	203.0	0.0
+11	0.0	0.0	203.0	0.0
+12	0.0	0.0	203.0	0.0
+13	0.0	203.0	0.0	0.0
+14	0.0	0.0	203.0	0.0
+15	0.0	0.0	203.0	0.0
+16	0.0	0.0	203.0	0.0
+17	203.0	0.0	0.0	0.0
+18	0.0	0.0	0.0	203.0
+19	0.0	0.0	0.0	203.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P21657
+CC data_type:ChIP-chip
+XX
+//
+AC MA0291.1
+XX
+ID DAL82
+XX
+DE MA0291.1 DAL82 ; From JASPAR
+PO	A	C	G	T
+01	56.0	14.0	14.0	14.0
+02	53.0	11.0	5.0	32.0
+03	39.0	3.0	3.0	55.0
+04	26.0	11.0	42.0	21.0
+05	0.0	26.0	0.0	74.0
+06	0.0	0.0	100.0	0.0
+07	0.0	100.0	0.0	0.0
+08	0.0	0.0	100.0	0.0
+09	11.0	68.0	11.0	11.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:19111667
+CC uniprot_ids:P21705
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0297.1
+XX
+ID FKH2
+XX
+DE MA0297.1 FKH2 ; From JASPAR
+PO	A	C	G	T
+01	13.0	0.0	88.0	0.0
+02	0.0	0.0	0.0	100.0
+03	100.0	0.0	0.0	0.0
+04	100.0	0.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	0.0	100.0	0.0	0.0
+07	100.0	0.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P41813
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0299.1
+XX
+ID GAL4
+XX
+DE MA0299.1 GAL4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	2779.0	0.0	0.0
+02	0.0	0.0	2779.0	0.0
+03	0.0	438.0	2273.0	97.0
+04	778.0	655.0	927.0	717.0
+05	292.0	1137.0	1151.0	498.0
+06	1019.0	810.0	1002.0	390.0
+07	2339.0	0.0	538.0	98.0
+08	567.0	1296.0	810.0	194.0
+09	1913.0	335.0	0.0	737.0
+10	659.0	592.0	1744.0	204.0
+11	96.0	767.0	494.0	1786.0
+12	1170.0	517.0	1105.0	404.0
+13	0.0	1437.0	729.0	824.0
+14	235.0	392.0	419.0	2001.0
+15	0.0	2779.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P04386
+CC data_type:PBM
+XX
+//
+AC MA0304.1
+XX
+ID GCR1
+XX
+DE MA0304.1 GCR1 ; From JASPAR
+PO	A	C	G	T
+01	719.0	31.0	77.0	1822.0
+02	0.0	142.0	2318.0	0.0
+03	0.0	22.0	2438.0	0.0
+04	2460.0	0.0	0.0	0.0
+05	2157.0	10.0	0.0	294.0
+06	9.0	13.0	2326.0	121.0
+07	553.0	1703.0	0.0	240.0
+08	0.0	1932.0	15.0	651.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:10487868
+CC uniprot_ids:P07261
+CC data_type:COMPILED
+XX
+//
+AC MA0307.1
+XX
+ID GLN3
+XX
+DE MA0307.1 GLN3 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	100.0	0.0	0.0	0.0
+03	0.0	0.0	0.0	100.0
+04	74.0	0.0	0.0	26.0
+05	61.0	0.0	27.0	12.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P18494
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0311.1
+XX
+ID HAL9
+XX
+DE MA0311.1 HAL9 ; From JASPAR
+PO	A	C	G	T
+01	0.0	99.0	0.0	0.0
+02	0.0	0.0	99.0	0.0
+03	0.0	0.0	99.0	0.0
+04	99.0	0.0	0.0	0.0
+05	62.0	0.0	37.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12180
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0313.1
+XX
+ID HAP2
+XX
+DE MA0313.1 HAP2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	3939.0
+02	0.0	0.0	40.0	3897.0
+03	22.0	0.0	3922.0	0.0
+04	0.0	0.0	3932.0	7.0
+05	675.0	1619.0	131.0	1847.0
+XX
+CC tax_group:fungi
+CC tf_family:Heteromeric CCAAT-binding
+CC tf_class:Heteromeric CCAAT-binding factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P06774
+CC data_type:COMPILED
+XX
+//
+AC MA0318.1
+XX
+ID HMRA2
+XX
+DE MA0318.1 HMRA2 ; From JASPAR
+PO	A	C	G	T
+01	6.0	67.0	6.0	21.0
+02	54.0	0.0	46.0	0.0
+03	4.0	0.0	0.0	96.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	0.0	100.0
+06	93.0	0.0	0.0	7.0
+07	88.0	2.0	2.0	9.0
+08	40.0	8.0	8.0	44.0
+XX
+CC tax_group:fungi
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P0CY13
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0320.1
+XX
+ID IME1
+XX
+DE MA0320.1 IME1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	301.0	0.0	0.0
+02	0.0	232.0	61.0	0.0
+03	0.0	0.0	301.0	0.0
+04	0.0	301.0	0.0	0.0
+05	0.0	189.0	75.0	15.0
+06	0.0	0.0	301.0	0.0
+07	161.0	0.0	0.0	0.0
+08	16.0	0.0	266.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:16522208
+CC uniprot_ids:P21190
+CC data_type:ChIP-chip
+XX
+//
+AC MA0321.1
+XX
+ID INO2
+XX
+DE MA0321.1 INO2 ; From JASPAR
+PO	A	C	G	T
+01	18.0	29.0	198.0	4.0
+02	0.0	275.0	0.0	0.0
+03	155.0	7.0	0.0	4.0
+04	0.0	25.0	0.0	150.0
+05	7.0	0.0	258.0	0.0
+06	8.0	0.0	11.0	147.0
+07	0.0	34.0	241.0	0.0
+08	141.0	16.0	23.0	0.0
+09	134.0	2.0	5.0	24.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:16522208
+CC uniprot_ids:P26798
+CC data_type:ChIP-chip
+XX
+//
+AC MA0322.1
+XX
+ID INO4
+XX
+DE MA0322.1 INO4 ; From JASPAR
+PO	A	C	G	T
+01	29.0	46.0	162.0	5.0
+02	0.0	236.0	0.0	19.0
+03	138.0	14.0	0.0	17.0
+04	0.0	0.0	0.0	168.0
+05	10.0	0.0	256.0	0.0
+06	0.0	0.0	0.0	167.0
+07	17.0	0.0	241.0	0.0
+08	146.0	7.0	23.0	0.0
+09	142.0	7.0	26.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:16522208
+CC uniprot_ids:P13902
+CC data_type:ChIP-chip
+XX
+//
+AC MA0323.1
+XX
+ID IXR1
+XX
+DE MA0323.1 IXR1 ; From JASPAR
+PO	A	C	G	T
+01	161.0	0.0	0.0	0.0
+02	121.0	0.0	0.0	37.0
+03	68.0	0.0	112.0	28.0
+04	28.0	228.0	0.0	6.0
+05	59.0	187.0	0.0	0.0
+06	59.0	0.0	187.0	0.0
+07	28.0	0.0	169.0	37.0
+08	121.0	0.0	71.0	0.0
+09	121.0	0.0	0.0	37.0
+10	0.0	0.0	301.0	0.0
+11	0.0	301.0	0.0	0.0
+12	28.0	0.0	244.0	0.0
+13	6.0	0.0	285.0	0.0
+14	0.0	0.0	112.0	99.0
+15	0.0	0.0	244.0	28.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P33417
+CC data_type:ChIP-chip
+XX
+//
+AC MA0324.1
+XX
+ID LEU3
+XX
+DE MA0324.1 LEU3 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	56.0	43.0
+04	20.0	0.0	35.0	45.0
+05	26.0	34.0	0.0	41.0
+06	47.0	12.0	16.0	25.0
+07	0.0	61.0	39.0	0.0
+08	0.0	100.0	0.0	0.0
+09	0.0	0.0	100.0	0.0
+10	0.0	32.0	68.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P08638
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0326.1
+XX
+ID MAC1
+XX
+DE MA0326.1 MAC1 ; From JASPAR
+PO	A	C	G	T
+01	108.0	0.0	0.0	1632.0
+02	89.0	0.0	219.0	1451.0
+03	0.0	0.0	0.0	1714.0
+04	115.0	0.0	1599.0	0.0
+05	0.0	1714.0	0.0	0.0
+06	0.0	0.0	0.0	1714.0
+07	0.0	1714.0	0.0	0.0
+08	958.0	0.0	655.0	113.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Copper-fist DNA-binding domain
+CC pubmed_ids:17130146
+CC uniprot_ids:P35192
+CC data_type:COMPILED
+XX
+//
+AC MA0327.1
+XX
+ID HMRA1
+XX
+DE MA0327.1 HMRA1 ; From JASPAR
+PO	A	C	G	T
+01	101.0	0.0	101.0	0.0
+02	0.0	203.0	0.0	0.0
+03	203.0	0.0	0.0	0.0
+04	0.0	203.0	0.0	0.0
+05	203.0	0.0	0.0	0.0
+06	203.0	0.0	0.0	0.0
+07	0.0	0.0	0.0	203.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Homeo domain factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P0CY11
+CC data_type:ChIP-chip
+XX
+//
+AC MA0330.1
+XX
+ID MBP1::SWI6
+XX
+DE MA0330.1 MBP1::SWI6 ; From JASPAR
+PO	A	C	G	T
+01	15153.0	0.0	405.0	6881.0
+02	82.0	21942.0	101.0	179.0
+03	45.0	182.0	21983.0	23.0
+04	31.0	19078.0	188.0	3065.0
+05	59.0	182.0	21982.0	21.0
+06	726.0	1491.0	1506.0	18880.0
+07	365.0	9107.0	882.0	13437.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:APSES-type DNA-binding domain
+CC pubmed_ids:17130146
+CC uniprot_ids:P09959; P39678
+CC data_type:COMPILED
+XX
+//
+AC MA0331.1
+XX
+ID MCM1
+XX
+DE MA0331.1 MCM1 ; From JASPAR
+PO	A	C	G	T
+01	1692.0	11356.0	405.0	368.0
+02	97.0	12733.0	0.0	971.0
+03	3002.0	5897.0	3023.0	4309.0
+04	6037.0	2220.0	3432.0	3681.0
+05	7789.0	195.0	642.0	5363.0
+06	936.0	237.0	0.0	12586.0
+07	1175.0	3860.0	542.0	9116.0
+08	6619.0	1176.0	5947.0	1957.0
+09	612.0	32.0	13102.0	0.0
+10	117.0	134.0	13351.0	16.0
+11	10592.0	966.0	319.0	2201.0
+12	12477.0	399.0	350.0	475.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:MADS box factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P11746
+CC data_type:COMPILED
+XX
+//
+AC MA0332.1
+XX
+ID MET28
+XX
+DE MA0332.1 MET28 ; From JASPAR
+PO	A	C	G	T
+01	0.0	203.0	0.0	0.0
+02	0.0	0.0	0.0	203.0
+03	0.0	0.0	203.0	0.0
+04	0.0	0.0	0.0	203.0
+05	0.0	0.0	203.0	0.0
+06	0.0	0.0	203.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:16522208
+CC uniprot_ids:P40573
+CC data_type:ChIP-chip
+XX
+//
+AC MA0340.1
+XX
+ID MOT3
+XX
+DE MA0340.1 MOT3 ; From JASPAR
+PO	A	C	G	T
+01	67.0	67.0	0.0	67.0
+02	203.0	0.0	0.0	0.0
+03	0.0	0.0	203.0	0.0
+04	0.0	0.0	203.0	0.0
+05	0.0	101.0	0.0	101.0
+06	203.0	0.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P54785
+CC data_type:ChIP-chip
+XX
+//
+AC MA0341.1
+XX
+ID MSN2
+XX
+DE MA0341.1 MSN2 ; From JASPAR
+PO	A	C	G	T
+01	60.0	7.0	32.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P33748
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0342.1
+XX
+ID MSN4
+XX
+DE MA0342.1 MSN4 ; From JASPAR
+PO	A	C	G	T
+01	83.0	0.0	16.0	0.0
+02	0.0	0.0	99.0	0.0
+03	0.0	0.0	99.0	0.0
+04	0.0	0.0	99.0	0.0
+05	0.0	0.0	99.0	1.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P33749
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0344.1
+XX
+ID NHP10
+XX
+DE MA0344.1 NHP10 ; From JASPAR
+PO	A	C	G	T
+01	20.0	10.0	60.0	10.0
+02	8.0	78.0	8.0	8.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	0.0	100.0	0.0
+07	0.0	0.0	100.0	0.0
+08	68.0	8.0	18.0	8.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q03435
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0353.1
+XX
+ID PDR3
+XX
+DE MA0353.1 PDR3 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	203.0
+02	0.0	203.0	0.0	0.0
+03	0.0	203.0	0.0	0.0
+04	0.0	0.0	203.0	0.0
+05	0.0	203.0	0.0	0.0
+06	0.0	0.0	203.0	0.0
+07	0.0	0.0	203.0	0.0
+08	203.0	0.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P33200
+CC data_type:ChIP-chip
+XX
+//
+AC MA0356.1
+XX
+ID PHO2
+XX
+DE MA0356.1 PHO2 ; From JASPAR
+PO	A	C	G	T
+01	52.0	0.0	8.0	41.0
+02	12.0	0.0	0.0	88.0
+03	100.0	0.0	0.0	0.0
+04	56.0	0.0	0.0	44.0
+05	23.0	0.0	0.0	77.0
+06	63.0	0.0	0.0	37.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P07269
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0357.1
+XX
+ID PHO4
+XX
+DE MA0357.1 PHO4 ; From JASPAR
+PO	A	C	G	T
+01	94.0	393.0	507.0	4.0
+02	97.0	900.0	0.0	1.0
+03	967.0	1.0	28.0	2.0
+04	0.0	911.0	1.0	85.0
+05	85.0	1.0	911.0	0.0
+06	2.0	28.0	1.0	967.0
+07	1.0	0.0	900.0	97.0
+08	4.0	507.0	393.0	94.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:18842628
+CC uniprot_ids:P07270
+CC data_type:PBM
+XX
+//
+AC MA0364.1
+XX
+ID REI1
+XX
+DE MA0364.1 REI1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	95.0	0.0	5.0
+02	5.0	95.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	0.0	100.0
+06	0.0	0.0	95.0	5.0
+07	56.0	8.0	23.0	13.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38344
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0366.1
+XX
+ID RGM1
+XX
+DE MA0366.1 RGM1 ; From JASPAR
+PO	A	C	G	T
+01	100.0	0.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	11.0	12.0	77.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q00453
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0368.1
+XX
+ID RIM101
+XX
+DE MA0368.1 RIM101 ; From JASPAR
+PO	A	C	G	T
+01	9.0	43.0	9.0	39.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	100.0	0.0	0.0	0.0
+07	0.0	0.0	100.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P33400
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0370.1
+XX
+ID RME1
+XX
+DE MA0370.1 RME1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	52.0	0.0	131.0
+02	16.0	96.0	33.0	69.0
+03	16.0	100.0	49.0	58.0
+04	160.0	0.0	0.0	0.0
+05	119.0	0.0	27.0	22.0
+06	139.0	29.0	0.0	2.0
+07	27.0	0.0	244.0	0.0
+08	34.0	0.0	229.0	0.0
+09	92.0	39.0	35.0	22.0
+10	126.0	0.0	19.0	18.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P32338
+CC data_type:ChIP-chip
+XX
+//
+AC MA0371.1
+XX
+ID ROX1
+XX
+DE MA0371.1 ROX1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	4.0	0.0	4.0
+02	0.0	6.0	0.0	2.0
+03	2.0	4.0	0.0	2.0
+04	7.0	1.0	0.0	0.0
+05	0.0	0.0	0.0	8.0
+06	0.0	0.0	1.0	7.0
+07	0.0	0.0	8.0	0.0
+08	0.0	0.0	0.0	8.0
+09	0.0	0.0	0.0	8.0
+10	0.0	5.0	1.0	2.0
+11	1.0	0.0	1.0	6.0
+12	0.0	5.0	2.0	1.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P25042
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0373.1
+XX
+ID RPN4
+XX
+DE MA0373.1 RPN4 ; From JASPAR
+PO	A	C	G	T
+01	23.0	0.0	67.0	9.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	12.0	88.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	100.0	0.0	0.0
+07	13.0	0.0	87.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q03465
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0379.1
+XX
+ID MOT2
+XX
+DE MA0379.1 MOT2 ; From JASPAR
+PO	A	C	G	T
+01	93.0	2.0	0.0	5.0
+02	0.0	0.0	0.0	99.0
+03	99.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	99.0
+05	99.0	0.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:RING-type zinc finger
+CC pubmed_ids:19111667
+CC uniprot_ids:P34909
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0387.1
+XX
+ID SPT2
+XX
+DE MA0387.1 SPT2 ; From JASPAR
+PO	A	C	G	T
+01	97.0	0.0	3.0	57.0
+02	66.0	44.0	12.0	58.0
+03	0.0	0.0	0.0	161.0
+04	4.0	0.0	0.0	152.0
+05	130.0	0.0	54.0	0.0
+06	120.0	23.0	46.0	0.0
+07	83.0	66.0	60.0	2.0
+08	0.0	0.0	105.0	102.0
+09	161.0	0.0	0.0	0.0
+10	122.0	0.0	69.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:16522208
+CC uniprot_ids:P06843
+CC data_type:ChIP-chip
+XX
+//
+AC MA0388.1
+XX
+ID SPT23
+XX
+DE MA0388.1 SPT23 ; From JASPAR
+PO	A	C	G	T
+01	95.0	0.0	119.0	0.0
+02	160.0	0.0	0.0	0.0
+03	143.0	0.0	22.0	2.0
+04	134.0	0.0	0.0	23.0
+05	1.0	36.0	0.0	135.0
+06	0.0	138.0	67.0	46.0
+07	108.0	37.0	18.0	16.0
+08	157.0	0.0	6.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:16522208
+CC uniprot_ids:P35210
+CC data_type:ChIP-chip
+XX
+//
+AC MA0391.1
+XX
+ID STB4
+XX
+DE MA0391.1 STB4 ; From JASPAR
+PO	A	C	G	T
+01	9.0	43.0	9.0	39.0
+02	0.0	0.0	0.0	100.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	100.0	0.0	0.0	0.0
+07	75.0	1.0	1.0	23.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P50104
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0392.1
+XX
+ID STB5
+XX
+DE MA0392.1 STB5 ; From JASPAR
+PO	A	C	G	T
+01	0.0	99.0	0.0	0.0
+02	0.0	0.0	99.0	0.0
+03	0.0	0.0	99.0	0.0
+04	23.0	19.0	26.0	32.0
+05	23.0	23.0	47.0	8.0
+06	19.0	25.0	12.0	45.0
+07	6.0	12.0	6.0	76.0
+08	96.0	1.0	1.0	1.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38699
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0393.1
+XX
+ID STE12
+XX
+DE MA0393.1 STE12 ; From JASPAR
+PO	A	C	G	T
+01	0.0	3261.0	96.0	25022.0
+02	4297.0	0.0	24137.0	198.0
+03	27122.0	0.0	1278.0	0.0
+04	25290.0	167.0	2703.0	0.0
+05	27887.0	0.0	0.0	0.0
+06	98.0	27779.0	0.0	97.0
+07	15301.0	3002.0	9387.0	2275.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:17130146
+CC uniprot_ids:P13574
+CC data_type:COMPILED
+XX
+//
+AC MA0394.1
+XX
+ID STP1
+XX
+DE MA0394.1 STP1 ; From JASPAR
+PO	A	C	G	T
+01	4.0	82.0	33.0	87.0
+02	49.0	0.0	192.0	0.0
+03	0.0	279.0	0.0	0.0
+04	0.0	0.0	266.0	4.0
+05	12.0	0.0	255.0	0.0
+06	0.0	279.0	0.0	0.0
+07	4.0	0.0	119.0	87.0
+08	4.0	94.0	70.0	57.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16522208
+CC uniprot_ids:Q00947
+CC data_type:ChIP-chip
+XX
+//
+AC MA0399.1
+XX
+ID SUT1
+XX
+DE MA0399.1 SUT1 ; From JASPAR
+PO	A	C	G	T
+01	23.0	142.0	36.0	29.0
+02	48.0	5.0	185.0	0.0
+03	0.0	266.0	0.0	0.0
+04	8.0	61.0	188.0	1.0
+05	0.0	46.0	226.0	0.0
+06	49.0	35.0	151.0	0.0
+07	44.0	14.0	170.0	4.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P53032
+CC data_type:ChIP-chip
+XX
+//
+AC MA0401.1
+XX
+ID SWI4
+XX
+DE MA0401.1 SWI4 ; From JASPAR
+PO	A	C	G	T
+01	62.0	8.0	15.0	15.0
+02	0.0	100.0	0.0	0.0
+03	15.0	0.0	85.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	100.0	0.0
+06	100.0	0.0	0.0	0.0
+07	94.0	2.0	2.0	2.0
+08	62.0	8.0	8.0	23.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:APSES-type DNA-binding domain
+CC pubmed_ids:19111667
+CC uniprot_ids:P25302
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0404.1
+XX
+ID TBS1
+XX
+DE MA0404.1 TBS1 ; From JASPAR
+PO	A	C	G	T
+01	12.0	78.0	5.0	5.0
+02	3.0	3.0	90.0	3.0
+03	2.0	2.0	95.0	2.0
+04	75.0	8.0	8.0	8.0
+05	20.0	13.0	13.0	53.0
+06	0.0	100.0	0.0	0.0
+07	0.0	100.0	0.0	0.0
+08	8.0	8.0	75.0	8.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38114
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0405.1
+XX
+ID TEA1
+XX
+DE MA0405.1 TEA1 ; From JASPAR
+PO	A	C	G	T
+01	5.0	5.0	75.0	15.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	40.0	60.0	0.0
+05	50.0	0.0	50.0	0.0
+06	0.0	80.0	20.0	0.0
+07	60.0	0.0	10.0	30.0
+08	15.0	20.0	5.0	60.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P47988
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0407.1
+XX
+ID THI2
+XX
+DE MA0407.1 THI2 ; From JASPAR
+PO	A	C	G	T
+01	103.0	0.0	1162.0	0.0
+02	0.0	0.0	1265.0	0.0
+03	680.0	573.0	0.0	61.0
+04	1265.0	0.0	0.0	0.0
+05	1265.0	0.0	0.0	0.0
+06	0.0	1024.0	0.0	241.0
+07	0.0	543.0	0.0	805.0
+08	71.0	599.0	571.0	90.0
+09	438.0	0.0	0.0	826.0
+10	921.0	0.0	0.0	344.0
+11	1265.0	0.0	0.0	0.0
+12	0.0	0.0	1265.0	0.0
+13	1265.0	0.0	0.0	0.0
+14	813.0	0.0	451.0	0.0
+15	129.0	1068.0	89.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P38141
+CC data_type:COMPILED
+XX
+//
+AC MA0409.1
+XX
+ID TYE7
+XX
+DE MA0409.1 TYE7 ; From JASPAR
+PO	A	C	G	T
+01	3.0	93.0	3.0	3.0
+02	100.0	0.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	10.0	90.0	0.0
+05	0.0	0.0	0.0	100.0
+06	0.0	0.0	100.0	0.0
+07	78.0	8.0	8.0	8.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:19111667
+CC uniprot_ids:P33122
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0417.1
+XX
+ID YAP5
+XX
+DE MA0417.1 YAP5 ; From JASPAR
+PO	A	C	G	T
+01	122.0	0.0	0.0	34.0
+02	124.0	0.0	67.0	0.0
+03	86.0	0.0	136.0	0.0
+04	0.0	264.0	0.0	17.0
+05	161.0	0.0	0.0	0.0
+06	19.0	0.0	0.0	137.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:16522208
+CC uniprot_ids:P40574
+CC data_type:ChIP-chip
+XX
+//
+AC MA0419.1
+XX
+ID YAP7
+XX
+DE MA0419.1 YAP7 ; From JASPAR
+PO	A	C	G	T
+01	7195.0	2582.0	195.0	869.0
+02	195.0	0.0	0.0	10410.0
+03	0.0	0.0	2132.0	8375.0
+04	10172.0	98.0	97.0	172.0
+05	1260.0	1168.0	8333.0	0.0
+06	0.0	97.0	0.0	10436.0
+07	7781.0	2526.0	198.0	0.0
+08	10507.0	0.0	0.0	0.0
+09	98.0	0.0	6311.0	4323.0
+10	2246.0	7759.0	509.0	394.0
+11	6606.0	1126.0	2313.0	1229.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:17130146
+CC uniprot_ids:Q08182
+CC data_type:COMPILED
+XX
+//
+AC MA0421.1
+XX
+ID NSI1
+XX
+DE MA0421.1 NSI1 ; From JASPAR
+PO	A	C	G	T
+01	174.0	0.0	274.0	1457.0
+02	0.0	0.0	40.0	1817.0
+03	0.0	103.0	0.0	1784.0
+04	1832.0	0.0	0.0	0.0
+05	0.0	1832.0	0.0	0.0
+06	0.0	1832.0	0.0	0.0
+07	118.0	1739.0	0.0	0.0
+08	0.0	0.0	1832.0	0.0
+09	49.0	0.0	1784.0	0.0
+10	779.0	841.0	117.0	291.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:17130146
+CC uniprot_ids:Q12457
+CC data_type:COMPILED
+XX
+//
+AC MA0426.1
+XX
+ID YHP1
+XX
+DE MA0426.1 YHP1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	203.0
+02	203.0	0.0	0.0	0.0
+03	203.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	203.0
+05	0.0	0.0	0.0	203.0
+06	0.0	0.0	203.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Homeo domain factors
+CC pubmed_ids:16522208
+CC uniprot_ids:Q04116
+CC data_type:ChIP-chip
+XX
+//
+AC MA0429.1
+XX
+ID YLL054C
+XX
+DE MA0429.1 YLL054C ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	21.0	64.0	14.0	0.0
+05	9.0	66.0	16.0	9.0
+06	13.0	5.0	77.0	5.0
+07	56.0	14.0	7.0	21.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12244
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0432.1
+XX
+ID YNR063W
+XX
+DE MA0432.1 YNR063W ; From JASPAR
+PO	A	C	G	T
+01	8.0	8.0	18.0	68.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	100.0	0.0	0.0	0.0
+06	10.0	0.0	80.0	10.0
+07	90.0	0.0	0.0	10.0
+08	33.0	3.0	3.0	63.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P53749
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0437.1
+XX
+ID YPR196W
+XX
+DE MA0437.1 YPR196W ; From JASPAR
+PO	A	C	G	T
+01	61.0	0.0	26.0	13.0
+02	32.0	0.0	0.0	68.0
+03	17.0	0.0	0.0	83.0
+04	24.0	4.0	2.0	69.0
+05	17.0	44.0	11.0	28.0
+06	12.0	32.0	7.0	49.0
+07	0.0	93.0	7.0	0.0
+08	0.0	100.0	0.0	0.0
+09	3.0	0.0	93.0	5.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q06595
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0440.1
+XX
+ID ZAP1
+XX
+DE MA0440.1 ZAP1 ; From JASPAR
+PO	A	C	G	T
+01	169.0	0.0	0.0	0.0
+02	0.0	279.0	0.0	0.0
+03	0.0	279.0	0.0	0.0
+04	0.0	97.0	0.0	107.0
+05	0.0	0.0	0.0	169.0
+06	107.0	77.0	17.0	0.0
+07	169.0	0.0	0.0	0.0
+08	119.0	17.0	57.0	0.0
+09	0.0	0.0	279.0	0.0
+10	0.0	0.0	279.0	0.0
+11	0.0	0.0	0.0	169.0
+12	21.0	97.0	37.0	58.0
+13	119.0	0.0	57.0	9.0
+14	9.0	17.0	0.0	145.0
+15	46.0	0.0	198.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P47043
+CC data_type:ChIP-chip
+XX
+//
+AC MA0328.2
+XX
+ID MATALPHA2
+XX
+DE MA0328.2 MATALPHA2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	815.0	0.0	184.0
+02	455.0	0.0	535.0	10.0
+03	0.0	62.0	0.0	938.0
+04	26.0	0.0	973.0	0.0
+05	0.0	0.0	0.0	1000.0
+06	910.0	0.0	9.0	80.0
+07	639.0	72.0	41.0	247.0
+08	394.0	28.0	0.0	577.0
+XX
+CC tax_group:fungi
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:9858582
+CC uniprot_ids:P0CY08
+CC data_type:PBM
+XX
+//
+AC MA1434.1
+XX
+ID NCU02182
+XX
+DE MA1434.1 NCU02182 ; From JASPAR
+PO	A	C	G	T
+01	469.0	0.0	0.0	530.0
+02	999.0	0.0	0.0	0.0
+03	27.0	972.0	0.0	0.0
+04	0.0	999.0	0.0	0.0
+05	0.0	999.0	0.0	0.0
+06	972.0	27.0	0.0	0.0
+07	12.0	371.0	269.0	346.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:26577093
+CC uniprot_ids:Q7SE02
+CC data_type:PBM
+XX
+//
+AC MA1431.2
+XX
+ID rst2
+XX
+DE MA1431.2 rst2 ; From JASPAR
+PO	A	C	G	T
+01	22.0	937.0	13.0	26.0
+02	7.0	880.0	4.0	108.0
+03	0.0	996.0	2.0	1.0
+04	6.0	990.0	0.0	2.0
+05	208.0	40.0	529.0	221.0
+06	56.0	896.0	2.0	44.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:10982411
+CC uniprot_ids:P78871
+CC data_type:PBM
+XX
+//
+AC MA0329.2
+XX
+ID MBP1
+XX
+DE MA0329.2 MBP1 ; From JASPAR
+PO	A	C	G	T
+01	55.0	10.0	18.0	17.0
+02	0.0	100.0	0.0	0.0
+03	15.0	0.0	85.0	0.0
+04	0.0	88.0	0.0	12.0
+05	0.0	2.0	98.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:APSES-type DNA-binding domain
+CC pubmed_ids:19111667
+CC uniprot_ids:P39678
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0333.2
+XX
+ID MET31
+XX
+DE MA0333.2 MET31 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	0.0	0.0	0.0	100.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	100.0	0.0	0.0
+06	10.0	0.0	69.0	20.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q03081
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0334.2
+XX
+ID MET32
+XX
+DE MA0334.2 MET32 ; From JASPAR
+PO	A	C	G	T
+01	11.0	5.0	77.0	7.0
+02	0.0	99.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	93.0	3.0	0.0	3.0
+05	0.0	99.0	0.0	1.0
+06	64.0	15.0	12.0	9.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12041
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0336.2
+XX
+ID MGA1
+XX
+DE MA0336.2 MGA1 ; From JASPAR
+PO	A	C	G	T
+01	787.0	3.0	198.0	11.0
+02	192.0	110.0	166.0	531.0
+03	701.0	197.0	98.0	2.0
+04	5.0	2.0	989.0	2.0
+05	990.0	2.0	3.0	2.0
+06	990.0	2.0	2.0	5.0
+07	12.0	815.0	15.0	156.0
+08	844.0	39.0	82.0	32.0
+09	68.0	505.0	70.0	355.0
+XX
+CC tax_group:fungi
+CC tf_family:HSF factors
+CC tf_class:Heat shock factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P53050
+CC data_type:PBM
+XX
+//
+AC MA0337.2
+XX
+ID MIG1
+XX
+DE MA0337.2 MIG1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	97.0	1.0	1.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	46.0	3.0	50.0	1.0
+06	5.0	57.0	30.0	7.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P27705
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0338.2
+XX
+ID MIG2
+XX
+DE MA0338.2 MIG2 ; From JASPAR
+PO	A	C	G	T
+01	1.0	96.0	2.0	1.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	36.0	11.0	52.0	1.0
+06	5.0	77.0	13.0	6.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P53035
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0339.2
+XX
+ID MIG3
+XX
+DE MA0339.2 MIG3 ; From JASPAR
+PO	A	C	G	T
+01	1.0	98.0	1.0	1.0
+02	0.0	94.0	0.0	6.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	41.0	2.0	55.0	1.0
+06	5.0	69.0	17.0	9.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39943
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0343.2
+XX
+ID NDT80
+XX
+DE MA0343.2 NDT80 ; From JASPAR
+PO	A	C	G	T
+01	188.0	20.0	675.0	116.0
+02	444.0	483.0	41.0	30.0
+03	12.0	948.0	4.0	34.0
+04	940.0	7.0	45.0	6.0
+05	18.0	967.0	6.0	6.0
+06	965.0	4.0	9.0	20.0
+07	970.0	5.0	15.0	8.0
+08	945.0	3.0	14.0	37.0
+09	713.0	24.0	236.0	24.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:NDT80 domain factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P38830
+CC data_type:PBM
+XX
+//
+AC MA0347.3
+XX
+ID NRG1
+XX
+DE MA0347.3 NRG1 ; From JASPAR
+PO	A	C	G	T
+01	27.0	17.0	1.0	3.0
+02	45.0	2.0	1.0	0.0
+03	0.0	0.0	48.0	0.0
+04	0.0	0.0	48.0	0.0
+05	0.0	0.0	48.0	0.0
+06	7.0	4.0	1.0	36.0
+07	0.0	43.0	1.0	4.0
+08	0.0	43.0	2.0	3.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18842628
+CC uniprot_ids:Q03125
+CC data_type:ChIP-exo
+XX
+//
+AC MA0348.2
+XX
+ID OAF1
+XX
+DE MA0348.2 OAF1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	56.0	0.0	43.0	0.0
+05	7.0	0.0	86.0	7.0
+06	68.0	4.0	4.0	25.0
+07	14.0	7.0	7.0	71.0
+08	56.0	14.0	14.0	14.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39720
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0349.2
+XX
+ID OPI1
+XX
+DE MA0349.2 OPI1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	279.0	0.0
+02	166.0	2.0	0.0	0.0
+03	169.0	0.0	0.0	0.0
+04	0.0	268.0	0.0	0.0
+05	0.0	273.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:16522208
+CC uniprot_ids:P21957
+CC data_type:ChIP-chip
+XX
+//
+AC MA0352.3
+XX
+ID PDR1
+XX
+DE MA0352.3 PDR1 ; From JASPAR
+PO	A	C	G	T
+01	18.0	16.0	6.0	104.0
+02	2.0	9.0	0.0	133.0
+03	1.0	140.0	0.0	3.0
+04	7.0	130.0	3.0	4.0
+05	72.0	1.0	70.0	1.0
+06	0.0	132.0	0.0	12.0
+07	2.0	1.0	138.0	3.0
+08	1.0	1.0	142.0	0.0
+09	132.0	1.0	7.0	4.0
+10	105.0	8.0	19.0	12.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P12383
+CC data_type:ChIP-exo
+XX
+//
+AC MA0354.2
+XX
+ID PDR8
+XX
+DE MA0354.2 PDR8 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	100.0	0.0	0.0	0.0
+05	8.0	8.0	85.0	0.0
+06	100.0	0.0	0.0	0.0
+07	13.0	6.0	6.0	75.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q06149
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0355.2
+XX
+ID PHD1
+XX
+DE MA0355.2 PHD1 ; From JASPAR
+PO	A	C	G	T
+01	9.0	43.0	39.0	8.0
+02	37.0	44.0	15.0	3.0
+03	0.0	10.0	0.0	89.0
+04	0.0	0.0	99.0	0.0
+05	0.0	99.0	0.0	1.0
+06	91.0	1.0	7.0	1.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:APSES-type DNA-binding domain
+CC pubmed_ids:19111667
+CC uniprot_ids:P36093
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0358.2
+XX
+ID PUT3
+XX
+DE MA0358.2 PUT3 ; From JASPAR
+PO	A	C	G	T
+01	9.0	72.0	9.0	9.0
+02	2.0	90.0	2.0	6.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	0.0	100.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P25502
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0359.3
+XX
+ID RAP1
+XX
+DE MA0359.3 RAP1 ; From JASPAR
+PO	A	C	G	T
+01	200.0	10.0	105.0	21.0
+02	3.0	4.0	39.0	290.0
+03	4.0	5.0	317.0	10.0
+04	13.0	27.0	4.0	292.0
+05	214.0	36.0	51.0	35.0
+06	9.0	54.0	0.0	273.0
+07	6.0	0.0	327.0	3.0
+08	0.0	0.0	318.0	18.0
+09	48.0	5.0	281.0	2.0
+10	1.0	5.0	2.0	328.0
+11	3.0	18.0	264.0	51.0
+12	27.0	48.0	24.0	237.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P11938
+CC data_type:ChIP-exo
+XX
+//
+AC MA0360.2
+XX
+ID RDR1
+XX
+DE MA0360.2 RDR1 ; From JASPAR
+PO	A	C	G	T
+01	25.0	11.0	11.0	54.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	100.0	0.0	0.0	0.0
+07	86.0	0.0	0.0	14.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q08904
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0361.2
+XX
+ID RDS1
+XX
+DE MA0361.2 RDS1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	91.0	1.0	7.0
+02	0.0	11.0	89.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	84.0	16.0	0.0
+05	0.0	95.0	5.0	0.0
+06	0.0	11.0	89.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P25611
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0362.2
+XX
+ID RDS2
+XX
+DE MA0362.2 RDS2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	100.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	12.0	1.0	86.0	1.0
+06	17.0	7.0	70.0	7.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P19541
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0363.3
+XX
+ID REB1
+XX
+DE MA0363.3 REB1 ; From JASPAR
+PO	A	C	G	T
+01	281.0	79.0	281.0	50.0
+02	8.0	20.0	5.0	658.0
+03	28.0	28.0	7.0	628.0
+04	679.0	1.0	3.0	8.0
+05	2.0	684.0	2.0	3.0
+06	4.0	681.0	5.0	1.0
+07	3.0	681.0	3.0	4.0
+08	11.0	5.0	578.0	97.0
+09	104.0	133.0	377.0	77.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P21538
+CC data_type:ChIP-exo
+XX
+//
+AC MA0365.2
+XX
+ID RFX1
+XX
+DE MA0365.2 RFX1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	0.0	0.0	0.0	100.0
+03	0.0	0.0	0.0	100.0
+04	31.0	0.0	69.0	0.0
+05	0.0	100.0	0.0	0.0
+06	2.0	48.0	2.0	48.0
+07	88.0	4.0	4.0	4.0
+XX
+CC tax_group:fungi
+CC tf_family:RFX-related factors
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P48743
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0367.2
+XX
+ID RGT1
+XX
+DE MA0367.2 RGT1 ; From JASPAR
+PO	A	C	G	T
+01	37.0	0.0	0.0	63.0
+02	22.0	2.0	0.0	77.0
+03	27.0	15.0	17.0	41.0
+04	30.0	18.0	4.0	48.0
+05	0.0	12.0	0.0	88.0
+06	0.0	100.0	0.0	0.0
+07	0.0	100.0	0.0	0.0
+08	4.0	0.0	89.0	8.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P32862
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0369.2
+XX
+ID RLM1
+XX
+DE MA0369.2 RLM1 ; From JASPAR
+PO	A	C	G	T
+01	11.0	0.0	1.0	30.0
+02	0.0	0.0	5.0	37.0
+03	0.0	42.0	0.0	0.0
+04	0.0	0.0	0.0	42.0
+05	42.0	0.0	0.0	0.0
+06	16.0	0.0	0.0	26.0
+07	22.0	0.0	0.0	20.0
+08	23.0	0.0	0.0	19.0
+09	32.0	0.0	0.0	10.0
+10	0.0	0.0	0.0	42.0
+11	42.0	0.0	0.0	0.0
+12	0.0	0.0	42.0	0.0
+13	27.0	14.0	0.0	1.0
+14	4.0	15.0	2.0	20.0
+XX
+CC tax_group:fungi
+CC tf_family:Regulators of differentiation
+CC tf_class:MADS box factors
+CC pubmed_ids:10487868
+CC uniprot_ids:Q12224
+CC data_type:COMPILED
+XX
+//
+AC MA0372.2
+XX
+ID RPH1
+XX
+DE MA0372.2 RPH1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	0.0	100.0
+06	63.0	1.0	7.0	28.0
+07	74.0	7.0	7.0	13.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39956
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0374.2
+XX
+ID RSC3
+XX
+DE MA0374.2 RSC3 ; From JASPAR
+PO	A	C	G	T
+01	0.0	91.0	5.0	4.0
+02	0.0	0.0	99.0	0.0
+03	0.0	99.0	0.0	0.0
+04	0.0	0.0	99.0	0.0
+05	6.0	55.0	18.0	20.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q06639
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0375.2
+XX
+ID RSC30
+XX
+DE MA0375.2 RSC30 ; From JASPAR
+PO	A	C	G	T
+01	15.0	38.0	46.0	0.0
+02	0.0	92.0	8.0	0.0
+03	0.0	8.0	92.0	0.0
+04	0.0	92.0	8.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	85.0	15.0	0.0
+07	0.0	31.0	69.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38781
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0376.2
+XX
+ID RTG3
+XX
+DE MA0376.2 RTG3 ; From JASPAR
+PO	A	C	G	T
+01	34.0	27.0	662.0	275.0
+02	19.0	953.0	19.0	7.0
+03	905.0	5.0	81.0	7.0
+04	5.0	949.0	16.0	28.0
+05	28.0	16.0	949.0	5.0
+06	7.0	81.0	5.0	905.0
+07	7.0	19.0	953.0	19.0
+08	275.0	662.0	27.0	34.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:18842628
+CC uniprot_ids:P38165
+CC data_type:PBM
+XX
+//
+AC MA0377.2
+XX
+ID SFL1
+XX
+DE MA0377.2 SFL1 ; From JASPAR
+PO	A	C	G	T
+01	727.0	30.0	124.0	118.0
+02	127.0	178.0	108.0	586.0
+03	506.0	261.0	226.0	6.0
+04	18.0	10.0	960.0	10.0
+05	956.0	16.0	5.0	21.0
+06	959.0	9.0	21.0	9.0
+07	22.0	47.0	806.0	123.0
+08	616.0	129.0	218.0	36.0
+09	596.0	134.0	36.0	232.0
+10	535.0	221.0	48.0	194.0
+XX
+CC tax_group:fungi
+CC tf_family:HSF factors
+CC tf_class:Heat shock factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P20134
+CC data_type:PBM
+XX
+//
+AC MA0378.2
+XX
+ID SFP1
+XX
+DE MA0378.2 SFP1 ; From JASPAR
+PO	A	C	G	T
+01	533.0	42.0	342.0	82.0
+02	782.0	73.0	71.0	73.0
+03	898.0	36.0	46.0	18.0
+04	904.0	9.0	50.0	35.0
+05	855.0	14.0	42.0	86.0
+06	541.0	34.0	16.0	408.0
+07	86.0	42.0	14.0	855.0
+08	35.0	50.0	9.0	904.0
+09	18.0	46.0	36.0	898.0
+10	73.0	71.0	73.0	782.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P32432
+CC data_type:PBM
+XX
+//
+AC MA0380.2
+XX
+ID SIP4
+XX
+DE MA0380.2 SIP4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	27.0	0.0	73.0
+02	0.0	99.0	0.0	1.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	23.0	0.0	63.0	14.0
+06	57.0	16.0	25.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P46954
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0381.2
+XX
+ID SKN7
+XX
+DE MA0381.2 SKN7 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	84.0	16.0	0.0
+05	49.0	15.0	37.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:HSF factors
+CC tf_class:Heat shock factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38889
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0382.3
+XX
+ID SKO1
+XX
+DE MA0382.3 SKO1 ; From JASPAR
+PO	A	C	G	T
+01	244.0	6.0	12.0	5.0
+02	3.0	3.0	0.0	261.0
+03	3.0	0.0	209.0	55.0
+04	264.0	1.0	2.0	0.0
+05	0.0	256.0	0.0	11.0
+06	2.0	0.0	263.0	2.0
+07	9.0	8.0	2.0	248.0
+08	186.0	67.0	5.0	9.0
+09	186.0	8.0	24.0	49.0
+10	47.0	20.0	40.0	160.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:17130146
+CC uniprot_ids:Q02100
+CC data_type:ChIP-exo
+XX
+//
+AC MA0384.2
+XX
+ID SNT2
+XX
+DE MA0384.2 SNT2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	89.0	313.0	2817.0
+02	0.0	0.0	3136.0	0.0
+03	1405.0	269.0	1721.0	0.0
+04	0.0	0.0	0.0	3136.0
+05	3120.0	0.0	35.0	0.0
+06	7.0	0.0	3130.0	0.0
+07	0.0	3136.0	0.0	0.0
+08	0.0	0.0	3136.0	0.0
+09	8.0	3072.0	75.0	0.0
+10	168.0	2969.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P53127
+CC data_type:COMPILED
+XX
+//
+AC MA0385.2
+XX
+ID SOK2
+XX
+DE MA0385.2 SOK2 ; From JASPAR
+PO	A	C	G	T
+01	41.0	47.0	9.0	3.0
+02	4.0	1.0	4.0	91.0
+03	4.0	1.0	94.0	1.0
+04	4.0	91.0	1.0	4.0
+05	97.0	1.0	1.0	1.0
+06	5.0	5.0	50.0	40.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:APSES-type DNA-binding domain
+CC pubmed_ids:19111667
+CC uniprot_ids:P53438
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0386.2
+XX
+ID SPT15
+XX
+DE MA0386.2 SPT15 ; From JASPAR
+PO	A	C	G	T
+01	115.0	98.0	701.0	84.0
+02	287.0	198.0	266.0	247.0
+03	332.0	110.0	27.0	529.0
+04	907.0	7.0	25.0	59.0
+05	12.0	7.0	23.0	955.0
+06	981.0	2.0	4.0	12.0
+07	38.0	1.0	5.0	954.0
+08	970.0	2.0	6.0	20.0
+09	44.0	4.0	3.0	947.0
+10	883.0	10.0	24.0	81.0
+11	186.0	62.0	94.0	657.0
+XX
+CC tax_group:fungi
+CC tf_family:TBP-related factors
+CC tf_class:TATA-binding proteins
+CC pubmed_ids:18842628
+CC uniprot_ids:P13393
+CC data_type:PBM
+XX
+//
+AC MA0389.2
+XX
+ID SRD1
+XX
+DE MA0389.2 SRD1 ; From JASPAR
+PO	A	C	G	T
+01	66.0	9.0	19.0	6.0
+02	6.0	2.0	90.0	2.0
+03	97.0	0.0	0.0	3.0
+04	13.0	0.0	2.0	85.0
+05	0.0	99.0	0.0	0.0
+06	4.0	19.0	3.0	74.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P09007
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0390.2
+XX
+ID STB3
+XX
+DE MA0390.2 STB3 ; From JASPAR
+PO	A	C	G	T
+01	776.0	35.0	71.0	116.0
+02	499.0	27.0	33.0	440.0
+03	99.0	11.0	2.0	886.0
+04	53.0	5.0	1.0	939.0
+05	10.0	4.0	2.0	982.0
+06	13.0	0.0	15.0	970.0
+07	0.0	64.0	20.0	915.0
+08	3.0	990.0	2.0	4.0
+09	965.0	7.0	25.0	2.0
+10	150.0	587.0	84.0	177.0
+11	129.0	120.0	137.0	613.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:18842628
+CC uniprot_ids:Q12427
+CC data_type:PBM
+XX
+//
+AC MA0395.2
+XX
+ID STP2
+XX
+DE MA0395.2 STP2 ; From JASPAR
+PO	A	C	G	T
+01	238.0	111.0	567.0	81.0
+02	113.0	11.0	829.0	45.0
+03	34.0	647.0	5.0	312.0
+04	2.0	5.0	987.0	4.0
+05	0.0	849.0	148.0	1.0
+06	1.0	866.0	128.0	3.0
+07	8.0	13.0	948.0	29.0
+08	14.0	520.0	4.0	460.0
+09	618.0	12.0	338.0	30.0
+XX
+CC tax_group:fungi
+CC tf_family:Factors with multiple dispersed zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P38704
+CC data_type:PBM
+XX
+//
+AC MA0396.2
+XX
+ID STP3
+XX
+DE MA0396.2 STP3 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	100.0
+02	100.0	0.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	64.0	18.0	18.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q05937
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0397.2
+XX
+ID STP4
+XX
+DE MA0397.2 STP4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	100.0
+02	100.0	0.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	100.0	0.0
+06	0.0	73.0	17.0	10.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q07351
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0398.2
+XX
+ID SUM1
+XX
+DE MA0398.2 SUM1 ; From JASPAR
+PO	A	C	G	T
+01	52.0	8.0	8.0	32.0
+02	62.0	2.0	2.0	34.0
+03	100.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	100.0
+05	8.0	0.0	0.0	92.0
+06	24.0	0.0	0.0	76.0
+07	28.0	5.0	5.0	61.0
+08	15.0	15.0	11.0	59.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:A.T hook factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P46676
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0400.2
+XX
+ID SUT2
+XX
+DE MA0400.2 SUT2 ; From JASPAR
+PO	A	C	G	T
+01	522.0	85.0	287.0	104.0
+02	940.0	6.0	12.0	40.0
+03	971.0	0.0	11.0	16.0
+04	0.0	709.0	287.0	2.0
+05	1.0	16.0	0.0	981.0
+06	2.0	992.0	1.0	2.0
+07	1.0	984.0	12.0	1.0
+08	2.0	1.0	993.0	2.0
+09	789.0	16.0	168.0	24.0
+10	523.0	80.0	257.0	137.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:Q12286
+CC data_type:PBM
+XX
+//
+AC MA0402.2
+XX
+ID SWI5
+XX
+DE MA0402.2 SWI5 ; From JASPAR
+PO	A	C	G	T
+01	8.0	8.0	23.0	62.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	0.0	100.0
+05	0.0	0.0	100.0	0.0
+06	0.0	0.0	100.0	0.0
+07	4.0	4.0	27.0	65.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:A.T hook factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P08153
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0403.3
+XX
+ID TBF1
+XX
+DE MA0403.3 TBF1 ; From JASPAR
+PO	A	C	G	T
+01	131.0	6.0	10.0	13.0
+02	145.0	1.0	12.0	2.0
+03	11.0	149.0	0.0	0.0
+04	1.0	155.0	1.0	3.0
+05	0.0	159.0	1.0	0.0
+06	0.0	0.0	1.0	159.0
+07	139.0	4.0	16.0	1.0
+08	110.0	16.0	17.0	17.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q02457
+CC data_type:ChIP-exo
+XX
+//
+AC MA0431.2
+XX
+ID TDA9
+XX
+DE MA0431.2 TDA9 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	30.0	0.0	36.0	34.0
+06	0.0	100.0	0.0	0.0
+07	44.0	16.0	3.0	38.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q04545
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0406.2
+XX
+ID TEC1
+XX
+DE MA0406.2 TEC1 ; From JASPAR
+PO	A	C	G	T
+01	52.0	7.0	34.0	7.0
+02	0.0	95.0	5.0	0.0
+03	100.0	0.0	0.0	0.0
+04	5.0	0.0	0.0	95.0
+05	0.0	0.0	0.0	100.0
+06	0.0	91.0	9.0	0.0
+07	0.0	68.0	0.0	32.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:TEA domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P18412
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0350.2
+XX
+ID TOD6
+XX
+DE MA0350.2 TOD6 ; From JASPAR
+PO	A	C	G	T
+01	649.0	50.0	96.0	203.0
+02	67.0	396.0	436.0	98.0
+03	20.0	784.0	193.0	1.0
+04	2.0	29.0	46.0	921.0
+05	2.0	991.0	2.0	3.0
+06	975.0	0.0	1.0	21.0
+07	1.0	1.0	18.0	978.0
+08	0.0	978.0	1.0	18.0
+09	52.0	19.0	869.0	57.0
+10	135.0	655.0	186.0	22.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P34219
+CC data_type:PBM
+XX
+//
+AC MA0265.3
+XX
+ID ABF1
+XX
+DE MA0265.3 ABF1 ; From JASPAR
+PO	A	C	G	T
+01	69.0	72.0	10.0	276.0
+02	5.0	421.0	1.0	0.0
+03	4.0	0.0	418.0	5.0
+04	5.0	0.0	3.0	419.0
+05	188.0	66.0	95.0	78.0
+06	87.0	91.0	65.0	184.0
+07	228.0	38.0	72.0	89.0
+08	155.0	48.0	64.0	160.0
+09	291.0	48.0	54.0	34.0
+10	126.0	1.0	297.0	3.0
+11	4.0	41.0	6.0	376.0
+12	1.0	2.0	420.0	4.0
+13	419.0	3.0	1.0	4.0
+14	3.0	169.0	15.0	240.0
+XX
+CC tax_group:fungi
+CC tf_family:Tal-related
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:19111667
+CC uniprot_ids:P14164
+CC data_type:ChIP-exo
+XX
+//
+AC MA0408.2
+XX
+ID TOS8
+XX
+DE MA0408.2 TOS8 ; From JASPAR
+PO	A	C	G	T
+01	1.0	16.0	1.0	82.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	0.0	100.0
+04	0.0	100.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	64.0	7.0	7.0	22.0
+XX
+CC tax_group:fungi
+CC tf_family:TALE-type homeo domain factors
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P53147
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0410.2
+XX
+ID UGA3
+XX
+DE MA0410.2 UGA3 ; From JASPAR
+PO	A	C	G	T
+01	4.0	28.0	63.0	4.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	2.0	27.0	69.0	2.0
+07	85.0	2.0	2.0	10.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P26370
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0412.3
+XX
+ID UME6
+XX
+DE MA0412.3 UME6 ; From JASPAR
+PO	A	C	G	T
+01	101.0	17.0	25.0	75.0
+02	64.0	9.0	13.0	132.0
+03	2.0	8.0	6.0	202.0
+04	194.0	1.0	3.0	20.0
+05	10.0	9.0	198.0	1.0
+06	0.0	216.0	1.0	1.0
+07	0.0	218.0	0.0	0.0
+08	3.0	0.0	215.0	0.0
+09	0.0	217.0	1.0	0.0
+10	2.0	185.0	12.0	19.0
+11	32.0	82.0	97.0	7.0
+12	160.0	16.0	22.0	20.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P39001
+CC data_type:ChIP-exo
+XX
+//
+AC MA0411.2
+XX
+ID UPC2
+XX
+DE MA0411.2 UPC2 ; From JASPAR
+PO	A	C	G	T
+01	59.0	3.0	28.0	9.0
+02	38.0	0.0	0.0	62.0
+03	100.0	0.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	1.0	0.0	99.0	0.0
+06	83.0	5.0	9.0	4.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12151
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0422.2
+XX
+ID URC2
+XX
+DE MA0422.2 URC2 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	74.0	9.0	17.0	0.0
+05	23.0	17.0	46.0	14.0
+06	56.0	0.0	0.0	43.0
+07	14.0	0.0	0.0	85.0
+08	94.0	6.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q04411
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0413.2
+XX
+ID USV1
+XX
+DE MA0413.2 USV1 ; From JASPAR
+PO	A	C	G	T
+01	133.0	55.0	157.0	652.0
+02	318.0	551.0	101.0	28.0
+03	1.0	967.0	26.0	3.0
+04	0.0	977.0	0.0	20.0
+05	3.0	993.0	1.0	1.0
+06	1.0	981.0	0.0	16.0
+07	0.0	6.0	3.0	989.0
+08	0.0	2.0	869.0	126.0
+09	956.0	0.0	36.0	5.0
+10	850.0	92.0	21.0	35.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18842628
+CC uniprot_ids:Q12132
+CC data_type:PBM
+XX
+//
+AC MA0414.2
+XX
+ID XBP1
+XX
+DE MA0414.2 XBP1 ; From JASPAR
+PO	A	C	G	T
+01	12.0	51.0	7.0	31.0
+02	0.0	0.0	0.0	100.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	100.0	0.0	0.0	0.0
+06	40.0	8.0	50.0	3.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:19111667
+CC uniprot_ids:P40489
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0415.2
+XX
+ID YAP1
+XX
+DE MA0415.2 YAP1 ; From JASPAR
+PO	A	C	G	T
+01	397.0	528.0	50.0	23.0
+02	5.0	3.0	8.0	981.0
+03	8.0	13.0	6.0	971.0
+04	976.0	3.0	9.0	10.0
+05	1.0	900.0	36.0	60.0
+06	60.0	36.0	900.0	1.0
+07	10.0	9.0	3.0	976.0
+08	971.0	6.0	13.0	8.0
+09	981.0	8.0	3.0	5.0
+10	35.0	28.0	516.0	418.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:18842628
+CC uniprot_ids:P19880
+CC data_type:PBM
+XX
+//
+AC MA0416.2
+XX
+ID YAP3
+XX
+DE MA0416.2 YAP3 ; From JASPAR
+PO	A	C	G	T
+01	65.0	19.0	12.0	4.0
+02	0.0	0.0	0.0	100.0
+03	0.0	0.0	0.0	100.0
+04	100.0	0.0	0.0	0.0
+05	0.0	100.0	0.0	0.0
+06	0.0	0.0	100.0	0.0
+07	2.0	2.0	2.0	94.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:19111667
+CC uniprot_ids:P38749
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0418.2
+XX
+ID YAP6
+XX
+DE MA0418.2 YAP6 ; From JASPAR
+PO	A	C	G	T
+01	43.0	114.0	646.0	195.0
+02	491.0	412.0	36.0	58.0
+03	27.0	23.0	56.0	892.0
+04	25.0	21.0	112.0	840.0
+05	889.0	32.0	49.0	28.0
+06	38.0	555.0	103.0	302.0
+07	172.0	48.0	722.0	56.0
+08	67.0	85.0	37.0	809.0
+09	647.0	193.0	64.0	95.0
+10	829.0	62.0	72.0	34.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:18842628
+CC uniprot_ids:Q03935
+CC data_type:PBM
+XX
+//
+AC MA0423.2
+XX
+ID YER130C
+XX
+DE MA0423.2 YER130C ; From JASPAR
+PO	A	C	G	T
+01	0.0	97.0	1.0	2.0
+02	0.0	91.0	0.0	9.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	0.0	0.0	100.0
+06	60.0	0.0	8.0	32.0
+07	21.0	0.0	4.0	75.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39959
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0424.2
+XX
+ID YER184C
+XX
+DE MA0424.2 YER184C ; From JASPAR
+PO	A	C	G	T
+01	2.0	17.0	10.0	71.0
+02	0.0	77.0	15.0	8.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	69.0	31.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39961
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0425.2
+XX
+ID YGR067C
+XX
+DE MA0425.2 YGR067C ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	99.0	0.0	1.0
+03	0.0	100.0	0.0	0.0
+04	1.0	99.0	0.0	0.0
+05	41.0	0.0	31.0	28.0
+06	0.0	98.0	1.0	1.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P53243
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0428.2
+XX
+ID YKL222C
+XX
+DE MA0428.2 YKL222C ; From JASPAR
+PO	A	C	G	T
+01	69.0	10.0	19.0	2.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	92.0	0.0	8.0	0.0
+06	52.0	2.0	44.0	2.0
+07	65.0	6.0	6.0	23.0
+08	10.0	10.0	10.0	69.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P35995
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0430.2
+XX
+ID YLR278C
+XX
+DE MA0430.2 YLR278C ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	96.0	0.0	4.0	0.0
+05	4.0	14.0	82.0	0.0
+06	23.0	2.0	5.0	70.0
+07	27.0	5.0	5.0	63.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q05854
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0433.2
+XX
+ID YOX1
+XX
+DE MA0433.2 YOX1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	25.0	7.0	66.0
+02	0.0	0.0	0.0	100.0
+03	100.0	0.0	0.0	0.0
+04	100.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	100.0
+06	0.0	0.0	0.0	100.0
+07	62.0	3.0	15.0	21.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Homeo domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P34161
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0434.2
+XX
+ID YPR013C
+XX
+DE MA0434.2 YPR013C ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	9.0	26.0	0.0	65.0
+03	63.0	26.0	0.0	11.0
+04	40.0	0.0	60.0	0.0
+05	100.0	0.0	0.0	0.0
+06	0.0	0.0	0.0	100.0
+07	0.0	100.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12145
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0435.2
+XX
+ID YPR015C
+XX
+DE MA0435.2 YPR015C ; From JASPAR
+PO	A	C	G	T
+01	552.0	169.0	240.0	37.0
+02	16.0	747.0	17.0	218.0
+03	4.0	4.0	988.0	2.0
+04	2.0	16.0	3.0	978.0
+05	983.0	7.0	3.0	5.0
+06	884.0	1.0	109.0	4.0
+07	986.0	2.0	4.0	6.0
+08	5.0	2.0	2.0	989.0
+09	4.0	983.0	1.0	9.0
+10	326.0	575.0	55.0	43.0
+11	86.0	221.0	77.0	613.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:18842628
+CC uniprot_ids:Q12531
+CC data_type:PBM
+XX
+//
+AC MA0436.2
+XX
+ID YPR022C
+XX
+DE MA0436.2 YPR022C ; From JASPAR
+PO	A	C	G	T
+01	15.0	66.0	0.0	20.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	0.0	100.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12139
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0438.2
+XX
+ID YRM1
+XX
+DE MA0438.2 YRM1 ; From JASPAR
+PO	A	C	G	T
+01	2.0	94.0	2.0	2.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	100.0	0.0	0.0	0.0
+05	60.0	12.0	16.0	12.0
+06	93.0	1.0	1.0	5.0
+07	12.0	8.0	4.0	76.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12340
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0439.2
+XX
+ID YRR1
+XX
+DE MA0439.2 YRR1 ; From JASPAR
+PO	A	C	G	T
+01	16.0	16.0	10.0	57.0
+02	22.0	8.0	4.0	66.0
+03	89.0	1.0	2.0	8.0
+04	19.0	9.0	4.0	68.0
+05	28.0	33.0	8.0	32.0
+06	4.0	22.0	7.0	68.0
+07	0.0	100.0	0.0	0.0
+08	0.0	100.0	0.0	0.0
+09	3.0	0.0	95.0	2.0
+10	6.0	41.0	14.0	39.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q12172
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0441.2
+XX
+ID ZMS1
+XX
+DE MA0441.2 ZMS1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	19.0	4.0	54.0	24.0
+06	5.0	85.0	5.0	5.0
+07	50.0	10.0	10.0	30.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P46974
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0266.2
+XX
+ID ABF2
+XX
+DE MA0266.2 ABF2 ; From JASPAR
+PO	A	C	G	T
+01	9.0	9.0	2.0	80.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	0.0	100.0
+04	100.0	0.0	0.0	0.0
+05	0.0	0.0	100.0	0.0
+06	95.0	2.0	2.0	2.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:High-mobility group (HMG) domain factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q02486
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0272.2
+XX
+ID ARG81
+XX
+DE MA0272.2 ARG81 ; From JASPAR
+PO	A	C	G	T
+01	6.0	0.0	4.0	154.0
+02	20.0	0.0	239.0	0.0
+03	169.0	0.0	0.0	0.0
+04	0.0	271.0	0.0	1.0
+05	1.0	0.0	0.0	164.0
+06	0.0	279.0	0.0	0.0
+07	59.0	59.0	4.0	64.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:16522208
+CC uniprot_ids:P05085
+CC data_type:ChIP-chip
+XX
+//
+AC MA0273.2
+XX
+ID ARO80
+XX
+DE MA0273.2 ARO80 ; From JASPAR
+PO	A	C	G	T
+01	40.0	744.0	30.0	185.0
+02	5.0	231.0	8.0	753.0
+03	5.0	987.0	1.0	5.0
+04	1.0	22.0	975.0	1.0
+05	1.0	5.0	990.0	2.0
+06	15.0	359.0	295.0	329.0
+07	670.0	4.0	6.0	318.0
+08	690.0	68.0	60.0	181.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:Q04052
+CC data_type:PBM
+XX
+//
+AC MA0267.2
+XX
+ID ACE2
+XX
+DE MA0267.2 ACE2 ; From JASPAR
+PO	A	C	G	T
+01	1.0	92.0	6.0	1.0
+02	0.0	100.0	0.0	0.0
+03	90.0	10.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	100.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P21192
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0278.2
+XX
+ID BAS1
+XX
+DE MA0278.2 BAS1 ; From JASPAR
+PO	A	C	G	T
+01	455.0	51.0	370.0	122.0
+02	248.0	34.0	670.0	46.0
+03	98.0	724.0	143.0	33.0
+04	52.0	918.0	7.0	20.0
+05	348.0	346.0	280.0	24.0
+06	12.0	3.0	977.0	6.0
+07	966.0	5.0	23.0	4.0
+08	26.0	6.0	962.0	4.0
+09	9.0	10.0	4.0	975.0
+10	47.0	930.0	7.0	15.0
+11	892.0	42.0	16.0	49.0
+12	487.0	123.0	320.0	68.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P22035
+CC data_type:PBM
+XX
+//
+AC MA0279.3
+XX
+ID CAD1
+XX
+DE MA0279.3 CAD1 ; From JASPAR
+PO	A	C	G	T
+01	12.0	14.0	11.0	50.0
+02	5.0	5.0	68.0	9.0
+03	26.0	58.0	3.0	0.0
+04	1.0	1.0	0.0	85.0
+05	1.0	0.0	18.0	68.0
+06	85.0	0.0	1.0	1.0
+07	6.0	64.0	11.0	6.0
+08	10.0	0.0	3.0	74.0
+09	82.0	3.0	0.0	2.0
+10	85.0	0.0	1.0	1.0
+11	5.0	1.0	14.0	67.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:17130146
+CC uniprot_ids:P24813
+CC data_type:ChIP-exo
+XX
+//
+AC MA0280.2
+XX
+ID CAT8
+XX
+DE MA0280.2 CAT8 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	66.0	13.0	21.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39113
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0281.3
+XX
+ID CBF1
+XX
+DE MA0281.3 CBF1 ; From JASPAR
+PO	A	C	G	T
+01	137.0	14.0	73.0	32.0
+02	12.0	20.0	55.0	169.0
+03	1.0	254.0	1.0	0.0
+04	253.0	0.0	2.0	1.0
+05	1.0	243.0	2.0	10.0
+06	7.0	0.0	249.0	0.0
+07	0.0	0.0	0.0	256.0
+08	0.0	1.0	255.0	0.0
+09	215.0	24.0	11.0	6.0
+10	17.0	146.0	9.0	84.0
+XX
+CC tax_group:fungi
+CC tf_family:bHLH-ZIP
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:19111667
+CC uniprot_ids:P17106
+CC data_type:ChIP-exo
+XX
+//
+AC MA0282.2
+XX
+ID CEP3
+XX
+DE MA0282.2 CEP3 ; From JASPAR
+PO	A	C	G	T
+01	4.0	56.0	4.0	36.0
+02	0.0	0.0	0.0	100.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	0.0	100.0	0.0
+06	91.0	1.0	1.0	7.0
+07	92.0	3.0	3.0	3.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P40969
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0284.3
+XX
+ID CIN5
+XX
+DE MA0284.3 CIN5 ; From JASPAR
+PO	A	C	G	T
+01	240.0	46.0	25.0	34.0
+02	3.0	5.0	5.0	332.0
+03	3.0	2.0	13.0	327.0
+04	334.0	1.0	3.0	7.0
+05	4.0	273.0	10.0	58.0
+06	223.0	17.0	88.0	17.0
+07	1.0	1.0	1.0	342.0
+08	321.0	19.0	3.0	2.0
+09	329.0	3.0	1.0	12.0
+10	25.0	18.0	58.0	244.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:19111667
+CC uniprot_ids:P40917
+CC data_type:ChIP-exo
+XX
+//
+AC MA0285.2
+XX
+ID CRZ1
+XX
+DE MA0285.2 CRZ1 ; From JASPAR
+PO	A	C	G	T
+01	63.0	36.0	1.0	1.0
+02	0.0	0.0	100.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	99.0	0.0	0.0
+05	42.0	30.0	7.0	21.0
+06	7.0	76.0	8.0	8.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P53968
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0286.2
+XX
+ID CST6
+XX
+DE MA0286.2 CST6 ; From JASPAR
+PO	A	C	G	T
+01	1.0	1.0	1.0	96.0
+02	1.0	1.0	91.0	7.0
+03	100.0	0.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	5.0	0.0	95.0	0.0
+06	0.0	0.0	0.0	100.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:19111667
+CC uniprot_ids:P40535
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0351.2
+XX
+ID DOT6
+XX
+DE MA0351.2 DOT6 ; From JASPAR
+PO	A	C	G	T
+01	516.0	59.0	138.0	285.0
+02	79.0	420.0	392.0	107.0
+03	29.0	770.0	197.0	3.0
+04	6.0	52.0	83.0	858.0
+05	1.0	990.0	4.0	2.0
+06	972.0	0.0	1.0	25.0
+07	1.0	0.0	27.0	969.0
+08	0.0	968.0	1.0	28.0
+09	36.0	9.0	876.0	78.0
+10	223.0	575.0	177.0	22.0
+XX
+CC tax_group:fungi
+CC tf_family:Myb/SANT domain factors
+CC tf_class:Tryptophan cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P40059
+CC data_type:PBM
+XX
+//
+AC MA0292.2
+XX
+ID ECM22
+XX
+DE MA0292.2 ECM22 ; From JASPAR
+PO	A	C	G	T
+01	14.0	7.0	7.0	71.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	14.0	86.0	0.0
+05	0.0	0.0	86.0	14.0
+06	93.0	0.0	7.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q05958
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0293.2
+XX
+ID ECM23
+XX
+DE MA0293.2 ECM23 ; From JASPAR
+PO	A	C	G	T
+01	72.0	11.0	10.0	7.0
+02	10.0	2.0	86.0	2.0
+03	100.0	0.0	0.0	0.0
+04	3.0	0.0	0.0	97.0
+05	1.0	90.0	3.0	7.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q02710
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0294.2
+XX
+ID EDS1
+XX
+DE MA0294.2 EDS1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	0.0	0.0	100.0	0.0
+03	100.0	0.0	0.0	0.0
+04	76.0	0.0	0.0	24.0
+05	48.0	24.0	10.0	19.0
+06	100.0	0.0	0.0	0.0
+07	82.0	1.0	1.0	15.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38073
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0420.2
+XX
+ID ERT1
+XX
+DE MA0420.2 ERT1 ; From JASPAR
+PO	A	C	G	T
+01	6.0	47.0	6.0	41.0
+02	0.0	100.0	0.0	0.0
+03	0.0	0.0	100.0	0.0
+04	0.0	0.0	100.0	0.0
+05	100.0	0.0	0.0	0.0
+06	100.0	0.0	0.0	0.0
+07	4.0	63.0	4.0	28.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P38140
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0295.2
+XX
+ID FHL1
+XX
+DE MA0295.2 FHL1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	10.0	90.0	0.0
+02	100.0	0.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	0.0	100.0	0.0
+05	0.0	100.0	0.0	0.0
+06	90.0	0.0	0.0	10.0
+XX
+CC tax_group:fungi
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P39521
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0296.2
+XX
+ID FKH1
+XX
+DE MA0296.2 FKH1 ; From JASPAR
+PO	A	C	G	T
+01	520.0	84.0	98.0	297.0
+02	526.0	76.0	129.0	267.0
+03	365.0	73.0	150.0	411.0
+04	119.0	146.0	133.0	600.0
+05	146.0	4.0	847.0	1.0
+06	7.0	3.0	0.0	987.0
+07	959.0	37.0	0.0	1.0
+08	977.0	11.0	1.0	9.0
+09	990.0	1.0	2.0	5.0
+10	1.0	925.0	1.0	71.0
+11	990.0	1.0	3.0	4.0
+12	874.0	39.0	16.0	69.0
+13	671.0	49.0	70.0	208.0
+XX
+CC tax_group:fungi
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P40466
+CC data_type:PBM
+XX
+//
+AC MA0268.2
+XX
+ID ADR1
+XX
+DE MA0268.2 ADR1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	100.0	0.0	0.0
+02	0.0	85.0	0.0	15.0
+03	0.0	100.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	64.0	6.0	20.0	10.0
+06	34.0	51.0	6.0	9.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P07248
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0300.2
+XX
+ID GAT1
+XX
+DE MA0300.2 GAT1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	100.0	0.0
+02	100.0	0.0	0.0	0.0
+03	0.0	0.0	0.0	100.0
+04	100.0	0.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	3.0	9.0	84.0	3.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P43574
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0301.2
+XX
+ID GAT3
+XX
+DE MA0301.2 GAT3 ; From JASPAR
+PO	A	C	G	T
+01	65.0	9.0	20.0	6.0
+02	8.0	2.0	88.0	1.0
+03	92.0	0.0	0.0	8.0
+04	12.0	0.0	1.0	87.0
+05	3.0	94.0	1.0	2.0
+06	6.0	27.0	4.0	63.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q07928
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0302.2
+XX
+ID GAT4
+XX
+DE MA0302.2 GAT4 ; From JASPAR
+PO	A	C	G	T
+01	80.0	4.0	12.0	4.0
+02	3.0	0.0	96.0	0.0
+03	98.0	0.0	0.0	2.0
+04	0.0	0.0	0.0	99.0
+05	0.0	99.0	0.0	0.0
+06	5.0	28.0	3.0	64.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P40569
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0303.3
+XX
+ID GCN4
+XX
+DE MA0303.3 GCN4 ; From JASPAR
+PO	A	C	G	T
+01	0.0	0.0	0.0	90.0
+02	1.0	0.0	84.0	5.0
+03	87.0	0.0	2.0	1.0
+04	0.0	62.0	28.0	0.0
+05	1.0	0.0	2.0	87.0
+06	7.0	78.0	5.0	0.0
+07	82.0	3.0	2.0	3.0
+08	6.0	20.0	13.0	51.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:18842628
+CC uniprot_ids:P03069
+CC data_type:ChIP-exo
+XX
+//
+AC MA0305.2
+XX
+ID GCR2
+XX
+DE MA0305.2 GCR2 ; From JASPAR
+PO	A	C	G	T
+01	33.0	33.0	149.0	16.0
+02	0.0	279.0	0.0	0.0
+03	11.0	0.0	1.0	152.0
+04	0.0	0.0	0.0	169.0
+05	0.0	260.0	0.0	8.0
+06	0.0	269.0	1.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:16522208
+CC uniprot_ids:Q01722
+CC data_type:ChIP-chip
+XX
+//
+AC MA0306.2
+XX
+ID GIS1
+XX
+DE MA0306.2 GIS1 ; From JASPAR
+PO	A	C	G	T
+01	0.0	97.0	0.0	3.0
+02	0.0	100.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	0.0	87.0	0.0	13.0
+05	0.0	0.0	0.0	100.0
+06	49.0	4.0	15.0	32.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:19111667
+CC uniprot_ids:Q03833
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0308.2
+XX
+ID GSM1
+XX
+DE MA0308.2 GSM1 ; From JASPAR
+PO	A	C	G	T
+01	566.0	22.0	17.0	393.0
+02	849.0	9.0	20.0	120.0
+03	400.0	164.0	182.0	252.0
+04	3.0	916.0	10.0	69.0
+05	4.0	177.0	38.0	778.0
+06	3.0	985.0	1.0	9.0
+07	0.0	972.0	25.0	0.0
+08	0.0	30.0	967.0	1.0
+09	136.0	4.0	849.0	9.0
+10	708.0	60.0	197.0	32.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:18842628
+CC uniprot_ids:P42950
+CC data_type:PBM
+XX
+//
+AC MA0309.2
+XX
+ID GZF3
+XX
+DE MA0309.2 GZF3 ; From JASPAR
+PO	A	C	G	T
+01	18.0	39.0	2.0	41.0
+02	0.0	0.0	100.0	0.0
+03	100.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	100.0
+05	100.0	0.0	0.0	0.0
+06	73.0	9.0	0.0	18.0
+07	4.0	38.0	59.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P42944
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0269.2
+XX
+ID AFT1
+XX
+DE MA0269.2 AFT1 ; From JASPAR
+PO	A	C	G	T
+01	136.0	78.0	142.0	641.0
+02	716.0	25.0	31.0	226.0
+03	145.0	31.0	288.0	535.0
+04	34.0	47.0	39.0	878.0
+05	160.0	10.0	812.0	16.0
+06	10.0	966.0	11.0	10.0
+07	961.0	9.0	15.0	14.0
+08	8.0	972.0	9.0	10.0
+09	25.0	955.0	2.0	16.0
+10	19.0	740.0	13.0	225.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:18842628
+CC uniprot_ids:P22149
+CC data_type:PBM
+XX
+//
+AC MA0310.2
+XX
+ID HAC1
+XX
+DE MA0310.2 HAC1 ; From JASPAR
+PO	A	C	G	T
+01	24.0	6.0	56.0	15.0
+02	68.0	32.0	0.0	0.0
+03	0.0	100.0	0.0	0.0
+04	100.0	0.0	0.0	0.0
+05	0.0	100.0	0.0	0.0
+06	0.0	0.0	100.0	0.0
+07	0.0	0.0	0.0	100.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic leucine zipper factors (bZIP)
+CC pubmed_ids:19111667
+CC uniprot_ids:P41546
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0312.3
+XX
+ID HAP1
+XX
+DE MA0312.3 HAP1 ; From JASPAR
+PO	A	C	G	T
+01	1.0	55.0	0.0	0.0
+02	0.0	56.0	0.0	0.0
+03	0.0	0.0	56.0	0.0
+04	56.0	0.0	0.0	0.0
+05	0.0	0.0	0.0	56.0
+06	56.0	0.0	0.0	0.0
+07	27.0	7.0	4.0	18.0
+08	31.0	9.0	6.0	10.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P0CE41
+CC data_type:ChIP-exo
+XX
+//
+AC MA0314.3
+XX
+ID HAP3
+XX
+DE MA0314.3 HAP3 ; From JASPAR
+PO	A	C	G	T
+01	4.0	17.0	0.0	94.0
+02	2.0	20.0	84.0	9.0
+03	111.0	1.0	0.0	3.0
+04	0.0	0.0	0.0	115.0
+05	0.0	2.0	0.0	113.0
+06	0.0	1.0	114.0	0.0
+07	0.0	0.0	115.0	0.0
+08	6.0	67.0	4.0	38.0
+09	5.0	42.0	18.0	50.0
+XX
+CC tax_group:fungi
+CC tf_family:Heteromeric CCAAT-binding
+CC tf_class:Heteromeric CCAAT-binding factors
+CC pubmed_ids:17130146
+CC uniprot_ids:P13434
+CC data_type:ChIP-exo
+XX
+//
+AC MA0316.2
+XX
+ID HAP5
+XX
+DE MA0316.2 HAP5 ; From JASPAR
+PO	A	C	G	T
+01	200.0	1914.0	2108.0	97.0
+02	113.0	1513.0	2485.0	433.0
+03	826.0	1137.0	2155.0	453.0
+04	1817.0	1451.0	440.0	1002.0
+05	127.0	637.0	1273.0	2389.0
+06	98.0	3199.0	677.0	624.0
+07	0.0	700.0	0.0	3713.0
+08	537.0	1308.0	1904.0	793.0
+09	4156.0	0.0	0.0	0.0
+10	0.0	0.0	0.0	4156.0
+11	0.0	0.0	234.0	3922.0
+12	387.0	0.0	3788.0	0.0
+13	361.0	497.0	3123.0	262.0
+14	0.0	1730.0	0.0	2808.0
+XX
+CC tax_group:fungi
+CC tf_family:Heteromeric CCAAT-binding
+CC tf_class:Heteromeric CCAAT-binding factors
+CC pubmed_ids:17130146
+CC uniprot_ids:Q02516
+CC data_type:COMPILED
+XX
+//
+AC MA0317.2
+XX
+ID HCM1
+XX
+DE MA0317.2 HCM1 ; From JASPAR
+PO	A	C	G	T
+01	27.0	8.0	4.0	61.0
+02	67.0	32.0	1.0	1.0
+03	95.0	5.0	0.0	0.0
+04	100.0	0.0	0.0	0.0
+05	1.0	86.0	0.0	13.0
+06	95.0	2.0	2.0	2.0
+07	57.0	17.0	11.0	14.0
+XX
+CC tax_group:fungi
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P25364
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0270.2
+XX
+ID AFT2
+XX
+DE MA0270.2 AFT2 ; From JASPAR
+PO	A	C	G	T
+01	70.0	0.0	30.0	0.0
+02	0.0	100.0	0.0	0.0
+03	100.0	0.0	0.0	0.0
+04	0.0	100.0	0.0	0.0
+05	0.0	100.0	0.0	0.0
+06	0.0	100.0	0.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:
+CC pubmed_ids:19111667
+CC uniprot_ids:Q08957
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0319.2
+XX
+ID HSF1
+XX
+DE MA0319.2 HSF1 ; From JASPAR
+PO	A	C	G	T
+01	69.0	13.0	13.0	6.0
+02	2.0	2.0	2.0	95.0
+03	19.0	0.0	81.0	0.0
+04	0.0	0.0	100.0	0.0
+05	100.0	0.0	0.0	0.0
+06	100.0	0.0	0.0	0.0
+07	6.0	56.0	19.0	19.0
+XX
+CC tax_group:fungi
+CC tf_family:HSF factors
+CC tf_class:Heat shock factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P10961
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA0325.2
+XX
+ID LYS14
+XX
+DE MA0325.2 LYS14 ; From JASPAR
+PO	A	C	G	T
+01	4.0	82.0	10.0	4.0
+02	0.0	0.0	100.0	0.0
+03	0.0	0.0	100.0	0.0
+04	100.0	0.0	0.0	0.0
+05	100.0	0.0	0.0	0.0
+06	6.0	0.0	0.0	94.0
+07	13.0	13.0	7.0	68.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:19111667
+CC uniprot_ids:P40971
+CC data_type:PBM, CSA and/or DIP-chip
+XX
+//
+AC MA1433.2
+XX
+ID msn-1
+XX
+DE MA1433.2 msn-1 ; From JASPAR
+PO	A	C	G	T
+01	5.0	971.0	5.0	17.0
+02	0.0	933.0	0.0	65.0
+03	0.0	988.0	0.0	11.0
+04	5.0	884.0	0.0	109.0
+05	22.0	16.0	11.0	950.0
+06	246.0	0.0	447.0	305.0
+07	547.0	42.0	147.0	263.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:26994287
+CC uniprot_ids:Q7SH58
+CC data_type:PBM
+XX
+//
+AC MA0929.2
+XX
+ID NCU00019
+XX
+DE MA0929.2 NCU00019 ; From JASPAR
+PO	A	C	G	T
+01	150.0	55.0	741.0	55.0
+02	111.0	0.0	0.0	889.0
+03	803.0	101.0	0.0	96.0
+04	999.0	0.0	0.0	0.0
+05	898.0	0.0	0.0	101.0
+06	26.0	521.0	26.0	428.0
+07	923.0	26.0	26.0	26.0
+XX
+CC tax_group:fungi
+CC tf_family:FOX
+CC tf_class:Fork head/winged helix factors
+CC pubmed_ids:17947326; 19111667
+CC uniprot_ids:Q7RY86
+CC data_type:PBM
+XX
+//
+AC MA1435.2
+XX
+ID nit-4
+XX
+DE MA1435.2 nit-4 ; From JASPAR
+PO	A	C	G	T
+01	11.0	70.0	11.0	906.0
+02	0.0	999.0	0.0	0.0
+03	0.0	884.0	0.0	115.0
+04	0.0	115.0	884.0	0.0
+05	0.0	999.0	0.0	0.0
+06	0.0	0.0	999.0	0.0
+07	0.0	0.0	999.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:C6 zinc cluster factors
+CC pubmed_ids:7596294
+CC uniprot_ids:P28349
+CC data_type:PBM
+XX
+//
+AC MA1436.2
+XX
+ID nuc-1
+XX
+DE MA1436.2 nuc-1 ; From JASPAR
+PO	A	C	G	T
+01	250.0	549.0	50.0	150.0
+02	0.0	998.0	0.0	0.0
+03	934.0	64.0	0.0	0.0
+04	0.0	999.0	0.0	0.0
+05	0.0	0.0	999.0	0.0
+06	0.0	0.0	0.0	999.0
+07	0.0	0.0	999.0	0.0
+XX
+CC tax_group:fungi
+CC tf_family:
+CC tf_class:Basic helix-loop-helix factors (bHLH)
+CC pubmed_ids:7969122
+CC uniprot_ids:P20824
+CC data_type:PBM
+XX
+//
+AC MA1437.2
+XX
+ID wc-1
+XX
+DE MA1437.2 wc-1 ; From JASPAR
+PO	A	C	G	T
+01	200.0	799.0	0.0	0.0
+02	0.0	0.0	999.0	0.0
+03	999.0	0.0	0.0	0.0
+04	0.0	0.0	0.0	999.0
+05	0.0	999.0	0.0	0.0
+06	0.0	0.0	805.0	193.0
+07	624.0	208.0	83.0	83.0
+XX
+CC tax_group:fungi
+CC tf_family:C4-GATA-related
+CC tf_class:Other C4 zinc finger-type factors
+CC pubmed_ids:12098706
+CC uniprot_ids:Q01371
+CC data_type:PBM
+XX
+//
+AC MA1432.2
+XX
+ID cre-1
+XX
+DE MA1432.2 cre-1 ; From JASPAR
+PO	A	C	G	T
+01	8.0	985.0	0.0	5.0
+02	0.0	758.0	0.0	240.0
+03	65.0	872.0	39.0	23.0
+04	0.0	999.0	0.0	0.0
+05	499.0	0.0	489.0	11.0
+XX
+CC tax_group:fungi
+CC tf_family:Other factors with up to three adjacent zinc fingers
+CC tf_class:C2H2 zinc finger factors
+CC pubmed_ids:21980519
+CC uniprot_ids:O59958
+CC data_type:PBM
+XX
+//
