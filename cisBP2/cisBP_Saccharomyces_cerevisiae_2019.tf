@@ -1,3 +1,40467 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdd2ac2a6c48699d6ceaec5cf0470d1225aca3e53c08ef5b819774a2d9eceae5
-size 900569
+AC  M00001_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1    0.961538 0.961538 0.961538 97.1154
+2    0.961538 0.961538 0.961538 97.1154
+3    97.1154 0.961538 0.961538 0.961538
+4    0.961538 0.961538 0.961538 97.1154
+5    0.961538 97.1154 0.961538 0.961538
+6    97.1154 0.961538 0.961538 0.961538
+7    0.961538 97.1154 0.961538 0.961538
+8    0.961538 0.961538 0.961538 97.1154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1
+CC  accession: M00001_2.00
+CC  AC: M00001_2.00
+CC  id: M00001_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1
+XX
+//
+AC  M00002_2.00
+XX
+ID  AFT2
+XX
+DE  AFT2
+P0       A     C     G     T
+1    25.9794 22.1382 32.0502 19.8322
+2    25.3449 0.544753 63.5977 10.5126
+3    4.003 1.7455 78.8102 15.4413
+4    1.67146 0.046593 94.9827 3.29925
+5    1.31292 9.04541 4.67513 84.9665
+6    4.05014 2.82568 86.3795 6.74466
+7    14.542 31.4073 16.0714 37.9793
+8    27.0268 24.2116 28.1298 20.6317
+9    28.6005 20.1544 25.3663 25.8788
+10   31.2355 19.1357 19.9166 29.7121
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 2
+CC  accession: M00002_2.00
+CC  AC: M00002_2.00
+CC  id: M00002_2.00
+CC  name: AFT2
+CC  version: 
+CC  name: AFT2
+CC  description: AFT2
+CC  transfac_consensus: 
+CC  matrix.nb: 2
+XX
+//
+AC  M00003_2.00
+XX
+ID  MBP1
+XX
+DE  MBP1
+P0       A     C     G     T
+1    25.3967 16.6693 56.3393 1.59473
+2    75.9883 0.00571298 10.8604 13.1456
+3    0.00471609 99.5142 0.476325     0
+4    8.02207 0.00471609 91.9685     0
+5    0.00471609 97.1562 0.00471609 2.83437
+6    0.00473844 0.478582 99.5119     0
+7    21.4697 15.8213 2.26502 60.444
+8    46.709 2.92615 27.0067 23.3581
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 3
+CC  accession: M00003_2.00
+CC  AC: M00003_2.00
+CC  id: M00003_2.00
+CC  name: MBP1
+CC  version: 
+CC  name: MBP1
+CC  description: MBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 3
+XX
+//
+AC  M00004_2.00
+XX
+ID  SWI4
+XX
+DE  SWI4
+P0       A     C     G     T
+1    34.9967 10.005 44.9933 10.005
+2    78.3819 3.70896 5.56036 12.3488
+3    0.00523451 99.9843 0.00523451     0
+4    5.73318 0.00520725 94.2564     0
+5    0.525932 99.4637 0.00520725     0
+6    0.525932 2.60883 96.86     0
+7    65.1509 12.9063 4.52141 17.4213
+8    54.6119 9.24899 11.7692 24.37
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 4
+CC  accession: M00004_2.00
+CC  AC: M00004_2.00
+CC  id: M00004_2.00
+CC  name: SWI4
+CC  version: 
+CC  name: SWI4
+CC  description: SWI4
+CC  transfac_consensus: 
+CC  matrix.nb: 4
+XX
+//
+AC  M00005_2.00
+XX
+ID  XBP1
+XX
+DE  XBP1
+P0       A     C     G     T
+1    13.9169 13.0476 27.8251 45.2104
+2    1.30486 81.8034 2.60322 14.2885
+3    0.00497413 0.00497413 0.00497413 99.9851
+4    0.00497413 99.9851 0.00497413     0
+5    0.00497413 0.00497413 99.9851     0
+6    99.9851 0.00497413 0.00497413     0
+7    62.6487 5.70109 27.8474 3.80283
+8    14.2891 23.0165 47.6119 15.0825
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 5
+CC  accession: M00005_2.00
+CC  AC: M00005_2.00
+CC  id: M00005_2.00
+CC  name: XBP1
+CC  version: 
+CC  name: XBP1
+CC  description: XBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 5
+XX
+//
+AC  M00006_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1    0.0586854 11.7958 88.0869 0.0586854
+2    36.8172 57.8256 5.30462 0.052521
+3    0.0475285 0.0475285 0.0475285 99.8574
+4    0.0475285 0.0475285 99.8574 0.0475285
+5    0.0475285 99.8574 0.0475285 0.0475285
+6    99.8574 0.0475285 0.0475285 0.0475285
+7    5.30462 5.30462 63.0777 26.313
+8    0.0766871 15.4141 84.4325 0.0766871
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 6
+CC  accession: M00006_2.00
+CC  AC: M00006_2.00
+CC  id: M00006_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 6
+XX
+//
+AC  M00007_2.00
+XX
+ID  SOK2
+XX
+DE  SOK2
+P0       A     C     G     T
+1    47.5477 17.4841 17.4841 17.4841
+2    6.92716 70.2024 15.9432 6.92716
+3    32.8519 62.1172 2.51544 2.51544
+4    0.0181107 0.0181107 0.0181107 99.9457
+5    0.0181107 0.0181107 99.9457 0.0181107
+6    0.0181107 99.9457 0.0181107 0.0181107
+7    99.9457 0.0181107 0.0181107 0.0181107
+8    0.0181107 0.0181107 59.2518 40.712
+9    16.544 7.53401 68.388 7.53401
+10   27.0669 36.7512 18.0909 18.0909
+11   32.492 22.5027 22.5027 22.5027
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 7
+CC  accession: M00007_2.00
+CC  AC: M00007_2.00
+CC  id: M00007_2.00
+CC  name: SOK2
+CC  version: 
+CC  name: SOK2
+CC  description: SOK2
+CC  transfac_consensus: 
+CC  matrix.nb: 7
+XX
+//
+AC  M00008_2.00
+XX
+ID  ORC2,SUM1
+XX
+DE  ORC2,SUM1
+P0       A     C     G     T
+1    28.2959 24.8465 24.5993 22.2583
+2    31.6659 18.4532 23.6944 26.1864
+3    37.7778 11.2652 20.9413 30.0157
+4    61.6393 6.89847 11.1484 20.3138
+5    67.5764 4.27703 6.31709 21.8294
+6    32.6032 13.3887 8.20227 45.8058
+7    32.1153 13.7266 11.2384 42.9198
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 8
+CC  accession: M00008_2.00
+CC  AC: M00008_2.00
+CC  id: M00008_2.00
+CC  name: ORC2,SUM1
+CC  version: 
+CC  name: ORC2,SUM1
+CC  description: ORC2,SUM1
+CC  transfac_consensus: 
+CC  matrix.nb: 8
+XX
+//
+AC  M00009_2.00
+XX
+ID  PHO4
+XX
+DE  PHO4
+P0       A     C     G     T
+1    27.4529 27.525 27.4073 17.6149
+2    7.40008 67.1519 18.0479 7.40008
+3    0.000936488 99.9972 0.000936488     0
+4    99.9972 0.000936488 0.000936488     0
+5    0.000936488 99.9972 0.000936488     0
+6    0.000936488 0.000936488 99.9972     0
+7    0.000936488 0.000936488 0.000936488 99.9972
+8    0.000936488 0.000936488 99.9972     0
+9    7.38606 57.7172 17.7537 17.143
+10   27.2951 27.3391 17.6009 27.7649
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 9
+CC  accession: M00009_2.00
+CC  AC: M00009_2.00
+CC  id: M00009_2.00
+CC  name: PHO4
+CC  version: 
+CC  name: PHO4
+CC  description: PHO4
+CC  transfac_consensus: 
+CC  matrix.nb: 9
+XX
+//
+AC  M00010_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1    22.6939 22.6939 22.6939 31.9184
+2    28.2796 10.9239 40.0191 20.7773
+3    9.77069 78.6541 2.0316 9.54359
+4    99.939 0.0203189 0.0203189 0.0203189
+5    0.0203189 92.4271 0.0203189 7.53231
+6    23.3165 0.0203189 76.6428 0.0203189
+7    15.8045 0.0203189 0.0203189 84.1548
+8    15.8045 0.0203189 76.6428 7.53231
+9    83.4823 11.8648 2.32644 2.32644
+10   14.0964 44.8177 14.0964 26.9895
+11   22.9887 22.9887 22.9887 31.0339
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 10
+CC  accession: M00010_2.00
+CC  AC: M00010_2.00
+CC  id: M00010_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 10
+XX
+//
+AC  M00011_2.00
+XX
+ID  TYE7
+XX
+DE  TYE7
+P0       A     C     G     T
+1    49.7525    25    25 0.247525
+2    0.142045 14.3466 0.142045 85.3693
+3    0.142045 99.5739 0.142045 0.142045
+4    99.5739 0.142045 0.142045 0.142045
+5    0.142045 99.5739 0.142045 0.142045
+6    0.142045 0.142045 99.5739 0.142045
+7    0.142045 0.142045 0.142045 99.5739
+8    0.142045 0.142045 99.5739 0.142045
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 11
+CC  accession: M00011_2.00
+CC  AC: M00011_2.00
+CC  id: M00011_2.00
+CC  name: TYE7
+CC  version: 
+CC  name: TYE7
+CC  description: TYE7
+CC  transfac_consensus: 
+CC  matrix.nb: 11
+XX
+//
+AC  M00012_2.00
+XX
+ID  HAC1
+XX
+DE  HAC1
+P0       A     C     G     T
+1    35.3816 15.7398 24.4393 24.4393
+2    21.1817 17.3421 37.8314 23.6447
+3    28.2621 4.96057 49.9749 16.8024
+4    47.1319 43.0753 0.1814 9.6114
+5    9.52428 79.3481 1.88484 9.24279
+6    92.6944 0.999308 0.725647 5.58066
+7    8.07352 86.3657 3.38242 2.1784
+8    9.89754 13.7672 69.5667 6.76855
+9    10.1851 13.6117 13.3421 62.8611
+10   31.865 18.2016 27.7021 22.2314
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 12
+CC  accession: M00012_2.00
+CC  AC: M00012_2.00
+CC  id: M00012_2.00
+CC  name: HAC1
+CC  version: 
+CC  name: HAC1
+CC  description: HAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 12
+XX
+//
+AC  M00013_2.00
+XX
+ID  YAP3
+XX
+DE  YAP3
+P0       A     C     G     T
+1    28.673 27.6761 21.8254 21.8254
+2    46.5755 15.8579 15.8579 21.7086
+3    0.00515785 0.00515785 0.00515785 99.9845
+4    0.00515785 0.00515785 12.1061 87.8836
+5    94.1338 0.00515785 0.00515785 5.85585
+6    0.00515785 99.9845 0.00515785     0
+7    5.09268 0.00515785 52.5333 42.3689
+8    36.5182 0.00515785 0.00515785 63.4715
+9    90.4608 3.17972 3.17972 3.17972
+10   52.5751 9.14723 21.5662 16.7115
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 13
+CC  accession: M00013_2.00
+CC  AC: M00013_2.00
+CC  id: M00013_2.00
+CC  name: YAP3
+CC  version: 
+CC  name: YAP3
+CC  description: YAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 13
+XX
+//
+AC  M00014_2.00
+XX
+ID  CST6
+XX
+DE  CST6
+P0       A     C     G     T
+1    71.2963 0.0712251 28.5613 0.0712251
+2    0.0475285 0.0475285 0.0475285 99.8574
+3    4.80038 0.0475285 80.846 14.3061
+4    99.8574 0.0475285 0.0475285 0.0475285
+5    0.0475285 95.1046 0.0475285 4.80038
+6    9.55323 0.0475285 90.3517 0.0475285
+7    0.0475285 0.0475285 0.0475285 99.8574
+8    49.9288 28.5613 0.0712251 21.4387
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 14
+CC  accession: M00014_2.00
+CC  AC: M00014_2.00
+CC  id: M00014_2.00
+CC  name: CST6
+CC  version: 
+CC  name: CST6
+CC  description: CST6
+CC  transfac_consensus: 
+CC  matrix.nb: 14
+XX
+//
+AC  M00015_2.00
+XX
+ID  CIN5
+XX
+DE  CIN5
+P0       A     C     G     T
+1    11.6441 7.65069 66.3402 14.365
+2    44.4801 45.3787 8.71497 1.42624
+3    0.291938 1.85667 2.38401 95.4674
+4    5.05929 1.86121 15.506 77.5735
+5    96.5859 2.20435 0.136755 1.07297
+6    7.73093 60.0531 13.9465 18.2694
+7    34.7681 11.0089 43.3237 10.8993
+8    8.96083 5.48964 4.67796 80.8716
+9    65.7744 17.2227 10.3422 6.66074
+10   76.0955 7.25717 7.78337 8.86392
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 15
+CC  accession: M00015_2.00
+CC  AC: M00015_2.00
+CC  id: M00015_2.00
+CC  name: CIN5
+CC  version: 
+CC  name: CIN5
+CC  description: CIN5
+CC  transfac_consensus: 
+CC  matrix.nb: 15
+XX
+//
+AC  M00016_2.00
+XX
+ID  REI1
+XX
+DE  REI1
+P0       A     C     G     T
+1       25 20.1942 38.4564 16.3495
+2    0.776684 81.5211 3.85266 13.8496
+3    7.04731 89.4185 2.11912 1.41509
+4    0.00704027 99.9789 0.00704027     0
+5    0.00704027 94.3467 0.00704027 5.63926
+6    0.00704027 1.41509 1.41509 97.1628
+7    2.71073 0.909582 71.1545 25.2251
+8    56.3942 5.13839 17.9523 20.5151
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 16
+CC  accession: M00016_2.00
+CC  AC: M00016_2.00
+CC  id: M00016_2.00
+CC  name: REI1
+CC  version: 
+CC  name: REI1
+CC  description: REI1
+CC  transfac_consensus: 
+CC  matrix.nb: 16
+XX
+//
+AC  M00017_2.00
+XX
+ID  RPN4
+XX
+DE  RPN4
+P0       A     C     G     T
+1    22.5748 22.5748 22.5748 32.2756
+2    23.3041 19.4398 19.7949 37.4611
+3    0.00345548 79.7239 0.00345548 20.2692
+4    0.00345548 0.00345548 99.9896     0
+5    0.00345548 99.9896 0.00345548     0
+6    0.00345548 99.9896 0.00345548     0
+7    99.9896 0.00345548 0.00345548     0
+8    0.00345548 99.9896 0.00345548     0
+9    2.42867 92.714 2.42867 2.42867
+10   23.2055 24.6285 29.502 22.664
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 17
+CC  accession: M00017_2.00
+CC  AC: M00017_2.00
+CC  id: M00017_2.00
+CC  name: RPN4
+CC  version: 
+CC  name: RPN4
+CC  description: RPN4
+CC  transfac_consensus: 
+CC  matrix.nb: 17
+XX
+//
+AC  M00018_2.00
+XX
+ID  STP4
+XX
+DE  STP4
+P0       A     C     G     T
+1    38.6467 19.0004 23.914 18.4389
+2    36.5263 15.1505 32.3959 15.9273
+3    23.084 44.2184 16.267 16.4305
+4    14.3801 1.29156 25.4279 58.9004
+5    3.84387 69.8591 22.5668 3.73027
+6    13.1629 2.26461 8.06394 76.5085
+7    48.4548 13.4722 29.983 8.09001
+8    18.5433 11.9426 50.406 19.1081
+9    29.6229 18.3302 25.243 26.8039
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 18
+CC  accession: M00018_2.00
+CC  AC: M00018_2.00
+CC  id: M00018_2.00
+CC  name: STP4
+CC  version: 
+CC  name: STP4
+CC  description: STP4
+CC  transfac_consensus: 
+CC  matrix.nb: 18
+XX
+//
+AC  M00019_2.00
+XX
+ID  GIS1
+XX
+DE  GIS1
+P0       A     C     G     T
+1    38.9881 23.8851 14.6327 22.4942
+2    3.23112 88.4847 0.415958 7.8682
+3    0.667858 98.1327 0.461313 0.738098
+4    1.04113 98.5249 0.326381 0.107562
+5    0.0969649 77.991 0.443345 21.4687
+6    2.81398 2.04337 5.61028 89.5324
+7    53.6179 4.58084 14.9078 26.8935
+8    49.237 11.2082 14.1066 25.4482
+9    30.7871 16.5617 17.2376 35.4136
+10   29.0046 21.0617 16.9024 33.0313
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 19
+CC  accession: M00019_2.00
+CC  AC: M00019_2.00
+CC  id: M00019_2.00
+CC  name: GIS1
+CC  version: 
+CC  name: GIS1
+CC  description: GIS1
+CC  transfac_consensus: 
+CC  matrix.nb: 19
+XX
+//
+AC  M00020_2.00
+XX
+ID  SWI5
+XX
+DE  SWI5
+P0       A     C     G     T
+1    31.9888 22.6704 22.6704 22.6704
+2    33.3162 19.1218 28.4402 19.1218
+3    9.35661 9.35661 18.2389 63.0479
+4    0.0184128 0.0184128 99.9448 0.0184128
+5    0.0184128 99.9448 0.0184128 0.0184128
+6    0.0184128 0.0184128 0.0184128 99.9448
+7    0.0184128 0.0184128 99.9448 0.0184128
+8    0.0184128 0.0184128 99.9448 0.0184128
+9    2.34802 11.1479 12.0419 74.4622
+10   26.4277 32.4611 5.89661 35.2146
+11   34.7272 33.9492 15.6618 15.6618
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 20
+CC  accession: M00020_2.00
+CC  AC: M00020_2.00
+CC  id: M00020_2.00
+CC  name: SWI5
+CC  version: 
+CC  name: SWI5
+CC  description: SWI5
+CC  transfac_consensus: 
+CC  matrix.nb: 20
+XX
+//
+AC  M00021_2.00
+XX
+ID  ADR1
+XX
+DE  ADR1
+P0       A     C     G     T
+1    16.9817 16.9817 16.9817 49.055
+2    86.0761 4.64131 4.64131 4.64131
+3    0.00281864 99.9915 0.00281864     0
+4    0.00281864 99.9915 0.00281864     0
+5    0.00281864 99.9915 0.00281864     0
+6    0.00281864 99.9915 0.00281864     0
+7    58.1637 0.00281864 41.8307     0
+8    20.0336 79.9607 0.00281864     0
+9    47.1273 27.2399 8.02115 17.6117
+10   20.3615 30.4059 20.3615 28.8711
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 21
+CC  accession: M00021_2.00
+CC  AC: M00021_2.00
+CC  id: M00021_2.00
+CC  name: ADR1
+CC  version: 
+CC  name: ADR1
+CC  description: ADR1
+CC  transfac_consensus: 
+CC  matrix.nb: 21
+XX
+//
+AC  M00022_2.00
+XX
+ID  MET32
+XX
+DE  MET32
+P0       A     C     G     T
+1    20.8911 20.2737 42.0696 16.7655
+2    33.0823 21.3062 41.223 4.38854
+3    26.6733 66.931 0.561953 5.83376
+4    3.74573 0.0854877 94.6909 1.47789
+5    0.0352225 99.8761 0.052023 0.03666
+6    0.0179549 99.4952 3.19963e-05 0.486806
+7    94.3601 1.64398 3.92403 0.0718711
+8    0.154314 98.6158 0.0311554 1.19869
+9    75.5147 7.72396 9.3402 7.4211
+10   18.5591 33.8169 35.908 11.7161
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 22
+CC  accession: M00022_2.00
+CC  AC: M00022_2.00
+CC  id: M00022_2.00
+CC  name: MET32
+CC  version: 
+CC  name: MET32
+CC  description: MET32
+CC  transfac_consensus: 
+CC  matrix.nb: 22
+XX
+//
+AC  M00023_2.00
+XX
+ID  MIG3
+XX
+DE  MIG3
+P0       A     C     G     T
+1    31.8413 22.7196 22.7196 22.7196
+2    32.6327 32.5944 12.6318 22.1411
+3    0.00578459 99.9826 0.00578459     0
+4    0.00578459 99.9826 0.00578459     0
+5    0.00578459 99.9826 0.00578459     0
+6    0.00578459 99.9826 0.00578459     0
+7    9.38244 0.00578459 90.606     0
+8    0.00578459 99.9826 0.00578459     0
+9    74.3851 2.28622 21.0425 2.28622
+10   21.9562 33.2907 12.374 32.379
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 23
+CC  accession: M00023_2.00
+CC  AC: M00023_2.00
+CC  id: M00023_2.00
+CC  name: MIG3
+CC  version: 
+CC  name: MIG3
+CC  description: MIG3
+CC  transfac_consensus: 
+CC  matrix.nb: 23
+XX
+//
+AC  M00024_2.00
+XX
+ID  COM2
+XX
+DE  COM2
+P0       A     C     G     T
+1    23.6115 43.7448 22.9172 9.72646
+2    1.72949 93.0878 0.580326 4.60239
+3    0.53712 94.1342 0.53712 4.79153
+4    0.00531802 96.2614 0.00531802 3.72793
+5    1.06892 83.4982 0.00531802 15.4276
+6    3.72793 3.19613 2.66433 90.4116
+7    56.8406 2.74582 20.5492 19.8644
+8    15.3883 2.89312 8.66013 73.0584
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 24
+CC  accession: M00024_2.00
+CC  AC: M00024_2.00
+CC  id: M00024_2.00
+CC  name: COM2
+CC  version: 
+CC  name: COM2
+CC  description: COM2
+CC  transfac_consensus: 
+CC  matrix.nb: 24
+XX
+//
+AC  M00025_2.00
+XX
+ID  RPH1
+XX
+DE  RPH1
+P0       A     C     G     T
+1    22.9229 22.9229 31.2312 22.9229
+2    18.4275 26.7087 18.4275 36.4364
+3    54.5197 24.2404 6.13827 15.1016
+4    0.00158941 99.9952 0.00158941     0
+5    0.00158941 99.9952 0.00158941     0
+6    0.00158941 99.9952 0.00158941     0
+7    0.00158941 90.4225 0.00158941 9.57432
+8    0.00158941 0.00158941 0.00158941 99.9952
+9    84.7826 2.07867 2.07867 11.0601
+10   80.2776 6.57412 6.57412 6.57412
+11   31.0595 18.8633 18.8633 31.2139
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 25
+CC  accession: M00025_2.00
+CC  AC: M00025_2.00
+CC  id: M00025_2.00
+CC  name: RPH1
+CC  version: 
+CC  name: RPH1
+CC  description: RPH1
+CC  transfac_consensus: 
+CC  matrix.nb: 25
+XX
+//
+AC  M00026_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1    43.0455 22.2238 9.73071    25
+2    0.00952018 97.1154 0.961538 1.91356
+3    0.901464 98.1881 0.00892538 0.901464
+4    0.00892538 99.9732 0.00892538     0
+5    0.901464 99.0807 0.00892538     0
+6    33.3303 8.11419 58.5465     0
+7    0.989808 89.1905 9.80988     0
+8    46.6551 14.6722 22.6679 16.0048
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 26
+CC  accession: M00026_2.00
+CC  AC: M00026_2.00
+CC  id: M00026_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 26
+XX
+//
+AC  M00027_2.00
+XX
+ID  MIG2
+XX
+DE  MIG2
+P0       A     C     G     T
+1    16.7474 26.0038 21.0783 36.1705
+2    34.6146 17.8906 21.8516 25.6431
+3    9.16315 77.1067 2.75989 10.9703
+4    0.934151 81.6043 1.7894 15.6721
+5    3.08808 94.4008 0.833226 1.67791
+6    4.75251 85.5134 3.3827 6.35139
+7    38.4137 5.74549 50.3206 5.5202
+8    12.3967 57.8253 16.0776 13.7004
+9    39.134 17.2358 21.0519 22.5783
+10   23.2566 32.3493 14.8291 29.565
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 27
+CC  accession: M00027_2.00
+CC  AC: M00027_2.00
+CC  id: M00027_2.00
+CC  name: MIG2
+CC  version: 
+CC  name: MIG2
+CC  description: MIG2
+CC  transfac_consensus: 
+CC  matrix.nb: 27
+XX
+//
+AC  M00028_2.00
+XX
+ID  FZF1
+XX
+DE  FZF1
+P0       A     C     G     T
+1    29.108 30.5256 20.1832 20.1832
+2    23.5307 46.9986 4.75145 24.7192
+3    0.0124382 99.9627 0.0124382 0.0124382
+4    0.0124382 0.0124382 0.0124382 99.9627
+5    99.9627 0.0124382 0.0124382 0.0124382
+6    0.0124382 0.0124382 0.0124382 99.9627
+7    0.0124382 99.9627 0.0124382 0.0124382
+8    99.9627 0.0124382 0.0124382 0.0124382
+9    46.9607 14.2673 4.82926 33.9427
+10   20.261 29.5093 20.261 29.9687
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 28
+CC  accession: M00028_2.00
+CC  AC: M00028_2.00
+CC  id: M00028_2.00
+CC  name: FZF1
+CC  version: 
+CC  name: FZF1
+CC  description: FZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 28
+XX
+//
+AC  M00029_2.00
+XX
+ID  YGR067C
+XX
+DE  YGR067C
+P0       A     C     G     T
+1    14.2904 58.2272 10.9952 16.4873
+2    14.8794 59.4927 13.227 12.4009
+3    0.00768994 99.2079 0.00768994 0.776684
+4    4.58639 93.109 0.770757 1.53388
+5    4.58639 71.7415 15.2701 8.40201
+6    0.770757 93.109 3.06013 3.06013
+7    47.3214 14.507 23.6645 14.507
+8    3.23283 82.2396 5.6514 8.87617
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 29
+CC  accession: M00029_2.00
+CC  AC: M00029_2.00
+CC  id: M00029_2.00
+CC  name: YGR067C
+CC  version: 
+CC  name: YGR067C
+CC  description: YGR067C
+CC  transfac_consensus: 
+CC  matrix.nb: 29
+XX
+//
+AC  M00030_2.00
+XX
+ID  RIM101
+XX
+DE  RIM101
+P0       A     C     G     T
+1    9.28567 20.46 31.4523 38.802
+2    0.503465 97.8816 0.176181 1.43873
+3    2.59899 2.65149 1.51456 93.235
+4    0.664546 10.3952 9.78988 79.1503
+5    0.443287 0.901642 95.2459 3.40915
+6    0.599178 0.356224 96.3323 2.71232
+7    0.558662 93.4839 0.0406722 5.91676
+8    35.0979 11.5668 42.4421 10.8932
+9    32.0352 27.85 10.2455 29.8694
+10   18.1145 24.2088 31.7126 25.9641
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 30
+CC  accession: M00030_2.00
+CC  AC: M00030_2.00
+CC  id: M00030_2.00
+CC  name: RIM101
+CC  version: 
+CC  name: RIM101
+CC  description: RIM101
+CC  transfac_consensus: 
+CC  matrix.nb: 30
+XX
+//
+AC  M00031_2.00
+XX
+ID  RSF2
+XX
+DE  RSF2
+P0       A     C     G     T
+1    17.5879 17.5879 17.5879 47.2362
+2    55.4311 5.69153 14.8276 24.0498
+3    0.0127248 99.9618 0.0127248 0.0127248
+4    0.0127248 99.9618 0.0127248 0.0127248
+5    0.0127248 99.9618 0.0127248 0.0127248
+6    0.0127248 99.9618 0.0127248 0.0127248
+7    9.09105 0.0127248 61.931 28.9652
+8    0.0127248 99.9618 0.0127248 0.0127248
+9    59.4478 7.4248 7.4248 25.7026
+10   19.3212 42.0364 19.3212 19.3212
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 31
+CC  accession: M00031_2.00
+CC  AC: M00031_2.00
+CC  id: M00031_2.00
+CC  name: RSF2
+CC  version: 
+CC  name: RSF2
+CC  description: RSF2
+CC  transfac_consensus: 
+CC  matrix.nb: 31
+XX
+//
+AC  M00032_2.00
+XX
+ID  MSN4
+XX
+DE  MSN4
+P0       A     C     G     T
+1    33.26 20.7876 28.0603 17.8921
+2    10.2119 68.2756 2.14589 19.3666
+3    1.91098 76.525 0.0733596 21.4906
+4    0.0613437 99.3588 0.0372068 0.542665
+5    10.8375 88.5013 0.17782 0.483365
+6    3.38529 26.8278 12.4216 57.3653
+7    19.694 12.5574 24.7868 42.9618
+8    34.5353 14.9092 30.0235 20.5319
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 32
+CC  accession: M00032_2.00
+CC  AC: M00032_2.00
+CC  id: M00032_2.00
+CC  name: MSN4
+CC  version: 
+CC  name: MSN4
+CC  description: MSN4
+CC  transfac_consensus: 
+CC  matrix.nb: 32
+XX
+//
+AC  M00033_2.00
+XX
+ID  ACE2
+XX
+DE  ACE2
+P0       A     C     G     T
+1    26.709 26.1349 29.166 17.9901
+2    5.3053 13.8982 5.3053 75.4912
+3    0.00452347 0.00452347 99.9864     0
+4    0.00452347 99.9864 0.00452347     0
+5    0.00452347 0.00452347 0.00452347 99.9864
+6    0.00452347 0.00452347 99.9864     0
+7    0.00452347 12.429 87.562     0
+8    0.00452347 19.4183 21.7694 58.8077
+9    7.0144 38.784 7.0144 47.1872
+10   32.1237 28.4779 19.6992 19.6992
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 33
+CC  accession: M00033_2.00
+CC  AC: M00033_2.00
+CC  id: M00033_2.00
+CC  name: ACE2
+CC  version: 
+CC  name: ACE2
+CC  description: ACE2
+CC  transfac_consensus: 
+CC  matrix.nb: 33
+XX
+//
+AC  M00034_2.00
+XX
+ID  STP3
+XX
+DE  STP3
+P0       A     C     G     T
+1    17.3575 42.6927 20.574 19.3758
+2    5.77057 0.149984 5.60002 88.4794
+3    86.8196 6.91597 0.0688265 6.19556
+4    3.72353 4.32612 88.6479 3.30247
+5    0.778061 93.6018 0.205779 5.41433
+6    14.6017 0.497152 81.5438 3.35731
+7    6.63808 60.5109 17.1642 15.6869
+8    53.1269 12.0937 18.7779 16.0015
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 34
+CC  accession: M00034_2.00
+CC  AC: M00034_2.00
+CC  id: M00034_2.00
+CC  name: STP3
+CC  version: 
+CC  name: STP3
+CC  description: STP3
+CC  transfac_consensus: 
+CC  matrix.nb: 34
+XX
+//
+AC  M00035_2.00
+XX
+ID  TDA9
+XX
+DE  TDA9
+P0       A     C     G     T
+1    22.7468 22.7468 22.7468 31.7597
+2    36.3601 25.3472 14.7678 23.5248
+3    0.00503412 99.9849 0.00503412     0
+4    0.00503412 99.9849 0.00503412     0
+5    0.00503412 99.9849 0.00503412     0
+6    0.00503412 99.9849 0.00503412     0
+7    0.00503412 0.00503412 90.3088 9.68112
+8    0.00503412 99.9849 0.00503412     0
+9    75.3564 11.5083 2.25828 10.877
+10   19.4633 51.5652 10.2372 18.7343
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 35
+CC  accession: M00035_2.00
+CC  AC: M00035_2.00
+CC  id: M00035_2.00
+CC  name: TDA9
+CC  version: 
+CC  name: TDA9
+CC  description: TDA9
+CC  transfac_consensus: 
+CC  matrix.nb: 35
+XX
+//
+AC  M00036_2.00
+XX
+ID  MSN2
+XX
+DE  MSN2
+P0       A     C     G     T
+1    16.4746 21.1783 12.9468 49.4003
+2    48.3256 24.1669 22.5008 5.00666
+3    1.30486 92.8395 4.55077 1.30486
+4    0.00644995 99.9807 0.00644995     0
+5    0.00644995 99.9807 0.00644995     0
+6    0.00644995 99.3357 0.00644995 0.651445
+7    0.00670961 18.1227 3.36151 78.5091
+8    12.8039 4.00672 28.7988 54.3906
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 36
+CC  accession: M00036_2.00
+CC  AC: M00036_2.00
+CC  id: M00036_2.00
+CC  name: MSN2
+CC  version: 
+CC  name: MSN2
+CC  description: MSN2
+CC  transfac_consensus: 
+CC  matrix.nb: 36
+XX
+//
+AC  M00037_2.00
+XX
+ID  RGM1
+XX
+DE  RGM1
+P0       A     C     G     T
+1    23.4576 23.4576 37.0311 16.0538
+2    0.917848 71.8012 10.0055 17.2755
+3    2.86347 93.5518 2.86347 0.721223
+4    0.00714082 99.9786 0.00714082     0
+5    0.00714082 93.5518 0.00714082 6.43388
+6    0.00714082 0.00714082 3.57755 96.4082
+7    0.795025 0.00787154 85.0205 14.1766
+8    51.0527 3.20077 30.8486 14.8979
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 37
+CC  accession: M00037_2.00
+CC  AC: M00037_2.00
+CC  id: M00037_2.00
+CC  name: RGM1
+CC  version: 
+CC  name: RGM1
+CC  description: RGM1
+CC  transfac_consensus: 
+CC  matrix.nb: 37
+XX
+//
+AC  M00038_2.00
+XX
+ID  CRZ1
+XX
+DE  CRZ1
+P0       A     C     G     T
+1    31.6184 22.7939 22.7939 22.7939
+2    19.7751 19.7751 40.6748 19.7751
+3    20.957 9.3161 50.3917 19.3352
+4    12.3545 82.9749 2.33534 2.33534
+5    10.0234 0.00427026 0.00427026 89.9681
+6    27.4188 0.00427026 72.5727     0
+7    27.4188 51.673 0.00427026 20.9039
+8    0.00427026 10.0234 89.9681     0
+9    2.21041 93.3688 2.21041 2.21041
+10   5.22919 84.3124 5.22919 5.22919
+11   25.0124 25.4798 15.6882 33.8195
+12   22.6689 31.9932 22.6689 22.6689
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 38
+CC  accession: M00038_2.00
+CC  AC: M00038_2.00
+CC  id: M00038_2.00
+CC  name: CRZ1
+CC  version: 
+CC  name: CRZ1
+CC  description: CRZ1
+CC  transfac_consensus: 
+CC  matrix.nb: 38
+XX
+//
+AC  M00039_2.00
+XX
+ID  AZF1
+XX
+DE  AZF1
+P0       A     C     G     T
+1    11.7694 24.1794 1.53036 62.5209
+2    19.1973 16.8571 17.1976 46.748
+3    16.855 34.2829 20.7936 28.0685
+4    15.6636 37.0157 11.038 36.2827
+5    22.2972 23.4404 20.9987 33.2636
+6    28.2857 24.8376 19.1511 27.7256
+7    19.6315 23.0378 23.978 33.3526
+8    23.6137 24.3328 18.2074 33.8462
+9    23.3889 26.636 20.5377 29.4373
+10   20.8504 30.4893 17.2425 31.4178
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 39
+CC  accession: M00039_2.00
+CC  AC: M00039_2.00
+CC  id: M00039_2.00
+CC  name: AZF1
+CC  version: 
+CC  name: AZF1
+CC  description: AZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 39
+XX
+//
+AC  M00040_2.00
+XX
+ID  MET31
+XX
+DE  MET31
+P0       A     C     G     T
+1    14.31 42.9896 26.0745 16.6259
+2    22.0264 32.8595 12.5817 32.5325
+3    45.1281 33.0991 0.0252105 21.7476
+4    0.0050127 99.905 0.0490076 0.0409346
+5    71.4364 20.6726 0.0544108 7.83662
+6    0.467882 99.5301 0.000426653     0
+7    0.375712 99.5905 0.00166333 0.0320989
+8    12.4466 18.5681 0.168882 68.8165
+9    19.6226 69.178 10.7691 0.430281
+10   20.0729 32.7653 14.7224 32.4393
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 40
+CC  accession: M00040_2.00
+CC  AC: M00040_2.00
+CC  id: M00040_2.00
+CC  name: MET31
+CC  version: 
+CC  name: MET31
+CC  description: MET31
+CC  transfac_consensus: 
+CC  matrix.nb: 40
+XX
+//
+AC  M00041_2.00
+XX
+ID  USV1
+XX
+DE  USV1
+P0       A     C     G     T
+1    20.2728 24.3247 37.8309 17.5716
+2    2.0092 71.9812 7.0072 19.0024
+3    7.03686 89.8235 2.35083 0.788816
+4    0.00781006 99.9766 0.00781006     0
+5    0.00781006 96.0715 0.00781006 3.91284
+6    0.00781006 0.00781006 1.56982 98.4146
+7    0.00854409 0.00854409 83.7406 16.2423
+8    51.1245 2.28305 29.5434 17.0491
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 41
+CC  accession: M00041_2.00
+CC  AC: M00041_2.00
+CC  id: M00041_2.00
+CC  name: USV1
+CC  version: 
+CC  name: USV1
+CC  description: USV1
+CC  transfac_consensus: 
+CC  matrix.nb: 41
+XX
+//
+AC  M00042_2.00
+XX
+ID  CMR3
+XX
+DE  CMR3
+P0       A     C     G     T
+1    16.6186 35.962 9.48504 37.9344
+2    0.00131022 0.00131022 99.9961     0
+3    0.00131022 7.91331 0.00131022 92.0841
+4    99.9961 0.00131022 0.00131022     0
+5    54.9961 0.00131022 45.0013     0
+6    99.9961 0.00131022 0.00131022     0
+7    0.00131022 0.00131022 0.00131022 99.9961
+8    0.00131022 99.9961 0.00131022     0
+9    33.8112 35.1563 15.5163 15.5163
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 42
+CC  accession: M00042_2.00
+CC  AC: M00042_2.00
+CC  id: M00042_2.00
+CC  name: CMR3
+CC  version: 
+CC  name: CMR3
+CC  description: CMR3
+CC  transfac_consensus: 
+CC  matrix.nb: 42
+XX
+//
+AC  M00043_2.00
+XX
+ID  YPR022C
+XX
+DE  YPR022C
+P0       A     C     G     T
+1    17.9233 59.5073 7.14276 15.4267
+2    2.08252 85.079 3.87126 8.96726
+3    0.105297 99.3879 0.139322 0.367523
+4    2.10504 96.9635 0.84733 0.084107
+5    88.1075 1.95142 9.86071 0.0803437
+6    5.87336 81.4857 4.2225 8.41846
+7    21.4813 21.0559 37.2325 20.2303
+8    21.5482 35.5269 15.8044 27.1205
+9    24.4963 24.0112 22.1651 29.3274
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 43
+CC  accession: M00043_2.00
+CC  AC: M00043_2.00
+CC  id: M00043_2.00
+CC  name: YPR022C
+CC  version: 
+CC  name: YPR022C
+CC  description: YPR022C
+CC  transfac_consensus: 
+CC  matrix.nb: 43
+XX
+//
+AC  M00044_2.00
+XX
+ID  HCM1
+XX
+DE  HCM1
+P0       A     C     G     T
+1    24.2573 25.7573 29.9257 20.0598
+2    38.8668 11.2474 40.8595 9.02628
+3    19.3539 11.6219 9.70744 59.3168
+4    56.7331 24.0073 1.47456 17.785
+5    72.6254 17.731 2.21514 7.42843
+6    88.273 1.46292 3.70778 6.55635
+7    8.01658 68.8212 4.96053 18.2017
+8    87.1825 4.04711 3.62554 5.14489
+9    49.7502 15.9111 14.1118 20.2269
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 44
+CC  accession: M00044_2.00
+CC  AC: M00044_2.00
+CC  id: M00044_2.00
+CC  name: HCM1
+CC  version: 
+CC  name: HCM1
+CC  description: HCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 44
+XX
+//
+AC  M00045_2.00
+XX
+ID  FKH2
+XX
+DE  FKH2
+P0       A     C     G     T
+1    22.2345 0.110619 77.5442 0.110619
+2    0.110619 0.110619 0.110619 99.6681
+3    99.6681 0.110619 0.110619 0.110619
+4    99.6681 0.110619 0.110619 0.110619
+5    99.6681 0.110619 0.110619 0.110619
+6    0.110619 88.6062 0.110619 11.1726
+7    99.6681 0.110619 0.110619 0.110619
+8    59.7222 20.0397 0.198413 20.0397
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 45
+CC  accession: M00045_2.00
+CC  AC: M00045_2.00
+CC  id: M00045_2.00
+CC  name: FKH2
+CC  version: 
+CC  name: FKH2
+CC  description: FKH2
+CC  transfac_consensus: 
+CC  matrix.nb: 45
+XX
+//
+AC  M00046_2.00
+XX
+ID  FHL1
+XX
+DE  FHL1
+P0       A     C     G     T
+1    34.98 20.01    25 20.01
+2    0.031211 6.27341 93.6642 0.031211
+3    99.919 0.0269978 0.0269978 0.0269978
+4    0.0262881 99.9211 0.0262881 0.0262881
+5    0.0262881 0.0262881 99.9211 0.0262881
+6    0.0262881 99.9211 0.0262881 0.0262881
+7    97.2923 0.0262881 2.6551 0.0262881
+8    48.2438 31.0262 6.92149 13.8085
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 46
+CC  accession: M00046_2.00
+CC  AC: M00046_2.00
+CC  id: M00046_2.00
+CC  name: FHL1
+CC  version: 
+CC  name: FHL1
+CC  description: FHL1
+CC  transfac_consensus: 
+CC  matrix.nb: 46
+XX
+//
+AC  M00047_2.00
+XX
+ID  SRD1
+XX
+DE  SRD1
+P0       A     C     G     T
+1    69.3097 2.67857 26.6658 1.34595
+2    2.94982 0.00980008 97.0306     0
+3    99.064 0.0090876 0.0090876 0.917848
+4    10.9142 0.0090876 1.82661 87.2501
+5    0.0090876 99.9727 0.0090876     0
+6    0.00980008 11.7699 0.00980008 88.2105
+7    64.3497 22.9894 8.05377 4.60708
+8    9.38476 70.2842 9.38476 10.9463
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 47
+CC  accession: M00047_2.00
+CC  AC: M00047_2.00
+CC  id: M00047_2.00
+CC  name: SRD1
+CC  version: 
+CC  name: SRD1
+CC  description: SRD1
+CC  transfac_consensus: 
+CC  matrix.nb: 47
+XX
+//
+AC  M00048_2.00
+XX
+ID  GLN3
+XX
+DE  GLN3
+P0       A     C     G     T
+1    18.6841 23.0778 18.6841 39.554
+2    42.2708 25.2032 0.00812744 32.5179
+3    0.659958 0.00653424 95.4064 3.92708
+4    99.9804 0.00653424 0.00653424     0
+5    0.00653424 0.00653424 0.00653424 99.9804
+6    91.4859 4.5805 0.00653424 3.92708
+7    95.7547 0.711067 1.41509 2.11912
+8    8.42803 33.6806 52.6199 5.27146
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 48
+CC  accession: M00048_2.00
+CC  AC: M00048_2.00
+CC  id: M00048_2.00
+CC  name: GLN3
+CC  version: 
+CC  name: GLN3
+CC  description: GLN3
+CC  transfac_consensus: 
+CC  matrix.nb: 48
+XX
+//
+AC  M00049_2.00
+XX
+ID  GAT1
+XX
+DE  GAT1
+P0       A     C     G     T
+1    25.2983 24.0645 24.3064 26.3308
+2    26.9403 25.1189 22.0568 25.8839
+3    25.2879 28.5121 20.9121 25.2879
+4    26.6753 28.043 16.6721 28.6095
+5    11.3406 5.35691 75.0675 8.23496
+6    84.9031 3.98091 3.56624 7.54972
+7    16.2404 5.46028 5.51515 72.7842
+8    69.0436 5.55522 6.58463 18.8166
+9    44.577 15.1381 20.8471 19.4378
+10   23.6453 25.1075 33.5543 17.6929
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 49
+CC  accession: M00049_2.00
+CC  AC: M00049_2.00
+CC  id: M00049_2.00
+CC  name: GAT1
+CC  version: 
+CC  name: GAT1
+CC  description: GAT1
+CC  transfac_consensus: 
+CC  matrix.nb: 49
+XX
+//
+AC  M00050_2.00
+XX
+ID  GAT4
+XX
+DE  GAT4
+P0       A     C     G     T
+1    31.6933 22.7689 22.7689 22.7689
+2    20.8692 20.9583 29.7365 28.436
+3    99.9768 0.00774446 0.00774446     0
+4    0.00774446 0.00774446 99.9768     0
+5    99.9768 0.00774446 0.00774446     0
+6    0.00774446 0.00774446 0.00774446 99.9768
+7    0.00774446 99.9768 0.00774446     0
+8    0.00774446 0.00774446 0.00774446 99.9768
+9    57.1845 29.6937 10.883 2.23883
+10   13.1199 24.3107 40.353 22.2163
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 50
+CC  accession: M00050_2.00
+CC  AC: M00050_2.00
+CC  id: M00050_2.00
+CC  name: GAT4
+CC  version: 
+CC  name: GAT4
+CC  description: GAT4
+CC  transfac_consensus: 
+CC  matrix.nb: 50
+XX
+//
+AC  M00051_2.00
+XX
+ID  GZF3
+XX
+DE  GZF3
+P0       A     C     G     T
+1    27.0248 43.2235 0.0269978 29.7246
+2    0.0195925 0.0195925 99.9412 0.0195925
+3    99.9424 0.019216 0.019216 0.019216
+4    0.019216 0.019216 0.019216 99.9424
+5    98.0208 0.019216 1.94081 0.019216
+6    94.0635 0.0195925 0.0195925 5.89734
+7    2.29337 11.376 84.0372 2.29337
+8    34.4697 24.1391 24.1391 17.2521
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 51
+CC  accession: M00051_2.00
+CC  AC: M00051_2.00
+CC  id: M00051_2.00
+CC  name: GZF3
+CC  version: 
+CC  name: GZF3
+CC  description: GZF3
+CC  transfac_consensus: 
+CC  matrix.nb: 51
+XX
+//
+AC  M00052_2.00
+XX
+ID  DAL80
+XX
+DE  DAL80
+P0       A     C     G     T
+1    27.5281 24.2608 22.4974 25.7137
+2    24.1344 28.2465 20.4031 27.2159
+3    19.6189 24.5027 39.6334 16.245
+4    41.0715 15.5415 18.4636 24.9234
+5    10.617 6.76989 6.55911 76.054
+6    76.054 6.55911 6.76989 10.617
+7    24.9234 18.4636 15.5415 41.0715
+8    16.245 39.6334 24.5027 19.6189
+9    27.2159 20.4031 28.2465 24.1344
+10   25.7137 22.4974 24.2608 27.5281
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 52
+CC  accession: M00052_2.00
+CC  AC: M00052_2.00
+CC  id: M00052_2.00
+CC  name: DAL80
+CC  version: 
+CC  name: DAL80
+CC  description: DAL80
+CC  transfac_consensus: 
+CC  matrix.nb: 52
+XX
+//
+AC  M00053_2.00
+XX
+ID  GAT3
+XX
+DE  GAT3
+P0       A     C     G     T
+1    18.8587 20.4294 38.3585 22.3533
+2    17.9356 11.0983 20.2224 50.7438
+3    92.9359 0.045589 4.62701 2.39147
+4    7.25972 4.86633 83.291 4.58294
+5    67.358 0.0290139 0.152593 32.4604
+6    1.79192 0.95436 0.391913 96.8618
+7    8.87453 61.1412 10.6247 19.3595
+8    13.1978 32.1383 15.8006 38.8633
+9    29.9614 24.2863 30.8739 14.8784
+10   29.826 19.993 23.4619 26.7191
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 53
+CC  accession: M00053_2.00
+CC  AC: M00053_2.00
+CC  id: M00053_2.00
+CC  name: GAT3
+CC  version: 
+CC  name: GAT3
+CC  description: GAT3
+CC  transfac_consensus: 
+CC  matrix.nb: 53
+XX
+//
+AC  M00054_2.00
+XX
+ID  ECM23
+XX
+DE  ECM23
+P0       A     C     G     T
+1    59.5074 2.39172 21.4303 16.6706
+2    85.324 3.4557 11.2117     0
+3    0.00714082 0.00714082 99.9786     0
+4    99.9786 0.00714082 0.00714082     0
+5    0.00714082 0.00714082 0.00714082 99.9786
+6    0.00714082 98.5504 0.00714082 1.4353
+7    3.64413 26.3631 7.27917 62.7136
+8    27.9056 24.4189 44.1771 3.49837
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 54
+CC  accession: M00054_2.00
+CC  AC: M00054_2.00
+CC  id: M00054_2.00
+CC  name: ECM23
+CC  version: 
+CC  name: ECM23
+CC  description: ECM23
+CC  transfac_consensus: 
+CC  matrix.nb: 54
+XX
+//
+AC  M00055_2.00
+XX
+ID  HMRA2
+XX
+DE  HMRA2
+P0       A     C     G     T
+1    1.9507 77.6495 0.980202 19.4196
+2    55.6299 0.00751654 41.3485 3.01413
+3    0.664299 3.95291 0.00657722 95.3762
+4    1.31338 0.00653424 98.6735     0
+5    0.00653424 0.659958 0.00653424 99.327
+6    84.0903 0.668697 0.668697 14.5723
+7    73.1551 5.69733 4.88459 16.263
+8    51.6734 1.13432 2.25741 44.9349
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 55
+CC  accession: M00055_2.00
+CC  AC: M00055_2.00
+CC  id: M00055_2.00
+CC  name: HMRA2
+CC  version: 
+CC  name: HMRA2
+CC  description: HMRA2
+CC  transfac_consensus: 
+CC  matrix.nb: 55
+XX
+//
+AC  M00056_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1    7.09225 7.09225 0.795025 85.0205
+2    86.6502 1.33964 1.33964 10.6705
+3    87.326 1.27183 1.90458 9.4976
+4    0.00620964 0.00620964 0.00620964 99.9814
+5    75.1428 3.11103 1.8691 19.877
+6    63.5123 5.03647 0.63506 30.8161
+7    66.9102 6.15964 3.08367 23.8465
+8    20.6916 5.75597 5.75597 67.7964
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 56
+CC  accession: M00056_2.00
+CC  AC: M00056_2.00
+CC  id: M00056_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 56
+XX
+//
+AC  M00057_2.00
+XX
+ID  TOS8
+XX
+DE  TOS8
+P0       A     C     G     T
+1    24.5815 22.5257 20.3376 32.5553
+2    19.442 26.2562 25.7546 28.5473
+3    43.0172 13.6541 13.6692 29.6595
+4    8.5866 67.7481 13.6832 9.98212
+5    53.349 2.03275 39.5325 5.08571
+6    5.08571 39.5325 2.03275 53.349
+7    9.98212 13.6832 67.7481 8.5866
+8    29.6595 13.6692 13.6541 43.0172
+9    28.5473 25.7546 26.2562 19.442
+10   32.5553 20.3376 22.5257 24.5815
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 57
+CC  accession: M00057_2.00
+CC  AC: M00057_2.00
+CC  id: M00057_2.00
+CC  name: TOS8
+CC  version: 
+CC  name: TOS8
+CC  description: TOS8
+CC  transfac_consensus: 
+CC  matrix.nb: 57
+XX
+//
+AC  M00058_2.00
+XX
+ID  YOX1
+XX
+DE  YOX1
+P0       A     C     G     T
+1    56.508 14.1352 10.8757 18.4811
+2    6.11264 6.87576 1.53388 85.4777
+3    24.8276 9.6594 0.00689465 65.5061
+4    89.4567 0.00657722 0.00657722 10.5301
+5    96.6917 0.00657722 0.00657722 3.29519
+6    7.89924 0.664299 1.32202 90.1144
+7    4.80005 0.00684744 3.43057 91.7625
+8    65.4724 0.893489 17.7017 15.9324
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 58
+CC  accession: M00058_2.00
+CC  AC: M00058_2.00
+CC  id: M00058_2.00
+CC  name: YOX1
+CC  version: 
+CC  name: YOX1
+CC  description: YOX1
+CC  transfac_consensus: 
+CC  matrix.nb: 58
+XX
+//
+AC  M00059_2.00
+XX
+ID  CUP9
+XX
+DE  CUP9
+P0       A     C     G     T
+1    4.77154 7.15136 1.20181 86.8753
+2    0.0104123 4.17534 95.8038 0.0104123
+3    81.2266 5.21658 3.13411 10.4227
+4    0.0104123 99.9688 0.0104123 0.0104123
+5    89.5564 4.17534 6.25781 0.0104123
+6    2.16036 63.4243 17.2077 17.2077
+7    64.4529 15.7943 3.95844 15.7943
+8    35.2861 5.89734 1.97884 56.8378
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 59
+CC  accession: M00059_2.00
+CC  AC: M00059_2.00
+CC  id: M00059_2.00
+CC  name: CUP9
+CC  version: 
+CC  name: CUP9
+CC  description: CUP9
+CC  transfac_consensus: 
+CC  matrix.nb: 59
+XX
+//
+AC  M00060_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1    32.0154 18.1055 20.6191 29.2599
+2    23.17 23.8756 19.7442 33.2102
+3    22.3589 24.2212 28.7095 24.7105
+4    16.1512 2.5143 2.9212 78.4133
+5    13.8264 5.13756 7.58807 73.448
+6    9.23151 70.9959 12.2145 7.55812
+7    14.8989 38.1409 14.4586 32.5016
+8    47.35 14.9928 20.2381 17.4191
+9    18.2247 28.582 15.3755 37.8177
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 60
+CC  accession: M00060_2.00
+CC  AC: M00060_2.00
+CC  id: M00060_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 60
+XX
+//
+AC  M00061_2.00
+XX
+ID  SKN7
+XX
+DE  SKN7
+P0       A     C     G     T
+1    72.6984 4.55784 7.58631 15.1575
+2    5.6906 19.3208 6.82644 68.1622
+3    6.42883 6.42883 87.1332     0
+4    0.00900576 0.00900576 99.973     0
+5    0.00900576 97.2713 2.71073     0
+6    0.00900576 96.3707 0.909582 2.71073
+7    58.681 11.9622 29.3459 0.0108648
+8    14.2918 5.7253 74.2576 5.7253
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 61
+CC  accession: M00061_2.00
+CC  AC: M00061_2.00
+CC  id: M00061_2.00
+CC  name: SKN7
+CC  version: 
+CC  name: SKN7
+CC  description: SKN7
+CC  transfac_consensus: 
+CC  matrix.nb: 61
+XX
+//
+AC  M00062_2.00
+XX
+ID  TOD6
+XX
+DE  TOD6
+P0       A     C     G     T
+1    18.5717 36.2936 31.2382 13.8965
+2    1.27464 93.006 0.00682382 5.71254
+3    90.1983 1.33912 4.67398 3.78865
+4    3.62469 8.3961 10.6735 77.3057
+5    15.4973 75.9948 3.74591 4.76199
+6    20.3523 22.4927 40.9844 16.1706
+7    19.0075 33.2759 31.0262 16.6904
+8    22.9819 27.2406 31.3341 18.4434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 62
+CC  accession: M00062_2.00
+CC  AC: M00062_2.00
+CC  id: M00062_2.00
+CC  name: TOD6
+CC  version: 
+CC  name: TOD6
+CC  description: TOD6
+CC  transfac_consensus: 
+CC  matrix.nb: 62
+XX
+//
+AC  M00063_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1    22.2345 11.1726 66.4823 0.110619
+2    0.0712251 0.0712251 0.0712251 99.7863
+3    0.0664894 0.0664894 0.0664894 99.8005
+4    99.8005 0.0664894 0.0664894 0.0664894
+5    0.0664894 99.8005 0.0664894 0.0664894
+6    0.0664894 99.8005 0.0664894 0.0664894
+7    0.0664894 99.8005 0.0664894 0.0664894
+8    0.0996016 0.0996016 79.7809 20.0199
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 63
+CC  accession: M00063_2.00
+CC  AC: M00063_2.00
+CC  id: M00063_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 63
+XX
+//
+AC  M00064_2.00
+XX
+ID  DOT6
+XX
+DE  DOT6
+P0       A     C     G     T
+1    12.3116 45.3783 36.1504 6.15964
+2    5.03239 14.5275 25.6982 54.742
+3    0.0044835 98.6415 0.901184 0.452834
+4    99.5423 0.448809 0.00444365     0
+5    0.00444365 0.00444365 0.00444365 99.9867
+6    0.00446349 98.6476 1.34351     0
+7    8.85753 4.17101 76.031 10.9404
+8    19.0492 52.3735 23.8098 4.76741
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 64
+CC  accession: M00064_2.00
+CC  AC: M00064_2.00
+CC  id: M00064_2.00
+CC  name: DOT6
+CC  version: 
+CC  name: DOT6
+CC  description: DOT6
+CC  transfac_consensus: 
+CC  matrix.nb: 64
+XX
+//
+AC  M00065_2.00
+XX
+ID  TBF1
+XX
+DE  TBF1
+P0       A     C     G     T
+1    80.1853 1.05165 5.21658 13.5464
+2    53.2694 1.647 45.0754     0
+3    1.53388 98.4509 0.00763126     0
+4    0.00757346 99.9773 0.00757346     0
+5    0.00757346 99.9773 0.00757346     0
+6    0.00757346 0.76492 0.00757346 99.2199
+7    70.2791 9.90697 18.8143 0.999604
+8    41.4192 12.8641 31.4249 14.2918
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 65
+CC  accession: M00065_2.00
+CC  AC: M00065_2.00
+CC  id: M00065_2.00
+CC  name: TBF1
+CC  version: 
+CC  name: TBF1
+CC  description: TBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 65
+XX
+//
+AC  M00066_2.00
+XX
+ID  RFX1
+XX
+DE  RFX1
+P0       A     C     G     T
+1    22.8304 22.8304 22.8304 31.5088
+2    11.995 35.3086 40.7015 11.995
+3    0.0129951 0.0129951 99.961 0.0129951
+4    0.0129951 0.0129951 0.0129951 99.961
+5    0.0129951 0.0129951 0.0129951 99.961
+6    8.69142 0.0129951 91.2826 0.0129951
+7    0.0129951 99.961 0.0129951 0.0129951
+8    0.0129951 43.7251 0.0129951 56.2489
+9    93.4522 2.1826 2.1826 2.1826
+10   13.018 30.4898 26.1306 30.3616
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 66
+CC  accession: M00066_2.00
+CC  AC: M00066_2.00
+CC  id: M00066_2.00
+CC  name: RFX1
+CC  version: 
+CC  name: RFX1
+CC  description: RFX1
+CC  transfac_consensus: 
+CC  matrix.nb: 66
+XX
+//
+AC  M00067_2.00
+XX
+ID  MOT2
+XX
+DE  MOT2
+P0       A     C     G     T
+1    24.0877 11.3782 23.6107 40.9234
+2    38.8144 7.02021 33.0755 21.0899
+3    15.2062 5.53837 18.2051 61.0504
+4    58.4877 13.314 18.3351 9.86325
+5    12.4409 13.7494 23.3592 50.4505
+6    39.7687 7.26509 33.2176 19.7486
+7    36.1798 4.56537 30.2199 29.035
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 67
+CC  accession: M00067_2.00
+CC  AC: M00067_2.00
+CC  id: M00067_2.00
+CC  name: MOT2
+CC  version: 
+CC  name: MOT2
+CC  description: MOT2
+CC  transfac_consensus: 
+CC  matrix.nb: 67
+XX
+//
+AC  M00068_2.00
+XX
+ID  NHP10
+XX
+DE  NHP10
+P0       A     C     G     T
+1    0.961538 0.961538 0.961538 97.1154
+2    0.961538 97.1154 0.961538 0.961538
+3    0.961538 97.1154 0.961538 0.961538
+4    0.961538 97.1154 0.961538 0.961538
+5    0.961538 97.1154 0.961538 0.961538
+6    0.961538 0.961538 97.1154 0.961538
+7    0.961538 0.961538 97.1154 0.961538
+8    0.961538 97.1154 0.961538 0.961538
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 68
+CC  accession: M00068_2.00
+CC  AC: M00068_2.00
+CC  id: M00068_2.00
+CC  name: NHP10
+CC  version: 
+CC  name: NHP10
+CC  description: NHP10
+CC  transfac_consensus: 
+CC  matrix.nb: 68
+XX
+//
+AC  M00069_2.00
+XX
+ID  ABF2
+XX
+DE  ABF2
+P0       A     C     G     T
+1    22.8158 31.5525 22.8158 22.8158
+2    15.0577 23.7944 36.8683 24.2797
+3    2.28487 74.8533 11.8402 11.0216
+4    8.75561 9.57428 0.0189034 81.6512
+5    0.0189034 80.3412 19.621 0.0189034
+6    0.0189034 0.0189034 0.0189034 99.9433
+7    99.9433 0.0189034 0.0189034 0.0189034
+8    0.0189034 9.1072 90.855 0.0189034
+9    93.3908 2.20308 2.20308 2.20308
+10   9.96125 48.0113 32.0662 9.96125
+11   22.734 22.734 22.734 31.7979
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 69
+CC  accession: M00069_2.00
+CC  AC: M00069_2.00
+CC  id: M00069_2.00
+CC  name: ABF2
+CC  version: 
+CC  name: ABF2
+CC  description: ABF2
+CC  transfac_consensus: 
+CC  matrix.nb: 69
+XX
+//
+AC  M00070_2.00
+XX
+ID  ROX1
+XX
+DE  ROX1
+P0       A     C     G     T
+1    26.8573 27.2224 17.8881 28.0322
+2    50.9793 9.8806 29.2595 9.8806
+3    84.8016 5.06614 5.06614 5.06614
+4    99.9893 0.00358234 0.00358234     0
+5    0.00358234 90.3786 0.00358234 9.61423
+6    90.3786 0.00358234 0.00358234 9.61423
+7    99.9893 0.00358234 0.00358234     0
+8    0.00358234 0.00358234 0.00358234 99.9893
+9    59.126 7.11547 7.11547 26.6431
+10   34.5743 15.123 25.7625 24.5401
+11   19.9374 19.9374 19.9374 40.1877
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 70
+CC  accession: M00070_2.00
+CC  AC: M00070_2.00
+CC  id: M00070_2.00
+CC  name: ROX1
+CC  version: 
+CC  name: ROX1
+CC  description: ROX1
+CC  transfac_consensus: 
+CC  matrix.nb: 70
+XX
+//
+AC  M00071_2.00
+XX
+ID  STE12
+XX
+DE  STE12
+P0       A     C     G     T
+1    27.1591 15.0511 34.2199 23.5699
+2    5.29881 5.29881 12.9931 76.4093
+3    0.0127343 0.0127343 99.9618 0.0127343
+4    0.0127343 0.0127343 7.70701 92.2675
+5    0.0127343 0.0127343 0.0127343 99.9618
+6    7.70701 0.0127343 0.0127343 92.2675
+7    7.70701 92.2675 0.0127343 0.0127343
+8    99.9618 0.0127343 0.0127343 0.0127343
+9    18.4606 18.3669 34.6968 28.4756
+10   40.8582 19.7139 19.7139 19.7139
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 71
+CC  accession: M00071_2.00
+CC  AC: M00071_2.00
+CC  id: M00071_2.00
+CC  name: STE12
+CC  version: 
+CC  name: STE12
+CC  description: STE12
+CC  transfac_consensus: 
+CC  matrix.nb: 71
+XX
+//
+AC  M00072_2.00
+XX
+ID  TEC1
+XX
+DE  TEC1
+P0       A     C     G     T
+1    34.7656 21.7448 39.1059 4.38368
+2    34.2008 0.0262881 63.1178 2.6551
+3    0.0227066 0.0227066 97.6612 2.29337
+4    93.1199 0.0227066 0.0227066 6.8347
+5    99.9319 0.0227066 0.0227066 0.0227066
+6    2.29337 0.0227066 0.0227066 97.6612
+7    2.34665 0.0232342 97.6069 0.0232342
+8    0.031211 37.4844 0.031211 62.4532
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 72
+CC  accession: M00072_2.00
+CC  AC: M00072_2.00
+CC  id: M00072_2.00
+CC  name: TEC1
+CC  version: 
+CC  name: TEC1
+CC  description: TEC1
+CC  transfac_consensus: 
+CC  matrix.nb: 72
+XX
+//
+AC  M00073_2.00
+XX
+ID  DAL82
+XX
+DE  DAL82
+P0       A     C     G     T
+1    40.9569 17.5056 25.8554 15.6821
+2    61.8333 10.5323 9.9189 17.7155
+3    45.1885 14.025 8.94274 31.8438
+4    32.767 17.9829 17.4514 31.7986
+5    25.9004 23.4356 23.4356 27.2283
+6    23.8111 16.4471 19.6908 40.0509
+7    12.8751 0.873974 78.6726 7.57834
+8    6.37731 79.261 0.0260626 14.3356
+9    18.3573 0.0113337 79.0456 2.58577
+10   6.75888 42.5575 22.4403 28.2433
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 73
+CC  accession: M00073_2.00
+CC  AC: M00073_2.00
+CC  id: M00073_2.00
+CC  name: DAL82
+CC  version: 
+CC  name: DAL82
+CC  description: DAL82
+CC  transfac_consensus: 
+CC  matrix.nb: 73
+XX
+//
+AC  M00074_2.00
+XX
+ID  OAF1
+XX
+DE  OAF1
+P0       A     C     G     T
+1    27.9918 19.9237 24.0927 27.9918
+2    17.479 24.8039 11.1451 46.572
+3    0.197791 94.5811 3.1882 2.03289
+4    0.00069768 8.77802 91.1267 0.0946329
+5    0.0906027 3.28291 94.5122 2.11431
+6    45.2251 11.0414 39.712 4.02149
+7    24.4505 22.5707 35.0456 17.9332
+8    33.0274 21.4846 19.2466 26.2414
+9    29.3811 12.3093 16.6158 41.6938
+10   39.2011 16.5884 20.6704 23.5401
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 74
+CC  accession: M00074_2.00
+CC  AC: M00074_2.00
+CC  id: M00074_2.00
+CC  name: OAF1
+CC  version: 
+CC  name: OAF1
+CC  description: OAF1
+CC  transfac_consensus: 
+CC  matrix.nb: 74
+XX
+//
+AC  M00075_2.00
+XX
+ID  EDS1
+XX
+DE  EDS1
+P0       A     C     G     T
+1    24.9373 31.7016 21.8974 21.4638
+2    21.71 38.3891 17.0777 22.8231
+3    13.7351 6.88921 65.363 14.0126
+4    13.7582 9.99047 61.0463 15.2051
+5    83.6716 4.79177 4.9377 6.59888
+6    48.5484 6.97659 11.2747 33.2004
+7    33.4382 25.526 18.1687 22.8671
+8    73.5518 2.02991 7.67516 16.7432
+9    54.5551 6.04488 7.60809 31.7919
+10   21.7962 28.2681 8.59975 41.336
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 75
+CC  accession: M00075_2.00
+CC  AC: M00075_2.00
+CC  id: M00075_2.00
+CC  name: EDS1
+CC  version: 
+CC  name: EDS1
+CC  description: EDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 75
+XX
+//
+AC  M00076_2.00
+XX
+ID  TBS1
+XX
+DE  TBS1
+P0       A     C     G     T
+1    25.3963 25.9094 22.5245 26.1698
+2    32.2965 14.0829 37.9003 15.7204
+3    3.08076 92.3123 0.0109456 4.59596
+4    0.00264953 1.83423 98.1627     0
+5    0.114628 0.0010322 99.8769     0
+6    54.5564 16.4321 14.8683 14.1432
+7    29.9055 20.0463 15.3029 34.7453
+8    23.5032 39.1397 21.9143 15.4427
+9    25.8789 34.9329 20.7683 18.4199
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 76
+CC  accession: M00076_2.00
+CC  AC: M00076_2.00
+CC  id: M00076_2.00
+CC  name: TBS1
+CC  version: 
+CC  name: TBS1
+CC  description: TBS1
+CC  transfac_consensus: 
+CC  matrix.nb: 76
+XX
+//
+AC  M00077_2.00
+XX
+ID  ERT1
+XX
+DE  ERT1
+P0       A     C     G     T
+1    39.554 13.192 21.9793 25.2746
+2    14.1823 45.5163 4.48374 35.8177
+3    0.00598659 96.9887 2.40062 0.604646
+4    0.00598659 0.604646 99.3834     0
+5    2.40062 0.604646 96.9887     0
+6    99.3834 0.00598659 0.604646     0
+7    85.6098 0.00624844 13.7528 0.631092
+8    10.005 49.1586 11.6711 29.1653
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 77
+CC  accession: M00077_2.00
+CC  AC: M00077_2.00
+CC  id: M00077_2.00
+CC  name: ERT1
+CC  version: 
+CC  name: ERT1
+CC  description: ERT1
+CC  transfac_consensus: 
+CC  matrix.nb: 77
+XX
+//
+AC  M00078_2.00
+XX
+ID  RDS1
+XX
+DE  RDS1
+P0       A     C     G     T
+1    12.2076 2.46101 70.6871 14.6442
+2    0.0185048 98.094 1.86899 0.0185048
+3    0.0185048 3.71947 96.2435 0.0185048
+4    1.86899 0.0185048 98.094 0.0185048
+5    0.0185048 81.4397 18.5233 0.0185048
+6    0.0188537 69.7775 22.6433 7.56033
+7    0.019216 5.78401 94.1776 0.019216
+8    17.1518 11.4441 57.1062 14.2979
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 78
+CC  accession: M00078_2.00
+CC  AC: M00078_2.00
+CC  id: M00078_2.00
+CC  name: RDS1
+CC  version: 
+CC  name: RDS1
+CC  description: RDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 78
+XX
+//
+AC  M00079_2.00
+XX
+ID  UGA3
+XX
+DE  UGA3
+P0       A     C     G     T
+1    2.33483 0.207617 95.3867 2.07081
+2    0.0667311 99.7748 0.000741316 0.157696
+3    0.75617 0.571501 98.5448 0.127519
+4    7.14857 22.5766 69.8893 0.385549
+5    20.3996 27.5366 37.544 14.5198
+6    43.7995 14.2909 17.6304 24.2793
+7    31.1612 17.2735 16.4311 35.1342
+8    26.9594 22.0725 16.3517 34.6165
+9    24.4055 23.9222 21.8633 29.809
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 79
+CC  accession: M00079_2.00
+CC  AC: M00079_2.00
+CC  id: M00079_2.00
+CC  name: UGA3
+CC  version: 
+CC  name: UGA3
+CC  description: UGA3
+CC  transfac_consensus: 
+CC  matrix.nb: 79
+XX
+//
+AC  M00080_2.00
+XX
+ID  LYS14
+XX
+DE  LYS14
+P0       A     C     G     T
+1    22.5034 43.9771 16.3408 17.1787
+2    25.0204 26.5676 31.8072 16.6048
+3    21.405 32.9049 23.1877 22.5024
+4    16.6692 35.6434 32.903 14.7843
+5    4.77626 11.7477 70.3623 13.1137
+6    14.7147 18.3357 54.5353 12.4143
+7    61.821 0.169355 18.4349 19.5748
+8    60.8531 0.356459 8.57167 30.2188
+9    28.0079 14.1893 11.1617 46.6412
+10   22.8694 17.1124 14.8768 45.1414
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 80
+CC  accession: M00080_2.00
+CC  AC: M00080_2.00
+CC  id: M00080_2.00
+CC  name: LYS14
+CC  version: 
+CC  name: LYS14
+CC  description: LYS14
+CC  transfac_consensus: 
+CC  matrix.nb: 80
+XX
+//
+AC  M00081_2.00
+XX
+ID  UME6
+XX
+DE  UME6
+P0       A     C     G     T
+1    29.5759 26.4566 23.9211 20.0464
+2    36.8915 5.81792 29.9249 27.3656
+3    20.3841 56.3321 9.82146 13.4624
+4    15.357 76.5785 2.2635 5.80091
+5    14.0161 11.1305 61.7703 13.0831
+6    13.0831 61.7703 11.1305 14.0161
+7    5.80091 2.2635 76.5785 15.357
+8    13.4624 9.82146 56.3321 20.3841
+9    27.3656 29.9249 5.81792 36.8915
+10   20.0464 23.9211 26.4566 29.5759
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 81
+CC  accession: M00081_2.00
+CC  AC: M00081_2.00
+CC  id: M00081_2.00
+CC  name: UME6
+CC  version: 
+CC  name: UME6
+CC  description: UME6
+CC  transfac_consensus: 
+CC  matrix.nb: 81
+XX
+//
+AC  M00082_2.00
+XX
+ID  RSC3
+XX
+DE  RSC3
+P0       A     C     G     T
+1    12.5312 6.29676 74.8753 6.29676
+2    0.0434028 86.849 13.0642 0.0434028
+3    0.0434028 13.0642 86.849 0.0434028
+4    0.0434028 99.8698 0.0434028 0.0434028
+5    0.0434028 0.0434028 99.8698 0.0434028
+6    0.0434028 91.1892 8.72396 0.0434028
+7    0.0434028 8.72396 86.849 4.38368
+8    5.59867 11.1419 72.1175 11.1419
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 82
+CC  accession: M00082_2.00
+CC  AC: M00082_2.00
+CC  id: M00082_2.00
+CC  name: RSC3
+CC  version: 
+CC  name: RSC3
+CC  description: RSC3
+CC  transfac_consensus: 
+CC  matrix.nb: 82
+XX
+//
+AC  M00083_2.00
+XX
+ID  URC2
+XX
+DE  URC2
+P0       A     C     G     T
+1    5.41094 82.9654 4.17212 7.45156
+2    0.40481 2.19386 97.0923 0.309024
+3    0.000188875 3.87899 96.1178     0
+4    52.9453 15.4755 20.8898 10.6895
+5    22.373 20.2439 39.959 17.4241
+6    46.5497 8.33548 10.2833 34.8315
+7    28.6461 4.83083 3.40423 63.1188
+8    54.6687 13.347 11.2604 20.724
+9    32.6638 17.5713 17.7479 32.017
+10   21.9102 24.9519 23.265 29.8729
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 83
+CC  accession: M00083_2.00
+CC  AC: M00083_2.00
+CC  id: M00083_2.00
+CC  name: URC2
+CC  version: 
+CC  name: URC2
+CC  description: URC2
+CC  transfac_consensus: 
+CC  matrix.nb: 83
+XX
+//
+AC  M00084_2.00
+XX
+ID  TOG1
+XX
+DE  TOG1
+P0       A     C     G     T
+1    13.0851 13.0851 21.9085 51.9212
+2    18.3647 31.7544 0.0174831 49.8634
+3    0.0174831 8.3342 20.175 71.4733
+4    0.0174831 80.1824 19.7826 0.0174831
+5    0.0174831 99.9476 0.0174831 0.0174831
+6    0.0174831 11.4659 88.4992 0.0174831
+7    0.0174831 0.0174831 99.9476 0.0174831
+8    91.2384 8.72664 0.0174831 0.0174831
+9    33.6351 11.9323 23.9042 30.5283
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 84
+CC  accession: M00084_2.00
+CC  AC: M00084_2.00
+CC  id: M00084_2.00
+CC  name: TOG1
+CC  version: 
+CC  name: TOG1
+CC  description: TOG1
+CC  transfac_consensus: 
+CC  matrix.nb: 84
+XX
+//
+AC  M00085_2.00
+XX
+ID  PDR1
+XX
+DE  PDR1
+P0       A     C     G     T
+1    14.2925 57.1225 6.36104 22.224
+2    39.499 35.7971 23.4576 1.2463
+3    0.0104123 97.8863 2.09288 0.0104123
+4    0.0104123 0.0104123 99.9688 0.0104123
+5    0.0104123 0.0104123 99.9688 0.0104123
+6    93.303 1.12172 5.56419 0.0111062
+7    90.7549 1.32825 3.95844 3.95844
+8    21.1568 46.1376 15.392 17.3136
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 85
+CC  accession: M00085_2.00
+CC  AC: M00085_2.00
+CC  id: M00085_2.00
+CC  name: PDR1
+CC  version: 
+CC  name: PDR1
+CC  description: PDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 85
+XX
+//
+AC  M00086_2.00
+XX
+ID  RSC30
+XX
+DE  RSC30
+P0       A     C     G     T
+1    17.1778 30.2796 35.3648 17.1778
+2    4.21888 14.913 76.6493 4.21888
+3    0.00594719 83.9252 16.0629     0
+4    0.00594719 0.00594719 99.9822     0
+5    0.00594719 76.0067 23.9814     0
+6    0.00594719 0.00594719 99.9822     0
+7    0.00594719 91.91 8.07806     0
+8    0.00594719 8.33577 91.6523     0
+9    7.82815 22.3632 61.9805 7.82815
+10   20.7871 20.7871 37.6388 20.7871
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 86
+CC  accession: M00086_2.00
+CC  AC: M00086_2.00
+CC  id: M00086_2.00
+CC  name: RSC30
+CC  version: 
+CC  name: RSC30
+CC  description: RSC30
+CC  transfac_consensus: 
+CC  matrix.nb: 86
+XX
+//
+AC  M00087_2.00
+XX
+ID  STB5
+XX
+DE  STB5
+P0       A     C     G     T
+1    28.9667 14.2413 34.6794 22.1126
+2    5.62589 84.553 3.84733 5.97377
+3    7.40214 1.66824 82.4151 8.51449
+4    7.39156 3.06589 82.2973 7.2452
+5    22.7689 18.6416 23.9362 34.6533
+6    18.2009 23.1379 44.767 13.8942
+7    26.9394 24.3757 6.01098 42.6739
+8    12.3517 11.9867 13.2473 62.4143
+9    59.895 3.29562 7.9454 28.864
+10   27.7201 17.1527 19.534 35.5933
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 87
+CC  accession: M00087_2.00
+CC  AC: M00087_2.00
+CC  id: M00087_2.00
+CC  name: STB5
+CC  version: 
+CC  name: STB5
+CC  description: STB5
+CC  transfac_consensus: 
+CC  matrix.nb: 87
+XX
+//
+AC  M00088_2.00
+XX
+ID  ASG1
+XX
+DE  ASG1
+P0       A     C     G     T
+1    0.440916 91.0218 4.18329 4.35402
+2    0.084822 11.6208 87.6017 0.692671
+3    0.0116551 0.515814 99.2847 0.187869
+4    53.7121 12.7259 24.1344 9.42757
+5    46.0766 8.849 13.878 31.1965
+6    31.886 23.6217 22.2461 22.2461
+7    27.9083 23.5452 23.5452 25.0012
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 88
+CC  accession: M00088_2.00
+CC  AC: M00088_2.00
+CC  id: M00088_2.00
+CC  name: ASG1
+CC  version: 
+CC  name: ASG1
+CC  description: ASG1
+CC  transfac_consensus: 
+CC  matrix.nb: 88
+XX
+//
+AC  M00089_2.00
+XX
+ID  SIP4
+XX
+DE  SIP4
+P0       A     C     G     T
+1    26.0307 18.3436 21.5264 34.0993
+2    32.9644 18.8296 16.5342 31.6719
+3    25.0205 20.6909 19.486 34.8027
+4    24.2798 25.7812 14.4349 35.504
+5    18.3079 28.7125 14.9892 37.9904
+6    13.2973 41.9954 12.6488 32.0585
+7    0.795223 92.8391 2.18337 4.18233
+8    1.54902 42.8464 54.4685 1.13612
+9    3.73207 12.5155 70.5953 13.1571
+10   45.1555 17.1177 20.0878 17.639
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 89
+CC  accession: M00089_2.00
+CC  AC: M00089_2.00
+CC  id: M00089_2.00
+CC  name: SIP4
+CC  version: 
+CC  name: SIP4
+CC  description: SIP4
+CC  transfac_consensus: 
+CC  matrix.nb: 89
+XX
+//
+AC  M00090_2.00
+XX
+ID  GSM1
+XX
+DE  GSM1
+P0       A     C     G     T
+1    39.1559 12.1196 27.1206 21.6038
+2    4.2583 51.5632 6.3525 37.826
+3    1.97056 34.9546 13.7419 49.3329
+4    0.765258 85.6965 2.60711 10.9311
+5    2.26886e-09 90.7542 9.24579     0
+6    2.26886e-09 9.24579 90.7542     0
+7    10.9311 2.60711 85.6965 0.765258
+8    49.3329 13.7419 34.9546 1.97056
+9    37.826 6.3525 51.5632 4.2583
+10   21.6038 27.1206 12.1196 39.1559
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 90
+CC  accession: M00090_2.00
+CC  AC: M00090_2.00
+CC  id: M00090_2.00
+CC  name: GSM1
+CC  version: 
+CC  name: GSM1
+CC  description: GSM1
+CC  transfac_consensus: 
+CC  matrix.nb: 90
+XX
+//
+AC  M00091_2.00
+XX
+ID  PUT3
+XX
+DE  PUT3
+P0       A     C     G     T
+1    21.8368 24.1334 23.6555 30.3743
+2    0.532813 96.5842 2.77435 0.108654
+3    0.0300214 20.5766 79.3728 0.0205305
+4    0.123182 3.61794 96.1496 0.109252
+5    31.7866 8.92668 51.3695 7.91725
+6    32.3186 17.9151 28.9521 20.8143
+7    30.7243 22.3104 19.9864 26.9789
+8    29.71 20.5217 20.9363 28.832
+9    28.634 20.5857 21.8586 28.9218
+10   28.885 19.9518 21.3985 29.7647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 91
+CC  accession: M00091_2.00
+CC  AC: M00091_2.00
+CC  id: M00091_2.00
+CC  name: PUT3
+CC  version: 
+CC  name: PUT3
+CC  description: PUT3
+CC  transfac_consensus: 
+CC  matrix.nb: 91
+XX
+//
+AC  M00092_2.00
+XX
+ID  RGT1
+XX
+DE  RGT1
+P0       A     C     G     T
+1    9.93211 76.384 4.78637 8.89752
+2    0.334807 8.21365 91.4505     0
+3    0.742699 6.37596 92.0687 0.812642
+4    66.7254 8.85149 16.9554 7.46769
+5    44.6129 8.15005 18.5047 28.7323
+6    36.1855 20.8772 16.9227 26.0146
+7    61.122 8.52389 7.86854 22.4855
+8    49.1764 5.39469 7.88857 37.5403
+9    20.9563 32.866 11.9704 34.2073
+10   24.1784 21.6598 18.0918 36.0699
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 92
+CC  accession: M00092_2.00
+CC  AC: M00092_2.00
+CC  id: M00092_2.00
+CC  name: RGT1
+CC  version: 
+CC  name: RGT1
+CC  description: RGT1
+CC  transfac_consensus: 
+CC  matrix.nb: 92
+XX
+//
+AC  M00093_2.00
+XX
+ID  YKL222C
+XX
+DE  YKL222C
+P0       A     C     G     T
+1    22.5391 22.5391 22.5391 32.3828
+2    28.3898 37.5413 17.0344 17.0344
+3    61.4247 19.4209 9.57718 9.57718
+4    62.7767 18.431 18.7811 0.0111649
+5    0.0111649 91.1387 8.839 0.0111649
+6    0.0111649 0.0111649 99.9665 0.0111649
+7    0.0111649 0.0111649 99.9665 0.0111649
+8    91.1387 0.0111649 8.839 0.0111649
+9    64.8376 2.4721 30.2182 2.4721
+10   56.2435 7.97673 7.97673 27.803
+11   15.434 15.434 15.434 53.698
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 93
+CC  accession: M00093_2.00
+CC  AC: M00093_2.00
+CC  id: M00093_2.00
+CC  name: YKL222C
+CC  version: 
+CC  name: YKL222C
+CC  description: YKL222C
+CC  transfac_consensus: 
+CC  matrix.nb: 93
+XX
+//
+AC  M00094_2.00
+XX
+ID  YLL054C
+XX
+DE  YLL054C
+P0       A     C     G     T
+1    25.28 25.5341 26.3117 22.8743
+2    29.2989 15.4491 23.5129 31.7391
+3    0.295718 96.7036 1.36568 1.63501
+4    0.0750304 2.38724 96.5574 0.980334
+5    0.466713 0.103102 98.2937 1.13651
+6    38.2467 20.7814 33.2501 7.72187
+7    26.3264 23.5841 16.9552 33.1344
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 94
+CC  accession: M00094_2.00
+CC  AC: M00094_2.00
+CC  id: M00094_2.00
+CC  name: YLL054C
+CC  version: 
+CC  name: YLL054C
+CC  description: YLL054C
+CC  transfac_consensus: 
+CC  matrix.nb: 94
+XX
+//
+AC  M00095_2.00
+XX
+ID  CHA4
+XX
+DE  CHA4
+P0       A     C     G     T
+1    22.6602 32.0195 22.6602 22.6602
+2    18.5721 10.1267 61.1746 10.1267
+3    0.0150116 0.0150116 99.955 0.0150116
+4    0.0150116 99.955 0.0150116 0.0150116
+5    0.0150116 0.0150116 99.955 0.0150116
+6    0.0150116 0.0150116 99.955 0.0150116
+7    70.766 0.0150116 29.204 0.0150116
+8    18.7144 0.0150116 81.2556 0.0150116
+9    75.8174 2.35484 2.35484 19.4729
+10   35.0365 14.8884 14.8884 35.1868
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 95
+CC  accession: M00095_2.00
+CC  AC: M00095_2.00
+CC  id: M00095_2.00
+CC  name: CHA4
+CC  version: 
+CC  name: CHA4
+CC  description: CHA4
+CC  transfac_consensus: 
+CC  matrix.nb: 95
+XX
+//
+AC  M00096_2.00
+XX
+ID  ECM22
+XX
+DE  ECM22
+P0       A     C     G     T
+1    21.951 30.2294 27.3526 20.467
+2    19.5888 19.7857 17.0297 43.5957
+3    10.8774 74.1943 9.36226 5.56606
+4    2.04635 53.3064 44.5253 0.121974
+5    2.02895 0.0677128 88.9007 9.00266
+6    47.6752 0.066831 45.8058 6.45214
+7    48.4663 8.85399 26.8662 15.8136
+8    39.5824 15.1558 17.0881 28.1736
+9    41.8195 13.782 11.1715 33.227
+10   36.9917 15.6535 13.8834 33.4715
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 96
+CC  accession: M00096_2.00
+CC  AC: M00096_2.00
+CC  id: M00096_2.00
+CC  name: ECM22
+CC  version: 
+CC  name: ECM22
+CC  description: ECM22
+CC  transfac_consensus: 
+CC  matrix.nb: 96
+XX
+//
+AC  M00097_2.00
+XX
+ID  HAP1
+XX
+DE  HAP1
+P0       A     C     G     T
+1    16.6001 27.369 10.9071 45.1238
+2    3.40694 94.2372 2.08718 0.268693
+3    2.98381e-05 3.42217 96.5706     0
+4    0.00272444 0.00106424 99.9339 0.0623189
+5    52.5447 15.2056 20.5254 11.7243
+6    24.6047 26.3888 29.4572 19.5493
+7    37.8727 15.8668 15.8668 30.3936
+8    22.949 11.7432 9.42413 55.8837
+9    48.4436 14.0188 11.4776 26.06
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 97
+CC  accession: M00097_2.00
+CC  AC: M00097_2.00
+CC  id: M00097_2.00
+CC  name: HAP1
+CC  version: 
+CC  name: HAP1
+CC  description: HAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 97
+XX
+//
+AC  M00098_2.00
+XX
+ID  PDR8
+XX
+DE  PDR8
+P0       A     C     G     T
+1    26.9972 27.5426 31.3663 14.0938
+2    38.2798 24.6536 30.4146 6.65203
+3    1.78712 94.69 0.961374 2.56154
+4    0.278094 0.120056 99.5045 0.0973155
+5    2.13016 0.0662841 96.1774 1.62612
+6    64.3546 12.8637 21.8545 0.927195
+7    29.1487 22.4752 32.5381 15.838
+8    46.189 17.1628 15.6856 20.9626
+9    35.051 10.3481 10.0423 44.5586
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 98
+CC  accession: M00098_2.00
+CC  AC: M00098_2.00
+CC  id: M00098_2.00
+CC  name: PDR8
+CC  version: 
+CC  name: PDR8
+CC  description: PDR8
+CC  transfac_consensus: 
+CC  matrix.nb: 98
+XX
+//
+AC  M00099_2.00
+XX
+ID  YLR278C
+XX
+DE  YLR278C
+P0       A     C     G     T
+1    24.921 23.9439 24.6731 26.4621
+2    28.8431 22.2395 24.8255 24.0918
+3    18.4142 30.6649 19.9478 30.9731
+4    2.52785 94.3839 2.82179 0.266434
+5    0.57594 5.57476 93.5268 0.322468
+6    0.783155 6.72328 92.3491 0.144507
+7    52.9877 17.6381 21.7597 7.61454
+8    23.3578 19.9042 44.2977 12.4402
+9    32.9507 17.2018 17.5493 32.2982
+10   31.6777 16.7034 14.8146 36.8043
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 99
+CC  accession: M00099_2.00
+CC  AC: M00099_2.00
+CC  id: M00099_2.00
+CC  name: YLR278C
+CC  version: 
+CC  name: YLR278C
+CC  description: YLR278C
+CC  transfac_consensus: 
+CC  matrix.nb: 99
+XX
+//
+AC  M00100_2.00
+XX
+ID  STB4
+XX
+DE  STB4
+P0       A     C     G     T
+1    20.6969 33.4477 17.6367 28.2187
+2    18.7643 10.7184 11.8456 58.6717
+3    2.75188 93.9049 3.04129 0.301883
+4    1.3028 11.1843 86.0143 1.49857
+5    3.19107 1.93548 91.8682 3.00523
+6    57.1469 12.0086 20.814 10.0305
+7    55.282 5.11638 8.02408 31.5776
+8    38.0463 21.7324 18.7052 21.5161
+9    31.3842 21.896 17.7486 28.9713
+10   31.7369 19.2494 17.5926 31.4211
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 100
+CC  accession: M00100_2.00
+CC  AC: M00100_2.00
+CC  id: M00100_2.00
+CC  name: STB4
+CC  version: 
+CC  name: STB4
+CC  description: STB4
+CC  transfac_consensus: 
+CC  matrix.nb: 100
+XX
+//
+AC  M00101_2.00
+XX
+ID  CEP3
+XX
+DE  CEP3
+P0       A     C     G     T
+1    3.78959 33.9555 32.0701 30.1848
+2    1.36413 74.2977 1.36413 22.9741
+3    0.0108648 1.09735 0.0108648 98.8809
+4    0.0107481 99.9678 0.0107481 0.0107481
+5    0.0107481 2.16036 97.8181 0.0107481
+6    0.0107481 1.08555 98.8929 0.0107481
+7    66.2294 7.50875 21.2519  5.01
+8    81.2149 1.57714 7.82324 9.38476
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 101
+CC  accession: M00101_2.00
+CC  AC: M00101_2.00
+CC  id: M00101_2.00
+CC  name: CEP3
+CC  version: 
+CC  name: CEP3
+CC  description: CEP3
+CC  transfac_consensus: 
+CC  matrix.nb: 101
+XX
+//
+AC  M00102_2.00
+XX
+ID  CAT8
+XX
+DE  CAT8
+P0       A     C     G     T
+1    23.0826 23.5489 24.0247 29.3438
+2    23.4897 23.7257 27.8424 24.9422
+3    26.3068 26.5712 20.2839 26.8382
+4    9.46439 69.2371 6.60308 14.6954
+5    0.0084387 99.9903 0.000103605     0
+6    0.0730482 6.84395 93.0712 0.0118357
+7    0.122677 0.00629372 98.6717 1.19937
+8    70.0294 11.6921 15.9413 2.33711
+9    33.5031 15.2052 29.7146 21.5772
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 102
+CC  accession: M00102_2.00
+CC  AC: M00102_2.00
+CC  id: M00102_2.00
+CC  name: CAT8
+CC  version: 
+CC  name: CAT8
+CC  description: CAT8
+CC  transfac_consensus: 
+CC  matrix.nb: 102
+XX
+//
+AC  M00103_2.00
+XX
+ID  YNR063W
+XX
+DE  YNR063W
+P0       A     C     G     T
+1    23.8726 25.3488 22.4824 28.2963
+2    15.1412 18.1273 17.9469 48.7847
+3    5.90512 87.8666 1.4417 4.7866
+4    4.49855 4.27915 86.8128 4.40947
+5    4.95319 3.45572 88.2375 3.35359
+6    54.5173 15.935 19.0777 10.47
+7    28.8829 15.2297 37.8355 18.0519
+8    48.8406 9.95984 13.8538 27.3458
+9    33.843 9.04067 6.12104 50.9953
+10   29.2598 19.0338 20.0097 31.6968
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 103
+CC  accession: M00103_2.00
+CC  AC: M00103_2.00
+CC  id: M00103_2.00
+CC  name: YNR063W
+CC  version: 
+CC  name: YNR063W
+CC  description: YNR063W
+CC  transfac_consensus: 
+CC  matrix.nb: 103
+XX
+//
+AC  M00104_2.00
+XX
+ID  HAL9
+XX
+DE  HAL9
+P0       A     C     G     T
+1    31.8674 18.7573 30.6179 18.7573
+2    2.40302 96.2286 0.438992 0.929347
+3    0.0855199 0.844504 98.5924 0.477588
+4    0.578865 0.13046 98.8215 0.469219
+5    56.1688 15.4616 20.4577 7.91185
+6    44.1364 12.0286 21.9175 21.9175
+7    29.1327 26.0981 21.1547 23.6145
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 104
+CC  accession: M00104_2.00
+CC  AC: M00104_2.00
+CC  id: M00104_2.00
+CC  name: HAL9
+CC  version: 
+CC  name: HAL9
+CC  description: HAL9
+CC  transfac_consensus: 
+CC  matrix.nb: 104
+XX
+//
+AC  M00105_2.00
+XX
+ID  YRR1
+XX
+DE  YRR1
+P0       A     C     G     T
+1    34.7483 15.4581 35.8066 13.987
+2    8.94829 73.8076 3.06934 14.1747
+3    2.91759 3.38976 91.9053 1.78739
+4    2.60009 9.54052 82.7271 5.13227
+5    52.503 13.3414 25.3017 8.854
+6    31.1895 15.6439 27.1149 26.0517
+7    46.0423 13.3239 16.112 24.5218
+8    21.7265 11.6876 7.52726 59.0586
+9    42.7226 13.1278 16.3582 27.7914
+10   39.6777 20.1014 20.7136 19.5073
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 105
+CC  accession: M00105_2.00
+CC  AC: M00105_2.00
+CC  id: M00105_2.00
+CC  name: YRR1
+CC  version: 
+CC  name: YRR1
+CC  description: YRR1
+CC  transfac_consensus: 
+CC  matrix.nb: 105
+XX
+//
+AC  M00106_2.00
+XX
+ID  YRM1
+XX
+DE  YRM1
+P0       A     C     G     T
+1    57.1062 8.59018 31.4212 2.88242
+2    0.0158629 98.3661 0.0158629 1.60216
+3    0.0146972 0.0146972 99.9559 0.0146972
+4    0.0144844 0.0144844 99.9565 0.0144844
+5    85.4722 4.35979 10.1535 0.0144844
+6    46.3644 5.80823 15.9473 31.8801
+7    77.5805 0.0149165 0.0149165 22.3896
+8    8.63198 3.46313 0.0172295 87.8877
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 106
+CC  accession: M00106_2.00
+CC  AC: M00106_2.00
+CC  id: M00106_2.00
+CC  name: YRM1
+CC  version: 
+CC  name: YRM1
+CC  description: YRM1
+CC  transfac_consensus: 
+CC  matrix.nb: 106
+XX
+//
+AC  M00107_2.00
+XX
+ID  TEA1
+XX
+DE  TEA1
+P0       A     C     G     T
+1    0.727693 1.495 81.624 16.1533
+2    2.17728e-05 99.9979 0.00163706     0
+3    1.03883e-05 4.29776e-05 99.9999     0
+4    0.0476899 16.0702 82.8445 1.03766
+5    69.4143 2.91565 14.733 12.937
+6    37.9601 30.4637 22.1212 9.45493
+7    52.8522 2.76627 9.65522 34.7263
+8    15.9436 0.755071 0.283387 83.018
+9    31.8234 4.30683 4.71242 59.1574
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 107
+CC  accession: M00107_2.00
+CC  AC: M00107_2.00
+CC  id: M00107_2.00
+CC  name: TEA1
+CC  version: 
+CC  name: TEA1
+CC  description: TEA1
+CC  transfac_consensus: 
+CC  matrix.nb: 107
+XX
+//
+AC  M00108_2.00
+XX
+ID  RDR1
+XX
+DE  RDR1
+P0       A     C     G     T
+1    14.0538 11.8567 55.8626 18.2268
+2    6.62164 79.0708 9.30306 5.00453
+3    2.02249 0.0288493 97.9377 0.0109363
+4    2.40636 0.0121323 96.3624 1.2191
+5    70.0705 3.93339 20.8948 5.10133
+6    54.7034 3.35995 7.4033 34.5334
+7    40.3174 20.021 19.236 20.4255
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 108
+CC  accession: M00108_2.00
+CC  AC: M00108_2.00
+CC  id: M00108_2.00
+CC  name: RDR1
+CC  version: 
+CC  name: RDR1
+CC  description: RDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 108
+XX
+//
+AC  M00109_2.00
+XX
+ID  RDS2
+XX
+DE  RDS2
+P0       A     C     G     T
+1    24.9803 30.2074 23.5255 21.2868
+2    15.2203 9.80244 14.478 60.4992
+3    0.366886 98.2284 0.0852042 1.31956
+4    0.00711001 6.07237 93.1069 0.813628
+5    0.198984 4.28648 92.339 3.17551
+6    35.1497 7.02598 47.4471 10.3772
+7    29.2343 22.3169 28.6555 19.7933
+8    29.5807 22.8083 20.8452 26.7658
+9    27.3596 21.3077 21.0957 30.237
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 109
+CC  accession: M00109_2.00
+CC  AC: M00109_2.00
+CC  id: M00109_2.00
+CC  name: RDS2
+CC  version: 
+CC  name: RDS2
+CC  description: RDS2
+CC  transfac_consensus: 
+CC  matrix.nb: 109
+XX
+//
+AC  M00110_2.00
+XX
+ID  YPR196W
+XX
+DE  YPR196W
+P0       A     C     G     T
+1    22.8895 24.3049 23.1195 29.6861
+2    11.5767 73.6255 5.41402 9.38386
+3    1.75663 2.30113 92.1483 3.79392
+4    3.90253 15.8255 75.3109 4.96108
+5    41.0337 10.7445 34.9666 13.2552
+6    25.7478 13.7131 42.0285 18.5107
+7    56.0848 9.27075 9.94296 24.7015
+8    69.475 1.86073 3.86116 24.8031
+9    58.1595 2.62004 3.23229 35.9881
+10   17.4175 26.7751 6.03438 49.773
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 110
+CC  accession: M00110_2.00
+CC  AC: M00110_2.00
+CC  id: M00110_2.00
+CC  name: YPR196W
+CC  version: 
+CC  name: YPR196W
+CC  description: YPR196W
+CC  transfac_consensus: 
+CC  matrix.nb: 110
+XX
+//
+AC  M00178_2.00
+XX
+ID  M00178_2.00
+XX
+DE  ccwwwwwwgg 
+P0       A     C     G     T
+1    21.2984 41.6099 14.2972 22.7946
+2    20.1998 40.1559 18.2516 21.3926
+3    43.2247 8.32387 17.9282 30.5232
+4    39.4149 9.88162 14.6383 36.0651
+5    53.2912 7.59976 11.8189 27.2901
+6    27.2901 11.8189 7.59976 53.2912
+7    36.0651 14.6383 9.88162 39.4149
+8    30.5232 17.9282 8.32387 43.2247
+9    21.3926 18.2516 40.1559 20.1998
+10   22.7946 14.2972 41.6099 21.2984
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 111
+CC  accession: M00178_2.00
+CC  AC: M00178_2.00
+CC  id: M00178_2.00
+CC  name: M00178_2.00
+CC  version: 
+CC  name: M00178_2.00
+CC  description: ccwwwwwwgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 111
+XX
+//
+AC  M00186_2.00
+XX
+ID  M00186_2.00
+XX
+DE  gtwryyadgs 
+P0       A     C     G     T
+1    7.19686 2.75563 87.6757 2.37179
+2    4.37506 6.2085 8.29722 81.1192
+3    26.3828 19.5449 3.535 50.5373
+4    27.7657 5.02187 47.6462 19.5662
+5    4.0535 62.1518 6.42104 27.3736
+6    2.77353 45.156 9.11683 42.9537
+7    57.9359 13.59 15.0193 13.4548
+8    26.8595 15.6524 26.5923 30.8958
+9    10.8591 16.861 65.6936 6.58636
+10   16.9606 26.3349 36.9991 19.7054
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 112
+CC  accession: M00186_2.00
+CC  AC: M00186_2.00
+CC  id: M00186_2.00
+CC  name: M00186_2.00
+CC  version: 
+CC  name: M00186_2.00
+CC  description: gtwryyadgs 
+CC  transfac_consensus: 
+CC  matrix.nb: 112
+XX
+//
+AC  M00188_2.00
+XX
+ID  M00188_2.00
+XX
+DE  chtrrywacs 
+P0       A     C     G     T
+1    10.4605 58.4172 19.4454 11.6769
+2    26.6268 28.2733 15.6727 29.4272
+3    9.87183 11.2423 7.38673 71.4991
+4    51.2814 10.1485 36.5006 2.06954
+5    25.517 10.3744 57.3599 6.74867
+6    18.4311 45.7887 3.8345 31.9457
+7    48.4397 1.89709 23.3435 26.3197
+8    86.9982 5.39724 4.78692 2.81761
+9    2.19106 90.4128 0.26564 7.13053
+10   23.6202 30.0271 33.5186 12.834
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 113
+CC  accession: M00188_2.00
+CC  AC: M00188_2.00
+CC  id: M00188_2.00
+CC  name: M00188_2.00
+CC  version: 
+CC  name: M00188_2.00
+CC  description: chtrrywacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 113
+XX
+//
+AC  M00195_2.00
+XX
+ID  M00195_2.00
+XX
+DE  wwtgctgact 
+P0       A     C     G     T
+1    27.9067 18.1426 18.1426 35.8081
+2    28.9551 18.9085 21.2315 30.9049
+3    0.01051 0.01051 0.01051 99.9685
+4    0.01051 0.01051 99.9685 0.01051
+5    0.01051 99.9685 0.01051 0.01051
+6    0.01051 0.01051 0.01051 99.9685
+7    0.01051 0.01051 99.9685 0.01051
+8    99.9685 0.01051 0.01051 0.01051
+9    6.86789 61.313 16.2332 15.5859
+10   24.1038 14.719 14.719 46.4583
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 114
+CC  accession: M00195_2.00
+CC  AC: M00195_2.00
+CC  id: M00195_2.00
+CC  name: M00195_2.00
+CC  version: 
+CC  name: M00195_2.00
+CC  description: wwtgctgact 
+CC  transfac_consensus: 
+CC  matrix.nb: 114
+XX
+//
+AC  M00197_2.00
+XX
+ID  M00197_2.00
+XX
+DE  rrawcaat 
+P0       A     C     G     T
+1    31.2219 20.108 25.3079 23.3622
+2    31.5226 16.1304 28.5228 23.8242
+3    42.5231 16.6107 21.7594 19.1068
+4    60.2919 4.30251 2.97189 32.4337
+5    5.82109 50.4755 24.569 19.1344
+6    97.1833 1.64312 0.0386425 1.13496
+7    89.0196 3.12319 7.837 0.0202188
+8    18.0233 5.21565 4.40026 72.3608
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 115
+CC  accession: M00197_2.00
+CC  AC: M00197_2.00
+CC  id: M00197_2.00
+CC  name: M00197_2.00
+CC  version: 
+CC  name: M00197_2.00
+CC  description: rrawcaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 115
+XX
+//
+AC  M00199_2.00
+XX
+ID  M00199_2.00
+XX
+DE  wrrawsaat 
+P0       A     C     G     T
+1    27.2019 22.0494 24.6133 26.1353
+2    26.2729 21.2964 28.1779 24.2529
+3    27.2786 20.6167 31.6932 20.4116
+4    47.1453 15.078 19.3605 18.4163
+5    40.6978 5.08438 4.50944 49.7084
+6    8.03233 40.996 41.8242 9.14745
+7    93.4269 0.0353371 0.00270455 6.53505
+8    94.1936 2.28268 3.50907 0.0146305
+9    11.5517 5.34858 3.51427 79.5855
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 116
+CC  accession: M00199_2.00
+CC  AC: M00199_2.00
+CC  id: M00199_2.00
+CC  name: M00199_2.00
+CC  version: 
+CC  name: M00199_2.00
+CC  description: wrrawsaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 116
+XX
+//
+AC  M00202_2.00
+XX
+ID  M00202_2.00
+XX
+DE  attswtyww 
+P0       A     C     G     T
+1    63.1817 5.61822 6.2715 24.9286
+2    0.0159885 5.44181 4.15417 90.388
+3    9.00568 0.054359 2.00944 88.9305
+4    20.184 25.9167 44.9203 8.97901
+5    32.5271 6.90381 9.04375 51.5253
+6    23.9857 22.8159 19.8352 33.3633
+7    23.8056 26.0475 19.8841 30.2628
+8    25.2609 23.7898 22.1815 28.7678
+9    25.4386 24.9349 24.4411 25.1855
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 117
+CC  accession: M00202_2.00
+CC  AC: M00202_2.00
+CC  id: M00202_2.00
+CC  name: M00202_2.00
+CC  version: 
+CC  name: M00202_2.00
+CC  description: attswtyww 
+CC  transfac_consensus: 
+CC  matrix.nb: 117
+XX
+//
+AC  M00203_2.00
+XX
+ID  M00203_2.00
+XX
+DE  attgtyyy 
+P0       A     C     G     T
+1    71.1397 6.26292 7.49807 15.0993
+2    1.36226 10.2692 3.66616 84.7024
+3    3.57065 0.534057 0.0489354 95.8464
+4    16.3603 11.0768 67.6843 4.87858
+5    8.39743 3.58919 3.41414 84.5992
+6    11.7419 27.1985 13.9177 47.1419
+7    22.3078 34.2928 16.6921 26.7073
+8    21.5726 28.2593 17.6621 32.506
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 118
+CC  accession: M00203_2.00
+CC  AC: M00203_2.00
+CC  id: M00203_2.00
+CC  name: M00203_2.00
+CC  version: 
+CC  name: M00203_2.00
+CC  description: attgtyyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 118
+XX
+//
+AC  M00204_2.00
+XX
+ID  M00204_2.00
+XX
+DE  arawcaat 
+P0       A     C     G     T
+1    30.4046 20.7925 24.1575 24.6455
+2    31.6486 18.2597 26.1721 23.9195
+3    34.7135 19.436 22.5814 23.2691
+4    59.5861 7.2967 6.34345 26.7738
+5    7.84313 50.3822 22.8657 18.909
+6    88.3669 2.53831 0.0562189 9.03854
+7    90.2298 3.19747 5.48688 1.08585
+8    18.2652 6.32809 4.24185 71.1648
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 119
+CC  accession: M00204_2.00
+CC  AC: M00204_2.00
+CC  id: M00204_2.00
+CC  name: M00204_2.00
+CC  version: 
+CC  name: M00204_2.00
+CC  description: arawcaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 119
+XX
+//
+AC  M00205_2.00
+XX
+ID  M00205_2.00
+XX
+DE  ywttgtyyyt 
+P0       A     C     G     T
+1    21.9705 34.8028 9.11298 34.1137
+2    58.8175 3.72266 7.05996 30.3999
+3    0.0309317 3.50443 5.17597 91.2887
+4    2.52516 2.04685 0.197169 95.2308
+5    15.8336 11.6131 70.2551 2.29822
+6    11.3178 3.80524 2.90484 81.9721
+7    10.9991 29.3067 16.4088 43.2854
+8    21.8075 31.2573 15.6779 31.2573
+9    19.5622 25.6257 20.5651 34.2469
+10   21.9142 24.9565 24.7082 28.4212
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 120
+CC  accession: M00205_2.00
+CC  AC: M00205_2.00
+CC  id: M00205_2.00
+CC  name: M00205_2.00
+CC  version: 
+CC  name: M00205_2.00
+CC  description: ywttgtyyyt 
+CC  transfac_consensus: 
+CC  matrix.nb: 120
+XX
+//
+AC  M00206_2.00
+XX
+ID  M00206_2.00
+XX
+DE  araacaat 
+P0       A     C     G     T
+1    32.9744 19.604 24.185 23.2367
+2    31.5975 16.1687 28.5906 23.6432
+3    38.7559 18.491 21.4834 21.2697
+4    69.6768 5.8936 5.44048 18.9891
+5    4.65359 50.7869 19.8388 24.7207
+6    99.7612 0.129093 0.0814944 0.0282342
+7    90.2273 5.43213 4.31601 0.0245347
+8    22.1148 3.54751 3.08406 71.2537
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 121
+CC  accession: M00206_2.00
+CC  AC: M00206_2.00
+CC  id: M00206_2.00
+CC  name: M00206_2.00
+CC  version: 
+CC  name: M00206_2.00
+CC  description: araacaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 121
+XX
+//
+AC  M00208_2.00
+XX
+ID  M00208_2.00
+XX
+DE  attgttytb 
+P0       A     C     G     T
+1    61.0507 8.01813 8.01813 22.913
+2    2.7959 8.74215 5.51877 82.9432
+3    7.74342 3.0859 2.08933 87.0814
+4    23.7747 20.6688 47.8765 7.68003
+5    24.0465 7.8459 7.76783 60.3397
+6    22.2149 22.4382 20.507 34.8399
+7    23.0661 27.3404 18.1445 31.449
+8    23.624 24.8352 21.8077 29.7331
+9    24.0132 25.4981 25.2444 25.2444
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 122
+CC  accession: M00208_2.00
+CC  AC: M00208_2.00
+CC  id: M00208_2.00
+CC  name: M00208_2.00
+CC  version: 
+CC  name: M00208_2.00
+CC  description: attgttytb 
+CC  transfac_consensus: 
+CC  matrix.nb: 122
+XX
+//
+AC  M00209_2.00
+XX
+ID  M00209_2.00
+XX
+DE  araacaat 
+P0       A     C     G     T
+1    29.8569 21.2512 24.6904 24.2015
+2    31.925 17.5208 26.666 23.8883
+3    35.7639 19.239 23.7347 21.2624
+4    67.9599 5.52298 5.63455 20.8826
+5    5.68531 55.5835 18.6881 20.0431
+6    93.1608 1.19045 0.0957828 5.55294
+7    86.9014 2.62419 8.1236 2.35084
+8    18.3811 5.99739 4.71771 70.9038
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 123
+CC  accession: M00209_2.00
+CC  AC: M00209_2.00
+CC  id: M00209_2.00
+CC  name: M00209_2.00
+CC  version: 
+CC  name: M00209_2.00
+CC  description: araacaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 123
+XX
+//
+AC  M00210_2.00
+XX
+ID  M00210_2.00
+XX
+DE  wttgtyyty 
+P0       A     C     G     T
+1    58.2313 4.54679 6.51705 30.7049
+2    0.0166176 2.69853 4.27468 93.0102
+3    0.0693727 0.419681 0.845133 98.6658
+4    16.2207 11.2042 71.2568 1.31823
+5    6.28897 2.07259 0.825965 90.8125
+6    11.5259 28.067 20.178 40.2292
+7    23.9591 30.458 15.125 30.458
+8    24.5191 23.0912 21.5301 30.8597
+9    21.3432 28.5237 24.0644 26.0687
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 124
+CC  accession: M00210_2.00
+CC  AC: M00210_2.00
+CC  id: M00210_2.00
+CC  name: M00210_2.00
+CC  version: 
+CC  name: M00210_2.00
+CC  description: wttgtyyty 
+CC  transfac_consensus: 
+CC  matrix.nb: 124
+XX
+//
+AC  M00211_2.00
+XX
+ID  M00211_2.00
+XX
+DE  attrttyysy 
+P0       A     C     G     T
+1    80.8545 3.60619 2.9525 12.5868
+2    0.0357429 6.87985 2.2901 90.7943
+3    0.0145589 0.350094 0.106506 99.5288
+4    26.8341 11.701 59.1261 2.33888
+5    14.0246 1.68339 1.95582 82.3362
+6    20.0067 21.6731 19.2223 39.0979
+7    20.5896 32.9433 16.3592 30.1079
+8    18.8912 27.9019 19.4665 33.7404
+9    23.6555 25.1183 28.039 23.1871
+10   20.7751 30.0768 19.3706 29.7775
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 125
+CC  accession: M00211_2.00
+CC  AC: M00211_2.00
+CC  id: M00211_2.00
+CC  name: M00211_2.00
+CC  version: 
+CC  name: M00211_2.00
+CC  description: attrttyysy 
+CC  transfac_consensus: 
+CC  matrix.nb: 125
+XX
+//
+AC  M00212_2.00
+XX
+ID  M00212_2.00
+XX
+DE  gaacaatw 
+P0       A     C     G     T
+1       25 0.124378 62.3134 12.5622
+2    91.4452 0.0830565 8.3887 0.0830565
+3    99.7699 0.0766871 0.0766871 0.0766871
+4    0.0766871 99.7699 0.0766871 0.0766871
+5    99.7699 0.0766871 0.0766871 0.0766871
+6    99.7699 0.0766871 0.0766871 0.0766871
+7    0.0766871 0.0766871 0.0766871 99.7699
+8    55.4204 0.110619 0.110619 44.3584
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 126
+CC  accession: M00212_2.00
+CC  AC: M00212_2.00
+CC  id: M00212_2.00
+CC  name: M00212_2.00
+CC  version: 
+CC  name: M00212_2.00
+CC  description: gaacaatw 
+CC  transfac_consensus: 
+CC  matrix.nb: 126
+XX
+//
+AC  M00213_2.00
+XX
+ID  M00213_2.00
+XX
+DE  rrracaawr 
+P0       A     C     G     T
+1    30.7529 21.889 25.687 21.6712
+2    31.5744 15.3689 31.8917 21.165
+3    41.7549 17.8467 28.5545 11.8439
+4    86.1737 1.65925 3.08442 9.08264
+5    1.19921 73.8225 11.4921 13.4862
+6    94.4003 0.0625083 2.87929 2.65792
+7    91.3085 5.38838 3.26822 0.034883
+8    42.5257 7.76874 4.0964 45.6092
+9    33.6931 8.06307 39.9366 18.3072
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 127
+CC  accession: M00213_2.00
+CC  AC: M00213_2.00
+CC  id: M00213_2.00
+CC  name: M00213_2.00
+CC  version: 
+CC  name: M00213_2.00
+CC  description: rrracaawr 
+CC  transfac_consensus: 
+CC  matrix.nb: 127
+XX
+//
+AC  M00214_2.00
+XX
+ID  M00214_2.00
+XX
+DE  rwdrawsaat 
+P0       A     C     G     T
+1    27.1418 22.2218 26.0775 24.5589
+2    27.6412 20.4771 24.5155 27.3662
+3    27.277 22.1103 25.1798 25.4329
+4    26.747 20.8305 29.857 22.5655
+5    40.9172 16.9718 21.7922 20.3189
+6    32.8851 8.35633 11.6234 47.1352
+7    12.2925 29.636 44.2117 13.8598
+8    86.143 1.26619 8.21538 4.37545
+9    85.2026 4.73524 9.34678 0.715361
+10   23.1452 4.44504 8.86215 63.5476
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 128
+CC  accession: M00214_2.00
+CC  AC: M00214_2.00
+CC  id: M00214_2.00
+CC  name: M00214_2.00
+CC  version: 
+CC  name: M00214_2.00
+CC  description: rwdrawsaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 128
+XX
+//
+AC  M00216_2.00
+XX
+ID  M00216_2.00
+XX
+DE  wwtwwaw 
+P0       A     C     G     T
+1    31.7192 18.8577 17.0632 32.36
+2    37.7028 11.0202 11.2429 40.0342
+3    23.8466 12.3251 12.3251 51.5031
+4    53.2428 0.0769087 9.53399 37.1463
+5    29.0314 0.0533106 6.94748 63.9678
+6    71.578 7.85215 19.121 1.44887
+7    28.9234 11.9969 10.4296 48.65
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 129
+CC  accession: M00216_2.00
+CC  AC: M00216_2.00
+CC  id: M00216_2.00
+CC  name: M00216_2.00
+CC  version: 
+CC  name: M00216_2.00
+CC  description: wwtwwaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 129
+XX
+//
+AC  M00260_2.00
+XX
+ID  M00260_2.00
+XX
+DE  kmtaattarta 
+P0       A     C     G     T
+1    17.4537 17.4537 37.9077 27.185
+2    39.6657 40.0457 10.1443 10.1443
+3    2.46885 2.46885 2.46885 92.5934
+4    90.1496 0.0249726 0.0249726 9.80049
+5    99.9251 0.0249726 0.0249726 0.0249726
+6    0.0249726 0.0249726 0.0249726 99.9251
+7    0.0249726 0.0249726 0.0249726 99.9251
+8    89.8464 0.0249726 10.1037 0.0249726
+9    37.5736 17.7404 27.4562 17.2297
+10   14.8807 14.8807 14.8807 55.358
+11   32.3316 22.5561 22.5561 22.5561
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 130
+CC  accession: M00260_2.00
+CC  AC: M00260_2.00
+CC  id: M00260_2.00
+CC  name: M00260_2.00
+CC  version: 
+CC  name: M00260_2.00
+CC  description: kmtaattarta 
+CC  transfac_consensus: 
+CC  matrix.nb: 130
+XX
+//
+AC  M00261_2.00
+XX
+ID  M00261_2.00
+XX
+DE  sctaattrr 
+P0       A     C     G     T
+1    23.0886 27.0947 29.9443 19.8725
+2    22.0126 31.2374 23.6087 23.1412
+3    15.724 14.8083 4.41579 65.052
+4    62.2989 10.8259 15.8306 11.0446
+5    83.7252 3.08805 8.1461 5.04067
+6    7.11309 16.6421 10.094 66.1508
+7    19.0036 20.1788 23.68 37.1376
+8    27.8998 19.6606 33.7378 18.7018
+9    27.4661 19.746 35.6216 17.1664
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 131
+CC  accession: M00261_2.00
+CC  AC: M00261_2.00
+CC  id: M00261_2.00
+CC  name: M00261_2.00
+CC  version: 
+CC  name: M00261_2.00
+CC  description: sctaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 131
+XX
+//
+AC  M00262_2.00
+XX
+ID  M00262_2.00
+XX
+DE  ataattat 
+P0       A     C     G     T
+1    97.1154 0.961538 0.961538 0.961538
+2    0.961538 0.961538 0.961538 97.1154
+3    97.1154 0.961538 0.961538 0.961538
+4    97.1154 0.961538 0.961538 0.961538
+5    0.961538 0.961538 0.961538 97.1154
+6    0.961538 0.961538 0.961538 97.1154
+7    97.1154 0.961538 0.961538 0.961538
+8    0.961538 0.961538 0.961538 97.1154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 132
+CC  accession: M00262_2.00
+CC  AC: M00262_2.00
+CC  id: M00262_2.00
+CC  name: M00262_2.00
+CC  version: 
+CC  name: M00262_2.00
+CC  description: ataattat 
+CC  transfac_consensus: 
+CC  matrix.nb: 132
+XX
+//
+AC  M00264_2.00
+XX
+ID  M00264_2.00
+XX
+DE  sctaattrr 
+P0       A     C     G     T
+1    23.3408 26.5811 29.3767 20.7014
+2    21.8699 30.726 22.9912 24.4129
+3    17.0035 13.3754 5.33035 64.2908
+4    61.5562 9.02457 17.1149 12.3043
+5    88.9185 2.65839 6.1578 2.26533
+6    5.08848 15.5955 7.29347 72.0226
+7    19.5427 19.3483 20.9597 40.1492
+8    26.2679 20.663 32.4061 20.663
+9    26.4075 22.7292 32.2542 18.6091
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 133
+CC  accession: M00264_2.00
+CC  AC: M00264_2.00
+CC  id: M00264_2.00
+CC  name: M00264_2.00
+CC  version: 
+CC  name: M00264_2.00
+CC  description: sctaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 133
+XX
+//
+AC  M00266_2.00
+XX
+ID  M00266_2.00
+XX
+DE  gmtaattrr 
+P0       A     C     G     T
+1    23.36 24.0715 31.219 21.3495
+2    25.1744 27.822 24.6759 22.3277
+3    14.4108 13.9849 4.38406 67.2203
+4    72.7125 7.00422 15.5882 4.69507
+5    84.3117 3.10968 3.23659 9.342
+6    9.35108 19.02 12.7495 58.8794
+7    20.1118 16.7988 24.5646 38.5249
+8    32.1833 16.634 33.1634 18.0194
+9    26.4996 22.1344 32.692 18.674
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 134
+CC  accession: M00266_2.00
+CC  AC: M00266_2.00
+CC  id: M00266_2.00
+CC  name: M00266_2.00
+CC  version: 
+CC  name: M00266_2.00
+CC  description: gmtaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 134
+XX
+//
+AC  M00267_2.00
+XX
+ID  M00267_2.00
+XX
+DE  gctaattrr 
+P0       A     C     G     T
+1    23.329 24.2811 31.4909 20.8989
+2    24.841 27.1804 24.3491 23.6295
+3    15.4323 14.8272 6.53037 63.2101
+4    68.9753 8.44646 14.9356 7.64268
+5    82.5677 3.60968 3.299 10.5236
+6    9.35506 19.6076 12.1329 58.9045
+7    19.0106 17.0303 24.9032 39.0559
+8    34.5625 16.1637 31.5878 17.6859
+9    26.2289 22.1284 33.3435 18.2993
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 135
+CC  accession: M00267_2.00
+CC  AC: M00267_2.00
+CC  id: M00267_2.00
+CC  name: M00267_2.00
+CC  version: 
+CC  name: M00267_2.00
+CC  description: gctaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 135
+XX
+//
+AC  M00268_2.00
+XX
+ID  M00268_2.00
+XX
+DE  gvtaattrr 
+P0       A     C     G     T
+1    23.1643 23.8697 31.5827 21.3833
+2    26.0722 25.0498 25.0498 23.8282
+3    17.26 13.0448 8.23498 61.4602
+4    61.0018 8.8543 22.8946 7.24929
+5    82.3183 1.41991 5.87434 10.3874
+6    8.69032 14.7643 12.3322 64.2133
+7    19.474 14.5717 21.7384 44.2158
+8    32.8184 14.3104 35.909 16.9622
+9    26.0012 22.1568 34.0607 17.7812
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 136
+CC  accession: M00268_2.00
+CC  AC: M00268_2.00
+CC  id: M00268_2.00
+CC  name: M00268_2.00
+CC  version: 
+CC  name: M00268_2.00
+CC  description: gvtaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 136
+XX
+//
+AC  M00269_2.00
+XX
+ID  M00269_2.00
+XX
+DE  gvtaatkrr 
+P0       A     C     G     T
+1    22.9316 24.1073 31.5798 21.3813
+2    25.3073 27.415 25.0555 22.2222
+3    15.737 13.9575 5.8475 64.458
+4    70.7575 7.16537 16.269 5.80813
+5    83.2219 3.25929 3.82482 9.69403
+6    9.43362 20.3744 13.1219 57.0701
+7    20.1381 17.333 25.0936 37.4353
+8    31.9152 16.9978 33.2177 17.8693
+9    26.1395 22.7245 32.8991 18.2369
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 137
+CC  accession: M00269_2.00
+CC  AC: M00269_2.00
+CC  id: M00269_2.00
+CC  name: M00269_2.00
+CC  version: 
+CC  name: M00269_2.00
+CC  description: gvtaatkrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 137
+XX
+//
+AC  M00278_2.00
+XX
+ID  M00278_2.00
+XX
+DE  vsstary 
+P0       A     C     G     T
+1    25.1602 27.2558 26.9846 20.5995
+2    23.375 28.5503 28.5503 19.5244
+3    20.6107 30.4415 25.9406 23.0072
+4    19.5897 22.9888 16.3627 41.0588
+5    44.0753 19.8043 16.7082 19.4122
+6    62.1313 6.88434 25.5146 5.46984
+7    4.03188 26.9567 1.36921 67.6422
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 138
+CC  accession: M00278_2.00
+CC  AC: M00278_2.00
+CC  id: M00278_2.00
+CC  name: M00278_2.00
+CC  version: 
+CC  name: M00278_2.00
+CC  description: vsstary 
+CC  transfac_consensus: 
+CC  matrix.nb: 138
+XX
+//
+AC  M00279_2.00
+XX
+ID  M00279_2.00
+XX
+DE  cataattactr 
+P0       A     C     G     T
+1    22.3856 32.8432 22.3856 22.3856
+2    42.7888 22.0426 22.7696 12.399
+3    4.94535 14.5889 4.94535 75.5204
+4    80.6574 0.025827 0.025827 19.2909
+5    90.3671 0.025827 0.025827 9.58129
+6    9.58129 0.025827 0.025827 90.3671
+7    0.025827 9.46714 0.025827 90.4812
+8    69.5327 0.025827 20.9743 9.46714
+9    22.6654 62.4106 2.64023 12.2838
+10   12.6268 12.6268 12.6268 62.1196
+11   29.9043 20.0805 29.9348 20.0805
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 139
+CC  accession: M00279_2.00
+CC  AC: M00279_2.00
+CC  id: M00279_2.00
+CC  name: M00279_2.00
+CC  version: 
+CC  name: M00279_2.00
+CC  description: cataattactr 
+CC  transfac_consensus: 
+CC  matrix.nb: 139
+XX
+//
+AC  M00280_2.00
+XX
+ID  M00280_2.00
+XX
+DE  atmcataawtrmt 
+P0       A     C     G     T
+1    32.3377 22.5541 22.5541 22.5541
+2    20.1926 20.1926 20.1926 39.4223
+3    37.0001 27.4592 17.7704 17.7704
+4    17.334 57.2073 7.98788 17.4709
+5    80.1849 2.70707 14.401 2.70707
+6    0.0281144 0.0281144 0.0281144 99.9157
+7    80.9865 9.47429 0.0281144 9.51112
+8    71.0972 9.3742 0.0281144 19.5005
+9    30.9919 2.474 2.474 64.0601
+10   15.4395 4.83554 4.83554 74.8894
+11   48.4966 7.25774 26.384 17.8617
+12   27.7561 38.1635 17.0402 17.0402
+13   22.321 22.321 22.321 33.0369
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 140
+CC  accession: M00280_2.00
+CC  AC: M00280_2.00
+CC  id: M00280_2.00
+CC  name: M00280_2.00
+CC  version: 
+CC  name: M00280_2.00
+CC  description: atmcataawtrmt 
+CC  transfac_consensus: 
+CC  matrix.nb: 140
+XX
+//
+AC  M00281_2.00
+XX
+ID  M00281_2.00
+XX
+DE  sssssyyary 
+P0       A     C     G     T
+1    24.052 26.3171 26.0552 23.5757
+2    23.7489 27.046 25.2175 23.9876
+3    23.6955 26.7166 25.4136 24.1742
+4    24.7906 26.5881 25.0397 23.5815
+5    24.4511 26.7537 26.224 22.5712
+6    21.6335 28.0572 24.149 26.1603
+7    21.2337 26.1955 19.6011 32.9697
+8    37.0494 20.1308 18.9585 23.8612
+9    55.8957 7.56465 27.2073 9.33235
+10   2.75168 29.7316 9.41412 58.1026
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 141
+CC  accession: M00281_2.00
+CC  AC: M00281_2.00
+CC  id: M00281_2.00
+CC  name: M00281_2.00
+CC  version: 
+CC  name: M00281_2.00
+CC  description: sssssyyary 
+CC  transfac_consensus: 
+CC  matrix.nb: 141
+XX
+//
+AC  M00282_2.00
+XX
+ID  M00282_2.00
+XX
+DE  taattrgt 
+P0       A     C     G     T
+1    0.0302663 9.11017 0.0302663 90.8293
+2    97.2192 0.0269978 2.72678 0.0269978
+3    99.919 0.0269978 0.0269978 0.0269978
+4    0.0269978 0.0269978 0.0269978 99.919
+5    0.0269978 0.0269978 0.0269978 99.919
+6    74.2295 0.0285388 25.7135 0.0285388
+7    14.301 10.7347 64.2297 10.7347
+8    10.5567 21.0609 10.5567 57.8256
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 142
+CC  accession: M00282_2.00
+CC  AC: M00282_2.00
+CC  id: M00282_2.00
+CC  name: M00282_2.00
+CC  version: 
+CC  name: M00282_2.00
+CC  description: taattrgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 142
+XX
+//
+AC  M00285_2.00
+XX
+ID  M00285_2.00
+XX
+DE  watwtattwwaa 
+P0       A     C     G     T
+1    37.242 17.5002 17.5002 27.7576
+2    50.069 9.9234 20.1808 19.8268
+3    13.0196 12.3382 2.43477 72.2075
+4    62.7412 2.43477 2.43477 32.3893
+5    20.2957 0.0323536 0.0323536 79.6396
+6    80.3083 0.0323536 19.627 0.0323536
+7    19.7496 10.2897 0.0323536 69.9283
+8    10.2897 0.0323536 0.0323536 89.6456
+9    27.6729 17.346 7.53215 47.449
+10   25.5585 24.7186 15.109 34.6139
+11   32.2072 22.5976 22.5976 22.5976
+12   32.2072 22.5976 22.5976 22.5976
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 143
+CC  accession: M00285_2.00
+CC  AC: M00285_2.00
+CC  id: M00285_2.00
+CC  name: M00285_2.00
+CC  version: 
+CC  name: M00285_2.00
+CC  description: watwtattwwaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 143
+XX
+//
+AC  M00286_2.00
+XX
+ID  M00286_2.00
+XX
+DE  taattar 
+P0       A     C     G     T
+1    13.2809 24.9364 10.0375 51.7451
+2    58.1989 11.8682 24.3825 5.55038
+3    56.9866 6.97838 13.7745 22.2606
+4    11.4171 12.368 14.956 61.259
+5    22.8759 1.25871 16.1204 59.745
+6    46.661 12.8444 20.551 19.9436
+7    31.6856 14.9672 28.6703 24.6768
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 144
+CC  accession: M00286_2.00
+CC  AC: M00286_2.00
+CC  id: M00286_2.00
+CC  name: M00286_2.00
+CC  version: 
+CC  name: M00286_2.00
+CC  description: taattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 144
+XX
+//
+AC  M00287_2.00
+XX
+ID  M00287_2.00
+XX
+DE  vttaattagy 
+P0       A     C     G     T
+1    27.6533 27.4138 27.2562 17.6767
+2    9.65693 20.0738 9.65693 60.6124
+3    0.00390325 0.00390325 0.00390325 99.9883
+4    99.9883 0.00390325 0.00390325     0
+5    99.9883 0.00390325 0.00390325     0
+6    0.00390325 0.00390325 0.00390325 99.9883
+7    0.00390325 0.00390325 0.00390325 99.9883
+8    99.9883 0.00390325 0.00390325     0
+9    18.7323 7.32718 66.6133 7.32718
+10   24.8701 25.0739 24.7869 25.269
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 145
+CC  accession: M00287_2.00
+CC  AC: M00287_2.00
+CC  id: M00287_2.00
+CC  name: M00287_2.00
+CC  version: 
+CC  name: M00287_2.00
+CC  description: vttaattagy 
+CC  transfac_consensus: 
+CC  matrix.nb: 145
+XX
+//
+AC  M00288_2.00
+XX
+ID  M00288_2.00
+XX
+DE  mtaattrs 
+P0       A     C     G     T
+1    25.5772 27.4317 23.1432 23.848
+2    8.24594 11.3557 1.37674 79.0216
+3    80.9723 3.75883 12.9891 2.27984
+4    93.0139 1.45172 1.9992 3.53513
+5    7.34703 7.49545 8.11972 77.0378
+6    16.2134 16.0521 19.0266 48.7078
+7    28.7872 12.4277 38.0892 20.6958
+8    20.6576 25.7409 35.0958 18.5057
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 146
+CC  accession: M00288_2.00
+CC  AC: M00288_2.00
+CC  id: M00288_2.00
+CC  name: M00288_2.00
+CC  version: 
+CC  name: M00288_2.00
+CC  description: mtaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 146
+XX
+//
+AC  M00289_2.00
+XX
+ID  M00289_2.00
+XX
+DE  taattrrw 
+P0       A     C     G     T
+1    14.748 12.0746 9.035 64.1424
+2    62.3327 8.26877 14.3319 15.0667
+3    75.3107 6.12037 6.24401 12.3249
+4    10.2818 6.05192 7.6935 75.9728
+5    16.1295 8.59042 12.4366 62.8435
+6    30.4023 8.53793 45.8107 15.2491
+7    27.816 21.0229 31.3625 19.7986
+8    25.5912 24.3431 20.333 29.7327
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 147
+CC  accession: M00289_2.00
+CC  AC: M00289_2.00
+CC  id: M00289_2.00
+CC  name: M00289_2.00
+CC  version: 
+CC  name: M00289_2.00
+CC  description: taattrrw 
+CC  transfac_consensus: 
+CC  matrix.nb: 147
+XX
+//
+AC  M00290_2.00
+XX
+ID  M00290_2.00
+XX
+DE  taattrsy 
+P0       A     C     G     T
+1    15.7555 12.7712 6.93924 64.534
+2    63.2466 7.66789 14.6882 14.3973
+3    88.6949 0.568475 5.5025 5.23414
+4    6.89595 6.0553 11.0335 76.0153
+5    14.3566 12.6064 15.3975 57.6395
+6    31.5323 8.50804 44.3012 15.6585
+7    23.6009 26.083 30.0026 20.3135
+8    24.0835 26.3516 22.681 26.8839
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 148
+CC  accession: M00290_2.00
+CC  AC: M00290_2.00
+CC  id: M00290_2.00
+CC  name: M00290_2.00
+CC  version: 
+CC  name: M00290_2.00
+CC  description: taattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 148
+XX
+//
+AC  M00292_2.00
+XX
+ID  M00292_2.00
+XX
+DE  gctaattrr 
+P0       A     C     G     T
+1    23.0696 24.4962 33.7343 18.6999
+2    24.2905 28.5052 22.423 24.7812
+3    11.567 7.75361 0.988228 79.6911
+4    74.4984 5.3163 14.5964 5.58887
+5    94.1546 0.0132327 2.989 2.84322
+6    7.28257 8.80645 10.5432 73.3677
+7    15.413 16.6967 16.2032 51.6872
+8    37.2527 9.85249 38.773 14.1219
+9    27.8418 21.6832 35.0416 15.4334
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 149
+CC  accession: M00292_2.00
+CC  AC: M00292_2.00
+CC  id: M00292_2.00
+CC  name: M00292_2.00
+CC  version: 
+CC  name: M00292_2.00
+CC  description: gctaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 149
+XX
+//
+AC  M00306_2.00
+XX
+ID  M00306_2.00
+XX
+DE  taattrry 
+P0       A     C     G     T
+1    16.984 12.0887 9.22825 61.6991
+2    60.0491 9.44195 19.2049 11.3041
+3    79.0723 1.61666 7.24537 12.0657
+4    6.66039 6.66039 11.7774 74.9019
+5    16.6616 11.7412 16.8291 54.7681
+6    35.098 7.7535 44.6183 12.5302
+7    26.9759 21.0088 34.9858 17.0294
+8    21.7154 29.0211 23.524 25.7394
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 150
+CC  accession: M00306_2.00
+CC  AC: M00306_2.00
+CC  id: M00306_2.00
+CC  name: M00306_2.00
+CC  version: 
+CC  name: M00306_2.00
+CC  description: taattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 150
+XX
+//
+AC  M00307_2.00
+XX
+ID  M00307_2.00
+XX
+DE  taattrry 
+P0       A     C     G     T
+1    14.1018 9.45272 5.18776 71.2577
+2    70.0355 5.865 16.103 7.99649
+3    89.9664 0.12117 4.21832 5.69413
+4    3.58942 3.28048 7.67516 85.4549
+5    11.7264 8.77446 13.3544 66.1447
+6    36.742 5.12393 47.1777 10.9564
+7    27.6175 20.6652 35.4616 16.2558
+8    20.9883 28.616 22.0644 28.3313
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 151
+CC  accession: M00307_2.00
+CC  AC: M00307_2.00
+CC  id: M00307_2.00
+CC  name: M00307_2.00
+CC  version: 
+CC  name: M00307_2.00
+CC  description: taattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 151
+XX
+//
+AC  M00308_2.00
+XX
+ID  M00308_2.00
+XX
+DE  yatatatar 
+P0       A     C     G     T
+1    14.4198 34.7792 14.4198 36.3812
+2    90.4175 0.0281994 9.52605 0.0281994
+3    9.52605 18.3564 0.0281994 72.0893
+4    99.9154 0.0281994 0.0281994 0.0281994
+5    19.4162 19.8662 0.0281994 60.6894
+6    99.9154 0.0281994 0.0281994 0.0281994
+7    9.52605 9.46571 0.0281994 80.98
+8    61.2864 9.19273 20.1259 9.39492
+9    29.1397 20.6297 29.2821 20.9486
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 152
+CC  accession: M00308_2.00
+CC  AC: M00308_2.00
+CC  id: M00308_2.00
+CC  name: M00308_2.00
+CC  version: 
+CC  name: M00308_2.00
+CC  description: yatatatar 
+CC  transfac_consensus: 
+CC  matrix.nb: 152
+XX
+//
+AC  M00309_2.00
+XX
+ID  M00309_2.00
+XX
+DE  ytaattrgy 
+P0       A     C     G     T
+1    19.7779 30.3944 10.0202 39.8075
+2    0.00899885 0.00899885 0.00899885 99.973
+3    99.973 0.00899885 0.00899885     0
+4    99.973 0.00899885 0.00899885     0
+5    0.00899885 0.00899885 0.00899885 99.973
+6    0.00899885 0.00899885 0.00899885 99.973
+7    50.5959 0.00899885 49.3861     0
+8    10.4421 0.00899885 89.5399     0
+9    14.9888 34.7965 14.9888 35.2259
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 153
+CC  accession: M00309_2.00
+CC  AC: M00309_2.00
+CC  id: M00309_2.00
+CC  name: M00309_2.00
+CC  version: 
+CC  name: M00309_2.00
+CC  description: ytaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 153
+XX
+//
+AC  M00315_2.00
+XX
+ID  M00315_2.00
+XX
+DE  gyyaattr 
+P0       A     C     G     T
+1    23.9432 24.6724 28.38 23.0044
+2    18.5779 31.5627 21.5845 28.2749
+3    19.7006 26.3285 9.6857 44.2852
+4    52.6405 13.6465 16.0144 17.6986
+5    86.1787 5.40013 8.38482 0.0363858
+6    1.73046 20.0532 6.80997 71.4064
+7    23.7394 21.2665 17.7633 37.2308
+8    29.1296 21.365 27.7089 21.7966
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 154
+CC  accession: M00315_2.00
+CC  AC: M00315_2.00
+CC  id: M00315_2.00
+CC  name: M00315_2.00
+CC  version: 
+CC  name: M00315_2.00
+CC  description: gyyaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 154
+XX
+//
+AC  M00316_2.00
+XX
+ID  M00316_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    21.7752 2.42664 18.5505 57.2477
+2    4.49244 12.1828 0.00640861 83.3184
+3    96.5551 0.00571298 2.2909 1.14831
+4    97.7237 0.570493 1.13534 0.570493
+5    0.570493 0.570493 0.00564844 98.8534
+6    2.92914 2.92914 1.17516 92.9666
+7    65.6123 0.788816 25.781 7.81787
+8    4.50359 13.4883 64.0274 17.9807
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 155
+CC  accession: M00316_2.00
+CC  AC: M00316_2.00
+CC  id: M00316_2.00
+CC  name: M00316_2.00
+CC  version: 
+CC  name: M00316_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 155
+XX
+//
+AC  M00317_2.00
+XX
+ID  M00317_2.00
+XX
+DE  taattrratt 
+P0       A     C     G     T
+1    15.7801 16.7558 5.98195 61.4822
+2    65.5185 6.24845 14.0459 14.1871
+3    90.8582 2.6361 3.81637 2.68935
+4    7.02587 19.2902 7.68753 65.9964
+5    17.9443 21.2695 19.6342 41.152
+6    31.3165 18.068 29.1993 21.4161
+7    26.8057 20.2593 34.4193 18.5156
+8    31.5986 23.6441 24.6091 20.1482
+9    17.7958 19.4717 18.522 44.2105
+10   23.4421 23.6777 18.2567 34.6235
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 156
+CC  accession: M00317_2.00
+CC  AC: M00317_2.00
+CC  id: M00317_2.00
+CC  name: M00317_2.00
+CC  version: 
+CC  name: M00317_2.00
+CC  description: taattrratt 
+CC  transfac_consensus: 
+CC  matrix.nb: 156
+XX
+//
+AC  M00318_2.00
+XX
+ID  M00318_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    16.9141 3.68274 17.6492 61.7539
+2    5.26777 11.1144 0.00584659 83.612
+3    94.1653 2.12124 2.12124 1.59226
+4    98.3972 0.534278 1.06327     0
+5    0.534278 0.00528989 0.00528989 99.4551
+6    4.32879 2.70752 4.86922 88.0945
+7    66.422 1.4052 24.4757 7.69715
+8    6.86985 13.7299 61.7503 17.6499
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 157
+CC  accession: M00318_2.00
+CC  AC: M00318_2.00
+CC  id: M00318_2.00
+CC  name: M00318_2.00
+CC  version: 
+CC  name: M00318_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 157
+XX
+//
+AC  M00319_2.00
+XX
+ID  M00319_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    18.8828 4.20162 18.8828 58.0327
+2    4.9768 10.5004 0.00552364 84.5172
+3    94.4304 2.02484 2.02484 1.51989
+4    98.975 0.509998 0.00504948 0.509998
+5    0.509998 0.00504948 0.00504948 99.4799
+6    3.65028 2.08811 4.69173 89.5699
+7    64.8166 2.76475 23.4487 8.96994
+8    5.77662 13.466 62.4856 18.2718
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 158
+CC  accession: M00319_2.00
+CC  AC: M00319_2.00
+CC  id: M00319_2.00
+CC  name: M00319_2.00
+CC  version: 
+CC  name: M00319_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 158
+XX
+//
+AC  M00374_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1    25.7435 21.9372 23.2937 29.0257
+2    4.52099 92.6409 1.48993 1.34815
+3    87.9634 5.45712 2.65626 3.92325
+4    0.0140754 88.8258 1.798 9.36217
+5    4.43479 3.59477 91.7879 0.182589
+6    0.102248 0.0200333 1.41856 98.4592
+7    0.00631861 0.0833875 99.0618 0.848524
+8    67.1023 15.8984 4.74086 12.2585
+9    8.40857 55.1056 3.06256 33.4232
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 159
+CC  accession: M00374_2.00
+CC  AC: M00374_2.00
+CC  id: M00374_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 159
+XX
+//
+AC  M00378_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    22.1524 6.60578 65.8873 5.35454
+2    2.60544 1.33323 87.1475 8.91381
+3    46.979 2.29263 50.3854 0.342906
+4    2.97904 1.09593 8.42835 87.4967
+5    0.415176 0.487214 96.6357 2.46194
+6    0.803614 9.31256 35.2112 54.6727
+7    79.8636 6.11241 9.11864 4.90532
+8    8.54984 50.6993 5.73113 35.0197
+9    6.83219 6.76421 78.386 8.01765
+10   3.30805 10.1387 74.1699 12.3834
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 160
+CC  accession: M00378_2.00
+CC  AC: M00378_2.00
+CC  id: M00378_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 160
+XX
+//
+AC  M00400_2.00
+XX
+ID  M00400_2.00
+XX
+DE  sytaattr 
+P0       A     C     G     T
+1    24.3151 25.5618 29.4031 20.72
+2    20.4295 33.0156 20.8422 25.7126
+3    20.7505 17.1598 11.0516 51.0381
+4    66.2568 7.26842 14.4912 11.9836
+5    98.1458 0.67466 0.857661 0.32189
+6    12.482 16.1883 8.88434 62.4453
+7    19.3139 20.3041 20.3041 40.0779
+8    31.1134 19.2525 29.596 20.0382
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 161
+CC  accession: M00400_2.00
+CC  AC: M00400_2.00
+CC  id: M00400_2.00
+CC  name: M00400_2.00
+CC  version: 
+CC  name: M00400_2.00
+CC  description: sytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 161
+XX
+//
+AC  M00401_2.00
+XX
+ID  M00401_2.00
+XX
+DE  sytaattr 
+P0       A     C     G     T
+1    23.9075 25.8987 29.2007 20.9931
+2    19.3409 33.8596 20.9518 25.8477
+3    19.6306 19.0504 10.5601 50.7589
+4    64.9964 7.95923 13.5222 13.5222
+5    92.7406 5.58345 0.0601933 1.61576
+6    13.1551 18.1162 7.36552 61.3631
+7    18.7274 21.5416 20.0852 39.6458
+8    31.5394 20.1104 27.419 20.9311
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 162
+CC  accession: M00401_2.00
+CC  AC: M00401_2.00
+CC  id: M00401_2.00
+CC  name: M00401_2.00
+CC  version: 
+CC  name: M00401_2.00
+CC  description: sytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 162
+XX
+//
+AC  M00402_2.00
+XX
+ID  M00402_2.00
+XX
+DE  taattrr 
+P0       A     C     G     T
+1    14.4397 12.0611 11.9411 61.5582
+2    64.421 10.7557 13.4025 11.4208
+3    73.3858 2.23833 9.26024 15.1156
+4    8.05425 10.4458 11.6604 69.8395
+5    17.0686 15.7563 17.4135 49.7616
+6    37.5164 12.4881 30.4102 19.5853
+7    31.3095 17.5301 32.9148 18.2456
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 163
+CC  accession: M00402_2.00
+CC  AC: M00402_2.00
+CC  id: M00402_2.00
+CC  name: M00402_2.00
+CC  version: 
+CC  name: M00402_2.00
+CC  description: taattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 163
+XX
+//
+AC  M00414_2.00
+XX
+ID  M00414_2.00
+XX
+DE  taattrsy 
+P0       A     C     G     T
+1    16.2992 13.8893 9.40383 60.4077
+2    63.8831 7.8229 15.1357 13.1583
+3    87.3581 0.286509 4.66466 7.69073
+4    3.99564 6.52215 10.0262 79.456
+5    11.6668 11.5507 13.5548 63.2277
+6    33.0056 6.46677 48.2635 12.2641
+7    21.1492 26.3535 33.1685 19.3289
+8    21.6841 27.5659 22.3445 28.4054
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 164
+CC  accession: M00414_2.00
+CC  AC: M00414_2.00
+CC  id: M00414_2.00
+CC  name: M00414_2.00
+CC  version: 
+CC  name: M00414_2.00
+CC  description: taattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 164
+XX
+//
+AC  M00417_2.00
+XX
+ID  M00417_2.00
+XX
+DE  rytaattr 
+P0       A     C     G     T
+1    28.1218 21.6834 30.7701 19.4247
+2    12.9122 37.644 12.9122 36.5315
+3    16.5282 18.4501 4.9782 60.0435
+4    68.951 11.0607 9.14672 10.8417
+5    92.5332 4.25276 2.85071 0.363334
+6    10.367 10.6828 8.23697 70.7132
+7    15.5855 15.5855 18.1078 50.7211
+8    47.9837 10.3902 25.8126 15.8135
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 165
+CC  accession: M00417_2.00
+CC  AC: M00417_2.00
+CC  id: M00417_2.00
+CC  name: M00417_2.00
+CC  version: 
+CC  name: M00417_2.00
+CC  description: rytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 165
+XX
+//
+AC  M00426_2.00
+XX
+ID  M00426_2.00
+XX
+DE  rytaattrr 
+P0       A     C     G     T
+1    26.986 24.418 31.0413 17.5547
+2    22.2956 32.2782 18.9991 26.4271
+3    9.57701 4.66163 1.04015 84.7212
+4    79.9391 5.6478 9.78906 4.62402
+5    96.7307 0.0597211 2.20765 1.00193
+6    3.97132 4.89933 5.5795 85.5498
+7    11.2128 10.4548 13.1584 65.174
+8    37.7268 9.7803 40.0597 12.4332
+9    27.4391 20.738 36.3054 15.5175
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 166
+CC  accession: M00426_2.00
+CC  AC: M00426_2.00
+CC  id: M00426_2.00
+CC  name: M00426_2.00
+CC  version: 
+CC  name: M00426_2.00
+CC  description: rytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 166
+XX
+//
+AC  M00429_2.00
+XX
+ID  M00429_2.00
+XX
+DE  taattrsy 
+P0       A     C     G     T
+1    14.0569 12.5927 7.12149 66.2289
+2    65.8857 7.37372 13.1697 13.5708
+3    88.9545 0.0631732 5.46369 5.51861
+4    4.70896 4.13492 8.93046 82.2257
+5    12.2003 12.4468 14.3172 61.0358
+6    31.8933 7.26011 44.3625 16.4841
+7    23.435 25.3868 31.0075 20.1707
+8    22.9553 26.6702 22.0552 28.3194
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 167
+CC  accession: M00429_2.00
+CC  AC: M00429_2.00
+CC  id: M00429_2.00
+CC  name: M00429_2.00
+CC  version: 
+CC  name: M00429_2.00
+CC  description: taattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 167
+XX
+//
+AC  M00431_2.00
+XX
+ID  M00431_2.00
+XX
+DE  taattrry 
+P0       A     C     G     T
+1    9.74094 11.3174 3.27506 75.6666
+2    78.9979 4.17628 11.0168 5.80907
+3    96.1786 0.0398038 1.81522 1.9664
+4    1.58666 5.32086 3.82529 89.2672
+5    10.9607 10.4261 11.6385 66.9747
+6    46.6764 8.61272 31.6026 13.1082
+7    31.1503 14.8622 40.8058 13.1816
+8    20.5307 30.936 21.3686 27.1648
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 168
+CC  accession: M00431_2.00
+CC  AC: M00431_2.00
+CC  id: M00431_2.00
+CC  name: M00431_2.00
+CC  version: 
+CC  name: M00431_2.00
+CC  description: taattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 168
+XX
+//
+AC  M00439_2.00
+XX
+ID  M00439_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    22.2888 28.0526 20.1677 29.4909
+2    13.5819 5.69017 1.78379 78.9441
+3    74.9166 6.6617 11.2052 7.21654
+4    95.0512 0.0309437 2.39747 2.52039
+5    3.32536 6.12009 7.32708 83.2275
+6    17.0087 11.0643 16.0182 55.9089
+7    34.5558 10.408 39.3532 15.683
+8    27.4902 20.9855 32.9118 18.6125
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 169
+CC  accession: M00439_2.00
+CC  AC: M00439_2.00
+CC  id: M00439_2.00
+CC  name: M00439_2.00
+CC  version: 
+CC  name: M00439_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 169
+XX
+//
+AC  M00443_2.00
+XX
+ID  M00443_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    20.5661 30.0734 18.9849 30.3757
+2    12.5034 7.58371 3.51136 76.4015
+3    75.2473 6.82628 11.3678 6.55862
+4    94.7059 0.056743 2.07669 3.16065
+5    5.26812 7.85911 6.90105 79.9717
+6    16.2578 13.4445 15.7773 54.5203
+7    35.2715 12.4669 34.9206 17.341
+8    31.4813 20.0734 31.168 17.2773
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 170
+CC  accession: M00443_2.00
+CC  AC: M00443_2.00
+CC  id: M00443_2.00
+CC  name: M00443_2.00
+CC  version: 
+CC  name: M00443_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 170
+XX
+//
+AC  M00448_2.00
+XX
+ID  M00448_2.00
+XX
+DE  ttaattrgy 
+P0       A     C     G     T
+1    22.7294 22.9578 16.8383 37.4744
+2    20.7877 18.2535 8.79655 52.1623
+3    53.524 7.76891 22.424 16.2831
+4    85.7016 0.0254987 3.45862 10.8143
+5    4.77391 15.2285 15.0769 64.9207
+6    14.9851 12.2688 21.4786 51.2675
+7    38.0732 8.58065 44.6793 8.66689
+8    22.976 21.638 37.1309 18.2552
+9    19.4452 30.4961 23.2801 26.7785
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 171
+CC  accession: M00448_2.00
+CC  AC: M00448_2.00
+CC  id: M00448_2.00
+CC  name: M00448_2.00
+CC  version: 
+CC  name: M00448_2.00
+CC  description: ttaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 171
+XX
+//
+AC  M00452_2.00
+XX
+ID  M00452_2.00
+XX
+DE  sytaattr 
+P0       A     C     G     T
+1    23.9091 26.4236 29.4961 20.1712
+2    17.6161 34.0836 20.6727 27.6276
+3    18.8476 16.2223 7.73987 57.1903
+4    60.3927 9.30794 16.133 14.1663
+5    89.0758 0.056106 5.86785 5.00025
+6    7.64571 10.6349 8.44982 73.2695
+7    19.2939 15.4837 20.0813 45.141
+8    31.5354 15.1972 36.639 16.6284
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 172
+CC  accession: M00452_2.00
+CC  AC: M00452_2.00
+CC  id: M00452_2.00
+CC  name: M00452_2.00
+CC  version: 
+CC  name: M00452_2.00
+CC  description: sytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 172
+XX
+//
+AC  M00459_2.00
+XX
+ID  M00459_2.00
+XX
+DE  rhtaattrr 
+P0       A     C     G     T
+1    25.5301 21.7553 31.8124 20.9022
+2    27.3531 25.5039 20.0621 27.0809
+3    13.4738 7.93073 6.30123 72.2943
+4    78.3515 7.69988 10.0866 3.86208
+5    93.0683 0.0125672 3.71855 3.20059
+6    8.36452 9.71819 12.2313 69.686
+7    17.4239 10.2558 19.4499 52.8704
+8    40.2237 8.7974 36.7617 14.2172
+9    29.7822 19.9636 33.5793 16.675
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 173
+CC  accession: M00459_2.00
+CC  AC: M00459_2.00
+CC  id: M00459_2.00
+CC  name: M00459_2.00
+CC  version: 
+CC  name: M00459_2.00
+CC  description: rhtaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 173
+XX
+//
+AC  M00462_2.00
+XX
+ID  M00462_2.00
+XX
+DE  staattr 
+P0       A     C     G     T
+1    19.8929 32.7978 25.543 21.7663
+2    22.0805 12.6126 13.1273 52.1797
+3    50.9991 11.8438 18.207 18.9501
+4    70.6385 3.88676 10.7787 14.696
+5    16.9953 13.9146 12.0967 56.9934
+6    14.3686 23.4541 19.0115 43.1657
+7    32.4622 12.5544 39.6494 15.334
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 174
+CC  accession: M00462_2.00
+CC  AC: M00462_2.00
+CC  id: M00462_2.00
+CC  name: M00462_2.00
+CC  version: 
+CC  name: M00462_2.00
+CC  description: staattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 174
+XX
+//
+AC  M00467_2.00
+XX
+ID  M00467_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    21.6987 31.4139 14.8389 32.0485
+2    7.81626 2.65437 0.74543 88.7839
+3    85.3506 4.42278 6.53236 3.69421
+4    97.8482 0.0211401 0.855061 1.2756
+5    0.2825 2.68029 2.78967 94.2475
+6    10.4556 9.0897 9.84676 70.6079
+7    39.1058 9.45243 37.1986 14.2431
+8    29.7757 19.3694 37.4758 13.3791
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 175
+CC  accession: M00467_2.00
+CC  AC: M00467_2.00
+CC  id: M00467_2.00
+CC  name: M00467_2.00
+CC  version: 
+CC  name: M00467_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 175
+XX
+//
+AC  M00471_2.00
+XX
+ID  M00471_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    24.4872 26.0014 14.4133 35.0982
+2    7.7444 3.47978 0.808132 87.9677
+3    86.7505 3.50096 6.06805 3.68046
+4    98.2723 0.0588798 0.958623 0.710165
+5    1.63188 3.12593 2.50861 92.7336
+6    9.26645 8.38463 9.64462 72.7043
+7    38.8672 9.58453 38.4805 13.0678
+8    28.9713 19.8123 36.8297 14.3867
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 176
+CC  accession: M00471_2.00
+CC  AC: M00471_2.00
+CC  id: M00471_2.00
+CC  name: M00471_2.00
+CC  version: 
+CC  name: M00471_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 176
+XX
+//
+AC  M00472_2.00
+XX
+ID  M00472_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    24.2841 26.3067 18.538 30.8712
+2    14.8309 2.50106 8.47157 74.1964
+3    72.0695 6.80482 13.2982 7.82741
+4    90.1099 0.063357 3.70999 6.11674
+5    5.42501 5.26468 10.1861 79.1243
+6    15.5226 11.2717 16.8154 56.3903
+7    35.2662 12.0966 35.9786 16.6586
+8    29.8979 20.6515 33.0423 16.4083
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 177
+CC  accession: M00472_2.00
+CC  AC: M00472_2.00
+CC  id: M00472_2.00
+CC  name: M00472_2.00
+CC  version: 
+CC  name: M00472_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 177
+XX
+//
+AC  M00484_2.00
+XX
+ID  M00484_2.00
+XX
+DE  vyyaatta 
+P0       A     C     G     T
+1    26.0569 25.541 28.5108 19.8913
+2    17.7845 32.083 23.0652 27.0673
+3    11.4497 40.3649 4.89376 43.2917
+4    58.0843 15.2091 10.7177 15.9889
+5    79.0662 11.1371 5.31368 4.48297
+6    12.1087 10.4221 1.22621 76.243
+7    13.6206 24.8183 12.0804 49.4807
+8    50.9367 13.0735 16.2905 19.6993
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 178
+CC  accession: M00484_2.00
+CC  AC: M00484_2.00
+CC  id: M00484_2.00
+CC  name: M00484_2.00
+CC  version: 
+CC  name: M00484_2.00
+CC  description: vyyaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 178
+XX
+//
+AC  M00486_2.00
+XX
+ID  M00486_2.00
+XX
+DE  taattrr 
+P0       A     C     G     T
+1    15.3626 12.4527 11.7275 60.4572
+2    59.3609 9.42754 18.9847 12.2269
+3    70.4175 3.0785 9.8202 16.6839
+4    8.47087 13.8271 11.9011 65.8009
+5    15.8625 15.5484 18.9908 49.5983
+6    36.2402 12.6818 34.1297 16.9483
+7    27.4738 19.555 35.2771 17.6941
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 179
+CC  accession: M00486_2.00
+CC  AC: M00486_2.00
+CC  id: M00486_2.00
+CC  name: M00486_2.00
+CC  version: 
+CC  name: M00486_2.00
+CC  description: taattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 179
+XX
+//
+AC  M00487_2.00
+XX
+ID  M00487_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    24.558 26.6033 17.3057 31.533
+2     11.9 4.24839 2.68194 81.1696
+3    77.5973 7.03947 9.98948 5.37378
+4    95.2272 0.0511121 1.98628 2.73537
+5    3.91238 6.38625 6.25979 83.4416
+6    14.0547 10.6223 14.1959 61.1271
+7    35.5145 11.1333 37.7106 15.6417
+8    28.8606 20.9571 33.5312 16.6511
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 180
+CC  accession: M00487_2.00
+CC  AC: M00487_2.00
+CC  id: M00487_2.00
+CC  name: M00487_2.00
+CC  version: 
+CC  name: M00487_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 180
+XX
+//
+AC  M00498_2.00
+XX
+ID  M00498_2.00
+XX
+DE  taattrr 
+P0       A     C     G     T
+1    17.595 14.5503 19.0604 48.7943
+2    58.2759 7.6537 22.5377 11.5327
+3    70.5838 0.0115254 16.8913 12.5134
+4    12.8923 5.2416 16.7204 65.1458
+5    20.6964 8.41454 20.4905 50.3985
+6    45.811 5.38989 32.6069 16.1921
+7    33.7329 15.7757 34.0719 16.4195
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 181
+CC  accession: M00498_2.00
+CC  AC: M00498_2.00
+CC  id: M00498_2.00
+CC  name: M00498_2.00
+CC  version: 
+CC  name: M00498_2.00
+CC  description: taattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 181
+XX
+//
+AC  M00501_2.00
+XX
+ID  M00501_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    22.6066 28.1695 22.1589 27.065
+2    14.6677 14.8151 6.72377 63.7934
+3    61.8779 5.61344 14.9568 17.5519
+4    87.7477 0.0255905 5.83845 6.38828
+5    11.3953 1.06524 6.64058 80.8989
+6    15.5387 13.6445 14.9295 55.8873
+7    31.2201 8.68034 41.7233 18.3763
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 182
+CC  accession: M00501_2.00
+CC  AC: M00501_2.00
+CC  id: M00501_2.00
+CC  name: M00501_2.00
+CC  version: 
+CC  name: M00501_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 182
+XX
+//
+AC  M00519_2.00
+XX
+ID  M00519_2.00
+XX
+DE  trattrs 
+P0       A     C     G     T
+1    19.8153 19.6181 9.83997 50.7267
+2    40.7233 16.5569 26.4909 16.229
+3    53.8574 10.0376 11.6621 24.4429
+4    8.20312 12.8651 12.6103 66.3215
+5    20.7305 16.9727 14.7553 47.5416
+6    36.1814 16.0956 32.4125 15.3106
+7    24.465 25.7194 30.182 19.6336
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 183
+CC  accession: M00519_2.00
+CC  AC: M00519_2.00
+CC  id: M00519_2.00
+CC  name: M00519_2.00
+CC  version: 
+CC  name: M00519_2.00
+CC  description: trattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 183
+XX
+//
+AC  M00525_2.00
+XX
+ID  M00525_2.00
+XX
+DE  gytaattr 
+P0       A     C     G     T
+1    24.1487 24.3914 32.273 19.1869
+2    18.9717 33.8842 22.042 25.1021
+3    13.9342 12.4828 3.17196 70.411
+4    78.6338 5.5003 9.726 6.13986
+5    98.654 0.0493716 1.23568 0.0609086
+6    6.80107 6.86942 7.51635 78.8132
+7    12.9913 19.971 15.3986 51.6391
+8    40.105 7.62552 38.9197 13.3498
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 184
+CC  accession: M00525_2.00
+CC  AC: M00525_2.00
+CC  id: M00525_2.00
+CC  name: M00525_2.00
+CC  version: 
+CC  name: M00525_2.00
+CC  description: gytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 184
+XX
+//
+AC  M00555_2.00
+XX
+ID  M00555_2.00
+XX
+DE  taattrsy 
+P0       A     C     G     T
+1    10.2338 6.99847 3.27295 79.4948
+2    79.2313 4.58308 7.4066 8.77907
+3    95.1444 0.0213949 2.12845 2.70579
+4    3.46156 2.09954 5.16404 89.2749
+5    7.75888 6.81304 9.57196 75.8561
+6    35.0452 3.76835 50.7361 10.4504
+7    21.4873 27.3157 32.7028 18.4943
+8    21.1851 27.4755 20.9743 30.3652
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 185
+CC  accession: M00555_2.00
+CC  AC: M00555_2.00
+CC  id: M00555_2.00
+CC  name: M00555_2.00
+CC  version: 
+CC  name: M00555_2.00
+CC  description: taattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 185
+XX
+//
+AC  M00678_2.00
+XX
+ID  M00678_2.00
+XX
+DE  twwaktrct 
+P0       A     C     G     T
+1    18.7157 23.3212 20.2744 37.6887
+2    27.199 17.871 16.3329 38.5972
+3    38.7252 8.64077 16.8861 35.7479
+4    94.6425 0.0330447 5.25987 0.0645772
+5    7.38894 0.0139816 26.5753 66.0217
+6    18.6267 5.23096 23.4435 52.6989
+7    46.4641 1.59788 48.8464 3.09158
+8    18.6761 42.8302 14.9879 23.5057
+9    24.3701 24.615 24.615 26.3998
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 186
+CC  accession: M00678_2.00
+CC  AC: M00678_2.00
+CC  id: M00678_2.00
+CC  name: M00678_2.00
+CC  version: 
+CC  name: M00678_2.00
+CC  description: twwaktrct 
+CC  transfac_consensus: 
+CC  matrix.nb: 186
+XX
+//
+AC  M00684_2.00
+XX
+ID  M00684_2.00
+XX
+DE  cwwatawgg 
+P0       A     C     G     T
+1    3.36078 80.0117 1.26134 15.3662
+2    33.8473 23.3795 12.4517 30.3215
+3    33.4103 3.45169 5.80583 57.3322
+4    67.9324 6.47865 11.456 14.133
+5    15.3309 12.9342 7.02778 64.7071
+6    69.0491 3.72407 3.54245 23.6844
+7    39.6764 8.50587 15.1918 36.6259
+8    16.1616 1.99898 80.0487 1.79075
+9    0.00197909 0.00249088 99.9712 0.0243526
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 187
+CC  accession: M00684_2.00
+CC  AC: M00684_2.00
+CC  id: M00684_2.00
+CC  name: M00684_2.00
+CC  version: 
+CC  name: M00684_2.00
+CC  description: cwwatawgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 187
+XX
+//
+AC  M00710_2.00
+XX
+ID  M00710_2.00
+XX
+DE  wraacaatag 
+P0       A     C     G     T
+1    45.0923 14.8771 14.8771 25.1536
+2    29.8333 20.418 28.9058 20.8429
+3    89.6801 0.0144469 0.0144469 10.291
+4    91.0076 8.96351 0.0144469 0.0144469
+5    8.96351 80.731 0.0144469 10.291
+6    99.9567 0.0144469 0.0144469 0.0144469
+7    99.9567 0.0144469 0.0144469 0.0144469
+8    0.0144469 0.0144469 0.0144469 99.9567
+9    60.968 10.1374 10.1374 18.7572
+10   24.0264 23.7286 37.1677 15.0773
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 188
+CC  accession: M00710_2.00
+CC  AC: M00710_2.00
+CC  id: M00710_2.00
+CC  name: M00710_2.00
+CC  version: 
+CC  name: M00710_2.00
+CC  description: wraacaatag 
+CC  transfac_consensus: 
+CC  matrix.nb: 188
+XX
+//
+AC  M00711_2.00
+XX
+ID  M00711_2.00
+XX
+DE  atsaatgr 
+P0       A     C     G     T
+1    33.2931 20.1933 22.095 24.4187
+2    23.0872 10.7971 6.41909 59.6967
+3    15.7943 31.4893 38.8476 13.8689
+4    62.3919 7.34071 10.3133 19.9541
+5    63.8735 14.3953 13.8309 7.90033
+6    19.911 10.3945 6.17972 63.5148
+7    19.6117 12.3805 44.5283 23.4795
+8    33.92 12.7306 33.5825 19.7668
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 189
+CC  accession: M00711_2.00
+CC  AC: M00711_2.00
+CC  id: M00711_2.00
+CC  name: M00711_2.00
+CC  version: 
+CC  name: M00711_2.00
+CC  description: atsaatgr 
+CC  transfac_consensus: 
+CC  matrix.nb: 189
+XX
+//
+AC  M00750_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1       75 8.33333 8.33333 8.33333
+2       80 6.66667 6.66667 6.66667
+3    73.3333 6.66667 6.66667 13.3333
+4    26.6667 6.66667 6.66667    60
+5    73.3333 6.66667 6.66667 13.3333
+6    66.6667 6.66667 6.66667    20
+7    69.2308 7.69231 7.69231 15.3846
+8    16.6667 8.33333 8.33333 66.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 190
+CC  accession: M00750_2.00
+CC  AC: M00750_2.00
+CC  id: M00750_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 190
+XX
+//
+AC  M00751_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    23.7374 26.4976 26.4976 23.2674
+2    25.4916 27.8923 22.609 24.0071
+3    23.484 23.7201 30.4572 22.3387
+4    20.1961 28.6597 26.7221 24.4221
+5    60.1325 0.0225178 32.0261 7.81895
+6    46.6521 18.4067 0.0331311 34.908
+7    39.1854 7.01678 6.41286 47.3849
+8    43.512 8.35647 7.56125 40.5703
+9    37.6315 16.0843 16.0843  30.2
+10   30.3804 23.6603 16.1804 29.7789
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 191
+CC  accession: M00751_2.00
+CC  AC: M00751_2.00
+CC  id: M00751_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 191
+XX
+//
+AC  M00826_2.00
+XX
+ID  M00826_2.00
+XX
+DE  kwdawcaat 
+P0       A     C     G     T
+1    23.0159 21.0349 28.3942 27.555
+2    31.9141 20.3493 21.6076 26.129
+3    28.4237 18.3059 26.7684 26.5021
+4    44.9142 17.0262 18.0791 19.9805
+5    55.0439 5.09434 6.80822 33.0536
+6    5.56972 54.4534 21.4848 18.4921
+7    79.5184 6.93089 4.73977 8.81089
+8    73.9025 11.2768 11.3901 3.43064
+9    15.9169 12.2728 5.29828 66.512
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 192
+CC  accession: M00826_2.00
+CC  AC: M00826_2.00
+CC  id: M00826_2.00
+CC  name: M00826_2.00
+CC  version: 
+CC  name: M00826_2.00
+CC  description: kwdawcaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 192
+XX
+//
+AC  M00827_2.00
+XX
+ID  M00827_2.00
+XX
+DE  attgtwww 
+P0       A     C     G     T
+1    58.4055 9.18351 13.163 19.248
+2    15.7111 12.483 12.9925 58.8134
+3    10.9512 8.11287 7.7172 73.2187
+4    21.9436 16.7513 55.6164 5.68868
+5    24.9535 13.9714 11.325 49.7501
+6    25.7637 19.4718 20.6758 34.0887
+7    28.6961 23.7305 18.2975 29.2758
+8    26.3628 20.5314 23.3817 29.724
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 193
+CC  accession: M00827_2.00
+CC  AC: M00827_2.00
+CC  id: M00827_2.00
+CC  name: M00827_2.00
+CC  version: 
+CC  name: M00827_2.00
+CC  description: attgtwww 
+CC  transfac_consensus: 
+CC  matrix.nb: 193
+XX
+//
+AC  M00828_2.00
+XX
+ID  M00828_2.00
+XX
+DE  attgttwtv 
+P0       A     C     G     T
+1    65.8504 6.73546 8.73542 18.6787
+2    6.22859 12.418 6.22859 75.1248
+3    8.48037 5.91655 5.1436 80.4595
+4    17.1769 9.52162 69.6557 3.64576
+5    14.764 6.31035 5.06418 73.8615
+6    14.6906 22.8102 14.6906 47.8087
+7    27.3135 24.7143 16.2384 31.7338
+8    24.122 22.9455 22.2674 30.6651
+9    25.0916 25.5984 26.378 22.932
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 194
+CC  accession: M00828_2.00
+CC  AC: M00828_2.00
+CC  id: M00828_2.00
+CC  name: M00828_2.00
+CC  version: 
+CC  name: M00828_2.00
+CC  description: attgttwtv 
+CC  transfac_consensus: 
+CC  matrix.nb: 194
+XX
+//
+AC  M00829_2.00
+XX
+ID  M00829_2.00
+XX
+DE  waacaatr 
+P0       A     C     G     T
+1    26.087 17.3913 13.0435 43.4783
+2    80.6452 3.22581 3.22581 12.9032
+3    91.4286 2.85714 2.85714 2.85714
+4    2.85714 88.5714 2.85714 5.71429
+5    91.4286 2.85714 2.85714 2.85714
+6    91.4286 2.85714 2.85714 2.85714
+7    2.85714 2.85714 2.85714 91.4286
+8       32    12    36    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 195
+CC  accession: M00829_2.00
+CC  AC: M00829_2.00
+CC  id: M00829_2.00
+CC  name: M00829_2.00
+CC  version: 
+CC  name: M00829_2.00
+CC  description: waacaatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 195
+XX
+//
+AC  M00902_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1    2.3619 89.074 0.877628 7.68651
+2    9.26146 0.0251188 89.6453 1.06808
+3    0.370882 0.258756 0.0719438 99.2984
+4    34.2311 22.7175 25.359 17.6924
+5    18.5343 30.2539 23.5618 27.65
+6    30.5986 19.7066 26.3365 23.3583
+7    36.5673 16.9311 20.474 26.0275
+8    41.7529 21.58 21.1527 15.5144
+9    42.2112 11.5039 41.7912 4.49374
+10   12.731 19.9662 27.496 39.8069
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 196
+CC  accession: M00902_2.00
+CC  AC: M00902_2.00
+CC  id: M00902_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 196
+XX
+//
+AC  M00903_2.00
+XX
+ID  CAD1
+XX
+DE  CAD1
+P0       A     C     G     T
+1    28.6577 37.9134 16.7144 16.7144
+2    0.0136389 0.0136389 0.0136389 99.9591
+3    0.0136389 0.0136389 32.0771 67.8956
+4    99.9591 0.0136389 0.0136389 0.0136389
+5    0.0136389 91.6905 0.0136389 8.2822
+6    16.5978 0.0136389 9.91559 73.473
+7    82.5427 0.0136389 0.0136389 17.4301
+8    99.9591 0.0136389 0.0136389 0.0136389
+9    25.7156 8.29921 17.0299 48.9553
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 197
+CC  accession: M00903_2.00
+CC  AC: M00903_2.00
+CC  id: M00903_2.00
+CC  name: CAD1
+CC  version: 
+CC  name: CAD1
+CC  description: CAD1
+CC  transfac_consensus: 
+CC  matrix.nb: 197
+XX
+//
+AC  M00904_2.00
+XX
+ID  HAC1
+XX
+DE  HAC1
+P0       A     C     G     T
+1    29.0084 30.1922 16.0801 24.7193
+2    21.357 30.0055 19.5188 29.1187
+3    55.8533 16.8227 16.4896 10.8344
+4    4.6453 69.8156 14.6708 10.8684
+5    6.60232 7.90442 81.2411 4.25214
+6    0.193117 9.54046 2.4243 87.8421
+7    13.8739 3.35352 74.4413 8.33123
+8    7.31652 5.75538 40.8593 46.0688
+9    15.7919 48.3999 9.77177 26.0364
+10   28.7134 32.3743 20.234 18.6783
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 198
+CC  accession: M00904_2.00
+CC  AC: M00904_2.00
+CC  id: M00904_2.00
+CC  name: HAC1
+CC  version: 
+CC  name: HAC1
+CC  description: HAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 198
+XX
+//
+AC  M00905_2.00
+XX
+ID  YAP3
+XX
+DE  YAP3
+P0       A     C     G     T
+1    25.9027 14.2077 14.2077 45.682
+2    6.43982 6.43982 6.43982 80.6805
+3    48.7355 4.16834 11.8886 35.2075
+4    38.7795 53.6069 0.0200918 7.59349
+5    15.9798 7.74036 76.2598 0.0200918
+6    0.0200918 0.0200918 0.0200918 99.9397
+7    99.9397 0.0200918 0.0200918 0.0200918
+8    99.9397 0.0200918 0.0200918 0.0200918
+9    10.8124 10.8124 10.8124 67.5627
+10   44.2592 18.5803 18.5803 18.5803
+11   20.8518 20.8518 20.8518 37.4447
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 199
+CC  accession: M00905_2.00
+CC  AC: M00905_2.00
+CC  id: M00905_2.00
+CC  name: YAP3
+CC  version: 
+CC  name: YAP3
+CC  description: YAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 199
+XX
+//
+AC  M00906_2.00
+XX
+ID  CST6
+XX
+DE  CST6
+P0       A     C     G     T
+1    24.8368 18.3995 35.5992 21.1645
+2    43.3713 10.5888 35.8663 10.1736
+3    0.020894 0.320365 0.00447928 99.6543
+4    2.65294 0.318437 81.9139 15.1147
+5    91.9834 4.18542 1.66797 2.16324
+6    3.31109 73.4994 4.69866 18.4909
+7    17.5662 4.4637 74.8868 3.08323
+8    10.7892 14.8581 5.04574 69.307
+9    37.8402 37.0909 12.3465 12.7225
+10   49.1559 13.0006 19.3947 18.4488
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 200
+CC  accession: M00906_2.00
+CC  AC: M00906_2.00
+CC  id: M00906_2.00
+CC  name: CST6
+CC  version: 
+CC  name: CST6
+CC  description: CST6
+CC  transfac_consensus: 
+CC  matrix.nb: 200
+XX
+//
+AC  M00907_2.00
+XX
+ID  SKO1
+XX
+DE  SKO1
+P0       A     C     G     T
+1    25.2983 24.3892 24.9128 25.3997
+2    77.6316 7.45612 7.45612 7.45612
+3    0.00622667 0.00622667 0.00622667 99.9813
+4    0.00622667 0.00622667 80.9938 18.9938
+5    99.9813 0.00622667 0.00622667     0
+6    0.00622667 99.9813 0.00622667     0
+7    0.00622667 0.00622667 99.9813     0
+8    0.00622667 0.00622667 0.00622667 99.9813
+9    50.3179 20.6688 19.261 9.75231
+10   47.3497 17.5501 17.5501 17.5501
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 201
+CC  accession: M00907_2.00
+CC  AC: M00907_2.00
+CC  id: M00907_2.00
+CC  name: SKO1
+CC  version: 
+CC  name: SKO1
+CC  description: SKO1
+CC  transfac_consensus: 
+CC  matrix.nb: 201
+XX
+//
+AC  M00908_2.00
+XX
+ID  CIN5
+XX
+DE  CIN5
+P0       A     C     G     T
+1    30.1983 29.101 20.3504 20.3504
+2    9.88526 9.88526 9.88526 70.3442
+3    9.88526 9.88526 24.4969 55.7325
+4    88.6037 3.79878 3.79878 3.79878
+5    0.0130057 99.961 0.0130057 0.0130057
+6    18.5036 0.0130057 81.4703 0.0130057
+7    0.0130057 0.0130057 0.0130057 99.961
+8    99.961 0.0130057 0.0130057 0.0130057
+9    86.012 4.66265 4.66265 4.66265
+10   15.1277 15.1277 33.0993 36.6452
+11   15.1277 54.6168 15.1277 15.1277
+12   36.3573 21.2142 21.2142 21.2142
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 202
+CC  accession: M00908_2.00
+CC  AC: M00908_2.00
+CC  id: M00908_2.00
+CC  name: CIN5
+CC  version: 
+CC  name: CIN5
+CC  description: CIN5
+CC  transfac_consensus: 
+CC  matrix.nb: 202
+XX
+//
+AC  M00909_2.00
+XX
+ID  NRG2
+XX
+DE  NRG2
+P0       A     C     G     T
+1    37.1679 17.4616 17.4616 27.9089
+2    13.0689 2.13029 82.6705 2.13029
+3    0.0176685 0.0176685 99.947 0.0176685
+4    51.6903 0.0176685 20.6451 27.6468
+5    0.0176685 99.947 0.0176685 0.0176685
+6    0.0176685 99.947 0.0176685 0.0176685
+7    0.0176685 99.947 0.0176685 0.0176685
+8    0.0176685 0.0176685 0.0176685 99.947
+9    7.55604 7.55604 55.7634 29.1245
+10   22.8874 22.8874 22.8874 31.3379
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 203
+CC  accession: M00909_2.00
+CC  AC: M00909_2.00
+CC  id: M00909_2.00
+CC  name: NRG2
+CC  version: 
+CC  name: NRG2
+CC  description: NRG2
+CC  transfac_consensus: 
+CC  matrix.nb: 203
+XX
+//
+AC  M00910_2.00
+XX
+ID  STP1
+XX
+DE  STP1
+P0       A     C     G     T
+1    36.1829 17.7518 28.3135 17.7518
+2    2.67694 51.1855 2.67694 43.4606
+3    80.346 0.00946042 19.6351     0
+4    0.00946042 99.9716 0.00946042     0
+5    0.00946042 0.00946042 99.9716     0
+6    0.00946042 0.00946042 99.9716     0
+7    0.00946042 99.9716 0.00946042     0
+8    29.079 0.00946042 70.9021     0
+9    7.25765 78.227 7.25765 7.25765
+10   22.3325 22.3325 33.0024 22.3325
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 204
+CC  accession: M00910_2.00
+CC  AC: M00910_2.00
+CC  id: M00910_2.00
+CC  name: STP1
+CC  version: 
+CC  name: STP1
+CC  description: STP1
+CC  transfac_consensus: 
+CC  matrix.nb: 204
+XX
+//
+AC  M00911_2.00
+XX
+ID  ZAP1
+XX
+DE  ZAP1
+P0       A     C     G     T
+1    29.7313 16.8138 18.2142 35.2407
+2    88.7949 10.2403 0.366531 0.598295
+3    18.5344 81.4207 0.0075942 0.0372401
+4    2.1953 94.2845 0.111505 3.40865
+5    14.6009 50.4551 9.12561 25.8183
+6    12.4921 22.5355 19.5914 45.381
+7    27.4445 22.4696 21.8056 28.2803
+8    33.3953 24.0087 20.8721 21.7239
+9    31.8802 16.8102 29.7249 21.5847
+10   19.4908 12.3042 54.0518 14.1532
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 205
+CC  accession: M00911_2.00
+CC  AC: M00911_2.00
+CC  id: M00911_2.00
+CC  name: ZAP1
+CC  version: 
+CC  name: ZAP1
+CC  description: ZAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 205
+XX
+//
+AC  M00912_2.00
+XX
+ID  MOT3
+XX
+DE  MOT3
+P0       A     C     G     T
+1    12.6559 42.2413 22.364 22.7388
+2    0.00479929 0.00479929 99.9856     0
+3    0.00479929 0.00479929 0.00479929 99.9856
+4    0.00479929 0.00479929 99.9856     0
+5    0.00479929 99.9856 0.00479929     0
+6    0.00479929 99.9856 0.00479929     0
+7    0.00479929 0.00479929 0.00479929 99.9856
+8    19.5724 0.00479929 50.4817 29.9411
+9    12.3489 43.0589 12.3489 32.2432
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 206
+CC  accession: M00912_2.00
+CC  AC: M00912_2.00
+CC  id: M00912_2.00
+CC  name: MOT3
+CC  version: 
+CC  name: MOT3
+CC  description: MOT3
+CC  transfac_consensus: 
+CC  matrix.nb: 206
+XX
+//
+AC  M00913_2.00
+XX
+ID  MSN1
+XX
+DE  MSN1
+P0       A     C     G     T
+1    38.2525 14.4778 23.1016 24.1682
+2    41.4346 2.53733 2.53733 53.4907
+3    57.5214 0.00635481 0.00635481 42.4659
+4    0.00635481 0.00635481 0.00635481 99.9809
+5    0.00635481 0.00635481 99.9809     0
+6    0.00635481 0.00635481 0.00635481 99.9809
+7    0.00635481 99.9809 0.00635481     0
+8    0.00635481 99.9809 0.00635481     0
+9    19.5117 20.3473 10.5286 49.6124
+10   32.5929 22.469 22.469 22.469
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 207
+CC  accession: M00913_2.00
+CC  AC: M00913_2.00
+CC  id: M00913_2.00
+CC  name: MSN1
+CC  version: 
+CC  name: MSN1
+CC  description: MSN1
+CC  transfac_consensus: 
+CC  matrix.nb: 207
+XX
+//
+AC  M00914_2.00
+XX
+ID  GCR1
+XX
+DE  GCR1
+P0       A     C     G     T
+1    33.4465 9.02455 53.5143 4.01464
+2    14.2028 6.38174 76.9719 2.44352
+3    18.0207 64.1689 16.6352 1.17529
+4    25.1344 3.83526 21.4181 49.6122
+5    16.2725 9.8698 19.2879 54.5697
+6    0.00778865 99.9742 0.00740879 0.0106192
+7    1.91372 60.283 18.5237 19.2796
+8    34.1959 10.6133 12.58 42.6108
+9    20.7638 36.3506 33.5558 9.32977
+10   23.6348 4.6773 4.81975 66.8681
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 208
+CC  accession: M00914_2.00
+CC  AC: M00914_2.00
+CC  id: M00914_2.00
+CC  name: GCR1
+CC  version: 
+CC  name: GCR1
+CC  description: GCR1
+CC  transfac_consensus: 
+CC  matrix.nb: 208
+XX
+//
+AC  M00915_2.00
+XX
+ID  HMLALPHA2
+XX
+DE  HMLALPHA2
+P0       A     C     G     T
+1    32.2013 18.7652 15.5181 33.5154
+2    19.4009 24.418 15.1094 41.0717
+3    31.399 7.07647 16.0671 45.4574
+4    67.7633 7.43368 11.6583 13.1447
+5    11.2938 74.7579 4.32432 9.62395
+6    54.6914 8.77325 22.9131 13.6223
+7    20.0556 36.1801 10.3658 33.3985
+8    30.4462 15.4246 38.7047 15.4246
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 209
+CC  accession: M00915_2.00
+CC  AC: M00915_2.00
+CC  id: M00915_2.00
+CC  name: HMLALPHA2
+CC  version: 
+CC  name: HMLALPHA2
+CC  description: HMLALPHA2
+CC  transfac_consensus: 
+CC  matrix.nb: 209
+XX
+//
+AC  M00916_2.00
+XX
+ID  STE12
+XX
+DE  STE12
+P0       A     C     G     T
+1    28.9599 17.5665 26.4727 27.001
+2    7.24761 25.5028 7.24761 60.002
+3    0.00998679 0.00998679 99.97     0
+4    0.00998679 0.00998679 0.00998679 99.97
+5    0.00998679 0.00998679 0.00998679 99.97
+6    0.00998679 0.00998679 0.00998679 99.97
+7    0.00998679 99.97 0.00998679     0
+8    99.97 0.00998679 0.00998679     0
+9    7.44353 7.44353 46.7483 38.3646
+10   27.1238 28.3574 26.7565 17.7624
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 210
+CC  accession: M00916_2.00
+CC  AC: M00916_2.00
+CC  id: M00916_2.00
+CC  name: STE12
+CC  version: 
+CC  name: STE12
+CC  description: STE12
+CC  transfac_consensus: 
+CC  matrix.nb: 210
+XX
+//
+AC  M00917_2.00
+XX
+ID  VHR2
+XX
+DE  VHR2
+P0       A     C     G     T
+1    27.5818 17.6853 27.4314 27.3015
+2    59.614 10.1012 20.1837 10.1012
+3    0.00612143 0.00612143 0.00612143 99.9816
+4    0.00612143 0.00612143 99.9816     0
+5    99.9816 0.00612143 0.00612143     0
+6    0.00612143 99.9816 0.00612143     0
+7    0.00612143 0.00612143 0.00612143 99.9816
+8    9.63226 90.3555 0.00612143     0
+9    68.4113 16.947 7.32087 7.32087
+10   24.5813 25.4282 24.7967 25.1938
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 211
+CC  accession: M00917_2.00
+CC  AC: M00917_2.00
+CC  id: M00917_2.00
+CC  name: VHR2
+CC  version: 
+CC  name: VHR2
+CC  description: VHR2
+CC  transfac_consensus: 
+CC  matrix.nb: 211
+XX
+//
+AC  M00918_2.00
+XX
+ID  PDR3
+XX
+DE  PDR3
+P0       A     C     G     T
+1    31.5231 22.8256 22.8256 22.8256
+2    12.0748 41.9293 19.9859 26.01
+3    1.90506 86.3212 1.90506 9.86863
+4    7.6032 84.4219 0.0056868 7.96925
+5    7.6032 7.96925 84.4219     0
+6    0.0056868 99.9829 0.0056868     0
+7    0.0056868 0.0056868 99.9829     0
+8    0.0056868 0.0056868 99.9829     0
+9    71.8619 2.18006 23.778 2.18006
+10   51.4487 12.9309 22.6895 12.9309
+11   23.1006 30.6981 23.1006 23.1006
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 212
+CC  accession: M00918_2.00
+CC  AC: M00918_2.00
+CC  id: M00918_2.00
+CC  name: PDR3
+CC  version: 
+CC  name: PDR3
+CC  description: PDR3
+CC  transfac_consensus: 
+CC  matrix.nb: 212
+XX
+//
+AC  M00919_2.00
+XX
+ID  EDS1
+XX
+DE  EDS1
+P0       A     C     G     T
+1    27.0307 27.0307 20.2261 25.7124
+2    21.5701 39.3033 14.315 24.8115
+3    21.6656  12.5 47.7379 18.0966
+4    14.7133 20.4657 45.5472 19.2739
+5    57.4298 12.0681 13.2046 17.2975
+6    40.7278 12.8959 15.2856 31.0907
+7    30.8606 27.0985 15.4789 26.562
+8    51.0683 11.0581 15.3815 22.4921
+9    46.6347 13.768 8.95619 30.6412
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 213
+CC  accession: M00919_2.00
+CC  AC: M00919_2.00
+CC  id: M00919_2.00
+CC  name: EDS1
+CC  version: 
+CC  name: EDS1
+CC  description: EDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 213
+XX
+//
+AC  M00920_2.00
+XX
+ID  UPC2
+XX
+DE  UPC2
+P0       A     C     G     T
+1    18.6369  34.3 25.4101 21.653
+2    5.06357 16.1524 7.11405 71.6699
+3    0.642868 97.3375 1.12545 0.894209
+4    0.432335 0.0130554 97.6554 1.89922
+5    1.09684 4.86677 2.89339 91.143
+6    58.1186 0.699413 1.4369 39.7451
+7    14.0164 25.2854 3.28782 57.4104
+8    60.6045 16.0285 16.8503 6.5167
+9    27.981 21.7916 30.3114 19.916
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 214
+CC  accession: M00920_2.00
+CC  AC: M00920_2.00
+CC  id: M00920_2.00
+CC  name: UPC2
+CC  version: 
+CC  name: UPC2
+CC  description: UPC2
+CC  transfac_consensus: 
+CC  matrix.nb: 214
+XX
+//
+AC  M00921_2.00
+XX
+ID  TOG1
+XX
+DE  TOG1
+P0       A     C     G     T
+1    22.7104 31.8687 22.7104 22.7104
+2    29.8988 29.4725 20.3143 20.3143
+3    21.7779 33.5876 21.4255 23.2089
+4    4.81483 4.81483 25.7088 64.6616
+5    2.49184 92.5245 2.49184 2.49184
+6    0.0159601 89.1746 10.7935 0.0159601
+7    0.0159601 0.0159601 99.9521 0.0159601
+8    0.0159601 20.6301 79.3379 0.0159601
+9    60.7335 24.8188 12.1422 2.30551
+10   24.9352 4.70163 37.0516 33.3116
+11   51.8506 22.6522 12.7486 12.7486
+12   29.4931 30.1047 20.2011 20.2011
+13   22.5241 22.5241 32.4277 22.5241
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 215
+CC  accession: M00921_2.00
+CC  AC: M00921_2.00
+CC  id: M00921_2.00
+CC  name: TOG1
+CC  version: 
+CC  name: TOG1
+CC  description: TOG1
+CC  transfac_consensus: 
+CC  matrix.nb: 215
+XX
+//
+AC  M00922_2.00
+XX
+ID  SUT1
+XX
+DE  SUT1
+P0       A     C     G     T
+1    21.2991 32.8753 12.3435 33.4821
+2    0.00770265 99.9769 0.00770265     0
+3    0.00770265 0.00770265 99.9769     0
+4    0.00770265 0.00770265 99.9769     0
+5    99.9769 0.00770265 0.00770265     0
+6    0.00770265 38.6504 61.3342     0
+7    0.00770265 0.00770265 0.00770265 99.9769
+8    0.00770265 0.00770265 0.00770265 99.9769
+9    12.6642 32.4406 22.0127 32.8825
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 216
+CC  accession: M00922_2.00
+CC  AC: M00922_2.00
+CC  id: M00922_2.00
+CC  name: SUT1
+CC  version: 
+CC  name: SUT1
+CC  description: SUT1
+CC  transfac_consensus: 
+CC  matrix.nb: 216
+XX
+//
+AC  M00923_2.00
+XX
+ID  STB5
+XX
+DE  STB5
+P0       A     C     G     T
+1    23.5335 17.4341 31.1379 27.8944
+2    5.01694 88.4838 1.95975 4.53951
+3    0.0602101 0.436086 99.4927 0.0109994
+4    1.57335 8.52676 88.5183 1.38155
+5    24.1427 20.9887 25.3806 29.488
+6    22.0351 24.8445 40.1505 12.97
+7    23.3496 24.3025 13.0734 39.2746
+8    14.2671 18.1371 11.4496 56.1462
+9    53.3719 8.73454 9.18237 28.7111
+10   27.2932 20.4225 17.9329 34.3513
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 217
+CC  accession: M00923_2.00
+CC  AC: M00923_2.00
+CC  id: M00923_2.00
+CC  name: STB5
+CC  version: 
+CC  name: STB5
+CC  description: STB5
+CC  transfac_consensus: 
+CC  matrix.nb: 217
+XX
+//
+AC  M00924_2.00
+XX
+ID  ECM22
+XX
+DE  ECM22
+P0       A     C     G     T
+1    24.453 25.4509 22.7998 27.2963
+2    14.0909 16.702 30.1302 39.0768
+3    38.3595 10.3502 35.058 16.2323
+4    39.6447 5.81219 3.12664 51.4164
+5    71.7949 10.7383 14.0667 3.40013
+6    2.53859 95.7373 0.0224068 1.70167
+7    2.77117 2.79902 89.9514 4.47842
+8    62.6416 8.91228 20.8516 7.59454
+9    22.8794 26.0558 32.1444 18.9204
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 218
+CC  accession: M00924_2.00
+CC  AC: M00924_2.00
+CC  id: M00924_2.00
+CC  name: ECM22
+CC  version: 
+CC  name: ECM22
+CC  description: ECM22
+CC  transfac_consensus: 
+CC  matrix.nb: 218
+XX
+//
+AC  M00925_2.00
+XX
+ID  HAP1
+XX
+DE  HAP1
+P0       A     C     G     T
+1    20.2035 20.2035 20.2035 39.3894
+2    0.0077105 99.9769 0.0077105     0
+3    0.0077105 0.0077105 99.9769     0
+4    0.0077105 0.0077105 99.9769     0
+5    80.9648 9.56103 9.46642     0
+6    9.10187 30.1639 42.1101 18.6242
+7    40.5916 0.0077105 9.56103 49.8397
+8    9.56103 0.0077105 0.0077105 90.4236
+9    85.5875 4.80416 4.80416 4.80416
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 219
+CC  accession: M00925_2.00
+CC  AC: M00925_2.00
+CC  id: M00925_2.00
+CC  name: HAP1
+CC  version: 
+CC  name: HAP1
+CC  description: HAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 219
+XX
+//
+AC  M00926_2.00
+XX
+ID  YLR278C
+XX
+DE  YLR278C
+P0       A     C     G     T
+1    22.5408 22.5408 22.5408 32.3775
+2    9.95041 50.3323 18.8434 20.8738
+3    0.0073231 99.978 0.0073231     0
+4    0.0073231 0.0073231 99.978     0
+5    0.0073231 0.0073231 99.978     0
+6    99.978 0.0073231 0.0073231     0
+7    0.0073231 0.0073231 99.978     0
+8    19.4867 0.0073231 0.0073231 80.4987
+9    20.9754 2.46647 2.46647 74.0917
+10   24.8189 25.4097 15.0569 34.7145
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 220
+CC  accession: M00926_2.00
+CC  AC: M00926_2.00
+CC  id: M00926_2.00
+CC  name: YLR278C
+CC  version: 
+CC  name: YLR278C
+CC  description: YLR278C
+CC  transfac_consensus: 
+CC  matrix.nb: 220
+XX
+//
+AC  M00927_2.00
+XX
+ID  STB4
+XX
+DE  STB4
+P0       A     C     G     T
+1    15.1348 34.6955 25.1442 25.0255
+2    4.915 15.4289 4.915 74.7411
+3    0.00916273 0.00916273 0.00916273 99.9725
+4    0.00916273 99.9725 0.00916273     0
+5    0.00916273 29.5269 70.4548     0
+6    0.00916273 0.00916273 99.9725     0
+7    99.9725 0.00916273 0.00916273     0
+8    9.90757 0.00916273 29.5269 60.5564
+9    50.9846 29.2667 9.87435 9.87435
+10   30.0886 20.0942 20.0942 29.7231
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 221
+CC  accession: M00927_2.00
+CC  AC: M00927_2.00
+CC  id: M00927_2.00
+CC  name: STB4
+CC  version: 
+CC  name: STB4
+CC  description: STB4
+CC  transfac_consensus: 
+CC  matrix.nb: 221
+XX
+//
+AC  M01004_2.00
+XX
+ID  M01004_2.00
+XX
+DE  assacgcamw 
+P0       A     C     G     T
+1    28.9707 24.1984 24.9353 21.8956
+2    21.8409 28.8983 25.123 24.1379
+3    16.3121 31.8778 43.463 8.34706
+4    63.4038 11.3535 15.1731 10.0696
+5    11.9632 68.1586 3.07049 16.8077
+6    8.16558 9.6787 63.4294 18.7263
+7    2.10256 93.9869 3.10544 0.805055
+8    59.1612 7.84806 24.0532 8.93759
+9    33.6976 26.2438 22.8152 17.2434
+10   32.5013 21.7863 18.565 27.1474
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 222
+CC  accession: M01004_2.00
+CC  AC: M01004_2.00
+CC  id: M01004_2.00
+CC  name: M01004_2.00
+CC  version: 
+CC  name: M01004_2.00
+CC  description: assacgcamw 
+CC  transfac_consensus: 
+CC  matrix.nb: 222
+XX
+//
+AC  M01015_2.00
+XX
+ID  M01015_2.00
+XX
+DE  mcsacgcamw 
+P0       A     C     G     T
+1    28.5111 25.0354 23.3429 23.1106
+2    20.8777 29.6269 24.5002 24.9952
+3    16.7018 32.6393 41.4927 9.16615
+4    60.4131 12.0758 16.1385 11.3726
+5    12.7039 66.1489 3.82634 17.3208
+6    10.6019 10.0849 59.2068 20.1064
+7    5.66365 94.0728 0.0438961 0.219604
+8    58.8856 7.21092 24.9181 8.98536
+9    33.7556 26.2889 22.8544 17.1011
+10   32.6308 22.0929 18.8263 26.45
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 223
+CC  accession: M01015_2.00
+CC  AC: M01015_2.00
+CC  id: M01015_2.00
+CC  name: M01015_2.00
+CC  version: 
+CC  name: M01015_2.00
+CC  description: mcsacgcamw 
+CC  transfac_consensus: 
+CC  matrix.nb: 223
+XX
+//
+AC  M01026_2.00
+XX
+ID  M01026_2.00
+XX
+DE  aacaawgr 
+P0       A     C     G     T
+1    86.6667     0 13.3333     0
+2      100     0     0     0
+3        0   100     0     0
+4      100     0     0     0
+5    95.2381 4.7619     0     0
+6    71.4286     0     0 28.5714
+7    11.1111     0 88.8889     0
+8       25 8.33333 58.3333 8.33333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 224
+CC  accession: M01026_2.00
+CC  AC: M01026_2.00
+CC  id: M01026_2.00
+CC  name: M01026_2.00
+CC  version: 
+CC  name: M01026_2.00
+CC  description: aacaawgr 
+CC  transfac_consensus: 
+CC  matrix.nb: 224
+XX
+//
+AC  M01032_2.00
+XX
+ID  M01032_2.00
+XX
+DE  vcccctkw 
+P0       A     C     G     T
+1    31.1798 30.8696 25.2739 12.6768
+2    10.198 66.1675 0.0123042 23.6222
+3    0.0237418 78.2167 0.0123943 21.7472
+4    1.87491 95.4462 0.0182893 2.66063
+5    4.12846 65.8846 11.1107 18.8763
+6    5.5556 16.6899 11.4136 66.3409
+7    21.1467 13.7561 34.1747 30.9225
+8    33.0928 17.1041 24.0303 25.7727
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 225
+CC  accession: M01032_2.00
+CC  AC: M01032_2.00
+CC  id: M01032_2.00
+CC  name: M01032_2.00
+CC  version: 
+CC  name: M01032_2.00
+CC  description: vcccctkw 
+CC  transfac_consensus: 
+CC  matrix.nb: 225
+XX
+//
+AC  M01034_2.00
+XX
+ID  M01034_2.00
+XX
+DE  cyccytrww 
+P0       A     C     G     T
+1    23.475 55.4752 11.3128 9.73702
+2    0.761004 67.1469 0.374143 31.718
+3    2.15497 96.3296 1.15925 0.356214
+4    2.19728 96.2763 1.44372 0.08268
+5    4.61463 38.8315 15.3211 41.2327
+6    11.8185 16.9397 16.1136 55.1282
+7    38.1491 12.2008 32.5085 17.1415
+8    30.3633 24.1246 20.1506 25.3615
+9    26.6303 21.3713 19.1452 32.8532
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 226
+CC  accession: M01034_2.00
+CC  AC: M01034_2.00
+CC  id: M01034_2.00
+CC  name: M01034_2.00
+CC  version: 
+CC  name: M01034_2.00
+CC  description: cyccytrww 
+CC  transfac_consensus: 
+CC  matrix.nb: 226
+XX
+//
+AC  M01035_2.00
+XX
+ID  M01035_2.00
+XX
+DE  mcccctkrht 
+P0       A     C     G     T
+1    33.7263 34.4076 23.2959 8.57009
+2    4.68845 80.2463 2.19263 12.8726
+3    0.0646753 88.3781 0.626018 10.9312
+4    0.529954 98.9916 0.0858662 0.3926
+5    1.15867 94.3748 3.77075 0.695777
+6    1.84924 24.8977 7.5744 65.6787
+7    14.8408 10.7766 27.0416 47.341
+8    38.2474 12.9886 27.7733 20.9906
+9    27.5963 25.2211 21.708 25.4746
+10   23.7011 23.7011 20.6047 31.9931
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 227
+CC  accession: M01035_2.00
+CC  AC: M01035_2.00
+CC  id: M01035_2.00
+CC  name: M01035_2.00
+CC  version: 
+CC  name: M01035_2.00
+CC  description: mcccctkrht 
+CC  transfac_consensus: 
+CC  matrix.nb: 227
+XX
+//
+AC  M01038_2.00
+XX
+ID  M01038_2.00
+XX
+DE  cycctwwwy 
+P0       A     C     G     T
+1    12.9132 67.2389 4.99408 14.8538
+2    0.734345 73.0558 0.644825 25.565
+3    0.210691 99.7472 0.0321494     0
+4    0.0557661 92.1494 2.67356 5.12131
+5    0.0686701 12.0801 4.62538 83.2259
+6    38.756 9.36787 22.585 29.2912
+7    30.2868 10.2852 17.3001 42.1279
+8    27.7517 24.1261 16.8322 31.2899
+9    23.5533 25.0098 20.8899 30.547
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 228
+CC  accession: M01038_2.00
+CC  AC: M01038_2.00
+CC  id: M01038_2.00
+CC  name: M01038_2.00
+CC  version: 
+CC  name: M01038_2.00
+CC  description: cycctwwwy 
+CC  transfac_consensus: 
+CC  matrix.nb: 228
+XX
+//
+AC  M01039_2.00
+XX
+ID  M01039_2.00
+XX
+DE  cyccytr 
+P0       A     C     G     T
+1    19.2097 70.486 6.26773 4.03664
+2    0.226127 72.4822 0.0883314 27.2034
+3    0.0462441 99.1049 0.00836398 0.840448
+4    0.39028 99.3958 0.20786     0
+5    1.61959 46.1628 9.60395 42.6136
+6    6.83628 10.0971 11.3844 71.6823
+7    37.9896 8.82257 35.4213 17.7665
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 229
+CC  accession: M01039_2.00
+CC  AC: M01039_2.00
+CC  id: M01039_2.00
+CC  name: M01039_2.00
+CC  version: 
+CC  name: M01039_2.00
+CC  description: cyccytr 
+CC  transfac_consensus: 
+CC  matrix.nb: 229
+XX
+//
+AC  M01040_2.00
+XX
+ID  M01040_2.00
+XX
+DE  rsccctga 
+P0       A     C     G     T
+1    26.2201 23.2551 28.4039 22.121
+2    6.66129 51.2294 27.2843 14.825
+3    8.06902 76.5568 3.21566 12.1585
+4    0.857164 99.0746 0.00764177 0.0605596
+5    0.0314041 98.4141 0.0184846 1.536
+6    0.0266326 0.0253337 0.0269003 99.9211
+7    4.82696 2.72977 69.7012 22.7421
+8    59.2394 3.90238 23.3731 13.4851
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 230
+CC  accession: M01040_2.00
+CC  AC: M01040_2.00
+CC  id: M01040_2.00
+CC  name: M01040_2.00
+CC  version: 
+CC  name: M01040_2.00
+CC  description: rsccctga 
+CC  transfac_consensus: 
+CC  matrix.nb: 230
+XX
+//
+AC  M01102_2.00
+XX
+ID  M01102_2.00
+XX
+DE  acacgcgw 
+P0       A     C     G     T
+1    52.04 15.0739 15.0739 17.8122
+2    16.8349 38.6085 23.7629 20.7937
+3    82.8862 0.00854409 16.2423 0.862953
+4    0.00854409 99.9744 0.00854409     0
+5    0.00854409 0.00854409 98.2656 1.71736
+6    0.862953 95.7023 0.00854409 3.42618
+7    0.862953 1.71736 96.5567 0.862953
+8    56.2344 15.005 0.0124938 28.7481
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 231
+CC  accession: M01102_2.00
+CC  AC: M01102_2.00
+CC  id: M01102_2.00
+CC  name: M01102_2.00
+CC  version: 
+CC  name: M01102_2.00
+CC  description: acacgcgw 
+CC  transfac_consensus: 
+CC  matrix.nb: 231
+XX
+//
+AC  M01103_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    31.5605 22.8132 22.8132 22.8132
+2    31.5605 22.8132 22.8132 22.8132
+3    37.1355 18.039 18.039 26.7864
+4    70.0798 9.97341 9.97341 9.97341
+5    33.3823 0.00975078 0.00975078 66.5982
+6    80.6854 0.00975078 0.00975078 19.2951
+7    17.7789 0.00975078 0.00975078 82.2016
+8    43.178 0.00975078 0.00975078 56.8025
+9    93.4102 2.1966 2.1966 2.1966
+10   93.4102 2.1966 2.1966 2.1966
+11   6.97071 6.97071 6.97071 79.0879
+12   32.4794 15.0363 15.0363 37.448
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 232
+CC  accession: M01103_2.00
+CC  AC: M01103_2.00
+CC  id: M01103_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 232
+XX
+//
+AC  M01104_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    27.5242 20.8023 17.0315 34.642
+2    35.4896 19.4771 22.6292 22.404
+3    39.3688 19.9449 17.5135 23.1727
+4    44.6255 10.1584 22.608 22.608
+5    36.9831 8.58882 12.3106 42.1174
+6    50.4457 4.48571 7.69751 37.3711
+7    79.6844 0.0336438 0.0336438 20.2484
+8    60.5595 0.00624251 0.0397012 39.3945
+9    29.6896 0.0115716 2.88867 67.4102
+10   30.638 26.108 10.7214 32.5326
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 233
+CC  accession: M01104_2.00
+CC  AC: M01104_2.00
+CC  id: M01104_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 233
+XX
+//
+AC  M01105_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    37.434 17.3324 18.5892 26.6444
+2    33.1918 23.625 21.5916 21.5916
+3    36.7239 21.1878 19.3642 22.7241
+4    39.8201 10.6374 25.3904 24.1521
+5    30.6146 17.3133 15.0515 37.0206
+6    57.2249 0.213737 14.9841 27.5772
+7    60.2371 9.28396 4.47402 26.005
+8    50.597 4.82539 5.95298 38.6247
+9    33.1768 9.60085 10.6106 46.6117
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 234
+CC  accession: M01105_2.00
+CC  AC: M01105_2.00
+CC  id: M01105_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 234
+XX
+//
+AC  M01106_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    48.3861 9.20009 21.525 20.8888
+2    55.0968 14.0005 16.7616 14.1412
+3    56.1595 5.86027 11.4524 26.5279
+4    51.3647 4.01064 6.95145 37.6733
+5    59.7236 3.7424 3.09481 33.4392
+6    76.3937 3.69101 3.37333 16.542
+7    58.2011 0.774067 2.78404 38.2408
+8    38.0653 2.03258 0.203784 59.6983
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 235
+CC  accession: M01106_2.00
+CC  AC: M01106_2.00
+CC  id: M01106_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 235
+XX
+//
+AC  M01107_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    62.5139 1.48496 17.9105 18.0905
+2    68.9816 7.95531 10.9555 12.1077
+3    66.0471 3.00527 6.89205 24.0556
+4    52.4467 2.77263 3.5247 41.256
+5    52.5023 3.1609 3.03696 41.2998
+6    76.1535 4.77193 4.44932 14.6253
+7    59.0061 5.04118 4.21075 31.742
+8    34.2342 2.78215 4.82217 58.1615
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 236
+CC  accession: M01107_2.00
+CC  AC: M01107_2.00
+CC  id: M01107_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 236
+XX
+//
+AC  M01108_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    42.3349 12.4985 19.9976 25.169
+2    53.6851 10.731 18.4144 17.1695
+3    59.1376 5.31146 11.0217 24.5293
+4    50.1697 3.50928 4.83273 41.4883
+5    57.7953 2.99489 1.98756 37.2223
+6    85.2706 2.84576 1.85119 10.0325
+7    52.0642 1.48065 3.82852 42.6266
+8    27.9377 6.82081 6.68575 58.5557
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 237
+CC  accession: M01108_2.00
+CC  AC: M01108_2.00
+CC  id: M01108_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 237
+XX
+//
+AC  M01198_2.00
+XX
+ID  M01198_2.00
+XX
+DE  ccccrsav 
+P0       A     C     G     T
+1    0.80324 98.5829 0.053445 0.560401
+2    0.0361315 75.8996 0.0317269 24.0326
+3    6.54291 87.2155 3.92899 2.31262
+4    9.8528e-05 99.966 0.0133643 0.0205443
+5    49.9172 0.00324827 48.9288 1.1507
+6    13.9979 37.6715 25.252 23.0786
+7    28.4498 23.061 24.487 24.0021
+8    28.0918 29.8289 26.1926 15.8866
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 238
+CC  accession: M01198_2.00
+CC  AC: M01198_2.00
+CC  id: M01198_2.00
+CC  name: M01198_2.00
+CC  version: 
+CC  name: M01198_2.00
+CC  description: ccccrsav 
+CC  transfac_consensus: 
+CC  matrix.nb: 238
+XX
+//
+AC  M01326_2.00
+XX
+ID  M01326_2.00
+XX
+DE  vvrcggrrww 
+P0       A     C     G     T
+1    27.924 25.2667 31.4842 15.325
+2    29.0068 25.7267 27.3176 17.9489
+3    33.7769 16.1154 26.3055 23.8022
+4    0.100508 94.8679 0.0162849 5.01526
+5    0.0237295 0.553754 99.3814 0.0411293
+6    3.09315 12.295 82.2029 2.40895
+7    36.2196 20.2793 29.0669 14.4342
+8    27.7914 22.9824 28.6378 20.5884
+9    30.8569 20.4782 22.6319 26.0329
+10   31.1021 18.6767 18.4908 31.7304
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 239
+CC  accession: M01326_2.00
+CC  AC: M01326_2.00
+CC  id: M01326_2.00
+CC  name: M01326_2.00
+CC  version: 
+CC  name: M01326_2.00
+CC  description: vvrcggrrww 
+CC  transfac_consensus: 
+CC  matrix.nb: 239
+XX
+//
+AC  M01442_2.00
+XX
+ID  M01442_2.00
+XX
+DE  accccrcatt 
+P0       A     C     G     T
+1    40.5205 19.1405 15.515 24.8239
+2    1.2796 97.1781 0.325154 1.21719
+3    0.174834 89.6649 0.0243818 10.1359
+4    0.34738 98.7573 0.780879 0.114482
+5    0.710147 99.2574 0.00459731 0.0278121
+6    50.7195 0.0100148 46.82 2.45054
+7    3.41591 69.2999 16.9191 10.3651
+8    53.3442 11.5509 19.8215 15.2834
+9    24.8537 24.6064 14.1967 36.3432
+10   24.9168 19.7972 16.2086 39.0773
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 240
+CC  accession: M01442_2.00
+CC  AC: M01442_2.00
+CC  id: M01442_2.00
+CC  name: M01442_2.00
+CC  version: 
+CC  name: M01442_2.00
+CC  description: accccrcatt 
+CC  transfac_consensus: 
+CC  matrix.nb: 240
+XX
+//
+AC  M01513_2.00
+XX
+ID  AFT1
+XX
+DE  AFT1
+P0       A     C     G     T
+1    22.7587 31.7238 22.7587 22.7587
+2    15.0463 44.2329 25.6746 15.0463
+3    2.41501 2.41501 92.755 2.41501
+4    0.0167177 0.0167177 99.9498 0.0167177
+5    0.0167177 0.0167177 99.9498 0.0167177
+6    0.0167177 0.0167177 17.733 82.2336
+7    0.0167177 0.0167177 99.9498 0.0167177
+8    8.98555 82.2336 8.76415 0.0167177
+9    84.3729 2.258 11.1111 2.258
+10   51.7468 19.1166 9.97046 19.1661
+11   22.6017 22.6017 22.6017 32.1949
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 241
+CC  accession: M01513_2.00
+CC  AC: M01513_2.00
+CC  id: M01513_2.00
+CC  name: AFT1
+CC  version: 
+CC  name: AFT1
+CC  description: AFT1
+CC  transfac_consensus: 
+CC  matrix.nb: 241
+XX
+//
+AC  M01514_2.00
+XX
+ID  MBP1
+XX
+DE  MBP1
+P0       A     C     G     T
+1    26.9109 24.35 23.3953 25.3438
+2    25.9165 22.0846 28.075 23.9239
+3    25.221 18.6842 21.7079 34.3869
+4    29.2887 12.6442 30.484 27.5831
+5    48.4981 12.3237 12.8267 26.3515
+6    3.33057 80.8944 11.6248 4.15015
+7    24.2554 1.5506 71.4245 2.76943
+8    0.0822241 85.772 1.57097 12.5748
+9    0.191996 1.32276 98.4668 0.0184945
+10   21.4622 19.4198 10.8731 48.245
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 242
+CC  accession: M01514_2.00
+CC  AC: M01514_2.00
+CC  id: M01514_2.00
+CC  name: MBP1
+CC  version: 
+CC  name: MBP1
+CC  description: MBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 242
+XX
+//
+AC  M01515_2.00
+XX
+ID  XBP1
+XX
+DE  XBP1
+P0       A     C     G     T
+1    24.2061 25.703 21.6847 28.4062
+2    19.7268 29.7247 23.3823 27.1663
+3    8.51176 43.8796 6.69559 40.9131
+4    7.49096 16.0177 2.51858 73.9727
+5    0.786551 84.7667 2.38668 12.0601
+6    8.77402 8.77402 76.0807 6.37124
+7    62.6797 7.90929 19.8467 9.5643
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 243
+CC  accession: M01515_2.00
+CC  AC: M01515_2.00
+CC  id: M01515_2.00
+CC  name: XBP1
+CC  version: 
+CC  name: XBP1
+CC  description: XBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 243
+XX
+//
+AC  M01516_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1    32.0147 14.6757 15.7399 37.5696
+2    10.1234 16.8583 51.1542 21.8641
+3    68.4421 29.5472 1.90787 0.102898
+4    4.41257 6.07667 0.882017 88.6288
+5    0.040006 0.340028 99.6111     0
+6    0.0919564 94.0249 0.0499646 5.83317
+7    86.4471 1.11576 12.2992 0.138005
+8    14.6186 30.6397 30.6397 24.102
+9    17.8872 19.377 47.1854 15.5504
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 244
+CC  accession: M01516_2.00
+CC  AC: M01516_2.00
+CC  id: M01516_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 244
+XX
+//
+AC  M01517_2.00
+XX
+ID  ORC2,SUM1
+XX
+DE  ORC2,SUM1
+P0       A     C     G     T
+1    34.0141 17.7569 21.4725 26.7564
+2    40.2816 18.8384 22.7803 18.0997
+3    39.9077 14.6812 20.2179 25.1931
+4    33.2385 10.5245 16.8392 39.3978
+5    55.6169 0.0482426 10.2624 34.0724
+6    80.1022 0.0213501 1.08687 18.7896
+7    51.6361 0.0220205 0.196758 48.1452
+8    29.702 7.4724 6.49619 56.3294
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 245
+CC  accession: M01517_2.00
+CC  AC: M01517_2.00
+CC  id: M01517_2.00
+CC  name: ORC2,SUM1
+CC  version: 
+CC  name: ORC2,SUM1
+CC  description: ORC2,SUM1
+CC  transfac_consensus: 
+CC  matrix.nb: 245
+XX
+//
+AC  M01518_2.00
+XX
+ID  RTG3
+XX
+DE  RTG3
+P0       A     C     G     T
+1    32.4652 22.5116 22.5116 22.5116
+2    9.76761 9.76761 53.2933 27.1715
+3    9.64012 76.516 11.9132 1.9307
+4    68.78 9.66662 11.9132 9.64012
+5    0.0162181 82.3109 9.99874 7.67415
+6    7.72564 7.75214 76.8481 7.67415
+7    9.99874 7.75214 0.0162181 82.2329
+8    7.75214 0.0162181 92.2154 0.0162181
+9    78.7419 16.2488 2.50462 2.50462
+10   22.9065 29.3041 15.2486 32.5408
+11   23.0855 23.0855 23.0855 30.7434
+12   23.0855 23.0855 23.0855 30.7434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 246
+CC  accession: M01518_2.00
+CC  AC: M01518_2.00
+CC  id: M01518_2.00
+CC  name: RTG3
+CC  version: 
+CC  name: RTG3
+CC  description: RTG3
+CC  transfac_consensus: 
+CC  matrix.nb: 246
+XX
+//
+AC  M01519_2.00
+XX
+ID  PHO4
+XX
+DE  PHO4
+P0       A     C     G     T
+1    21.4421 61.8898 7.5034 9.16467
+2    56.842 10.7003 17.1205 15.3371
+3    0.0753767 89.5451 1.92465 8.45487
+4    11.9931 0.202773 87.7359 0.0681756
+5    4.02124 3.06973 4.53393 88.3751
+6    0.0296419 0.00405192 88.3613 11.605
+7    9.13996 38.9647 32.546 19.3493
+8    17.9095 27.5316 26.1888 28.37
+9    22.0868 26.9769 23.6883 27.248
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 247
+CC  accession: M01519_2.00
+CC  AC: M01519_2.00
+CC  id: M01519_2.00
+CC  name: PHO4
+CC  version: 
+CC  name: PHO4
+CC  description: PHO4
+CC  transfac_consensus: 
+CC  matrix.nb: 247
+XX
+//
+AC  M01520_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1    0.131815 99.8475 0.0106058 0.0100885
+2    99.5258 0.146668 0.135392 0.19213
+3    0.00175017 99.6795 0.037327 0.281383
+4    0.072349 0.0681357 99.8577     0
+5    0.0140472 0.00631182 0.029738 99.9499
+6    0.000327216 0.00157281 99.994     0
+7    93.1345 4.07164 1.63893 1.15494
+8    1.68133 65.3387 2.11612 30.8638
+9    16.2788 51.4117 11.8209 20.4886
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 248
+CC  accession: M01520_2.00
+CC  AC: M01520_2.00
+CC  id: M01520_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 248
+XX
+//
+AC  M01521_2.00
+XX
+ID  TYE7
+XX
+DE  TYE7
+P0       A     C     G     T
+1    15.7253 46.7714 19.5949 17.9084
+2    56.7369 8.23525 34.7585 0.269395
+3    12.7858 22.6087 7.30338 57.3021
+4    2.91908 84.038 9.21902 3.82389
+5    79.3478 2.04182 6.13396 12.4764
+6    1.7623 69.1737 20.4222 8.64188
+7    9.75151 20.644 67.8584 1.74617
+8    14.6656 13.9503 4.32972 67.0544
+9    9.2591 11.8889 71.9237 6.92824
+10   49.8056 12.2819 23.0606 14.8519
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 249
+CC  accession: M01521_2.00
+CC  AC: M01521_2.00
+CC  id: M01521_2.00
+CC  name: TYE7
+CC  version: 
+CC  name: TYE7
+CC  description: TYE7
+CC  transfac_consensus: 
+CC  matrix.nb: 249
+XX
+//
+AC  M01522_2.00
+XX
+ID  YAP6
+XX
+DE  YAP6
+P0       A     C     G     T
+1    23.0941 23.0941 30.7177 23.0941
+2    37.0531 20.9823 20.9823 20.9823
+3    4.41151 4.41151 55.9057 35.2713
+4    18.0302 0.016822 51.0764 30.8766
+5    47.6335 9.4344 42.9152 0.016822
+6    16.7738 15.3303 52.3328 15.5631
+7    8.61258 0.016822 81.9362 9.4344
+8    69.0898 0.016822 0.016822 30.8766
+9    68.0965 1.92273 28.058 1.92273
+10   70.4298 4.03454 12.0836 13.4521
+11   20.6053 30.0229 20.6053 28.7665
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 250
+CC  accession: M01522_2.00
+CC  AC: M01522_2.00
+CC  id: M01522_2.00
+CC  name: YAP6
+CC  version: 
+CC  name: YAP6
+CC  description: YAP6
+CC  transfac_consensus: 
+CC  matrix.nb: 250
+XX
+//
+AC  M01523_2.00
+XX
+ID  GCN4
+XX
+DE  GCN4
+P0       A     C     G     T
+1    21.1517 18.3884 28.2677 32.1921
+2    43.1823 13.269 35.0029 8.54573
+3    0.368386 0.0103722 4.82736e-05 99.6212
+4    0.314571 2.14567 85.0682 12.4716
+5    98.561 0.487081 0.3265 0.625425
+6    5.49199 63.0099 20.7655 10.7327
+7    22.6603 8.50465 21.3406 47.4945
+8    23.2372 49.1932 12.7529 14.8167
+9    46.9883 18.5394 18.3549 16.1174
+10   23.0654 25.7474 20.0521 31.1351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 251
+CC  accession: M01523_2.00
+CC  AC: M01523_2.00
+CC  id: M01523_2.00
+CC  name: GCN4
+CC  version: 
+CC  name: GCN4
+CC  description: GCN4
+CC  transfac_consensus: 
+CC  matrix.nb: 251
+XX
+//
+AC  M01524_2.00
+XX
+ID  YAP1
+XX
+DE  YAP1
+P0       A     C     G     T
+1    15.6235 23.7783 38.4275 22.1707
+2    40.2756 38.6964 12.1308 8.89728
+3    3.51719 0.0319899 5.74117 90.7096
+4    1.74459 3.24307 33.667 61.3453
+5    85.5397 0.0658076 5.46837 8.92611
+6    4.26048 53.4839 24.2734 17.9822
+7    21.8505 14.214 28.6234 35.3121
+8    40.9661 19.7419 11.2768 28.0152
+9    57.5008 12.9591 15.3605 14.1795
+10   29.779 16.3431 23.1919 30.6859
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 252
+CC  accession: M01524_2.00
+CC  AC: M01524_2.00
+CC  id: M01524_2.00
+CC  name: YAP1
+CC  version: 
+CC  name: YAP1
+CC  description: YAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 252
+XX
+//
+AC  M01525_2.00
+XX
+ID  RPN4
+XX
+DE  RPN4
+P0       A     C     G     T
+1    25.0241 32.0883 30.218 12.6697
+2    37.6259 6.13888 4.59654 51.6386
+3    35.9871 10.5338 9.87396 43.6052
+4    39.4764 8.34095 5.0374 47.1453
+5    36.106 7.80205 7.57675 48.5152
+6    48.5152 7.57675 7.80205 36.106
+7    47.1453 5.0374 8.34095 39.4764
+8    43.6052 9.87396 10.5338 35.9871
+9    51.6386 4.59654 6.13888 37.6259
+10   12.6697 30.218 32.0883 25.0241
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 253
+CC  accession: M01525_2.00
+CC  AC: M01525_2.00
+CC  id: M01525_2.00
+CC  name: RPN4
+CC  version: 
+CC  name: RPN4
+CC  description: RPN4
+CC  transfac_consensus: 
+CC  matrix.nb: 253
+XX
+//
+AC  M01526_2.00
+XX
+ID  STP4
+XX
+DE  STP4
+P0       A     C     G     T
+1    7.7454 15.4141 0.0766871 76.7638
+2    41.1385 0.0586854 58.7441 0.0586854
+3    0.0586854 93.9554 5.92723 0.0586854
+4    0.0586854 5.92723 93.9554 0.0586854
+5    0.0586854 5.92723 93.9554 0.0586854
+6    0.0586854 99.8239 0.0586854 0.0586854
+7    0.0623441 6.29676    25 68.6409
+8    0.0905797 18.2065 63.4964 18.2065
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 254
+CC  accession: M01526_2.00
+CC  AC: M01526_2.00
+CC  id: M01526_2.00
+CC  name: STP4
+CC  version: 
+CC  name: STP4
+CC  description: STP4
+CC  transfac_consensus: 
+CC  matrix.nb: 254
+XX
+//
+AC  M01527_2.00
+XX
+ID  NRG1
+XX
+DE  NRG1
+P0       A     C     G     T
+1    27.1445 14.1707 46.1166 12.5682
+2    23.9901 11.6773 51.2975 13.0351
+3    53.0858 9.99324 11.845 25.0759
+4    0.0433549 97.6769 0.00547077 2.27428
+5    0.0306465 99.9595 0.00436021     0
+6    3.37852 92.5212 0.0148084 4.08547
+7    5.10493 20.0897 10.0765 64.7289
+8    18.8229 13.2643 33.9564 33.9564
+9    29.4131 19.9143 24.3234 26.3492
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 255
+CC  accession: M01527_2.00
+CC  AC: M01527_2.00
+CC  id: M01527_2.00
+CC  name: NRG1
+CC  version: 
+CC  name: NRG1
+CC  description: NRG1
+CC  transfac_consensus: 
+CC  matrix.nb: 255
+XX
+//
+AC  M01528_2.00
+XX
+ID  MET32
+XX
+DE  MET32
+P0       A     C     G     T
+1    25.9255 60.4763 4.94817 8.65005
+2    0.980202 0.980202 97.0594 0.980202
+3    0.893489 99.0888 0.00884643     0
+4    0.00876885 99.0968 0.885654     0
+5    92.9586 3.51631 1.76254 1.76254
+6    0.00900576 99.973 0.00900576     0
+7    68.9453 12.6494 11.5005 6.90487
+8    17.2467 24.1385 43.091 15.5238
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 256
+CC  accession: M01528_2.00
+CC  AC: M01528_2.00
+CC  id: M01528_2.00
+CC  name: MET32
+CC  version: 
+CC  name: MET32
+CC  description: MET32
+CC  transfac_consensus: 
+CC  matrix.nb: 256
+XX
+//
+AC  M01529_2.00
+XX
+ID  MIG3
+XX
+DE  MIG3
+P0       A     C     G     T
+1    12.7526 65.7419 6.08445 15.4211
+2    0.134203 71.6361 3.90243 24.3273
+3    0.021457 92.6007 0.430976 6.94691
+4    0.0032271 89.4634 8.53205 2.00136
+5    34.0786 3.73844 50.8392 11.3438
+6    10.4263 55.3862 19.972 14.2155
+7    40.4413 19.2951 21.5387 18.7249
+8    25.8246 25.8246 18.941 29.4098
+9    24.883 24.1476 20.5772 30.3922
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 257
+CC  accession: M01529_2.00
+CC  AC: M01529_2.00
+CC  id: M01529_2.00
+CC  name: MIG3
+CC  version: 
+CC  name: MIG3
+CC  description: MIG3
+CC  transfac_consensus: 
+CC  matrix.nb: 257
+XX
+//
+AC  M01530_2.00
+XX
+ID  COM2
+XX
+DE  COM2
+P0       A     C     G     T
+1    9.3457 60.6377 2.49657 27.5201
+2    8.11903 56.4983 4.68427 30.6984
+3    11.9914 63.0665 6.32297 18.6191
+4    11.8472 62.9342 9.22659 15.992
+5    10.935 8.8637 16.6426 63.5588
+6    45.5521 12.5392 14.28 27.6288
+7    25.1391 12.7359 9.43499 52.69
+8    25.9424 28.3855 10.6534 35.0186
+9    23.2339 26.9939 18.0946 31.6777
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 258
+CC  accession: M01530_2.00
+CC  AC: M01530_2.00
+CC  id: M01530_2.00
+CC  name: COM2
+CC  version: 
+CC  name: COM2
+CC  description: COM2
+CC  transfac_consensus: 
+CC  matrix.nb: 258
+XX
+//
+AC  M01531_2.00
+XX
+ID  RPH1
+XX
+DE  RPH1
+P0       A     C     G     T
+1    10.0598 39.9402 10.0598 39.9402
+2    21.4337 39.2653 14.301    25
+3    25.4542 56.3408 5.46875 12.7362
+4    0.0138812 98.5702 0.0138812 1.402
+5    0.0133262 99.96 0.0133262 0.0133262
+6    0.0133262 95.9622 0.0133262 4.01119
+7    0.0133262 79.9707 0.0133262 20.0027
+8    0.0133262 0.0133262 1.34595 98.6274
+9    69.2036 0.0153752 4.62792 26.1531
+10   55.2934 4.27296 8.52466 31.909
+11   39.9701 10.0299 10.0299 39.9701
+12   33.2237 0.328947 0.328947 66.1184
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 259
+CC  accession: M01531_2.00
+CC  AC: M01531_2.00
+CC  id: M01531_2.00
+CC  name: RPH1
+CC  version: 
+CC  name: RPH1
+CC  description: RPH1
+CC  transfac_consensus: 
+CC  matrix.nb: 259
+XX
+//
+AC  M01532_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1    29.4105 29.4105 15.3536 25.8253
+2    9.17062 77.9451 0.128222 12.756
+3    0.36564 74.7309 0.027706 24.8758
+4    1.55271 92.7587 2.91538 2.7732
+5    3.25898 93.8235 0.0270902 2.89046
+6    40.0513 3.42178 45.6116 10.9153
+7    11.3515 48.3929 23.321 16.9345
+8    36.4908 19.2413 22.3552 21.9126
+9    25.0517 25.3034 17.4779 32.167
+10   25.7484 22.3846 19.4602 32.4069
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 260
+CC  accession: M01532_2.00
+CC  AC: M01532_2.00
+CC  id: M01532_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 260
+XX
+//
+AC  M01533_2.00
+XX
+ID  MIG2
+XX
+DE  MIG2
+P0       A     C     G     T
+1    27.8647 18.2745 19.1462 34.7146
+2    34.4559 18.6718 20.9356 25.9366
+3    8.00803 83.7093 1.98336 6.29938
+4    0.866061 79.9788 1.60111 17.554
+5    0.0911763 97.9318 1.37898 0.59802
+6    0.247003 99.0929 0.618338 0.0417604
+7    38.3823 2.92566 53.7548 4.93726
+8    4.45201 68.6976 16.5432 10.3072
+9    46.8905 15.9881 20.0987 17.0226
+10   25.7494 27.3968 17.0871 29.7667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 261
+CC  accession: M01533_2.00
+CC  AC: M01533_2.00
+CC  id: M01533_2.00
+CC  name: MIG2
+CC  version: 
+CC  name: MIG2
+CC  description: MIG2
+CC  transfac_consensus: 
+CC  matrix.nb: 261
+XX
+//
+AC  M01534_2.00
+XX
+ID  YGR067C
+XX
+DE  YGR067C
+P0       A     C     G     T
+1    29.4504 30.6523 20.5469 19.3503
+2    6.38283 75.4607 5.17382 12.9826
+3    2.75538 81.7411 3.39926 12.1043
+4    0.0411525 83.8919 6.95548 9.11143
+5    3.65026 85.1828 5.61139 5.55556
+6    38.3558 3.54985 34.3604 23.7339
+7    6.7403 76.5622 6.54109 10.1564
+8    25.5654 26.344 17.4832 30.6074
+9    24.072 23.5953 19.5124 32.8203
+10   22.4147 24.5256 22.1917 30.8679
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 262
+CC  accession: M01534_2.00
+CC  AC: M01534_2.00
+CC  id: M01534_2.00
+CC  name: YGR067C
+CC  version: 
+CC  name: YGR067C
+CC  description: YGR067C
+CC  transfac_consensus: 
+CC  matrix.nb: 262
+XX
+//
+AC  M01535_2.00
+XX
+ID  STP2
+XX
+DE  STP2
+P0       A     C     G     T
+1    26.5933 24.3044 29.9838 19.1185
+2    22.1377 29.8827 16.5648 31.4148
+3    37.5722 12.0163 32.6637 17.7478
+4    20.7451 48.0533 15.6788 15.5228
+5    0.0120928 10.7495 88.6644 0.573991
+6    0.0119679 0.0536366 99.9306     0
+7    10.6697 80.432 7.15214 1.74615
+8    34.621 11.4097 34.9689 19.0004
+9    23.0368 36.492 13.9725 26.4986
+10   24.6133 27.2019 22.0494 26.1353
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 263
+CC  accession: M01535_2.00
+CC  AC: M01535_2.00
+CC  id: M01535_2.00
+CC  name: STP2
+CC  version: 
+CC  name: STP2
+CC  description: STP2
+CC  transfac_consensus: 
+CC  matrix.nb: 263
+XX
+//
+AC  M01536_2.00
+XX
+ID  SFP1
+XX
+DE  SFP1
+P0       A     C     G     T
+1    58.2226 8.3887 8.3887    25
+2    18.7656 0.0623441 0.0623441 81.1097
+3    11.7958 0.0586854 0.0586854 88.0869
+4    0.0586854 0.0586854 0.0586854 99.8239
+5    0.0586854 0.0586854 0.0586854 99.8239
+6    0.0586854 0.0586854 0.0586854 99.8239
+7    0.0586854 0.0586854 0.0586854 99.8239
+8    0.0766871 69.0951 7.7454 23.0828
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 264
+CC  accession: M01536_2.00
+CC  AC: M01536_2.00
+CC  id: M01536_2.00
+CC  name: SFP1
+CC  version: 
+CC  name: SFP1
+CC  description: SFP1
+CC  transfac_consensus: 
+CC  matrix.nb: 264
+XX
+//
+AC  M01537_2.00
+XX
+ID  TDA9
+XX
+DE  TDA9
+P0       A     C     G     T
+1    24.6772 22.5533 18.0994 34.6702
+2    30.778 24.6999 19.8222 24.6999
+3    20.1231 71.6552 2.09985 6.12186
+4    3.24786 82.93 0.113949 13.7082
+5    0.0806634 93.9281 0.164069 5.82716
+6    6.91523 89.4542 0.584924 3.04569
+7    29.3275 1.85619 39.1941 29.6222
+8    7.52098 79.6544 4.08653 8.73813
+9    37.7685 21.1465 9.22093 31.864
+10   21.3151 31.482 18.7167 28.4861
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 265
+CC  accession: M01537_2.00
+CC  AC: M01537_2.00
+CC  id: M01537_2.00
+CC  name: TDA9
+CC  version: 
+CC  name: TDA9
+CC  description: TDA9
+CC  transfac_consensus: 
+CC  matrix.nb: 265
+XX
+//
+AC  M01538_2.00
+XX
+ID  USV1
+XX
+DE  USV1
+P0       A     C     G     T
+1    15.458 23.6369 48.1734 12.7317
+2    0.72641 69.7713 5.04171 24.4606
+3    12.341 80.5051 2.60322 4.55077
+4    0.00649182 99.9805 0.00649182     0
+5    0.00649182 95.4363 0.00649182 4.55077
+6    0.00649182 2.60322 1.30486 96.0854
+7    3.15649 0.795025 70.8517 25.1968
+8    61.1595 2.36359 18.8264 17.6505
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 266
+CC  accession: M01538_2.00
+CC  AC: M01538_2.00
+CC  id: M01538_2.00
+CC  name: USV1
+CC  version: 
+CC  name: USV1
+CC  description: USV1
+CC  transfac_consensus: 
+CC  matrix.nb: 266
+XX
+//
+AC  M01539_2.00
+XX
+ID  CMR3
+XX
+DE  CMR3
+P0       A     C     G     T
+1    17.8139 16.4598 29.0052 36.7211
+2    4.90064 2.61837 91.0649 1.4161
+3    99.9625 2.00257e-09 2.05889e-09 0.0374896
+4    1.59533 1.5804 0.343518 96.4808
+5    9.85554 45.6331 8.29628 36.2151
+6    18.7604 6.63355 26.1664 48.4396
+7    54.6202 8.58471 24.3059 12.4892
+8    2.8713 90.6935 1.77516 4.66003
+9    32.8677 15.0272 40.5641 11.5411
+10   19.4144 29.5019 26.7608 24.3229
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 267
+CC  accession: M01539_2.00
+CC  AC: M01539_2.00
+CC  id: M01539_2.00
+CC  name: CMR3
+CC  version: 
+CC  name: CMR3
+CC  description: CMR3
+CC  transfac_consensus: 
+CC  matrix.nb: 267
+XX
+//
+AC  M01540_2.00
+XX
+ID  YPR015C
+XX
+DE  YPR015C
+P0       A     C     G     T
+1    1.14144 73.8689 0.645514 24.3442
+2    0.00801372 0.138539 0.0303002 99.8231
+3    7.85298 65.4243 17.1311 9.59166
+4    10.2511 44.5846 25.7231 19.4411
+5    12.0587 49.8885 21.1109 16.9419
+6    11.3565 42.5122 19.294 26.8373
+7    15.3676 37.7981 19.9307 26.9036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 268
+CC  accession: M01540_2.00
+CC  AC: M01540_2.00
+CC  id: M01540_2.00
+CC  name: YPR015C
+CC  version: 
+CC  name: YPR015C
+CC  description: YPR015C
+CC  transfac_consensus: 
+CC  matrix.nb: 268
+XX
+//
+AC  M01541_2.00
+XX
+ID  FKH1
+XX
+DE  FKH1
+P0       A     C     G     T
+1    33.3384 18.6661 22.7988 25.1966
+2    24.3491 23.6295 19.1537 32.8678
+3    29.0403 12.0454 50.84 8.07428
+4    14.4493 10.8119 8.00962 66.7293
+5    66.5365 23.052 4.25354 6.15799
+6    73.7993 13.0835 2.72195 10.3953
+7    81.016 4.50256 5.23123 9.25021
+8    8.73217 61.3757 7.9806 21.9115
+9    81.571 3.10022 7.77936 7.54944
+10   40.2874 19.2217 16.0553 24.4356
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 269
+CC  accession: M01541_2.00
+CC  AC: M01541_2.00
+CC  id: M01541_2.00
+CC  name: FKH1
+CC  version: 
+CC  name: FKH1
+CC  description: FKH1
+CC  transfac_consensus: 
+CC  matrix.nb: 269
+XX
+//
+AC  M01542_2.00
+XX
+ID  FKH2
+XX
+DE  FKH2
+P0       A     C     G     T
+1    28.0208 20.7584 25.8665 25.3543
+2    25.4421 22.7919 22.7919 28.9742
+3    29.1528 13.6338 47.1132 10.1002
+4    17.7849 12.1624 11.005 59.0478
+5    60.0876 26.4645 5.39679 8.05106
+6    70.6052 14.8367 5.19192 9.36617
+7    75.5353 6.78422 6.71672 10.9638
+8    8.91688 52.8758 9.18844 29.0189
+9    71.752 6.9117 9.71058 11.6257
+10   35.6358 22.9507 19.3627 22.0508
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 270
+CC  accession: M01542_2.00
+CC  AC: M01542_2.00
+CC  id: M01542_2.00
+CC  name: FKH2
+CC  version: 
+CC  name: FKH2
+CC  description: FKH2
+CC  transfac_consensus: 
+CC  matrix.nb: 270
+XX
+//
+AC  M01543_2.00
+XX
+ID  FHL1
+XX
+DE  FHL1
+P0       A     C     G     T
+1    25.3538 23.1716 25.6086 25.866
+2    19.7686 24.388 44.4379 11.4055
+3    61.2621 11.7654 12.7453 14.2273
+4    8.85331 82.3346 0.0469248 8.76521
+5    6.60445 0.00907477 77.3038 16.0827
+6    4.87812 95.084 0.0012123 0.0366904
+7    62.407 5.66143 22.5036 9.42794
+8    38.6853 23.9378 19.9945 17.3824
+9    37.7692 17.6634 17.1414 27.4261
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 271
+CC  accession: M01543_2.00
+CC  AC: M01543_2.00
+CC  id: M01543_2.00
+CC  name: FHL1
+CC  version: 
+CC  name: FHL1
+CC  description: FHL1
+CC  transfac_consensus: 
+CC  matrix.nb: 271
+XX
+//
+AC  M01544_2.00
+XX
+ID  SRD1
+XX
+DE  SRD1
+P0       A     C     G     T
+1    16.5614 13.1586 50.2532 20.0269
+2    10.8826 14.5438 26.7669 47.8067
+3    93.4794 0.0756031 0.0357124 6.40925
+4    9.88169 0.0247404 77.5315 12.5621
+5    64.1626 4.26917 0.0230848 31.5452
+6    4.81978 0.0344836 0.254801 94.8909
+7    13.5691 59.015 8.91551 18.5004
+8    13.1979 37.3397 14.2971 35.1652
+9    26.3786 27.182 24.8424 21.597
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 272
+CC  accession: M01544_2.00
+CC  AC: M01544_2.00
+CC  id: M01544_2.00
+CC  name: SRD1
+CC  version: 
+CC  name: SRD1
+CC  description: SRD1
+CC  transfac_consensus: 
+CC  matrix.nb: 272
+XX
+//
+AC  M01545_2.00
+XX
+ID  GLN3
+XX
+DE  GLN3
+P0       A     C     G     T
+1    38.2278 26.6706 4.72829 30.3733
+2    0.166721 0.15545 99.3421 0.335736
+3    99.8364 0.00725208 0.000168855 0.156224
+4    0.0247012 0.576428 0.0045125 99.3944
+5    73.6465 2.63604 0.860085 22.8574
+6    60.3633 8.25138 22.8827 8.50267
+7    16.9766 28.8421 37.034 17.1472
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 273
+CC  accession: M01545_2.00
+CC  AC: M01545_2.00
+CC  id: M01545_2.00
+CC  name: GLN3
+CC  version: 
+CC  name: GLN3
+CC  description: GLN3
+CC  transfac_consensus: 
+CC  matrix.nb: 273
+XX
+//
+AC  M01546_2.00
+XX
+ID  GAT1
+XX
+DE  GAT1
+P0       A     C     G     T
+1    24.7804 27.114 23.5718 24.5338
+2    26.167 29.7997 15.402 28.6313
+3    5.27802 2.98486 87.6675 4.06963
+4    92.6075 2.19981 1.10337 4.08929
+5    5.86874 2.26968 2.7722 89.0894
+6    70.5984 4.25038 1.41483 23.7364
+7    46.6491 15.5281 20.1389 17.6839
+8    19.9833 27.5195 36.7778 15.7194
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 274
+CC  accession: M01546_2.00
+CC  AC: M01546_2.00
+CC  id: M01546_2.00
+CC  name: GAT1
+CC  version: 
+CC  name: GAT1
+CC  description: GAT1
+CC  transfac_consensus: 
+CC  matrix.nb: 274
+XX
+//
+AC  M01547_2.00
+XX
+ID  GAT4
+XX
+DE  GAT4
+P0       A     C     G     T
+1    35.3511 20.161 19.8409 24.647
+2    29.7149 23.6702 16.8914 29.7236
+3    52.7519 13.2522 18.9709 15.025
+4    21.9015 8.74629 57.52 11.8323
+5    67.9754 2.42856 4.03845 25.5575
+6    25.5575 4.03845 2.42856 67.9754
+7    11.8323 57.52 8.74629 21.9015
+8    15.025 18.9709 13.2522 52.7519
+9    29.7236 16.8914 23.6702 29.7149
+10   24.647 19.8409 20.161 35.3511
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 275
+CC  accession: M01547_2.00
+CC  AC: M01547_2.00
+CC  id: M01547_2.00
+CC  name: GAT4
+CC  version: 
+CC  name: GAT4
+CC  description: GAT4
+CC  transfac_consensus: 
+CC  matrix.nb: 275
+XX
+//
+AC  M01548_2.00
+XX
+ID  GZF3
+XX
+DE  GZF3
+P0       A     C     G     T
+1    24.1608 27.5151 23.9204 24.4037
+2    29.623 27.6203 12.5353 30.2214
+3    11.207 5.62114 76.4422 6.72973
+4    84.5075 3.30964 4.04241 8.14041
+5    13.3048 3.24828 8.39911 75.0478
+6    66.849 6.00406 5.11632 22.0307
+7    50.8784 13.4562 19.8745 15.791
+8    20.4053 26.4642 38.3132 14.8173
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 276
+CC  accession: M01548_2.00
+CC  AC: M01548_2.00
+CC  id: M01548_2.00
+CC  name: GZF3
+CC  version: 
+CC  name: GZF3
+CC  description: GZF3
+CC  transfac_consensus: 
+CC  matrix.nb: 276
+XX
+//
+AC  M01549_2.00
+XX
+ID  GAT3
+XX
+DE  GAT3
+P0       A     C     G     T
+1    18.7065 17.6171 44.2065 19.4699
+2    17.6846 11.8543 17.8623 52.5988
+3    95.232 0.0998901 4.60119 0.0669584
+4    3.07111 0.0100724 96.7412 0.177646
+5    65.4621 0.275676 0.428044 33.8342
+6    0.864416 1.86694 0.308603 96.96
+7    7.37624 59.6363 12.5317 20.4558
+8    13.7503 36.637 16.4621 33.1506
+9    30.115 25.6623 30.4177 13.8049
+10   28.71 20.0303 27.0381 24.2216
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 277
+CC  accession: M01549_2.00
+CC  AC: M01549_2.00
+CC  id: M01549_2.00
+CC  name: GAT3
+CC  version: 
+CC  name: GAT3
+CC  description: GAT3
+CC  transfac_consensus: 
+CC  matrix.nb: 277
+XX
+//
+AC  M01550_2.00
+XX
+ID  MATALPHA2
+XX
+DE  MATALPHA2
+P0       A     C     G     T
+1    35.1413 17.9821 21.1022 25.7743
+2    39.8208 12.1143 23.9122 24.1526
+3    42.6283 19.9358 21.5962 15.8397
+4    95.2934 0.681786 1.548 2.47678
+5    1.9835 74.059 6.58545 17.372
+6    99.5255 0.013173 0.0118008 0.449515
+7    99.9488 0.00683744 0.00763249 0.0366867
+8    5.76901 0.91622 1.2492 92.0656
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 278
+CC  accession: M01550_2.00
+CC  AC: M01550_2.00
+CC  id: M01550_2.00
+CC  name: MATALPHA2
+CC  version: 
+CC  name: MATALPHA2
+CC  description: MATALPHA2
+CC  transfac_consensus: 
+CC  matrix.nb: 278
+XX
+//
+AC  M01551_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1    15.3118 26.0137 34.4195 24.255
+2    5.12295 23.6587 3.61008 67.6083
+3    74.3002 12.783 2.55516 10.3617
+4    88.6081 4.41154 2.10481 4.87551
+5    0.00961698 0.874393 0.051087 99.0649
+6    45.7287 14.1927 4.10714 35.9715
+7    36.1372 13.2941 4.16753 46.4011
+8    52.2147 15.262 10.6479 21.8754
+9    32.9757 19.6048 12.7531 34.6664
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 279
+CC  accession: M01551_2.00
+CC  AC: M01551_2.00
+CC  id: M01551_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 279
+XX
+//
+AC  M01552_2.00
+XX
+ID  YOX1
+XX
+DE  YOX1
+P0       A     C     G     T
+1    12.4134 21.7317 17.9713 47.8836
+2    42.5499 8.17171 6.30081 42.9776
+3    54.5914 6.1711 11.0218 28.2157
+4    96.2144 0.00368523 3.76813 0.0137954
+5    6.4162 7.83676 17.7934 67.9537
+6    16.0587 8.29994 21.2477 54.3937
+7    44.5369 7.66235 38.7185 9.08222
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 280
+CC  accession: M01552_2.00
+CC  AC: M01552_2.00
+CC  id: M01552_2.00
+CC  name: YOX1
+CC  version: 
+CC  name: YOX1
+CC  description: YOX1
+CC  transfac_consensus: 
+CC  matrix.nb: 280
+XX
+//
+AC  M01553_2.00
+XX
+ID  CUP9
+XX
+DE  CUP9
+P0       A     C     G     T
+1    35.8997 14.3067 19.5062 30.2874
+2    14.8478 11.9157 10.5683 62.6682
+3    0.899682 0.120547 98.9175 0.062305
+4    67.8056 3.40977 14.5362 14.2484
+5    3.63114 94.5896 1.17298 0.606256
+6    72.9835 2.03447 18.3611 6.62092
+7    2.128 63.7637 14.515 19.5932
+8    62.5086 13.1353 6.26704 18.089
+9    41.2258 4.70706 5.2021 48.8651
+10   35.4273 17.0727 8.73627 38.7637
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 281
+CC  accession: M01553_2.00
+CC  AC: M01553_2.00
+CC  id: M01553_2.00
+CC  name: CUP9
+CC  version: 
+CC  name: CUP9
+CC  description: CUP9
+CC  transfac_consensus: 
+CC  matrix.nb: 281
+XX
+//
+AC  M01554_2.00
+XX
+ID  MGA1
+XX
+DE  MGA1
+P0       A     C     G     T
+1    26.3925 21.1805 28.3061 24.1209
+2    18.3192 25.9962 25.4814 30.2032
+3    26.3878 22.7122 33.2117 17.6883
+4    10.4221 1.79307 6.01305 81.7717
+5    6.37167 3.13259 0.310945 90.1848
+6    7.17825 83.1841 3.45927 6.17838
+7    9.61848 27.7625 25.8856 36.7334
+8    29.3438 23.5489 24.0247 23.0826
+9    18.4072 26.9165 12.4627 42.2136
+10   28.274 22.9185 27.4384 21.3691
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 282
+CC  accession: M01554_2.00
+CC  AC: M01554_2.00
+CC  id: M01554_2.00
+CC  name: MGA1
+CC  version: 
+CC  name: MGA1
+CC  description: MGA1
+CC  transfac_consensus: 
+CC  matrix.nb: 282
+XX
+//
+AC  M01555_2.00
+XX
+ID  SKN7
+XX
+DE  SKN7
+P0       A     C     G     T
+1    17.7497 34.3421 20.6223 27.2859
+2    8.66965 21.3239 33.7786 36.2278
+3    11.4953 3.26068 84.9392 0.304811
+4    0.138589 1.86593 88.5668 9.42869
+5    6.30673 84.9122 6.76402 2.01701
+6    0.490395 38.7626 35.7824 24.9645
+7    42.3871 10.2456 28.1302 19.2372
+8    24.3651 14.1987 15.2282 46.2079
+9    34.9097 15.8436 18.5926 30.6541
+10   30.7704 20.2176 18.8508 30.1611
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 283
+CC  accession: M01555_2.00
+CC  AC: M01555_2.00
+CC  id: M01555_2.00
+CC  name: SKN7
+CC  version: 
+CC  name: SKN7
+CC  description: SKN7
+CC  transfac_consensus: 
+CC  matrix.nb: 283
+XX
+//
+AC  M01556_2.00
+XX
+ID  SFL1
+XX
+DE  SFL1
+P0       A     C     G     T
+1    20.1194 20.1194 30.4697 29.2914
+2    23.078 22.6281 12.7278 41.5661
+3    15.273 4.92276 4.92276 74.8814
+4    2.59289 21.4641 12.9432 62.9998
+5    0.0154295 99.9537 0.0154295 0.0154295
+6    0.0154295 0.0154295 0.0154295 99.9537
+7    0.0154295 0.0154295 0.0154295 99.9537
+8    0.0154295 99.9537 0.0154295 0.0154295
+9    4.896 15.3606 14.2155 65.5279
+10   53.4377 12.2877 12.2877 21.9869
+11   20.0927 20.0927 20.0927 39.722
+12   22.4225 22.4225 22.4225 32.7324
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 284
+CC  accession: M01556_2.00
+CC  AC: M01556_2.00
+CC  id: M01556_2.00
+CC  name: SFL1
+CC  version: 
+CC  name: SFL1
+CC  description: SFL1
+CC  transfac_consensus: 
+CC  matrix.nb: 284
+XX
+//
+AC  M01557_2.00
+XX
+ID  SMP1
+XX
+DE  SMP1
+P0       A     C     G     T
+1    0.961538 0.961538 0.961538 97.1154
+2    0.961538 0.961538 0.961538 97.1154
+3    97.1154 0.961538 0.961538 0.961538
+4    97.1154 0.961538 0.961538 0.961538
+5    0.961538 0.961538 0.961538 97.1154
+6    97.1154 0.961538 0.961538 0.961538
+7    97.1154 0.961538 0.961538 0.961538
+8    97.1154 0.961538 0.961538 0.961538
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 285
+CC  accession: M01557_2.00
+CC  AC: M01557_2.00
+CC  id: M01557_2.00
+CC  name: SMP1
+CC  version: 
+CC  name: SMP1
+CC  description: SMP1
+CC  transfac_consensus: 
+CC  matrix.nb: 285
+XX
+//
+AC  M01558_2.00
+XX
+ID  MCM1
+XX
+DE  MCM1
+P0       A     C     G     T
+1    11.2022 58.3295 8.13444 22.3339
+2    21.4189 22.9719 34.6145 20.9947
+3    41.7547 15.2079 22.9155 20.122
+4    58.4466 6.03825 12.9114 22.6037
+5    38.5008 9.12191 9.39971 42.9776
+6    30.1324 23.0024 17.9143 28.9509
+7    25.7339 27.3252 28.4403 18.5007
+8    27.8132 3.4747 64.4255 4.28667
+9    10.9929 0.0794406 74.2363 14.6913
+10   39.2464 18.5387 18.1716 24.0434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 286
+CC  accession: M01558_2.00
+CC  AC: M01558_2.00
+CC  id: M01558_2.00
+CC  name: MCM1
+CC  version: 
+CC  name: MCM1
+CC  description: MCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 286
+XX
+//
+AC  M01559_2.00
+XX
+ID  TOD6
+XX
+DE  TOD6
+P0       A     C     G     T
+1    17.5114 35.976 31.5904 14.9222
+2    13.0473 21.7276 26.8049 38.4202
+3    1.45051 92.0114 0.772527 5.76562
+4    78.3504 2.56303 3.42531 15.6613
+5    0.016597 0.906165 10.7131 88.3641
+6    0.832514 84.4953 0.279905 14.3923
+7    18.5626 15.5048 42.5699 23.3628
+8    21.6501 37.1517 24.1676 17.0306
+9    24.2385 24.9766 26.7876 23.9973
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 287
+CC  accession: M01559_2.00
+CC  AC: M01559_2.00
+CC  id: M01559_2.00
+CC  name: TOD6
+CC  version: 
+CC  name: TOD6
+CC  description: TOD6
+CC  transfac_consensus: 
+CC  matrix.nb: 287
+XX
+//
+AC  M01560_2.00
+XX
+ID  DOT6
+XX
+DE  DOT6
+P0       A     C     G     T
+1    15.5386 39.3828 34.2377 10.8409
+2    10.1228 19.5855 26.7034 43.5883
+3    0.353899 97.637 0.454416 1.55466
+4    92.7069 0.526999 1.07191 5.69417
+5    0.23295 0.437389 4.40645 94.9232
+6    0.108041 93.2009 0.551429 6.13959
+7    16.0329 10.1213 55.4035 18.4422
+8    20.4314 44.5705 22.3555 12.6426
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 288
+CC  accession: M01560_2.00
+CC  AC: M01560_2.00
+CC  id: M01560_2.00
+CC  name: DOT6
+CC  version: 
+CC  name: DOT6
+CC  description: DOT6
+CC  transfac_consensus: 
+CC  matrix.nb: 288
+XX
+//
+AC  M01561_2.00
+XX
+ID  BAS1
+XX
+DE  BAS1
+P0       A     C     G     T
+1    0.142045 0.142045 0.142045 99.5739
+2    0.110619 0.110619 99.6681 0.110619
+3    99.6681 0.110619 0.110619 0.110619
+4    0.110619 99.6681 0.110619 0.110619
+5    0.110619 0.110619 0.110619 99.6681
+6    0.110619 99.6681 0.110619 0.110619
+7    0.110619 22.2345 44.3584 33.2965
+8    0.142045 0.142045 71.1648 28.5511
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 289
+CC  accession: M01561_2.00
+CC  AC: M01561_2.00
+CC  id: M01561_2.00
+CC  name: BAS1
+CC  version: 
+CC  name: BAS1
+CC  description: BAS1
+CC  transfac_consensus: 
+CC  matrix.nb: 289
+XX
+//
+AC  M01562_2.00
+XX
+ID  TBF1
+XX
+DE  TBF1
+P0       A     C     G     T
+1    21.0808 28.7422 22.8366 27.3404
+2    34.6966 18.8524 21.2561 25.1949
+3    64.2603 6.57282 9.42101 19.7458
+4    49.8983 6.82087 38.4742 4.80659
+5    11.8621 83.3751 1.2255 3.53725
+6    0.0197403 99.9738 0.00267156     0
+7    0.119293 99.8655 0.0107143     0
+8    0.563978 6.73461 2.02842 90.673
+9    63.0604 12.3554 17.015 7.56924
+10   42.2559 15.7013 22.2812 19.7616
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 290
+CC  accession: M01562_2.00
+CC  AC: M01562_2.00
+CC  id: M01562_2.00
+CC  name: TBF1
+CC  version: 
+CC  name: TBF1
+CC  description: TBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 290
+XX
+//
+AC  M01563_2.00
+XX
+ID  NDT80
+XX
+DE  NDT80
+P0       A     C     G     T
+1    23.1217 12.9675 11.0158 52.8949
+2    9.95919 28.5966 3.64942 57.7947
+3    10.5809 10.9352 1.15283 77.3311
+4    6.08454 11.9289 0.658777 81.3278
+5    12.65 11.5232 2.23213 73.5946
+6    12.145 12.3004 67.3175 8.23707
+7    8.47148 10.1396 3.7741 77.6148
+8    31.6956 1.8337 37.9079 28.5628
+9    19.5859 22.516 22.4505 35.4476
+10   22.6011 40.0663 7.5828 29.7498
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 291
+CC  accession: M01563_2.00
+CC  AC: M01563_2.00
+CC  id: M01563_2.00
+CC  name: NDT80
+CC  version: 
+CC  name: NDT80
+CC  description: NDT80
+CC  transfac_consensus: 
+CC  matrix.nb: 291
+XX
+//
+AC  M01564_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    15.4614 14.4161 48.8301 21.2923
+2    9.368 1.23035 76.5007 12.9009
+3    19.2584 0.189749 75.0343 5.51761
+4    2.87504 0.0216244 21.4573 75.646
+5    6.11676 1.31132 75.2663 17.3056
+6    7.09434 34.7888 12.5447 45.5721
+7    49.8286 19.8576 18.1485 12.1653
+8    13.8731 37.711 15.9578 32.4581
+9    15.4561 6.80734 60.825 16.9116
+10   13.6244 9.13271 62.9199 14.3229
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 292
+CC  accession: M01564_2.00
+CC  AC: M01564_2.00
+CC  id: M01564_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 292
+XX
+//
+AC  M01565_2.00
+XX
+ID  NHP6B
+XX
+DE  NHP6B
+P0       A     C     G     T
+1    27.5621 19.6179 18.4754 34.3445
+2    23.9066 19.7698 15.7078 40.6158
+3    35.1405 6.54927 11.8148 46.4954
+4    27.5882 14.547 10.9944 46.8704
+5    46.5587 10.3886 6.42832 36.6244
+6    34.3551 8.47186 50.2369 6.93617
+7    3.98931 33.9069 5.07141 57.0324
+8    29.9986 7.25109 43.4301 19.3202
+9    21.2492 21.0378 36.4638 21.2492
+10   18.3038 22.1338 41.9764 17.5861
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 293
+CC  accession: M01565_2.00
+CC  AC: M01565_2.00
+CC  id: M01565_2.00
+CC  name: NHP6B
+CC  version: 
+CC  name: NHP6B
+CC  description: NHP6B
+CC  transfac_consensus: 
+CC  matrix.nb: 293
+XX
+//
+AC  M01566_2.00
+XX
+ID  NHP6A
+XX
+DE  NHP6A
+P0       A     C     G     T
+1    27.0726 29.9198 15.935 27.0726
+2    17.1103 40.4343 5.86897 36.5865
+3    70.1225 4.80782 20.4963 4.57334
+4    5.3179 44.7494 9.03476 40.8979
+5    40.7307 4.93811 5.5677 48.7635
+6    52.5518 9.79429 12.8302 24.8237
+7    51.0778 9.42486 11.7441 27.7532
+8    34.3791 17.5921 27.5898 20.4391
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 294
+CC  accession: M01566_2.00
+CC  AC: M01566_2.00
+CC  id: M01566_2.00
+CC  name: NHP6A
+CC  version: 
+CC  name: NHP6A
+CC  description: NHP6A
+CC  transfac_consensus: 
+CC  matrix.nb: 294
+XX
+//
+AC  M01567_2.00
+XX
+ID  SPT15
+XX
+DE  SPT15
+P0       A     C     G     T
+1    31.5311 18.9343 20.7174 28.8172
+2    34.5705 14.1966 21.1788 30.0541
+3    27.1982 11.058 15.5359 46.2079
+4    58.3542 0.086859 11.0954 30.4636
+5    21.9565 0.643432 18.8981 58.502
+6    93.4996 0.0353646 5.19636 1.26866
+7    42.2777 0.0470878 9.52823 48.147
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 295
+CC  accession: M01567_2.00
+CC  AC: M01567_2.00
+CC  id: M01567_2.00
+CC  name: SPT15
+CC  version: 
+CC  name: SPT15
+CC  description: SPT15
+CC  transfac_consensus: 
+CC  matrix.nb: 295
+XX
+//
+AC  M01568_2.00
+XX
+ID  TEC1
+XX
+DE  TEC1
+P0       A     C     G     T
+1    26.1987 21.2362 24.1844 28.3807
+2    19.4988 36.9791 24.7878 18.7342
+3    34.2573 18.9898 36.0137 10.7392
+4    42.5953 8.59985 43.8925 4.91231
+5    6.30336 3.56471 90.1147 0.0172677
+6    78.1913 2.716 0.0028205 19.0899
+7    98.2815 0.00290255 0.382065 1.33354
+8    0.288211 7.21337 0.116012 92.3824
+9    1.84358 4.81488 75.3174 18.0241
+10   8.72392 34.3317 10.1357 46.8087
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 296
+CC  accession: M01568_2.00
+CC  AC: M01568_2.00
+CC  id: M01568_2.00
+CC  name: TEC1
+CC  version: 
+CC  name: TEC1
+CC  description: TEC1
+CC  transfac_consensus: 
+CC  matrix.nb: 296
+XX
+//
+AC  M01569_2.00
+XX
+ID  STB3
+XX
+DE  STB3
+P0       A     C     G     T
+1    45.3739 14.5946 19.8972 20.1344
+2    43.9732 12.2792 13.2602 30.4874
+3    27.7979 8.66746 2.73072 60.8039
+4    14.053 4.77407 3.4984 77.6746
+5    5.24168 5.88338 1.83564 87.0393
+6    7.26812 1.32128 9.8038 81.6068
+7    0.97503 18.9509 8.28219 71.7918
+8    0.651434 95.5927 0.73001 3.02588
+9    83.009 2.0009 12.1361 2.85403
+10   27.3891 26.6986 22.4695 23.4428
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 297
+CC  accession: M01569_2.00
+CC  AC: M01569_2.00
+CC  id: M01569_2.00
+CC  name: STB3
+CC  version: 
+CC  name: STB3
+CC  description: STB3
+CC  transfac_consensus: 
+CC  matrix.nb: 297
+XX
+//
+AC  M01570_2.00
+XX
+ID  OAF1
+XX
+DE  OAF1
+P0       A     C     G     T
+1    15.2768 15.2768 15.2768 54.1695
+2    0.0183568 99.9449 0.0183568 0.0183568
+3    0.0183568 0.0183568 99.9449 0.0183568
+4    0.0183568 0.0183568 99.9449 0.0183568
+5    62.0093 10.3989 27.5734 0.0183568
+6    21.7073 8.7978 39.7413 29.7536
+7    11.7226 0.0183568 9.09216 79.1669
+8    18.1871 0.0183568 0.0183568 81.7761
+9    70.7755 9.74151 9.74151 9.74151
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 298
+CC  accession: M01570_2.00
+CC  AC: M01570_2.00
+CC  id: M01570_2.00
+CC  name: OAF1
+CC  version: 
+CC  name: OAF1
+CC  description: OAF1
+CC  transfac_consensus: 
+CC  matrix.nb: 298
+XX
+//
+AC  M01571_2.00
+XX
+ID  TBS1
+XX
+DE  TBS1
+P0       A     C     G     T
+1    27.3759 17.11 39.2386 16.2755
+2    3.26413 88.4991 0.046097 8.19065
+3    0.0119085 3.48858 96.4954     0
+4    0.101378 0.304557 99.594     0
+5    46.8095 19.0313 18.1031 16.0561
+6    26.756 21.4722 16.7225 35.0494
+7    20.854 39.1557 23.7491 16.2411
+8    23.2688 35.0618 22.808 18.8613
+9    25.8285 22.2308 29.7099 22.2308
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 299
+CC  accession: M01571_2.00
+CC  AC: M01571_2.00
+CC  id: M01571_2.00
+CC  name: TBS1
+CC  version: 
+CC  name: TBS1
+CC  description: TBS1
+CC  transfac_consensus: 
+CC  matrix.nb: 299
+XX
+//
+AC  M01572_2.00
+XX
+ID  ERT1
+XX
+DE  ERT1
+P0       A     C     G     T
+1    33.6268 19.9918 26.1886 20.1928
+2    18.824 29.8186 16.3648 34.9925
+3    8.83702 77.3971 11.234 2.53185
+4    1.58183 0.0577624 98.3549     0
+5    6.46152 0.180119 93.3041 0.0542509
+6    73.0372 4.57665 16.626 5.76018
+7    56.6126 6.93258 27.2821 9.1727
+8    19.9036 33.4784 18.3734 28.2446
+9    26.1315 24.6097 25.6141 23.6447
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 300
+CC  accession: M01572_2.00
+CC  AC: M01572_2.00
+CC  id: M01572_2.00
+CC  name: ERT1
+CC  version: 
+CC  name: ERT1
+CC  description: ERT1
+CC  transfac_consensus: 
+CC  matrix.nb: 300
+XX
+//
+AC  M01573_2.00
+XX
+ID  RDS1
+XX
+DE  RDS1
+P0       A     C     G     T
+1    21.9731 15.9558 31.8113 30.2598
+2    8.48123 5.97662 60.8161 24.726
+3    0.541241 86.1517 0.421519 12.8856
+4    0.0255898 3.36841 96.0088 0.597166
+5    0.457221 9.65437 88.891 0.997414
+6    30.6906 27.77 31.6253 9.91409
+7    15.1892 25.8055 23.8215 35.1838
+8    27.3801 19.6842 31.1813 21.7544
+9    35.0547 13.831 20.0236 31.0907
+10   30.8266 21.293 26.7993 21.0811
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 301
+CC  accession: M01573_2.00
+CC  AC: M01573_2.00
+CC  id: M01573_2.00
+CC  name: RDS1
+CC  version: 
+CC  name: RDS1
+CC  description: RDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 301
+XX
+//
+AC  M01574_2.00
+XX
+ID  LYS14
+XX
+DE  LYS14
+P0       A     C     G     T
+1    28.6643 28.0967 25.6785 17.5605
+2    17.6011 51.314 14.9987 16.0862
+3    7.8164 3.65547 79.5371 8.991
+4    9.52505 14.9383 65.6229 9.91377
+5    63.8738 3.02499 24.4568 8.64438
+6    75.9521 0.0590189 8.50031 15.4886
+7    27.065 10.5724 9.47108 52.8915
+8    26.8606 16.2918 12.5618 44.2857
+9    28.9663 19.8089 16.5458 34.679
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 302
+CC  accession: M01574_2.00
+CC  AC: M01574_2.00
+CC  id: M01574_2.00
+CC  name: LYS14
+CC  version: 
+CC  name: LYS14
+CC  description: LYS14
+CC  transfac_consensus: 
+CC  matrix.nb: 302
+XX
+//
+AC  M01575_2.00
+XX
+ID  UME6
+XX
+DE  UME6
+P0       A     C     G     T
+1    27.1024 27.1024 36.9521 8.84298
+2    3.11016 5.33705 81.0181 10.5347
+3    0.00267201 99.9905 0.000982977     0
+4    0.045388 4.04504 93.4561 2.45344
+5    4.95861 29.4039 57.4621 8.17537
+6    15.6166 35.1046 18.1439 31.135
+7    35.8877 11.2503 8.58824 44.2738
+8    44.4497 17.1905 17.3633 20.9965
+9    29.895 20.6495 20.444 29.0115
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 303
+CC  accession: M01575_2.00
+CC  AC: M01575_2.00
+CC  id: M01575_2.00
+CC  name: UME6
+CC  version: 
+CC  name: UME6
+CC  description: UME6
+CC  transfac_consensus: 
+CC  matrix.nb: 303
+XX
+//
+AC  M01576_2.00
+XX
+ID  RSC3
+XX
+DE  RSC3
+P0       A     C     G     T
+1    32.4398 21.1024 22.1843 24.2735
+2    24.3782 27.4863 21.1934 26.9421
+3    27.9518 20.9153 26.5886 24.5443
+4    29.3345 21.95 27.6262 21.0893
+5    16.7383 39.1617 21.2786 22.8214
+6    6.23943 42.5589 50.4452 0.756455
+7    2.33052 89.6659 7.97323 0.0303819
+8    0.00978816 0.00435434 98.8316 1.15421
+9    31.4645 29.0454 17.9728 21.5173
+10   27.3388 22.3831 29.6158 20.6622
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 304
+CC  accession: M01576_2.00
+CC  AC: M01576_2.00
+CC  id: M01576_2.00
+CC  name: RSC3
+CC  version: 
+CC  name: RSC3
+CC  description: RSC3
+CC  transfac_consensus: 
+CC  matrix.nb: 304
+XX
+//
+AC  M01577_2.00
+XX
+ID  ARO80
+XX
+DE  ARO80
+P0       A     C     G     T
+1    21.9731 31.4946 20.4875 26.0448
+2    17.9289 19.6174 19.2289 43.2248
+3    0.555869 97.7856 1.55702 0.101548
+4    0.00375796 8.46654 91.4801 0.0495943
+5    0.0059578 2.60373 97.2171 0.173244
+6    20.3319 27.9997 28.2811 23.3873
+7    46.8549 10.8814 13.5591 28.7046
+8    33.9372 19.7768 20.3791 25.9069
+9    25.1654 23.464 24.915 26.4556
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 305
+CC  accession: M01577_2.00
+CC  AC: M01577_2.00
+CC  id: M01577_2.00
+CC  name: ARO80
+CC  version: 
+CC  name: ARO80
+CC  description: ARO80
+CC  transfac_consensus: 
+CC  matrix.nb: 305
+XX
+//
+AC  M01578_2.00
+XX
+ID  URC2
+XX
+DE  URC2
+P0       A     C     G     T
+1    33.9939 16.219 28.1116 21.6755
+2    30.7076 22.9774 21.424 24.8911
+3    25.5236 38.8459 17.2809 18.3495
+4    21.8565 12.8649 50.6277 14.6509
+5    23.7726 13.9927 46.9243 15.3104
+6    49.3026 13.708 20.2464 16.743
+7    28.705 15.7536 36.4912 19.0501
+8    43.531 12.9808 17.3479 26.1402
+9    30.8672 12.4248 20.485 36.223
+10   45.6001 13.196 23.5685 17.6354
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 306
+CC  accession: M01578_2.00
+CC  AC: M01578_2.00
+CC  id: M01578_2.00
+CC  name: URC2
+CC  version: 
+CC  name: URC2
+CC  description: URC2
+CC  transfac_consensus: 
+CC  matrix.nb: 306
+XX
+//
+AC  M01579_2.00
+XX
+ID  PDR1
+XX
+DE  PDR1
+P0       A     C     G     T
+1    19.0579 19.0579 19.0579 42.8262
+2    14.3955 23.2498 14.3955 47.9593
+3    11.6723 46.0293 11.6723 30.6261
+4    0.0203832 99.9388 0.0203832 0.0203832
+5    0.0203832 0.0203832 99.9388 0.0203832
+6    0.0203832 0.0203832 99.9388 0.0203832
+7    99.9388 0.0203832 0.0203832 0.0203832
+8    99.9388 0.0203832 0.0203832 0.0203832
+9    14.7046 36.131 5.96245 43.202
+10   68.1252 10.6249 10.6249 10.6249
+11   42.0063 13.3481 22.404 22.2416
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 307
+CC  accession: M01579_2.00
+CC  AC: M01579_2.00
+CC  id: M01579_2.00
+CC  name: PDR1
+CC  version: 
+CC  name: PDR1
+CC  description: PDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 307
+XX
+//
+AC  M01580_2.00
+XX
+ID  RSC30
+XX
+DE  RSC30
+P0       A     C     G     T
+1    28.7244 22.5954 28.4385 20.2417
+2    23.011 30.4465 24.4339 22.1087
+3    27.5061 8.70945 44.0096 19.7748
+4    5.52264 92.6525 0.476568 1.34832
+5    0.228906 6.45952 93.2752 0.0363542
+6    2.03175 30.8426 64.6441 2.48158
+7    27.9721 20.1098 41.3143 10.6038
+8    25.4472 29.8626 22.3451 22.3451
+9    31.0747 20.6227 19.617 28.6856
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 308
+CC  accession: M01580_2.00
+CC  AC: M01580_2.00
+CC  id: M01580_2.00
+CC  name: RSC30
+CC  version: 
+CC  name: RSC30
+CC  description: RSC30
+CC  transfac_consensus: 
+CC  matrix.nb: 308
+XX
+//
+AC  M01581_2.00
+XX
+ID  ASG1
+XX
+DE  ASG1
+P0       A     C     G     T
+1    20.7178 34.848 17.832 26.6022
+2    5.23087 78.6161 9.43642 6.71657
+3    0.00913326 0.0875249 99.8998     0
+4    0.896198 5.36773 93.7288     0
+5    41.4537 20.7922 25.143 12.6111
+6    35.8353 12.4154 13.3156 38.4337
+7    31.7902 24.5119 24.0266 19.6713
+8    26.3516 22.681 24.0835 26.8839
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 309
+CC  accession: M01581_2.00
+CC  AC: M01581_2.00
+CC  id: M01581_2.00
+CC  name: ASG1
+CC  version: 
+CC  name: ASG1
+CC  description: ASG1
+CC  transfac_consensus: 
+CC  matrix.nb: 309
+XX
+//
+AC  M01582_2.00
+XX
+ID  SIP4
+XX
+DE  SIP4
+P0       A     C     G     T
+1    30.3934 20.9938 22.9709 25.6419
+2    28.3908 18.6541 21.8907 31.0644
+3    23.0043 29.2442 26.7272 21.0243
+4    34.7835 16.1052 26.0272 23.0841
+5    21.8434 26.6796 22.2847 29.1922
+6    20.3494 47.6103 16.6606 15.3797
+7    15.3604 20.7344 48.9987 14.9065
+8    22.5349 14.3689 51.6797 11.4166
+9    42.839 15.7596 29.0045 12.3969
+10   39.3752 11.5091 31.5993 17.5164
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 310
+CC  accession: M01582_2.00
+CC  AC: M01582_2.00
+CC  id: M01582_2.00
+CC  name: SIP4
+CC  version: 
+CC  name: SIP4
+CC  description: SIP4
+CC  transfac_consensus: 
+CC  matrix.nb: 310
+XX
+//
+AC  M01583_2.00
+XX
+ID  GSM1
+XX
+DE  GSM1
+P0       A     C     G     T
+1    21.8437 34.6021 14.0682 29.486
+2    0.0471426 95.147 4.7847 0.0211826
+3    0.041184 12.5572 87.3825 0.0190687
+4    0.000620588 0.000665585 99.9986     0
+5    47.5056 17.1303 26.5983 8.76572
+6    27.8777 16.7404 44.1604 11.2215
+7    28.4307 23.511 22.5891 25.4692
+8    26.3094 18.9144 17.8129 36.9633
+9    34.691 16.8859 16.7179 31.7052
+10   29.0044 21.7029 21.7029 27.5898
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 311
+CC  accession: M01583_2.00
+CC  AC: M01583_2.00
+CC  id: M01583_2.00
+CC  name: GSM1
+CC  version: 
+CC  name: GSM1
+CC  description: GSM1
+CC  transfac_consensus: 
+CC  matrix.nb: 311
+XX
+//
+AC  M01584_2.00
+XX
+ID  PUT3
+XX
+DE  PUT3
+P0       A     C     G     T
+1    28.2453 26.6004 21.5619 23.5924
+2    24.8941 19.7792 23.68 31.6466
+3    7.58862 87.0645 3.54894 1.79795
+4    1.18701 6.76282 91.968 0.0822033
+5    3.44159 0.0576096 96.1523 0.348518
+6    37.0278 4.18568 52.0221 6.76437
+7    45.8649 11.6546 21.665 20.8155
+8    36.0654 17.0361 21.2283 25.6703
+9    36.6729 15.2113 20.9479 27.1679
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 312
+CC  accession: M01584_2.00
+CC  AC: M01584_2.00
+CC  id: M01584_2.00
+CC  name: PUT3
+CC  version: 
+CC  name: PUT3
+CC  description: PUT3
+CC  transfac_consensus: 
+CC  matrix.nb: 312
+XX
+//
+AC  M01585_2.00
+XX
+ID  RGT1
+XX
+DE  RGT1
+P0       A     C     G     T
+1    15.1168 38.3964 11.4234 35.0634
+2    3.8409 84.5774 7.40246 4.17926
+3    0.281353 1.27201 98.1892 0.257452
+4    0.735396 7.65082 90.6442 0.969528
+5    66.3869 10.119 15.5747 7.91942
+6    42.4517 9.17481 20.5921 27.7814
+7    33.9427 19.8631 18.0726 28.1216
+8    59.3827 7.42634 7.62195 25.569
+9    48.5377 4.664 8.27874 38.5196
+10   22.0555 29.5081 13.3714 35.065
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 313
+CC  accession: M01585_2.00
+CC  AC: M01585_2.00
+CC  id: M01585_2.00
+CC  name: RGT1
+CC  version: 
+CC  name: RGT1
+CC  description: RGT1
+CC  transfac_consensus: 
+CC  matrix.nb: 313
+XX
+//
+AC  M01586_2.00
+XX
+ID  YKL222C
+XX
+DE  YKL222C
+P0       A     C     G     T
+1    30.8397 25.7595 26.8108 16.59
+2    39.0573 22.7606 28.6465 9.53559
+3    5.80783 75.884 8.2417 10.0664
+4    1.72152 1.14249 96.8543 0.281734
+5    5.96053 3.76278 89.5824 0.694307
+6    45.1283 15.0219 30.5544 9.29531
+7    32.1314 18.9127 29.6611 19.2948
+8    33.0009 20.0161 18.2933 28.6896
+9    28.062 19.1905 16.3531 36.3944
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 314
+CC  accession: M01586_2.00
+CC  AC: M01586_2.00
+CC  id: M01586_2.00
+CC  name: YKL222C
+CC  version: 
+CC  name: YKL222C
+CC  description: YKL222C
+CC  transfac_consensus: 
+CC  matrix.nb: 314
+XX
+//
+AC  M01587_2.00
+XX
+ID  YLL054C
+XX
+DE  YLL054C
+P0       A     C     G     T
+1    25.8792 25.3668 24.8645 23.8895
+2    33.7788 13.5968 26.8384 25.786
+3    1.58333 94.588 3.28554 0.543096
+4    0.122903 14.7854 85.0841     0
+5    1.93575 7.92877 90.0619 0.0735711
+6    38.7079 20.2073 33.651 7.43384
+7    27.2756 21.4557 20.8216 30.4471
+8    30.7014 22.2938 26.425 20.5798
+9    26.2123 21.0359 20.4142 32.3376
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 315
+CC  accession: M01587_2.00
+CC  AC: M01587_2.00
+CC  id: M01587_2.00
+CC  name: YLL054C
+CC  version: 
+CC  name: YLL054C
+CC  description: YLL054C
+CC  transfac_consensus: 
+CC  matrix.nb: 315
+XX
+//
+AC  M01588_2.00
+XX
+ID  CHA4
+XX
+DE  CHA4
+P0       A     C     G     T
+1    26.2872  17.1 34.4352 22.1776
+2    15.8358 15.3678 54.178 14.6183
+3    4.08177 77.9862 4.64844 13.2836
+4    0.129564 4.42124 95.2419 0.207302
+5    0.833878 7.45088 91.6826 0.0326579
+6    47.5306 13.7546 29.1185 9.59627
+7    32.1841 15.6657 28.5448 23.6054
+8    33.9278 18.9961 19.5747 27.5014
+9    26.8945 19.7257 20.5307 32.849
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 316
+CC  accession: M01588_2.00
+CC  AC: M01588_2.00
+CC  id: M01588_2.00
+CC  name: CHA4
+CC  version: 
+CC  name: CHA4
+CC  description: CHA4
+CC  transfac_consensus: 
+CC  matrix.nb: 316
+XX
+//
+AC  M01589_2.00
+XX
+ID  ECM22
+XX
+DE  ECM22
+P0       A     C     G     T
+1    24.7936 24.7936 26.5913 23.8214
+2    23.7584 25.481 22.5997 28.1609
+3    20.0967 33.4669 19.3087 27.1277
+4    10.4759 72.8989 10.5811 6.04405
+5    0.0801719 6.53007 93.3558 0.0339257
+6    14.002 0.431365 85.5584     0
+7    50.3714 16.1097 25.519 7.99986
+8    33.1773 16.8082 32.5204 17.4941
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 317
+CC  accession: M01589_2.00
+CC  AC: M01589_2.00
+CC  id: M01589_2.00
+CC  name: ECM22
+CC  version: 
+CC  name: ECM22
+CC  description: ECM22
+CC  transfac_consensus: 
+CC  matrix.nb: 317
+XX
+//
+AC  M01590_2.00
+XX
+ID  LEU3
+XX
+DE  LEU3
+P0       A     C     G     T
+1    45.7155 12.7106 16.4848 25.0892
+2    19.36 48.58 15.2292 16.8308
+3    10.3105 86.7612 2.86669 0.0616156
+4    0.0212199 4.60519 94.3664 1.00721
+5    4.23355 9.80645 85.8877 0.072298
+6    29.5168 32.2965 22.3083 15.8784
+7    29.456 21.8216 32.23 16.4924
+8    31.0862 18.1154 15.7488 35.0496
+9    28.7475 22.1658 19.4637 29.623
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 318
+CC  accession: M01590_2.00
+CC  AC: M01590_2.00
+CC  id: M01590_2.00
+CC  name: LEU3
+CC  version: 
+CC  name: LEU3
+CC  description: LEU3
+CC  transfac_consensus: 
+CC  matrix.nb: 318
+XX
+//
+AC  M01591_2.00
+XX
+ID  CEP3
+XX
+DE  CEP3
+P0       A     C     G     T
+1    0.142045 56.9602 0.142045 42.7557
+2    0.0996016 0.0996016 0.0996016 99.7012
+3    0.0996016 99.7012 0.0996016 0.0996016
+4    0.0996016 0.0996016 99.7012 0.0996016
+5    0.0996016 0.0996016 99.7012 0.0996016
+6    99.7012 0.0996016 0.0996016 0.0996016
+7    99.7012 0.0996016 0.0996016 0.0996016
+8    82.947 16.7219 0.165563 0.165563
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 319
+CC  accession: M01591_2.00
+CC  AC: M01591_2.00
+CC  id: M01591_2.00
+CC  name: CEP3
+CC  version: 
+CC  name: CEP3
+CC  description: CEP3
+CC  transfac_consensus: 
+CC  matrix.nb: 319
+XX
+//
+AC  M01592_2.00
+XX
+ID  YNR063W
+XX
+DE  YNR063W
+P0       A     C     G     T
+1    25.2775 24.5305 21.9752 28.2168
+2    19.4573 19.4573 17.7826 43.3029
+3    12.9601 70.9429 3.39355 12.7035
+4    9.91555 7.20017 71.8158 11.0685
+5    12.3594 3.83595 70.4158 13.3888
+6    55.5778 14.1227 15.4527 14.8468
+7    26.7433 13.1482 39.8963 20.2122
+8    47.1091 9.51116 18.0377 25.3421
+9    34.1029 10.3748 7.60939 47.9128
+10   32.7664 20.4791 17.9826 28.772
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 320
+CC  accession: M01592_2.00
+CC  AC: M01592_2.00
+CC  id: M01592_2.00
+CC  name: YNR063W
+CC  version: 
+CC  name: YNR063W
+CC  description: YNR063W
+CC  transfac_consensus: 
+CC  matrix.nb: 320
+XX
+//
+AC  M01593_2.00
+XX
+ID  HAL9
+XX
+DE  HAL9
+P0       A     C     G     T
+1    31.3428 19.5893 31.3428 17.7251
+2    4.18296 86.5758 2.41336 6.82792
+3    0.0107188 5.83715 94.0892 0.0629285
+4    2.37457 7.1336 90.4517 0.0401479
+5    48.8649 18.8981 22.8525 9.38451
+6    39.6816 12.1933 20.7156 27.4095
+7    26.6373 26.1099 23.8626 23.3901
+8    25.8273 23.8416 22.9068 27.4244
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 321
+CC  accession: M01593_2.00
+CC  AC: M01593_2.00
+CC  id: M01593_2.00
+CC  name: HAL9
+CC  version: 
+CC  name: HAL9
+CC  description: HAL9
+CC  transfac_consensus: 
+CC  matrix.nb: 321
+XX
+//
+AC  M01594_2.00
+XX
+ID  YRR1
+XX
+DE  YRR1
+P0       A     C     G     T
+1    35.0397 16.7179 34.6911 13.5513
+2    16.8511 60.0043 7.2748 15.8698
+3    13.6436 2.00024 73.941 10.4152
+4    16.2553 7.52641 70.6981 5.52022
+5    57.0487 10.8472 24.3835 7.7207
+6    35.5565 14.0289 26.3409 24.0737
+7    51.1453 8.88772 16.5216 23.4453
+8    23.1585 9.70229 13.4956 53.6436
+9    46.7467 10.3268 19.0058 23.9207
+10   39.8581 18.2712 24.6635 17.2072
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 322
+CC  accession: M01594_2.00
+CC  AC: M01594_2.00
+CC  id: M01594_2.00
+CC  name: YRR1
+CC  version: 
+CC  name: YRR1
+CC  description: YRR1
+CC  transfac_consensus: 
+CC  matrix.nb: 322
+XX
+//
+AC  M01595_2.00
+XX
+ID  YRM1
+XX
+DE  YRM1
+P0       A     C     G     T
+1    31.7411 22.753 22.753 22.753
+2    42.9948 21.8555 22.3742 12.7755
+3    7.22372 78.3288 7.22372 7.22372
+4    2.68069 2.68069 91.9579 2.68069
+5    2.68069 2.68069 91.9579 2.68069
+6    89.8481 0.0180476 10.1158 0.0180476
+7    71.7628 0.0180476 18.6024 9.6168
+8    90.903 0.0180476 0.0180476 9.06094
+9    11.7201 2.26508 12.9156 73.0991
+10   63.2723 12.2426 12.2426 12.2426
+11   46.617 17.7943 17.7943 17.7943
+12   32.9879 22.3374 22.3374 22.3374
+13   22.3374 22.3374 32.9879 22.3374
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 323
+CC  accession: M01595_2.00
+CC  AC: M01595_2.00
+CC  id: M01595_2.00
+CC  name: YRM1
+CC  version: 
+CC  name: YRM1
+CC  description: YRM1
+CC  transfac_consensus: 
+CC  matrix.nb: 323
+XX
+//
+AC  M01596_2.00
+XX
+ID  TEA1
+XX
+DE  TEA1
+P0       A     C     G     T
+1    12.3794 14.8209 44.9719 27.8278
+2    4.77232 81.6819 8.96056 4.5852
+3    0.0209123 0.000511882 95.8308 4.14782
+4    4.98517 26.2185 59.5292 9.26707
+5    40.708 13.6867 22.1187 23.4865
+6    24.0462 29.0779 27.3845 19.4915
+7    37.2364 13.2937 18.6769 30.793
+8    26.6802 11.6339 4.63632 57.0496
+9    29.147 16.9854 14.9148 38.9529
+10   35.4168 16.7297 22.1356 25.7179
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 324
+CC  accession: M01596_2.00
+CC  AC: M01596_2.00
+CC  id: M01596_2.00
+CC  name: TEA1
+CC  version: 
+CC  name: TEA1
+CC  description: TEA1
+CC  transfac_consensus: 
+CC  matrix.nb: 324
+XX
+//
+AC  M01597_2.00
+XX
+ID  RDR1
+XX
+DE  RDR1
+P0       A     C     G     T
+1    14.0561 18.0484 50.5548 17.3407
+2    2.03844 88.4278 4.31538 5.21838
+3    0.817914 1.58249 97.4171 0.182501
+4    0.0143576 0.799735 99.1392 0.046725
+5    53.9911 12.047 26.2803 7.68154
+6    42.1892 8.4331 12.3316 37.0461
+7    34.2291 21.3933 20.9697 23.408
+8    29.0437 20.8802 22.1713 27.9048
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 325
+CC  accession: M01597_2.00
+CC  AC: M01597_2.00
+CC  id: M01597_2.00
+CC  name: RDR1
+CC  version: 
+CC  name: RDR1
+CC  description: RDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 325
+XX
+//
+AC  M01598_2.00
+XX
+ID  RDS2
+XX
+DE  RDS2
+P0       A     C     G     T
+1    20.3147 27.6976 24.5656 27.422
+2    26.6234 27.4342 21.3658 24.5765
+3    17.6212 9.86608 15.1667 57.346
+4    6.78139 88.6045 2.16882 2.44534
+5    2.8032 7.10473 90.0856     0
+6    2.87899 7.15235 85.4081 4.56054
+7    40.6664 8.37626 42.326 8.63136
+8    31.1723 22.4105 25.5217 20.8954
+9    30.2874 20.7124 19.9003 29.0999
+10   27.6209 22.3891 19.4641 30.5258
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 326
+CC  accession: M01598_2.00
+CC  AC: M01598_2.00
+CC  id: M01598_2.00
+CC  name: RDS2
+CC  version: 
+CC  name: RDS2
+CC  description: RDS2
+CC  transfac_consensus: 
+CC  matrix.nb: 326
+XX
+//
+AC  M01599_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1    21.4221 28.6291 18.6235 31.3252
+2    11.9046 27.3011 10.0435 50.7508
+3    0.0397323 99.924 0.0030715 0.0331872
+4    0.0168219 0.0036063 99.9757     0
+5    1.20057 0.0174712 98.7702 0.0117113
+6    42.3436 18.2802 26.9995 12.3767
+7    23.9006 23.9006 37.1107 15.0881
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 327
+CC  accession: M01599_2.00
+CC  AC: M01599_2.00
+CC  id: M01599_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 327
+XX
+//
+AC  M01600_2.00
+XX
+ID  SUT2
+XX
+DE  SUT2
+P0       A     C     G     T
+1    23.0714 27.3466 19.6601 29.9219
+2    18.2935 28.69 15.4336 37.5829
+3    0.00439785 98.8261 0.215103 0.954432
+4    0.00112656 4.81343 94.7659 0.419543
+5    4.73997 0.0161802 95.2048 0.0390088
+6    85.259 0.302914 10.4405 3.9976
+7    7.59188 36.4915 52.83 3.08663
+8    17.8875 16.3479 5.17635 60.5882
+9    22.6011 15.7683 13.3031 48.3275
+10   20.1775 26.9658 21.212 31.6446
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 328
+CC  accession: M01600_2.00
+CC  AC: M01600_2.00
+CC  id: M01600_2.00
+CC  name: SUT2
+CC  version: 
+CC  name: SUT2
+CC  description: SUT2
+CC  transfac_consensus: 
+CC  matrix.nb: 328
+XX
+//
+AC  M01601_2.00
+XX
+ID  YPR196W
+XX
+DE  YPR196W
+P0       A     C     G     T
+1    0.490196 98.5294 0.490196 0.490196
+2    0.490196 0.490196 98.5294 0.490196
+3    0.490196 0.490196 98.5294 0.490196
+4    98.5294 0.490196 0.490196 0.490196
+5    49.5098 0.490196 49.5098 0.490196
+6    98.5294 0.490196 0.490196 0.490196
+7    98.5294 0.490196 0.490196 0.490196
+8    98.5294 0.490196 0.490196 0.490196
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 329
+CC  accession: M01601_2.00
+CC  AC: M01601_2.00
+CC  id: M01601_2.00
+CC  name: YPR196W
+CC  version: 
+CC  name: YPR196W
+CC  description: YPR196W
+CC  transfac_consensus: 
+CC  matrix.nb: 329
+XX
+//
+AC  M01650_2.00
+XX
+ID  M01650_2.00
+XX
+DE  yracgcg 
+P0       A     C     G     T
+1    24.4709 27.3163 21.7037 26.509
+2    25.9296 16.5335 34.3083 23.2286
+3    67.7036 3.43886 12.4926 16.3649
+4    0.589751 96.7321 1.35249 1.32571
+5    14.9512 1.0149 81.842 2.19195
+6    1.00071 87.4189 0.326512 11.2539
+7    1.53226 3.2764 94.3248 0.866532
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 330
+CC  accession: M01650_2.00
+CC  AC: M01650_2.00
+CC  id: M01650_2.00
+CC  name: M01650_2.00
+CC  version: 
+CC  name: M01650_2.00
+CC  description: yracgcg 
+CC  transfac_consensus: 
+CC  matrix.nb: 330
+XX
+//
+AC  M01653_2.00
+XX
+ID  M01653_2.00
+XX
+DE  rwcgcgt 
+P0       A     C     G     T
+1    25.4004 17.8993 33.9458 22.7545
+2    49.9602 7.25163 16.9662 25.822
+3    1.60365 95.8019 0.225888 2.36856
+4    24.568 1.53948 66.7829 7.1096
+5    0.325802 98.3503 0.0671072 1.25676
+6    0.685194 4.4015 94.8168 0.0965153
+7    22.191 22.8668 17.9877 36.9545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 331
+CC  accession: M01653_2.00
+CC  AC: M01653_2.00
+CC  id: M01653_2.00
+CC  name: M01653_2.00
+CC  version: 
+CC  name: M01653_2.00
+CC  description: rwcgcgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 331
+XX
+//
+AC  M01654_2.00
+XX
+ID  M01654_2.00
+XX
+DE  dwkacrcgw 
+P0       A     C     G     T
+1    26.7934 21.7183 26.0016 25.4867
+2    25.3271 23.6148 20.7361 30.322
+3    24.4019 20.1794 29.508 25.9108
+4    55.531 0.173243 21.2624 23.0333
+5    3.16489 84.1093 0.0192955 12.7065
+6    31.9537 0.722013 66.9729 0.351441
+7    9.71804 80.9624 0.700462 8.61913
+8    5.40951 1.53443 87.196 5.86005
+9    29.2764 17.757 15.7491 37.2176
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 332
+CC  accession: M01654_2.00
+CC  AC: M01654_2.00
+CC  id: M01654_2.00
+CC  name: M01654_2.00
+CC  version: 
+CC  name: M01654_2.00
+CC  description: dwkacrcgw 
+CC  transfac_consensus: 
+CC  matrix.nb: 332
+XX
+//
+AC  M01669_2.00
+XX
+ID  ECM5
+XX
+DE  ECM5
+P0       A     C     G     T
+1    32.7371 20.6664 27.8967 18.6997
+2    9.02433 31.498 3.78076 55.6969
+3    76.8095 1.42095 12.0773 9.69226
+4    11.6745 11.1051 7.29658 69.9238
+5    24.8575 41.8109 16.3325 16.9991
+6    31.3613 19.0216 25.6765 23.9406
+7    28.3505 24.1587 27.5126 19.9782
+8    26.4086 23.1893 27.2129 23.1893
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 333
+CC  accession: M01669_2.00
+CC  AC: M01669_2.00
+CC  id: M01669_2.00
+CC  name: ECM5
+CC  version: 
+CC  name: ECM5
+CC  description: ECM5
+CC  transfac_consensus: 
+CC  matrix.nb: 333
+XX
+//
+AC  M01671_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    24.1564 26.697 26.1683 22.9783
+2    20.939 30.6188 25.0685 23.3737
+3    34.5181 18.2011 30.3102 16.9706
+4    32.972 17.9153 25.1701 23.9426
+5    41.1309 4.29202 20.2217 34.3554
+6    71.0467 4.77473 0.0514748 24.1271
+7    88.6835 0.0920958 4.50449 6.7199
+8    45.4667 0.977243 3.80753 49.7485
+9    21.2559 17.7544 9.74383 51.2458
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 334
+CC  accession: M01671_2.00
+CC  AC: M01671_2.00
+CC  id: M01671_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 334
+XX
+//
+AC  M01672_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    24.811 15.2843 24.824 35.0807
+2    83.1954 2.42597 2.42597 11.9527
+3    29.2968 0.0230425 0.0230425 70.6571
+4    70.1933 0.0230425 0.0230425 29.7606
+5    0.0230425 0.0230425 0.0230425 99.9309
+6    80.2506 0.0230425 0.0230425 19.7033
+7    68.6996 0.0230425 0.0230425 31.2544
+8    29.7562 0.0230425 0.0230425 70.1978
+9    21.3125 9.73873 9.73873 59.21
+10   32.2088 22.5971 22.5971 22.5971
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 335
+CC  accession: M01672_2.00
+CC  AC: M01672_2.00
+CC  id: M01672_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 335
+XX
+//
+AC  M01673_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    27.2464 24.9013 23.6869 24.1654
+2    26.1998 27.5431 23.7066 22.5504
+3    23.8381 24.0777 29.4086 22.6755
+4    28.6283 22.5198 25.6462 23.2057
+5    59.4823 0.856997 34.3183 5.34242
+6    34.9996 21.6572 1.441 41.9022
+7    39.4922 9.26369 16.2177 35.0264
+8    37.9104 11.5332 19.2061 31.3504
+9    35.5375 18.3676 19.5034 26.5914
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 336
+CC  accession: M01673_2.00
+CC  AC: M01673_2.00
+CC  id: M01673_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 336
+XX
+//
+AC  M01674_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    37.4501 13.7771 37.8264 10.9464
+2    22.6206 27.6289 24.9996 24.7509
+3    60.6765 5.67208 23.0014 10.65
+4    42.8552 11.1098 20.042 25.993
+5    47.592 4.67704 20.546 27.185
+6    40.0042 9.96406 15.9424 34.0893
+7    33.7415 20.2616 11.5736 34.4232
+8    54.6503 7.24966 22.4425 15.6576
+9    46.2607 4.07264 31.9538 17.7129
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 337
+CC  accession: M01674_2.00
+CC  AC: M01674_2.00
+CC  id: M01674_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 337
+XX
+//
+AC  M01675_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    24.5292 27.3814 24.2851 23.8043
+2    23.7806 29.3376 24.261 22.6208
+3    21.6345 25.1357 29.7935 23.4364
+4    25.863 24.1145 26.3855 23.637
+5    50.2489 0.0516631 41.1403 8.55905
+6    35.3817 29.5533 0.0353024 35.0297
+7    36.0997 11.4305 18.4725 33.9974
+8    35.5533 12.1951 20.7186 31.533
+9    33.8774 18.0428 20.3432 27.7365
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 338
+CC  accession: M01675_2.00
+CC  AC: M01675_2.00
+CC  id: M01675_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 338
+XX
+//
+AC  M01676_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    16.758 10.5791 59.0791 13.5838
+2    56.6353 16.7205 11.6655 14.9788
+3    27.8495 14.2508 40.3187 17.5809
+4    19.8637 13.7205 39.6026 26.8132
+5    27.7415 41.3854 8.61004 22.2631
+6    36.1836 29.6246 14.1343 20.0575
+7    47.7449 4.12008 21.6688 26.4663
+8    56.0915 1.53263 7.66745 34.7085
+9    65.1345 0.215769 3.8824 30.7673
+10   71.2595 2.93389 0.366531 25.4401
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 339
+CC  accession: M01676_2.00
+CC  AC: M01676_2.00
+CC  id: M01676_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 339
+XX
+//
+AC  M01677_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    37.7279 27.1235 19.4997 15.6489
+2    24.75 20.2636 27.0808 27.9056
+3    34.3177 17.7371 25.1702 22.7749
+4    34.0293 17.7648 24.4645 23.7414
+5    34.6936 15.4337 21.4679 28.4048
+6    57.6007 3.33187 17.8773 21.1901
+7    73.2846 0.000129006 26.6916 0.0236203
+8    25.3553 25.8675 6.12874 42.6484
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 340
+CC  accession: M01677_2.00
+CC  AC: M01677_2.00
+CC  id: M01677_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 340
+XX
+//
+AC  M01678_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    42.1032 21.3302 21.9798 14.5869
+2    36.1549 21.0692 21.281 21.4949
+3    39.9952 12.9198 23.3071 23.7779
+4    40.7012 8.13567 26.4765 24.6866
+5    28.7986 14.301 13.0701 43.8304
+6    78.0909 0.0177366 13.9834 7.90798
+7    56.2556 0.0620326 17.6353 26.0471
+8    41.7051 9.30567 11.2529 37.7363
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 341
+CC  accession: M01678_2.00
+CC  AC: M01678_2.00
+CC  id: M01678_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 341
+XX
+//
+AC  M01679_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    72.3485 0.0344353 0.0344353 27.5826
+2    72.1698 0.0277469 0.0277469 27.7747
+3    75.621 0.0269978 0.0269978 24.3251
+4    64.8218 0.0269978 0.0269978 35.1242
+5    86.4201 0.0269978 0.0269978 13.5259
+6    32.4244 0.0269978 0.0269978 67.5216
+7    89.1199 0.0269978 0.0269978 10.8261
+8    6.27341 0.031211 0.031211 93.6642
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 342
+CC  accession: M01679_2.00
+CC  AC: M01679_2.00
+CC  id: M01679_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 342
+XX
+//
+AC  M01680_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    99.0132 0.328947 0.328947 0.328947
+2    99.2574 0.247525 0.247525 0.247525
+3    99.2574 0.247525 0.247525 0.247525
+4    99.2574 0.247525 0.247525 0.247525
+5       25 0.247525 0.247525 74.505
+6    99.2574 0.247525 0.247525 0.247525
+7    99.2574 0.247525 0.247525 0.247525
+8    99.0132 0.328947 0.328947 0.328947
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 343
+CC  accession: M01680_2.00
+CC  AC: M01680_2.00
+CC  id: M01680_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 343
+XX
+//
+AC  M01681_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    31.4753 17.358 11.9888 39.1779
+2    39.8793 10.259 14.6381 35.2236
+3    37.7309 14.6069 18.1421 29.5201
+4    26.9905 27.2333 6.21234 39.5639
+5    32.3521 17.1271 19.3764 31.1444
+6    31.1444 19.3764 17.1271 32.3521
+7    39.5639 6.21234 27.2333 26.9905
+8    29.5201 18.1421 14.6069 37.7309
+9    35.2236 14.6381 10.259 39.8793
+10   39.1779 11.9888 17.358 31.4753
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 344
+CC  accession: M01681_2.00
+CC  AC: M01681_2.00
+CC  id: M01681_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 344
+XX
+//
+AC  M01682_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    27.2331 23.2065 25.6472 23.9132
+2    29.0589 22.8585 24.7623 23.3203
+3    32.8743 20.5465 23.8717 22.7074
+4    32.1069 19.0882 25.2562 23.5487
+5    31.252 15.9919 25.587 27.1692
+6    44.8771 14.0683 9.43029 31.6243
+7    71.6851 0.0111344 28.2836 0.0200863
+8    33.7735 15.9535 9.02208 41.251
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 345
+CC  accession: M01682_2.00
+CC  AC: M01682_2.00
+CC  id: M01682_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 345
+XX
+//
+AC  M01683_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    21.5163 32.3274 19.4792 26.6771
+2    28.9484 10.0082 39.3882 21.6552
+3    28.6614 28.8427 17.0297 25.4662
+4    40.4746 15.9463 16.726 26.8531
+5    42.052 15.1365 15.7426 27.0689
+6    27.0689 15.7426 15.1365 42.052
+7    26.8531 16.726 15.9463 40.4746
+8    25.4662 17.0297 28.8427 28.6614
+9    21.6552 39.3882 10.0082 28.9484
+10   26.6771 19.4792 32.3274 21.5163
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 346
+CC  accession: M01683_2.00
+CC  AC: M01683_2.00
+CC  id: M01683_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 346
+XX
+//
+AC  M01684_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    31.9241 22.692 22.692 22.692
+2    29.5675 20.3353 29.7619 20.3353
+3    44.7891 15.3263 15.3263 24.5584
+4    75.9501 8.01664 8.01664 8.01664
+5    23.4882 0.0164217 0.0164217 76.479
+6    81.9787 0.0164217 0.0164217 17.9884
+7    9.61328 0.0164217 9.945 80.4253
+8    40.7905 0.0164217 0.0164217 59.1766
+9    83.6001 11.751 2.32446 2.32446
+10   85.9567 4.6811 4.6811 4.6811
+11   9.69017 9.69017 9.69017 70.9295
+12   16.9998 16.9998 16.9998 49.0007
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 347
+CC  accession: M01684_2.00
+CC  AC: M01684_2.00
+CC  id: M01684_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 347
+XX
+//
+AC  M01685_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    29.5752 28.9896 22.5771 18.858
+2    25.6034 24.8467 26.3831 23.1669
+3    36.9207 13.996 27.3515 21.7317
+4    33.4398 13.3264 25.0218 28.212
+5    40.8108 8.15758 17.6185 33.4131
+6    71.6329 0.214715 0.170598 27.9818
+7    60.4747 0.0299635 13.9047 25.5906
+8    27.0214 13.5533 7.66473 51.7606
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 348
+CC  accession: M01685_2.00
+CC  AC: M01685_2.00
+CC  id: M01685_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 348
+XX
+//
+AC  M01686_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    35.3239 18.4407 20.585 25.6504
+2    29.1909 20.986 17.8831 31.9399
+3    47.9754 15.3435 20.7115 15.9696
+4    35.3839 15.7408 19.6143 29.261
+5    43.2302 7.07479 19.2313 30.4638
+6    38.9749 10.0033 6.1899 44.8318
+7    86.2322 0.0496401 8.47435 5.24379
+8    51.9591 3.38873 8.76228 35.8899
+9    36.5816 9.29563 8.08123 46.0416
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 349
+CC  accession: M01686_2.00
+CC  AC: M01686_2.00
+CC  id: M01686_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 349
+XX
+//
+AC  M01687_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    83.9058 0.0399361 12.0208 4.03355
+2    88.161 0.0293772 0.0293772 11.7803
+3    83.2686 0.0277469 0.0277469 16.6759
+4    69.3951 0.0277469 0.0277469 30.5494
+5    16.6759 0.0277469 0.0277469 83.2686
+6    83.2686 0.0277469 0.0277469 16.6759
+7    76.4101 2.9671 0.0293772 20.5934
+8    18.5281 3.73521 0.0369822 77.6997
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 350
+CC  accession: M01687_2.00
+CC  AC: M01687_2.00
+CC  id: M01687_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 350
+XX
+//
+AC  M01688_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    41.2581 18.1714 20.4881 20.0825
+2    38.386 15.1453 18.3145 28.1541
+3    41.1062 4.28945 19.224 35.3804
+4    44.2483 11.5862 5.3112 38.8542
+5    80.5888 0.182567 7.76293 11.4657
+6    50.8656 0.117559 6.95309 42.0638
+7    34.0689 7.60179 6.47782 51.8515
+8    31.0543 19.409 14.5231 35.0136
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 351
+CC  accession: M01688_2.00
+CC  AC: M01688_2.00
+CC  id: M01688_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 351
+XX
+//
+AC  M01689_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    43.3147 7.99241 29.0347 19.6582
+2    8.912 48.7838 14.9902 27.314
+3    37.9963 14.9916 26.7756 20.2365
+4    30.8475 12.171 38.8246 18.157
+5    31.5975 8.87359 34.9207 24.6082
+6    43.9824 1.39625 18.6117 36.0097
+7    41.8576 8.20115 18.6207 31.3205
+8    40.0654 9.49259 18.9255 31.5165
+9    34.1668 12.1978 24.8102 28.8253
+10   33.8234 15.1978 23.8349 27.1439
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 352
+CC  accession: M01689_2.00
+CC  AC: M01689_2.00
+CC  id: M01689_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 352
+XX
+//
+AC  M01690_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    32.1078 22.6307 22.6307 22.6307
+2    22.6307 22.6307 22.6307 32.1078
+3    76.1759 4.64648 14.5311 4.64648
+4    63.2674 11.6336 2.31743 22.7815
+5    66.917 0.0175574 0.0175574 33.0479
+6    19.5762 0.0175574 0.0175574 80.3887
+7    80.4397 0.0175574 0.0175574 19.5252
+8    51.7902 0.0175574 0.0175574 48.1747
+9    32.1162 2.38682 2.38682 63.1102
+10   2.38682 12.2715 2.38682 82.9549
+11   29.5706 20.3711 29.6873 20.3711
+12   31.8996 22.7001 22.7001 22.7001
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 353
+CC  accession: M01690_2.00
+CC  AC: M01690_2.00
+CC  id: M01690_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 353
+XX
+//
+AC  M01691_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    27.2989 27.5733 24.7011 20.4268
+2    31.1542 19.0859 25.2531 24.5068
+3    40.9498 10.6158 18.3999 30.0345
+4    46.4798 9.57368 15.4718 28.4747
+5    58.2238 12.8622 1.41099 27.503
+6    57.604 0.0723378 22.9563 19.3674
+7    23.5345 21.2949 4.84751 50.3232
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 354
+CC  accession: M01691_2.00
+CC  AC: M01691_2.00
+CC  id: M01691_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 354
+XX
+//
+AC  M01692_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    31.8198 26.3137 21.979 19.8875
+2    25.6386 20.168 26.4194 27.774
+3    32.2138 19.5387 25.0882 23.1593
+4    33.0083 19.0441 23.4943 24.4532
+5    35.3662 15.5764 21.2373 27.8201
+6    54.031 7.23955 15.6357 23.0937
+7    70.8523 0.00976059 29.0959 0.0420287
+8    21.6909 22.8031 10.0432 45.4628
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 355
+CC  accession: M01692_2.00
+CC  AC: M01692_2.00
+CC  id: M01692_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 355
+XX
+//
+AC  M01693_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    60.6435 10.0113 19.3339 10.0113
+2    55.8535 13.3577 4.7162 26.0727
+3    80.869 0.0196195 8.83145 10.28
+4    23.1969 0.0196195 0.0196195 76.7638
+5    88.9933 0.0196195 0.0196195 10.9675
+6    29.0663 0.0196195 0.0196195 70.8945
+7    26.7391 0.0196195 0.0196195 73.2217
+8    0.0196195 9.34227 0.0196195 90.6185
+9    46.0241 15.0083 15.0083 23.9593
+10   20.3034 29.1152 20.3034 30.2779
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 356
+CC  accession: M01693_2.00
+CC  AC: M01693_2.00
+CC  id: M01693_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 356
+XX
+//
+AC  M01694_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    20.1025 30.7957 24.4501 24.6517
+2    32.1984 16.6011 32.0153 19.1852
+3    41.4247 18.8211 19.264 20.4903
+4    43.151 6.44326 10.0297 40.376
+5    42.3723 4.7936 0.00488794 52.8292
+6    52.8292 0.00488794 4.7936 42.3723
+7    40.376 10.0297 6.44326 43.151
+8    20.4903 19.264 18.8211 41.4247
+9    19.1852 32.0153 16.6011 32.1984
+10   24.6517 24.4501 30.7957 20.1025
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 357
+CC  accession: M01694_2.00
+CC  AC: M01694_2.00
+CC  id: M01694_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 357
+XX
+//
+AC  M01992_2.00
+XX
+ID  M01992_2.00
+XX
+DE  rtaaacaw 
+P0       A     C     G     T
+1    57.0513 7.19373 35.6838 0.0712251
+2    5.92723 0.0586854 0.0586854 93.9554
+3    93.9554 5.92723 0.0586854 0.0586854
+4    99.8239 0.0586854 0.0586854 0.0586854
+5    99.8239 0.0586854 0.0586854 0.0586854
+6    0.0586854 88.0869 0.0586854 11.7958
+7    99.8239 0.0586854 0.0586854 0.0586854
+8    49.9004 20.0199 0.0996016 29.9801
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 358
+CC  accession: M01992_2.00
+CC  AC: M01992_2.00
+CC  id: M01992_2.00
+CC  name: M01992_2.00
+CC  version: 
+CC  name: M01992_2.00
+CC  description: rtaaacaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 358
+XX
+//
+AC  M02033_2.00
+XX
+ID  M02033_2.00
+XX
+DE  ttgattgs 
+P0       A     C     G     T
+1    24.2433 24.2433 3.0569 48.4564
+2    0.019984 0.019984 0.019984 99.94
+3    0.019984 0.019984 99.94 0.019984
+4    99.94 0.019984 0.019984 0.019984
+5    0.019984 0.019984 0.019984 99.94
+6    0.019984 0.019984 0.019984 99.94
+7    13.0539 0.0217202 86.9027 0.0217202
+8    21.8789    25 31.2422 21.8789
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 359
+CC  accession: M02033_2.00
+CC  AC: M02033_2.00
+CC  id: M02033_2.00
+CC  name: M02033_2.00
+CC  version: 
+CC  name: M02033_2.00
+CC  description: ttgattgs 
+CC  transfac_consensus: 
+CC  matrix.nb: 359
+XX
+//
+AC  M02059_2.00
+XX
+ID  M02059_2.00
+XX
+DE  twaattrrww 
+P0       A     C     G     T
+1    12.0334 18.1321 13.7039 56.1307
+2    39.3227 3.03983 2.39121 55.2463
+3    66.606 4.84911 6.81274 21.7322
+4    96.8998 0.00570551 3.04554 0.048981
+5    5.88994 2.67312 18.2332 73.2037
+6    8.83829 3.41813 19.0886 68.6549
+7    44.5525 4.93656 45.0003 5.51058
+8    36.392 20.5806 27.7809 15.2465
+9    26.9688 19.979 17.3689 35.6833
+10   29.4363 22.0261 20.537 28.0006
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 360
+CC  accession: M02059_2.00
+CC  AC: M02059_2.00
+CC  id: M02059_2.00
+CC  name: M02059_2.00
+CC  version: 
+CC  name: M02059_2.00
+CC  description: twaattrrww 
+CC  transfac_consensus: 
+CC  matrix.nb: 360
+XX
+//
+AC  M02060_2.00
+XX
+ID  M02060_2.00
+XX
+DE  tttgacrksw 
+P0       A     C     G     T
+1    22.0056 18.9404 23.1339 35.9201
+2    22.8777 11.9432 19.1091 46.07
+3    13.5092 7.9516 6.7759 71.7633
+4    14.7662 6.3747 61.7033 17.1558
+5    84.0037 0.601013 7.62065 7.7746
+6    3.54399 84.3734 0.0784928 12.0041
+7    59.3562 1.09807 32.9028 6.64295
+8    6.22075 22.1512 36.8881 34.7399
+9    23.3276 33.4362 25.781 17.4552
+10   32.6237 16.3633 20.5948 30.4182
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 361
+CC  accession: M02060_2.00
+CC  AC: M02060_2.00
+CC  id: M02060_2.00
+CC  name: M02060_2.00
+CC  version: 
+CC  name: M02060_2.00
+CC  description: tttgacrksw 
+CC  transfac_consensus: 
+CC  matrix.nb: 361
+XX
+//
+AC  M02061_2.00
+XX
+ID  M02061_2.00
+XX
+DE  wtwwattrv 
+P0       A     C     G     T
+1    30.5482 21.1007 21.5269 26.8242
+2    19.8849 19.2972 16.1184 44.6995
+3    40.1294 8.68945 13.7647 37.4164
+4    43.6508 10.3421 13.0165 32.9906
+5    83.7676 2.7956 12.9106 0.526263
+6    4.31636 8.69208 10.0988 76.8928
+7    14.1752 9.59741 12.6986 63.5288
+8    46.9907 8.84586 33.7827 10.3807
+9    25.496 27.6195 29.6222 17.2623
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 362
+CC  accession: M02061_2.00
+CC  AC: M02061_2.00
+CC  id: M02061_2.00
+CC  name: M02061_2.00
+CC  version: 
+CC  name: M02061_2.00
+CC  description: wtwwattrv 
+CC  transfac_consensus: 
+CC  matrix.nb: 362
+XX
+//
+AC  M02078_2.00
+XX
+ID  M02078_2.00
+XX
+DE  amytaattrgy 
+P0       A     C     G     T
+1    31.7984 22.7339 22.7339 22.7339
+2    29.631 29.2359 20.5665 20.5665
+3    7.18003 30.202 7.18003 55.4379
+4    0.0142753 0.0142753 0.0142753 99.9572
+5    99.9572 0.0142753 0.0142753 0.0142753
+6    99.9572 0.0142753 0.0142753 0.0142753
+7    0.0142753 0.0142753 0.0142753 99.9572
+8    0.0142753 0.0142753 0.0142753 99.9572
+9    57.2984 2.2804 38.1408 2.2804
+10   16.5831 4.44774 74.5214 4.44774
+11   17.8342 26.7148 17.8342 37.6167
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 363
+CC  accession: M02078_2.00
+CC  AC: M02078_2.00
+CC  id: M02078_2.00
+CC  name: M02078_2.00
+CC  version: 
+CC  name: M02078_2.00
+CC  description: amytaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 363
+XX
+//
+AC  M02079_2.00
+XX
+ID  M02079_2.00
+XX
+DE  arttaattagd 
+P0       A     C     G     T
+1    30.2242 23.2586 23.2586 23.2586
+2    30.7145 16.1528 28.6763 24.4565
+3    5.87928 20.0678 5.87928 68.1736
+4    0.00224709 0.00224709 0.00224709 99.9933
+5    99.9933 0.00224709 0.00224709     0
+6    99.9933 0.00224709 0.00224709     0
+7    0.00224709 0.00224709 0.00224709 99.9933
+8    0.00224709 0.00224709 0.00224709 99.9933
+9    94.7691 1.74363 1.74363 1.74363
+10   23.2706 8.84946 59.0304 8.84946
+11   25.6077 19.123 25.9937 29.2756
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 364
+CC  accession: M02079_2.00
+CC  AC: M02079_2.00
+CC  id: M02079_2.00
+CC  name: M02079_2.00
+CC  version: 
+CC  name: M02079_2.00
+CC  description: arttaattagd 
+CC  transfac_consensus: 
+CC  matrix.nb: 364
+XX
+//
+AC  M02084_2.00
+XX
+ID  M02084_2.00
+XX
+DE  sttaattrgy 
+P0       A     C     G     T
+1    21.0009 30.7093 26.4318 21.858
+2    22.9725 24.1503 16.8491 36.0281
+3    21.92 16.7332 6.34329 55.0035
+4    49.0926 12.1061 21.6219 17.1794
+5    86.181 2.40236 4.88637 6.53028
+6    7.09862 11.9401 12.9345 68.0268
+7    13.8026 11.7618 17.901 56.5347
+8    33.6039 9.34314 48.1655 8.88747
+9    24.4137 21.4375 36.4209 17.7279
+10   22.4703 29.1424 19.5348 28.8525
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 365
+CC  accession: M02084_2.00
+CC  AC: M02084_2.00
+CC  id: M02084_2.00
+CC  name: M02084_2.00
+CC  version: 
+CC  name: M02084_2.00
+CC  description: sttaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 365
+XX
+//
+AC  M02095_2.00
+XX
+ID  M02095_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    17.9193 30.1407 16.214 35.726
+2    7.42349 3.0485 0.882187 88.6458
+3    85.1715 4.78108 5.49955 4.5479
+4    99.0749 0.174798 0.509603 0.240719
+5    1.47201 1.53208 2.68217 94.3137
+6    9.79116 4.96037 8.42733 76.8211
+7    41.6004 4.84579 42.4408 11.1129
+8    30.1403 18.6503 37.9346 13.2748
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 366
+CC  accession: M02095_2.00
+CC  AC: M02095_2.00
+CC  id: M02095_2.00
+CC  name: M02095_2.00
+CC  version: 
+CC  name: M02095_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 366
+XX
+//
+AC  M02097_2.00
+XX
+ID  M02097_2.00
+XX
+DE  mmttaattar 
+P0       A     C     G     T
+1    30.0377 28.3462 20.8081 20.8081
+2    45.0588 28.6377 9.53839 16.7651
+3    7.20065 20.2474 0.00868058 72.5433
+4    0.00868058 0.00868058 0.00868058 99.974
+5    99.974 0.00868058 0.00868058     0
+6    99.974 0.00868058 0.00868058     0
+7    0.00868058 0.00868058 0.00868058 99.974
+8    0.00868058 0.00868058 0.00868058 99.974
+9    87.3981 4.20062 4.20062 4.20062
+10   31.0358 15.4703 38.0237 15.4703
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 367
+CC  accession: M02097_2.00
+CC  AC: M02097_2.00
+CC  id: M02097_2.00
+CC  name: M02097_2.00
+CC  version: 
+CC  name: M02097_2.00
+CC  description: mmttaattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 367
+XX
+//
+AC  M02101_2.00
+XX
+ID  M02101_2.00
+XX
+DE  rytaattary 
+P0       A     C     G     T
+1    25.9113 24.7671 28.3785 20.9432
+2    17.6585 30.4012 18.258 33.6823
+3    18.5934 20.1995 6.76709 54.44
+4    57.3081 19.959 5.76906 16.9638
+5    81.4804 6.25875 5.23412 7.02674
+6    7.02674 5.23412 6.25875 81.4804
+7    16.9638 5.76906 19.959 57.3081
+8    54.44 6.76709 20.1995 18.5934
+9    33.6823 18.258 30.4012 17.6585
+10   20.9432 28.3785 24.7671 25.9113
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 368
+CC  accession: M02101_2.00
+CC  AC: M02101_2.00
+CC  id: M02101_2.00
+CC  name: M02101_2.00
+CC  version: 
+CC  name: M02101_2.00
+CC  description: rytaattary 
+CC  transfac_consensus: 
+CC  matrix.nb: 368
+XX
+//
+AC  M02108_2.00
+XX
+ID  M02108_2.00
+XX
+DE  vytaattrs 
+P0       A     C     G     T
+1    26.835 29.07 29.07 15.0249
+2    15.4974 38.5006 14.1636 31.8384
+3    12.2643 2.8482 7.66519 77.2224
+4    70.7222 11.1202 10.1631 7.99455
+5    83.0706 6.68383 4.01361 6.23196
+6    8.10724 7.40946 5.22136 79.2619
+7    10.4874 4.80748 14.5876 70.1175
+8    55.9054 4.49812 30.074 9.52253
+9    22.4447 25.5606 35.2002 16.7945
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 369
+CC  accession: M02108_2.00
+CC  AC: M02108_2.00
+CC  id: M02108_2.00
+CC  name: M02108_2.00
+CC  version: 
+CC  name: M02108_2.00
+CC  description: vytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 369
+XX
+//
+AC  M02111_2.00
+XX
+ID  M02111_2.00
+XX
+DE  vytaattrr 
+P0       A     C     G     T
+1    28.7146 27.5887 29.0032 14.6935
+2    12.5413 30.2359 15.1656 42.0572
+3    5.69275 5.15101 6.95314 82.2031
+4    85.2717 5.45124 5.397 3.88003
+5    95.6803 0.749021 1.63397 1.93675
+6    1.33949 1.32616 3.42906 93.9053
+7    6.14492 4.33025 6.79119 82.7336
+8    55.4996 0.745556 36.4658 7.28906
+9    34.7071 15.9099 36.4866 12.8964
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 370
+CC  accession: M02111_2.00
+CC  AC: M02111_2.00
+CC  id: M02111_2.00
+CC  name: M02111_2.00
+CC  version: 
+CC  name: M02111_2.00
+CC  description: vytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 370
+XX
+//
+AC  M02129_2.00
+XX
+ID  M02129_2.00
+XX
+DE  rttaattrg 
+P0       A     C     G     T
+1    32.2644 22.7363 34.2595 10.7399
+2    14.3724 14.3724 4.88081 66.3744
+3    1.50396 1.13667 0.998106 96.3613
+4    96.476 0.84307 1.82083 0.860101
+5    97.8335 0.880969 0.340707 0.944846
+6    0.649469 0.243753 0.769819 98.337
+7    1.10066 1.0575 1.69199 96.1498
+8    70.5053 0.519799 27.8181 1.15683
+9    24.6712 8.29486 64.4336 2.60032
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 371
+CC  accession: M02129_2.00
+CC  AC: M02129_2.00
+CC  id: M02129_2.00
+CC  name: M02129_2.00
+CC  version: 
+CC  name: M02129_2.00
+CC  description: rttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 371
+XX
+//
+AC  M02130_2.00
+XX
+ID  M02130_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    14.3061 4.80038 4.80038 76.0932
+2    0.0322165 6.47552 0.0322165 93.4601
+3    99.9092 0.0302663 0.0302663 0.0302663
+4    99.9092 0.0302663 0.0302663 0.0302663
+5    0.0302663 0.0302663 0.0302663 99.9092
+6    0.0302663 0.0302663 0.0302663 99.9092
+7    89.5661 0.0344353 10.365 0.0344353
+8    9.11978 18.1942 49.9546 22.7314
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 372
+CC  accession: M02130_2.00
+CC  AC: M02130_2.00
+CC  id: M02130_2.00
+CC  name: M02130_2.00
+CC  version: 
+CC  name: M02130_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 372
+XX
+//
+AC  M02140_2.00
+XX
+ID  M02140_2.00
+XX
+DE  syaatattrs 
+P0       A     C     G     T
+1    23.1822 26.9534 26.7283 23.1361
+2    20.0699 31.9573 18.2522 29.7206
+3    33.9925 21.703 20.4019 23.9025
+4    44.9614 19.6016 13.7032 21.7338
+5    23.3803 7.22021 13.0307 56.3688
+6    56.3688 13.0307 7.22021 23.3803
+7    21.7338 13.7032 19.6016 44.9614
+8    23.9025 20.4019 21.703 33.9925
+9    29.7206 18.2522 31.9573 20.0699
+10   23.1361 26.7283 26.9534 23.1822
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 373
+CC  accession: M02140_2.00
+CC  AC: M02140_2.00
+CC  id: M02140_2.00
+CC  name: M02140_2.00
+CC  version: 
+CC  name: M02140_2.00
+CC  description: syaatattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 373
+XX
+//
+AC  M02152_2.00
+XX
+ID  M02152_2.00
+XX
+DE  ytaatkary 
+P0       A     C     G     T
+1    23.0244 26.2209 17.753 33.0016
+2    11.836 14.0293 1.08453 73.0502
+3    71.2072 12.2508 12.6239 3.91805
+4    79.7834 6.81629 3.6303 9.76999
+5    6.49605 9.21833 1.91783 82.3678
+6    17.2656 5.41253 31.7762 45.5457
+7    45.1274 12.6732 24.0345 18.1649
+8    35.4704 18.3329 31.7756 14.4212
+9    19.2497 30.493 23.748 26.5093
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 374
+CC  accession: M02152_2.00
+CC  AC: M02152_2.00
+CC  id: M02152_2.00
+CC  name: M02152_2.00
+CC  version: 
+CC  name: M02152_2.00
+CC  description: ytaatkary 
+CC  transfac_consensus: 
+CC  matrix.nb: 374
+XX
+//
+AC  M02154_2.00
+XX
+ID  M02154_2.00
+XX
+DE  ytaatkrsyy 
+P0       A     C     G     T
+1    19.2273 31.7005 17.0531 32.0191
+2    11.6674 6.27642 0.049628 82.0066
+3    85.9425 7.1971 6.77798 0.0823875
+4    95.9463 0.104747 1.86598 2.08296
+5    3.50494 2.59652 3.50494 90.3936
+6    16.0799 2.65799 34.3832 46.8789
+7    53.6165 5.01211 34.1874 7.184
+8    23.4394 27.7828 30.7048 18.073
+9    17.3039 31.2161 24.0692 27.4107
+10   17.7059 32.2623 24.1407 25.8911
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 375
+CC  accession: M02154_2.00
+CC  AC: M02154_2.00
+CC  id: M02154_2.00
+CC  name: M02154_2.00
+CC  version: 
+CC  name: M02154_2.00
+CC  description: ytaatkrsyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 375
+XX
+//
+AC  M02162_2.00
+XX
+ID  M02162_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    19.5961 2.70873 19.5961 58.0992
+2    4.2149 9.47695 0.00526205 86.3029
+3    90.2786 4.37294 3.40225 1.94622
+4    99.0195 0.487828 0.00482998 0.487828
+5    0.00482998 0.487828 0.00482998 99.5025
+6    1.51226 2.51708 6.53637 89.4343
+7    72.654 1.33964 20.0013 6.00507
+8    5.56275 12.9674 59.2466 22.2233
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 376
+CC  accession: M02162_2.00
+CC  AC: M02162_2.00
+CC  id: M02162_2.00
+CC  name: M02162_2.00
+CC  version: 
+CC  name: M02162_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 376
+XX
+//
+AC  M02169_2.00
+XX
+ID  M02169_2.00
+XX
+DE  ryyaatyaa 
+P0       A     C     G     T
+1    32.4419 22.8614 29.0626 15.6341
+2    16.7534 33.4016 18.7015 31.1434
+3    10.1735 25.5284 5.7534 58.5447
+4    70.7598 11.9328 11.0154 6.29207
+5    95.3577 1.71195 2.22028 0.710089
+6    2.1126 2.71264 1.67853 93.4962
+7    4.7391 33.6444 6.14628 55.4702
+8    75.7244 2.57822 7.00834 14.689
+9    36.5582 15.6255 24.5057 23.3105
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 377
+CC  accession: M02169_2.00
+CC  AC: M02169_2.00
+CC  id: M02169_2.00
+CC  name: M02169_2.00
+CC  version: 
+CC  name: M02169_2.00
+CC  description: ryyaatyaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 377
+XX
+//
+AC  M02170_2.00
+XX
+ID  M02170_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    17.6643 11.7958 0.0586854 70.4812
+2    0.0356633 3.602 0.0356633 96.3267
+3    99.893 0.0356633 0.0356633 0.0356633
+4    99.893 0.0356633 0.0356633 0.0356633
+5    0.0356633 14.301 0.0356633 85.6277
+6    14.301 0.0356633 0.0356633 85.6277
+7    59.2086 0.0369822 40.7175 0.0369822
+8    9.55323 0.0475285 85.5989 4.80038
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 378
+CC  accession: M02170_2.00
+CC  AC: M02170_2.00
+CC  id: M02170_2.00
+CC  name: M02170_2.00
+CC  version: 
+CC  name: M02170_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 378
+XX
+//
+AC  M02174_2.00
+XX
+ID  M02174_2.00
+XX
+DE  wtwaattwaw 
+P0       A     C     G     T
+1    31.4868 20.7136 18.301 29.4986
+2    19.8798 22.4881 20.6807 36.9515
+3    32.5666 16.6437 10.4042 40.3855
+4    51.5299 16.8946 9.27351 22.3019
+5    69.7716 15.8556 11.6498 2.72302
+6    2.72302 11.6498 15.8556 69.7716
+7    22.3019 9.27351 16.8946 51.5299
+8    40.3855 10.4042 16.6437 32.5666
+9    36.9515 20.6807 22.4881 19.8798
+10   29.4986 18.301 20.7136 31.4868
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 379
+CC  accession: M02174_2.00
+CC  AC: M02174_2.00
+CC  id: M02174_2.00
+CC  name: M02174_2.00
+CC  version: 
+CC  name: M02174_2.00
+CC  description: wtwaattwaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 379
+XX
+//
+AC  M02189_2.00
+XX
+ID  MATALPHA2
+XX
+DE  MATALPHA2
+P0       A     C     G     T
+1    27.1646 19.7256 18.5768 34.533
+2    22.9156 21.5811 19.9219 35.5813
+3    28.442 16.5746 20.2442 34.7392
+4    55.9604 12.3622 17.0244 14.653
+5    5.55028 77.0033 0.091983 17.3544
+6    45.1791 9.78289 30.5888 14.4491
+7    20.6695 31.7744 18.5165 29.0396
+8    26.7005 20.1798 32.9398 20.1798
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 380
+CC  accession: M02189_2.00
+CC  AC: M02189_2.00
+CC  id: M02189_2.00
+CC  name: MATALPHA2
+CC  version: 
+CC  name: MATALPHA2
+CC  description: MATALPHA2
+CC  transfac_consensus: 
+CC  matrix.nb: 380
+XX
+//
+AC  M02190_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1    23.2846 23.7549 28.7257 24.2348
+2    29.1522 21.3816 23.8678 25.5984
+3    21.7899 20.3168 22.6792 35.2141
+4    39.0672 11.3054 20.3949 29.2325
+5    33.727 12.7853 15.4606 38.0271
+6    86.1924 0.0227448 13.6889 0.095999
+7    7.18445 16.6418 8.68779 67.4859
+8    16.6456 12.5805 22.2456 48.5283
+9    44.3111 10.7106 31.2255 13.7527
+10   21.7118 29.6025 28.4417 20.244
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 381
+CC  accession: M02190_2.00
+CC  AC: M02190_2.00
+CC  id: M02190_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 381
+XX
+//
+AC  M02191_2.00
+XX
+ID  YHP1
+XX
+DE  YHP1
+P0       A     C     G     T
+1    13.8799 19.6966 15.4939 50.9296
+2    45.0376 5.79792 4.12679 45.0376
+3    59.6731 7.23465 6.54618 26.5461
+4    96.1112 0.0359907 3.84013 0.0127211
+5    4.55306 4.28791 11.6557 79.5033
+6    11.6671 5.4563 22.1264 60.7502
+7    49.4421 4.35272 41.2975 4.90768
+8    30.927 23.3741 29.7143 15.9846
+9    22.4624 24.8248 21.1543 31.5585
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 382
+CC  accession: M02191_2.00
+CC  AC: M02191_2.00
+CC  id: M02191_2.00
+CC  name: YHP1
+CC  version: 
+CC  name: YHP1
+CC  description: YHP1
+CC  transfac_consensus: 
+CC  matrix.nb: 382
+XX
+//
+AC  M02192_2.00
+XX
+ID  TOS8
+XX
+DE  TOS8
+P0       A     C     G     T
+1    30.9211 23.0263 23.0263 23.0263
+2    21.1231 21.1231 21.1231 36.6308
+3    23.235 15.3266 22.975 38.4634
+4    24.5065 0.0141598 0.0141598 75.4652
+5    0.0141598 7.66247 64.2318 28.0916
+6    99.9575 0.0141598 0.0141598 0.0141598
+7    0.0141598 92.3092 0.0141598 7.66247
+8    23.904 0.0141598 76.0677 0.0141598
+9    1.98786 10.3699 9.60083 78.0414
+10   40.3506 51.8672 3.8911 3.8911
+11   45.7115 9.68751 9.68751 34.9135
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 383
+CC  accession: M02192_2.00
+CC  AC: M02192_2.00
+CC  id: M02192_2.00
+CC  name: TOS8
+CC  version: 
+CC  name: TOS8
+CC  description: TOS8
+CC  transfac_consensus: 
+CC  matrix.nb: 383
+XX
+//
+AC  M02197_2.00
+XX
+ID  M02197_2.00
+XX
+DE  crtgtaaw 
+P0       A     C     G     T
+1    0.013151 81.5492 0.013151 18.4245
+2    45.5364 0.00989707 53.4541 0.999604
+3    0.00884643 6.20134 0.00884643 93.781
+4    2.63942 0.00876885 97.343     0
+5    0.00876885 0.00876885 0.00876885 99.9737
+6    91.0478 0.00892538 0.901464 8.04177
+7    63.9015 7.22383 4.13232 24.7424
+8    39.4285 2.82939 0.0140766 57.728
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 384
+CC  accession: M02197_2.00
+CC  AC: M02197_2.00
+CC  id: M02197_2.00
+CC  name: M02197_2.00
+CC  version: 
+CC  name: M02197_2.00
+CC  description: crtgtaaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 384
+XX
+//
+AC  M02200_2.00
+XX
+ID  M02200_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    15.7992 5.28391 18.428 60.489
+2    0.0188537 11.3311 0.0188537 88.6312
+3    99.9474 0.0175316 0.0175316 0.0175316
+4    99.9474 0.0175316 0.0175316 0.0175316
+5    0.0175316 0.0175316 0.0175316 99.9474
+6    0.0175316 0.0175316 0.0175316 99.9474
+7    69.1968 0.019216 30.7648 0.019216
+8    5.42657 16.2257 59.4222 18.9255
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 385
+CC  accession: M02200_2.00
+CC  AC: M02200_2.00
+CC  id: M02200_2.00
+CC  name: M02200_2.00
+CC  version: 
+CC  name: M02200_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 385
+XX
+//
+AC  M02221_2.00
+XX
+ID  M02221_2.00
+XX
+DE  sytaattrry 
+P0       A     C     G     T
+1    22.0726 30.3967 28.3417 19.189
+2    18.1348 25.4784 11.3343 45.0526
+3    15.3944 8.44861 2.89795 73.2591
+4    68.551 5.62701 14.2617 11.5603
+5    95.4074 0.0670817 2.55527 1.97024
+6    3.41015 5.08735 5.29497 86.2075
+7    8.27296 7.48568 11.0562 73.1851
+8    38.0328 3.48493 54.5135 3.96874
+9    29.7397 17.6809 39.3495 13.2299
+10   17.8433 30.3146 19.3294 32.5126
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 386
+CC  accession: M02221_2.00
+CC  AC: M02221_2.00
+CC  id: M02221_2.00
+CC  name: M02221_2.00
+CC  version: 
+CC  name: M02221_2.00
+CC  description: sytaattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 386
+XX
+//
+AC  M02231_2.00
+XX
+ID  M02231_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    20.7215 30.6053 17.1358 31.5374
+2    9.00964 1.87441 0.146357 88.9696
+3    81.6181 7.78385 6.06207 4.53602
+4    98.5399 0.0872011 0.267259 1.10568
+5    1.2063 4.47074 2.71164 91.6113
+6    11.0602 5.89055 8.35909 74.6902
+7    38.0207 3.58992 48.3338 10.0556
+8    28.8584 19.9335 33.5287 17.6794
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 387
+CC  accession: M02231_2.00
+CC  AC: M02231_2.00
+CC  id: M02231_2.00
+CC  name: M02231_2.00
+CC  version: 
+CC  name: M02231_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 387
+XX
+//
+AC  M02233_2.00
+XX
+ID  M02233_2.00
+XX
+DE  mctaattaayt 
+P0       A     C     G     T
+1    30.133 28.9596 20.4537 20.4537
+2    18.3972 48.7873 9.97906 22.8365
+3    2.0817 2.0817 2.0817 93.7549
+4    99.9772 0.00758933 0.00758933     0
+5    99.9772 0.00758933 0.00758933     0
+6    0.00758933 0.00758933 0.00758933 99.9772
+7    0.00758933 0.00758933 0.00758933 99.9772
+8    99.9772 0.00758933 0.00758933     0
+9    67.8847 4.55388 14.5894 12.972
+10   24.4307 26.068 15.0285 34.4728
+11   22.9259 22.9259 22.9259 31.2223
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 388
+CC  accession: M02233_2.00
+CC  AC: M02233_2.00
+CC  id: M02233_2.00
+CC  name: M02233_2.00
+CC  version: 
+CC  name: M02233_2.00
+CC  description: mctaattaayt 
+CC  transfac_consensus: 
+CC  matrix.nb: 388
+XX
+//
+AC  M02247_2.00
+XX
+ID  M02247_2.00
+XX
+DE  awkattcyay 
+P0       A     C     G     T
+1    35.4631 21.5094 21.944 21.0835
+2    33.0282 21.2714 20.234 25.4665
+3    21.461 21.0361 30.7608 26.7421
+4    28.6586 23.6995 24.1782 23.4637
+5    12.43 2.20365 7.10015 78.2662
+6    8.92949 0.0287062 3.74102 87.3008
+7    7.76353 81.405 4.34679 6.48465
+8    3.22113 43.3685 15.3288 38.0816
+9    61.4435 8.48346 18.5064 11.5666
+10   16.112 30.252 14.0071 39.629
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 389
+CC  accession: M02247_2.00
+CC  AC: M02247_2.00
+CC  id: M02247_2.00
+CC  name: M02247_2.00
+CC  version: 
+CC  name: M02247_2.00
+CC  description: awkattcyay 
+CC  transfac_consensus: 
+CC  matrix.nb: 389
+XX
+//
+AC  M02248_2.00
+XX
+ID  M02248_2.00
+XX
+DE  gaawgttctatat 
+P0       A     C     G     T
+1    22.1325 22.1325 33.6025 22.1325
+2    41.1769 19.6077 19.6077 19.6077
+3    55.1781 14.9406 14.9406 14.9406
+4    25.1241 5.34893 5.34893 64.178
+5    2.68332 2.68332 82.1326 12.5007
+6    0.0135504 0.0135504 0.0135504 99.9593
+7    9.83098 0.0135504 0.0135504 90.1419
+8    0.0135504 99.9593 0.0135504 0.0135504
+9    2.88105 21.4764 2.88105 72.7615
+10   83.7825 5.40584 5.40584 5.40584
+11   10.0729 10.0729 10.0729 69.7812
+12   41.0061 19.6646 19.6646 19.6646
+13   22.3302 22.3302 22.3302 33.0093
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 390
+CC  accession: M02248_2.00
+CC  AC: M02248_2.00
+CC  id: M02248_2.00
+CC  name: M02248_2.00
+CC  version: 
+CC  name: M02248_2.00
+CC  description: gaawgttctatat 
+CC  transfac_consensus: 
+CC  matrix.nb: 390
+XX
+//
+AC  M02249_2.00
+XX
+ID  M02249_2.00
+XX
+DE  wkattcyayr 
+P0       A     C     G     T
+1    28.36 22.7595 23.2192 25.6612
+2    23.0392 21.2679 30.4839 25.2089
+3    29.3438 24.0247 23.5489 23.0826
+4    11.6548 3.11342 6.52553 78.7062
+5    7.64597 0.0183923 2.84106 89.4946
+6    5.79688 86.256 2.90758 5.03956
+7    2.0561 40.8869 19.3136 37.7434
+8    54.7873 10.5219 20.7689 13.9218
+9    16.9023 29.0044 14.5479 39.5454
+10   25.9381 22.7762 29.8359 21.4498
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 391
+CC  accession: M02249_2.00
+CC  AC: M02249_2.00
+CC  id: M02249_2.00
+CC  name: M02249_2.00
+CC  version: 
+CC  name: M02249_2.00
+CC  description: wkattcyayr 
+CC  transfac_consensus: 
+CC  matrix.nb: 391
+XX
+//
+AC  M02283_2.00
+XX
+ID  M02283_2.00
+XX
+DE  cywwwwmgrg 
+P0       A     C     G     T
+1    23.3777 59.8464 8.346 8.42988
+2    3.0948 56.2453 4.43587 36.224
+3    50.6429 4.28362 15.5615 29.512
+4    52.431 6.23076 4.39074 36.9475
+5    65.7133 4.4163 4.20091 25.6695
+6    29.08 11.2464 6.68624 52.9873
+7    28.1986 34.0992 13.1875 24.5147
+8    22.8299 24.7314 29.6088 22.8299
+9    30.1159 3.30373 59.4451 7.13529
+10   20.7356 5.6511 52.0315 21.5818
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 392
+CC  accession: M02283_2.00
+CC  AC: M02283_2.00
+CC  id: M02283_2.00
+CC  name: M02283_2.00
+CC  version: 
+CC  name: M02283_2.00
+CC  description: cywwwwmgrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 392
+XX
+//
+AC  M02447_2.00
+XX
+ID  M02447_2.00
+XX
+DE  gttrcyadgg 
+P0       A     C     G     T
+1    5.28917 0.0833806 94.2226 0.404809
+2    1.24355 2.47928 1.8367 94.4405
+3    19.789 18.0858 0.865133 61.26
+4    25.4216 2.12889 60.0754 12.374
+5    2.09959 76.8414 3.56706 17.492
+6    0.950732 42.076 5.58161 51.3917
+7    81.8276 4.15626 6.51831 7.49784
+8    32.7088 12.6498 27.3207 27.3207
+9    7.78722 11.6172 75.3757 5.21993
+10   18.2413 20.1598 44.4199 17.179
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 393
+CC  accession: M02447_2.00
+CC  AC: M02447_2.00
+CC  id: M02447_2.00
+CC  name: M02447_2.00
+CC  version: 
+CC  name: M02447_2.00
+CC  description: gttrcyadgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 393
+XX
+//
+AC  M02448_2.00
+XX
+ID  M02448_2.00
+XX
+DE  gthrcyargs 
+P0       A     C     G     T
+1    14.6385 4.11095 80.1302 1.12036
+2    5.40323 8.47396 11.9055 74.2173
+3    25.2056 25.9732 5.56817 43.253
+4    25.156 5.78401 46.2979 22.7621
+5    6.19072 63.6278 8.35659 21.8249
+6    6.78312 49.6222 13.7968 29.7979
+7    41.1291 17.5792 21.4713 19.8205
+8    25.4958 15.9349 34.0732 24.4961
+9    12.2928 13.9994 65.3013 8.40656
+10   17.0067 25.626 40.1896 17.1776
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 394
+CC  accession: M02448_2.00
+CC  AC: M02448_2.00
+CC  id: M02448_2.00
+CC  name: M02448_2.00
+CC  version: 
+CC  name: M02448_2.00
+CC  description: gthrcyargs 
+CC  transfac_consensus: 
+CC  matrix.nb: 394
+XX
+//
+AC  M02449_2.00
+XX
+ID  M02449_2.00
+XX
+DE  sgttrcyarg 
+P0       A     C     G     T
+1    12.4103 34.4161 32.0894 21.0842
+2    5.60632 0.0438884 94.0564 0.293433
+3    1.34075 2.64648 2.9542 93.0586
+4    22.4224 18.7288 1.44782 57.401
+5    25.1727 2.57477 57.7291 14.5234
+6    4.04187 70.5772 4.33494 21.0459
+7    1.41831 38.8407 7.31164 52.4294
+8    77.7527 5.33097 9.42658 7.48974
+9    35.0279 11.8953 28.3931 24.6837
+10   8.57225 15.0072 67.9336 8.48696
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 395
+CC  accession: M02449_2.00
+CC  AC: M02449_2.00
+CC  id: M02449_2.00
+CC  name: M02449_2.00
+CC  version: 
+CC  name: M02449_2.00
+CC  description: sgttrcyarg 
+CC  transfac_consensus: 
+CC  matrix.nb: 395
+XX
+//
+AC  M02450_2.00
+XX
+ID  M02450_2.00
+XX
+DE  sgttryyadg 
+P0       A     C     G     T
+1    14.4681 32.5202 31.1417 21.87
+2    6.25863 0.000395897 93.6829 0.0580958
+3    2.5941 3.00225 5.22411 89.1796
+4    16.9902 16.9097 2.29359 63.8065
+5    25.734 1.99107 60.1374 12.1376
+6    6.21957 56.4835 9.01275 28.2841
+7    2.4442 42.0837 7.86848 47.6037
+8    68.8341 7.68659 12.349 11.1303
+9    28.5116 17.9293 27.0774 26.4816
+10   14.3652 17.8736 56.0076 11.7536
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 396
+CC  accession: M02450_2.00
+CC  AC: M02450_2.00
+CC  id: M02450_2.00
+CC  name: M02450_2.00
+CC  version: 
+CC  name: M02450_2.00
+CC  description: sgttryyadg 
+CC  transfac_consensus: 
+CC  matrix.nb: 396
+XX
+//
+AC  M02451_2.00
+XX
+ID  M02451_2.00
+XX
+DE  gttrcyadgg 
+P0       A     C     G     T
+1    9.90968 0.215135 87.664 2.21115
+2    3.11548 4.16362 3.92115 88.7998
+3    20.0398 23.5169 1.96938 54.4739
+4    26.5306 3.62661 53.4261 16.4167
+5    4.93599 69.1691 6.27487 19.6201
+6    3.26418 46.6656 9.90469 40.1655
+7    66.475 7.9791 11.4367 14.1092
+8    27.9005 15.1598 27.9005 29.0392
+9    12.0724 13.0778 66.0835 8.76633
+10   20.3722 20.1695 41.0247 18.4336
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 397
+CC  accession: M02451_2.00
+CC  AC: M02451_2.00
+CC  id: M02451_2.00
+CC  name: M02451_2.00
+CC  version: 
+CC  name: M02451_2.00
+CC  description: gttrcyadgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 397
+XX
+//
+AC  M02452_2.00
+XX
+ID  M02452_2.00
+XX
+DE  gttgctad 
+P0       A     C     G     T
+1    0.142045 0.142045 99.5739 0.142045
+2    0.142045 0.142045 0.142045 99.5739
+3    0.142045 0.142045 0.142045 99.5739
+4    0.142045 0.142045 99.5739 0.142045
+5    0.142045 99.5739 0.142045 0.142045
+6    0.142045 14.3466 0.142045 85.3693
+7    99.5739 0.142045 0.142045 0.142045
+8       25 0.247525    25 49.7525
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 398
+CC  accession: M02452_2.00
+CC  AC: M02452_2.00
+CC  id: M02452_2.00
+CC  name: M02452_2.00
+CC  version: 
+CC  name: M02452_2.00
+CC  description: gttgctad 
+CC  transfac_consensus: 
+CC  matrix.nb: 398
+XX
+//
+AC  M02453_2.00
+XX
+ID  M02453_2.00
+XX
+DE  gttrcyadgs 
+P0       A     C     G     T
+1    6.45806 0.296808 92.3263 0.918815
+2    2.39682 4.5912 4.41117 88.6008
+3    22.3272 21.0269 2.81737 53.8285
+4    25.6252 3.6458 52.1214 18.6077
+5    3.51721 70.6451 5.7989 20.0388
+6    2.25638 43.5435 8.87963 45.3205
+7    72.505 5.89235 10.3156 11.287
+8    32.3945 15.6112 25.9972 25.9972
+9    13.9259 16.0186 61.1759 8.87957
+10   16.7826 26.0585 36.2465 20.9124
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 399
+CC  accession: M02453_2.00
+CC  AC: M02453_2.00
+CC  id: M02453_2.00
+CC  name: M02453_2.00
+CC  version: 
+CC  name: M02453_2.00
+CC  description: gttrcyadgs 
+CC  transfac_consensus: 
+CC  matrix.nb: 399
+XX
+//
+AC  M02455_2.00
+XX
+ID  M02455_2.00
+XX
+DE  gttrcyadg 
+P0       A     C     G     T
+1    0.714649 0.121728 98.8927 0.270911
+2    0.241966 0.571804 0.589218 98.597
+3    14.6835 15.9064 0.229174 69.1809
+4    27.0792 0.859646 61.4833 10.5779
+5    1.25658 79.7101 3.41575 15.6176
+6    0.443405 33.339 2.35544 63.8622
+7    92.6562 0.576313 4.47674 2.29079
+8    28.3948 14.2421 28.3948 28.9684
+9    7.19021 14.9203 73.1652 4.7243
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 400
+CC  accession: M02455_2.00
+CC  AC: M02455_2.00
+CC  id: M02455_2.00
+CC  name: M02455_2.00
+CC  version: 
+CC  name: M02455_2.00
+CC  description: gttrcyadg 
+CC  transfac_consensus: 
+CC  matrix.nb: 400
+XX
+//
+AC  M02456_2.00
+XX
+ID  M02456_2.00
+XX
+DE  gtwrcyadgg 
+P0       A     C     G     T
+1    17.7782 0.00659114 77.3214 4.89381
+2    4.77106 7.04677 7.33435 80.8478
+3    25.0864 24.8368 5.27156 44.8053
+4    25.4816 7.08484 45.0583 22.3753
+5    9.86889 57.3623 10.5845 22.1844
+6    7.64013 43.9659 13.1105 35.2835
+7    56.9272 10.5042 14.1792 18.3894
+8    27.9236 15.7915 26.0357 30.2492
+9    17.0593 17.5788 53.3404 12.0215
+10   19.6514 24.7332 34.7489 20.8665
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 401
+CC  accession: M02456_2.00
+CC  AC: M02456_2.00
+CC  id: M02456_2.00
+CC  name: M02456_2.00
+CC  version: 
+CC  name: M02456_2.00
+CC  description: gtwrcyadgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 401
+XX
+//
+AC  M02488_2.00
+XX
+ID  M02488_2.00
+XX
+DE  ywttrtyybb 
+P0       A     C     G     T
+1    24.9549 32.6901 16.8959 25.4591
+2    30.4118 21.6462 19.5863 28.3557
+3    14.5122 21.8672 14.9542 48.6664
+4    14.0021 18.9009 7.99815 59.0988
+5    25.2273 13.5709 51.8279 9.37389
+6    18.7414 15.8115 13.4736 51.9735
+7    22.1322 26.2334 20.2273 31.4071
+8    21.3024 28.1859 20.8806 29.631
+9    22.6419 25.7852 25.5286 26.0443
+10   21.9489 26.2776 25.7573 26.0162
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 402
+CC  accession: M02488_2.00
+CC  AC: M02488_2.00
+CC  id: M02488_2.00
+CC  name: M02488_2.00
+CC  version: 
+CC  name: M02488_2.00
+CC  description: ywttrtyybb 
+CC  transfac_consensus: 
+CC  matrix.nb: 402
+XX
+//
+AC  M02577_2.00
+XX
+ID  M02577_2.00
+XX
+DE  tycggawrwa 
+P0       A     C     G     T
+1    20.2451 24.7274 16.2471 38.7804
+2    21.2116 36.7651 13.3906 28.6327
+3    0.997821 98.2798 0.0121287 0.71022
+4    0.0380933 15.836 84.1233     0
+5    0.425967 0.938575 95.2597 3.37572
+6    46.4461 22.6077 20.0513 10.8949
+7    27.9422 22.201 19.8885 29.9683
+8    27.6188 24.4957 29.9191 17.9663
+9    35.248 16.4843 20.5407 27.727
+10   33.7091 23.518 23.518 19.2549
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 403
+CC  accession: M02577_2.00
+CC  AC: M02577_2.00
+CC  id: M02577_2.00
+CC  name: M02577_2.00
+CC  version: 
+CC  name: M02577_2.00
+CC  description: tycggawrwa 
+CC  transfac_consensus: 
+CC  matrix.nb: 403
+XX
+//
+AC  M02616_2.00
+XX
+ID  M02616_2.00
+XX
+DE  yycggawrwr 
+P0       A     C     G     T
+1    21.8534 28.6271 15.2466 34.2729
+2    20.4795 34.4471 13.5912 31.4822
+3    0.0548466 97.2013 0.0342792 2.70955
+4    0.0459108 11.81 88.1416     0
+5    1.10272 0.587299 94.4224 3.88755
+6    49.6496 22.087 17.7253 10.538
+7    31.0418 23.9348 16.3681 28.6552
+8    29.8801 24.2204 27.0367 18.8628
+9    33.4284 18.5303 21.7455 26.2957
+10   31.9696 22.9837 25.6562 19.3905
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 404
+CC  accession: M02616_2.00
+CC  AC: M02616_2.00
+CC  id: M02616_2.00
+CC  name: M02616_2.00
+CC  version: 
+CC  name: M02616_2.00
+CC  description: yycggawrwr 
+CC  transfac_consensus: 
+CC  matrix.nb: 404
+XX
+//
+AC  M02617_2.00
+XX
+ID  M02617_2.00
+XX
+DE  yycggawrwa 
+P0       A     C     G     T
+1    20.8219 25.6876 18.4674 35.0231
+2    20.7928 36.0391 13.6618 29.5063
+3    1.08026 93.4286 2.40415 3.08699
+4    0.0273621 15.0504 84.8941 0.0281954
+5    0.740378 1.68103 94.5762 3.00238
+6    43.8861 22.4569 21.5764 12.0806
+7    29.7925 21.4185 18.9965 29.7925
+8    27.5106 24.645 28.0664 19.778
+9    32.2758 17.8914 21.2067 28.6261
+10   31.287 23.6462 23.8838 21.183
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 405
+CC  accession: M02617_2.00
+CC  AC: M02617_2.00
+CC  id: M02617_2.00
+CC  name: M02617_2.00
+CC  version: 
+CC  name: M02617_2.00
+CC  description: yycggawrwa 
+CC  transfac_consensus: 
+CC  matrix.nb: 405
+XX
+//
+AC  M02652_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    21.4286 35.7143 28.5714 14.2857
+2       50     0 21.4286 28.5714
+3    64.2857 7.14286 7.14286 21.4286
+4    21.4286 42.8571 28.5714 7.14286
+5    78.5714     0 21.4286     0
+6    78.5714     0 14.2857 7.14286
+7    78.5714     0 14.2857 7.14286
+8    21.4286 21.4286 14.2857 42.8571
+9    28.5714 7.14286 57.1429 7.14286
+10   21.4286 28.5714 42.8571 7.14286
+11   57.1429 35.7143 7.14286     0
+12   57.1429 7.14286 28.5714 7.14286
+13   64.2857     0 14.2857 21.4286
+14   64.2857 35.7143     0     0
+15   78.5714     0 21.4286     0
+16   14.2857    50     0 35.7143
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 406
+CC  accession: M02652_2.00
+CC  AC: M02652_2.00
+CC  id: M02652_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 406
+XX
+//
+AC  M02688_2.00
+XX
+ID  M02688_2.00
+XX
+DE  taattrsy 
+P0       A     C     G     T
+1        0 2.63158     0 97.3684
+2    94.7368     0     0 5.26316
+3      100     0     0     0
+4    2.63158 2.63158 5.26316 89.4737
+5    5.26316     0 10.5263 84.2105
+6    39.4737     0 57.8947 2.63158
+7    10.5263 31.5789 47.3684 10.5263
+8    5.26316 34.2105 15.7895 44.7368
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 407
+CC  accession: M02688_2.00
+CC  AC: M02688_2.00
+CC  id: M02688_2.00
+CC  name: M02688_2.00
+CC  version: 
+CC  name: M02688_2.00
+CC  description: taattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 407
+XX
+//
+AC  M02716_2.00
+XX
+ID  M02716_2.00
+XX
+DE  raacaatrg 
+P0       A     C     G     T
+1    31.5789 9.21053 40.7895 18.4211
+2    71.0526 7.89474 9.21053 11.8421
+3    77.6316 5.26316     0 17.1053
+4        0 94.7368 2.63158 2.63158
+5    85.5263 5.26316     0 9.21053
+6    93.4211 2.63158 1.31579 2.63158
+7    5.26316     0 1.31579 93.4211
+8    31.5789 7.89474    50 10.5263
+9    11.8421 11.8421 72.3684 3.94737
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 408
+CC  accession: M02716_2.00
+CC  AC: M02716_2.00
+CC  id: M02716_2.00
+CC  name: M02716_2.00
+CC  version: 
+CC  name: M02716_2.00
+CC  description: raacaatrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 408
+XX
+//
+AC  M02717_2.00
+XX
+ID  M02717_2.00
+XX
+DE  kwwaacaaw 
+P0       A     C     G     T
+1    17.8571 17.8571 35.7143 28.5714
+2    28.5714 10.7143 14.2857 46.4286
+3    53.5714     0 10.7143 35.7143
+4    64.2857 10.7143 10.7143 14.2857
+5    89.2857     0     0 10.7143
+6        0 92.8571     0 7.14286
+7      100     0     0     0
+8    96.4286     0 3.57143     0
+9       25     0 7.14286 67.8571
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 409
+CC  accession: M02717_2.00
+CC  AC: M02717_2.00
+CC  id: M02717_2.00
+CC  name: M02717_2.00
+CC  version: 
+CC  name: M02717_2.00
+CC  description: kwwaacaaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 409
+XX
+//
+AC  M02718_2.00
+XX
+ID  M02718_2.00
+XX
+DE  sacaatrdr 
+P0       A     C     G     T
+1    12.9032 32.2581 54.8387     0
+2    93.5484 6.45161     0     0
+3        0   100     0     0
+4      100     0     0     0
+5    96.7742     0 3.22581     0
+6    3.22581     0     0 96.7742
+7    29.0323 3.22581 58.0645 9.67742
+8    35.4839 12.9032 25.8065 25.8065
+9    29.0323 19.3548 29.0323 22.5806
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 410
+CC  accession: M02718_2.00
+CC  AC: M02718_2.00
+CC  id: M02718_2.00
+CC  name: M02718_2.00
+CC  version: 
+CC  name: M02718_2.00
+CC  description: sacaatrdr 
+CC  transfac_consensus: 
+CC  matrix.nb: 410
+XX
+//
+AC  M02719_2.00
+XX
+ID  M02719_2.00
+XX
+DE  waacaat 
+P0       A     C     G     T
+1    34.7826 17.3913 13.0435 34.7826
+2    91.3043     0 4.34783 4.34783
+3    95.6522     0 4.34783     0
+4        0 95.6522     0 4.34783
+5      100     0     0     0
+6    95.6522 4.34783     0     0
+7        0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 411
+CC  accession: M02719_2.00
+CC  AC: M02719_2.00
+CC  id: M02719_2.00
+CC  name: M02719_2.00
+CC  version: 
+CC  name: M02719_2.00
+CC  description: waacaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 411
+XX
+//
+AC  M02744_2.00
+XX
+ID  M02744_2.00
+XX
+DE  gaakgttctrga 
+P0       A     C     G     T
+1    0.168256 0.0560852 99.2148 0.560852
+2    99.7744 0.0564016 0.112803 0.0564016
+3    99.0482 0.055991 0.111982 0.783875
+4    8.68038 19.6688 27.2704 44.3803
+5    12.9464 9.65909 71.7938 5.60065
+6        0 0.225098 0.225098 99.5498
+7    0.662252 0.165563 1.54525 97.6269
+8    0.168539 99.382 0.337079 0.11236
+9    0.0467071 3.2695 14.0589 82.6249
+10   61.0632 5.00518 33.7591 0.172592
+11   0.111982 0.111982 99.0482 0.727884
+12   98.3324 0.222346 0.166759 1.27849
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 412
+CC  accession: M02744_2.00
+CC  AC: M02744_2.00
+CC  id: M02744_2.00
+CC  name: M02744_2.00
+CC  version: 
+CC  name: M02744_2.00
+CC  description: gaakgttctrga 
+CC  transfac_consensus: 
+CC  matrix.nb: 412
+XX
+//
+AC  M02750_2.00
+XX
+ID  M02750_2.00
+XX
+DE  gttryyatgg 
+P0       A     C     G     T
+1    0.91001 0.101112 98.6855 0.303337
+2        0 0.102354     0 99.8976
+3    0.396432 2.87413     0 96.7294
+4    36.4816 1.81629 50.6487 11.0535
+5        0 73.0539 0.374251 26.5719
+6    0.0692042 67.5433 0.138408 32.2491
+7    97.6977 0.500501 0.3003 1.5015
+8    1.99601 0.299401 0.299401 97.4052
+9    17.4389 0.084246 82.2241 0.252738
+10   12.0179 0.44843 87.5336     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 413
+CC  accession: M02750_2.00
+CC  AC: M02750_2.00
+CC  id: M02750_2.00
+CC  name: M02750_2.00
+CC  version: 
+CC  name: M02750_2.00
+CC  description: gttryyatgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 413
+XX
+//
+AC  M03076_2.00
+XX
+ID  M03076_2.00
+XX
+DE  htaatywrattaa 
+P0       A     C     G     T
+1    26.456 27.5137 17.3383 28.6919
+2    15.0036 5.21278 2.06014 77.7234
+3    86.0698 1.08307 6.38322 6.46388
+4    98.0701 0.485756 1.05028 0.393856
+5    5.96757 10.0216 3.25405 80.7568
+6    3.67953 29.7448 7.66766 58.908
+7    35.8549 17.5392 19.5475 27.0585
+8    66.5073 6.47297 25.0582 1.96151
+9    86.7193 2.56559 7.84769 2.86743
+10   0.918143 1.84922 0.633648 96.599
+11   11.897 7.96637 1.62901 78.5076
+12   86.7596 1.41696 3.44948 8.37398
+13   40.8032 17.8447 24.7523 16.5997
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 414
+CC  accession: M03076_2.00
+CC  AC: M03076_2.00
+CC  id: M03076_2.00
+CC  name: M03076_2.00
+CC  version: 
+CC  name: M03076_2.00
+CC  description: htaatywrattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 414
+XX
+//
+AC  M03079_2.00
+XX
+ID  M03079_2.00
+XX
+DE  ktaattdrattak 
+P0       A     C     G     T
+1    19.4988 19.536 29.4107 31.5545
+2    8.85739 4.28381 2.48257 84.3762
+3    73.5577 1.53615 12.3984 12.5077
+4    98.3298 0.200785 1.12257 0.34681
+5    3.22079 8.07531 4.88564 83.8183
+6    3.96844 20.1946 13.4835 62.3535
+7    26.3783 17.2174 26.8331 29.5712
+8    46.7557 10.2042 37.879 5.16104
+9    69.6535 2.71528 21.4055 6.22576
+10   0.16538 0.45939 0.385888 98.9893
+11   7.69409 7.52465 1.80222 82.9791
+12   74.2062 1.89407 8.84358 15.0561
+13   23.0369 14.405 35.7899 26.7681
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 415
+CC  accession: M03079_2.00
+CC  AC: M03079_2.00
+CC  id: M03079_2.00
+CC  name: M03079_2.00
+CC  version: 
+CC  name: M03079_2.00
+CC  description: ktaattdrattak 
+CC  transfac_consensus: 
+CC  matrix.nb: 415
+XX
+//
+AC  M03113_2.00
+XX
+ID  M03113_2.00
+XX
+DE  taattrrrtta 
+P0       A     C     G     T
+1    12.0829 6.54702 1.82002 79.5501
+2    84.5437 0.367153 7.15501 7.93409
+3      100     0     0     0
+4    1.43914 2.92824 1.27923 94.3534
+5    3.01528 14.5806 5.67295 76.7311
+6    46.9267 6.71011 36.2099 10.1532
+7    39.6836 18.5288 37.3104 4.47725
+8    60.839 4.14358 26.3887 8.62869
+9    0.0736145 0.557367 0.0841308 99.2849
+10   6.26275 11.8117 1.69952 80.226
+11   72.8753 3.55847 8.15129 15.4149
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 416
+CC  accession: M03113_2.00
+CC  AC: M03113_2.00
+CC  id: M03113_2.00
+CC  name: M03113_2.00
+CC  version: 
+CC  name: M03113_2.00
+CC  description: taattrrrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 416
+XX
+//
+AC  M03114_2.00
+XX
+ID  M03114_2.00
+XX
+DE  taattrrrtta 
+P0       A     C     G     T
+1    10.5603 3.99637 0.732548 84.7108
+2    89.6595 0.191916 4.33731 5.81123
+3    99.9615     0 0.0385142     0
+4    0.423782 1.63696 0.88911 97.0501
+5    2.05996 14.4879 3.78568 79.6665
+6    45.2727 7.50297 36.2824 10.942
+7    41.7525 18.1181 36.9132 3.21614
+8    66.1522 2.56294 26.2326 5.05225
+9    0.0170568 0.268645 0.106605 99.6077
+10   4.19522 9.68071 0.984108 85.14
+11   79.7671 2.08646 5.83937 12.3071
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 417
+CC  accession: M03114_2.00
+CC  AC: M03114_2.00
+CC  id: M03114_2.00
+CC  name: M03114_2.00
+CC  version: 
+CC  name: M03114_2.00
+CC  description: taattrrrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 417
+XX
+//
+AC  M03120_2.00
+XX
+ID  M03120_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    15.7545 26.6382 17.8634 39.7439
+2    4.74407 0.524975 2.48591 92.245
+3    83.9463 3.52689 8.08656 4.44023
+4    99.9874     0 0.0125523     0
+5    0.842368 0.814155 2.02733 96.3162
+6    2.93787 6.44155 3.94618 86.6744
+7    46.6394 4.09259 40.6046 8.66343
+8    26.6298 18.1563 37.9237 17.2901
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 418
+CC  accession: M03120_2.00
+CC  AC: M03120_2.00
+CC  id: M03120_2.00
+CC  name: M03120_2.00
+CC  version: 
+CC  name: M03120_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 418
+XX
+//
+AC  M03121_2.00
+XX
+ID  M03121_2.00
+XX
+DE  ytaattrg 
+P0       A     C     G     T
+1    16.6339 29.1609 21.91 32.2951
+2    8.21171 0.478108 5.94699 85.3632
+3    82.2583 3.54025 9.78015 4.42127
+4    99.1717     0 0.272851 0.555447
+5    2.80135 1.06762 3.26672 92.8643
+6    4.39198 5.28358 6.30727 84.0172
+7    45.2847 2.9141 45.687 6.11424
+8    24.7936 17.158 44.1529 13.8954
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 419
+CC  accession: M03121_2.00
+CC  AC: M03121_2.00
+CC  id: M03121_2.00
+CC  name: M03121_2.00
+CC  version: 
+CC  name: M03121_2.00
+CC  description: ytaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 419
+XX
+//
+AC  M03122_2.00
+XX
+ID  M03122_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    10.7143 8.92857 1.65816 78.699
+2    81.0775 0.788436 8.27858 9.85545
+3    99.0369 0.642055 0.321027     0
+4    1.22511 2.90965 1.37825 94.487
+5    2.1419 11.1111 4.14993 82.5971
+6    52.2439 18.5436 24.1321 5.08044
+7    35.6369 11.5176 47.9675 4.87805
+8    64.5397 8.159 22.0711 5.23013
+9    2.49267 3.95894 3.07918 90.4692
+10   9.35601 12.1507 3.52369 74.9696
+11   78.9003 2.8133 6.77749 11.509
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 420
+CC  accession: M03122_2.00
+CC  AC: M03122_2.00
+CC  id: M03122_2.00
+CC  name: M03122_2.00
+CC  version: 
+CC  name: M03122_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 420
+XX
+//
+AC  M03124_2.00
+XX
+ID  M03124_2.00
+XX
+DE  ytaattag 
+P0       A     C     G     T
+1    2.90852 65.0773 3.03113 28.983
+2    6.00768 15.1583 2.01925 76.8148
+3    92.3617 2.65534 2.29416 2.68878
+4    97.8044 0.878249 0.871167 0.446207
+5    0.830693 1.3094 0.647659 97.2122
+6    4.05204 3.67014 2.89339 89.3844
+7    80.0383 1.86055 12.224 5.87724
+8    20.9356 23.4847 31.0522 24.5275
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 421
+CC  accession: M03124_2.00
+CC  AC: M03124_2.00
+CC  id: M03124_2.00
+CC  name: M03124_2.00
+CC  version: 
+CC  name: M03124_2.00
+CC  description: ytaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 421
+XX
+//
+AC  M03127_2.00
+XX
+ID  M03127_2.00
+XX
+DE  taattgswwtttaattgc 
+P0       A     C     G     T
+1    3.06845 5.27144 0.472069 91.188
+2    96.0209 0.130463 2.93542 0.913242
+3    99.7997     0 0.0667557 0.133511
+4    0.0859107 0.773196 5.41237 93.7285
+5    0.682853 12.8225 4.09712 82.3976
+6    22.8873 1.32042 68.5739 7.21831
+7    7.11431 37.1703 41.3269 14.3885
+8    27.9785 14.681 6.84089 50.4996
+9    32.4921 11.5142 8.04416 47.9495
+10   11.8812 12.0668 14.1708 61.8812
+11   18.6881 11.5718 7.05446 62.6856
+12   2.14876 2.72727 0.495868 94.6281
+13   87.5743 0.237812 6.06421 6.12366
+14   99.9374     0 0.0625782     0
+15   0.344234 1.37694 2.92599 95.3528
+16   3.28677 2.95809 4.19063 89.5645
+17   21.4221 1.18505 74.1112 3.28168
+18   17.3824 50.5112 21.8814 10.2249
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 422
+CC  accession: M03127_2.00
+CC  AC: M03127_2.00
+CC  id: M03127_2.00
+CC  name: M03127_2.00
+CC  version: 
+CC  name: M03127_2.00
+CC  description: taattgswwtttaattgc 
+CC  transfac_consensus: 
+CC  matrix.nb: 422
+XX
+//
+AC  M03128_2.00
+XX
+ID  M03128_2.00
+XX
+DE  ytaattgg 
+P0       A     C     G     T
+1    15.2398 26.243 23.2716 35.2457
+2    0.603102     0 1.75187 97.645
+3    92.0661 1.94963 4.57623 1.40807
+4      100     0     0     0
+5        0     0 0.816803 99.1832
+6    2.26293 1.80496 4.33728 91.5948
+7    22.7452 1.24014 73.0552 2.95941
+8    10.5882 24.5588 49.6471 15.2059
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 423
+CC  accession: M03128_2.00
+CC  AC: M03128_2.00
+CC  id: M03128_2.00
+CC  name: M03128_2.00
+CC  version: 
+CC  name: M03128_2.00
+CC  description: ytaattgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 423
+XX
+//
+AC  M03137_2.00
+XX
+ID  M03137_2.00
+XX
+DE  gbtaattrgk 
+P0       A     C     G     T
+1    19.4934 19.5454 41.4586 19.5026
+2    17.7925 27.4382 25.9667 28.8026
+3    6.31362 0.953997 1.81621 90.9162
+4    75.6159 4.71905 12.5009 7.16417
+5    96.2119 0.235467 2.54599 1.00662
+6    2.32584 1.2247 6.68918 89.7603
+7    5.6643 7.88308 7.36045 79.0922
+8    42.694 1.47874 49.7286 6.09873
+9    21.9163 19.0835 42.8047 16.1955
+10   18.6429 24.5564 27.9001 28.9005
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 424
+CC  accession: M03137_2.00
+CC  AC: M03137_2.00
+CC  id: M03137_2.00
+CC  name: M03137_2.00
+CC  version: 
+CC  name: M03137_2.00
+CC  description: gbtaattrgk 
+CC  transfac_consensus: 
+CC  matrix.nb: 424
+XX
+//
+AC  M03138_2.00
+XX
+ID  M03138_2.00
+XX
+DE  gytaattrgy 
+P0       A     C     G     T
+1    20.2762 17.4915 40.937 21.2952
+2    15.97 28.6613 21.5002 33.8686
+3    6.40461 1.14981 1.22151 91.2241
+4    78.8765 2.82089 10.0635 8.23905
+5    95.3047 0.0107015 2.66199 2.02258
+6    2.72121 2.16647 6.0971 89.0152
+7    5.39847 7.68383 6.78858 80.1291
+8    45.2603 1.21091 46.13 7.39886
+9    24.0413 15.0525 42.7348 18.1714
+10   20.5508 26.6253 22.8863 29.9377
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 425
+CC  accession: M03138_2.00
+CC  AC: M03138_2.00
+CC  id: M03138_2.00
+CC  name: M03138_2.00
+CC  version: 
+CC  name: M03138_2.00
+CC  description: gytaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 425
+XX
+//
+AC  M03149_2.00
+XX
+ID  M03149_2.00
+XX
+DE  rytaattrry 
+P0       A     C     G     T
+1    27.0315 15.8789 34.743 22.3466
+2    15.5537 29.0751 11.7793 43.5919
+3    4.92572 0.781861     0 94.2924
+4    92.6623 1.88244 2.72762 2.72762
+5    95.1479     0     0 4.85207
+6    0.965406 0.482703 1.52856 97.0233
+7    1.61812 0.121359 0.687702 97.5728
+8    42.6631 0.94304 48.3214 8.07243
+9    28.7313 17.3715 39.8425 14.0547
+10   14.3804 38.1683 15.3336 32.1177
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 426
+CC  accession: M03149_2.00
+CC  AC: M03149_2.00
+CC  id: M03149_2.00
+CC  name: M03149_2.00
+CC  version: 
+CC  name: M03149_2.00
+CC  description: rytaattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 426
+XX
+//
+AC  M03172_2.00
+XX
+ID  M03172_2.00
+XX
+DE  gytaattrgy 
+P0       A     C     G     T
+1    15.7465 20.8614 40.7022 22.6898
+2    16.1373 34.2765 17.2683 32.3179
+3    7.2884 0.495155 1.81676 90.3997
+4    88.6223 3.55509 3.9532 3.86939
+5    98.1209 0.185593 1.0633 0.630244
+6    1.80538 1.23448 2.88415 94.076
+7    5.86358 3.60887 5.25538 85.2722
+8    59.1831 2.7254 31.1037 6.98783
+9    21.692 17.4718 47.2732 13.5629
+10   14.6595 41.8072 17.8358 25.6975
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 427
+CC  accession: M03172_2.00
+CC  AC: M03172_2.00
+CC  id: M03172_2.00
+CC  name: M03172_2.00
+CC  version: 
+CC  name: M03172_2.00
+CC  description: gytaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 427
+XX
+//
+AC  M03173_2.00
+XX
+ID  M03173_2.00
+XX
+DE  kytaattrrr 
+P0       A     C     G     T
+1    14.8299 19.0833 31.0564 35.0305
+2    17.8136 27.9964 21.2164 32.9736
+3    10.4047 0.926518 4.78168 83.8871
+4    82.5508 2.50472 7.63991 7.30455
+5    98.058 0.0995892 0.896303 0.946097
+6    2.69671 1.64604 3.70068 91.9566
+7    6.35546 8.9421 5.11266 79.5898
+8    50.0222 3.82653 37.3447 8.80657
+9    29.6724 14.6013 43.1945 12.5317
+10   43.0367 13.4823 27.5993 15.8817
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 428
+CC  accession: M03173_2.00
+CC  AC: M03173_2.00
+CC  id: M03173_2.00
+CC  name: M03173_2.00
+CC  version: 
+CC  name: M03173_2.00
+CC  description: kytaattrrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 428
+XX
+//
+AC  M03174_2.00
+XX
+ID  M03174_2.00
+XX
+DE  ktaattwrattad 
+P0       A     C     G     T
+1    21.0998 19.6705 27.689 31.5407
+2    9.19019 3.72965 2.01937 85.0608
+3    79.799 0.947226 7.05587 12.198
+4    98.9216 0.215672 0.623053 0.239636
+5    2.60504 7.14286 3.52941 86.7227
+6    3.03907 18.7513 11.6188 66.5909
+7    32.3886 16.3033 22.9651 28.343
+8    50.9048 8.11156 36.9811 4.00255
+9    77.5211 1.84038 16.6948 3.94366
+10   0.168148 0.312275 0.360317 99.1593
+11   7.86375 4.37342 0.967199 86.7956
+12   78.3153 1.44185 6.69702 13.5458
+13   25.5994 14.7736 32.6229 27.0041
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 429
+CC  accession: M03174_2.00
+CC  AC: M03174_2.00
+CC  id: M03174_2.00
+CC  name: M03174_2.00
+CC  version: 
+CC  name: M03174_2.00
+CC  description: ktaattwrattad 
+CC  transfac_consensus: 
+CC  matrix.nb: 429
+XX
+//
+AC  M03180_2.00
+XX
+ID  M03180_2.00
+XX
+DE  gytaattrgb 
+P0       A     C     G     T
+1    22.8806 23.6402 38.4686 15.0106
+2    14.4941 36.7973 20.3586 28.35
+3    7.41856 1.34136 1.14974 90.0903
+4    80.5039 6.28669 10.9589 2.25049
+5    97.6848 0.801425 1.5138     0
+6    2.04798     0 1.66764 96.2844
+7    3.20911 4.81366 6.80642 85.1708
+8    42.8571 1.87212 51.9297 3.34101
+9    17.6542 23.4883 46.9158 11.9417
+10   12.2151 29.8086 30.3859 27.5904
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 430
+CC  accession: M03180_2.00
+CC  AC: M03180_2.00
+CC  id: M03180_2.00
+CC  name: M03180_2.00
+CC  version: 
+CC  name: M03180_2.00
+CC  description: gytaattrgb 
+CC  transfac_consensus: 
+CC  matrix.nb: 430
+XX
+//
+AC  M03181_2.00
+XX
+ID  M03181_2.00
+XX
+DE  taattrsyyaatta 
+P0       A     C     G     T
+1    4.25844 1.98238 1.39501 92.3642
+2    86.039 1.21753 9.17208 3.57143
+3    97.693 0.532387 0.709849 1.06477
+4    2.19298 1.16959 3.36257 93.2749
+5    5.28914 2.67983 10.3667 81.6643
+6    38.5821 0.671642 59.0299 1.71642
+7    3.91236 35.2113 58.2942 2.58216
+8    12.766 33.765 17.0213 36.4477
+9    2.08514 58.384 2.25891 37.2719
+10   79.3131 8.22684 6.07029 6.38978
+11   90.7015 3.67047 1.06036 4.5677
+12   0.845503 1.0761 0.999231 97.0792
+13   7.64331 6.4402 0.778485 85.138
+14   85.9663 2.24539 3.92943 7.85886
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 431
+CC  accession: M03181_2.00
+CC  AC: M03181_2.00
+CC  id: M03181_2.00
+CC  name: M03181_2.00
+CC  version: 
+CC  name: M03181_2.00
+CC  description: taattrsyyaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 431
+XX
+//
+AC  M03182_2.00
+XX
+ID  M03182_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    10.4498 42.0761 23.6332 23.8408
+2    4.32362 0.98264     0 94.6937
+3    80.462 4.50877 13.4428 1.58642
+4      100     0     0     0
+5        0     0 0.959233 99.0408
+6        0 2.3195 3.23424 94.4463
+7    52.084 0.166722 44.2814 3.46782
+8    18.1598 26.4614 40.6088 14.77
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 432
+CC  accession: M03182_2.00
+CC  AC: M03182_2.00
+CC  id: M03182_2.00
+CC  name: M03182_2.00
+CC  version: 
+CC  name: M03182_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 432
+XX
+//
+AC  M03183_2.00
+XX
+ID  M03183_2.00
+XX
+DE  taattrsbyaatta 
+P0       A     C     G     T
+1    6.37523 8.37887 6.19308 79.0528
+2    57.8467 4.19708 20.6204 17.3358
+3       75 3.47826 11.7391 9.78261
+4    7.89474 9.28793 16.5635 66.2539
+5    8.39695 8.70229 20.1527 62.7481
+6    41.2017 4.50644    50 4.29185
+7    6.61896 47.0483 45.975 0.357782
+8    17.6734 25.5034 26.1745 30.6488
+9    3.68932 44.6602 4.46602 47.1845
+10   60.6272 19.338 13.0662 6.96864
+11      65 12.8571 11.0714 11.0714
+12   7.28242 10.8348 7.1048 74.778
+13   12.3077 8.71795 11.453 67.5214
+14   68.9109 4.15842 15.8416 11.0891
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 433
+CC  accession: M03183_2.00
+CC  AC: M03183_2.00
+CC  id: M03183_2.00
+CC  name: M03183_2.00
+CC  version: 
+CC  name: M03183_2.00
+CC  description: taattrsbyaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 433
+XX
+//
+AC  M03184_2.00
+XX
+ID  M03184_2.00
+XX
+DE  taattgswwtttaattrs 
+P0       A     C     G     T
+1    5.43933 7.53138 1.05377 85.9755
+2    91.4582 0.995162 4.10504 3.4416
+3    98.7345 0.392727 0.421818 0.450909
+4    1.5411 1.79795 2.87671 93.7842
+5    2.35899 12.0671 5.74626 79.8276
+6    21.0841 2.3742 69.0906 7.4511
+7    9.50743 36.1376 39.1869 15.1681
+8    25.557 13.9674 12.0053 48.4702
+9    27.7795 15.5202 12.0351 44.6652
+10   17.9065 15.3142 16.349 50.4302
+11   19.0188 15.9954 11.6942 53.2915
+12   4.2691 6.14618 1.01329 88.5714
+13   83.0369 1.10853 7.87574 7.97886
+14   98.9909 0.298465 0.355316 0.355316
+15   0.962211 2.02939 4.61861 92.3898
+16   5.27298 7.13952 8.46166 79.1258
+17   30.1856 2.12139 63.4207 4.27225
+18   13.4723 37.7722 34.3186 14.4368
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 434
+CC  accession: M03184_2.00
+CC  AC: M03184_2.00
+CC  id: M03184_2.00
+CC  name: M03184_2.00
+CC  version: 
+CC  name: M03184_2.00
+CC  description: taattgswwtttaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 434
+XX
+//
+AC  M03185_2.00
+XX
+ID  M03185_2.00
+XX
+DE  ytaattrs 
+P0       A     C     G     T
+1    17.4129 27.9856 19.55 35.0515
+2    3.33881 1.4728 0.178737 95.0097
+3    92.8911 1.56578 2.98476 2.55837
+4      100     0     0     0
+5        0     0     0   100
+6    0.537444 2.68722 2.80037 93.975
+7    30.3547 0.67182 65.6433 3.3302
+8    13.9138 31.3492 38.3475 16.3895
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 435
+CC  accession: M03185_2.00
+CC  AC: M03185_2.00
+CC  id: M03185_2.00
+CC  name: M03185_2.00
+CC  version: 
+CC  name: M03185_2.00
+CC  description: ytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 435
+XX
+//
+AC  M03186_2.00
+XX
+ID  M03186_2.00
+XX
+DE  btaattrs 
+P0       A     C     G     T
+1    14.9642 30.7417 26.4802 27.8139
+2    2.68674 3.10009 3.48391 90.7293
+3    85.5512 6.98775 5.70713 1.7539
+4    99.0013 0.998711     0     0
+5        0     0 3.36478 96.6352
+6    0.449438 3.90449 9.32584 86.3202
+7    29.9875 1.03513 66.4053 2.57215
+8    16.3033 25.6102 43.0849 15.0016
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 436
+CC  accession: M03186_2.00
+CC  AC: M03186_2.00
+CC  id: M03186_2.00
+CC  name: M03186_2.00
+CC  version: 
+CC  name: M03186_2.00
+CC  description: btaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 436
+XX
+//
+AC  M03189_2.00
+XX
+ID  M03189_2.00
+XX
+DE  gttaattrrd 
+P0       A     C     G     T
+1    20.4819 20.9337 39.006 19.5783
+2    20.5128 21.4178 23.2278 34.8416
+3    8.42391 1.49457     0 90.0815
+4    85.8808 2.46114 11.658     0
+5    99.5495     0 0.45045     0
+6        0     0     0   100
+7    2.3968 7.98935 1.33156 88.2823
+8    49.6229     0 50.3771     0
+9    28.4639 20.6325 36.5964 14.3072
+10   30.7692 14.6305 26.0935 28.5068
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 437
+CC  accession: M03189_2.00
+CC  AC: M03189_2.00
+CC  id: M03189_2.00
+CC  name: M03189_2.00
+CC  version: 
+CC  name: M03189_2.00
+CC  description: gttaattrrd 
+CC  transfac_consensus: 
+CC  matrix.nb: 437
+XX
+//
+AC  M03190_2.00
+XX
+ID  M03190_2.00
+XX
+DE  sstaattrss 
+P0       A     C     G     T
+1    17.1723 28.8835 42.9612 10.983
+2    10.7403 38.2282 29.7937 21.2379
+3        0 2.658     0 97.342
+4    72.5672 8.93879 18.4941     0
+5      100     0     0     0
+6        0 0.397727 5.96591 93.6364
+7    2.45143 7.58557 13.7373 76.2257
+8    36.8576 2.06734 60.4843 0.590667
+9    20.8131    25 41.3228 12.8641
+10   13.6612 27.6867 34.2441 24.408
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 438
+CC  accession: M03190_2.00
+CC  AC: M03190_2.00
+CC  id: M03190_2.00
+CC  name: M03190_2.00
+CC  version: 
+CC  name: M03190_2.00
+CC  description: sstaattrss 
+CC  transfac_consensus: 
+CC  matrix.nb: 438
+XX
+//
+AC  M03191_2.00
+XX
+ID  M03191_2.00
+XX
+DE  ytaattrrattar 
+P0       A     C     G     T
+1    21.711 27.9284 24.8943 25.4663
+2    17.9379 14.6155 4.74185 62.7047
+3    66.9665 3.44828 14.7093 14.8759
+4    98.0966 0.219619 1.51293 0.170815
+5    2.27683 3.02074 4.08025 90.6222
+6    6.48842 10.218 14.8331 68.4605
+7    44.4739 22.591 25.6887 7.24638
+8    44.0621 19.7575 27.6213 8.5592
+9       60 12.0149 15.8358 12.1493
+10   1.45472 3.09714 1.12623 94.3219
+11   14.8268 20.1032 5.82167 59.2483
+12   64.9855 6.99968 10.7986 17.2163
+13   26.0697 24.2289 28.9801 20.7214
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 439
+CC  accession: M03191_2.00
+CC  AC: M03191_2.00
+CC  id: M03191_2.00
+CC  name: M03191_2.00
+CC  version: 
+CC  name: M03191_2.00
+CC  description: ytaattrrattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 439
+XX
+//
+AC  M03192_2.00
+XX
+ID  M03192_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    13.0261 28.3811 21.191 37.4018
+2    8.87939 1.67074 5.05337 84.3965
+3    80.665 3.89278 8.64626 6.79599
+4    96.3371 0.305244 2.10279 1.25489
+5    2.251 1.06227 3.29303 93.3937
+6    5.63232 9.8164 5.44165 79.1096
+7    46.8188 4.85263 39.0816 9.24698
+8    34.8571 15.4665 36.1896 13.4868
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 440
+CC  accession: M03192_2.00
+CC  AC: M03192_2.00
+CC  id: M03192_2.00
+CC  name: M03192_2.00
+CC  version: 
+CC  name: M03192_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 440
+XX
+//
+AC  M03193_2.00
+XX
+ID  M03193_2.00
+XX
+DE  gctaattrsy 
+P0       A     C     G     T
+1    24.3425 19.902 42.8582 12.8973
+2    11.116 44.6359 23.3257 20.9225
+3    1.15809 0.0288621 0.180388 98.6327
+4    96.4849 0.868184 1.54579 1.10111
+5    99.3676 0.00363465 0.465235 0.163559
+6    0.0834452 0.105214 0.624025 99.1873
+7    0.544326 2.62802 2.04209 94.7856
+8    49.9909 0.0543537 49.0742 0.88053
+9    13.6179 25.4728 54.7862 6.12312
+10   10.1463 28.6686 24.605 36.5801
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 441
+CC  accession: M03193_2.00
+CC  AC: M03193_2.00
+CC  id: M03193_2.00
+CC  name: M03193_2.00
+CC  version: 
+CC  name: M03193_2.00
+CC  description: gctaattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 441
+XX
+//
+AC  M03194_2.00
+XX
+ID  M03194_2.00
+XX
+DE  taattrratta 
+P0       A     C     G     T
+1    11.7218 5.7725 1.61998 80.8857
+2    85.1504 0.603217 5.79386 8.45249
+3    99.8952 0.0174734 0.0873668     0
+4    1.09326 2.55922 1.64817 94.6994
+5    3.01712 13.0903 4.95029 78.9423
+6    50.7665 5.96904 33.9184 9.34607
+7    42.6494 16.0022 36.9025 4.44584
+8    64.0596 3.52401 24.7857 7.63068
+9    0.0435806 0.296348     0 99.6601
+10   7.04979 10.8388 1.58462 80.5268
+11   74.5615 3.24095 8.08608 14.1115
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 442
+CC  accession: M03194_2.00
+CC  AC: M03194_2.00
+CC  id: M03194_2.00
+CC  name: M03194_2.00
+CC  version: 
+CC  name: M03194_2.00
+CC  description: taattrratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 442
+XX
+//
+AC  M03199_2.00
+XX
+ID  M03199_2.00
+XX
+DE  ttaattarattad 
+P0       A     C     G     T
+1    22.3717 23.09 23.7299 30.8084
+2    8.83909 3.79462 1.13726 86.229
+3    82.9326 0.70392 7.4399 8.92354
+4    99.7655 0.0651381 0.143304 0.0260552
+5    1.67343 1.25508 2.84238 94.2291
+6    4.54545 5.82514 11.2305 78.3989
+7    39.6187 14.9125 23.8705 21.5983
+8    41.6907 8.11872 46.7606 3.42996
+9    74.9352 1.65371 19.5853 3.82574
+10   0.103991 0.207981 0.142987 99.545
+11   5.77518 5.55747 0.916695 87.7507
+12   78.6162 0.975259 6.41618 13.9924
+13   25.5778 17.9788 30.6437 25.7997
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 443
+CC  accession: M03199_2.00
+CC  AC: M03199_2.00
+CC  id: M03199_2.00
+CC  name: M03199_2.00
+CC  version: 
+CC  name: M03199_2.00
+CC  description: ttaattarattad 
+CC  transfac_consensus: 
+CC  matrix.nb: 443
+XX
+//
+AC  M03200_2.00
+XX
+ID  M03200_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    18.2385 26.8901 22.8111 32.0603
+2    8.91663 0.869371 4.41373 85.8003
+3    76.0973 4.72519 9.96441 9.21313
+4    98.819 0.282413 0.564827 0.333761
+5    1.63743 2.90058 5.4269 90.0351
+6    6.05691 8.37398 7.3374 78.2317
+7    39.8802 5.54816 45.5393 9.0324
+8    25.1688 18.5714 39.5325 16.7273
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 444
+CC  accession: M03200_2.00
+CC  AC: M03200_2.00
+CC  id: M03200_2.00
+CC  name: M03200_2.00
+CC  version: 
+CC  name: M03200_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 444
+XX
+//
+AC  M03201_2.00
+XX
+ID  M03201_2.00
+XX
+DE  sytaattrsy 
+P0       A     C     G     T
+1    20.9859 25.8532 33.4685 19.6923
+2    14.5833 38.8716 16.4505 30.0946
+3    2.3116 0.106689 0.259611 97.3221
+4    94.6037 2.32655 1.97048 1.09932
+5    99.5417 0.236432 0.221883     0
+6    0.0900739 0.410737 0.900739 98.5985
+7    0.775379 3.80175 1.94699 93.4759
+8    42.0823 0.376273 55.0602 2.48128
+9    17.0217 30.8021 38.4323 13.7438
+10   13.6666 29.7632 18.808 37.7622
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 445
+CC  accession: M03201_2.00
+CC  AC: M03201_2.00
+CC  id: M03201_2.00
+CC  name: M03201_2.00
+CC  version: 
+CC  name: M03201_2.00
+CC  description: sytaattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 445
+XX
+//
+AC  M03202_2.00
+XX
+ID  M03202_2.00
+XX
+DE  taattgsccaatwa 
+P0       A     C     G     T
+1    4.58659 6.31427 0.473056 88.6261
+2    78.2646 2.01227 1.96946 17.7537
+3    90.3407 1.89122 5.54861 2.21944
+4    5.4276 8.1057 10.6767 75.79
+5    7.69797 7.40331 8.39779 76.5009
+6    21.8961 4.01378 71.0948 2.99536
+7    20.0615 25.9715 47.6522 6.31477
+8    6.05118 47.3202 22.5104 24.1183
+9    1.74334 77.4334 1.80791 19.0153
+10   79.7075 8.98329 3.66295 7.64624
+11   77.3416 11.3556 5.83586 5.467
+12   2.19661 5.67638 1.95737 90.1696
+13   28.6709 3.78825 1.7808 65.7601
+14   86.9666 0.57002 8.99707 3.46634
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 446
+CC  accession: M03202_2.00
+CC  AC: M03202_2.00
+CC  id: M03202_2.00
+CC  name: M03202_2.00
+CC  version: 
+CC  name: M03202_2.00
+CC  description: taattgsccaatwa 
+CC  transfac_consensus: 
+CC  matrix.nb: 446
+XX
+//
+AC  M03203_2.00
+XX
+ID  M03203_2.00
+XX
+DE  gytaattrgb 
+P0       A     C     G     T
+1    18.7479 22.7439 38.1951 20.313
+2    15.9174 30.9024 24.2091 28.971
+3    7.90698 2.55814 2.23837 87.2965
+4    80.5526 5.95494 9.25429 4.2382
+5    96.9648 0.839522     0 2.19567
+6    4.21546 1.66862 6.20609 87.9098
+7    4.21564 7.94584 11.1139 76.7246
+8    33.7386 2.82675 57.538 5.89666
+9    16.8109 23.5353 40.5459 19.1079
+10   17.6764 25.4993 26.1651 30.6591
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 447
+CC  accession: M03203_2.00
+CC  AC: M03203_2.00
+CC  id: M03203_2.00
+CC  name: M03203_2.00
+CC  version: 
+CC  name: M03203_2.00
+CC  description: gytaattrgb 
+CC  transfac_consensus: 
+CC  matrix.nb: 447
+XX
+//
+AC  M03204_2.00
+XX
+ID  M03204_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    11.9802 36.4203 14.4434 37.1561
+2    6.0904 0.249486 1.92251 91.7376
+3    91.3889 3.28947 1.59357 3.72807
+4    98.6896 0.0789391 0.173666 1.05778
+5    0.46897 0.453338 1.36001 97.7177
+6    4.61692 1.48656 4.54545 89.3511
+7    44.7206 2.10294 47.1912 5.98529
+8    26.4278 18.2691 40.5695 14.7336
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 448
+CC  accession: M03204_2.00
+CC  AC: M03204_2.00
+CC  id: M03204_2.00
+CC  name: M03204_2.00
+CC  version: 
+CC  name: M03204_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 448
+XX
+//
+AC  M03214_2.00
+XX
+ID  M03214_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    14.4129 31.8108 19.2661 34.5102
+2    9.23204 0.780539 5.73262 84.2548
+3    81.3447 5.2604 8.85875 4.53613
+4    97.167 0.312555 1.84532 0.675118
+5    2.44249 1.79512 3.61157 92.1508
+6    4.95792 9.19498 6.26651 79.5806
+7    43.5655 3.82714 44.5404 8.06693
+8    27.448 18.1399 40.6856 13.7265
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 449
+CC  accession: M03214_2.00
+CC  AC: M03214_2.00
+CC  id: M03214_2.00
+CC  name: M03214_2.00
+CC  version: 
+CC  name: M03214_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 449
+XX
+//
+AC  M03216_2.00
+XX
+ID  M03216_2.00
+XX
+DE  taattwratta 
+P0       A     C     G     T
+1    7.37834 2.35479     0 90.2669
+2    93.9542 0.980392 2.94118 2.12418
+3    99.6534     0     0 0.34662
+4    0.952381 7.30159 0.47619 91.2698
+5    5.10836     0 5.88235 89.0093
+6    44.7917 13.5417 9.89583 31.7708
+7    58.8141 3.20513 33.4936 4.48718
+8    85.4383 2.67459 5.79495 6.09212
+9        0 0.34662     0 99.6534
+10   1.87713     0     0 98.1229
+11   87.1212 1.51515 1.81818 9.54545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 450
+CC  accession: M03216_2.00
+CC  AC: M03216_2.00
+CC  id: M03216_2.00
+CC  name: M03216_2.00
+CC  version: 
+CC  name: M03216_2.00
+CC  description: taattwratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 450
+XX
+//
+AC  M03217_2.00
+XX
+ID  M03217_2.00
+XX
+DE  taattrratta 
+P0       A     C     G     T
+1    9.58219 6.61397 3.2102 80.5936
+2    82.5512 1.3384 6.93985 9.17052
+3    98.5016 0.35489 0.926656 0.216877
+4    4.83117 2.44156 6.21645 86.5108
+5    8.60789 6.91496 19.4166 65.0606
+6    36.1161 17.1171 27.1071 19.6597
+7    32.6986 13.0951 45.2786 8.92774
+8    60.9527 3.44886 24.3469 11.2515
+9    0.293198 0.625489 1.4269 97.6544
+10   7.09355 5.35036 1.32896 86.2271
+11   68.5887 3.62438 10.777 17.0099
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 451
+CC  accession: M03217_2.00
+CC  AC: M03217_2.00
+CC  id: M03217_2.00
+CC  name: M03217_2.00
+CC  version: 
+CC  name: M03217_2.00
+CC  description: taattrratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 451
+XX
+//
+AC  M03218_2.00
+XX
+ID  M03218_2.00
+XX
+DE  ytaattarattar 
+P0       A     C     G     T
+1    15.3134 29.3546 17.0946 38.2373
+2    1.91451 1.71416 0.133571 96.2378
+3    99.425 0.25299 0.0919963 0.229991
+4    99.5853 0.0460723 0.368579     0
+5    0.0459982 0.160994 0.367985 99.425
+6    0.228571 0.525714 0.434286 98.8114
+7    80.8642 5.92967 12.7946 0.411523
+8    29.7233 5.94466 63.7268 0.605275
+9    77.1001 6.7059 9.93401 6.26003
+10   0.688765 3.65906 2.60439 93.0478
+11   6.17567 2.83747 0.792823 90.194
+12   94.3886 1.33188 1.41921 2.86026
+13   40.5368 17.006 26.5618 15.8954
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 452
+CC  accession: M03218_2.00
+CC  AC: M03218_2.00
+CC  id: M03218_2.00
+CC  name: M03218_2.00
+CC  version: 
+CC  name: M03218_2.00
+CC  description: ytaattarattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 452
+XX
+//
+AC  M03219_2.00
+XX
+ID  M03219_2.00
+XX
+DE  ytaattrg 
+P0       A     C     G     T
+1    13.5899 28.4118 20.4761 37.5222
+2    3.69984 0.338157 0.711124 95.2509
+3    94.6344 1.2253 2.26285 1.87747
+4      100     0     0     0
+5    0.371115     0 0.902015 98.7269
+6    2.73494 1.36986 4.1527 91.7425
+7    40.0049 1.39306 54.2801 4.32193
+8    23.1231 15.1509 50.9763 10.7497
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 453
+CC  accession: M03219_2.00
+CC  AC: M03219_2.00
+CC  id: M03219_2.00
+CC  name: M03219_2.00
+CC  version: 
+CC  name: M03219_2.00
+CC  description: ytaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 453
+XX
+//
+AC  M03220_2.00
+XX
+ID  M03220_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    13.7112 34.1085 14.874 37.3062
+2    2.31788     0     0 97.6821
+3    98.8511 1.14888     0     0
+4      100     0     0     0
+5    0.47824     0 0.765184 98.7566
+6    1.12045 0.233427 2.2409 96.4052
+7    51.1572     0 48.3607 0.48216
+8    25.1816 17.6271 41.7918 15.3995
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 454
+CC  accession: M03220_2.00
+CC  AC: M03220_2.00
+CC  id: M03220_2.00
+CC  name: M03220_2.00
+CC  version: 
+CC  name: M03220_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 454
+XX
+//
+AC  M03226_2.00
+XX
+ID  M03226_2.00
+XX
+DE  ytaattrrrttad 
+P0       A     C     G     T
+1    21.3459 25.7394 21.5388 31.3759
+2    12.6442 8.34158 2.07715 76.937
+3    76.6968 1.59408 6.93509 14.774
+4    98.6681 0.12685 1.07822 0.12685
+5    2.56311 3.61165 3.20388 90.6214
+6    4.91777 14.2373 5.59497 75.2499
+7    52.5143 5.94953 33.45 8.0862
+8    41.5027 17.2223 34.3796 6.89543
+9    56.7299 7.27079 26.033 9.96631
+10   0.780287 1.90965 1.47844 95.8316
+11   11.6818 11.6192 3.61729 73.0817
+12   68.5819 3.96767 9.00808 18.4423
+13   28.198 20.8914 25.6053 25.3053
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 455
+CC  accession: M03226_2.00
+CC  AC: M03226_2.00
+CC  id: M03226_2.00
+CC  name: M03226_2.00
+CC  version: 
+CC  name: M03226_2.00
+CC  description: ytaattrrrttad 
+CC  transfac_consensus: 
+CC  matrix.nb: 455
+XX
+//
+AC  M03231_2.00
+XX
+ID  M03231_2.00
+XX
+DE  kytaattrrw 
+P0       A     C     G     T
+1    16.2599 22.6647 31.2921 29.7833
+2    14.5366 31.5398 18.0978 35.8258
+3    9.05962 0.359881 5.95525 84.6253
+4    77.868 5.84831 12.2956 3.98814
+5    97.5084 0.652652 1.83896     0
+6    2.53828 1.91751 2.28307 93.2611
+7    3.0846 10.8763 5.67888 80.3602
+8    49.8124 4.02626 37.6399 8.52144
+9    31.6914 20.1945 33.3925 14.7215
+10   28.049 24.5766 22.3245 25.0499
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 456
+CC  accession: M03231_2.00
+CC  AC: M03231_2.00
+CC  id: M03231_2.00
+CC  name: M03231_2.00
+CC  version: 
+CC  name: M03231_2.00
+CC  description: kytaattrrw 
+CC  transfac_consensus: 
+CC  matrix.nb: 456
+XX
+//
+AC  M03232_2.00
+XX
+ID  M03232_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    13.1301 31.9064 17.3151 37.6484
+2    4.45949 0.113349 0.786968 94.6402
+3    90.1917 2.54622 3.52767 3.73445
+4    99.836     0 0.163985     0
+5    0.491334     0 1.1644 98.3443
+6    4.29584 2.99979 3.79689 88.9075
+7    46.5882 2.1341 44.5883 6.68934
+8    28.3739 18.6183 38.0988 14.909
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 457
+CC  accession: M03232_2.00
+CC  AC: M03232_2.00
+CC  id: M03232_2.00
+CC  name: M03232_2.00
+CC  version: 
+CC  name: M03232_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 457
+XX
+//
+AC  M03255_2.00
+XX
+ID  M03255_2.00
+XX
+DE  taattgswwtttaattrs 
+P0       A     C     G     T
+1    2.977 6.7659 0.811908 89.4452
+2    93.6663 0.487211 4.01949 1.82704
+3    99.871     0     0 0.129032
+4    1.1611 0.870827 2.61248 95.3556
+5    1.17801 10.6021 4.58115 83.6387
+6    17.4684 2.1519 74.4304 5.94937
+7    7.54017 38.6897 42.1508 11.6193
+8    28.1944 15.6944 9.86111 46.25
+9    28.4746 16.7797 11.6102 43.1356
+10   16.6958 17.2203 18.7937 47.2902
+11   17.9688 17.0898 12.8906 52.0508
+12   2.34949 7.63583 1.17474 88.8399
+13   86.2543 0.91638 7.78923 5.04009
+14   99.6273 0.248447 0.124224     0
+15   0.451128 1.65414 5.11278 92.782
+16   3.41997 6.56635 7.52394 82.4897
+17   27.9393 2.40202 65.3603 4.29836
+18   13.0163 43.0538 29.7872 14.1427
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 458
+CC  accession: M03255_2.00
+CC  AC: M03255_2.00
+CC  id: M03255_2.00
+CC  name: M03255_2.00
+CC  version: 
+CC  name: M03255_2.00
+CC  description: taattgswwtttaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 458
+XX
+//
+AC  M03256_2.00
+XX
+ID  M03256_2.00
+XX
+DE  ytaattrs 
+P0       A     C     G     T
+1    16.2272 30.9629 20.7255 32.0845
+2    2.43707 1.00686 0.675057 95.881
+3    95.0006 1.19034 2.43737 1.37173
+4      100     0     0     0
+5    0.0587406 0.446429 1.04558 98.4492
+6    1.05963 2.67163 1.80363 94.4651
+7    29.6067 0.332531 66.4832 3.57757
+8    14.9881 29.7852 38.747 16.4797
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 459
+CC  accession: M03256_2.00
+CC  AC: M03256_2.00
+CC  id: M03256_2.00
+CC  name: M03256_2.00
+CC  version: 
+CC  name: M03256_2.00
+CC  description: ytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 459
+XX
+//
+AC  M03263_2.00
+XX
+ID  M03263_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    12.5316 34.8608 16.619 35.9886
+2    4.63658 0.1865 0.999845 94.1771
+3    90.0352 4.30885 2.69922 2.95676
+4    99.775     0 0.0658617 0.159166
+5    0.429371 0.0163052 0.750041 98.8043
+6    3.83057 2.13032 3.13047 90.9086
+7    47.2093 1.17611 46.5645 5.05004
+8    26.4151 18.1088 42.3291 13.147
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 460
+CC  accession: M03263_2.00
+CC  AC: M03263_2.00
+CC  id: M03263_2.00
+CC  name: M03263_2.00
+CC  version: 
+CC  name: M03263_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 460
+XX
+//
+AC  M03264_2.00
+XX
+ID  M03264_2.00
+XX
+DE  ytaattarattar 
+P0       A     C     G     T
+1    21.0865 32.0724 20.5231 26.3179
+2    11.3826 8.90813 2.84565 76.8636
+3    81.6628 1.11732 8.31416 8.90569
+4    99.4398 0.120048 0.160064 0.280112
+5    0.544112 1.47688 1.39914 96.5799
+6    2.88107 5.25963 8.60972 83.2496
+7    52.0746 20.3898 22.4015 5.13412
+8    55.8902 12.5837 27.2423 4.2838
+9    75.0755 7.12991 10.7855 7.00906
+10   0.277338 0.832013 0.435816 98.4548
+11   9.65759 15.1302 2.48756 72.7246
+12   78.4407 4.70328 6.06061 10.7955
+13   28.5427 24.1546 27.2947 20.0081
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 461
+CC  accession: M03264_2.00
+CC  AC: M03264_2.00
+CC  id: M03264_2.00
+CC  name: M03264_2.00
+CC  version: 
+CC  name: M03264_2.00
+CC  description: ytaattarattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 461
+XX
+//
+AC  M03265_2.00
+XX
+ID  M03265_2.00
+XX
+DE  ktaattar 
+P0       A     C     G     T
+1    19.3029 21.2869 25.5943 33.8159
+2    5.81585 15.9025 8.01407 70.2676
+3    83.5175 3.76232 7.82323 4.89698
+4    97.0675 0.190873 1.09318 1.64845
+5    0.369653 0.616089 0.545679 98.4686
+6    2.43248 4.78597 4.42268 88.3589
+7    62.5657 12.4818 14.6628 10.2897
+8    42.0341 3.00601 51.3861 3.57381
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 462
+CC  accession: M03265_2.00
+CC  AC: M03265_2.00
+CC  id: M03265_2.00
+CC  name: M03265_2.00
+CC  version: 
+CC  name: M03265_2.00
+CC  description: ktaattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 462
+XX
+//
+AC  M03267_2.00
+XX
+ID  M03267_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    17.5576 25.8459 24.6155 31.981
+2    7.20596 1.58429 3.3876 87.8222
+3    85.2637 3.58662 7.18741 3.96229
+4    97.8365 0.252135 0.821472 1.08987
+5    2.66933 2.28483 6.10027 88.9456
+6    6.69583 6.77301 9.15932 77.3718
+7    42.057 4.55339 45.4321 7.95752
+8    25.8459 17.8901 41.533 14.7311
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 463
+CC  accession: M03267_2.00
+CC  AC: M03267_2.00
+CC  id: M03267_2.00
+CC  name: M03267_2.00
+CC  version: 
+CC  name: M03267_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 463
+XX
+//
+AC  M03268_2.00
+XX
+ID  M03268_2.00
+XX
+DE  sytaattrsy 
+P0       A     C     G     T
+1    24.309 26.4028 30.1508 19.1374
+2    15.8886 35.1476 19.1124 29.8514
+3    3.69704 0.0799361 0.779376 95.4436
+4    91.6699 2.97505 3.41651 1.93858
+5      100     0     0     0
+6    2.57773     0 3.44353 93.9787
+7    1.23982 4.31162 6.06958 88.379
+8    41.052 1.20625 53.4111 4.33063
+9    17.3786 29.1457 37.5419 15.9338
+10   14.5907 26.1042 17.5215 41.7835
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 464
+CC  accession: M03268_2.00
+CC  AC: M03268_2.00
+CC  id: M03268_2.00
+CC  name: M03268_2.00
+CC  version: 
+CC  name: M03268_2.00
+CC  description: sytaattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 464
+XX
+//
+AC  M03269_2.00
+XX
+ID  M03269_2.00
+XX
+DE  htaatywaattaa 
+P0       A     C     G     T
+1    26.8479 27.4375 18.5828 27.1318
+2    14.8177 4.44616 1.96078 78.7754
+3    87.9416 0.844854 5.22273 5.99078
+4    98.7388 0.258704 0.689878 0.312601
+5    4.7719 9.32482 2.32664 83.5766
+6    3.1888 28.3784 7.75812 60.6747
+7    37.4017 17.6092 19.8581 25.131
+8    67.4528 6.02168 24.4681 2.05741
+9    89.2179 1.84085 7.12964 1.81163
+10   0.343864 0.924135 0.300881 98.4311
+11   11.669 6.87544 1.3296 80.126
+12   88.1702 1.38608 3.20531 7.23843
+13   40.3821 18.155 24.7052 16.7576
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 465
+CC  accession: M03269_2.00
+CC  AC: M03269_2.00
+CC  id: M03269_2.00
+CC  name: M03269_2.00
+CC  version: 
+CC  name: M03269_2.00
+CC  description: htaatywaattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 465
+XX
+//
+AC  M03272_2.00
+XX
+ID  M03272_2.00
+XX
+DE  kytaattrrr 
+P0       A     C     G     T
+1    13.9233 19.0447 29.1925 37.8396
+2    13.4485 31.4941 19.0282 36.0292
+3    5.8905 0.14221 3.31949 90.6478
+4    90.9422 0.63827 4.92406 3.49547
+5    99.0027 0.0837897 0.57631 0.337203
+6    0.516869 0.584022 0.319482 98.5796
+7    2.0685 6.54933 1.34927 90.0329
+8    62.6955 3.02773 26.6319 7.64493
+9    30.9182 12.5857 47.0192 9.47692
+10   47.1688 12.3031 26.6416 13.8864
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 466
+CC  accession: M03272_2.00
+CC  AC: M03272_2.00
+CC  id: M03272_2.00
+CC  name: M03272_2.00
+CC  version: 
+CC  name: M03272_2.00
+CC  description: kytaattrrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 466
+XX
+//
+AC  M03273_2.00
+XX
+ID  M03273_2.00
+XX
+DE  ttaattwrattar 
+P0       A     C     G     T
+1    20.1813 19.5565 24.5126 35.7495
+2    7.02047 2.59252 1.09578 89.2912
+3    85.8676 0.593941 5.72387 7.81463
+4    99.5281 0.077726 0.330335 0.0638463
+5    2.27223 7.14164 2.98566 87.6005
+6    2.12563 20.1898 9.97107 67.7135
+7    31.2127 14.9523 21.1329 32.7021
+8    55.5182 6.77255 35.155 2.55425
+9    78.8451 1.78344 15.6661 3.70541
+10   0.0805667 0.188915 0.122239 99.6083
+11   5.74373 3.83249 0.730475 89.6933
+12   83.5699 0.94399 4.77123 10.7149
+13   27.0625 14.9941 32.9447 24.9986
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 467
+CC  accession: M03273_2.00
+CC  AC: M03273_2.00
+CC  id: M03273_2.00
+CC  name: M03273_2.00
+CC  version: 
+CC  name: M03273_2.00
+CC  description: ttaattwrattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 467
+XX
+//
+AC  M03276_2.00
+XX
+ID  M03276_2.00
+XX
+DE  vctaattass 
+P0       A     C     G     T
+1    27.2727 26.9697 37.2727 8.48485
+2    12.0846 44.713 19.6375 23.565
+3        0     0     0   100
+4    86.6142 9.18635 4.19948     0
+5    98.8024     0     0 1.1976
+6        0 2.94118     0 97.0588
+7        0 4.49173 17.4941 78.0142
+8       80     0    20     0
+9    9.66767 34.7432 45.9215 9.66767
+10   16.3636 33.9394 29.697    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 468
+CC  accession: M03276_2.00
+CC  AC: M03276_2.00
+CC  id: M03276_2.00
+CC  name: M03276_2.00
+CC  version: 
+CC  name: M03276_2.00
+CC  description: vctaattass 
+CC  transfac_consensus: 
+CC  matrix.nb: 468
+XX
+//
+AC  M03277_2.00
+XX
+ID  M03277_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    16.1206 33.3266 14.1709 36.3819
+2    4.96972 1.65657 4.75597 88.6177
+3    93.7441 0.527605 5.72828     0
+4      100     0     0     0
+5    1.52054     0 0.236967 98.2425
+6    3.26494 4.85281 3.12221 88.76
+7    56.1397 3.34894 33.4354 7.07598
+8    28.468 16.4857 38.0579 16.9883
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 469
+CC  accession: M03277_2.00
+CC  AC: M03277_2.00
+CC  id: M03277_2.00
+CC  name: M03277_2.00
+CC  version: 
+CC  name: M03277_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 469
+XX
+//
+AC  M03278_2.00
+XX
+ID  M03278_2.00
+XX
+DE  ktaattwrattak 
+P0       A     C     G     T
+1    20.0885 19.3567 25.9509 34.6039
+2    9.59354 3.85247 1.46435 85.0896
+3    76.0318 1.11892 11.1526 11.6967
+4    99.2418 0.0877893 0.510774 0.159617
+5    2.67757 7.15884 3.22987 86.9337
+6    4.04362 20.5161 11.7312 63.709
+7    26.731 17.0004 22.7423 33.5263
+8    51.0475 10.3871 33.2633 5.30205
+9    76.5891 2.27889 15.3671 5.76497
+10   0.119942 0.263873 0.183912 99.4323
+11   6.64214 7.42557 1.21943 84.7129
+12   73.9562 1.6177 6.42322 18.0029
+13   23.4419 17.0406 29.1435 30.3739
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 470
+CC  accession: M03278_2.00
+CC  AC: M03278_2.00
+CC  id: M03278_2.00
+CC  name: M03278_2.00
+CC  version: 
+CC  name: M03278_2.00
+CC  description: ktaattwrattak 
+CC  transfac_consensus: 
+CC  matrix.nb: 470
+XX
+//
+AC  M03286_2.00
+XX
+ID  M03286_2.00
+XX
+DE  sytaattrgy 
+P0       A     C     G     T
+1    17.69 26.0556 34.4092 21.8453
+2    13.4964 32.4894 21.1926 32.8217
+3    4.30556 0.579164 1.22118 93.8941
+4    89.3071 3.56998 4.27458 2.8483
+5    99.8401 0.159927     0     0
+6    0.126969     0 1.52598 98.347
+7    3.69277 3.48692 5.85104 86.9693
+8    42.6263 1.0838 51.6167 4.67317
+9    24.4848 17.9984 44.0181 13.4988
+10   18.0625 27.1141 23.6259 31.1976
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 471
+CC  accession: M03286_2.00
+CC  AC: M03286_2.00
+CC  id: M03286_2.00
+CC  name: M03286_2.00
+CC  version: 
+CC  name: M03286_2.00
+CC  description: sytaattrgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 471
+XX
+//
+AC  M03324_2.00
+XX
+ID  M03324_2.00
+XX
+DE  gaayrttctagaa 
+P0       A     C     G     T
+1    9.68858 3.11419 84.8283 2.36891
+2    94.7384 1.27824 2.64566 1.33769
+3    91.4491 2.52511 1.95122 4.07461
+4    16.0339 37.9354 14.6847 31.3461
+5    30.7813 19.7678 44.1167 5.33417
+6    3.25399 0.69298 0.0301296 96.0229
+7    0.856793 0.122399 1.49939 97.5214
+8    0.031348 99.906     0 0.0626959
+9        0 17.4296 12.434 70.1364
+10   76.0439 6.99117 16.9411 0.0238607
+11       0 0.0624025 99.4384 0.49922
+12   97.7907 1.44216 0.0613685 0.705738
+13   91.3704 2.60894 1.06078 4.95986
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 472
+CC  accession: M03324_2.00
+CC  AC: M03324_2.00
+CC  id: M03324_2.00
+CC  name: M03324_2.00
+CC  version: 
+CC  name: M03324_2.00
+CC  description: gaayrttctagaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 472
+XX
+//
+AC  M03325_2.00
+XX
+ID  M03325_2.00
+XX
+DE  gaayrttcyagaa 
+P0       A     C     G     T
+1    2.03283 0.954381 96.0775 0.935293
+2    94.9448 1.28266 0.754503 3.01801
+3    83.5297 3.18619 2.35646 10.9276
+4    19.0722 33.0287 22.0522 25.8468
+5    28.2209 21.6946 36.6147 13.4698
+6    13.2278 2.95106 3.31094 80.5102
+7    7.10225 0.415783 7.05982 85.4221
+8    0.0792864 99.7721 0.11893 0.0297324
+9    0.174585 25.3412 21.2253 53.2589
+10   56.8436 18.3625 24.4438 0.350085
+11   0.676852 1.07329 97.3409 0.908915
+12   84.8033 8.29753 0.766574 6.13259
+13   71.2607 7.89977 7.26269 13.5768
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 473
+CC  accession: M03325_2.00
+CC  AC: M03325_2.00
+CC  id: M03325_2.00
+CC  name: M03325_2.00
+CC  version: 
+CC  name: M03325_2.00
+CC  description: gaayrttcyagaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 473
+XX
+//
+AC  M03341_2.00
+XX
+ID  M03341_2.00
+XX
+DE  rccwtatatggt 
+P0       A     C     G     T
+1    28.3124 7.39191 40.7252 23.5704
+2    0.138889 99.5833 0.277778     0
+3        0 99.3075 0.138504 0.554017
+4    67.4931 0.413223 0.826446 31.2672
+5    10.8075     0 0.124224 89.0683
+6    95.4727 0.133156 0.399467 3.99467
+7    1.50068 0.272851 0.409277 97.8172
+8    93.6031     0     0 6.39687
+9    13.2867 2.5641 0.582751 83.5664
+10   0.692521     0 99.3075     0
+11       0     0 99.7218 0.278164
+12   13.0952 9.30736 12.6623 64.9351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 474
+CC  accession: M03341_2.00
+CC  AC: M03341_2.00
+CC  id: M03341_2.00
+CC  name: M03341_2.00
+CC  version: 
+CC  name: M03341_2.00
+CC  description: rccwtatatggt 
+CC  transfac_consensus: 
+CC  matrix.nb: 474
+XX
+//
+AC  M03342_2.00
+XX
+ID  M03342_2.00
+XX
+DE  tgmccwtatatggkca 
+P0       A     C     G     T
+1    18.7595 7.41301 4.76551 69.062
+2    4.56563 9.19467 64.87 21.3697
+3    39.8143 38.8857 6.09402 15.206
+4    0.370566 99.1001 0.105876 0.423504
+5        0 99.1113 0.470465 0.418191
+6    70.4262     0 0.786885 28.7869
+7    1.35823     0     0 98.6418
+8    99.1379 0.492611 0.307882 0.0615764
+9        0 0.171674     0 99.8283
+10   96.3213 0.367872     0 3.31085
+11   4.96338 1.46461 1.05777 92.5142
+12   1.04396 0.604396 98.1868 0.164835
+13       0 0.839866 99.1601     0
+14   10.7811 9.29632 39.4448 40.4777
+15   21.3425 65.634 8.7206 4.30293
+16   72.9328 5.16796 8.07494 13.8243
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 475
+CC  accession: M03342_2.00
+CC  AC: M03342_2.00
+CC  id: M03342_2.00
+CC  name: M03342_2.00
+CC  version: 
+CC  name: M03342_2.00
+CC  description: tgmccwtatatggkca 
+CC  transfac_consensus: 
+CC  matrix.nb: 475
+XX
+//
+AC  M03452_2.00
+XX
+ID  M03452_2.00
+XX
+DE  sgttrccatggyaacs 
+P0       A     C     G     T
+1    13.3102 35.1952 30.0809 21.4137
+2    8.84064 0.128363 90.5285 0.502526
+3    1.38434 2.6295 1.27149 94.7147
+4    18.6227 12.0487 0.411077 68.9175
+5    29.5696 4.21926 53.3951 12.8161
+6    0.270668 88.2789 2.8479 8.60253
+7    0.00528989 77.8248 0.248625 21.9213
+8    88.5533 1.83465 2.65627 6.95579
+9    6.63197 1.40803 1.22079 90.7392
+10   23.3469 0.222064 76.4256     0
+11   17.2475 2.10544 80.5536 0.0934528
+12   15.5848 49.745 5.14714 29.523
+13   71.4217 0.439666 13.7056 14.433
+14   96.1031 0.842448 2.57168 0.482806
+15   0.567469 94.2477 0.155307 5.02957
+16   19.7589 31.9614 40.9773 7.30248
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 476
+CC  accession: M03452_2.00
+CC  AC: M03452_2.00
+CC  id: M03452_2.00
+CC  name: M03452_2.00
+CC  version: 
+CC  name: M03452_2.00
+CC  description: sgttrccatggyaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 476
+XX
+//
+AC  M03453_2.00
+XX
+ID  M03453_2.00
+XX
+DE  cgttgctargcaacs 
+P0       A     C     G     T
+1    5.54362 53.5024 21.9166 19.0374
+2    0.3003     0 95.6671 4.0326
+3    0.0946522 0.283956 0.141978 99.4794
+4    1.61142 3.72928 0.230203 94.4291
+5    5.86473 2.82534 90.4538 0.856164
+6    0.0405186 99.7974 0.162075     0
+7    0.0474158 7.7762 0.0474158 92.129
+8    99.397 0.231911 0.371058     0
+9    39.2268 4.24328 52.1924 4.33758
+10       0     0 99.9546 0.0454133
+11   3.67893 81.9398 4.68227 9.699
+12   90.5371 0.511509 4.43308 4.51833
+13   98.5909 0.272727 1.04545 0.0909091
+14   3.27049 95.2289     0 1.50058
+15   11.2114 40.095 39.1449 9.54869
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 477
+CC  accession: M03453_2.00
+CC  AC: M03453_2.00
+CC  id: M03453_2.00
+CC  name: M03453_2.00
+CC  version: 
+CC  name: M03453_2.00
+CC  description: cgttgctargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 477
+XX
+//
+AC  M03454_2.00
+XX
+ID  M03454_2.00
+XX
+DE  sgttrccatggyaacs 
+P0       A     C     G     T
+1    10.2967 42.1488 30.1372 17.4172
+2    1.89713 0.084317 97.9623 0.0562114
+3    0.201207 0.273067 0.100604 99.4251
+4    12.9263 5.76811 0.0909386 81.2147
+5    29.4935 1.77051 59.9582 8.77783
+6    0.0812953 89.4045 0.630039 9.88415
+7    0.0127235 78.4147 0.0318086 21.5408
+8    97.1471 0.377734 0.646123 1.82903
+9    1.55673 0.637173 0.209978 97.5961
+10   20.5323 0.0458896 79.4087 0.0131113
+11   13.1927 0.841386 85.9462 0.01972
+12   9.49818 57.9955 2.47414 30.0321
+13   80.9682 0.227193 8.3712 10.4334
+14   99.4462 0.140973 0.251737 0.161112
+15   0.0486652 97.7962 0.00695217 2.14822
+16   18.6328 28.1923 42.0569 11.118
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 478
+CC  accession: M03454_2.00
+CC  AC: M03454_2.00
+CC  id: M03454_2.00
+CC  name: M03454_2.00
+CC  version: 
+CC  name: M03454_2.00
+CC  description: sgttrccatggyaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 478
+XX
+//
+AC  M03455_2.00
+XX
+ID  M03455_2.00
+XX
+DE  sgttgctargcaacs 
+P0       A     C     G     T
+1    2.89256 60.3306 28.9256 7.85124
+2      0.4     0  96.8   2.8
+3        0     0     0   100
+4        0     0     0   100
+5    0.398406 3.58566 96.0159     0
+6        0   100     0     0
+7    0.492611 3.44828     0 96.0591
+8      100     0     0     0
+9    37.2294 1.2987 59.3074 2.1645
+10       0     0   100     0
+11       0 93.3852 6.22568 0.389105
+12   97.6077     0 2.39234     0
+13   98.0861     0 1.91388     0
+14   3.87597 94.9612 1.16279     0
+15   9.83607 36.4754 51.6393 2.04918
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 479
+CC  accession: M03455_2.00
+CC  AC: M03455_2.00
+CC  id: M03455_2.00
+CC  name: M03455_2.00
+CC  version: 
+CC  name: M03455_2.00
+CC  description: sgttgctargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 479
+XX
+//
+AC  M03456_2.00
+XX
+ID  M03456_2.00
+XX
+DE  sgtwrccatrgywacg 
+P0       A     C     G     T
+1    14.9171 41.1286 27.8538 16.1005
+2    3.32895 0.120456 96.1892 0.361367
+3    0.242084 1.83015 1.40409 96.5237
+4    31.539 11.291 0.80334 56.3666
+5    35.2094 0.882485 51.8415 12.0666
+6    0.565898 72.8686 2.95642 23.6091
+7    0.00555463 83.2639 0.377715 16.3528
+8    87.7797 2.9699 3.77058 5.47984
+9    7.39071 7.15378 6.54234 78.9132
+10   28.1043 0.364254 71.5234     0
+11   14.8222 0.164084 84.9863 0.0273473
+12   16.9275 48.8081 3.3928 30.8716
+13   52.7715 0.610279 13.643 32.9752
+14   93.168 1.3869 2.59616 2.84894
+15   1.33616 86.3017 0.0923361 12.2698
+16   20.6731 24.7854 35.6885 18.853
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 480
+CC  accession: M03456_2.00
+CC  AC: M03456_2.00
+CC  id: M03456_2.00
+CC  name: M03456_2.00
+CC  version: 
+CC  name: M03456_2.00
+CC  description: sgtwrccatrgywacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 480
+XX
+//
+AC  M03457_2.00
+XX
+ID  M03457_2.00
+XX
+DE  sgttgcyargcaacs 
+P0       A     C     G     T
+1    15.8275 43.5402 25.4294 15.203
+2    1.08464     0 97.3329 1.5825
+3    0.0405351 0.709364 0.0810701 99.169
+4    3.15493 6.46009 0.169014 90.216
+5    5.05763 1.15259 92.4652 1.32462
+6    0.0231054 99.9076     0 0.0693161
+7    0.153072 29.2806 0.481085 70.0853
+8    64.379 13.3211 22.2999     0
+9    32.422 2.24787 64.2163 1.11381
+10   0.073828 0.055371 99.8339 0.036914
+11   15.3633 73.5441 0.110926 10.9817
+12   75.5523 0.126766 3.18725 21.1336
+13   98.9631 0.437788 0.552995 0.0460829
+14   0.23359 99.5795     0 0.186872
+15   14.9245 26.8278 54.6022 3.64552
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 481
+CC  accession: M03457_2.00
+CC  AC: M03457_2.00
+CC  id: M03457_2.00
+CC  name: M03457_2.00
+CC  version: 
+CC  name: M03457_2.00
+CC  description: sgttgcyargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 481
+XX
+//
+AC  M03461_2.00
+XX
+ID  M03461_2.00
+XX
+DE  sgttrccatggyaacs 
+P0       A     C     G     T
+1    11.3815 36.0989 37.1048 15.4148
+2    3.602 0.053495 96.1216 0.222896
+3    0.672043 1.1828 0.739247 97.4059
+4    17.9196 10.876 0.86334 70.3411
+5    31.5874 2.87618 54.2594 11.277
+6    0.185328 83.1737 1.62934 15.0116
+7    0.059988 76.3647 0.142472 23.4328
+8    95.4122 0.732965 1.3121 2.54276
+9    3.34318 1.58432 1.07411 93.9984
+10   21.5722 0.172517 78.2103 0.0450045
+11   10.8067 0.864856 88.2396 0.0889104
+12   11.7791 53.5158 2.7277 31.9773
+13   72.4332 0.517863 9.284 17.7649
+14   97.299 0.454626 1.62239 0.623997
+15   0.195011 94.8485 0.0487527 4.90778
+16   19.3471 26.5011 44.0092 10.1425
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 482
+CC  accession: M03461_2.00
+CC  AC: M03461_2.00
+CC  id: M03461_2.00
+CC  name: M03461_2.00
+CC  version: 
+CC  name: M03461_2.00
+CC  description: sgttrccatggyaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 482
+XX
+//
+AC  M03462_2.00
+XX
+ID  M03462_2.00
+XX
+DE  sgttgctargcaacs 
+P0       A     C     G     T
+1    5.89231 45.6146 34.1348 14.3583
+2    0.509091 0.181818  98.8 0.509091
+3    0.315173 0.405223     0 99.2796
+4    2.64642 3.47072 0.130152 93.7527
+5    6.49171 1.20856 91.471 0.828729
+6    0.0358038 99.3913     0 0.572861
+7    0.0896861 11.435 0.358744 88.1166
+8    98.1792 0.814566 1.00623     0
+9    32.1822 5.23719 57.2296 5.35104
+10   0.45904 0.49435 98.7641 0.282486
+11   3.49023 80.8517 5.50752 10.1505
+12   82.0312 1.60362 9.8273 6.53783
+13   89.4097 4.07986 5.29514 1.21528
+14   3.11634 90.8241 2.56233 3.49723
+15   17.2219 30.9793 44.537 7.26183
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 483
+CC  accession: M03462_2.00
+CC  AC: M03462_2.00
+CC  id: M03462_2.00
+CC  name: M03462_2.00
+CC  version: 
+CC  name: M03462_2.00
+CC  description: sgttgctargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 483
+XX
+//
+AC  M03463_2.00
+XX
+ID  M03463_2.00
+XX
+DE  sgttrccatggyaacg 
+P0       A     C     G     T
+1    8.95633 38.9341 41.3027 10.8068
+2    0.189304 0.141978 99.6687     0
+3    0.0592417 0.177725 0.118483 99.6445
+4    8.93821 1.9796 0.119976 88.9622
+5    27.4955 0.657501 67.0652 4.78183
+6        0 88.599 0.483092 10.9179
+7    0.0947867 84.5498     0 15.3555
+8    98.2317     0 0.618921 1.14943
+9    0.573723 0.286862 0.172117 98.9673
+10   15.1515     0 84.8485     0
+11   8.52637     0 91.3751 0.0985707
+12   4.69565 60.1739 1.04348 34.087
+13   91.8519 0.0823045 4.44444 3.6214
+14   99.6488 0.0877963     0 0.263389
+15       0 97.8218 0.19802 1.9802
+16   12.9094 22.4791 58.5742 6.03725
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 484
+CC  accession: M03463_2.00
+CC  AC: M03463_2.00
+CC  id: M03463_2.00
+CC  name: M03463_2.00
+CC  version: 
+CC  name: M03463_2.00
+CC  description: sgttrccatggyaacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 484
+XX
+//
+AC  M03483_2.00
+XX
+ID  M03483_2.00
+XX
+DE  aacaatrtgcagtgtt 
+P0       A     C     G     T
+1    98.5011     0     0 1.49893
+2      100     0     0     0
+3    0.21692 99.7831     0     0
+4    99.5671     0 0.4329     0
+5    99.3521 0.215983 0.215983 0.215983
+6        0     0 0.21692 99.7831
+7    32.1429 1.38889 59.127 7.34127
+8    0.21692     0     0 99.7831
+9    5.64972 7.72128 69.8682 16.7608
+10       0 99.1379 0.431034 0.431034
+11     100     0     0     0
+12   0.215983     0 99.3521 0.431965
+13       0     0 0.21692 99.7831
+14       0     0   100     0
+15   0.21692     0     0 99.7831
+16       0 0.862069     0 99.1379
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 485
+CC  accession: M03483_2.00
+CC  AC: M03483_2.00
+CC  id: M03483_2.00
+CC  name: M03483_2.00
+CC  version: 
+CC  name: M03483_2.00
+CC  description: aacaatrtgcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 485
+XX
+//
+AC  M03484_2.00
+XX
+ID  M03484_2.00
+XX
+DE  atgaattkcagtc 
+P0       A     C     G     T
+1    76.3245 3.63636 18.7781 1.261
+2    0.30581 0.0127421 0.191131 99.4903
+3    0.216754 0.102002 99.5537 0.127502
+4    99.77 0.0511117 0.153335 0.0255558
+5    99.4523 0.0509489 0.356642 0.14011
+6    0.0638244 0.0510595 0.217003 99.6681
+7    0.115075 0.0511444 13.208 86.6258
+8    9.01524 10.0781 42.2333 38.6733
+9    0.0383289 87.8753 0.204421 11.8819
+10   99.7318 0.0894112 0.166049 0.012773
+11   0.253983 0.0692681 90.1408 9.5359
+12   0.127291 0.165479 0.318228 99.389
+13   0.0255297 99.6681 0.255297 0.0510595
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 486
+CC  accession: M03484_2.00
+CC  AC: M03484_2.00
+CC  id: M03484_2.00
+CC  name: M03484_2.00
+CC  version: 
+CC  name: M03484_2.00
+CC  description: atgaattkcagtc 
+CC  transfac_consensus: 
+CC  matrix.nb: 486
+XX
+//
+AC  M03485_2.00
+XX
+ID  M03485_2.00
+XX
+DE  raacaattkcagtgtty 
+P0       A     C     G     T
+1    31.9698 9.26104 46.1012 12.6679
+2    99.4393 0.0715734 0.429441 0.0596445
+3    96.4703 0.0578637 3.34452 0.1273
+4    0.202864 99.4749 0.26253 0.0596659
+5    99.6176 0.155354 0.179254 0.0478011
+6    98.9201 0.094933 0.925596 0.0593331
+7    0.0239751 0.0239751 0.0239751 99.9281
+8    0.0718993 0.0359497 11.8394 88.0527
+9    9.71806 10.5339 48.2903 31.4577
+10   0.1315 88.6671 0.215182 10.9863
+11   99.6652 0.083692 0.215208 0.035868
+12   0.0117952     0 98.3251 1.66313
+13   0.0716332 0.0596944 0.346227 99.5224
+14   0.0239779 0.011989 99.9401 0.0239779
+15   0.023932     0 0.227354 99.7487
+16   0.295753 0.816278 0.272093 98.6159
+17   18.1742 36.9722 13.6876 31.166
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 487
+CC  accession: M03485_2.00
+CC  AC: M03485_2.00
+CC  id: M03485_2.00
+CC  name: M03485_2.00
+CC  version: 
+CC  name: M03485_2.00
+CC  description: raacaattkcagtgtty 
+CC  transfac_consensus: 
+CC  matrix.nb: 487
+XX
+//
+AC  M03486_2.00
+XX
+ID  M03486_2.00
+XX
+DE  catcaattgcagtgaty 
+P0       A     C     G     T
+1    23.5191 53.269 3.3348 19.8771
+2    99.6502     0 0.262352 0.0874508
+3    0.0874891     0 0.218723 99.6938
+4        0 99.087 0.869565 0.0434783
+5    99.4762 0.174596 0.261894 0.0872981
+6    99.6066     0 0.34965 0.0437063
+7        0     0 0.0438596 99.9561
+8    0.0438596     0 20.614 79.3421
+9    12.8622 4.43371 62.4232 20.2809
+10   0.262123 79.0738 0.174749 20.4893
+11   99.8685     0 0.0876424 0.0438212
+12   0.083717 0.0418585 95.3956 4.47886
+13   0.131234     0 0.174978 99.6938
+14       0 0.306078 99.6502 0.0437254
+15   99.4328     0 0.08726 0.47993
+16   1.49829 0.0428082 0.898973 97.5599
+17   23.3875 36.2878 15.1821 25.1426
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 488
+CC  accession: M03486_2.00
+CC  AC: M03486_2.00
+CC  id: M03486_2.00
+CC  name: M03486_2.00
+CC  version: 
+CC  name: M03486_2.00
+CC  description: catcaattgcagtgaty 
+CC  transfac_consensus: 
+CC  matrix.nb: 488
+XX
+//
+AC  M03487_2.00
+XX
+ID  M03487_2.00
+XX
+DE  tgaatrtkcagtca 
+P0       A     C     G     T
+1        0     0 0.399202 99.6008
+2    0.398804     0 99.5015 0.0997009
+3    99.7003 0.0999001 0.0999001 0.0999001
+4     99.8     0   0.2     0
+5    0.1001     0     0 99.8999
+6    31.6783 0.397219 67.428 0.496524
+7        0     0 1.18812 98.8119
+8    7.16753 6.56304 54.8359 31.4335
+9    0.199601 99.6008 0.199601     0
+10    99.8   0.1   0.1     0
+11       0     0 99.2048 0.795229
+12   0.0998004 0.199601 0.199601 99.501
+13       0 99.4024 0.0996016 0.498008
+14    99.8     0   0.1   0.1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 489
+CC  accession: M03487_2.00
+CC  AC: M03487_2.00
+CC  id: M03487_2.00
+CC  name: M03487_2.00
+CC  version: 
+CC  name: M03487_2.00
+CC  description: tgaatrtkcagtca 
+CC  transfac_consensus: 
+CC  matrix.nb: 489
+XX
+//
+AC  M03488_2.00
+XX
+ID  M03488_2.00
+XX
+DE  aacaattgcagtgtt 
+P0       A     C     G     T
+1    98.9154     0 1.0846     0
+2    95.3975     0 4.60251     0
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 3.28947 96.7105
+8    19.2982 11.1842 55.2632 14.2544
+9        0 96.7105     0 3.28947
+10     100     0     0     0
+11       0     0   100     0
+12       0     0     0   100
+13       0     0   100     0
+14       0     0     0   100
+15       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 490
+CC  accession: M03488_2.00
+CC  AC: M03488_2.00
+CC  id: M03488_2.00
+CC  name: M03488_2.00
+CC  version: 
+CC  name: M03488_2.00
+CC  description: aacaattgcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 490
+XX
+//
+AC  M03489_2.00
+XX
+ID  M03489_2.00
+XX
+DE  atgaattkcagtc 
+P0       A     C     G     T
+1    84.1033     0 15.2174 0.679348
+2    0.801282     0     0 99.1987
+3        0     0   100     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 15.832 84.168
+8    8.87097 11.6129 53.3871 26.129
+9        0 83.2258     0 16.7742
+10     100     0     0     0
+11       0     0 90.1019 9.89811
+12       0     0     0   100
+13       0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 491
+CC  accession: M03489_2.00
+CC  AC: M03489_2.00
+CC  id: M03489_2.00
+CC  name: M03489_2.00
+CC  version: 
+CC  name: M03489_2.00
+CC  description: atgaattkcagtc 
+CC  transfac_consensus: 
+CC  matrix.nb: 491
+XX
+//
+AC  M03490_2.00
+XX
+ID  M03490_2.00
+XX
+DE  matcaattgcagtgatk 
+P0       A     C     G     T
+1     60.5    32     0   7.5
+2      100     0     0     0
+3        0     0     0   100
+4        0   100     0     0
+5      100     0     0     0
+6      100     0     0     0
+7        0     0     0   100
+8        0     0 23.6181 76.3819
+9        3     0  84.5  12.5
+10       0    82     0    18
+11     100     0     0     0
+12       0     0 86.2069 13.7931
+13       0     0     0   100
+14       0     0   100     0
+15     100     0     0     0
+16   2.91262     0     0 97.0874
+17       3     0  35.5  61.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 492
+CC  accession: M03490_2.00
+CC  AC: M03490_2.00
+CC  id: M03490_2.00
+CC  name: M03490_2.00
+CC  version: 
+CC  name: M03490_2.00
+CC  description: matcaattgcagtgatk 
+CC  transfac_consensus: 
+CC  matrix.nb: 492
+XX
+//
+AC  M03491_2.00
+XX
+ID  M03491_2.00
+XX
+DE  aacaattkcagtgtt 
+P0       A     C     G     T
+1    99.7506 0.155885 0.0467654 0.0467654
+2    98.5978 0.0308166 1.37134     0
+3    0.0780396 99.8751 0.0468238     0
+4      100     0     0     0
+5    99.9531 0.0468604     0     0
+6        0 0.0468604     0 99.9531
+7    0.0468823     0 16.9558 82.9973
+8    3.40731 7.40857 57.9869 31.1972
+9    0.0312549 83.4349 0.0312549 16.5026
+10     100     0     0     0
+11   0.0312159     0 99.8751 0.0936476
+12   0.0468092 0.0780153 0.0312061 99.844
+13   0.0468604     0 99.9531     0
+14       0     0     0   100
+15   0.0777484 0.419841     0 99.5024
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 493
+CC  accession: M03491_2.00
+CC  AC: M03491_2.00
+CC  id: M03491_2.00
+CC  name: M03491_2.00
+CC  version: 
+CC  name: M03491_2.00
+CC  description: aacaattkcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 493
+XX
+//
+AC  M03492_2.00
+XX
+ID  M03492_2.00
+XX
+DE  aacaatrtkcagtgtt 
+P0       A     C     G     T
+1      100     0     0     0
+2      100     0     0     0
+3        0   100     0     0
+4      100     0     0     0
+5    98.9474 1.05263     0     0
+6        0     0     0   100
+7    32.6241     0 67.3759     0
+8        0     0     0   100
+9        0 5.05051 44.4444 50.5051
+10       0   100     0     0
+11     100     0     0     0
+12       0     0   100     0
+13       0     0     0   100
+14       0     0   100     0
+15       0     0     0   100
+16       0     0 1.05263 98.9474
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 494
+CC  accession: M03492_2.00
+CC  AC: M03492_2.00
+CC  id: M03492_2.00
+CC  name: M03492_2.00
+CC  version: 
+CC  name: M03492_2.00
+CC  description: aacaatrtkcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 494
+XX
+//
+AC  M03493_2.00
+XX
+ID  M03493_2.00
+XX
+DE  atcaattkcagtgat 
+P0       A     C     G     T
+1      100     0     0     0
+2        0     0     0   100
+3        0 99.6198     0 0.380228
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 2.60223 97.3978
+8    6.97819 9.28349 48.972 34.7664
+9        0 95.7369     0 4.26309
+10     100     0     0     0
+11       0     0 98.7437 1.25628
+12       0     0     0   100
+13       0 0.380228 99.6198     0
+14     100     0     0     0
+15       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 495
+CC  accession: M03493_2.00
+CC  AC: M03493_2.00
+CC  id: M03493_2.00
+CC  name: M03493_2.00
+CC  version: 
+CC  name: M03493_2.00
+CC  description: atcaattkcagtgat 
+CC  transfac_consensus: 
+CC  matrix.nb: 495
+XX
+//
+AC  M03494_2.00
+XX
+ID  M03494_2.00
+XX
+DE  atgaattkcagtcat 
+P0       A     C     G     T
+1    99.3662 0.294251 0.113173 0.226347
+2        0 0.0682905     0 99.9317
+3    0.113611 0.0681663 99.7501 0.0681663
+4    99.8181 0.113688 0.0682128     0
+5    99.8181     0 0.181901     0
+6        0     0     0   100
+7        0 0.0678119 0.700723 99.2315
+8    8.18432 4.05777 60.3851 27.3728
+9    0.0679194 99.3887     0 0.543355
+10   99.9317     0 0.0682905     0
+11       0     0 99.7727 0.227273
+12       0     0     0   100
+13       0 99.9317     0 0.0682905
+14   99.9317     0 0.0682905     0
+15   0.0453412     0 0.430741 99.5239
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 496
+CC  accession: M03494_2.00
+CC  AC: M03494_2.00
+CC  id: M03494_2.00
+CC  name: M03494_2.00
+CC  version: 
+CC  name: M03494_2.00
+CC  description: atgaattkcagtcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 496
+XX
+//
+AC  M03495_2.00
+XX
+ID  M03495_2.00
+XX
+DE  tgaatgtkcagtca 
+P0       A     C     G     T
+1        0     0     0   100
+2        0 0.426136 99.5739     0
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6    23.6544     0 75.4958 0.849858
+7        0     0     0   100
+8    1.65062 2.06327 35.4883 60.7978
+9        0   100     0     0
+10     100     0     0     0
+11       0     0 99.0113 0.988701
+12       0     0     0   100
+13       0   100     0     0
+14   99.2918 0.708215     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 497
+CC  accession: M03495_2.00
+CC  AC: M03495_2.00
+CC  id: M03495_2.00
+CC  name: M03495_2.00
+CC  version: 
+CC  name: M03495_2.00
+CC  description: tgaatgtkcagtca 
+CC  transfac_consensus: 
+CC  matrix.nb: 497
+XX
+//
+AC  M03496_2.00
+XX
+ID  M03496_2.00
+XX
+DE  raacaattgcagtgtt 
+P0       A     C     G     T
+1    25.2747 12.6374 47.2527 14.8352
+2      100     0     0     0
+3    99.0942     0 0.905797     0
+4        0   100     0     0
+5    99.8175     0 0.182482     0
+6    99.274     0 0.544465 0.181488
+7        0     0 0.182482 99.8175
+8        0     0 1.97133 98.0287
+9    8.4375 6.09375 62.1875 23.2813
+10       0   100     0     0
+11   99.8175     0 0.182482     0
+12       0     0 95.6294 4.37063
+13       0     0 0.725953 99.274
+14   0.182482     0 99.8175     0
+15       0 0.182482     0 99.8175
+16   0.362976 0.181488 0.181488 99.274
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 498
+CC  accession: M03496_2.00
+CC  AC: M03496_2.00
+CC  id: M03496_2.00
+CC  name: M03496_2.00
+CC  version: 
+CC  name: M03496_2.00
+CC  description: raacaattgcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 498
+XX
+//
+AC  M03497_2.00
+XX
+ID  M03497_2.00
+XX
+DE  aacaatkkyaktgtt 
+P0       A     C     G     T
+1    97.6041 0.512536 1.22885 0.654563
+2    86.3905 1.36642 10.9751 1.26804
+3    0.0945001 99.5779 0.1764 0.1512
+4    99.8106 0.0442031 0.138924     0
+5    99.5654 0.0818898 0.352756     0
+6    0.0378668 0.0189334 0.189334 99.7539
+7    2.2017 0.0949007 60.8883 36.8151
+8    12.0777 8.04125 49.9873 29.8937
+9    0.809819 45.6852 0.46185 53.0431
+10   99.6156 0.126048 0.252096     0
+11   0.403048 0.0566786 67.5924 31.9479
+12   0.525591 0.0938556 0.481792 98.8988
+13   0.0631792 0.0252717 99.861 0.0505433
+14   0.207639 0.106965 0.232807 99.4526
+15   1.60724 4.55095 2.78818 91.0536
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 499
+CC  accession: M03497_2.00
+CC  AC: M03497_2.00
+CC  id: M03497_2.00
+CC  name: M03497_2.00
+CC  version: 
+CC  name: M03497_2.00
+CC  description: aacaatkkyaktgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 499
+XX
+//
+AC  M03498_2.00
+XX
+ID  M03498_2.00
+XX
+DE  aacaatrkgyaktgtt 
+P0       A     C     G     T
+1    96.6268 0.217628 1.08814 2.06746
+2    82.9132 1.21382 13.7255 2.14753
+3    0.445434 98.8864 0.556793 0.111359
+4    99.7753     0 0.11236 0.11236
+5    99.8875     0 0.112486     0
+6        0 0.112486     0 99.8875
+7    31.3836 4.61192 49.6063 14.3982
+8    11.9369 3.04054 38.5135 46.509
+9    20.0225 9.44882 46.2317 24.297
+10   5.18602 52.4239 2.59301 39.7971
+11   99.4401 0.111982 0.447928     0
+12       0 0.3367 69.1358 30.5275
+13   0.447928 0.111982     0 99.4401
+14       0 0.224719 99.7753     0
+15   0.661521 0.330761 1.10254 97.9052
+16   2.35525 6.86948 3.63101 87.1443
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 500
+CC  accession: M03498_2.00
+CC  AC: M03498_2.00
+CC  id: M03498_2.00
+CC  name: M03498_2.00
+CC  version: 
+CC  name: M03498_2.00
+CC  description: aacaatrkgyaktgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 500
+XX
+//
+AC  M03499_2.00
+XX
+ID  M03499_2.00
+XX
+DE  tcaatgkyaktga 
+P0       A     C     G     T
+1    13.2256 1.67564 5.56553 79.5332
+2        0 97.7206 1.02941  1.25
+3    99.2532 0.0746826 0.373413 0.29873
+4    98.1536 1.18168 0.590842 0.0738552
+5    0.225225     0     0 99.7748
+6    10.6687     0 79.4891 9.84222
+7    15.3499 11.6629 31.3017 41.6855
+8    2.18045 25.7143 1.20301 70.9023
+9    99.0313 0.447094 0.52161     0
+10       0 0.050813 32.4187 67.5305
+11       0     0 0.225225 99.7748
+12   0.0748503     0 99.476 0.449102
+13   73.3444 0.93819 3.64238 22.0751
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 501
+CC  accession: M03499_2.00
+CC  AC: M03499_2.00
+CC  id: M03499_2.00
+CC  name: M03499_2.00
+CC  version: 
+CC  name: M03499_2.00
+CC  description: tcaatgkyaktga 
+CC  transfac_consensus: 
+CC  matrix.nb: 501
+XX
+//
+AC  M03500_2.00
+XX
+ID  M03500_2.00
+XX
+DE  tgaatgkyaktca 
+P0       A     C     G     T
+1    2.31641 0.361426 1.39642 95.9257
+2    1.00034     0 98.9997     0
+3    99.6586 0.0512033 0.290152     0
+4    99.812     0 0.188034     0
+5    0.136472 0.0511771 0.204708 99.6076
+6    3.80202 0.154136 76.3829 19.6609
+7    12.759 9.09402 37.7119 40.435
+8    1.18171 32.8823 0.719301 65.2166
+9    99.269 0.187011 0.442027 0.102006
+10       0     0 30.764 69.236
+11   0.0171116 0.0684463     0 99.9144
+12   0.407747 99.2015 0.390758     0
+13   97.0901 0.631859 2.07848 0.199534
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 502
+CC  accession: M03500_2.00
+CC  AC: M03500_2.00
+CC  id: M03500_2.00
+CC  name: M03500_2.00
+CC  version: 
+CC  name: M03500_2.00
+CC  description: tgaatgkyaktca 
+CC  transfac_consensus: 
+CC  matrix.nb: 502
+XX
+//
+AC  M03501_2.00
+XX
+ID  M03501_2.00
+XX
+DE  raacaatrg 
+P0       A     C     G     T
+1    28.6615 11.4775 36.9706 22.8904
+2    60.6411 11.3322 13.7045 14.3221
+3    92.177 0.0149009 0.566235 7.24184
+4        0 94.8773 1.33436 3.78834
+5    99.3256     0     0 0.674374
+6    98.8337 0.383448 0.47931 0.303563
+7    7.83717 1.18789 1.36173 89.6132
+8    35.9342 5.74143 46.8549 11.4695
+9    19.9483 22.7934 48.3834 8.87488
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 503
+CC  accession: M03501_2.00
+CC  AC: M03501_2.00
+CC  id: M03501_2.00
+CC  name: M03501_2.00
+CC  version: 
+CC  name: M03501_2.00
+CC  description: raacaatrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 503
+XX
+//
+AC  M03502_2.00
+XX
+ID  M03502_2.00
+XX
+DE  aacaatrtgcagtgtt 
+P0       A     C     G     T
+1      100     0     0     0
+2    98.374     0 1.62602     0
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    26.9841 2.38095 69.0476 1.5873
+8        0     0     0   100
+9    1.18577 3.16206 76.2846 19.3676
+10   0.819672 99.1803     0     0
+11     100     0     0     0
+12       0     0 99.1803 0.819672
+13       0     0     0   100
+14   0.819672     0 99.1803     0
+15       0     0     0   100
+16   0.813008 0.813008     0 98.374
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 504
+CC  accession: M03502_2.00
+CC  AC: M03502_2.00
+CC  id: M03502_2.00
+CC  name: M03502_2.00
+CC  version: 
+CC  name: M03502_2.00
+CC  description: aacaatrtgcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 504
+XX
+//
+AC  M03503_2.00
+XX
+ID  M03503_2.00
+XX
+DE  atcaatrtkcagtgat 
+P0       A     C     G     T
+1      100     0     0     0
+2        0     0     0   100
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    31.0734 1.12994 67.2316 0.564972
+8        0     0     0   100
+9    2.51256 10.0503 50.2513 37.1859
+10       0 98.8636     0 1.13636
+11   98.8636 1.13636     0     0
+12       0     0 98.8636 1.13636
+13       0     0     0   100
+14       0 2.24719 97.7528     0
+15     100     0     0     0
+16   1.1236 1.1236     0 97.7528
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 505
+CC  accession: M03503_2.00
+CC  AC: M03503_2.00
+CC  id: M03503_2.00
+CC  name: M03503_2.00
+CC  version: 
+CC  name: M03503_2.00
+CC  description: atcaatrtkcagtgat 
+CC  transfac_consensus: 
+CC  matrix.nb: 505
+XX
+//
+AC  M03504_2.00
+XX
+ID  M03504_2.00
+XX
+DE  atgaatrtkcagtcat 
+P0       A     C     G     T
+1    99.6403     0 0.359712     0
+2        0     0     0   100
+3        0 0.716846 99.2832     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    28.5714 1.20482 66.7814 3.44234
+8    0.716846     0     0 99.2832
+9    8.30721 4.85893 51.5674 35.2665
+10   0.359712 99.6403     0     0
+11   99.2832     0 0.358423 0.358423
+12       0     0 99.6403 0.359712
+13       0     0     0   100
+14       0   100     0     0
+15     100     0     0     0
+16   0.894454     0     0 99.1055
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 506
+CC  accession: M03504_2.00
+CC  AC: M03504_2.00
+CC  id: M03504_2.00
+CC  name: M03504_2.00
+CC  version: 
+CC  name: M03504_2.00
+CC  description: atgaatrtkcagtcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 506
+XX
+//
+AC  M03505_2.00
+XX
+ID  M03505_2.00
+XX
+DE  raacaattkcagtgttt 
+P0       A     C     G     T
+1    54.2335 5.99376 25.3342 14.4385
+2    99.8887 0.0890472     0 0.0222618
+3    99.7998     0 0.200178     0
+4    0.0445534 99.9554     0     0
+5      100     0     0     0
+6    99.7776     0 0.200133 0.022237
+7        0 0.0445534     0 99.9554
+8        0 0.089067 19.9955 79.9154
+9    13.6171 5.57165 46.9133 33.8979
+10   0.0445534 81.4435     0 18.5119
+11   99.7333 0.133363 0.133363     0
+12       0     0 99.0508 0.949227
+13   0.0222618 0.0890472     0 99.8887
+14       0     0   100     0
+15   0.0667557     0 0.0890076 99.8442
+16   0.351958 0.74791 0.197976 98.7022
+17   18.5425 23.9358 9.27123 48.2505
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 507
+CC  accession: M03505_2.00
+CC  AC: M03505_2.00
+CC  id: M03505_2.00
+CC  name: M03505_2.00
+CC  version: 
+CC  name: M03505_2.00
+CC  description: raacaattkcagtgttt 
+CC  transfac_consensus: 
+CC  matrix.nb: 507
+XX
+//
+AC  M03506_2.00
+XX
+ID  M03506_2.00
+XX
+DE  aatcaatkkyagtgatw 
+P0       A     C     G     T
+1    48.1712 15.7198 13.2685 22.8405
+2    99.9222 0.0777605     0     0
+3    0.11655 0.03885     0 99.8446
+4        0   100     0     0
+5      100     0     0     0
+6    99.9222     0 0.0777605     0
+7        0     0     0   100
+8        0     0 31.0895 68.9105
+9    10.6615 8.75486 40.1556 40.428
+10       0 70.9339     0 29.0661
+11   99.7671 0.0776398 0.15528     0
+12       0     0 98.7322 1.26777
+13       0     0 0.1554 99.8446
+14       0     0   100     0
+15     100     0     0     0
+16   0.845829 0.0768935 0.269127 98.8082
+17   28.0934 12.5681 16.3424 42.9961
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 508
+CC  accession: M03506_2.00
+CC  AC: M03506_2.00
+CC  id: M03506_2.00
+CC  name: M03506_2.00
+CC  version: 
+CC  name: M03506_2.00
+CC  description: aatcaatkkyagtgatw 
+CC  transfac_consensus: 
+CC  matrix.nb: 508
+XX
+//
+AC  M03507_2.00
+XX
+ID  M03507_2.00
+XX
+DE  aatgaattkcagtcatt 
+P0       A     C     G     T
+1    42.5946 20.0125 21.9748 15.4182
+2    99.9377     0     0 0.0622568
+3        0 0.0933562     0 99.9066
+4    0.403288     0 99.5967     0
+5    99.9844 0.0155715     0     0
+6    99.7359 0.0310655 0.232992     0
+7    0.0311187 0.0622374     0 99.9066
+8    0.0311284 0.0311284 20.4981 79.4397
+9    11.4953 5.63863 48.9875 33.8785
+10       0 80.6632 0.0311381 19.3056
+11   99.8445 0.0621987 0.0932981     0
+12   0.0306044     0 98.2555 1.71385
+13   0.0622568     0     0 99.9377
+14   0.0311187 99.9066     0 0.0622374
+15   99.9377     0 0.0622568     0
+16   0.37146 0.0619099 0.18573 99.3809
+17   20.9903 19.4799 20.4765 39.0533
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 509
+CC  accession: M03507_2.00
+CC  AC: M03507_2.00
+CC  id: M03507_2.00
+CC  name: M03507_2.00
+CC  version: 
+CC  name: M03507_2.00
+CC  description: aatgaattkcagtcatt 
+CC  transfac_consensus: 
+CC  matrix.nb: 509
+XX
+//
+AC  M03508_2.00
+XX
+ID  M03508_2.00
+XX
+DE  aacaatamcattgtt 
+P0       A     C     G     T
+1    88.7588 10.5386 0.702576     0
+2      100     0     0     0
+3        0 99.2147 0.78534     0
+4    99.2147     0     0 0.78534
+5    85.3604 14.6396     0     0
+6        0     0     0   100
+7    95.466     0 3.02267 1.51134
+8       55 35.2381 6.66667 3.09524
+9        0   100     0     0
+10     100     0     0     0
+11       0     0     0   100
+12       0     0     0   100
+13       0     0   100     0
+14       0 2.30179 0.767263 96.9309
+15   0.524934     0     0 99.4751
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 510
+CC  accession: M03508_2.00
+CC  AC: M03508_2.00
+CC  id: M03508_2.00
+CC  name: M03508_2.00
+CC  version: 
+CC  name: M03508_2.00
+CC  description: aacaatamcattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 510
+XX
+//
+AC  M03509_2.00
+XX
+ID  M03509_2.00
+XX
+DE  atcaatamcattgat 
+P0       A     C     G     T
+1    73.9496 23.5294     0 2.52101
+2        0 3.2967     0 96.7033
+3        0   100     0     0
+4      100     0     0     0
+5    96.7033 3.2967     0     0
+6        0     0     0   100
+7    94.6237     0     0 5.37634
+8    67.1756 28.2443     0 4.58015
+9        0   100     0     0
+10     100     0     0     0
+11       0     0     0   100
+12       0     0     0   100
+13       0     0   100     0
+14     100     0     0     0
+15   4.9505 7.92079     0 87.1287
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 511
+CC  accession: M03509_2.00
+CC  AC: M03509_2.00
+CC  id: M03509_2.00
+CC  name: M03509_2.00
+CC  version: 
+CC  name: M03509_2.00
+CC  description: atcaatamcattgat 
+CC  transfac_consensus: 
+CC  matrix.nb: 511
+XX
+//
+AC  M03510_2.00
+XX
+ID  M03510_2.00
+XX
+DE  atgaataacattcat 
+P0       A     C     G     T
+1    90.8257 6.8152 0.78637 1.57274
+2        0     0     0   100
+3        0     0   100     0
+4      100     0     0     0
+5    96.1165 3.05132 0.832178     0
+6        0     0     0   100
+7    95.8506     0 3.04288 1.1065
+8    74.1176 10.1604 5.45455 10.2674
+9        0   100     0     0
+10     100     0     0     0
+11       0     0     0   100
+12       0     0     0   100
+13       0    99     0     1
+14   99.7122     0     0 0.28777
+15       0 1.41044 0.846262 97.7433
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 512
+CC  accession: M03510_2.00
+CC  AC: M03510_2.00
+CC  id: M03510_2.00
+CC  name: M03510_2.00
+CC  version: 
+CC  name: M03510_2.00
+CC  description: atgaataacattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 512
+XX
+//
+AC  M03513_2.00
+XX
+ID  M03513_2.00
+XX
+DE  acamtamcattg 
+P0       A     C     G     T
+1    90.4971 0.923889 0.923889 7.65508
+2        0 99.4681 0.531915     0
+3    98.1862 0.238663     0 1.57518
+4    73.807 26.0495     0 0.143524
+5        0 0.339147     0 99.6609
+6    77.8577 0.529902 2.87661 18.7358
+7    45.6976 31.2105 12.8828 10.209
+8    0.674049 99.0371 0.192585 0.0962927
+9    99.9029     0 0.0485673 0.0485673
+10       0 0.290839     0 99.7092
+11       0     0 0.0485909 99.9514
+12   0.242248 0.0968992 99.6609     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 513
+CC  accession: M03513_2.00
+CC  AC: M03513_2.00
+CC  id: M03513_2.00
+CC  name: M03513_2.00
+CC  version: 
+CC  name: M03513_2.00
+CC  description: acamtamcattg 
+CC  transfac_consensus: 
+CC  matrix.nb: 513
+XX
+//
+AC  M03514_2.00
+XX
+ID  M03514_2.00
+XX
+DE  atgaatamcattcat 
+P0       A     C     G     T
+1    45.1253 16.7131 19.9164 18.2451
+2    1.63711     0 0.545703 97.8172
+3        0     0 99.5833 0.416667
+4    99.7218     0     0 0.278164
+5    88.5185 11.4815     0     0
+6    0.413793 0.413793 0.275862 98.8966
+7    70.1117 0.27933 14.1061 15.5028
+8    36.351 29.9443 17.9666 15.7382
+9        0 99.1701     0 0.829876
+10   99.3075     0 0.692521     0
+11   0.722892     0 12.8916 86.3855
+12       0     0     0   100
+13       0 98.8966     0 1.10345
+14    95.6   1.2 1.06667 2.13333
+15   14.6444 21.8968 14.3654 49.0934
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 514
+CC  accession: M03514_2.00
+CC  AC: M03514_2.00
+CC  id: M03514_2.00
+CC  name: M03514_2.00
+CC  version: 
+CC  name: M03514_2.00
+CC  description: atgaatamcattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 514
+XX
+//
+AC  M03515_2.00
+XX
+ID  M03515_2.00
+XX
+DE  tcaataacattga 
+P0       A     C     G     T
+1    21.0526 4.09357 0.877193 73.9766
+2    4.13534 95.1128     0 0.75188
+3    98.8281     0 1.17188     0
+4    82.6797 16.3399 0.980392     0
+5        0 1.16279 0.775194 98.062
+6    60.6299 2.75591 14.5669 22.0472
+7    44.4882 24.4094 18.8976 12.2047
+8        0   100     0     0
+9    98.062 1.93798     0     0
+10   0.344828 1.03448 11.3793 87.2414
+11       0     0 1.55642 98.4436
+12       0 0.763359 96.5649 2.67176
+13   79.8107 3.78549 2.83912 13.5647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 515
+CC  accession: M03515_2.00
+CC  AC: M03515_2.00
+CC  id: M03515_2.00
+CC  name: M03515_2.00
+CC  version: 
+CC  name: M03515_2.00
+CC  description: tcaataacattga 
+CC  transfac_consensus: 
+CC  matrix.nb: 515
+XX
+//
+AC  M03516_2.00
+XX
+ID  M03516_2.00
+XX
+DE  aacaatrwkcaktgtt 
+P0       A     C     G     T
+1    99.2958 0.352113 0.352113     0
+2    99.6466 0.353357     0     0
+3    0.353357 99.6466     0     0
+4      100     0     0     0
+5    95.5932     0 4.0678 0.338983
+6        0 0.353357     0 99.6466
+7    36.5248 1.77305 45.7447 15.9574
+8    26.2411 3.90071 15.6028 54.2553
+9    17.0213 18.0851 28.0142 36.8794
+10   19.5035 58.156 1.77305 20.5674
+11   99.6466     0     0 0.353357
+12   0.353357     0 37.1025 62.5442
+13   0.704225     0     0 99.2958
+14   0.353357     0 99.6466     0
+15   0.350877 0.350877 0.350877 98.9474
+16   0.694444 0.694444 0.694444 97.9167
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 516
+CC  accession: M03516_2.00
+CC  AC: M03516_2.00
+CC  id: M03516_2.00
+CC  name: M03516_2.00
+CC  version: 
+CC  name: M03516_2.00
+CC  description: aacaatrwkcaktgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 516
+XX
+//
+AC  M03517_2.00
+XX
+ID  M03517_2.00
+XX
+DE  raacaatkkyaktgttt 
+P0       A     C     G     T
+1    51.1364 7.73956 25.7985 15.3256
+2    99.8161     0 0.122624 0.0613121
+3    99.7549     0 0.214461 0.0306373
+4    0.0307031 99.9693     0     0
+5      100     0     0     0
+6    98.7864 0.0606796 1.12257 0.0303398
+7    0.0306843 0.0613685     0 99.9079
+8    3.11665 0.237459 38.0528 58.5931
+9    23.5565 6.29607 35.6265 34.5209
+10   0.0612745 63.7868 0.153186 35.9988
+11   99.9386     0     0 0.0613874
+12       0 0.0307031 47.3749 52.5944
+13   0.152765 0.030553 0.336083 99.4806
+14   0.0306937     0 99.9386 0.0306937
+15   0.122474 0.0918555 0.0918555 99.6938
+16   0.572289 1.0241 0.331325 98.0723
+17   20.9702 20.264 16.6411 42.1247
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 517
+CC  accession: M03517_2.00
+CC  AC: M03517_2.00
+CC  id: M03517_2.00
+CC  name: M03517_2.00
+CC  version: 
+CC  name: M03517_2.00
+CC  description: raacaatkkyaktgttt 
+CC  transfac_consensus: 
+CC  matrix.nb: 517
+XX
+//
+AC  M03518_2.00
+XX
+ID  M03518_2.00
+XX
+DE  katgaattkcaktcatr 
+P0       A     C     G     T
+1    24.8804 16.7464 33.0144 25.3589
+2    96.3303     0 1.83486 1.83486
+3    0.473934     0     0 99.5261
+4    5.40541     0 94.5946     0
+5    99.5261     0     0 0.473934
+6    98.5915     0 1.40845     0
+7        0 0.473934     0 99.5261
+8    1.86916     0 24.2991 73.8318
+9    16.2679 7.6555 34.4498 41.6268
+10       0 75.2381     0 24.7619
+11     100     0     0     0
+12       0     0 53.8095 46.1905
+13       0     0     0   100
+14       0   100     0     0
+15   99.0566     0     0 0.943396
+16   6.14035 0.877193 0.877193 92.1053
+17   30.4762 15.2381 31.9048 22.381
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 518
+CC  accession: M03518_2.00
+CC  AC: M03518_2.00
+CC  id: M03518_2.00
+CC  name: M03518_2.00
+CC  version: 
+CC  name: M03518_2.00
+CC  description: katgaattkcaktcatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 518
+XX
+//
+AC  M03519_2.00
+XX
+ID  M03519_2.00
+XX
+DE  raacaatgkyaktgttm 
+P0       A     C     G     T
+1    26.551 6.56294 51.147 15.7391
+2    97.1517 0.34877 1.7826 0.716915
+3    95.1062 3.79363 0.81563 0.284522
+4        0 99.7414     0 0.258604
+5      100     0     0     0
+6    99.7017 0.29827     0     0
+7        0 0.0597967     0 99.9402
+8    5.62425 0.219386 82.4093 11.7471
+9    13.4251 8.17874 44.8434 33.5528
+10   4.28885 30.2214 0.279274 65.2105
+11   99.8606 0.0796654     0 0.0597491
+12   0.0544662 0.0680828 31.604 68.2734
+13   1.70354 0.0587429 0.0587429 98.179
+14       0 0.0597967 99.9402     0
+15   0.763957 0.0587659 0.959843 98.2174
+16   2.29698 3.8705 3.14704 90.6855
+17   25.9725 36.6647 20.6264 16.7365
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 519
+CC  accession: M03519_2.00
+CC  AC: M03519_2.00
+CC  id: M03519_2.00
+CC  name: M03519_2.00
+CC  version: 
+CC  name: M03519_2.00
+CC  description: raacaatgkyaktgttm 
+CC  transfac_consensus: 
+CC  matrix.nb: 519
+XX
+//
+AC  M03520_2.00
+XX
+ID  M03520_2.00
+XX
+DE  atgaatgkyattcak 
+P0       A     C     G     T
+1    48.6921 20.3189 21.2437 9.74532
+2    1.59779 0.269669 0.451696 97.6808
+3    0.746524 0.0205465 99.2329     0
+4    99.9379 0.0206925 0.013795 0.02759
+5    99.4714 0.446245 0.0755183     0
+6    0.00689941 0.0275976     0 99.9655
+7    7.77141 0.0138036 79.0531 13.1617
+8    13.3007 11.4854 32.8272 42.3868
+9    3.00228 30.5956 0.31058 66.0915
+10   99.9035 0.055161 0.0275805 0.0137903
+11   0.0396556 0.0566508 17.8223 82.0814
+12   0.02759 0.0344875     0 99.9379
+13       0 99.9517     0 0.0482892
+14   99.3282 0.16453 0.178241 0.32906
+15   17.0129 16.516 27.966 38.5051
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 520
+CC  accession: M03520_2.00
+CC  AC: M03520_2.00
+CC  id: M03520_2.00
+CC  name: M03520_2.00
+CC  version: 
+CC  name: M03520_2.00
+CC  description: atgaatgkyattcak 
+CC  transfac_consensus: 
+CC  matrix.nb: 520
+XX
+//
+AC  M03521_2.00
+XX
+ID  M03521_2.00
+XX
+DE  ratcaatgkyattgatr 
+P0       A     C     G     T
+1    29.8295 17.6136 37.2159 15.3409
+2    79.638 3.84615 12.6697 3.84615
+3    1.90217 0.543478 1.90217 95.6522
+4        0   100     0     0
+5      100     0     0     0
+6      100     0     0     0
+7        0     0     0   100
+8    5.38244     0 83.8527 10.7649
+9    13.9601 15.6695 32.7635 37.6068
+10   9.65909 27.8409     0  62.5
+11     100     0     0     0
+12       0     0 19.4508 80.5492
+13       0     0     0   100
+14       0     0   100     0
+15   92.6316     0 1.31579 6.05263
+16   18.8889 3.7037 12.2222 65.1852
+17   32.4786 5.69801 42.735 19.0883
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 521
+CC  accession: M03521_2.00
+CC  AC: M03521_2.00
+CC  id: M03521_2.00
+CC  name: M03521_2.00
+CC  version: 
+CC  name: M03521_2.00
+CC  description: ratcaatgkyattgatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 521
+XX
+//
+AC  M03522_2.00
+XX
+ID  M03522_2.00
+XX
+DE  saacaataacattgttc 
+P0       A     C     G     T
+1    16.7832 25.1748 34.0326 24.0093
+2    92.8726 4.31965 1.72786 1.07991
+3    98.3982 1.373     0 0.228833
+4        0   100     0     0
+5    99.768     0     0 0.232019
+6    76.3766 23.2682     0 0.35524
+7        0     0     0   100
+8    71.3101     0 14.9254 13.7645
+9       40 24.4186 20.2326 15.3488
+10       0   100     0     0
+11     100     0     0     0
+12       0     0     0   100
+13       0     0     0   100
+14   0.460829     0 99.0783 0.460829
+15   0.451467 1.80587 0.677201 97.0655
+16   1.32743 1.54867 1.99115 95.1327
+17   18.8372 48.1395 10.4651 22.5581
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 522
+CC  accession: M03522_2.00
+CC  AC: M03522_2.00
+CC  id: M03522_2.00
+CC  name: M03522_2.00
+CC  version: 
+CC  name: M03522_2.00
+CC  description: saacaataacattgttc 
+CC  transfac_consensus: 
+CC  matrix.nb: 522
+XX
+//
+AC  M03523_2.00
+XX
+ID  M03523_2.00
+XX
+DE  yatcaatamcattgatm 
+P0       A     C     G     T
+1       25 29.7619 3.57143 41.6667
+2    79.4393 14.0187 1.86916 4.6729
+3    2.15054 6.45161     0 91.3978
+4        0 97.7011 2.29885     0
+5      100     0     0     0
+6    80.1887 19.8113     0     0
+7        0     0     0   100
+8    84.1584     0 0.990099 14.8515
+9    41.1765 29.4118 16.4706 12.9412
+10       0 95.5056     0 4.49438
+11     100     0     0     0
+12       0     0     0   100
+13       0     0     0   100
+14       0     0   100     0
+15   98.8372     0     0 1.16279
+16   1.04167  6.25 4.16667 88.5417
+17   42.3529 34.1176 3.52941    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 523
+CC  accession: M03523_2.00
+CC  AC: M03523_2.00
+CC  id: M03523_2.00
+CC  name: M03523_2.00
+CC  version: 
+CC  name: M03523_2.00
+CC  description: yatcaatamcattgatm 
+CC  transfac_consensus: 
+CC  matrix.nb: 523
+XX
+//
+AC  M03524_2.00
+XX
+ID  M03524_2.00
+XX
+DE  atgaatamcattcat 
+P0       A     C     G     T
+1    46.6533 9.89011 24.6753 18.7812
+2    0.785083 0.196271 0.785083 98.2336
+3    0.593472 0.197824 99.0109 0.197824
+4    99.7012     0     0 0.298805
+5    88.8988 10.9236     0 0.17762
+6        0     0     0   100
+7    59.834 1.07884 15.8506 23.2365
+8    36.0639 25.4745 17.8821 20.5794
+9    0.594648 99.2071 0.198216     0
+10   99.8006 0.199402     0     0
+11       0 0.0883392 11.4841 88.4276
+12       0     0     0   100
+13       0 99.503 0.198807 0.298211
+14   96.3426 1.53994 0.577478 1.53994
+15   15.4845 22.6773 10.1898 51.6484
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 524
+CC  accession: M03524_2.00
+CC  AC: M03524_2.00
+CC  id: M03524_2.00
+CC  name: M03524_2.00
+CC  version: 
+CC  name: M03524_2.00
+CC  description: atgaatamcattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 524
+XX
+//
+AC  M03525_2.00
+XX
+ID  M03525_2.00
+XX
+DE  aacaatamcattgtt 
+P0       A     C     G     T
+1    92.1817 2.88783 1.90174 3.0287
+2    98.8109 0.490751 0.283126 0.415251
+3    0.0381243 99.7903 0.0381243 0.133435
+4    98.6433 0.18843 0.0376861 1.13058
+5    97.1243 2.46753 0.0556586 0.352505
+6    0.0761905 0.133333 0.0761905 99.7143
+7    75.7159 1.79346 18.2384 4.25224
+8    37.2684 28.0611 15.3773 19.2932
+9    0.658886 98.5505 0.244729 0.545934
+10   99.8855 0.057241 0.0190803 0.0381607
+11   0.0571864 0.0762486 0.0762486 99.7903
+12   0.0571973 0.0190658 0.114395 99.8093
+13   0.171429 0.0380952 99.7143 0.0761905
+14   0.1712 0.114134 0.133156 99.5815
+15   0.966004 1.30039 0.483002 97.2506
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 525
+CC  accession: M03525_2.00
+CC  AC: M03525_2.00
+CC  id: M03525_2.00
+CC  name: M03525_2.00
+CC  version: 
+CC  name: M03525_2.00
+CC  description: aacaatamcattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 525
+XX
+//
+AC  M03526_2.00
+XX
+ID  M03526_2.00
+XX
+DE  aacaatwwycattgtt 
+P0       A     C     G     T
+1    92.233 2.3301 2.91262 2.52427
+2    99.3724     0 0.209205 0.41841
+3    0.419287 99.5807     0     0
+4    98.9583     0 0.416667 0.625
+5    98.7526 1.2474     0     0
+6        0 0.835073     0 99.1649
+7    45.0526 22.1053 7.36842 25.4737
+8    33.8947 19.5789 9.68421 36.8421
+9    17.8947 33.8947 13.2632 34.9474
+10   11.5942 68.8406 3.76812 15.7971
+11   99.5807 0.209644 0.209644     0
+12   0.417537     0 0.417537 99.1649
+13   0.209644 0.209644     0 99.5807
+14       0 0.625 98.9583 0.416667
+15       0     0     0   100
+16   1.61616 1.81818 0.606061 95.9596
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 526
+CC  accession: M03526_2.00
+CC  AC: M03526_2.00
+CC  id: M03526_2.00
+CC  name: M03526_2.00
+CC  version: 
+CC  name: M03526_2.00
+CC  description: aacaatwwycattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 526
+XX
+//
+AC  M03527_2.00
+XX
+ID  M03527_2.00
+XX
+DE  tcaatamcattga 
+P0       A     C     G     T
+1    1.58824 3.52941 0.117647 94.7647
+2        0 99.876     0 0.123993
+3    99.938     0 0.0620347     0
+4    99.6906 0.0618812     0 0.247525
+5        0 0.123839 0.123839 99.7523
+6    89.2027 1.10742 7.36434 2.32558
+7    51.1801 29.5652 7.20497 12.0497
+8        0   100     0     0
+9      100     0     0     0
+10   0.37037 0.123457 0.0617284 99.4444
+11       0 0.0619579 0.123916 99.8141
+12   0.307882 0.492611 99.1995     0
+13   90.5056 1.96629     0 7.52809
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 527
+CC  accession: M03527_2.00
+CC  AC: M03527_2.00
+CC  id: M03527_2.00
+CC  name: M03527_2.00
+CC  version: 
+CC  name: M03527_2.00
+CC  description: tcaatamcattga 
+CC  transfac_consensus: 
+CC  matrix.nb: 527
+XX
+//
+AC  M03528_2.00
+XX
+ID  M03528_2.00
+XX
+DE  tgaatamcattca 
+P0       A     C     G     T
+1    0.877193 0.584795     0 98.538
+2    0.441826     0 99.2636 0.294551
+3    99.2636     0     0 0.736377
+4    99.2636 0.589102     0 0.147275
+5    0.147275 0.294551 0.294551 99.2636
+6    80.5257 2.03106 14.9343 2.50896
+7    41.3333 30.2222 13.037 15.4074
+8        0 98.9721 0.293686 0.734214
+9    99.41 0.147493     0 0.442478
+10       0     0     0   100
+11   0.148148     0     0 99.8519
+12       0 93.4813 0.416089 6.10264
+13   94.7961 0.984529 0.421941 3.79747
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 528
+CC  accession: M03528_2.00
+CC  AC: M03528_2.00
+CC  id: M03528_2.00
+CC  name: M03528_2.00
+CC  version: 
+CC  name: M03528_2.00
+CC  description: tgaatamcattca 
+CC  transfac_consensus: 
+CC  matrix.nb: 528
+XX
+//
+AC  M03529_2.00
+XX
+ID  M03529_2.00
+XX
+DE  aacaattkcattgtt 
+P0       A     C     G     T
+1    97.7229 0.501737 1.77538     0
+2    98.8676     0 0.937134 0.195236
+3        0   100     0     0
+4    99.7243 0.275699     0     0
+5    96.4939 2.70579 0.800305     0
+6        0     0     0   100
+7    23.5387 2.33017 20.7346 53.3965
+8    16.5087 14.4945 34.0047 34.9921
+9    3.14815 93.7778 0.592593 2.48148
+10   99.685     0     0 0.314961
+11   0.283286     0 10.0567 89.6601
+12   0.313972     0 0.313972 99.3721
+13       0     0   100     0
+14   0.314218     0 0.235664 99.4501
+15   0.764526 1.22324 1.22324 96.789
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 529
+CC  accession: M03529_2.00
+CC  AC: M03529_2.00
+CC  id: M03529_2.00
+CC  name: M03529_2.00
+CC  version: 
+CC  name: M03529_2.00
+CC  description: aacaattkcattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 529
+XX
+//
+AC  M03530_2.00
+XX
+ID  M03530_2.00
+XX
+DE  atcaatwkcattgat 
+P0       A     C     G     T
+1    85.3868 4.01146 8.88252 1.7192
+2    2.61438     0     0 97.3856
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    32.2148 2.34899 5.03356 60.4027
+8    17.1717 12.1212 44.4444 26.2626
+9        0 95.2077     0 4.79233
+10     100     0     0     0
+11       0     0 12.8655 87.1345
+12       0     0     0   100
+13       0     0   100     0
+14   96.4401     0 1.94175 1.61812
+15   4.07524     0 2.50784 93.4169
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 530
+CC  accession: M03530_2.00
+CC  AC: M03530_2.00
+CC  id: M03530_2.00
+CC  name: M03530_2.00
+CC  version: 
+CC  name: M03530_2.00
+CC  description: atcaatwkcattgat 
+CC  transfac_consensus: 
+CC  matrix.nb: 530
+XX
+//
+AC  M03531_2.00
+XX
+ID  M03531_2.00
+XX
+DE  atgaatwycattcat 
+P0       A     C     G     T
+1    97.6517     0     0 2.34834
+2    1.57791     0     0 98.4221
+3    3.1068     0 96.8932     0
+4      100     0     0     0
+5    96.8932 1.5534 1.5534     0
+6        0     0     0   100
+7    26.0398     0 9.76492 64.1953
+8    6.91928 47.7759 10.8731 34.4316
+9        0 97.6517     0 2.34834
+10     100     0     0     0
+11       0     0 8.60806 91.3919
+12       0     0     0   100
+13       0   100     0     0
+14   98.4221     0 1.57791     0
+15   5.13308     0     0 94.8669
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 531
+CC  accession: M03531_2.00
+CC  AC: M03531_2.00
+CC  id: M03531_2.00
+CC  name: M03531_2.00
+CC  version: 
+CC  name: M03531_2.00
+CC  description: atgaatwycattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 531
+XX
+//
+AC  M03533_2.00
+XX
+ID  M03533_2.00
+XX
+DE  aacaatwdcattgtt 
+P0       A     C     G     T
+1    96.2777 0.878294 1.17106 1.67294
+2    99.1814 0.0861698 0.603188 0.129255
+3    0.0432526 99.5675 0.0432526 0.346021
+4    99.74     0 0.0433276 0.216638
+5    93.9976 4.61413 1.26582 0.122499
+6        0     0     0   100
+7    43.788 1.43354 7.94961 46.8288
+8    26.8028 10.9904 31.7116 30.4952
+9    3.74084 88.7775 1.15696 6.32472
+10   99.9566     0 0.0434216     0
+11       0 0.201884 22.3419 77.4563
+12   0.342906     0 0.985855 98.6712
+13   0.130095     0 99.8265 0.0433651
+14   0.214869 0.472712 0.386764 98.9257
+15   1.85261 1.77028 1.6056 94.7715
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 532
+CC  accession: M03533_2.00
+CC  AC: M03533_2.00
+CC  id: M03533_2.00
+CC  name: M03533_2.00
+CC  version: 
+CC  name: M03533_2.00
+CC  description: aacaatwdcattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 532
+XX
+//
+AC  M03534_2.00
+XX
+ID  M03534_2.00
+XX
+DE  atgaatwwcattcat 
+P0       A     C     G     T
+1     87.5 2.38095 3.1746 6.94444
+2    0.892857 0.669643     0 98.4375
+3    7.35294     0 92.6471     0
+4    99.5485 0.225734     0 0.225734
+5    95.0431 2.80172 2.15517     0
+6    0.226244     0     0 99.7738
+7    42.4628 2.54777 3.82166 51.1677
+8    29.7052 17.4603 22.2222 30.6122
+9    2.42424 89.0909 1.61616 6.86869
+10     100     0     0     0
+11   0.183486 0.183486 18.7156 80.9174
+12   0.675676     0     0 99.3243
+13       0 97.7827     0 2.21729
+14   99.3243     0     0 0.675676
+15   6.29921 2.3622 4.52756 86.811
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 533
+CC  accession: M03534_2.00
+CC  AC: M03534_2.00
+CC  id: M03534_2.00
+CC  name: M03534_2.00
+CC  version: 
+CC  name: M03534_2.00
+CC  description: atgaatwwcattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 533
+XX
+//
+AC  M03535_2.00
+XX
+ID  M03535_2.00
+XX
+DE  aacaattkcagtgtt 
+P0       A     C     G     T
+1    99.7927     0 0.207254     0
+2      100     0     0     0
+3        0   100     0     0
+4      100     0     0     0
+5    96.2038     0 3.7962     0
+6        0     0     0   100
+7    0.310238     0 0.103413 99.5863
+8    11.1472 12.9022 31.2967 44.6539
+9        0   100     0     0
+10   99.8963     0 0.103734     0
+11   0.453721     0 87.3866 12.1597
+12   0.10352 0.10352 0.10352 99.6894
+13       0 0.103734 99.8963     0
+14       0     0     0   100
+15   0.189394 7.85985 0.757576 91.1932
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 534
+CC  accession: M03535_2.00
+CC  AC: M03535_2.00
+CC  id: M03535_2.00
+CC  name: M03535_2.00
+CC  version: 
+CC  name: M03535_2.00
+CC  description: aacaattkcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 534
+XX
+//
+AC  M03536_2.00
+XX
+ID  M03536_2.00
+XX
+DE  atcaattgcagtgat 
+P0       A     C     G     T
+1    99.9659     0 0.0340832     0
+2        0     0     0   100
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0 0.0338181 0.777815 99.1884
+8    11.8209 0.412864 63.7332 24.033
+9        0   100     0     0
+10   99.9319 0.0340716 0.0340716     0
+11       0 0.0338295 99.2219 0.744249
+12   0.0340368 0.10211 0.0340368 99.8298
+13   0.0340832     0 99.9659     0
+14   99.8978 0.0340599 0.0681199     0
+15   0.135501 0.237127 0.271003 99.3564
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 535
+CC  accession: M03536_2.00
+CC  AC: M03536_2.00
+CC  id: M03536_2.00
+CC  name: M03536_2.00
+CC  version: 
+CC  name: M03536_2.00
+CC  description: atcaattgcagtgat 
+CC  transfac_consensus: 
+CC  matrix.nb: 535
+XX
+//
+AC  M03537_2.00
+XX
+ID  M03537_2.00
+XX
+DE  atgaattkcagtcat 
+P0       A     C     G     T
+1    99.5626 0.0874891 0.349956     0
+2        0     0     0   100
+3        0     0   100     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0 0.0870322 0.870322 99.0426
+8    21.0398 4.01256 39.7069 35.2408
+9        0   100     0     0
+10     100     0     0     0
+11       0     0 99.6497 0.350263
+12       0 0.262927     0 99.7371
+13       0   100     0     0
+14     100     0     0     0
+15   3.23129     0     0 96.7687
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 536
+CC  accession: M03537_2.00
+CC  AC: M03537_2.00
+CC  id: M03537_2.00
+CC  name: M03537_2.00
+CC  version: 
+CC  name: M03537_2.00
+CC  description: atgaattkcagtcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 536
+XX
+//
+AC  M03538_2.00
+XX
+ID  M03538_2.00
+XX
+DE  aaacaatrayattgttt 
+P0       A     C     G     T
+1    63.0589 12.7846 15.9045 8.25203
+2    97.9202 0.248781 1.19415 0.636879
+3    98.6664 0.0601624 1.10298 0.17046
+4    0.0202901 99.8275     0 0.152176
+5    99.8883 0.0203025 0.0101513 0.08121
+6    99.9695 0.0101595 0.020319     0
+7        0 0.0304785     0 99.9695
+8    33.3542 0.0986016 54.8404 11.7067
+9    47.2358 15.1524 16.8598 20.752
+10   10.5608 45.5149 0.00908843 43.9153
+11   99.9492 0.0406298     0 0.0101574
+12   0.154111 0.108784 10.5339 89.2032
+13   0.273252 0.101204 0.0404817 99.5851
+14   0.121568 0.121568 99.6859 0.0709148
+15   0.404122 0.121237 0.0606183 99.414
+16   2.78449 1.18921 0.88949 95.1368
+17   14.8679 1.55488 22.998 60.5793
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 537
+CC  accession: M03538_2.00
+CC  AC: M03538_2.00
+CC  id: M03538_2.00
+CC  name: M03538_2.00
+CC  version: 
+CC  name: M03538_2.00
+CC  description: aaacaatrayattgttt 
+CC  transfac_consensus: 
+CC  matrix.nb: 537
+XX
+//
+AC  M03539_2.00
+XX
+ID  M03539_2.00
+XX
+DE  satcaatgtyattgatk 
+P0       A     C     G     T
+1    7.65064 31.0765 42.1801 19.0928
+2    79.0685 5.13919 10.546 5.24625
+3    3.50877 0.0649773 0.454841 95.9714
+4        0 99.1941 0.134318 0.671592
+5    99.9323     0 0.067659     0
+6    99.9323     0 0.067659     0
+7        0 0.067659     0 99.9323
+8        0     0 75.5586 24.4414
+9    6.9736 15.3013 23.8321 53.893
+10   0.0676133 33.2657 0.0676133 66.5991
+11     100     0     0     0
+12   0.108167     0 20.0108 79.881
+13   0.134953 0.134953 0.0674764 99.6626
+14   0.135044 0.0675219 99.7299 0.0675219
+15   94.9229 0.128535 3.3419 1.60668
+16   8.34763 1.82962 5.3745 84.4483
+17   22.8687 8.11908 28.2815 40.7307
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 538
+CC  accession: M03539_2.00
+CC  AC: M03539_2.00
+CC  id: M03539_2.00
+CC  name: M03539_2.00
+CC  version: 
+CC  name: M03539_2.00
+CC  description: satcaatgtyattgatk 
+CC  transfac_consensus: 
+CC  matrix.nb: 538
+XX
+//
+AC  M03540_2.00
+XX
+ID  M03540_2.00
+XX
+DE  katgaatkgyattcatr 
+P0       A     C     G     T
+1    18.3762 7.4235 42.0723 32.128
+2    90.2133 1.28607 3.96801 4.53262
+3    0.225381 0.0346741 0.017337 99.7226
+4    0.208153 0.0173461 99.7745     0
+5    99.8785 0.0173641 0.0694565 0.0347283
+6    99.8785 0.0347283 0.0520924 0.0347283
+7    0.0173732 0.0347464 0.0173732 99.9305
+8        0 0.0347584 70.073 29.8922
+9    20.0452 24.0264 37.4652 18.4631
+10   0.0173581 49.7309 0.138865 50.1128
+11   99.9305 0.0173732 0.0347464 0.0173732
+12   0.0841633 0.0841633 19.1471 80.6845
+13   0.121338 0.104004 0.0693361 99.7053
+14   0.0694444 99.8611 0.0347222 0.0347222
+15   99.7918 0.0693963 0.0693963 0.0693963
+16   8.92104 0.678119 3.72212 86.6787
+17   40.2886 5.26865 41.7666 12.6761
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 539
+CC  accession: M03540_2.00
+CC  AC: M03540_2.00
+CC  id: M03540_2.00
+CC  name: M03540_2.00
+CC  version: 
+CC  name: M03540_2.00
+CC  description: katgaatkgyattcatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 539
+XX
+//
+AC  M03541_2.00
+XX
+ID  M03541_2.00
+XX
+DE  aacaattkcagtgtt 
+P0       A     C     G     T
+1      100     0     0     0
+2      100     0     0     0
+3        0   100     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0 0.326797     0 99.6732
+8    5.06173 4.81481 37.6543 52.4691
+9        0 99.6732     0 0.326797
+10     100     0     0     0
+11       0     0 75.495 24.505
+12       0     0 0.651466 99.3485
+13       0     0   100     0
+14       0     0     0   100
+15   0.307692 4.30769 1.53846 93.8462
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 540
+CC  accession: M03541_2.00
+CC  AC: M03541_2.00
+CC  id: M03541_2.00
+CC  name: M03541_2.00
+CC  version: 
+CC  name: M03541_2.00
+CC  description: aacaattkcagtgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 540
+XX
+//
+AC  M03542_2.00
+XX
+ID  M03542_2.00
+XX
+DE  aacaataacattgtt 
+P0       A     C     G     T
+1    59.1105 17.0984 15.3713 8.41969
+2    93.0868 2.04984 1.44695 3.4164
+3        0   100     0     0
+4    99.1863 0.513919     0 0.299786
+5    87.6941 12.3059     0     0
+6    0.558179     0     0 99.4418
+7    62.7612 0.186567 13.3955 23.6567
+8    33.7505 21.9249 22.6586 21.6659
+9    0.166389 96.3394 2.12146 1.37271
+10     100     0     0     0
+11       0     0 9.53125 90.4687
+12       0 0.600858     0 99.3991
+13       0     0   100     0
+14   2.91191 9.58349 2.13785 85.3668
+15   9.58963 14.2117 11.4471 64.7516
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 541
+CC  accession: M03542_2.00
+CC  AC: M03542_2.00
+CC  id: M03542_2.00
+CC  name: M03542_2.00
+CC  version: 
+CC  name: M03542_2.00
+CC  description: aacaataacattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 541
+XX
+//
+AC  M03543_2.00
+XX
+ID  M03543_2.00
+XX
+DE  atgaatwmcattcat 
+P0       A     C     G     T
+1    44.1043 22.5455 16.0931 17.2571
+2    0.84096 0.84096 0.593619 97.7245
+3    0.850213 0.350088 98.7997     0
+4      100     0     0     0
+5    91.628 8.37199     0     0
+6        0     0     0   100
+7    59.6245 0.668968 14.0483 25.6582
+8    38.6231 25.9428 19.1091 16.325
+9    0.675507 98.8491 0.225169 0.250188
+10     100     0     0     0
+11       0     0 5.90617 94.0938
+12       0     0     0   100
+13       0 99.1717     0 0.828313
+14   95.5271 0.0725338 0.580271 3.82012
+15   13.3384 20.8302 15.7428 50.0886
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 542
+CC  accession: M03543_2.00
+CC  AC: M03543_2.00
+CC  id: M03543_2.00
+CC  name: M03543_2.00
+CC  version: 
+CC  name: M03543_2.00
+CC  description: atgaatwmcattcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 542
+XX
+//
+AC  M03544_2.00
+XX
+ID  M03544_2.00
+XX
+DE  tcaatwmcattga 
+P0       A     C     G     T
+1    5.50633     0     0 94.4937
+2        0 99.4008     0 0.599201
+3      100     0     0     0
+4    89.7775 10.2225     0     0
+5    0.863214     0     0 99.1368
+6    56.0758 0.501672 16.2765 27.146
+7    31.8821 30.2746 19.7589 18.0844
+8    0.390371 97.1373     0 2.47235
+9      100     0     0     0
+10       0     0 2.16252 97.8375
+11       0 0.863214     0 99.1368
+12   1.50327 0.915033 97.5817     0
+13   82.9444 6.72222     3 7.33333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 543
+CC  accession: M03544_2.00
+CC  AC: M03544_2.00
+CC  id: M03544_2.00
+CC  name: M03544_2.00
+CC  version: 
+CC  name: M03544_2.00
+CC  description: tcaatwmcattga 
+CC  transfac_consensus: 
+CC  matrix.nb: 543
+XX
+//
+AC  M03545_2.00
+XX
+ID  M03545_2.00
+XX
+DE  tgaatrdyyattca 
+P0       A     C     G     T
+1        0     0 2.57009 97.4299
+2        0     0   100     0
+3    97.2028 2.7972     0     0
+4    96.7517 3.24826     0     0
+5        0 3.24826     0 96.7517
+6    37.1765     0 42.8235    20
+7    35.0962 10.3365 27.6442 26.9231
+8    22.3022 33.5731 13.1894 30.9353
+9    23.9808 29.2566 1.19904 45.5635
+10   93.9189     0 6.08108     0
+11       0     0 2.11268 97.8873
+12       0     0     0   100
+13       0   100     0     0
+14   95.6422 2.52294 1.83486     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 544
+CC  accession: M03545_2.00
+CC  AC: M03545_2.00
+CC  id: M03545_2.00
+CC  name: M03545_2.00
+CC  version: 
+CC  name: M03545_2.00
+CC  description: tgaatrdyyattca 
+CC  transfac_consensus: 
+CC  matrix.nb: 544
+XX
+//
+AC  M03776_2.00
+XX
+ID  M03776_2.00
+XX
+DE  taaybbvatta 
+P0       A     C     G     T
+1    6.1428 8.06196     0 85.7952
+2    85.9706 0.272562 7.59388 6.16293
+3    95.7258 0.699713 3.57444     0
+4        0 25.2477 3.82824 70.924
+5    5.50467 27.858 26.9332 39.7041
+6    24.4495 25.1806 25.1894 25.1806
+7    38.362 26.2175 29.4936 5.9269
+8    69.9098 5.68852 23.1557 1.2459
+9        0 3.63235     0 96.3676
+10   8.46309 6.94331     0 84.5936
+11   84.3799     0 8.64977 6.97035
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 545
+CC  accession: M03776_2.00
+CC  AC: M03776_2.00
+CC  id: M03776_2.00
+CC  name: M03776_2.00
+CC  version: 
+CC  name: M03776_2.00
+CC  description: taaybbvatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 545
+XX
+//
+AC  M03793_2.00
+XX
+ID  M03793_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    15.1997 43.4754 22.4266 18.8983
+2    4.38572 1.71822 1.18723 92.7088
+3    83.5417 3.84147 10.6464 1.97039
+4    99.8435     0 0.156452     0
+5    0.20748 0.09044 1.24488 98.4572
+6    2.67481 5.70065 5.00562 86.6189
+7    43.2479 0.624489 54.2832 1.84448
+8    24.7231 26.4711 35.3677 13.4382
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 546
+CC  accession: M03793_2.00
+CC  AC: M03793_2.00
+CC  id: M03793_2.00
+CC  name: M03793_2.00
+CC  version: 
+CC  name: M03793_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 546
+XX
+//
+AC  M03813_2.00
+XX
+ID  M03813_2.00
+XX
+DE  wtaatytaattaw 
+P0       A     C     G     T
+1    34.1505 17.0327 12.1382 36.6786
+2    1.09079 0.234939 0.100688 98.5736
+3    98.7725 0.0336304 0.437195 0.756684
+4    99.847 0.0594935 0.0764916 0.0169981
+5    0.676579 0.860341 0.334113 98.129
+6    0.290561 32.5096 0.76376 66.4361
+7    11.4987 1.61592 5.40953 81.4758
+8    98.9139 0.168393 0.724089 0.193652
+9    99.8385 0.025495 0.0509901 0.0849834
+10       0 0.00851064 0.00851064 99.983
+11   0.262179 0.363667 0.0169147 99.3572
+12   98.6978 0.117617 0.142821 1.04175
+13   37.7713 11.7647 19.3071 31.1569
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 547
+CC  accession: M03813_2.00
+CC  AC: M03813_2.00
+CC  id: M03813_2.00
+CC  name: M03813_2.00
+CC  version: 
+CC  name: M03813_2.00
+CC  description: wtaatytaattaw 
+CC  transfac_consensus: 
+CC  matrix.nb: 547
+XX
+//
+AC  M03826_2.00
+XX
+ID  M03826_2.00
+XX
+DE  sttaattary 
+P0       A     C     G     T
+1    24.3451 25.5337 37.8775 12.2437
+2    4.82899 7.3626 9.19807 78.6103
+3    0.190304 9.44146 0.102288 90.2659
+4    99.9631 0.0368809     0     0
+5    99.9763     0 0.0237123     0
+6        0 0.0263463     0 99.9737
+7        0     0 0.367589 99.6324
+8    80.1733 0.316924 18.4407 1.06909
+9    38.4777 6.66431 50.9438 3.91422
+10   10.4517 34.6123 22.2158 32.7202
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 548
+CC  accession: M03826_2.00
+CC  AC: M03826_2.00
+CC  id: M03826_2.00
+CC  name: M03826_2.00
+CC  version: 
+CC  name: M03826_2.00
+CC  description: sttaattary 
+CC  transfac_consensus: 
+CC  matrix.nb: 548
+XX
+//
+AC  M03827_2.00
+XX
+ID  M03827_2.00
+XX
+DE  gtyaattrry 
+P0       A     C     G     T
+1    24.7582 21.8571 41.007 12.3776
+2    10.3524 11.0007 17.0415 61.6055
+3    4.19375 26.0365 2.34264 67.4271
+4    91.2678 2.36613 5.53707 0.828952
+5    97.3865 0.704185 1.37402 0.535295
+6    0.862703 1.65752 1.25021 96.2296
+7    1.6936 5.24087 5.23313 87.8324
+8    60.4324 2.48863 33.5104 3.56864
+9    32.8833 10.7426 50.3302 6.04393
+10   12.9214 36.1218 18.7002 32.2565
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 549
+CC  accession: M03827_2.00
+CC  AC: M03827_2.00
+CC  id: M03827_2.00
+CC  name: M03827_2.00
+CC  version: 
+CC  name: M03827_2.00
+CC  description: gtyaattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 549
+XX
+//
+AC  M03828_2.00
+XX
+ID  M03828_2.00
+XX
+DE  ryyaattrrcgyyaattrry 
+P0       A     C     G     T
+1    25.4325 20.2206 43.6202 10.7266
+2    9.97945 31.9424 16.6495 41.4286
+3    5.65241 29.6476 3.07396 61.626
+4    80.0812 5.29988 9.42316 5.19575
+5    94.0114 2.05057 2.03891 1.8991
+6    4.45202 3.54302 4.97882 87.0261
+7    4.63489 7.94118 8.26572 79.1582
+8    51.0873 3.4272 39.9739 5.51157
+9    36.3484 19.9141 34.3046 9.43297
+10   15.2593 37.9214 24.6933 22.126
+11   22.466 24.2068 38.082 15.2452
+12   9.77657 33.9767 19.8364 36.4104
+13   5.42667 39.3484 3.1975 52.0274
+14   78.1935 8.58982 8.59988 4.61678
+15   86.782 4.59131 3.73687 4.88985
+16   2.28172 1.88591 1.73458 94.0978
+17   5.2144 9.82515 5.22481 79.7356
+18   61.7152 2.98741 29.5983 5.69905
+19   41.6135 16.2482 32.2906 9.84771
+20   10.9632 42.9762 20.3355 25.7251
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 550
+CC  accession: M03828_2.00
+CC  AC: M03828_2.00
+CC  id: M03828_2.00
+CC  name: M03828_2.00
+CC  version: 
+CC  name: M03828_2.00
+CC  description: ryyaattrrcgyyaattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 550
+XX
+//
+AC  M03834_2.00
+XX
+ID  M03834_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    11.2047 39.5646 24.8031 24.4276
+2    5.37357     0 1.66098 92.9655
+3    85.3713 5.88086 8.077 0.670847
+4    99.8052     0 0.194829     0
+5    0.281901 0.83774 2.60719 96.2732
+6    2.67324 10.1324 8.94145 78.2529
+7    37.5707 1.88252 56.8646 3.68224
+8    23.5852 26.9467 36.0568 13.4113
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 551
+CC  accession: M03834_2.00
+CC  AC: M03834_2.00
+CC  id: M03834_2.00
+CC  name: M03834_2.00
+CC  version: 
+CC  name: M03834_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 551
+XX
+//
+AC  M03835_2.00
+XX
+ID  M03835_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    10.6799 31.0319 12.0443 46.2439
+2    4.5151     0 0.914259 94.5706
+3    95.6519 1.67016 2.67795     0
+4      100     0     0     0
+5        0     0     0   100
+6    0.243574 3.22843 3.0404 93.4876
+7    66.8052 1.45247 26.9307 4.81159
+8    43.0775 15.671 29.2097 12.0418
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 552
+CC  accession: M03835_2.00
+CC  AC: M03835_2.00
+CC  id: M03835_2.00
+CC  name: M03835_2.00
+CC  version: 
+CC  name: M03835_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 552
+XX
+//
+AC  M03836_2.00
+XX
+ID  M03836_2.00
+XX
+DE  sstaattrcs 
+P0       A     C     G     T
+1    9.17686 41.4349 38.5706 10.8176
+2    11.291 36.0535 41.6019 11.0535
+3    3.61565 7.3056     0 89.0788
+4    76.5319 3.10638 17.617 2.74468
+5      100     0     0     0
+6    1.59116 4.97238 13.9448 79.4917
+7    2.26576 23.7479 12.7087 61.2777
+8    33.857 3.59116 62.1029 0.448895
+9    20.4116 42.3804 24.7219 12.4861
+10   20.8229 28.6906 30.7756 19.7109
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 553
+CC  accession: M03836_2.00
+CC  AC: M03836_2.00
+CC  id: M03836_2.00
+CC  name: M03836_2.00
+CC  version: 
+CC  name: M03836_2.00
+CC  description: sstaattrcs 
+CC  transfac_consensus: 
+CC  matrix.nb: 553
+XX
+//
+AC  M03840_2.00
+XX
+ID  M03840_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    11.8731 40.46 28.6152 19.0517
+2    3.07618 0.136426 3.41944 93.368
+3    87.1007 4.83209 7.84137 0.225799
+4    99.9341     0     0 0.0659444
+5    0.045104 1.07798 3.18434 95.6926
+6    2.60395 16.2251 7.41204 73.7589
+7    36.2136 2.94419 58.4333 2.40889
+8    18.9055 29.3316 43.9338 7.829
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 554
+CC  accession: M03840_2.00
+CC  AC: M03840_2.00
+CC  id: M03840_2.00
+CC  name: M03840_2.00
+CC  version: 
+CC  name: M03840_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 554
+XX
+//
+AC  M03841_2.00
+XX
+ID  M03841_2.00
+XX
+DE  staattcsattas 
+P0       A     C     G     T
+1    17.3635 29.8684 30.7395 22.0286
+2    4.1434 2.10773 0.666547 93.0823
+3    77.4663 0.134933 20.06 2.33883
+4      100     0     0     0
+5        0 8.01327 1.78073 90.206
+6    5.63102 15.6392 18.7391 59.9907
+7    22.7792 38.1846 24.9661 14.0701
+8    15.1567 30.9785 52.0709 1.79381
+9    79.9103 3.64986 11.6455 4.79431
+10   0.418569 0.665906 0.608828 98.3067
+11   13.3634 8.31832 0.735736 77.5826
+12   92.1034     0 1.4795 6.41711
+13   17.3215 26.766 36.6944 19.2181
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 555
+CC  accession: M03841_2.00
+CC  AC: M03841_2.00
+CC  id: M03841_2.00
+CC  name: M03841_2.00
+CC  version: 
+CC  name: M03841_2.00
+CC  description: staattcsattas 
+CC  transfac_consensus: 
+CC  matrix.nb: 555
+XX
+//
+AC  M03845_2.00
+XX
+ID  M03845_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    19.2414 32.774 21.4547 26.5299
+2    10.1675 0.149102 5.54533 84.1381
+3    87.9581 4.71595 7.32597     0
+4      100     0     0     0
+5        0     0 1.32083 98.6792
+6    3.39644 8.7724 8.88254 78.9486
+7    37.6385 6.11868 46.7942 9.44862
+8    26.0227 23.3269 32.7942 17.8562
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 556
+CC  accession: M03845_2.00
+CC  AC: M03845_2.00
+CC  id: M03845_2.00
+CC  name: M03845_2.00
+CC  version: 
+CC  name: M03845_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 556
+XX
+//
+AC  M03846_2.00
+XX
+ID  M03846_2.00
+XX
+DE  taattwaatta 
+P0       A     C     G     T
+1    0.377929 0.151172 0.0377929 99.4331
+2    99.5083 0.075643 0.151286 0.26475
+3    99.5836 0.189251 0.0378501 0.189251
+4    0.151057 0.453172 0.0377644 99.358
+5        0 3.05344 1.30862 95.6379
+6    35.6899 14.2151 15.6214 34.4736
+7    96.4443 0.879765 2.60264 0.0733138
+8    99.5836     0 0.340651 0.0757002
+9    0.151114 0.302229 0.151114 99.3955
+10   0.339495 0.377216 0.0377216 99.2456
+11   99.7725     0 0.227531     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 557
+CC  accession: M03846_2.00
+CC  AC: M03846_2.00
+CC  id: M03846_2.00
+CC  name: M03846_2.00
+CC  version: 
+CC  name: M03846_2.00
+CC  description: taattwaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 557
+XX
+//
+AC  M03849_2.00
+XX
+ID  M03849_2.00
+XX
+DE  staattmsattas 
+P0       A     C     G     T
+1    20.055 26.886 35.5436 17.5153
+2    9.96835 8.59375 2.38331 79.0546
+3    73.5216 1.69227 17.079 7.70716
+4    99.651 0.0249314 0.324109     0
+5    1.68891 11.6243 3.34654 83.3403
+6    6.43568 13.7469 19.9955 59.8219
+7    28.0746 35.1182 19.2669 17.5403
+8    17.0598 27.9131 51.0962 3.93097
+9    76.7842 2.17078 16.8187 4.2263
+10   0.13629 0.520382 0.297361 99.046
+11   5.94849 10.6398 1.70687 81.7048
+12   76.9912 2.37889 8.22498 12.4049
+13   17.4506 28.2087 32.049 22.2917
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 558
+CC  accession: M03849_2.00
+CC  AC: M03849_2.00
+CC  id: M03849_2.00
+CC  name: M03849_2.00
+CC  version: 
+CC  name: M03849_2.00
+CC  description: staattmsattas 
+CC  transfac_consensus: 
+CC  matrix.nb: 558
+XX
+//
+AC  M03851_2.00
+XX
+ID  M03851_2.00
+XX
+DE  btaattrr 
+P0       A     C     G     T
+1    16.3468 31.4662 25.0555 27.1315
+2    6.10362 1.66785 1.63236 90.5962
+3    84.761 4.52634 9.55069 1.16202
+4      100     0     0     0
+5        0     0 2.52005 97.48
+6    2.37382 8.15868 7.57057 81.8969
+7    34.9272 5.45161 53.5343 6.08686
+8    32.4585 24.1285 30.0692 13.3438
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 559
+CC  accession: M03851_2.00
+CC  AC: M03851_2.00
+CC  id: M03851_2.00
+CC  name: M03851_2.00
+CC  version: 
+CC  name: M03851_2.00
+CC  description: btaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 559
+XX
+//
+AC  M03852_2.00
+XX
+ID  M03852_2.00
+XX
+DE  taattdaatta 
+P0       A     C     G     T
+1    2.28055 5.20654 1.97935 90.5336
+2    84.2611     0 10.1322 5.60673
+3    99.6212 0.378788     0     0
+4        0 4.49294 5.47711 90.03
+5    5.51069 18.4798 17.7197 58.2898
+6    26.0456 20.5323 26.7586 26.6635
+7    55.3919 20.0475 21.3777 3.1829
+8    85.6329 4.0293 4.3549 5.98291
+9        0 0.189753     0 99.8102
+10   3.59596 9.89899 1.49495 85.0101
+11   92.3617 0.0877963 4.8288 2.72169
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 560
+CC  accession: M03852_2.00
+CC  AC: M03852_2.00
+CC  id: M03852_2.00
+CC  name: M03852_2.00
+CC  version: 
+CC  name: M03852_2.00
+CC  description: taattdaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 560
+XX
+//
+AC  M03855_2.00
+XX
+ID  M03855_2.00
+XX
+DE  taattavatta 
+P0       A     C     G     T
+1    6.60224 4.14778 0.624305 88.6257
+2    92.8834 0.206149 3.16393 3.74653
+3    99.894 0.0385579 0.0674764     0
+4    0.479528 3.23681 0.719292 95.5644
+5    3.92448 4.66568 10.5563 80.8536
+6    54.3042 14.9102 18.8574 11.9282
+7    26.1023 27.6269 43.6429 2.62792
+8    81.9663 0.268924 14.419 3.34572
+9    0.00964134 0.0482067 0.028924 99.9132
+10   1.88595 5.24669 0.24133 92.626
+11   82.1938 1.49905 5.73445 10.5727
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 561
+CC  accession: M03855_2.00
+CC  AC: M03855_2.00
+CC  id: M03855_2.00
+CC  name: M03855_2.00
+CC  version: 
+CC  name: M03855_2.00
+CC  description: taattavatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 561
+XX
+//
+AC  M03856_2.00
+XX
+ID  M03856_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    8.44336 4.90721 1.26027 85.3892
+2    89.9222 0.529898 3.85513 5.69276
+3    99.8435 0.0269891 0.0971607 0.0323869
+4    1.60279 3.48872 1.38538 93.5231
+5    6.1595 4.74649 8.17621 80.9178
+6    59.1209 11.3917 15.2519 14.2355
+7    37.4857 16.7273 39.7896 5.99738
+8    77.5263 1.88189 12.972 7.61977
+9    0.12922 0.156141 0.123836 99.5908
+10   5.99897 6.51211 1.20353 86.2854
+11   74.1363 3.03407 7.45491 15.3747
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 562
+CC  accession: M03856_2.00
+CC  AC: M03856_2.00
+CC  id: M03856_2.00
+CC  name: M03856_2.00
+CC  version: 
+CC  name: M03856_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 562
+XX
+//
+AC  M03865_2.00
+XX
+ID  M03865_2.00
+XX
+DE  sstaattrsg 
+P0       A     C     G     T
+1    10.7186 41.6766 38.503 9.1018
+2    18.9934 40.0839 29.6585 11.2642
+3    1.21382 15.5462 5.32213 77.9178
+4    60.868 14.5879 18.3078 6.23632
+5    97.4314     0 2.56859     0
+6    1.35943 2.93638 4.94834 90.7558
+7    3.22917 22.2917 16.5278 57.9514
+8    39.6316 0.831848 59.5365     0
+9    13.2579 52.4348 25.3534 8.95382
+10   22.4685 17.136 44.7573 15.6381
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 563
+CC  accession: M03865_2.00
+CC  AC: M03865_2.00
+CC  id: M03865_2.00
+CC  name: M03865_2.00
+CC  version: 
+CC  name: M03865_2.00
+CC  description: sstaattrsg 
+CC  transfac_consensus: 
+CC  matrix.nb: 563
+XX
+//
+AC  M03866_2.00
+XX
+ID  M03866_2.00
+XX
+DE  ytaattrr 
+P0       A     C     G     T
+1    15.5362 38.966 17.563 27.9348
+2    1.98009     0 1.74565 96.2743
+3    97.0055 1.09932 1.89519     0
+4      100     0     0     0
+5        0     0 0.406686 99.5933
+6        0 2.04967 2.21644 95.7339
+7    51.4895 1.95005 44.3698 2.19066
+8    26.4681 17.3288 46.8353 9.3678
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 564
+CC  accession: M03866_2.00
+CC  AC: M03866_2.00
+CC  id: M03866_2.00
+CC  name: M03866_2.00
+CC  version: 
+CC  name: M03866_2.00
+CC  description: ytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 564
+XX
+//
+AC  M03867_2.00
+XX
+ID  M03867_2.00
+XX
+DE  taatytaatta 
+P0       A     C     G     T
+1    4.29772 2.83283 0.624731 92.2447
+2    76.7246 2.36517 4.43469 16.4755
+3    95.8263 0.79445 3.0771 0.302115
+4    4.51706 7.80394 5.37242 82.3066
+5    1.30072 51.0979 6.43795 41.1635
+6    7.01857 10.2534 8.56008 74.1679
+7    93.2085 2.96038 2.28559 1.54549
+8    97.8519 1.35969 0.731261 0.0571298
+9    0.13934 0.394798 0.0232234 99.4426
+10   2.65923 5.02895 0.482522 91.8293
+11   95.1556 0.188889 1.85556   2.8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 565
+CC  accession: M03867_2.00
+CC  AC: M03867_2.00
+CC  id: M03867_2.00
+CC  name: M03867_2.00
+CC  version: 
+CC  name: M03867_2.00
+CC  description: taatytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 565
+XX
+//
+AC  M03868_2.00
+XX
+ID  M03868_2.00
+XX
+DE  taattrgttaattr 
+P0       A     C     G     T
+1    2.58964 2.76892 0.139442 94.502
+2    86.3802 2.4217 6.51857 4.67953
+3    97.976 1.05328 0.764147 0.206526
+4    1.72251 2.55537 5.92466 89.7975
+5    5.76923 5.83387 11.7324 76.6645
+6    34.9064 4.25117 57.5858 3.25663
+7    21.4587 21.3322 46.4376 10.7715
+8    20.295 19.1149 13.9094 46.6807
+9    3.46647 4.67219 2.48681 89.3745
+10   78.3744 6.14571 7.78127 7.69866
+11   97.3328 1.0874 1.23102 0.348789
+12   5.13493 1.38681 4.57271 88.9055
+13   5.55211 9.69293 11.1818 73.5732
+14   41.6403 5.24984 46.6161 6.49378
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 566
+CC  accession: M03868_2.00
+CC  AC: M03868_2.00
+CC  id: M03868_2.00
+CC  name: M03868_2.00
+CC  version: 
+CC  name: M03868_2.00
+CC  description: taattrgttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 566
+XX
+//
+AC  M03874_2.00
+XX
+ID  M03874_2.00
+XX
+DE  staaybrvrttas 
+P0       A     C     G     T
+1    22.6232 26.222 29.3991 21.7558
+2    7.6917 7.73925 1.87438 82.6947
+3    84.4209 1.92969 9.97613 3.67329
+4    96.9793 0.938749 2.0448 0.0371782
+5    1.889 26.3559 4.03048 67.7246
+6    8.40521 27.6069 28.4263 35.5616
+7    26.2891 24.3675 25.1917 24.1518
+8    35.1831 28.2202 28.6371 7.95956
+9    67.1037 3.97333 26.2696 2.65336
+10   0.145274 1.35433 0.707625 97.7928
+11   4.32981 10.2437 0.666125 84.7604
+12   82.9478 1.76485 7.2303 8.05708
+13   22.7334 27.4535 26.1932 23.6199
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 567
+CC  accession: M03874_2.00
+CC  AC: M03874_2.00
+CC  id: M03874_2.00
+CC  name: M03874_2.00
+CC  version: 
+CC  name: M03874_2.00
+CC  description: staaybrvrttas 
+CC  transfac_consensus: 
+CC  matrix.nb: 567
+XX
+//
+AC  M03875_2.00
+XX
+ID  M03875_2.00
+XX
+DE  taattrsrtta 
+P0       A     C     G     T
+1    9.95933 5.18443 0.378238 84.478
+2    84.1811 0.218211 8.73976 6.86088
+3      100     0     0     0
+4    0.795578 10.7637 1.55606 86.8847
+5    7.44797 16.1289 11.4857 64.9375
+6    34.1705 15.7689 36.2342 13.8264
+7    14.7958 41.3245 39.3342 4.54545
+8    69.388 1.14693 25.7767 3.68839
+9        0 0.130996 0.0940481 99.775
+10   6.27473 9.20859 0.556812 83.9599
+11   80.6128 1.06651 5.16975 13.151
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 568
+CC  accession: M03875_2.00
+CC  AC: M03875_2.00
+CC  id: M03875_2.00
+CC  name: M03875_2.00
+CC  version: 
+CC  name: M03875_2.00
+CC  description: taattrsrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 568
+XX
+//
+AC  M03876_2.00
+XX
+ID  M03876_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    6.6626 1.75804 1.01536 90.564
+2    88.3545 1.03609 6.37404 4.23536
+3    99.5583 0.0946596 0.260314 0.0867713
+4    0.945382 1.39702 1.0449 96.6127
+5    9.71489 3.54565 10.179 76.5605
+6    53.716 20.9017 8.60867 16.7736
+7    53.3246 15.5186 25.5543 5.60246
+8    90.0086 3.2556 3.89745 2.8384
+9    0.387252 1.45219 0.410487 97.7501
+10   10.676 3.00817 1.75868 84.5571
+11   92.3161 1.04963 1.20323 5.43101
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 569
+CC  accession: M03876_2.00
+CC  AC: M03876_2.00
+CC  id: M03876_2.00
+CC  name: M03876_2.00
+CC  version: 
+CC  name: M03876_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 569
+XX
+//
+AC  M03877_2.00
+XX
+ID  M03877_2.00
+XX
+DE  taattrrwtaattr 
+P0       A     C     G     T
+1    7.60321 2.89159 1.40246 88.1027
+2    83.7603 3.25094 6.47191 6.51685
+3    96.513 0.681857 1.00121 1.8039
+4    2.41429 1.59343 6.00354 89.9887
+5    13.6006 4.39298 11.6307 70.3757
+6    37.4267 3.80709 54.9178 3.84838
+7    28.4322 22.7529 35.7839 13.031
+8    26.4443 16.1241 13.7095 43.7221
+9    5.94612 4.28874 1.93229 87.8328
+10   70.3935 7.22065 9.39251 12.9934
+11   97.3025 0.931082 1.13122 0.635225
+12   14.0105 3.10634 3.39778 79.4854
+13   9.70653 15.284 14.576 60.4334
+14   42.1481 13.5486 26.65 17.6534
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 570
+CC  accession: M03877_2.00
+CC  AC: M03877_2.00
+CC  id: M03877_2.00
+CC  name: M03877_2.00
+CC  version: 
+CC  name: M03877_2.00
+CC  description: taattrrwtaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 570
+XX
+//
+AC  M03878_2.00
+XX
+ID  M03878_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    3.01984 1.85505     0 95.1251
+2    95.2895     0 2.98185 1.72861
+3      100     0     0     0
+4        0 0.931264 1.28603 97.7827
+5    2.97595 2.24215 4.89197 89.8899
+6    52.0399 19.8096 15.7298 12.4207
+7    50.9631 13.1598 32.4217 3.45537
+8    72.6524 13.5091 7.05107 6.78748
+9    0.968829 3.83319 2.31676 92.8812
+10   22.41 5.6651 2.9108 69.0141
+11   90.2948 3.23505 0.819001 5.65111
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 571
+CC  accession: M03878_2.00
+CC  AC: M03878_2.00
+CC  id: M03878_2.00
+CC  name: M03878_2.00
+CC  version: 
+CC  name: M03878_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 571
+XX
+//
+AC  M03879_2.00
+XX
+ID  M03879_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    18.4835 33.8139 26.1899 21.5126
+2    3.11126 0.829026 0.994187 95.0655
+3    88.9497 4.26279 5.66064 1.12691
+4      100     0     0     0
+5    0.0215223     0 4.5907 95.3878
+6    4.6893 2.42979 6.13954 86.7414
+7    32.983 1.51042 64.4589 1.04762
+8    19.3028 27.5305 43.5627 9.60402
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 572
+CC  accession: M03879_2.00
+CC  AC: M03879_2.00
+CC  id: M03879_2.00
+CC  name: M03879_2.00
+CC  version: 
+CC  name: M03879_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 572
+XX
+//
+AC  M03880_2.00
+XX
+ID  M03880_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    20.7372 34.4182 22.2576 22.587
+2    3.55054 1.92107 1.18233 93.3461
+3    88.8773 5.46207 4.6224 1.03823
+4    99.3174     0 0.682575     0
+5    0.121116 0.539519 2.41315 96.9262
+6    3.46846 3.25766 7.6277 85.6462
+7    37.3285 1.70698 59.3051 1.65941
+8    19.9875 25.7147 40.7115 13.5863
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 573
+CC  accession: M03880_2.00
+CC  AC: M03880_2.00
+CC  id: M03880_2.00
+CC  name: M03880_2.00
+CC  version: 
+CC  name: M03880_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 573
+XX
+//
+AC  M03881_2.00
+XX
+ID  M03881_2.00
+XX
+DE  taatkrsgtaattr 
+P0       A     C     G     T
+1    17.8716 17.1676 7.28405 57.6767
+2    58.0065 6.34532 23.6111 12.037
+3    92.8105 1.04575 3.13725 3.00654
+4    6.26539 24.7332 10.725 58.2763
+5    17.7934 15.2582 33.0516 33.8967
+6    31.0183 22.4777 34.1624 12.3416
+7    13.2802 31.0652 40.5443 15.1103
+8    22.723 23.3803 31.1268 22.77
+9    8.3779 14.3672 1.31907 75.9358
+10   67.0655 6.3602 19.0176 7.55668
+11   99.0698     0 0.930233     0
+12   4.13043 4.92754 13.7681 77.1739
+13   12.1824 11.2875 15.0404 61.4896
+14   37.0364 10.7834 38.5381 13.6421
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 574
+CC  accession: M03881_2.00
+CC  AC: M03881_2.00
+CC  id: M03881_2.00
+CC  name: M03881_2.00
+CC  version: 
+CC  name: M03881_2.00
+CC  description: taatkrsgtaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 574
+XX
+//
+AC  M03915_2.00
+XX
+ID  M03915_2.00
+XX
+DE  rccwtatawggy 
+P0       A     C     G     T
+1    29.3414 18.2224 28.2991 24.1371
+2    5.55033 90.8781 1.70954 1.862
+3    0.104463 88.6831 0.0379867 11.1744
+4    51.5351 6.53042 11.133 30.8015
+5    20.9202 0.93846 0.586884 77.5545
+6    77.443 1.55356 7.94748 13.056
+7    13.2517 8.28162 1.54045 76.9262
+8    77.4045 0.54983 1.00572 21.04
+9    30.2816 10.8018 6.49827 52.4184
+10   10.8124 0.0285959 89.0128 0.146157
+11   1.69905 1.73486 91.1858 5.38033
+12   23.449 27.9289 17.9589 30.6632
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 575
+CC  accession: M03915_2.00
+CC  AC: M03915_2.00
+CC  id: M03915_2.00
+CC  name: M03915_2.00
+CC  version: 
+CC  name: M03915_2.00
+CC  description: rccwtatawggy 
+CC  transfac_consensus: 
+CC  matrix.nb: 575
+XX
+//
+AC  M03916_2.00
+XX
+ID  M03916_2.00
+XX
+DE  rccatayatggy 
+P0       A     C     G     T
+1    41.0329 16.0563 27.0423 15.8685
+2    0.457944 99.5421     0     0
+3    0.0468735 99.85 0.103122     0
+4    63.2783 10.4622 11.5673 14.6923
+5    1.1141     0     0 98.8859
+6    99.9343 0.0562957 0.00938262     0
+7    17.9901 31.4965 1.2173 49.2961
+8    95.1917     0     0 4.80829
+9    24.8141 0.463028     0 74.7229
+10       0 0.0375059 99.8687 0.0937647
+11       0     0   100     0
+12   21.0047 28.0188 12.2629 38.7136
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 576
+CC  accession: M03916_2.00
+CC  AC: M03916_2.00
+CC  id: M03916_2.00
+CC  name: M03916_2.00
+CC  version: 
+CC  name: M03916_2.00
+CC  description: rccatayatggy 
+CC  transfac_consensus: 
+CC  matrix.nb: 576
+XX
+//
+AC  M03959_2.00
+XX
+ID  M03959_2.00
+XX
+DE  cgttrcyatrgyaacg 
+P0       A     C     G     T
+1    13.7039 39.2279 23.6981 23.3701
+2    10.7102 0.404924 88.1762 0.708617
+3    1.43611 5.03416 2.15029 91.3794
+4    21.6855 17.5101 1.06734 59.737
+5    33.4099 4.96705 48.2244 13.3986
+6    0.627259 72.5069 4.71685 22.149
+7    0.0420905 71.859 1.07682 27.0221
+8    87.0181 1.33956 4.29948 7.3429
+9    7.20045 4.35737 1.42343 87.0187
+10   27.0857 1.1089 71.7704 0.0349809
+11   21.8743 4.87398 72.6056 0.646077
+12   12.819 48.073 5.08821 34.0198
+13   59.6241 1.3112 17.2113 21.8534
+14   91.3883 2.12387 4.89885 1.58902
+15   0.60165 88.3247 0.402455 10.6712
+16   23.3088 22.7369 40.039 13.9152
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 577
+CC  accession: M03959_2.00
+CC  AC: M03959_2.00
+CC  id: M03959_2.00
+CC  name: M03959_2.00
+CC  version: 
+CC  name: M03959_2.00
+CC  description: cgttrcyatrgyaacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 577
+XX
+//
+AC  M03960_2.00
+XX
+ID  M03960_2.00
+XX
+DE  gttgctargcaac 
+P0       A     C     G     T
+1    1.42813     0 98.5098 0.0620925
+2    0.153186 2.26716 0.367647 97.212
+3    1.76454 10.7251 0.027571 87.4828
+4    7.85653 1.13863 90.3217 0.683177
+5    0.0628141 99.6545 0.0628141 0.219849
+6    0.0274424 12.6235 0.274424 87.0746
+7    93.351 0.794351 0.617829 5.23683
+8    36.0886 9.72447 49.6218 4.5651
+9    0.313972 0.0627943 99.6232     0
+10   1.34246 83.522 2.3164 12.8192
+11   85.1127 0.26824 11.9635 2.65558
+12   95.5435 1.11412 2.83047 0.511894
+13   0.876133 95.861 0.60423 2.65861
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 578
+CC  accession: M03960_2.00
+CC  AC: M03960_2.00
+CC  id: M03960_2.00
+CC  name: M03960_2.00
+CC  version: 
+CC  name: M03960_2.00
+CC  description: gttgctargcaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 578
+XX
+//
+AC  M03961_2.00
+XX
+ID  M03961_2.00
+XX
+DE  sgttrccatggyaacs 
+P0       A     C     G     T
+1    12.3516 39.2846 26.7244 21.6394
+2    6.10006 0.0877706 93.7683 0.0438853
+3    0.534373 1.77643 0.837666 96.8515
+4    19.9776 13.1317 0.459384 66.4314
+5    31.5919 3.36925 52.3803 12.6586
+6    0.223684 75.9079 3.03947 20.8289
+7    0.0129232 75.4459 0.504006 24.0372
+8    93.6128 0.427716 1.92472 4.03479
+9    4.07582 2.00941 0.498789 93.416
+10   24.2787 0.373519 75.322 0.0257599
+11   20.5415 3.02274 76.2124 0.22342
+12   12.0336 50.3236 3.45587 34.187
+13   66.415 0.293024 12.7691 20.5229
+14   96.7128 0.648789 1.91753 0.720877
+15   0.160514 93.0979 0.160514 6.58106
+16   21.3988 26.7766 39.4526 12.372
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 579
+CC  accession: M03961_2.00
+CC  AC: M03961_2.00
+CC  id: M03961_2.00
+CC  name: M03961_2.00
+CC  version: 
+CC  name: M03961_2.00
+CC  description: sgttrccatggyaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 579
+XX
+//
+AC  M03962_2.00
+XX
+ID  M03962_2.00
+XX
+DE  gttgcyawtrgcaac 
+P0       A     C     G     T
+1    5.60748 0.747664 90.6542 2.99065
+2    2.26876 0.17452 3.31588 94.2408
+3    13.6646 5.2795 2.01863 79.0373
+4    23.4421 3.11573 66.9139 6.52819
+5        0 85.3612 1.3308 13.308
+6    3.01811 70.0201     0 26.9618
+7    70.9419 19.0381 3.20641 6.81363
+8     43.2  12.6  11.6  32.6
+9    6.21242 3.00601 18.8377 71.9439
+10   31.7623 1.02459 63.1148 4.09836
+11   13.9147 0.927644 83.6735 1.48423
+12   6.79012 70.9877     0 22.2222
+13   72.4823 0.992908 5.24823 21.2766
+14   88.6477 9.34891 0.834725 1.16861
+15       0 95.2381     0 4.7619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 580
+CC  accession: M03962_2.00
+CC  AC: M03962_2.00
+CC  id: M03962_2.00
+CC  name: M03962_2.00
+CC  version: 
+CC  name: M03962_2.00
+CC  description: gttgcyawtrgcaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 580
+XX
+//
+AC  M03963_2.00
+XX
+ID  M03963_2.00
+XX
+DE  gttgctargcaac 
+P0       A     C     G     T
+1    1.67364     0 95.3975 2.92887
+2    1.36719     0     0 98.6328
+3    2.08729 5.31309     0 92.5996
+4    3.40426 2.34043 94.2553     0
+5    0.587084 98.4344 0.587084 0.391389
+6        0   2.8     0  97.2
+7    95.01 1.1976     0 3.79242
+8    37.1795 4.91453 56.1966 1.7094
+9        0     0   100     0
+10   2.74725 91.9414     0 5.31136
+11   91.4019 0.747664 3.36449 4.48598
+12   98.419 0.988142 0.592885     0
+13   0.767754 98.0806     0 1.15163
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 581
+CC  accession: M03963_2.00
+CC  AC: M03963_2.00
+CC  id: M03963_2.00
+CC  name: M03963_2.00
+CC  version: 
+CC  name: M03963_2.00
+CC  description: gttgctargcaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 581
+XX
+//
+AC  M03969_2.00
+XX
+ID  M03969_2.00
+XX
+DE  amcgaacaat 
+P0       A     C     G     T
+1    68.0498 12.0332 14.1079 5.80913
+2    25.2632 57.5439 5.96491 11.2281
+3    24.3902 57.1429 16.3763 2.09059
+4    11.1607 5.35714 73.2143 10.2679
+5    88.172 1.6129 3.76344 6.45161
+6    98.7952     0 1.20482     0
+7        0   100     0     0
+8    97.619 1.19048 1.19048     0
+9    71.5152 11.5152 12.7273 4.24242
+10   13.9394 4.24242 1.81818    80
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 582
+CC  accession: M03969_2.00
+CC  AC: M03969_2.00
+CC  id: M03969_2.00
+CC  name: M03969_2.00
+CC  version: 
+CC  name: M03969_2.00
+CC  description: amcgaacaat 
+CC  transfac_consensus: 
+CC  matrix.nb: 582
+XX
+//
+AC  M03970_2.00
+XX
+ID  M03970_2.00
+XX
+DE  daacaatrrcattgtth 
+P0       A     C     G     T
+1    29.4634 17.7561 25.2683 27.5122
+2    83.8103 5.47833 7.76778 2.94358
+3    97.0644 1.42045 0.852273 0.662879
+4    0.0968992 99.3217 0.0968992 0.484496
+5    98.7476 0.192678 0.0963391 0.963391
+6    93.0972 6.72116 0.181653     0
+7        0 0.097371 0.097371 99.8053
+8    49.6585 2.63415 30.7317 16.9756
+9    28.0976 24.878 31.122 15.9024
+10   0.851466 96.9726 0.37843 1.79754
+11   99.8053     0 0.097371 0.097371
+12   0.177305 0.265957 8.68794 90.8688
+13   0.194363 0.0971817 0.0971817 99.6113
+14   0.387973 0.0969932 99.418 0.0969932
+15   0.938086 1.68856 1.21951 96.1538
+16   3.3389 6.34391 4.75793 85.5593
+17   26.3415 27.3171 16.2927 30.0488
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 583
+CC  accession: M03970_2.00
+CC  AC: M03970_2.00
+CC  id: M03970_2.00
+CC  name: M03970_2.00
+CC  version: 
+CC  name: M03970_2.00
+CC  description: daacaatrrcattgtth 
+CC  transfac_consensus: 
+CC  matrix.nb: 583
+XX
+//
+AC  M03971_2.00
+XX
+ID  M03971_2.00
+XX
+DE  ktgttcggtg 
+P0       A     C     G     T
+1    3.98551 20.6522 40.942 34.4203
+2        0 7.61905 4.7619 87.619
+3        0     0   100     0
+4    2.00669 1.67224 4.01338 92.3077
+5    20.5514 0.250627 10.0251 69.1729
+6    6.66667 83.6364 9.69697     0
+7    3.71517 10.8359 85.4489     0
+8    5.74018 1.81269 83.3837 9.06344
+9    4.29448 8.28221 2.76074 84.6626
+10   14.8551 10.1449 62.6812 12.3188
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 584
+CC  accession: M03971_2.00
+CC  AC: M03971_2.00
+CC  id: M03971_2.00
+CC  name: M03971_2.00
+CC  version: 
+CC  name: M03971_2.00
+CC  description: ktgttcggtg 
+CC  transfac_consensus: 
+CC  matrix.nb: 584
+XX
+//
+AC  M03972_2.00
+XX
+ID  M03972_2.00
+XX
+DE  macaatrscattgtk 
+P0       A     C     G     T
+1    40.4236 29.3738 23.6648 6.53775
+2    91.33 1.3468 3.78788 3.53535
+3        0 99.6327 0.0918274 0.275482
+4    98.5468     0 0.27248 1.18074
+5    93.2131 4.12371 1.97595 0.687285
+6    0.365631 0.182815 0.274223 99.1773
+7    51.7972 3.96313 28.5714 15.6682
+8    17.788 25.8986 40.7373 15.576
+9    0.982143 96.875 0.535714 1.60714
+10   99.45 0.366636 0.183318     0
+11   0.906096 0.576606 9.14333 89.374
+12   0.275229     0 0.183486 99.5413
+13   0.275482 0.0918274 99.6327     0
+14   2.29008 2.29008 3.39271 92.0271
+15   6.54982 24.9077 30.7196 37.8229
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 585
+CC  accession: M03972_2.00
+CC  AC: M03972_2.00
+CC  id: M03972_2.00
+CC  name: M03972_2.00
+CC  version: 
+CC  name: M03972_2.00
+CC  description: macaatrscattgtk 
+CC  transfac_consensus: 
+CC  matrix.nb: 585
+XX
+//
+AC  M03973_2.00
+XX
+ID  M03973_2.00
+XX
+DE  wytgttcggtg 
+P0       A     C     G     T
+1    56.4677 5.72139 8.20896 29.602
+2    4.71464 37.2208 0.992556 57.072
+3        0 3.125     0 96.875
+4        0 0.738916 99.2611     0
+5        0 0.480769 2.64423 96.875
+6        0 1.42518 2.85036 95.7245
+7    4.04762 95.9524     0     0
+8    6.82819 1.98238 88.7665 2.42291
+9    3.23974     0 87.041 9.71922
+10   6.65434 3.69686 15.1571 74.4917
+11   13.5093 10.0932 62.5776 13.8199
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 586
+CC  accession: M03973_2.00
+CC  AC: M03973_2.00
+CC  id: M03973_2.00
+CC  name: M03973_2.00
+CC  version: 
+CC  name: M03973_2.00
+CC  description: wytgttcggtg 
+CC  transfac_consensus: 
+CC  matrix.nb: 586
+XX
+//
+AC  M03974_2.00
+XX
+ID  M03974_2.00
+XX
+DE  macaatwrcattgtk 
+P0       A     C     G     T
+1    44.2685 26.2725 18.3968 11.0621
+2    93.7982 1.35313 2.10487 2.74385
+3    0.0597015 99.3234 0.079602 0.537313
+4    98.3642 0.689791 0.157667 0.788333
+5    91.3433 5.89312 2.2511 0.512445
+6    0.0998004 0.0998004 0.179641 99.6208
+7    41.5631 5.3507 16.4729 36.6132
+8    31.2024 20.8617 27.0741 20.8617
+9    2.22386 91.7295 1.50708 4.53961
+10   99.5611 0.199481 0.139637 0.0997407
+11   0.704952 0.189133 13.2909 85.815
+12   1.43606 0.0776247 1.63012 96.8562
+13   0.179677 0.0998203 99.6406 0.0798563
+14   3.61424 1.61642 4.12278 90.6466
+15   12.6027 19.1344 26.8083 41.4546
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 587
+CC  accession: M03974_2.00
+CC  AC: M03974_2.00
+CC  id: M03974_2.00
+CC  name: M03974_2.00
+CC  version: 
+CC  name: M03974_2.00
+CC  description: macaatwrcattgtk 
+CC  transfac_consensus: 
+CC  matrix.nb: 587
+XX
+//
+AC  M03976_2.00
+XX
+ID  M03976_2.00
+XX
+DE  mcgmacaatsm 
+P0       A     C     G     T
+1    39.6552 32.7586 17.2414 10.3448
+2    2.17391 64.1304 15.2174 18.4783
+3    10.7143 7.14286 70.2381 11.9048
+4    45.3846 28.4615 3.84615 22.3077
+5    86.7647 4.41176 8.82353     0
+6        0   100     0     0
+7    92.1875     0 7.8125     0
+8    61.4583 13.5417 16.6667 8.33333
+9        0 22.0779 1.2987 76.6234
+10   15.5172 25.8621 41.3793 17.2414
+11   27.1186 30.5085 20.339 22.0339
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 588
+CC  accession: M03976_2.00
+CC  AC: M03976_2.00
+CC  id: M03976_2.00
+CC  name: M03976_2.00
+CC  version: 
+CC  name: M03976_2.00
+CC  description: mcgmacaatsm 
+CC  transfac_consensus: 
+CC  matrix.nb: 588
+XX
+//
+AC  M03977_2.00
+XX
+ID  M03977_2.00
+XX
+DE  acaatarcattgy 
+P0       A     C     G     T
+1    41.453 18.8034 23.9316 15.812
+2        0 99.5726 0.42735     0
+3    92.4603 3.1746 2.38095 1.98413
+4    82.6241 11.3475 1.06383 4.96454
+5        0 3.30579 0.413223 96.281
+6    41.6309 13.3047 24.4635 20.6009
+7    36.3248 23.0769 29.0598 11.5385
+8    2.04918 95.4918 2.45902     0
+9      100     0     0     0
+10   5.07246 2.17391 8.33333 84.4203
+11   2.05761 0.823045 1.23457 95.8848
+12     5.2   1.6  93.2     0
+13   23.176 28.3262 13.3047 35.1931
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 589
+CC  accession: M03977_2.00
+CC  AC: M03977_2.00
+CC  id: M03977_2.00
+CC  name: M03977_2.00
+CC  version: 
+CC  name: M03977_2.00
+CC  description: acaatarcattgy 
+CC  transfac_consensus: 
+CC  matrix.nb: 589
+XX
+//
+AC  M03978_2.00
+XX
+ID  M03978_2.00
+XX
+DE  raacamtamcattgtty 
+P0       A     C     G     T
+1    34.4697 20.1171 25.0098 20.4034
+2    60.4503 17.8162 11.7907 9.94274
+3    93.9946 1.68787 3.47358 0.843933
+4    0.0260112 99.948 0.0260112     0
+5    99.6111 0.0259235     0 0.362929
+6    60.4167 39.1745 0.275157 0.133648
+7    0.0777001 0.1036 0.29785 99.5208
+8    74.2615 0.572544 13.2075 11.9584
+9    32.8562 34.0013 22.4854 10.6571
+10   0.155481 99.5724 0.0388702 0.233221
+11   99.6111 0.298121 0.0259235 0.0648088
+12   0.0925735 0.226291 20.6336 79.0475
+13   0.0649942 0.0129988 0.0259977 99.896
+14   0.453309 0.0129517 99.5337     0
+15   0.466681 13.4795 2.64814 83.4057
+16   7.85947 10.2668 16.5387 65.3351
+17   16.8402 27.5898 14.823 40.747
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 590
+CC  accession: M03978_2.00
+CC  AC: M03978_2.00
+CC  id: M03978_2.00
+CC  name: M03978_2.00
+CC  version: 
+CC  name: M03978_2.00
+CC  description: raacamtamcattgtty 
+CC  transfac_consensus: 
+CC  matrix.nb: 590
+XX
+//
+AC  M03979_2.00
+XX
+ID  M03979_2.00
+XX
+DE  waacamtamcattgtty 
+P0       A     C     G     T
+1    29.9445 20.6819 24.2144 25.1592
+2    57.5036 14.3092 13.837 14.3502
+3    90.1184 2.84974 3.70096 3.33087
+4        0 99.7133     0 0.28665
+5    97.8894 0.040201 0.0603015 2.01005
+6    64.2057 35.6229 0.0263678 0.145023
+7    0.0205128 0.0410256 0.0410256 99.8974
+8    81.1332 0.759598 5.8099 12.2973
+9    41.8275 30.9651 13.306 13.9014
+10   0.683142 97.8501 0.281294 1.18545
+11   99.836 0.0410004 0.0410004 0.0820008
+12   0.13708 0.0685401 16.3468 83.4476
+13   0.143237 0.102312 0.102312 99.6521
+14   0.510204 0.0612245 99.3878 0.0408163
+15   2.97659 10.4013 5.18395 81.4381
+16   11.1499 13.8398 11.4374 63.5729
+17   20.1027 27.2895 12.5051 40.1027
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 591
+CC  accession: M03979_2.00
+CC  AC: M03979_2.00
+CC  id: M03979_2.00
+CC  name: M03979_2.00
+CC  version: 
+CC  name: M03979_2.00
+CC  description: waacamtamcattgtty 
+CC  transfac_consensus: 
+CC  matrix.nb: 591
+XX
+//
+AC  M03981_2.00
+XX
+ID  M03981_2.00
+XX
+DE  attgttcggtggk 
+P0       A     C     G     T
+1    75.4255 0.957447 7.44681 16.1702
+2    2.12993 16.0809 10.5431 71.246
+3        0 4.91642 2.7532 92.3304
+4        0     0   100     0
+5    0.715015     0 3.37079 95.9142
+6        0 1.60321 4.30862 94.0882
+7    2.92634 94.7528 2.32089     0
+8    0.922131 2.66393 96.209 0.204918
+9    3.69291 0.680272 91.2536 4.37318
+10   6.20087 2.09607 9.69432 82.0087
+11   5.85729 4.25985 81.6826 8.20021
+12   9.15868 5.6443 63.7913 21.4058
+13   12.6731 13.951 25.3461 48.0298
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 592
+CC  accession: M03981_2.00
+CC  AC: M03981_2.00
+CC  id: M03981_2.00
+CC  name: M03981_2.00
+CC  version: 
+CC  name: M03981_2.00
+CC  description: attgttcggtggk 
+CC  transfac_consensus: 
+CC  matrix.nb: 592
+XX
+//
+AC  M03982_2.00
+XX
+ID  M03982_2.00
+XX
+DE  raacaatwwcattgtty 
+P0       A     C     G     T
+1    29.1998 18.2198 27.7149 24.8656
+2    85.9707 5.04767 6.09727 2.88438
+3    97.8979 0.4914 0.4277 1.183
+4    0.0409333 97.3257 0.2456 2.38777
+5    98.3374 0.272403 0.187864 1.20233
+6    79.6007 18.9149 1.23264 0.251736
+7    0.0967628 0.123153 0.0967628 99.6833
+8    48.498 0.679381 18.1714 32.6512
+9    44.3625 12.255 17.8438 25.5386
+10   0.978749 96.7353 0.187705 2.09828
+11   99.7523 0.0825764 0.128452 0.0367006
+12   0.241064 0.133001 19.8254 79.8005
+13   0.571786 0.169749 0.3663 98.8922
+14   2.074 0.179234 97.6572 0.0896172
+15   0.830091 0.138348 2.63727 96.3943
+16   2.51765 5.69412 3.36471 88.4235
+17   22.5626 27.2133 23.312 26.9121
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 593
+CC  accession: M03982_2.00
+CC  AC: M03982_2.00
+CC  id: M03982_2.00
+CC  name: M03982_2.00
+CC  version: 
+CC  name: M03982_2.00
+CC  description: raacaatwwcattgtty 
+CC  transfac_consensus: 
+CC  matrix.nb: 593
+XX
+//
+AC  M03983_2.00
+XX
+ID  M03983_2.00
+XX
+DE  raacamtwdcaktgtty 
+P0       A     C     G     T
+1    41.986 12.8147 31.6162 13.5832
+2    99.6283 0.0554847 0.183099 0.133163
+3    99.4572 0.121857 0.249252 0.171707
+4    0.0167038 99.9777     0     0
+5    99.5013 0.0554139 0.127452 0.315859
+6    68.4913 31.3974 0.0890076 0.0222519
+7        0 0.00556762 0.0222705 99.9722
+8    44.1666 0.0835329 1.33096 54.4189
+9    27.378 17.2143 25.44 29.9677
+10   0.0667705 99.911     0 0.0222568
+11   99.8776 0.0389365 0.077873     0
+12   0.0500751 0.0445112 51.8778 48.0276
+13   0.038891 0.111117 0.0888938 99.7611
+14   0.12229 0.0333519 99.811 0.0333519
+15   0.281566 0.0993761 0.485839 99.1332
+16   0.105304 0.205066 0.171812 99.5178
+17   6.26009 33.8569 14.748 45.1351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 594
+CC  accession: M03983_2.00
+CC  AC: M03983_2.00
+CC  id: M03983_2.00
+CC  name: M03983_2.00
+CC  version: 
+CC  name: M03983_2.00
+CC  description: raacamtwdcaktgtty 
+CC  transfac_consensus: 
+CC  matrix.nb: 594
+XX
+//
+AC  M04895_2.00
+XX
+ID  M04895_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    11.6315 24.4918 23.3094 40.5673
+2    1.90476 7.39294 2.04865 88.6536
+3    95.329 0.0442054 4.62683     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 4.64996     0 95.35
+7    60.9028 8.41267 22.8936 7.79095
+8    24.8291 13.5809 57.8228 3.76726
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 595
+CC  accession: M04895_2.00
+CC  AC: M04895_2.00
+CC  id: M04895_2.00
+CC  name: M04895_2.00
+CC  version: 
+CC  name: M04895_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 595
+XX
+//
+AC  M04896_2.00
+XX
+ID  M04896_2.00
+XX
+DE  ktaattrr 
+P0       A     C     G     T
+1    17.0486 23.8173 27.2139 31.9201
+2    10.8917 11.7537 6.19722 71.1573
+3    75.5582 6.2156 13.0311 5.19513
+4      100     0     0     0
+5        0 0.412788 0.704168 98.883
+6    8.98239 9.85974 8.24232 72.9155
+7    48.7215 10.387 29.1781 11.7133
+8    25.1597 18.9562 45.3826 10.5015
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 596
+CC  accession: M04896_2.00
+CC  AC: M04896_2.00
+CC  id: M04896_2.00
+CC  name: M04896_2.00
+CC  version: 
+CC  name: M04896_2.00
+CC  description: ktaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 596
+XX
+//
+AC  M04917_2.00
+XX
+ID  M04917_2.00
+XX
+DE  ktaattrg 
+P0       A     C     G     T
+1    14.4489 23.6493 35.2578 26.644
+2    0.829338 13.6582 1.59388 83.9186
+3    84.6979 4.78682 10.5153     0
+4      100     0     0     0
+5        0     0     0   100
+6    3.65408 6.68697 10.7795 78.8794
+7    47.1397 10.0527 36.11 6.69752
+8    18.2923 22.1832 49.5031 10.0214
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 597
+CC  accession: M04917_2.00
+CC  AC: M04917_2.00
+CC  id: M04917_2.00
+CC  name: M04917_2.00
+CC  version: 
+CC  name: M04917_2.00
+CC  description: ktaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 597
+XX
+//
+AC  M04918_2.00
+XX
+ID  M04918_2.00
+XX
+DE  ktaattrg 
+P0       A     C     G     T
+1    16.7087 23.5813 31.673 28.037
+2    0.346021 14.2561 3.06228 82.3356
+3    84.7249 5.30532 9.96973     0
+4      100     0     0     0
+5        0     0 0.418498 99.5815
+6    0.893911 9.36077 9.47883 80.2665
+7    49.0076 11.8066 31.7218 7.46395
+8    21.7971 23.4033 44.9641 9.8356
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 598
+CC  accession: M04918_2.00
+CC  AC: M04918_2.00
+CC  id: M04918_2.00
+CC  name: M04918_2.00
+CC  version: 
+CC  name: M04918_2.00
+CC  description: ktaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 598
+XX
+//
+AC  M04919_2.00
+XX
+ID  M04919_2.00
+XX
+DE  ttaayghk 
+P0       A     C     G     T
+1    20.8779 18.0642 21.8908 39.1671
+2        0 6.40569 3.30452 90.2898
+3    67.0695 8.87462 5.28701 18.7689
+4    79.8202 3.37079 11.0562 5.75281
+5        0 54.7135     0 45.2865
+6        0 5.15663 85.5904 9.25301
+7    39.0158 28.3172 4.61336 28.0536
+8    23.5228 16.9949 32.3579 27.1244
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 599
+CC  accession: M04919_2.00
+CC  AC: M04919_2.00
+CC  id: M04919_2.00
+CC  name: M04919_2.00
+CC  version: 
+CC  name: M04919_2.00
+CC  description: ttaayghk 
+CC  transfac_consensus: 
+CC  matrix.nb: 599
+XX
+//
+AC  M05008_2.00
+XX
+ID  M05008_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    7.55489 40.1191 37.6628 14.6632
+2    0.784873 0.927578 2.42597 95.8616
+3    81.796 2.19178 16.0122     0
+4      100     0     0     0
+5        0 1.05878 0.839723 98.1015
+6        0 22.0153 9.43878 68.5459
+7    38.7166 1.78253 57.0766 2.42424
+8    17.4544 39.7097 33.4202 9.41571
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 600
+CC  accession: M05008_2.00
+CC  AC: M05008_2.00
+CC  id: M05008_2.00
+CC  name: M05008_2.00
+CC  version: 
+CC  name: M05008_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 600
+XX
+//
+AC  M05009_2.00
+XX
+ID  M05009_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    12.1899 31.1363 39.2393 17.4344
+2    2.73438     0     0 97.2656
+3    78.8562 6.81818 13.1706 1.15499
+4      100     0     0     0
+5        0 1.67411 3.83929 94.4866
+6    0.834307 20.7075 7.8258 70.6324
+7    31.6739 2.12377 64.992 1.21032
+8    18.1195 34.6799 34.0657 13.1349
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 601
+CC  accession: M05009_2.00
+CC  AC: M05009_2.00
+CC  id: M05009_2.00
+CC  name: M05009_2.00
+CC  version: 
+CC  name: M05009_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 601
+XX
+//
+AC  M05010_2.00
+XX
+ID  M05010_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    6.08448 1.36178 0.277107 92.2766
+2    95.4858 0.0778306 2.29395 2.14239
+3      100     0     0     0
+4    0.0896708 0.358683 0.0170801 99.5346
+5    0.948396 4.40725 1.75732 92.887
+6    60.9396 12.3186 9.93961 16.8022
+7    35.961 6.82428 56.3493 0.865424
+8    89.3651 0.341205  8.81 1.48367
+9    0.0471213 0.0556888 0.0428376 99.8544
+10   0.807282 2.99436 0.189464 96.0089
+11   91.2257 0.532248 1.32671 6.91531
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 602
+CC  accession: M05010_2.00
+CC  AC: M05010_2.00
+CC  id: M05010_2.00
+CC  name: M05010_2.00
+CC  version: 
+CC  name: M05010_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 602
+XX
+//
+AC  M05011_2.00
+XX
+ID  M05011_2.00
+XX
+DE  taattaratta 
+P0       A     C     G     T
+1    7.17128 2.1737 0.84425 89.8108
+2    91.2902 0.12823 4.75439 3.82718
+3    99.9568 0.0108003     0 0.0324009
+4    0.213698 0.641094 0.256438 98.8888
+5    1.50754 5.91419 3.1407 89.4376
+6    56.7304 15.0668 11.72 16.4828
+7    33.1621 8.33694 57.2817 1.21929
+8    86.2857 0.484803 10.8521 2.3774
+9    0.0646552 0.118534 0.0862069 99.7306
+10   2.09839 4.49799 0.481928 92.9217
+11   87.7501 1.2231 2.72115 8.30568
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 603
+CC  accession: M05011_2.00
+CC  AC: M05011_2.00
+CC  id: M05011_2.00
+CC  name: M05011_2.00
+CC  version: 
+CC  name: M05011_2.00
+CC  description: taattaratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 603
+XX
+//
+AC  M05036_2.00
+XX
+ID  M05036_2.00
+XX
+DE  ctaattas 
+P0       A     C     G     T
+1    2.01581 72.6807 4.04834 21.2552
+2    1.41048 17.6598     0 80.9298
+3    99.675 0.324982     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 0.933756 99.0662
+7    81.952     0 17.3193 0.728721
+8    13.2432 32.3671 35.8765 18.5132
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 604
+CC  accession: M05036_2.00
+CC  AC: M05036_2.00
+CC  id: M05036_2.00
+CC  name: M05036_2.00
+CC  version: 
+CC  name: M05036_2.00
+CC  description: ctaattas 
+CC  transfac_consensus: 
+CC  matrix.nb: 604
+XX
+//
+AC  M05037_2.00
+XX
+ID  M05037_2.00
+XX
+DE  syaattrg 
+P0       A     C     G     T
+1    19.1994 31.4486 37.8449 11.5071
+2    0.872434 28.9809     0 70.1466
+3    90.3067 5.75743 3.93582     0
+4      100     0     0     0
+5        0 0.540541     0 99.4595
+6        0 0.503388 6.87318 92.6234
+7    63.9359 0.935516 33.986 1.14267
+8    21.1022 6.44394 69.9695 2.48429
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 605
+CC  accession: M05037_2.00
+CC  AC: M05037_2.00
+CC  id: M05037_2.00
+CC  name: M05037_2.00
+CC  version: 
+CC  name: M05037_2.00
+CC  description: syaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 605
+XX
+//
+AC  M05038_2.00
+XX
+ID  M05038_2.00
+XX
+DE  wtaaygag 
+P0       A     C     G     T
+1    26.846 24.0587 19.7555 29.3399
+2        0     0     0   100
+3    87.5053     0 5.69106 6.80359
+4    85.5291 1.17106 12.8398 0.460059
+5        0 50.6063     0 49.3937
+6    6.42722 11.8463 64.4297 17.2968
+7    54.5479 23.5796 2.96079 18.9117
+8    22.9885 19.5108 37.2532 20.2476
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 606
+CC  accession: M05038_2.00
+CC  AC: M05038_2.00
+CC  id: M05038_2.00
+CC  name: M05038_2.00
+CC  version: 
+CC  name: M05038_2.00
+CC  description: wtaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 606
+XX
+//
+AC  M05039_2.00
+XX
+ID  M05039_2.00
+XX
+DE  gcyaatyay 
+P0       A     C     G     T
+1    3.79302 14.8443 81.1988 0.163896
+2    3.12314 74.6966 15.2576 6.92262
+3        0 37.4208     0 62.5792
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    0.708968 26.5863     0 72.7047
+8    63.4788 4.64253 11.7456 20.1331
+9    5.43505 53.2537 14.3066 27.0046
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 607
+CC  accession: M05039_2.00
+CC  AC: M05039_2.00
+CC  id: M05039_2.00
+CC  name: M05039_2.00
+CC  version: 
+CC  name: M05039_2.00
+CC  description: gcyaatyay 
+CC  transfac_consensus: 
+CC  matrix.nb: 607
+XX
+//
+AC  M05040_2.00
+XX
+ID  M05040_2.00
+XX
+DE  htaaykag 
+P0       A     C     G     T
+1    25.2859 31.4747 18.1373 25.1021
+2    10.8486 3.46457     0 85.6868
+3    90.3172     0 0.221321 9.46145
+4    95.9068     0 4.09322     0
+5        0 53.4199 0.992691 45.5874
+6    13.2465 9.57222 51.853 25.3283
+7    55.6984 20.6551 13.2507 10.3958
+8    21.0945 23.1366 35.3278 20.4411
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 608
+CC  accession: M05040_2.00
+CC  AC: M05040_2.00
+CC  id: M05040_2.00
+CC  name: M05040_2.00
+CC  version: 
+CC  name: M05040_2.00
+CC  description: htaaykag 
+CC  transfac_consensus: 
+CC  matrix.nb: 608
+XX
+//
+AC  M05041_2.00
+XX
+ID  M05041_2.00
+XX
+DE  gcyaattay 
+P0       A     C     G     T
+1    13.1822 15.3464 66.7322 4.73909
+2    1.6339 78.2925 12.2183 7.85528
+3    0.425444 41.3822     0 58.1924
+4      100     0     0     0
+5    97.4114 2.58857     0     0
+6        0     0     0   100
+7    5.1882 24.7057 0.377852 69.7282
+8    67.4634 1.19516 8.3099 23.0315
+9    6.20115 50.5888 11.2976 31.9125
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 609
+CC  accession: M05041_2.00
+CC  AC: M05041_2.00
+CC  id: M05041_2.00
+CC  name: M05041_2.00
+CC  version: 
+CC  name: M05041_2.00
+CC  description: gcyaattay 
+CC  transfac_consensus: 
+CC  matrix.nb: 609
+XX
+//
+AC  M05060_2.00
+XX
+ID  M05060_2.00
+XX
+DE  btaattrs 
+P0       A     C     G     T
+1    17.4935 28.2044 25.99 28.312
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    32.7114     0 67.2886     0
+8    15.8262 34.0996 37.4749 12.5993
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 610
+CC  accession: M05060_2.00
+CC  AC: M05060_2.00
+CC  id: M05060_2.00
+CC  name: M05060_2.00
+CC  version: 
+CC  name: M05060_2.00
+CC  description: btaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 610
+XX
+//
+AC  M05061_2.00
+XX
+ID  M05061_2.00
+XX
+DE  ytaattrs 
+P0       A     C     G     T
+1    21.7764 26.9904 20.343 30.8902
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    33.9377     0 66.0623     0
+8    18.6679 34.8528 31.0027 15.4765
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 611
+CC  accession: M05061_2.00
+CC  AC: M05061_2.00
+CC  id: M05061_2.00
+CC  name: M05061_2.00
+CC  version: 
+CC  name: M05061_2.00
+CC  description: ytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 611
+XX
+//
+AC  M05062_2.00
+XX
+ID  M05062_2.00
+XX
+DE  wtaaygak 
+P0       A     C     G     T
+1    28.3375 15.7605 19.5598 36.3422
+2        0 3.53893     0 96.4611
+3    73.3071 0.912496 5.18682 20.5936
+4    87.4227 2.58877 5.96793 4.02062
+5        0 56.8831     0 43.1169
+6    12.9824 7.43048 70.9755 8.61155
+7    69.5652 12.7153 3.18111 14.5383
+8    3.39361    25 38.2338 33.3726
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 612
+CC  accession: M05062_2.00
+CC  AC: M05062_2.00
+CC  id: M05062_2.00
+CC  name: M05062_2.00
+CC  version: 
+CC  name: M05062_2.00
+CC  description: wtaaygak 
+CC  transfac_consensus: 
+CC  matrix.nb: 612
+XX
+//
+AC  M05087_2.00
+XX
+ID  M05087_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    20.3611 26.9475 37.0788 15.6127
+2    2.09106 11.0351     0 86.8739
+3    74.6549 5.28465 18.6229 1.43756
+4    99.9125     0 0.0874508     0
+5        0 2.70662 8.94152 88.3519
+6        0 14.3307 10.0008 75.6685
+7    41.8028 1.91915 51.5006 4.77746
+8    26.5425 21.4021 42.6527 9.40268
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 613
+CC  accession: M05087_2.00
+CC  AC: M05087_2.00
+CC  id: M05087_2.00
+CC  name: M05087_2.00
+CC  version: 
+CC  name: M05087_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 613
+XX
+//
+AC  M05088_2.00
+XX
+ID  M05088_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    21.3242 30.6317 26.3132 21.731
+2        0 3.13515     0 96.8649
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    65.6757     0 34.3243     0
+8    38.3071 10.3059 47.8733 3.51364
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 614
+CC  accession: M05088_2.00
+CC  AC: M05088_2.00
+CC  id: M05088_2.00
+CC  name: M05088_2.00
+CC  version: 
+CC  name: M05088_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 614
+XX
+//
+AC  M05089_2.00
+XX
+ID  M05089_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    20.0025 27.0095 35.9575 17.0305
+2    1.70448 8.72192     0 89.5736
+3    86.3874 2.82588 10.7867     0
+4      100     0     0     0
+5        0     0 3.95477 96.0452
+6    0.0212857 8.92401 7.43934 83.6154
+7    48.2147 1.43301 45.6114 4.74086
+8    29.057 18.5901 42.7357 9.61714
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 615
+CC  accession: M05089_2.00
+CC  AC: M05089_2.00
+CC  id: M05089_2.00
+CC  name: M05089_2.00
+CC  version: 
+CC  name: M05089_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 615
+XX
+//
+AC  M05090_2.00
+XX
+ID  M05090_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    20.8909 28.5745 29.3924 21.1423
+2    0.19132 5.01796     0 94.7907
+3    94.3537 1.303 4.34332     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 4.09773 1.89408 94.0082
+7    55.3726     0 42.2964 2.33097
+8    34.7612 11.8748 47.0357 6.32838
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 616
+CC  accession: M05090_2.00
+CC  AC: M05090_2.00
+CC  id: M05090_2.00
+CC  name: M05090_2.00
+CC  version: 
+CC  name: M05090_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 616
+XX
+//
+AC  M05142_2.00
+XX
+ID  M05142_2.00
+XX
+DE  yyaattrs 
+P0       A     C     G     T
+1    3.24061 48.8051 5.3885 42.5658
+2    1.13827 27.8333 3.07983 67.9486
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 1.83268     0 98.1673
+7    73.5168     0 26.4832     0
+8    22.9814 29.1844 25.6881 22.1461
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 617
+CC  accession: M05142_2.00
+CC  AC: M05142_2.00
+CC  id: M05142_2.00
+CC  name: M05142_2.00
+CC  version: 
+CC  name: M05142_2.00
+CC  description: yyaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 617
+XX
+//
+AC  M05143_2.00
+XX
+ID  M05143_2.00
+XX
+DE  ytaaygag 
+P0       A     C     G     T
+1    21.8834 29.053 19.5827 29.481
+2    15.91 6.2474     0 77.8426
+3    82.6991     0 5.61947 11.6814
+4    89.6403     0 8.05755 2.30216
+5    0.631821 53.676 1.78059 43.9115
+6    15.2387 8.29665 63.2916 13.173
+7    46.7133 24.2939 15.6961 13.2967
+8    21.3464 23.2698 35.2442 20.1395
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 618
+CC  accession: M05143_2.00
+CC  AC: M05143_2.00
+CC  id: M05143_2.00
+CC  name: M05143_2.00
+CC  version: 
+CC  name: M05143_2.00
+CC  description: ytaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 618
+XX
+//
+AC  M05144_2.00
+XX
+ID  M05144_2.00
+XX
+DE  yyaattrc 
+P0       A     C     G     T
+1    4.81194 52.4789 6.49739 36.2117
+2    5.42485 34.7322 4.84572 54.9973
+3    86.0749 6.07563 7.31129 0.538167
+4      100     0     0     0
+5        0     0     0   100
+6    1.78998 8.87819 6.28544 83.0464
+7    62.5895 2.29133 31.3887 3.7305
+8    19.74 33.5568 24.9928 21.7103
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 619
+CC  accession: M05144_2.00
+CC  AC: M05144_2.00
+CC  id: M05144_2.00
+CC  name: M05144_2.00
+CC  version: 
+CC  name: M05144_2.00
+CC  description: yyaattrc 
+CC  transfac_consensus: 
+CC  matrix.nb: 619
+XX
+//
+AC  M05195_2.00
+XX
+ID  M05195_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    13.3455 19.5573 23.538 43.5592
+2        0 4.65207     0 95.3479
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 0.146567     0 99.8534
+7    58.6059 4.77247 29.2694 7.35218
+8    22.8148 14.4232 56.1371 6.62492
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 620
+CC  accession: M05195_2.00
+CC  AC: M05195_2.00
+CC  id: M05195_2.00
+CC  name: M05195_2.00
+CC  version: 
+CC  name: M05195_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 620
+XX
+//
+AC  M05196_2.00
+XX
+ID  M05196_2.00
+XX
+DE  ktaattrg 
+P0       A     C     G     T
+1    16.1873 23.4861 34.2969 26.0298
+2    5.12934 12.5791 5.47352 76.818
+3    76.2676 5.90829 16.1045 1.71958
+4    99.4109     0 0.58908     0
+5        0 0.775194 3.44684 95.778
+6    6.87382 9.81377 10.9228 72.3896
+7    44.7948 10.4915 35.4162 9.29747
+8    19.8177 22.1358 48.901 9.14552
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 621
+CC  accession: M05196_2.00
+CC  AC: M05196_2.00
+CC  id: M05196_2.00
+CC  name: M05196_2.00
+CC  version: 
+CC  name: M05196_2.00
+CC  description: ktaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 621
+XX
+//
+AC  M05197_2.00
+XX
+ID  M05197_2.00
+XX
+DE  ytaaygmg 
+P0       A     C     G     T
+1    21.6896 26.7191 21.1395 30.4519
+2        0 2.00154     0 97.9985
+3    82.9046 3.38652 1.13969 12.5692
+4    83.1754 2.48285 4.90036 9.44136
+5        0 52.3115     0 47.6885
+6    11.9325 13.5013 60.5182 14.048
+7    44.2783 30.7478 0.869565 24.1043
+8    21.2097 23.0951 34.132 21.5632
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 622
+CC  accession: M05197_2.00
+CC  AC: M05197_2.00
+CC  id: M05197_2.00
+CC  name: M05197_2.00
+CC  version: 
+CC  name: M05197_2.00
+CC  description: ytaaygmg 
+CC  transfac_consensus: 
+CC  matrix.nb: 622
+XX
+//
+AC  M05198_2.00
+XX
+ID  M05198_2.00
+XX
+DE  btaattrg 
+P0       A     C     G     T
+1    16.213 26.3796 27.4259 29.9815
+2    1.07651 8.81749 1.3559 88.7501
+3    98.4144 0.865683 0.719883     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 1.41305 3.20586 95.3811
+7    56.4884 5.47767 31.5373 6.49658
+8    18.9024 19.2273 53.9784 7.89184
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 623
+CC  accession: M05198_2.00
+CC  AC: M05198_2.00
+CC  id: M05198_2.00
+CC  name: M05198_2.00
+CC  version: 
+CC  name: M05198_2.00
+CC  description: btaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 623
+XX
+//
+AC  M05199_2.00
+XX
+ID  M05199_2.00
+XX
+DE  ktaattrg 
+P0       A     C     G     T
+1    16.8744 22.3344 32.9088 27.8824
+2    2.7985 9.99133 1.86181 85.3484
+3    87.8526 4.63635 7.13606 0.374955
+4      100     0     0     0
+5        0     0     0   100
+6    3.57993 4.75246 8.05483 83.6128
+7    52.3759 5.76365 34.9725 6.88798
+8    19.2319 19.5188 52.9334 8.316
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 624
+CC  accession: M05199_2.00
+CC  AC: M05199_2.00
+CC  id: M05199_2.00
+CC  name: M05199_2.00
+CC  version: 
+CC  name: M05199_2.00
+CC  description: ktaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 624
+XX
+//
+AC  M05200_2.00
+XX
+ID  M05200_2.00
+XX
+DE  ytaaygwk 
+P0       A     C     G     T
+1    19.2836 28.6561 18.3679 33.6924
+2        0     0     0   100
+3    81.0699 1.17904 4.41048 13.3406
+4    83.8338 3.49966 7.31542 5.3511
+5        0 53.3324 0.833094 45.8345
+6    4.68614 4.75153 80.9285 9.63383
+7    46.4822 23.3225 3.94342 26.2519
+8    12.958 22.7371 39.305    25
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 625
+CC  accession: M05200_2.00
+CC  AC: M05200_2.00
+CC  id: M05200_2.00
+CC  name: M05200_2.00
+CC  version: 
+CC  name: M05200_2.00
+CC  description: ytaaygwk 
+CC  transfac_consensus: 
+CC  matrix.nb: 625
+XX
+//
+AC  M05218_2.00
+XX
+ID  M05218_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    12.7548    40 31.0394 16.2059
+2        0 1.37341     0 98.6266
+3    84.9477 3.01732 12.035     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 7.38318     0 92.6168
+7    40.734 0.0806614 59.1853     0
+8    15.2977 41.2311 33.9859 9.48537
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 626
+CC  accession: M05218_2.00
+CC  AC: M05218_2.00
+CC  id: M05218_2.00
+CC  name: M05218_2.00
+CC  version: 
+CC  name: M05218_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 626
+XX
+//
+AC  M05219_2.00
+XX
+ID  M05219_2.00
+XX
+DE  staaygab 
+P0       A     C     G     T
+1    21.0678 33.3333 25.3968 20.202
+2        0 3.56977     0 96.4302
+3    70.4846 5.28634 11.081 13.1481
+4    94.2029     0 5.7971     0
+5        0 55.041 0.952633 44.0064
+6    3.09151     0 85.7378 11.1707
+7    70.6042 13.6796     0 15.7162
+8        0 31.22 35.5908 33.1892
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 627
+CC  accession: M05219_2.00
+CC  AC: M05219_2.00
+CC  id: M05219_2.00
+CC  name: M05219_2.00
+CC  version: 
+CC  name: M05219_2.00
+CC  description: staaygab 
+CC  transfac_consensus: 
+CC  matrix.nb: 627
+XX
+//
+AC  M05220_2.00
+XX
+ID  M05220_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    13.6794 39.3725 29.846 17.1021
+2        0 0.769928     0 99.2301
+3    87.0394 3.98252 8.97805     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 5.71878 2.31899 91.9622
+7    39.9019     0 60.0981     0
+8    16.2369 33.3409 39.2173 11.2049
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 628
+CC  accession: M05220_2.00
+CC  AC: M05220_2.00
+CC  id: M05220_2.00
+CC  name: M05220_2.00
+CC  version: 
+CC  name: M05220_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 628
+XX
+//
+AC  M05221_2.00
+XX
+ID  M05221_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    18.1622 30.8208 32.3283 18.6887
+2        0 4.95793     0 95.0421
+3    98.5149 1.48515     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 0.476304     0 99.5237
+7    31.7106 2.32029 63.3758 2.59327
+8    13.8995 39.6172 34.2823 12.201
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 629
+CC  accession: M05221_2.00
+CC  AC: M05221_2.00
+CC  id: M05221_2.00
+CC  name: M05221_2.00
+CC  version: 
+CC  name: M05221_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 629
+XX
+//
+AC  M05222_2.00
+XX
+ID  M05222_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    21.0508 29.4945 26.4454 23.0093
+2    1.16959 1.05492     0 97.7755
+3    94.0651     0 5.4385 0.496415
+4      100     0     0     0
+5        0     0     0   100
+6        0 2.71357 2.06588 95.2205
+7    30.9179 0.146311 65.663 3.27276
+8    20.1478 33.7985 31.8283 14.2254
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 630
+CC  accession: M05222_2.00
+CC  AC: M05222_2.00
+CC  id: M05222_2.00
+CC  name: M05222_2.00
+CC  version: 
+CC  name: M05222_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 630
+XX
+//
+AC  M05223_2.00
+XX
+ID  M05223_2.00
+XX
+DE  dtaaygab 
+P0       A     C     G     T
+1    27.8163 18.0676 27.3397 26.7764
+2    1.22449 11.8367 1.2616 85.6772
+3    67.1611 1.94881 9.36591 21.5241
+4    87.8949 0.532927 6.62352 4.94861
+5        0 60.3818     0 39.6182
+6    12.8884     0 81.5325 5.5791
+7    64.3355 19.7269 0.947339 14.9902
+8    4.85269 26.9064 33.8821 34.3588
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 631
+CC  accession: M05223_2.00
+CC  AC: M05223_2.00
+CC  id: M05223_2.00
+CC  name: M05223_2.00
+CC  version: 
+CC  name: M05223_2.00
+CC  description: dtaaygab 
+CC  transfac_consensus: 
+CC  matrix.nb: 631
+XX
+//
+AC  M05224_2.00
+XX
+ID  M05224_2.00
+XX
+DE  gtaattrs 
+P0       A     C     G     T
+1    22.2549 18.5528 35.6752 23.517
+2        0 9.49436 4.03783 86.4678
+3    79.6582 8.84718 10.1206 1.37399
+4      100     0     0     0
+5        0 1.92616 2.6886 95.3852
+6        0 9.79197 4.94978 85.2582
+7    31.241     0 68.759     0
+8    18.0135 30.0926 30.9343 20.9596
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 632
+CC  accession: M05224_2.00
+CC  AC: M05224_2.00
+CC  id: M05224_2.00
+CC  name: M05224_2.00
+CC  version: 
+CC  name: M05224_2.00
+CC  description: gtaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 632
+XX
+//
+AC  M05225_2.00
+XX
+ID  M05225_2.00
+XX
+DE  gtaattrs 
+P0       A     C     G     T
+1    21.5512 23.8504 29.7507 24.8476
+2    7.50483 5.38127     0 87.1139
+3    79.9734 2.81347 12.3615 4.85157
+4      100     0     0     0
+5    3.63825 1.4553 1.09148 93.815
+6    2.5635 7.57291 4.96237 84.9012
+7    27.7898 2.98458 59.8574 9.36826
+8    16.2282 28.1639 38.0227 17.5852
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 633
+CC  accession: M05225_2.00
+CC  AC: M05225_2.00
+CC  id: M05225_2.00
+CC  name: M05225_2.00
+CC  version: 
+CC  name: M05225_2.00
+CC  description: gtaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 633
+XX
+//
+AC  M05226_2.00
+XX
+ID  M05226_2.00
+XX
+DE  ytaaygab 
+P0       A     C     G     T
+1    21.6905 26.1032 24.8602 27.3462
+2    7.03704 8.93519 9.58333 74.4444
+3    65.5791 5.30179 4.28222 24.8369
+4    88.1579     0 7.83991 4.00219
+5        0 56.1649     0 43.8351
+6    12.9065     0 80.4402 6.65333
+7    66.7774  12.5 1.12126 19.6013
+8    2.61032 30.6401 34.5556 32.1939
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 634
+CC  accession: M05226_2.00
+CC  AC: M05226_2.00
+CC  id: M05226_2.00
+CC  name: M05226_2.00
+CC  version: 
+CC  name: M05226_2.00
+CC  description: ytaaygab 
+CC  transfac_consensus: 
+CC  matrix.nb: 634
+XX
+//
+AC  M05237_2.00
+XX
+ID  M05237_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    12.2888 49.1553 25.5383 13.0176
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    61.0762     0 38.9238     0
+8    17.7016 31.9921 39.6589 10.6475
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 635
+CC  accession: M05237_2.00
+CC  AC: M05237_2.00
+CC  id: M05237_2.00
+CC  name: M05237_2.00
+CC  version: 
+CC  name: M05237_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 635
+XX
+//
+AC  M05238_2.00
+XX
+ID  M05238_2.00
+XX
+DE  rytaaygak 
+P0       A     C     G     T
+1    43.3333 18.2692 28.7179 9.67949
+2    19.0391 29.8932 4.7153 46.3523
+3        0 10.8044 0.55205 88.6435
+4    61.1534 6.42002 15.2884 17.1382
+5    70.9596 5.87121 19.3182 3.85101
+6        0 52.4743     0 47.5257
+7    13.4628 1.40656 75.2847 9.84595
+8    55.3695 16.4532 8.71921 19.4581
+9    8.2243 21.7445 34.9533 35.0779
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 636
+CC  accession: M05238_2.00
+CC  AC: M05238_2.00
+CC  id: M05238_2.00
+CC  name: M05238_2.00
+CC  version: 
+CC  name: M05238_2.00
+CC  description: rytaaygak 
+CC  transfac_consensus: 
+CC  matrix.nb: 636
+XX
+//
+AC  M05239_2.00
+XX
+ID  M05239_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    11.2605 52.8299 20.4079 15.5017
+2        0     0     0   100
+3    99.4417     0 0.558331     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 0.485223     0 99.5148
+7    54.8759     0 45.1241     0
+8    21.0993 27.1277 41.7849 9.98818
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 637
+CC  accession: M05239_2.00
+CC  AC: M05239_2.00
+CC  id: M05239_2.00
+CC  name: M05239_2.00
+CC  version: 
+CC  name: M05239_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 637
+XX
+//
+AC  M05240_2.00
+XX
+ID  M05240_2.00
+XX
+DE  cyaattrm 
+P0       A     C     G     T
+1    21.9679 43.7326 16.0694 18.2301
+2    11.4268 26.9075 10.6724 50.9933
+3    67.3034 12.4265 12.9712 7.29884
+4    96.2501 0.91301 2.83685     0
+5        0 3.53998 0.984726 95.4753
+6    5.85567 15.4516 13.1931 65.4996
+7    47.2789 10.2403 32.5841 9.89678
+8    41.8366 35.7585 15.439 6.96594
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 638
+CC  accession: M05240_2.00
+CC  AC: M05240_2.00
+CC  id: M05240_2.00
+CC  name: M05240_2.00
+CC  version: 
+CC  name: M05240_2.00
+CC  description: cyaattrm 
+CC  transfac_consensus: 
+CC  matrix.nb: 638
+XX
+//
+AC  M05241_2.00
+XX
+ID  M05241_2.00
+XX
+DE  yyaayghk 
+P0       A     C     G     T
+1    15.2129 26.4278 21.2357 37.1236
+2        0 26.5319     0 73.4681
+3    65.7227 9.34835 17.9233 7.00557
+4    56.1941 8.1583 22.5399 13.1077
+5        0 65.3881     0 34.6119
+6    4.94505 9.99103 64.8015 20.2624
+7    27.6891 29.783 14.5465 27.9814
+8    23.1874 22.4433 28.1364 26.2329
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 639
+CC  accession: M05241_2.00
+CC  AC: M05241_2.00
+CC  id: M05241_2.00
+CC  name: M05241_2.00
+CC  version: 
+CC  name: M05241_2.00
+CC  description: yyaayghk 
+CC  transfac_consensus: 
+CC  matrix.nb: 639
+XX
+//
+AC  M05244_2.00
+XX
+ID  M05244_2.00
+XX
+DE  gtaattrs 
+P0       A     C     G     T
+1    15.3433 23.4463 37.9517 23.2587
+2    0.915192 12.5483 5.22676 81.3097
+3    85.4913 1.52892 12.9798     0
+4      100     0     0     0
+5        0     0 0.187243 99.8128
+6        0 13.436 6.62801 79.936
+7    46.5488 13.3998 32.4084 7.64293
+8    17.4607 26.4592 49.282 6.79815
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 640
+CC  accession: M05244_2.00
+CC  AC: M05244_2.00
+CC  id: M05244_2.00
+CC  name: M05244_2.00
+CC  version: 
+CC  name: M05244_2.00
+CC  description: gtaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 640
+XX
+//
+AC  M05245_2.00
+XX
+ID  M05245_2.00
+XX
+DE  ktaattrg 
+P0       A     C     G     T
+1    15.4315 22.5056 36.4774 25.5855
+2    3.32996 11.9144 5.82426 78.9314
+3    80.1904 5.19681 14.1369 0.475945
+4      100     0     0     0
+5        0 1.09472     0 98.9053
+6    0.988425 11.3929 6.54181 81.0769
+7    48.0561 9.7461 34.3824 7.81539
+8    19.8125 22.3387 49.5234 8.32539
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 641
+CC  accession: M05245_2.00
+CC  AC: M05245_2.00
+CC  id: M05245_2.00
+CC  name: M05245_2.00
+CC  version: 
+CC  name: M05245_2.00
+CC  description: ktaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 641
+XX
+//
+AC  M05253_2.00
+XX
+ID  M05253_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    20.8838 26.8698 31.2819 20.9645
+2    0.900563 6.01626 0.106316 92.9769
+3    93.5679 1.31538 5.11675     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 11.7035 2.87848 85.418
+7    52.0021 6.51345 35.1586 6.32585
+8    35.7002 14.3719 43.6709 6.25701
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 642
+CC  accession: M05253_2.00
+CC  AC: M05253_2.00
+CC  id: M05253_2.00
+CC  name: M05253_2.00
+CC  version: 
+CC  name: M05253_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 642
+XX
+//
+AC  M05254_2.00
+XX
+ID  M05254_2.00
+XX
+DE  staattrr 
+P0       A     C     G     T
+1    22.5427 27.2307 28.9387 21.2879
+2    5.72474 6.75474 1.86595 85.6546
+3    79.3583 3.93472 10.3796 6.32736
+4      100     0     0     0
+5        0     0 2.38176 97.6182
+6    2.70449 13.496 7.9151 75.8844
+7    44.3365 7.14654 40.1266 8.39037
+8    35.6362 15.6962 40.8261 7.84144
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 643
+CC  accession: M05254_2.00
+CC  AC: M05254_2.00
+CC  id: M05254_2.00
+CC  name: M05254_2.00
+CC  version: 
+CC  name: M05254_2.00
+CC  description: staattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 643
+XX
+//
+AC  M05258_2.00
+XX
+ID  M05258_2.00
+XX
+DE  ktaaygmk 
+P0       A     C     G     T
+1    18.4793 22.9066 25.8903 32.7238
+2        0 13.3091  11.2 75.4909
+3    55.301 14.8641 13.106 16.7288
+4    82.5119     0 11.6852 5.80286
+5        0  51.9     0  48.1
+6        0 4.59559 95.4044     0
+7    27.9182 39.4836 11.3502 21.248
+8    20.5202 19.5568 28.3237 31.5992
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 644
+CC  accession: M05258_2.00
+CC  AC: M05258_2.00
+CC  id: M05258_2.00
+CC  name: M05258_2.00
+CC  version: 
+CC  name: M05258_2.00
+CC  description: ktaaygmk 
+CC  transfac_consensus: 
+CC  matrix.nb: 644
+XX
+//
+AC  M05259_2.00
+XX
+ID  M05259_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    13.0908 37.2926 34.5462 15.0704
+2        0 0.623528     0 99.3765
+3    86.5243 4.88599 8.5897     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 12.997 10.3463 76.6567
+7    34.2896 2.5017 63.2087     0
+8    19.1884 31.8226 38.2373 10.7516
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 645
+CC  accession: M05259_2.00
+CC  AC: M05259_2.00
+CC  id: M05259_2.00
+CC  name: M05259_2.00
+CC  version: 
+CC  name: M05259_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 645
+XX
+//
+AC  M05260_2.00
+XX
+ID  M05260_2.00
+XX
+DE  ctaaygms 
+P0       A     C     G     T
+1    21.204 30.5274 24.9867 23.2818
+2        0 17.8911 0.99395 81.115
+3    78.7002 2.51572 10.9015 7.8826
+4    91.9647     0 1.02891 7.00637
+5        0 66.6785 0.248668 33.0728
+6        0 5.2026 93.8969 0.90045
+7    39.5658 35.7715 6.17622 18.4865
+8    18.3271 29.7283 32.6585 19.2861
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 646
+CC  accession: M05260_2.00
+CC  AC: M05260_2.00
+CC  id: M05260_2.00
+CC  name: M05260_2.00
+CC  version: 
+CC  name: M05260_2.00
+CC  description: ctaaygms 
+CC  transfac_consensus: 
+CC  matrix.nb: 646
+XX
+//
+AC  M05261_2.00
+XX
+ID  M05261_2.00
+XX
+DE  staattrs 
+P0       A     C     G     T
+1    21.3894 34.2483 30.9966 13.3657
+2        0 3.70069     0 96.2993
+3    75.438 7.75725 16.8047     0
+4    98.9967 1.00334     0     0
+5        0     0 6.88164 93.1184
+6        0 22.2163 14.5527 63.231
+7    30.4112 3.79137 64.5938 1.20361
+8    19.9535 30.9966 34.8184 14.2314
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 647
+CC  accession: M05261_2.00
+CC  AC: M05261_2.00
+CC  id: M05261_2.00
+CC  name: M05261_2.00
+CC  version: 
+CC  name: M05261_2.00
+CC  description: staattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 647
+XX
+//
+AC  M05262_2.00
+XX
+ID  M05262_2.00
+XX
+DE  ytaattrg 
+P0       A     C     G     T
+1    19.2737 27.7125 18.9165 34.0973
+2        0 5.60393 0.0140449 94.382
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 0.0444313 0.429502 99.5261
+7    67.5703 1.87894 28.8009 1.74986
+8    17.5027 14.6052 60.8475 7.04455
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 648
+CC  accession: M05262_2.00
+CC  AC: M05262_2.00
+CC  id: M05262_2.00
+CC  name: M05262_2.00
+CC  version: 
+CC  name: M05262_2.00
+CC  description: ytaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 648
+XX
+//
+AC  M05263_2.00
+XX
+ID  M05263_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    18.9888 24.7492 17.4958 38.7663
+2    0.816174 3.75497     0 95.4289
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 0.552519 0.0870819 99.3604
+7    69.9204 1.03723 27.3059 1.73655
+8    20.1457 9.16332 64.4432 6.24781
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 649
+CC  accession: M05263_2.00
+CC  AC: M05263_2.00
+CC  id: M05263_2.00
+CC  name: M05263_2.00
+CC  version: 
+CC  name: M05263_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 649
+XX
+//
+AC  M05264_2.00
+XX
+ID  M05264_2.00
+XX
+DE  ttaaygag 
+P0       A     C     G     T
+1    22.8977 19.4022 11.5502 46.1499
+2    5.90569 6.78713 0.308506 86.9987
+3    78.7395 1.83486 5.86358 13.562
+4    71.1095 3.71037 20.0288 5.1513
+5        0 53.2075 2.37197 44.4205
+6    13.6103 8.61196 66.6667 11.1111
+7    50.2035 20.8037 11.9278 17.0651
+8    23.5401 16.4234 36.4964 23.5401
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 650
+CC  accession: M05264_2.00
+CC  AC: M05264_2.00
+CC  id: M05264_2.00
+CC  name: M05264_2.00
+CC  version: 
+CC  name: M05264_2.00
+CC  description: ttaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 650
+XX
+//
+AC  M05265_2.00
+XX
+ID  M05265_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    13.3246 40.6021 24.7906 21.2827
+2        0     0     0   100
+3    94.3676 2.96443 2.66798     0
+4      100     0     0     0
+5        0     0 1.59711 98.4029
+6        0 1.069 6.12245 92.8086
+7    41.8063     0 58.1937     0
+8    14.3231 33.9618 39.0678 12.6473
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 651
+CC  accession: M05265_2.00
+CC  AC: M05265_2.00
+CC  id: M05265_2.00
+CC  name: M05265_2.00
+CC  version: 
+CC  name: M05265_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 651
+XX
+//
+AC  M05266_2.00
+XX
+ID  M05266_2.00
+XX
+DE  ytaaygab 
+P0       A     C     G     T
+1    24.4804 29.4352 12.1772 33.9072
+2    6.52384 0.810654 0.733449 91.9321
+3    89.4964     0 4.24652 6.25705
+4    88.4658 2.34027 7.80089 1.39302
+5        0 58.1066 1.06136 40.832
+6    11.8992 4.66698 73.6053 9.82847
+7    73.2995 9.72607 7.61773 9.35673
+8    3.19127 26.202 43.46 27.1468
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 652
+CC  accession: M05266_2.00
+CC  AC: M05266_2.00
+CC  id: M05266_2.00
+CC  name: M05266_2.00
+CC  version: 
+CC  name: M05266_2.00
+CC  description: ytaaygab 
+CC  transfac_consensus: 
+CC  matrix.nb: 652
+XX
+//
+AC  M05267_2.00
+XX
+ID  M05267_2.00
+XX
+DE  ctaattrs 
+P0       A     C     G     T
+1    19.2678 35.9024 20.6551 24.1747
+2        0     0     0   100
+3    96.8999 1.20767 1.89243     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 2.39485 4.87311 92.732
+7    42.6839     0 56.7033 0.61287
+8    19.8356 28.1989 35.316 16.6495
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 653
+CC  accession: M05267_2.00
+CC  AC: M05267_2.00
+CC  id: M05267_2.00
+CC  name: M05267_2.00
+CC  version: 
+CC  name: M05267_2.00
+CC  description: ctaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 653
+XX
+//
+AC  M05268_2.00
+XX
+ID  M05268_2.00
+XX
+DE  ytaattrs 
+P0       A     C     G     T
+1    16.8396 37.4346 20.0992 25.6267
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 4.27215     0 95.7278
+7    40.3386     0 59.6614     0
+8    17.0432 39.1276 31.7631 12.0661
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 654
+CC  accession: M05268_2.00
+CC  AC: M05268_2.00
+CC  id: M05268_2.00
+CC  name: M05268_2.00
+CC  version: 
+CC  name: M05268_2.00
+CC  description: ytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 654
+XX
+//
+AC  M05269_2.00
+XX
+ID  M05269_2.00
+XX
+DE  ytaattrs 
+P0       A     C     G     T
+1    18.7047 33.2204 22.8996 25.1753
+2    2.15308 0.698453     0 97.1485
+3    93.0091     0 6.54324 0.447637
+4      100     0     0     0
+5        0     0 1.2034 98.7966
+6        0 8.11577 1.84571 90.0385
+7    33.9813 0.636128 59.8102 5.57234
+8    18.4195 32.3173 34.7712 14.492
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 655
+CC  accession: M05269_2.00
+CC  AC: M05269_2.00
+CC  id: M05269_2.00
+CC  name: M05269_2.00
+CC  version: 
+CC  name: M05269_2.00
+CC  description: ytaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 655
+XX
+//
+AC  M05270_2.00
+XX
+ID  M05270_2.00
+XX
+DE  ytaaygab 
+P0       A     C     G     T
+1    21.6819 30.6649 19.7784 27.8748
+2    10.9864 2.68208 0.258108 86.0734
+3    85.2317     0 3.94488 10.8234
+4    89.4774 0.59496 8.28278 1.64489
+5        0 51.5076 0.134309 48.3581
+6    11.3263 5.73695 70.7434 12.1933
+7    73.9562 10.6933 5.37075 9.97975
+8    4.39374 26.5711 40.2086 28.8266
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 656
+CC  accession: M05270_2.00
+CC  AC: M05270_2.00
+CC  id: M05270_2.00
+CC  name: M05270_2.00
+CC  version: 
+CC  name: M05270_2.00
+CC  description: ytaaygab 
+CC  transfac_consensus: 
+CC  matrix.nb: 656
+XX
+//
+AC  M05298_2.00
+XX
+ID  M05298_2.00
+XX
+DE  taattrsrttw 
+P0       A     C     G     T
+1    16.4793 13.7968 4.65312 65.0708
+2    74.8211 0.921808 12.6281 11.629
+3      100     0     0     0
+4    6.99142 13.6106 6.15851 73.2395
+5    7.67059 12.2087 11.1299 68.9907
+6    29.004 16.1368 33.4152 21.444
+7    19.0488 28.8016 36.5685 15.5811
+8    54.1965 3.89653 29.2065 12.7005
+9        0 0.00861475     0 99.9914
+10   10.8068 11.9441 1.38884 75.8603
+11   52.2226 6.02448 16.348 25.4049
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 657
+CC  accession: M05298_2.00
+CC  AC: M05298_2.00
+CC  id: M05298_2.00
+CC  name: M05298_2.00
+CC  version: 
+CC  name: M05298_2.00
+CC  description: taattrsrttw 
+CC  transfac_consensus: 
+CC  matrix.nb: 657
+XX
+//
+AC  M05299_2.00
+XX
+ID  M05299_2.00
+XX
+DE  taattrsrtta 
+P0       A     C     G     T
+1    12.3037 11.1042 3.56745 73.0246
+2    82.7854 0.16822 9.88295 7.16338
+3      100     0     0     0
+4    4.69824 14.655 5.45582 75.191
+5    6.7422 15.2202 12.117 65.9206
+6    31.132 17.5938 34.5356 16.7386
+7    18.2442 30.6045 40.1625 10.9888
+8    53.3517 3.08519 37.2391 6.32397
+9    0.440419 0.930696 0.481968 98.1469
+10   6.5164 9.85184 0.695176 82.9366
+11   64.7781 4.80448 13.0533 17.3641
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 658
+CC  accession: M05299_2.00
+CC  AC: M05299_2.00
+CC  id: M05299_2.00
+CC  name: M05299_2.00
+CC  version: 
+CC  name: M05299_2.00
+CC  description: taattrsrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 658
+XX
+//
+AC  M05300_2.00
+XX
+ID  M05300_2.00
+XX
+DE  taayckcrtta 
+P0       A     C     G     T
+1    6.27387 3.38243     0 90.3437
+2    98.1624     0 0.474215 1.36337
+3    99.3699     0 0.210021 0.420042
+4    6.45616 33.8032 0.169157 59.5715
+5    19.3295 33.6756 24.3431 22.6518
+6    24.1498 2.524 34.0799 39.2464
+7    9.0208 77.4013 6.28652 7.29142
+8    42.8276     0 57.1724     0
+9    0.301023     0     0 99.699
+10       0     0     0   100
+11   95.4192     0     0 4.58081
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 659
+CC  accession: M05300_2.00
+CC  AC: M05300_2.00
+CC  id: M05300_2.00
+CC  name: M05300_2.00
+CC  version: 
+CC  name: M05300_2.00
+CC  description: taayckcrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 659
+XX
+//
+AC  M05301_2.00
+XX
+ID  M05301_2.00
+XX
+DE  taattrratta 
+P0       A     C     G     T
+1    8.29766 2.84133 0.538745 88.3223
+2    98.9254     0 1.07459     0
+3      100     0     0     0
+4        0 4.39379     0 95.6062
+5    1.69368 9.05875 5.14196 84.1056
+6    33.3705 18.1294 27.7553 20.7448
+7    27.5409 23.1903 43.8014 5.46751
+8    88.7063 0.113653 10.1967 0.983347
+9        0     0     0   100
+10   0.0854536 0.945503     0 98.969
+11   87.5128 0.292497 2.8616 9.33311
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 660
+CC  accession: M05301_2.00
+CC  AC: M05301_2.00
+CC  id: M05301_2.00
+CC  name: M05301_2.00
+CC  version: 
+CC  name: M05301_2.00
+CC  description: taattrratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 660
+XX
+//
+AC  M05302_2.00
+XX
+ID  M05302_2.00
+XX
+DE  taattrsrtta 
+P0       A     C     G     T
+1    1.94581     0     0 98.0542
+2      100     0     0     0
+3      100     0     0     0
+4        0 7.89312     0 92.1069
+5    2.15515 15.0394 13.0116 69.7938
+6    32.6897 17.5973 36.0667 13.6463
+7    16.9299 33.8242 45.3437 3.90211
+8    64.8779     0 35.1221     0
+9        0     0     0   100
+10       0     0     0   100
+11   96.7499     0     0 3.25011
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 661
+CC  accession: M05302_2.00
+CC  AC: M05302_2.00
+CC  id: M05302_2.00
+CC  name: M05302_2.00
+CC  version: 
+CC  name: M05302_2.00
+CC  description: taattrsrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 661
+XX
+//
+AC  M05303_2.00
+XX
+ID  M05303_2.00
+XX
+DE  taatyrcrtta 
+P0       A     C     G     T
+1        0     0     0   100
+2    99.8718 0.128172     0     0
+3    99.6547 0.115104 0.166262 0.0639468
+4        0     0     0   100
+5        0 30.6565 0.956644 68.3869
+6    31.9962     0 59.3831 8.62069
+7    21.3249 58.5909 17.6931 2.39116
+8    46.0051     0 53.9949     0
+9    0.280505 0.255004 0.114752 99.3497
+10       0     0 0.0384862 99.9615
+11     100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 662
+CC  accession: M05303_2.00
+CC  AC: M05303_2.00
+CC  id: M05303_2.00
+CC  name: M05303_2.00
+CC  version: 
+CC  name: M05303_2.00
+CC  description: taatyrcrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 662
+XX
+//
+AC  M05304_2.00
+XX
+ID  M05304_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    12.2167 24.4113 19.4715 43.9005
+2        0 19.9398     0 80.0602
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    68.6196     0 31.3804     0
+8    17.5044 5.62357 74.9577 1.91434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 663
+CC  accession: M05304_2.00
+CC  AC: M05304_2.00
+CC  id: M05304_2.00
+CC  name: M05304_2.00
+CC  version: 
+CC  name: M05304_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 663
+XX
+//
+AC  M05305_2.00
+XX
+ID  M05305_2.00
+XX
+DE  ttaattag 
+P0       A     C     G     T
+1    15.5287 23.638 15.1917 45.6416
+2        0 16.6345     0 83.3655
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    78.0698     0 21.9302     0
+8    18.8489 5.51271 72.8763 2.76207
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 664
+CC  accession: M05305_2.00
+CC  AC: M05305_2.00
+CC  id: M05305_2.00
+CC  name: M05305_2.00
+CC  version: 
+CC  name: M05305_2.00
+CC  description: ttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 664
+XX
+//
+AC  M05306_2.00
+XX
+ID  M05306_2.00
+XX
+DE  ttaaygag 
+P0       A     C     G     T
+1    16.3462 23.3597 5.65611 54.638
+2        0     0 0.896861 99.1031
+3    91.2281     0     0 8.77193
+4    76.043 3.26882 16.3871 4.30108
+5    1.34786 50.7026 3.35532 44.5942
+6    11.4117 5.53677 74.7253 8.32629
+7    55.861 19.8104 4.48657 19.842
+8    19.4786 14.7236 42.6744 23.1233
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 665
+CC  accession: M05306_2.00
+CC  AC: M05306_2.00
+CC  id: M05306_2.00
+CC  name: M05306_2.00
+CC  version: 
+CC  name: M05306_2.00
+CC  description: ttaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 665
+XX
+//
+AC  M05307_2.00
+XX
+ID  M05307_2.00
+XX
+DE  ytaattrg 
+P0       A     C     G     T
+1    2.99975 36.0732 12.2024 48.7247
+2        0 20.9416     0 79.0584
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    68.2069     0 31.7931     0
+8    8.12658 20.1012 68.4027 3.36956
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 666
+CC  accession: M05307_2.00
+CC  AC: M05307_2.00
+CC  id: M05307_2.00
+CC  name: M05307_2.00
+CC  version: 
+CC  name: M05307_2.00
+CC  description: ytaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 666
+XX
+//
+AC  M05308_2.00
+XX
+ID  M05308_2.00
+XX
+DE  ytaattrg 
+P0       A     C     G     T
+1    9.11769 29.5823 12.9067 48.3934
+2        0 23.9599 0.672921 75.3672
+3    99.7175 0.28251     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 2.01884 97.9812
+7    70.1983     0 29.8017     0
+8    9.5561 20.5353 59.8438 10.0647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 667
+CC  accession: M05308_2.00
+CC  AC: M05308_2.00
+CC  id: M05308_2.00
+CC  name: M05308_2.00
+CC  version: 
+CC  name: M05308_2.00
+CC  description: ytaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 667
+XX
+//
+AC  M05309_2.00
+XX
+ID  M05309_2.00
+XX
+DE  ttaaygag 
+P0       A     C     G     T
+1    18.2315 19.5177 10.836 51.4148
+2    0.307977 0.800739 3.14136 95.7499
+3    81.7512     0 4.41757 13.8312
+4    77.5892 3.64362 17.3446 1.42251
+5    0.0390854 60.7583 1.95427 37.2484
+6    15.9461 5.97397 72.2687 5.81125
+7    54.8808 20.7061 10.1147 14.2983
+8    16.4045 15.6619 44.3644 23.5692
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 668
+CC  accession: M05309_2.00
+CC  AC: M05309_2.00
+CC  id: M05309_2.00
+CC  name: M05309_2.00
+CC  version: 
+CC  name: M05309_2.00
+CC  description: ttaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 668
+XX
+//
+AC  M05327_2.00
+XX
+ID  M05327_2.00
+XX
+DE  taatytaatta 
+P0       A     C     G     T
+1    0.132685     0     0 99.8673
+2    99.9502 0.00553312 0.0331987 0.0110662
+3    99.9834 0.0166049     0     0
+4    0.0110497 0.154696 0.0331492 99.8011
+5        0 73.7427 0.151045 26.1063
+6    1.62133 0.773333 1.264 96.3413
+7    99.9391     0 0.04426 0.0165975
+8    99.9945     0     0     0
+9    0.00553465 0.0166039     0 99.9779
+10   0.43543     0     0 99.5646
+11   99.5207     0     0 0.479312
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 669
+CC  accession: M05327_2.00
+CC  AC: M05327_2.00
+CC  id: M05327_2.00
+CC  name: M05327_2.00
+CC  version: 
+CC  name: M05327_2.00
+CC  description: taatytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 669
+XX
+//
+AC  M05328_2.00
+XX
+ID  M05328_2.00
+XX
+DE  taatytaatta 
+P0       A     C     G     T
+1    0.410627 0.0381978     0 99.5512
+2    99.8812     0 0.10156 0.017246
+3    99.977     0 0.0115084 0.0115084
+4    0.01913 0.258255 0.00956498 99.7131
+5    0.0154447 73.1853 0.548988 26.2503
+6    2.2391 1.20886 2.50613 94.0459
+7    99.7188 0.0229573 0.233399 0.0248704
+8    99.9904     0 0.00191832     0
+9    0.00959067 0.00959067     0 99.9808
+10   0.56439 0.0419479 0.00762689 99.386
+11   99.4334 0.0057229 0.0457832 0.515061
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 670
+CC  accession: M05328_2.00
+CC  AC: M05328_2.00
+CC  id: M05328_2.00
+CC  name: M05328_2.00
+CC  version: 
+CC  name: M05328_2.00
+CC  description: taatytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 670
+XX
+//
+AC  M05359_2.00
+XX
+ID  M05359_2.00
+XX
+DE  taatysratta 
+P0       A     C     G     T
+1    9.31425 5.18139 1.07148 84.4329
+2    81.8823 0.237512 16.2696 1.61063
+3      100     0     0     0
+4    3.70097 12.3292 2.4747 81.4952
+5    4.00988 32.9615 18.108 44.9206
+6    24.4583 25.1201 25.9632 24.4583
+7    45.637 18.2647 32.3041 3.79425
+8    81.0223 2.22532 13.0655 3.68684
+9        0     0 0.0634115 99.9366
+10   1.30919 16.1592     0 82.5316
+11   84.0918 1.48639 5.20619 9.21564
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 671
+CC  accession: M05359_2.00
+CC  AC: M05359_2.00
+CC  id: M05359_2.00
+CC  name: M05359_2.00
+CC  version: 
+CC  name: M05359_2.00
+CC  description: taatysratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 671
+XX
+//
+AC  M05360_2.00
+XX
+ID  M05360_2.00
+XX
+DE  taatywratta 
+P0       A     C     G     T
+1    2.99079 0.779622     0 96.2296
+2    92.5085     0 7.49152     0
+3      100     0     0     0
+4    0.640146 5.69273 0.14044 93.5267
+5    0.937691 30.5223 11.5974 56.9426
+6    31.0448 18.6653 19.252 31.0379
+7    56.5028 11.5141 30.8394 1.14378
+8    94.6301     0 5.02627 0.343677
+9        0     0     0   100
+10       0 7.82206     0 92.1779
+11   96.4597     0 0.326742 3.21353
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 672
+CC  accession: M05360_2.00
+CC  AC: M05360_2.00
+CC  id: M05360_2.00
+CC  name: M05360_2.00
+CC  version: 
+CC  name: M05360_2.00
+CC  description: taatywratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 672
+XX
+//
+AC  M05361_2.00
+XX
+ID  M05361_2.00
+XX
+DE  taatygcrtta 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3    99.2354 0.0603622 0.663984 0.0402414
+4        0 1.7839     0 98.2161
+5    0.851409 44.0503 3.46645 51.6319
+6    20.0389     0 56.6148 23.3463
+7    17.0814 82.9186     0     0
+8    47.8592     0 52.1408     0
+9    0.141729     0     0 99.8583
+10       0     0     0   100
+11     100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 673
+CC  accession: M05361_2.00
+CC  AC: M05361_2.00
+CC  id: M05361_2.00
+CC  name: M05361_2.00
+CC  version: 
+CC  name: M05361_2.00
+CC  description: taatygcrtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 673
+XX
+//
+AC  M05366_2.00
+XX
+ID  M05366_2.00
+XX
+DE  ttaattrr 
+P0       A     C     G     T
+1    18.3452 22.2705 23.5334 35.8509
+2    6.94785 10.2978 2.40436 80.35
+3    90.1799 3.46211 4.53634 1.82165
+4      100     0     0     0
+5        0     0     0   100
+6    5.12407 2.91253 5.51489 86.4485
+7    54.7063 6.13272 30.331 8.8299
+8    28.8551 16.892 43.3075 10.9454
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 674
+CC  accession: M05366_2.00
+CC  AC: M05366_2.00
+CC  id: M05366_2.00
+CC  name: M05366_2.00
+CC  version: 
+CC  name: M05366_2.00
+CC  description: ttaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 674
+XX
+//
+AC  M05367_2.00
+XX
+ID  M05367_2.00
+XX
+DE  ttaattrr 
+P0       A     C     G     T
+1    18.7226 21.0693 24.4891 35.719
+2    4.63757 8.67841 0.845014 85.839
+3    95.4744 1.58575 2.68151 0.258352
+4      100     0     0     0
+5        0     0     0   100
+6    2.94721 1.06783 4.43362 91.5513
+7    55.2952 3.10054 35.8668 5.7375
+8    25.6854 14.6862 50.7879 8.8406
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 675
+CC  accession: M05367_2.00
+CC  AC: M05367_2.00
+CC  id: M05367_2.00
+CC  name: M05367_2.00
+CC  version: 
+CC  name: M05367_2.00
+CC  description: ttaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 675
+XX
+//
+AC  M05368_2.00
+XX
+ID  M05368_2.00
+XX
+DE  ytaaygag 
+P0       A     C     G     T
+1    20.2937 28.4853 15.5796 35.6414
+2    3.97744     0     0 96.0226
+3    89.2168     0 1.14451 9.63872
+4    93.6324 0.115774 4.70333 1.54848
+5    0.511394 48.6576 2.42912 48.4019
+6    8.69106 7.62374 75.8855 7.79967
+7    66.7836 14.9257 8.55698 9.73369
+8    14.4024 22.3961 41.2975 21.9039
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 676
+CC  accession: M05368_2.00
+CC  AC: M05368_2.00
+CC  id: M05368_2.00
+CC  name: M05368_2.00
+CC  version: 
+CC  name: M05368_2.00
+CC  description: ytaaygag 
+CC  transfac_consensus: 
+CC  matrix.nb: 676
+XX
+//
+AC  M05505_2.00
+XX
+ID  M05505_2.00
+XX
+DE  vgaayrttckmgaas 
+P0       A     C     G     T
+1    27.7075 35.1454 33.228 3.91909
+2    0.206526 1.33209 98.007 0.454358
+3    90.2787 2.81556 0.56121 6.34453
+4    77.91 3.97308 2.98802 15.1289
+5    9.28346 44.3836 16.3435 29.9895
+6    25.7745 17.1444 47.7134 9.36776
+7    17.9168 2.50789 6.56204 73.0133
+8    11.769 0.491599 18.1011 69.6383
+9        0 99.6849 0.315093     0
+10   0.916658 19.7766 26.7411 52.5656
+11   50.3688 25.49 22.8451 1.2961
+12   0.410172 1.5484 97.3236 0.717801
+13   70.8019 16.2104 0.880269 12.1074
+14   59.1634 12.7104 8.17853 19.9476
+15   16.1644 32.8978 29.1149 21.823
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 677
+CC  accession: M05505_2.00
+CC  AC: M05505_2.00
+CC  id: M05505_2.00
+CC  name: M05505_2.00
+CC  version: 
+CC  name: M05505_2.00
+CC  description: vgaayrttckmgaas 
+CC  transfac_consensus: 
+CC  matrix.nb: 677
+XX
+//
+AC  M05506_2.00
+XX
+ID  M05506_2.00
+XX
+DE  rgaayrttcyrgaac 
+P0       A     C     G     T
+1    43.1415 3.91139 47.6338 5.3133
+2        0 0.809655 98.6098 0.580507
+3    91.0437 2.79972 0.197461 5.9591
+4    81.9891 1.68932 1.65121 14.6704
+5    9.81486 43.7292 14.2614 32.1946
+6    28.9156 14.4074 48.7529 7.92409
+7    18.9349 3.05818 2.37272 75.6342
+8    14.7297 0.0997375 17.4016 67.769
+9    0.246286 99.3612 0.292465 0.100054
+10   0.562652 42.8756 1.27737 55.2844
+11   52.8716 1.2356 45.6029 0.289833
+12   0.440858 1.3973 96.4657 1.69618
+13   70.7824 15.889 0.833379 12.4952
+14   61.5113 9.16714 7.29941 22.0221
+15   19.8126 31.8488 24.2661 24.0725
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 678
+CC  accession: M05506_2.00
+CC  AC: M05506_2.00
+CC  id: M05506_2.00
+CC  name: M05506_2.00
+CC  version: 
+CC  name: M05506_2.00
+CC  description: rgaayrttcyrgaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 678
+XX
+//
+AC  M05507_2.00
+XX
+ID  M05507_2.00
+XX
+DE  vgaayrttctagaas 
+P0       A     C     G     T
+1    35.1802 29.0702 33.8086 1.94099
+2    0.506149 0.358377 98.9121 0.223404
+3    97.5176 0.517368 0.246639 1.71844
+4    87.4379 1.76197 1.47808 9.32206
+5    13.614 34.472 22.5249 29.389
+6    27.3774 17.6807 42.3137 12.6282
+7    14.5656 3.2298 3.57942 78.6252
+8    8.04821 0.287167 11.627 80.0377
+9    0.410673 98.6172 0.38051 0.591647
+10   0.589349 18.7039 23.7622 56.9446
+11   58.1016 20.3463 20.8545 0.697581
+12   1.02209 1.43542 95.4792 2.06328
+13   81.1222 9.35299 1.63852 7.88625
+14   68.4164 8.33716 6.89652 16.35
+15   22.3082 26.6983 29.5016 21.4918
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 679
+CC  accession: M05507_2.00
+CC  AC: M05507_2.00
+CC  id: M05507_2.00
+CC  name: M05507_2.00
+CC  version: 
+CC  name: M05507_2.00
+CC  description: vgaayrttctagaas 
+CC  transfac_consensus: 
+CC  matrix.nb: 679
+XX
+//
+AC  M05508_2.00
+XX
+ID  M05508_2.00
+XX
+DE  rgaabgttcyrgaag 
+P0       A     C     G     T
+1    36.6877 0.0634004 60.4628 2.78609
+2    0.167926 0.153932 99.3248 0.353345
+3    96.5089 0.788633     0 2.70243
+4    84.0617 1.0363 2.55226 12.3497
+5    11.8414 33.7489 27.2718 27.1379
+6    21.6653 15.7022 51.2205 11.4121
+7    14.7485 3.89101 2.34073 79.0197
+8    9.80525 0.569693 18.3732 71.2518
+9    0.478535 98.45 0.440391 0.631112
+10   0.354485 48.2943     0 51.3513
+11   40.2102     0 58.6132 1.17651
+12   1.59741 3.35974 91.806 3.23686
+13   69.7928 13.3853 5.18203 11.6399
+14   61.776 6.63432 12.4875 19.1022
+15   19.7034 23.7646 35.1731 21.3589
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 680
+CC  accession: M05508_2.00
+CC  AC: M05508_2.00
+CC  id: M05508_2.00
+CC  name: M05508_2.00
+CC  version: 
+CC  name: M05508_2.00
+CC  description: rgaabgttcyrgaag 
+CC  transfac_consensus: 
+CC  matrix.nb: 680
+XX
+//
+AC  M05509_2.00
+XX
+ID  M05509_2.00
+XX
+DE  vgaayrttckagaas 
+P0       A     C     G     T
+1    36.3579 28.6405 32.9394 2.06218
+2    0.386339 1.05084 97.4115 1.15129
+3    86.1134 5.23224 1.97404 6.68033
+4    81.0219 4.17095 3.29692 11.5103
+5    9.86753 41.6673 21.3532 27.1119
+6    30.6527 14.4341 44.9679 9.94528
+7    13.7393 2.75785 4.84183 78.661
+8    10.5052 0.856721 14.1507 74.4874
+9    0.165159 99.1506 0.684231     0
+10   0.809074 14.3016 25.4779 59.4114
+11   62.0876 19.44 17.8855 0.586929
+12       0 0.754361 99.0649 0.180732
+13   74.4698 12.9659 1.65987 10.9044
+14   67.7322 8.50481 6.69962 17.0633
+15   18.3549 28.627 30.6655 22.3527
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 681
+CC  accession: M05509_2.00
+CC  AC: M05509_2.00
+CC  id: M05509_2.00
+CC  name: M05509_2.00
+CC  version: 
+CC  name: M05509_2.00
+CC  description: vgaayrttckagaas 
+CC  transfac_consensus: 
+CC  matrix.nb: 681
+XX
+//
+AC  M05510_2.00
+XX
+ID  M05510_2.00
+XX
+DE  rgaayrttcyrgaac 
+P0       A     C     G     T
+1    43.4654 2.14543 51.2692 3.11988
+2    0.326641 1.3942 97.2913 0.98789
+3    80.1365 8.46512 1.49616 9.90222
+4    78.782 3.82556 4.0191 13.3733
+5    11.9319 45.4181 15.9365 26.7136
+6    37.0128 14.5103 37.6597 10.8172
+7    20.0354 5.13011 5.14723 69.6873
+8    18.4567 2.01611 16.0717 63.4554
+9    0.939608 98.0726 0.963701 0.0240925
+10   1.23705 47.1604 0.66672 50.9358
+11   51.6088 1.01442 45.1736 2.2032
+12   0.361891 2.4703 96.0743 1.09354
+13   66.2328 15.723 2.40807 15.6362
+14   61.5524 8.84577 8.53831 21.0635
+15   24.3531 26.605 24.5005 24.5414
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 682
+CC  accession: M05510_2.00
+CC  AC: M05510_2.00
+CC  id: M05510_2.00
+CC  name: M05510_2.00
+CC  version: 
+CC  name: M05510_2.00
+CC  description: rgaayrttcyrgaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 682
+XX
+//
+AC  M05553_2.00
+XX
+ID  M05553_2.00
+XX
+DE  ccwtacawgg 
+P0       A     C     G     T
+1    7.40859 89.6343 2.09857 0.858506
+2        0 95.3331     0 4.66689
+3    34.8474 15.9333 24.1306 25.0887
+4    17.8437 3.82122     0 78.335
+5    92.578 0.0656814 1.87192 5.4844
+6    14.8444 54.8444 12.9183 17.393
+7    86.0763 0.0610687 1.0687 12.7939
+8    28.8902 13.7817 1.20627 56.1218
+9    9.15243     0 90.8476     0
+10   0.691928 0.856672 92.883 5.56837
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 683
+CC  accession: M05553_2.00
+CC  AC: M05553_2.00
+CC  id: M05553_2.00
+CC  name: M05553_2.00
+CC  version: 
+CC  name: M05553_2.00
+CC  description: ccwtacawgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 683
+XX
+//
+AC  M05554_2.00
+XX
+ID  M05554_2.00
+XX
+DE  ccatacatgg 
+P0       A     C     G     T
+1    5.04713 94.8921     0 0.0608088
+2        0 99.1423     0 0.857687
+3    43.75 12.5641 22.9808 20.7051
+4    9.53295 0.159949     0 90.3071
+5    99.49     0 0.478164 0.0318776
+6    11.8687 61.3284 7.66359 19.1393
+7    95.6482     0 0.4597 3.89212
+8    24.9778 7.4162     0 67.6061
+9        0 0.414805 99.5852     0
+10       0     0 99.3316 0.668364
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 684
+CC  accession: M05554_2.00
+CC  AC: M05554_2.00
+CC  id: M05554_2.00
+CC  name: M05554_2.00
+CC  version: 
+CC  name: M05554_2.00
+CC  description: ccatacatgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 684
+XX
+//
+AC  M05715_2.00
+XX
+ID  M05715_2.00
+XX
+DE  sgttryyatrryaacs 
+P0       A     C     G     T
+1    13.4086 38.9682 27.7842 19.8391
+2    1.38593 0.0133262 98.5408 0.059968
+3    0.0804559 0.543077 0.221254 99.1552
+4    2.48307 9.65902 0.00594036 87.852
+5    30.1428 3.17215 54.4233 12.2617
+6    0.0662883 61.2711 3.72872 34.9339
+7        0 72.734 0.0983623 27.1677
+8    96.2136 0.325288 1.45729 2.00377
+9    2.47971 1.84851 0.418653 95.2531
+10   27.2799 0.0933065 72.6268     0
+11   34.6192 3.99867 61.3448 0.037332
+12   11.9235 53.5814 3.11945 31.3757
+13   87.4571 0.106446 9.99409 2.44234
+14   99.1486 0.107267 0.683829 0.0603379
+15   0.0199402 98.2984 0.00664673 1.67498
+16   20.1298 27.703 38.5489 13.6182
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 685
+CC  accession: M05715_2.00
+CC  AC: M05715_2.00
+CC  id: M05715_2.00
+CC  name: M05715_2.00
+CC  version: 
+CC  name: M05715_2.00
+CC  description: sgttryyatrryaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 685
+XX
+//
+AC  M05716_2.00
+XX
+ID  M05716_2.00
+XX
+DE  sgttgctargcaacs 
+P0       A     C     G     T
+1    5.18492 44.5975 34.3727 15.8448
+2    0.216763 0.144509 99.6387     0
+3    0.107991 0.575954 0.0359971 99.2801
+4    0.386372 2.73973     0 96.8739
+5    1.49679 0.142552 98.2894 0.0712758
+6        0 99.9638     0 0.036245
+7    0.239153 4.91971 0.614964 94.2262
+8    94.1664 0.324091 0.360101 5.14944
+9    34.8947 2.68938 61.8108 0.60511
+10   0.108656     0 99.8913     0
+11   0.824459 94.7441 0.0687049 4.36276
+12   96.1311 0.139421 3.13698 0.592541
+13   99.7108 0.0723066 0.144613 0.0723066
+14       0   100     0     0
+15   12.1827 25.9971 57.9043 3.91588
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 686
+CC  accession: M05716_2.00
+CC  AC: M05716_2.00
+CC  id: M05716_2.00
+CC  name: M05716_2.00
+CC  version: 
+CC  name: M05716_2.00
+CC  description: sgttgctargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 686
+XX
+//
+AC  M05717_2.00
+XX
+ID  M05717_2.00
+XX
+DE  sgttryyatrryaacs 
+P0       A     C     G     T
+1    11.6219 42.4613 26.1907 19.7261
+2    1.19914     0 98.7599 0.0409962
+3    0.0413394 0.258371 0.113683 99.5866
+4    1.22348 24.1289 0.0309741 74.6167
+5    32.5702 2.39991 53.2847 11.7452
+6    0.031835 61.3523 3.01159 35.6042
+7        0 74.5474 0.0154727 25.4371
+8    76.7197 0.207006 22.1099 0.963376
+9    1.03248 22.4287 0.00794218 76.5309
+10   25.1049     0 74.8951     0
+11   34.9314 2.93189 62.0916 0.045106
+12   12.1587 53.2552 2.70255 31.8835
+13   74.4323 0.0540708 24.1387 1.37494
+14   99.3812 0.0825083 0.474422 0.0618812
+15   0.0102785 99.0441 0.0205571 0.925069
+16   19.5081 28.2661 40.7907 11.4351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 687
+CC  accession: M05717_2.00
+CC  AC: M05717_2.00
+CC  id: M05717_2.00
+CC  name: M05717_2.00
+CC  version: 
+CC  name: M05717_2.00
+CC  description: sgttryyatrryaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 687
+XX
+//
+AC  M05718_2.00
+XX
+ID  M05718_2.00
+XX
+DE  sgttgctargcaacs 
+P0       A     C     G     T
+1    4.83619 37.5975 40.5616 17.0047
+2        0     0   100     0
+3        0 0.773994     0 99.226
+4    0.150602 3.16265 0.150602 96.5361
+5    1.67683 0.609756 97.7134     0
+6        0   100     0     0
+7    0.898204 3.14371     0 95.9581
+8    96.3134 1.5361     0 2.15054
+9    31.59 0.732218 67.0502 0.627615
+10   0.620155     0 99.3798     0
+11       0 94.4035 0.441826 5.15464
+12   96.5361 0.150602 3.31325     0
+13   99.226 0.773994     0     0
+14       0 99.5342 0.465839     0
+15   16.4062 32.8125 46.4062 4.375
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 688
+CC  accession: M05718_2.00
+CC  AC: M05718_2.00
+CC  id: M05718_2.00
+CC  name: M05718_2.00
+CC  version: 
+CC  name: M05718_2.00
+CC  description: sgttgctargcaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 688
+XX
+//
+AC  M05719_2.00
+XX
+ID  M05719_2.00
+XX
+DE  sgttryyatrryaacs 
+P0       A     C     G     T
+1    15.1034 37.0876 25.8619 21.9471
+2    5.18477     0 94.745 0.0702543
+3    0.171453 2.98614 0.500071 96.3423
+4    24.1916 16.4165 0.385036 59.0068
+5    31.2688 6.65873 45.2272 16.8453
+6    0.169246 65.2128 6.73598 27.882
+7    0.0050153 67.6363 0.24575 32.1129
+8    88.7237 0.743421 5.13158 5.40132
+9    5.04663 5.04002 0.714333 89.199
+10   31.9542 0.241315 67.7995     0
+11   27.8191 6.78917 65.2128 0.178917
+12   16.5215 44.805 6.69513 31.9784
+13   58.8215 0.54957 16.208 24.421
+14   96.6323 0.66638 2.64402 0.057323
+15   0.0210099 94.4464 0.0350165 5.49758
+16   22.2972 25.9454 37.0532 14.7041
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 689
+CC  accession: M05719_2.00
+CC  AC: M05719_2.00
+CC  id: M05719_2.00
+CC  name: M05719_2.00
+CC  version: 
+CC  name: M05719_2.00
+CC  description: sgttryyatrryaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 689
+XX
+//
+AC  M05720_2.00
+XX
+ID  M05720_2.00
+XX
+DE  cgttrccatggyaacs 
+P0       A     C     G     T
+1    10.8724 44.7884 24.8352 19.504
+2    0.538678 0.0242648 99.4031 0.0339707
+3    0.0681133 0.180014 0.0973047 99.6546
+4    17.2062 12.4069 0.0686601 70.3182
+5    33.0324 1.46608 51.7974 13.7041
+6    0.0328359 74.7309 1.10548 24.1308
+7    0.00782197 80.1087 0.0273769 19.8561
+8    79.7407 0.0389302 19.7649 0.455483
+9    0.45309 19.5063 0.0351535 80.0055
+10   19.8004 0.0195695 80.1683 0.0117417
+11   24.4835 1.11833 74.3728 0.0254167
+12   13.562 51.8354 1.38278 33.2198
+13   70.4028 0.0928026 12.6212 16.8832
+14   99.6691 0.0729891 0.20437 0.0535254
+15   0.00485578 99.461 0.0194231 0.514713
+16   19.3615 25.4052 44.4347 10.7987
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 690
+CC  accession: M05720_2.00
+CC  AC: M05720_2.00
+CC  id: M05720_2.00
+CC  name: M05720_2.00
+CC  version: 
+CC  name: M05720_2.00
+CC  description: cgttrccatggyaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 690
+XX
+//
+AC  M05721_2.00
+XX
+ID  M05721_2.00
+XX
+DE  cgttrycatgryaacs 
+P0       A     C     G     T
+1    9.70485 47.3436 24.5257 18.4258
+2    0.225411     0 99.7746     0
+3        0     0     0   100
+4    22.5432 5.42451     0 72.0323
+5    26.0703 0.80783 65.2877 7.83417
+6        0 73.6628 0.155682 26.1815
+7        0 85.0323     0 14.9677
+8    98.4903     0 1.50971     0
+9    0.385118 1.75443     0 97.8605
+10   15.4734     0 84.5225     0
+11   26.4985 0.155014 73.3465     0
+12   7.70169 65.6927 1.03753 25.5681
+13   72.1585     0 5.12025 22.7212
+14     100     0     0     0
+15       0 99.5598     0 0.440177
+16   18.5818 25.0194 46.4216 9.97716
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 691
+CC  accession: M05721_2.00
+CC  AC: M05721_2.00
+CC  id: M05721_2.00
+CC  name: M05721_2.00
+CC  version: 
+CC  name: M05721_2.00
+CC  description: cgttrycatgryaacs 
+CC  transfac_consensus: 
+CC  matrix.nb: 691
+XX
+//
+AC  M05722_2.00
+XX
+ID  M05722_2.00
+XX
+DE  cgtwrycatgrywacg 
+P0       A     C     G     T
+1    8.57804 47.3928 24.2659 19.7633
+2        0     0   100     0
+3        0     0     0   100
+4    26.247 6.70048     0 67.0525
+5    28.1981 0.146104 63.0195 8.63636
+6        0 72.9077     0 27.0923
+7        0 84.2808     0 15.7192
+8    91.5296     0 8.47043     0
+9        0 8.14875     0 91.8512
+10   14.648 0.0151872 85.3368     0
+11   27.8413     0 72.1587     0
+12   8.71679 61.9167 0.243033 29.1235
+13   66.442     0 7.63864 25.9194
+14     100     0     0     0
+15       0   100     0     0
+16   19.1671 23.8477 47.9801 9.00516
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 692
+CC  accession: M05722_2.00
+CC  AC: M05722_2.00
+CC  id: M05722_2.00
+CC  name: M05722_2.00
+CC  version: 
+CC  name: M05722_2.00
+CC  description: cgtwrycatgrywacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 692
+XX
+//
+AC  M05723_2.00
+XX
+ID  M05723_2.00
+XX
+DE  cgttrycatgryaacg 
+P0       A     C     G     T
+1    10.2354 46.251 23.5148 19.9988
+2    0.673815 0.00585926 99.3203     0
+3    0.0117592 0.276341 0.0470367 99.6649
+4    18.5056 7.79757 0.0608167 73.636
+5    33.5389 1.66273 57.3804 7.41794
+6        0 71.7594 1.93464 26.306
+7        0 83.085 0.0147044 16.9003
+8    97.9997 0.0925016 1.35862 0.549228
+9    0.393883 1.40176 0.0173772 98.187
+10   16.8865     0 83.1135     0
+11   26.4448 1.74859 71.7685 0.0381049
+12   7.76782 56.9409 1.79791 33.4934
+13   73.9057     0 7.86972 18.2246
+14   99.6531 0.0587889 0.288066     0
+15       0 99.2331     0 0.766889
+16   19.8572 23.8629 46.2333 10.0466
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 693
+CC  accession: M05723_2.00
+CC  AC: M05723_2.00
+CC  id: M05723_2.00
+CC  name: M05723_2.00
+CC  version: 
+CC  name: M05723_2.00
+CC  description: cgttrycatgryaacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 693
+XX
+//
+AC  M05724_2.00
+XX
+ID  M05724_2.00
+XX
+DE  cgttrycatgryaacg 
+P0       A     C     G     T
+1    10.5583 45.4736 20.9613 23.0068
+2    1.3383     0 98.6284 0.0332912
+3        0 0.215532 0.0134707 99.771
+4    20.3169 11.4458 0.00921192 68.2281
+5    36.9054 1.58758 50.8501 10.657
+6    0.0375781 69.5805 1.70511 28.6768
+7        0 79.7041 0.0107614 20.2852
+8    89.9284 0.0303545 9.66489 0.376396
+9    0.483559 9.97945     0 89.537
+10   20.358 0.0107515 79.6312     0
+11   28.8251 1.58782 69.5871     0
+12   10.7289 50.2335 1.70243 37.3352
+13   68.1998 0.0092081 11.4088 20.3821
+14   99.7508 0.114478 0.13468     0
+15       0 98.806     0 1.19397
+16   23.0255 21.3514 44.782 10.8411
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 694
+CC  accession: M05724_2.00
+CC  AC: M05724_2.00
+CC  id: M05724_2.00
+CC  name: M05724_2.00
+CC  version: 
+CC  name: M05724_2.00
+CC  description: cgttrycatgryaacg 
+CC  transfac_consensus: 
+CC  matrix.nb: 694
+XX
+//
+AC  M05749_2.00
+XX
+ID  M05749_2.00
+XX
+DE  agaacaatrg 
+P0       A     C     G     T
+1    40.34 24.8178 18.8563 15.9859
+2    20.8333 11.6554 51.4358 16.0755
+3    74.1778 6.13073 10.678 9.0134
+4    97.5962     0     0 2.40385
+5    0.155039 94.4186 1.80879 3.61757
+6    99.1319     0     0 0.86815
+7    95.8552 2.25603     0 1.88877
+8    12.6623 1.66976 0.927644 84.7403
+9    36.8679 5.65525 49.6737 7.80315
+10   16.4294 23.0559 49.9452 10.5696
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 695
+CC  accession: M05749_2.00
+CC  AC: M05749_2.00
+CC  id: M05749_2.00
+CC  name: M05749_2.00
+CC  version: 
+CC  name: M05749_2.00
+CC  description: agaacaatrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 695
+XX
+//
+AC  M05750_2.00
+XX
+ID  M05750_2.00
+XX
+DE  syattgttct 
+P0       A     C     G     T
+1    10.9777 37.2213 28.4734 23.3276
+2    8.81211 45.264 5.43478 40.4891
+3    83.0484 1.78063     0 15.1709
+4    1.34794 0.42123     0 98.2308
+5    0.594732 0.339847     0 99.0654
+6    3.05281 0.742574 96.2046     0
+7    3.0303 0.4914 0.982801 95.4955
+8    10.2323 14.2699 11.0066 64.4912
+9    22.0288 39.0358 18.2457 20.6897
+10   21.8806 18.0908 18.3411 41.6875
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 696
+CC  accession: M05750_2.00
+CC  AC: M05750_2.00
+CC  id: M05750_2.00
+CC  name: M05750_2.00
+CC  version: 
+CC  name: M05750_2.00
+CC  description: syattgttct 
+CC  transfac_consensus: 
+CC  matrix.nb: 696
+XX
+//
+AC  M05751_2.00
+XX
+ID  M05751_2.00
+XX
+DE  acaatrgvbcyattgt 
+P0       A     C     G     T
+1    97.4953     0 0.0626174 2.44208
+2        0 93.3453 0.839329 5.81535
+3    99.9358     0     0 0.0641849
+4    90.1042 3.64583 6.19213 0.0578704
+5    17.5522 3.08349 5.50285 73.8615
+6    28.4522 9.89082 54.271 7.386
+7    22.0796 23.2991 45.7638 8.85751
+8    25.7547 26.5254 28.966 18.754
+9    19.1394 28.8375 26.6538 25.3693
+10   8.48329 45.0514 23.7789 22.6864
+11   7.1887 54.1078 9.94865 28.7548
+12   73.5127 5.52408 3.11615 17.847
+13       0 5.66802 4.27993 90.0521
+14   0.0641849     0     0 99.9358
+15   5.87178 0.838826 93.2894     0
+16   2.62664     0     0 97.3734
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 697
+CC  accession: M05751_2.00
+CC  AC: M05751_2.00
+CC  id: M05751_2.00
+CC  name: M05751_2.00
+CC  version: 
+CC  name: M05751_2.00
+CC  description: acaatrgvbcyattgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 697
+XX
+//
+AC  M05752_2.00
+XX
+ID  M05752_2.00
+XX
+DE  acaatrgrbyyattgt 
+P0       A     C     G     T
+1    98.441     0     0 1.55902
+2        0 97.1429 0.21978 2.63736
+3      100     0     0     0
+4    94.0426 2.97872 2.97872     0
+5    11.9545 0.759013 3.41556 83.871
+6    27.088 5.86907 60.7223 6.32054
+7    24.6606 24.4344 41.8552 9.04977
+8    29.0249 24.9433 26.5306 19.5011
+9    19.2308 27.3756 25.3394 28.0543
+10   9.04977 41.1765 24.6606 25.1131
+11   5.65611 61.3122 4.97738 28.0543
+12   82.9268 3.18949 1.1257 12.758
+13       0 3.81356 2.54237 93.6441
+14       0     0     0   100
+15   2.64317     0 97.3568     0
+16   1.11857     0     0 98.8814
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 698
+CC  accession: M05752_2.00
+CC  AC: M05752_2.00
+CC  id: M05752_2.00
+CC  name: M05752_2.00
+CC  version: 
+CC  name: M05752_2.00
+CC  description: acaatrgrbyyattgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 698
+XX
+//
+AC  M05759_2.00
+XX
+ID  M05759_2.00
+XX
+DE  aacaatrgscyattgtt 
+P0       A     C     G     T
+1    75.8209 13.5821 0.597015    10
+2    99.6078     0     0 0.392157
+3        0   100     0     0
+4    99.8035     0     0 0.196464
+5      100     0     0     0
+6    2.30769     0     0 97.6923
+7    25.9332 0.196464 72.888 0.982318
+8    12.7953 23.0315 50.7874 13.3858
+9    17.4853 32.0236 31.2377 19.2534
+10   12.6233 50.8876 23.8659 12.6233
+11   0.393701 71.063     0 28.5433
+12   97.8805     0     0 2.11946
+13       0     0     0   100
+14       0     0     0   100
+15   0.196464     0 99.8035     0
+16   0.587084     0     0 99.4129
+17   10.5263 0.730994 14.4737 74.269
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 699
+CC  accession: M05759_2.00
+CC  AC: M05759_2.00
+CC  id: M05759_2.00
+CC  name: M05759_2.00
+CC  version: 
+CC  name: M05759_2.00
+CC  description: aacaatrgscyattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 699
+XX
+//
+AC  M05760_2.00
+XX
+ID  M05760_2.00
+XX
+DE  aacaatrgscyattgtt 
+P0       A     C     G     T
+1    81.9202 4.97612 9.78895 3.31469
+2    99.7366 0.00496993 0.0298196 0.228617
+3        0 99.9851 0.0149469     0
+4    99.9353     0 0.0547781     0
+5    99.9801     0 0.0149462     0
+6    2.93065 0.0145082 0.00483606 97.05
+7    36.7351 0.573052 61.8049 0.886984
+8    11.0175 20.2412 66.9324 1.80885
+9    14.4509 35.584 35.4146 14.5505
+10   1.58469 68.072 19.4947 10.8487
+11   0.951811 61.8578 0.583047 36.6074
+12   96.9562 0.00483138 0.0193255 3.01962
+13   0.00498231     0 0.00996463 99.9851
+14   0.00498058 0.0398446 0.00498058 99.9502
+15   0.00996264 0.014944 99.9651     0
+16   0.144271 0.0149246 0.00497488 99.8358
+17   3.44926 9.48036 4.95908 82.1113
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 700
+CC  accession: M05760_2.00
+CC  AC: M05760_2.00
+CC  id: M05760_2.00
+CC  name: M05760_2.00
+CC  version: 
+CC  name: M05760_2.00
+CC  description: aacaatrgscyattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 700
+XX
+//
+AC  M05761_2.00
+XX
+ID  M05761_2.00
+XX
+DE  aacaatrrmkcyattgtt 
+P0       A     C     G     T
+1    49.1788 16.7559 17.7339 16.3314
+2    95.9669     0 0.0720202 3.96111
+3        0 96.9443 1.38232 1.67334
+4    99.8501     0 0.112402 0.0374672
+5    94.5706 1.38396 3.97445 0.0709723
+6    14.719 2.31936 3.71692 79.2447
+7    29.7824 8.70218 55.7389 5.77644
+8    25.0281 21.9512 42.7767 10.2439
+9    29.97 27.3818 22.9182 19.7299
+10   20.7505 22.7392 26.8293 29.6811
+11   10.3604 42.455 22.2222 24.9625
+12   5.66604 56.8856 8.81801 28.6304
+13   79.5285 3.25276 2.5664 14.6523
+14   0.141493 3.53732 2.05164 94.2695
+15       0     0 0.0749906 99.925
+16   1.61646 0.47759 97.906     0
+17   3.57918 0.0723066     0 96.3485
+18   16.5057 19.2203 15.7224 48.5516
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 701
+CC  accession: M05761_2.00
+CC  AC: M05761_2.00
+CC  id: M05761_2.00
+CC  name: M05761_2.00
+CC  version: 
+CC  name: M05761_2.00
+CC  description: aacaatrrmkcyattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 701
+XX
+//
+AC  M05762_2.00
+XX
+ID  M05762_2.00
+XX
+DE  aacaatrrmkyyattgtt 
+P0       A     C     G     T
+1    49.6228 15.9248 18.36 16.0924
+2    96.7762 0.018162 0.036324 3.16927
+3    0.0367175 97.8245 0.642556 1.49624
+4    99.9625 0.00937998 0.0281399     0
+5    96.0609 1.72165 2.16333 0.0540833
+6    17.8229 0.98155 2.54613 78.6494
+7    27.2122 8.2481 57.1174 7.42235
+8    27.5244 22.9917 39.9587 9.52515
+9    28.1317 25.7953 24.9132 21.1598
+10   21.4695 23.7403 25.3261 29.4642
+11   9.13015 39.8517 23.6746 27.3435
+12   7.47865 56.6482 8.33255 27.5406
+13   79.2165 2.25972 0.899428 17.6243
+14       0 2.20197 1.6244 96.1736
+15   0.00937734 0.0375094 0.0187547 99.9344
+16   1.45898 0.743256 97.7886     0
+17   3.06419 0.0181851 0.0181851 96.8994
+18   15.9695 18.7236 15.2223 50.0846
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 702
+CC  accession: M05762_2.00
+CC  AC: M05762_2.00
+CC  id: M05762_2.00
+CC  name: M05762_2.00
+CC  version: 
+CC  name: M05762_2.00
+CC  description: aacaatrrmkyyattgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 702
+XX
+//
+AC  M05765_2.00
+XX
+ID  M05765_2.00
+XX
+DE  gaacaawgrv 
+P0       A     C     G     T
+1    24.8655 13.8047 43.5108 17.819
+2    61.9465 10.5538 22.7167 4.78304
+3    99.839     0     0 0.160973
+4        0 98.7615 0.654636 0.583864
+5    99.8748 0.0178923 0.107354     0
+6    99.6964 0.107162 0.196464     0
+7    65.8954 1.4166 0.590249 32.0977
+8    15.0882 0.94857 82.7331 1.23018
+9    29.1585 19.8105 48.6069 2.42407
+10   31.7986 25.7614 33.8409 8.59907
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 703
+CC  accession: M05765_2.00
+CC  AC: M05765_2.00
+CC  id: M05765_2.00
+CC  name: M05765_2.00
+CC  version: 
+CC  name: M05765_2.00
+CC  description: gaacaawgrv 
+CC  transfac_consensus: 
+CC  matrix.nb: 703
+XX
+//
+AC  M05766_2.00
+XX
+ID  M05766_2.00
+XX
+DE  raacaawgrr 
+P0       A     C     G     T
+1    28.8636 15.2299 35.5108 20.3957
+2    62.4349 11.7795 19.0304 6.75517
+3    99.8522     0     0 0.14781
+4        0 96.8335 1.36826 1.79828
+5      100     0     0     0
+6    99.8522     0 0.14781     0
+7    65.9361 0.727595 0.718722 32.6176
+8    19.3471 1.44506 77.2534 1.95447
+9    37.2344 19.2184 39.7948 3.75246
+10   36.3881 24.9899 28.2869 10.3351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 704
+CC  accession: M05766_2.00
+CC  AC: M05766_2.00
+CC  id: M05766_2.00
+CC  name: M05766_2.00
+CC  version: 
+CC  name: M05766_2.00
+CC  description: raacaawgrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 704
+XX
+//
+AC  M05767_2.00
+XX
+ID  M05767_2.00
+XX
+DE  mgaacaatrg 
+P0       A     C     G     T
+1    42.0022 32.53 11.8821 13.5857
+2    22.5863 9.11565 54.6352 13.6628
+3    82.6431 5.69145 7.79043 3.87503
+4    99.0614     0     0 0.938649
+5        0 98.87 0.0386324 1.09137
+6    99.9414     0 0.0585766     0
+7    95.2722 1.9637 1.00512 1.75896
+8    4.39501 3.35456 0.430532 91.8199
+9    37.6862 10.6567 40.1262 11.5309
+10   21.2269 21.1976 45.57 12.0055
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 705
+CC  accession: M05767_2.00
+CC  AC: M05767_2.00
+CC  id: M05767_2.00
+CC  name: M05767_2.00
+CC  version: 
+CC  name: M05767_2.00
+CC  description: mgaacaatrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 705
+XX
+//
+AC  M05768_2.00
+XX
+ID  M05768_2.00
+XX
+DE  agaacaatrs 
+P0       A     C     G     T
+1    42.1053 20.7018 13.6842 23.5088
+2    13.5279 16.7109 47.4801 22.2812
+3    44.3069 21.5347 17.8218 16.3366
+4    96.2366 3.76344     0     0
+5        0   100     0     0
+6    77.4892     0 22.5108     0
+7    81.7352     0 18.2648     0
+8        0 18.2648     0 81.7352
+9    49.4737 1.05263 44.7368 4.73684
+10   1.67598 29.0503 58.1006 11.1732
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 706
+CC  accession: M05768_2.00
+CC  AC: M05768_2.00
+CC  id: M05768_2.00
+CC  name: M05768_2.00
+CC  version: 
+CC  name: M05768_2.00
+CC  description: agaacaatrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 706
+XX
+//
+AC  M05769_2.00
+XX
+ID  M05769_2.00
+XX
+DE  myattktgvs 
+P0       A     C     G     T
+1    36.2173 42.4547 19.1147 2.21328
+2        0 64.5455     0 35.4545
+3    95.5769 3.26923 1.15385     0
+4    13.9767 0.665557 2.66223 82.6955
+5        0     0 1.77866 98.2213
+6        0     0 73.4121 26.5879
+7    15.1079 6.33094 7.05036 71.5108
+8    20.1334 23.5086 36.8524 19.5055
+9    31.2823 28.5796 28.4646 11.6734
+10   0.60241 41.5663 44.7791 13.0522
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 707
+CC  accession: M05769_2.00
+CC  AC: M05769_2.00
+CC  id: M05769_2.00
+CC  name: M05769_2.00
+CC  version: 
+CC  name: M05769_2.00
+CC  description: myattktgvs 
+CC  transfac_consensus: 
+CC  matrix.nb: 707
+XX
+//
+AC  M05770_2.00
+XX
+ID  M05770_2.00
+XX
+DE  syattgttmk 
+P0       A     C     G     T
+1    10.0441 44.0822 28.6931 17.1806
+2    3.51509 58.3848 0.891632 37.2085
+3    97.873     0 0.373671 1.75338
+4    1.61702 0.48227 1.30496 96.5957
+5        0 0.347021 1.18566 98.4673
+6        0     0   100     0
+7    3.59532     0 1.50502 94.8997
+8    12.0063 16.0031 18.4107 53.5799
+9    27.6395 36.0585 17.2932 19.0088
+10   24.9927 17.8855 25.8737 31.2482
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 708
+CC  accession: M05770_2.00
+CC  AC: M05770_2.00
+CC  id: M05770_2.00
+CC  name: M05770_2.00
+CC  version: 
+CC  name: M05770_2.00
+CC  description: syattgttmk 
+CC  transfac_consensus: 
+CC  matrix.nb: 708
+XX
+//
+AC  M05783_2.00
+XX
+ID  M05783_2.00
+XX
+DE  ccattgtkvg 
+P0       A     C     G     T
+1    24.6216 32.1897 22.7043 20.4844
+2    14.3552 60.2798 3.40633 21.9586
+3     99.1   0.9     0     0
+4    11.5709 2.19595 2.53378 83.6993
+5    2.2158     0 2.31214 95.4721
+6    6.80035 6.36443 86.3993 0.43592
+7    20.5748 7.25016 7.44611 64.7289
+8    19.0114 21.6145 30.389 28.9851
+9    27.3155 29.1385 25.8453 17.7007
+10   18.1452 21.6734 39.9194 20.2621
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 709
+CC  accession: M05783_2.00
+CC  AC: M05783_2.00
+CC  id: M05783_2.00
+CC  name: M05783_2.00
+CC  version: 
+CC  name: M05783_2.00
+CC  description: ccattgtkvg 
+CC  transfac_consensus: 
+CC  matrix.nb: 709
+XX
+//
+AC  M05784_2.00
+XX
+ID  M05784_2.00
+XX
+DE  ccattgtkmr 
+P0       A     C     G     T
+1    20.7892 35.2743 20.4042 23.5322
+2    10.2742 62.6092 2.98283 24.1338
+3    95.0595     0 2.19579 2.74474
+4    5.65621 0.972161 1.54662 91.825
+5        0 2.44131     0 97.5587
+6    6.81918 1.75979 91.421     0
+7    12.9129 5.10511 3.97898 78.003
+8    20.1841 18.9397 25.4518 35.4245
+9    31.1243 27.4868 22.4339 18.955
+10   26.962 21.1844 28.8397 23.014
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 710
+CC  accession: M05784_2.00
+CC  AC: M05784_2.00
+CC  id: M05784_2.00
+CC  name: M05784_2.00
+CC  version: 
+CC  name: M05784_2.00
+CC  description: ccattgtkmr 
+CC  transfac_consensus: 
+CC  matrix.nb: 710
+XX
+//
+AC  M05785_2.00
+XX
+ID  M05785_2.00
+XX
+DE  ccgaacaatg 
+P0       A     C     G     T
+1    21.1155 47.3307 17.0518 14.502
+2    8.4472 73.7888 5.46584 12.2981
+3    6.06061 2.47934 81.8182 9.64187
+4    89.1892 1.2012 4.05405 5.55556
+5    94.8882 2.07668     0 3.03514
+6     0.64 95.04   1.6  2.72
+7      100     0     0     0
+8    96.4286 2.75974     0 0.811688
+9        0 0.326797 2.61438 97.0588
+10   12.6263 11.2795 62.6263 13.468
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 711
+CC  accession: M05785_2.00
+CC  AC: M05785_2.00
+CC  id: M05785_2.00
+CC  name: M05785_2.00
+CC  version: 
+CC  name: M05785_2.00
+CC  description: ccgaacaatg 
+CC  transfac_consensus: 
+CC  matrix.nb: 711
+XX
+//
+AC  M05786_2.00
+XX
+ID  M05786_2.00
+XX
+DE  cattgttcgg 
+P0       A     C     G     T
+1    22.6316 42.6316 16.8421 17.8947
+2      100     0     0     0
+3        0     0     0   100
+4    3.06122     0 0.510204 96.4286
+5    0.526316     0 99.4737     0
+6    5.8296 3.58744 5.8296 84.7534
+7    9.32203 5.08475 5.50847 80.0847
+8    7.56014 64.9485 9.27835 18.2131
+9    6.52174 14.4928 68.4783 10.5072
+10   12.3529 14.4118 55.5882 17.6471
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 712
+CC  accession: M05786_2.00
+CC  AC: M05786_2.00
+CC  id: M05786_2.00
+CC  name: M05786_2.00
+CC  version: 
+CC  name: M05786_2.00
+CC  description: cattgttcgg 
+CC  transfac_consensus: 
+CC  matrix.nb: 712
+XX
+//
+AC  M05787_2.00
+XX
+ID  M05787_2.00
+XX
+DE  acaatrwyattgt 
+P0       A     C     G     T
+1    79.0207 5.26587 6.21054 9.50288
+2        0 99.1724     0 0.827562
+3    94.0813 2.86192 0.0612472 2.99555
+4    88.4012 8.50162 2.16595 0.931255
+5    0.359246     0 0.129564 99.5112
+6    25.2175 8.07836 45.3808 21.3233
+7    26.4544 23.081 24.2587 26.2058
+8    20.7848 44.8778 7.98958 26.3479
+9    99.3824 0.0529349 0.0823433 0.482296
+10   0.942021 2.50859 8.60831 87.9411
+11   2.92231 0.0223077 2.82193 94.2335
+12   0.773151 0.134716 98.9691 0.123001
+13   9.10148 6.08316 6.23198 78.5834
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 713
+CC  accession: M05787_2.00
+CC  AC: M05787_2.00
+CC  id: M05787_2.00
+CC  name: M05787_2.00
+CC  version: 
+CC  name: M05787_2.00
+CC  description: acaatrwyattgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 713
+XX
+//
+AC  M05788_2.00
+XX
+ID  M05788_2.00
+XX
+DE  acaatgwcattgt 
+P0       A     C     G     T
+1    84.4852 3.81856 4.95582 6.74044
+2    0.0513321 99.1479 0.112931 0.68785
+3    95.7136 1.93756     0 2.34886
+4    89.4254 7.35682 2.34733 0.870411
+5    0.45829 0.015448 0.0669413 99.4593
+6    24.2286 7.40319 44.2638 24.1044
+7    26.3267 23.5154 23.4999 26.658
+8    22.7595 46.2542 7.36733 23.6189
+9    99.6492 0.0567508 0.00515916 0.288913
+10   0.644093 2.21292 8.28119 88.8618
+11   2.43601 0.064366 1.86661 95.633
+12   0.882323     0 99.0818 0.0359085
+13   7.06867 4.49187 3.79508 84.6444
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 714
+CC  accession: M05788_2.00
+CC  AC: M05788_2.00
+CC  id: M05788_2.00
+CC  name: M05788_2.00
+CC  version: 
+CC  name: M05788_2.00
+CC  description: acaatgwcattgt 
+CC  transfac_consensus: 
+CC  matrix.nb: 714
+XX
+//
+AC  M05789_2.00
+XX
+ID  M05789_2.00
+XX
+DE  cattgttcggt 
+P0       A     C     G     T
+1    16.5105 35.7143 24.5902 23.185
+2    68.2654 4.55635 16.8665 10.3118
+3    1.98216 4.36075 9.01883 84.6383
+4        0     0     0   100
+5    0.350058     0 99.6499     0
+6        0 0.465116 0.232558 99.3023
+7    0.11325 0.226501 2.94451 96.7157
+8    4.92308 87.5897 2.66667 4.82051
+9    5.64516 3.42742 86.0887 4.83871
+10   6.82415 5.07437 74.7157 13.3858
+11   10.0877 7.96784 19.5175 62.4269
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 715
+CC  accession: M05789_2.00
+CC  AC: M05789_2.00
+CC  id: M05789_2.00
+CC  name: M05789_2.00
+CC  version: 
+CC  name: M05789_2.00
+CC  description: cattgttcggt 
+CC  transfac_consensus: 
+CC  matrix.nb: 715
+XX
+//
+AC  M05790_2.00
+XX
+ID  M05790_2.00
+XX
+DE  yattgttcggt 
+P0       A     C     G     T
+1    7.08661 54.3307 10.2362 28.3465
+2    88.7324     0 9.15493 2.11268
+3    0.694444 4.86111 6.94444  87.5
+4    2.25564 0.75188 2.25564 94.7368
+5    3.0303 0.757576 95.4545 0.757576
+6        0 0.787402     0 99.2126
+7    5.67376 4.25532 0.70922 89.3617
+8    14.6739 68.4783 5.97826 10.8696
+9    11.6667 14.5833  52.5 21.25
+10       7   9.5    63  20.5
+11   12.2699 2.45399 7.97546 77.3006
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 716
+CC  accession: M05790_2.00
+CC  AC: M05790_2.00
+CC  id: M05790_2.00
+CC  name: M05790_2.00
+CC  version: 
+CC  name: M05790_2.00
+CC  description: yattgttcggt 
+CC  transfac_consensus: 
+CC  matrix.nb: 716
+XX
+//
+AC  M05791_2.00
+XX
+ID  M05791_2.00
+XX
+DE  vacaaygs 
+P0       A     C     G     T
+1    25.9762 36.6723 28.5229 8.82852
+2    68.8084 3.85514 16.3551 10.9813
+3        0   100     0     0
+4    60.6591 14.3151 22.2451 2.78064
+5    76.0982 13.4367 8.65633 1.80879
+6        0 38.837     0 61.163
+7    24.1956     0 75.8044     0
+8    19.5616 48.398 32.0405     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 717
+CC  accession: M05791_2.00
+CC  AC: M05791_2.00
+CC  id: M05791_2.00
+CC  name: M05791_2.00
+CC  version: 
+CC  name: M05791_2.00
+CC  description: vacaaygs 
+CC  transfac_consensus: 
+CC  matrix.nb: 717
+XX
+//
+AC  M05792_2.00
+XX
+ID  M05792_2.00
+XX
+DE  syattgtk 
+P0       A     C     G     T
+1    0.2145 37.9665 41.3985 20.4204
+2    8.38223 55.8256 5.41253 30.3796
+3    96.8224     0     0 3.17757
+4    0.0428816     0     0 99.9571
+5        0     0     0   100
+6    2.41767 0.41684 97.1655     0
+7    2.50941     0     0 97.4906
+8    14.6718 21.9863 28.121 35.2209
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 718
+CC  accession: M05792_2.00
+CC  AC: M05792_2.00
+CC  id: M05792_2.00
+CC  name: M05792_2.00
+CC  version: 
+CC  name: M05792_2.00
+CC  description: syattgtk 
+CC  transfac_consensus: 
+CC  matrix.nb: 718
+XX
+//
+AC  M05871_2.00
+XX
+ID  M05871_2.00
+XX
+DE  ryyaatta 
+P0       A     C     G     T
+1     40.5    18  36.9   4.6
+2     17.2  35.2  18.4  29.3
+3      0.7  32.3   0.2  66.8
+4     95.8   0.9   2.6   0.7
+5     99.3   0.2   0.2   0.2
+6      0.2   0.2   0.2  99.4
+7      0.7   6.2   0.8  92.3
+8     82.6   0.2    16   1.2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 719
+CC  accession: M05871_2.00
+CC  AC: M05871_2.00
+CC  id: M05871_2.00
+CC  name: M05871_2.00
+CC  version: 
+CC  name: M05871_2.00
+CC  description: ryyaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 719
+XX
+//
+AC  M05888_2.00
+XX
+ID  M05888_2.00
+XX
+DE  bgttrcyatggyray 
+P0       A     C     G     T
+1     13.2  29.1  31.2  26.5
+2      6.1   0.1  93.3   0.4
+3      0.4     2   1.1  96.5
+4     12.3  11.5   2.3  73.9
+5     26.2   2.5    62   9.4
+6      0.6  76.5   2.7  20.1
+7      0.1  74.2   0.6  25.1
+8     79.3   4.1   4.8  11.8
+9     13.4   5.4     8  73.2
+10    19.5   1.1  79.2   0.1
+11     8.4   2.5  87.9   1.2
+12    23.1  30.1   8.3  38.5
+13    41.4   4.3  29.9  24.4
+14      73  10.1     9     8
+15     4.6  66.6   3.6  25.2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 720
+CC  accession: M05888_2.00
+CC  AC: M05888_2.00
+CC  id: M05888_2.00
+CC  name: M05888_2.00
+CC  version: 
+CC  name: M05888_2.00
+CC  description: bgttrcyatggyray 
+CC  transfac_consensus: 
+CC  matrix.nb: 720
+XX
+//
+AC  M05891_2.00
+XX
+ID  M05891_2.00
+XX
+DE  kycwttgttw 
+P0       A     C     G     T
+1     11.4  14.7  31.9    42
+2      7.5  37.7  21.4  33.4
+3       11  67.1  10.6  11.3
+4     55.6   3.5   2.4  38.5
+5     23.3   4.9   6.2  65.5
+6      5.4   3.7   2.6  88.3
+7      6.2     4  81.7   8.1
+8      9.3   3.5   3.9  83.3
+9      9.6   6.3    16  68.2
+10    40.2  17.2   4.8  37.8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 721
+CC  accession: M05891_2.00
+CC  AC: M05891_2.00
+CC  id: M05891_2.00
+CC  name: M05891_2.00
+CC  version: 
+CC  name: M05891_2.00
+CC  description: kycwttgttw 
+CC  transfac_consensus: 
+CC  matrix.nb: 721
+XX
+//
+AC  M05892_2.00
+XX
+ID  M05892_2.00
+XX
+DE  waacaatrgr 
+P0       A     C     G     T
+1     42.4  10.8  18.6  28.3
+2     60.4   9.3  19.6  10.8
+3     99.8     0   0.1   0.1
+4      0.1  98.5   0.1   1.4
+5     99.8     0   0.1   0.1
+6     99.8   0.1   0.1   0.1
+7      6.5   0.1   0.1  93.3
+8       50   2.9    36  11.1
+9     20.4  20.1  55.9   3.7
+10    35.2  21.3  25.3  18.1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 722
+CC  accession: M05892_2.00
+CC  AC: M05892_2.00
+CC  id: M05892_2.00
+CC  name: M05892_2.00
+CC  version: 
+CC  name: M05892_2.00
+CC  description: waacaatrgr 
+CC  transfac_consensus: 
+CC  matrix.nb: 722
+XX
+//
+AC  M05893_2.00
+XX
+ID  M05893_2.00
+XX
+DE  yywttgttyt 
+P0       A     C     G     T
+1      3.2  55.4  14.7  26.7
+2      6.2  41.2   2.6  50.1
+3     63.1   0.3   0.5  36.2
+4      0.3   0.3   0.6  98.8
+5      0.3   0.2   0.2  99.4
+6      8.3   2.1    89   0.5
+7      2.4   0.2   0.3  97.1
+8       18  18.8  12.5  50.6
+9     21.5  25.3  11.4  41.8
+10    24.1  18.8  16.5  40.7
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 723
+CC  accession: M05893_2.00
+CC  AC: M05893_2.00
+CC  id: M05893_2.00
+CC  name: M05893_2.00
+CC  version: 
+CC  name: M05893_2.00
+CC  description: yywttgttyt 
+CC  transfac_consensus: 
+CC  matrix.nb: 723
+XX
+//
+AC  M05894_2.00
+XX
+ID  M05894_2.00
+XX
+DE  waacaatrrr 
+P0       A     C     G     T
+1     39.6   7.6    20  32.8
+2     61.9  14.7  16.7   6.7
+3       97   1.1   0.8   1.1
+4      0.7  90.2     2   7.1
+5     97.7   0.6   0.8   0.8
+6     97.2   0.7   0.7   1.4
+7      7.6   1.4   0.9  90.1
+8     44.1   3.3  37.7  14.9
+9     25.6  18.8  44.3  11.3
+10    30.3  17.9  28.5  23.3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 724
+CC  accession: M05894_2.00
+CC  AC: M05894_2.00
+CC  id: M05894_2.00
+CC  name: M05894_2.00
+CC  version: 
+CC  name: M05894_2.00
+CC  description: waacaatrrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 724
+XX
+//
+AC  M05896_2.00
+XX
+ID  M05896_2.00
+XX
+DE  raacaatrgr 
+P0       A     C     G     T
+1     45.7   6.3  27.7  20.2
+2     59.5   9.5  19.5  11.5
+3     99.7   0.1   0.1   0.2
+4      0.1  99.4   0.3   0.3
+5     99.7   0.1   0.1   0.1
+6     99.7   0.1   0.1   0.1
+7      3.7   0.1   0.1    96
+8     35.6   7.9  45.5  11.1
+9       21  18.2  53.8   6.9
+10    35.7  20.5  26.1  17.8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 725
+CC  accession: M05896_2.00
+CC  AC: M05896_2.00
+CC  id: M05896_2.00
+CC  name: M05896_2.00
+CC  version: 
+CC  name: M05896_2.00
+CC  description: raacaatrgr 
+CC  transfac_consensus: 
+CC  matrix.nb: 725
+XX
+//
+AC  M05897_2.00
+XX
+ID  M05897_2.00
+XX
+DE  aacaawrgra 
+P0       A     C     G     T
+1     52.9  14.4  18.6  14.2
+2     99.3   0.1   0.1   0.5
+3      0.1  91.5   0.3   8.1
+4     99.6   0.1   0.1   0.2
+5     99.6   0.1   0.1   0.1
+6     33.2   0.3   0.1  66.4
+7       48   0.7    45   6.3
+8     24.5  12.6  61.6   1.3
+9     37.1  22.7  26.3  13.9
+10    30.5  21.9  23.2  24.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 726
+CC  accession: M05897_2.00
+CC  AC: M05897_2.00
+CC  id: M05897_2.00
+CC  name: M05897_2.00
+CC  version: 
+CC  name: M05897_2.00
+CC  description: aacaawrgra 
+CC  transfac_consensus: 
+CC  matrix.nb: 726
+XX
+//
+AC  M05898_2.00
+XX
+ID  M05898_2.00
+XX
+DE  aacaatrr 
+P0       A     C     G     T
+1     50.5  15.8  19.2  14.5
+2     98.7   0.3   0.4   0.7
+3      0.5  91.9   0.9   6.7
+4     98.7   0.5   0.3   0.4
+5     94.7     1   3.6   0.7
+6     14.9   0.9   0.6  83.7
+7     38.3  14.4  30.5  16.8
+8     29.4  14.6  46.1   9.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 727
+CC  accession: M05898_2.00
+CC  AC: M05898_2.00
+CC  id: M05898_2.00
+CC  name: M05898_2.00
+CC  version: 
+CC  name: M05898_2.00
+CC  description: aacaatrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 727
+XX
+//
+AC  M05900_2.00
+XX
+ID  ORC2
+XX
+DE  ORC2
+P0       A     C     G     T
+1    43.75     0    50  6.25
+2        0 5.88235     0 94.1176
+3        0 5.88235 29.4118 64.7059
+4    29.4118     0 70.5882     0
+5        0 58.8235     0 41.1765
+6        0     0   100     0
+7    5.88235 58.8235     0 35.2941
+8      100     0     0     0
+9      100     0     0     0
+10       0     0 5.88235 94.1176
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 728
+CC  accession: M05900_2.00
+CC  AC: M05900_2.00
+CC  id: M05900_2.00
+CC  name: ORC2
+CC  version: 
+CC  name: ORC2
+CC  description: ORC2
+CC  transfac_consensus: 
+CC  matrix.nb: 728
+XX
+//
+AC  M06212_2.00
+XX
+ID  M06212_2.00
+XX
+DE  taattaa 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6       85     0    15     0
+7       90     0    10     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 729
+CC  accession: M06212_2.00
+CC  AC: M06212_2.00
+CC  id: M06212_2.00
+CC  name: M06212_2.00
+CC  version: 
+CC  name: M06212_2.00
+CC  description: taattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 729
+XX
+//
+AC  M06213_2.00
+XX
+ID  M06213_2.00
+XX
+DE  ysytaattr 
+P0       A     C     G     T
+1    18.9655 35.1724 14.8276 31.0345
+2    20.8443 26.3852 32.19 20.5805
+3    8.06452    50 2.07373 39.8618
+4    0.460829     0     0 99.5392
+5    97.6959 2.30415     0     0
+6    97.235 2.76498     0     0
+7        0     0 2.30415 97.6959
+8    1.15207 0.691244 5.52995 92.6267
+9    62.7273 1.51515 32.7273 3.0303
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 730
+CC  accession: M06213_2.00
+CC  AC: M06213_2.00
+CC  id: M06213_2.00
+CC  name: M06213_2.00
+CC  version: 
+CC  name: M06213_2.00
+CC  description: ysytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 730
+XX
+//
+AC  M06229_2.00
+XX
+ID  M06229_2.00
+XX
+DE  taattgsts 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6    23.8095     0 76.1905     0
+7    4.7619 28.5714 61.9048 4.7619
+8    19.0476 19.0476 9.52381 52.381
+9        0 42.8571 38.0952 19.0476
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 731
+CC  accession: M06229_2.00
+CC  AC: M06229_2.00
+CC  id: M06229_2.00
+CC  name: M06229_2.00
+CC  version: 
+CC  name: M06229_2.00
+CC  description: taattgsts 
+CC  transfac_consensus: 
+CC  matrix.nb: 731
+XX
+//
+AC  M06230_2.00
+XX
+ID  M06230_2.00
+XX
+DE  taattr 
+P0       A     C     G     T
+1        0     0     0   100
+2    89.3502 9.38628     0 1.26354
+3    87.7256 12.2744     0     0
+4        0     0 1.44404 98.556
+5        0 1.08303 3.2491 95.6679
+6    39.8917 1.80505 55.2347 3.06859
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 732
+CC  accession: M06230_2.00
+CC  AC: M06230_2.00
+CC  id: M06230_2.00
+CC  name: M06230_2.00
+CC  version: 
+CC  name: M06230_2.00
+CC  description: taattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 732
+XX
+//
+AC  M06236_2.00
+XX
+ID  M06236_2.00
+XX
+DE  gytaattr 
+P0       A     C     G     T
+1    13.0435 13.0435 52.1739 21.7391
+2    8.69565 34.7826 8.69565 47.8261
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 8.69565 91.3043
+8    56.5217     0 43.4783     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 733
+CC  accession: M06236_2.00
+CC  AC: M06236_2.00
+CC  id: M06236_2.00
+CC  name: M06236_2.00
+CC  version: 
+CC  name: M06236_2.00
+CC  description: gytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 733
+XX
+//
+AC  M06237_2.00
+XX
+ID  M06237_2.00
+XX
+DE  rytaatkr 
+P0       A     C     G     T
+1    37.7358 5.66038 33.9623 22.6415
+2    9.43396 28.3019 22.6415 39.6226
+3    13.2075 13.2075     0 73.5849
+4    71.6981     0 7.54717 20.7547
+5    98.1132     0     0 1.88679
+6        0 3.77358 3.77358 92.4528
+7        0 11.3208 26.4151 62.2642
+8    50.9434     0 49.0566     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 734
+CC  accession: M06237_2.00
+CC  AC: M06237_2.00
+CC  id: M06237_2.00
+CC  name: M06237_2.00
+CC  version: 
+CC  name: M06237_2.00
+CC  description: rytaatkr 
+CC  transfac_consensus: 
+CC  matrix.nb: 734
+XX
+//
+AC  M06238_2.00
+XX
+ID  M06238_2.00
+XX
+DE  yyytaattrv 
+P0       A     C     G     T
+1    19.7452 27.3885 22.1772 30.6891
+2    23.832 26.384 24.2246 25.5595
+3    18.4308 26.4249 17.1355 38.0089
+4    19.8372 4.84826     0 75.3146
+5    77.2021     0 22.7979     0
+6      100     0     0     0
+7        0     0     0   100
+8    8.91932     0 17.4315 73.6491
+9    61.2045 1.64255 35.9797 1.17325
+10   28.0343 25.2639 29.8813 16.8206
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 735
+CC  accession: M06238_2.00
+CC  AC: M06238_2.00
+CC  id: M06238_2.00
+CC  name: M06238_2.00
+CC  version: 
+CC  name: M06238_2.00
+CC  description: yyytaattrv 
+CC  transfac_consensus: 
+CC  matrix.nb: 735
+XX
+//
+AC  M06239_2.00
+XX
+ID  M06239_2.00
+XX
+DE  ttaattr 
+P0       A     C     G     T
+1    15.233 22.4612 12.724 49.5818
+2    10.6332 1.19474     0 88.172
+3    75.3286     0 12.6045 12.0669
+4      100     0     0     0
+5    0.179211     0     0 99.8208
+6    5.25687 0.896057 15.4719 78.3751
+7    59.319     0 40.681     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 736
+CC  accession: M06239_2.00
+CC  AC: M06239_2.00
+CC  id: M06239_2.00
+CC  name: M06239_2.00
+CC  version: 
+CC  name: M06239_2.00
+CC  description: ttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 736
+XX
+//
+AC  M06255_2.00
+XX
+ID  M06255_2.00
+XX
+DE  wytaattr 
+P0       A     C     G     T
+1       25     0 18.75 56.25
+2     6.25 56.25     0  37.5
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8    68.75     0 31.25     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 737
+CC  accession: M06255_2.00
+CC  AC: M06255_2.00
+CC  id: M06255_2.00
+CC  name: M06255_2.00
+CC  version: 
+CC  name: M06255_2.00
+CC  description: wytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 737
+XX
+//
+AC  M06256_2.00
+XX
+ID  M06256_2.00
+XX
+DE  kttaattrs 
+P0       A     C     G     T
+1    24.0788 24.4216 26.3925 25.1071
+2    18.902 22.6667 11.451 46.9804
+3    7.03919 0.943396 0.145138 91.8723
+4    83.672 0.217707 16.1103     0
+5      100     0     0     0
+6        0     0 0.435414 99.5646
+7    3.70102     0 9.21626 87.0827
+8    54.9347     0 45.0653     0
+9    21.9237 30.156 38.3016 9.61872
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 738
+CC  accession: M06256_2.00
+CC  AC: M06256_2.00
+CC  id: M06256_2.00
+CC  name: M06256_2.00
+CC  version: 
+CC  name: M06256_2.00
+CC  description: kttaattrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 738
+XX
+//
+AC  M06257_2.00
+XX
+ID  M06257_2.00
+XX
+DE  cttaattrv 
+P0       A     C     G     T
+1    24.961 26.3651 23.869 24.805
+2    23.7693 19.4093 6.61041 50.211
+3        0     0     0   100
+4    88.3905     0 11.6095     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 18.6016 81.3984
+8    52.1108     0 41.9525 5.93668
+9    28.9269 25.1944 41.5241 4.35459
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 739
+CC  accession: M06257_2.00
+CC  AC: M06257_2.00
+CC  id: M06257_2.00
+CC  name: M06257_2.00
+CC  version: 
+CC  name: M06257_2.00
+CC  description: cttaattrv 
+CC  transfac_consensus: 
+CC  matrix.nb: 739
+XX
+//
+AC  M06264_2.00
+XX
+ID  M06264_2.00
+XX
+DE  gytaatta 
+P0       A     C     G     T
+1    21.7391 17.3913 47.8261 13.0435
+2    4.34783 52.1739 13.0435 30.4348
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 13.0435 86.9565
+8    82.6087     0 17.3913     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 740
+CC  accession: M06264_2.00
+CC  AC: M06264_2.00
+CC  id: M06264_2.00
+CC  name: M06264_2.00
+CC  version: 
+CC  name: M06264_2.00
+CC  description: gytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 740
+XX
+//
+AC  M06265_2.00
+XX
+ID  M06265_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    18.9024 28.9634 10.9756 41.1585
+2    0.914634     0     0 99.0854
+3    97.2561 0.609756 0.609756 1.52439
+4    99.6951     0 0.304878     0
+5    0.609756     0 0.304878 99.0854
+6    0.304878 1.52439 15.2439 82.9268
+7    70.4268 0.609756 28.6585 0.304878
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 741
+CC  accession: M06265_2.00
+CC  AC: M06265_2.00
+CC  id: M06265_2.00
+CC  name: M06265_2.00
+CC  version: 
+CC  name: M06265_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 741
+XX
+//
+AC  M06291_2.00
+XX
+ID  M06291_2.00
+XX
+DE  twawtta 
+P0       A     C     G     T
+1        0 5.88235 5.88235 88.2353
+2    29.4118     0     0 70.5882
+3      100     0     0     0
+4    70.5882     0     0 29.4118
+5        0     0     0   100
+6    11.7647     0 17.6471 70.5882
+7    70.5882     0 23.5294 5.88235
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 742
+CC  accession: M06291_2.00
+CC  AC: M06291_2.00
+CC  id: M06291_2.00
+CC  name: M06291_2.00
+CC  version: 
+CC  name: M06291_2.00
+CC  description: twawtta 
+CC  transfac_consensus: 
+CC  matrix.nb: 742
+XX
+//
+AC  M06292_2.00
+XX
+ID  M06292_2.00
+XX
+DE  kytaattr 
+P0       A     C     G     T
+1    18.3833 24.837 30.8344 25.9452
+2    14.472 31.8774 12.1904 41.4602
+3    3.32464 4.49804 7.49674 84.6806
+4    95.2412 3.84615 0.521512 0.391134
+5    96.6754 3.32464     0     0
+6        0     0 13.8201 86.1799
+7    2.86832 2.80313 16.2973 78.0313
+8    66.0365 0.912647 27.9009 5.14993
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 743
+CC  accession: M06292_2.00
+CC  AC: M06292_2.00
+CC  id: M06292_2.00
+CC  name: M06292_2.00
+CC  version: 
+CC  name: M06292_2.00
+CC  description: kytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 743
+XX
+//
+AC  M06301_2.00
+XX
+ID  M06301_2.00
+XX
+DE  tttaattr 
+P0       A     C     G     T
+1    21.4286 10.7143 21.4286 46.4286
+2    3.57143 14.2857 14.2857 67.8571
+3    3.57143     0     0 96.4286
+4    96.4286     0     0 3.57143
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8       75     0    25     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 744
+CC  accession: M06301_2.00
+CC  AC: M06301_2.00
+CC  id: M06301_2.00
+CC  name: M06301_2.00
+CC  version: 
+CC  name: M06301_2.00
+CC  description: tttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 744
+XX
+//
+AC  M06302_2.00
+XX
+ID  M06302_2.00
+XX
+DE  ttaattr 
+P0       A     C     G     T
+1    9.86602 20.9501 5.60292 63.581
+2    4.14129 2.07065     0 93.7881
+3    93.5445     0 0.852619 5.60292
+4      100     0     0     0
+5        0     0     0   100
+6    2.19245 1.58343 11.3276 84.8965
+7    61.754 4.3849 32.5213 1.33983
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 745
+CC  accession: M06302_2.00
+CC  AC: M06302_2.00
+CC  id: M06302_2.00
+CC  name: M06302_2.00
+CC  version: 
+CC  name: M06302_2.00
+CC  description: ttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 745
+XX
+//
+AC  M06309_2.00
+XX
+ID  M06309_2.00
+XX
+DE  tytaatta 
+P0       A     C     G     T
+1       15    20    10    55
+2        5    30    10    55
+3        0     5     0    95
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     5    20    75
+8       75     0    15    10
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 746
+CC  accession: M06309_2.00
+CC  AC: M06309_2.00
+CC  id: M06309_2.00
+CC  name: M06309_2.00
+CC  version: 
+CC  name: M06309_2.00
+CC  description: tytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 746
+XX
+//
+AC  M06310_2.00
+XX
+ID  M06310_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    12.3675 34.9823 9.18728 43.4629
+2    1.23675 0.353357 0.706714 97.7032
+3    97.3498 1.06007 0.883392 0.706714
+4    97.3498 1.94346 0.706714     0
+5    0.706714 1.06007 1.06007 97.1731
+6    3.53357 4.41696 10.6007 81.4488
+7    65.371 0.353357 31.6254 2.65018
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 747
+CC  accession: M06310_2.00
+CC  AC: M06310_2.00
+CC  id: M06310_2.00
+CC  name: M06310_2.00
+CC  version: 
+CC  name: M06310_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 747
+XX
+//
+AC  M06311_2.00
+XX
+ID  M06311_2.00
+XX
+DE  cytaattr 
+P0       A     C     G     T
+1    23.8095 47.619 14.2857 14.2857
+2    4.7619 28.5714 19.0476 47.619
+3    4.7619     0     0 95.2381
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 9.52381 90.4762
+8    66.6667     0 33.3333     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 748
+CC  accession: M06311_2.00
+CC  AC: M06311_2.00
+CC  id: M06311_2.00
+CC  name: M06311_2.00
+CC  version: 
+CC  name: M06311_2.00
+CC  description: cytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 748
+XX
+//
+AC  M06312_2.00
+XX
+ID  M06312_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    17.4342 32.3465 12.3904 37.8289
+2    3.72807     0 0.219298 96.0526
+3    98.5746 0.328947 0.767544 0.328947
+4    98.5746 0.657895 0.767544     0
+5        0     0 1.09649 98.9035
+6    1.09649 5.04386 15.1316 78.7281
+7    56.3596 0.986842 41.886 0.767544
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 749
+CC  accession: M06312_2.00
+CC  AC: M06312_2.00
+CC  id: M06312_2.00
+CC  name: M06312_2.00
+CC  version: 
+CC  name: M06312_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 749
+XX
+//
+AC  M06317_2.00
+XX
+ID  M06317_2.00
+XX
+DE  rytaattr 
+P0       A     C     G     T
+1    25.9259 18.5185 44.4444 11.1111
+2    11.1111 48.1481     0 40.7407
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8    62.963     0 37.037     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 750
+CC  accession: M06317_2.00
+CC  AC: M06317_2.00
+CC  id: M06317_2.00
+CC  name: M06317_2.00
+CC  version: 
+CC  name: M06317_2.00
+CC  description: rytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 750
+XX
+//
+AC  M06318_2.00
+XX
+ID  M06318_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    15.6614 31.1111 9.62963 43.5979
+2    0.846561 1.37566     0 97.7778
+3    96.1905 1.90476 0.31746 1.5873
+4    99.1534     0 0.846561     0
+5    0.31746 0.10582 0.740741 98.836
+6    1.69312 2.22222 5.07937 91.0053
+7    59.4709 1.90476 34.1799 4.44444
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 751
+CC  accession: M06318_2.00
+CC  AC: M06318_2.00
+CC  id: M06318_2.00
+CC  name: M06318_2.00
+CC  version: 
+CC  name: M06318_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 751
+XX
+//
+AC  M06321_2.00
+XX
+ID  M06321_2.00
+XX
+DE  amtaattr 
+P0       A     C     G     T
+1    47.619 19.0476 14.2857 19.0476
+2    28.5714 42.8571 9.52381 19.0476
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0 4.7619     0 95.2381
+8    61.9048 4.7619 28.5714 4.7619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 752
+CC  accession: M06321_2.00
+CC  AC: M06321_2.00
+CC  id: M06321_2.00
+CC  name: M06321_2.00
+CC  version: 
+CC  name: M06321_2.00
+CC  description: amtaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 752
+XX
+//
+AC  M06322_2.00
+XX
+ID  M06322_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    11.8474 35.9438 5.22088 46.988
+2    0.60241 0.60241 0.60241 98.1928
+3    99.3976 0.200803     0 0.401606
+4    99.3976 0.200803     0 0.401606
+5        0 0.401606 0.60241 98.996
+6    3.01205 2.20884 4.61847 90.1606
+7    59.6386 3.01205 30.9237 6.4257
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 753
+CC  accession: M06322_2.00
+CC  AC: M06322_2.00
+CC  id: M06322_2.00
+CC  name: M06322_2.00
+CC  version: 
+CC  name: M06322_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 753
+XX
+//
+AC  M06325_2.00
+XX
+ID  M06325_2.00
+XX
+DE  htaatt 
+P0       A     C     G     T
+1    29.4118 29.4118     0 41.1765
+2    5.88235     0     0 94.1176
+3    88.2353     0     0 11.7647
+4    94.1176     0 5.88235     0
+5    5.88235     0     0 94.1176
+6    5.88235     0 5.88235 88.2353
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 754
+CC  accession: M06325_2.00
+CC  AC: M06325_2.00
+CC  id: M06325_2.00
+CC  name: M06325_2.00
+CC  version: 
+CC  name: M06325_2.00
+CC  description: htaatt 
+CC  transfac_consensus: 
+CC  matrix.nb: 754
+XX
+//
+AC  M06326_2.00
+XX
+ID  M06326_2.00
+XX
+DE  ytaatt 
+P0       A     C     G     T
+1    13.2895 29.8684 8.81579 48.0263
+2    2.23684     0     0 97.7632
+3    98.0263     0     0 1.97368
+4      100     0     0     0
+5        0     0     0   100
+6    4.86842 2.63158 6.84211 85.6579
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 755
+CC  accession: M06326_2.00
+CC  AC: M06326_2.00
+CC  id: M06326_2.00
+CC  name: M06326_2.00
+CC  version: 
+CC  name: M06326_2.00
+CC  description: ytaatt 
+CC  transfac_consensus: 
+CC  matrix.nb: 755
+XX
+//
+AC  M06330_2.00
+XX
+ID  M06330_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1        0    50 18.1818 31.8182
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    59.0909     0 36.3636 4.54545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 756
+CC  accession: M06330_2.00
+CC  AC: M06330_2.00
+CC  id: M06330_2.00
+CC  name: M06330_2.00
+CC  version: 
+CC  name: M06330_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 756
+XX
+//
+AC  M06331_2.00
+XX
+ID  M06331_2.00
+XX
+DE  sytaattr 
+P0       A     C     G     T
+1    19.1589 27.0093 30.4673 23.3645
+2    16.3551 26.8224 11.215 45.6075
+3    1.96262 1.1215     0 96.9159
+4    97.9439     0 1.1215 0.934579
+5      100     0     0     0
+6        0 0.747664 0.560748 98.6916
+7    3.36449 0.841121 8.59813 87.1963
+8    46.4486 1.49533 46.2617 5.79439
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 757
+CC  accession: M06331_2.00
+CC  AC: M06331_2.00
+CC  id: M06331_2.00
+CC  name: M06331_2.00
+CC  version: 
+CC  name: M06331_2.00
+CC  description: sytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 757
+XX
+//
+AC  M06337_2.00
+XX
+ID  M06337_2.00
+XX
+DE  taattaa 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6    86.6667     0 13.3333     0
+7       80     0    20     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 758
+CC  accession: M06337_2.00
+CC  AC: M06337_2.00
+CC  id: M06337_2.00
+CC  name: M06337_2.00
+CC  version: 
+CC  name: M06337_2.00
+CC  description: taattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 758
+XX
+//
+AC  M06338_2.00
+XX
+ID  M06338_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    15.7534 27.3973 11.9863 44.863
+2    1.5411 1.88356     0 96.5753
+3    99.1438 0.342466 0.342466 0.171233
+4    99.8288 0.171233     0     0
+5        0     0 1.71233 98.2877
+6    3.25342 3.25342 7.02055 86.4726
+7    60.9589 3.42466 28.9384 6.67808
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 759
+CC  accession: M06338_2.00
+CC  AC: M06338_2.00
+CC  id: M06338_2.00
+CC  name: M06338_2.00
+CC  version: 
+CC  name: M06338_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 759
+XX
+//
+AC  M06350_2.00
+XX
+ID  M06350_2.00
+XX
+DE  aytaattr 
+P0       A     C     G     T
+1       55    10    20    15
+2       10    45    15    30
+3        0     0     0   100
+4       90     0     0    10
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     5    95
+8       70     0    30     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 760
+CC  accession: M06350_2.00
+CC  AC: M06350_2.00
+CC  id: M06350_2.00
+CC  name: M06350_2.00
+CC  version: 
+CC  name: M06350_2.00
+CC  description: aytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 760
+XX
+//
+AC  M06351_2.00
+XX
+ID  M06351_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    17.1521 29.4498 6.79612 46.6019
+2    1.2945 0.647249     0 98.0583
+3    98.7055 1.2945     0     0
+4      100     0     0     0
+5        0     0     0   100
+6    1.61812     0 4.85437 93.5275
+7    58.8997 2.26537 34.9515 3.8835
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 761
+CC  accession: M06351_2.00
+CC  AC: M06351_2.00
+CC  id: M06351_2.00
+CC  name: M06351_2.00
+CC  version: 
+CC  name: M06351_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 761
+XX
+//
+AC  M06370_2.00
+XX
+ID  M06370_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    8.69565 26.087 8.69565 56.5217
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 8.69565 91.3043
+7    52.1739     0 43.4783 4.34783
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 762
+CC  accession: M06370_2.00
+CC  AC: M06370_2.00
+CC  id: M06370_2.00
+CC  name: M06370_2.00
+CC  version: 
+CC  name: M06370_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 762
+XX
+//
+AC  M06371_2.00
+XX
+ID  M06371_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    15.5385 31.0769 10.4615 42.9231
+2    1.69231     0     0 98.3077
+3    97.0769 1.53846 1.38462     0
+4    98.3077 1.69231     0     0
+5        0 0.461538 2.46154 97.0769
+6    5.69231 1.53846 9.69231 83.0769
+7    56.6154 2.92308    36 4.46154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 763
+CC  accession: M06371_2.00
+CC  AC: M06371_2.00
+CC  id: M06371_2.00
+CC  name: M06371_2.00
+CC  version: 
+CC  name: M06371_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 763
+XX
+//
+AC  M06380_2.00
+XX
+ID  M06380_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    4.54545 36.3636 4.54545 54.5455
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6    9.09091     0 13.6364 77.2727
+7    68.1818     0 27.2727 4.54545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 764
+CC  accession: M06380_2.00
+CC  AC: M06380_2.00
+CC  id: M06380_2.00
+CC  name: M06380_2.00
+CC  version: 
+CC  name: M06380_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 764
+XX
+//
+AC  M06381_2.00
+XX
+ID  M06381_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    15.7978 28.1201 11.2164 44.8657
+2    1.89573 0.315956 0.473934 97.3144
+3    97.9463 0.631912 1.10585 0.315956
+4    99.842 0.157978     0     0
+5        0     0 1.73776 98.2622
+6    5.21327 2.21169 11.0585 81.5166
+7    59.3997 1.26382 34.4392 4.89731
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 765
+CC  accession: M06381_2.00
+CC  AC: M06381_2.00
+CC  id: M06381_2.00
+CC  name: M06381_2.00
+CC  version: 
+CC  name: M06381_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 765
+XX
+//
+AC  M06382_2.00
+XX
+ID  M06382_2.00
+XX
+DE  kttaattag 
+P0       A     C     G     T
+1    7.69231 7.69231 38.4615 46.1538
+2    15.3846 15.3846     0 69.2308
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8    76.9231     0 23.0769     0
+9    7.69231 15.3846 76.9231     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 766
+CC  accession: M06382_2.00
+CC  AC: M06382_2.00
+CC  id: M06382_2.00
+CC  name: M06382_2.00
+CC  version: 
+CC  name: M06382_2.00
+CC  description: kttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 766
+XX
+//
+AC  M06383_2.00
+XX
+ID  M06383_2.00
+XX
+DE  yttaattrry 
+P0       A     C     G     T
+1    17.5573 31.2977 22.9008 28.2443
+2    19.4139 23.0769 19.4139 38.0952
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0 4.54545 95.4545
+8    53.1469     0 46.8531     0
+9    35.4478 7.46269 54.1045 2.98507
+10   22.0884 32.9317 12.8514 32.1285
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 767
+CC  accession: M06383_2.00
+CC  AC: M06383_2.00
+CC  id: M06383_2.00
+CC  name: M06383_2.00
+CC  version: 
+CC  name: M06383_2.00
+CC  description: yttaattrry 
+CC  transfac_consensus: 
+CC  matrix.nb: 767
+XX
+//
+AC  M06384_2.00
+XX
+ID  M06384_2.00
+XX
+DE  bytaattrr 
+P0       A     C     G     T
+1    20.889 25.8764 26.5631 26.6715
+2    21.1092 29.2894 14.5927 35.0087
+3    6.7591 0.762565     0 92.4783
+4    97.0884     0 2.91161     0
+5      100     0     0     0
+6        0 2.53033 2.46101 95.0087
+7    13.1023 9.53206 16.9151 60.4506
+8    47.7903 5.88015 31.236 15.0936
+9    28.8145 19.3194 36.7179 15.1482
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 768
+CC  accession: M06384_2.00
+CC  AC: M06384_2.00
+CC  id: M06384_2.00
+CC  name: M06384_2.00
+CC  version: 
+CC  name: M06384_2.00
+CC  description: bytaattrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 768
+XX
+//
+AC  M06385_2.00
+XX
+ID  M06385_2.00
+XX
+DE  kttaattr 
+P0       A     C     G     T
+1    15.0754 16.0804 38.191 30.6533
+2    19.0955 23.6181 4.52261 52.7638
+3        0     0     0   100
+4    92.9648     0     0 7.03518
+5      100     0     0     0
+6        0 5.02513     0 94.9749
+7        0 3.51759 6.03015 90.4523
+8    65.8291     0 34.1709     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 769
+CC  accession: M06385_2.00
+CC  AC: M06385_2.00
+CC  id: M06385_2.00
+CC  name: M06385_2.00
+CC  version: 
+CC  name: M06385_2.00
+CC  description: kttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 769
+XX
+//
+AC  M06448_2.00
+XX
+ID  M06448_2.00
+XX
+DE  kcyattgttyw 
+P0       A     C     G     T
+1    2.94118 23.5294 26.4706 47.0588
+2        0 82.3529 2.94118 14.7059
+3    11.7647 52.9412     0 35.2941
+4    76.4706     0     0 23.5294
+5        0 11.7647     0 88.2353
+6        0     0 8.82353 91.1765
+7        0     0   100     0
+8        0     0     0   100
+9    2.94118 23.5294 8.82353 64.7059
+10   23.5294 32.3529 17.6471 26.4706
+11   32.3529 2.94118 5.88235 58.8235
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 770
+CC  accession: M06448_2.00
+CC  AC: M06448_2.00
+CC  id: M06448_2.00
+CC  name: M06448_2.00
+CC  version: 
+CC  name: M06448_2.00
+CC  description: kcyattgttyw 
+CC  transfac_consensus: 
+CC  matrix.nb: 770
+XX
+//
+AC  M06449_2.00
+XX
+ID  M06449_2.00
+XX
+DE  vycctttgtyc 
+P0       A     C     G     T
+1       25    45    30     0
+2        5    35    10    50
+3        0    70    10    20
+4        0    80     0    20
+5       20     0     0    80
+6        0     0     0   100
+7        0     0     0   100
+8        0     0   100     0
+9        0     0     0   100
+10       0    55    10    35
+11       5    75     0    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 771
+CC  accession: M06449_2.00
+CC  AC: M06449_2.00
+CC  id: M06449_2.00
+CC  name: M06449_2.00
+CC  version: 
+CC  name: M06449_2.00
+CC  description: vycctttgtyc 
+CC  transfac_consensus: 
+CC  matrix.nb: 771
+XX
+//
+AC  M06450_2.00
+XX
+ID  M06450_2.00
+XX
+DE  aaacaatr 
+P0       A     C     G     T
+1    57.1429 4.7619 23.8095 14.2857
+2    61.9048 9.52381 9.52381 19.0476
+3      100     0     0     0
+4        0   100     0     0
+5      100     0     0     0
+6      100     0     0     0
+7    14.2857     0     0 85.7143
+8    28.5714     0 66.6667 4.7619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 772
+CC  accession: M06450_2.00
+CC  AC: M06450_2.00
+CC  id: M06450_2.00
+CC  name: M06450_2.00
+CC  version: 
+CC  name: M06450_2.00
+CC  description: aaacaatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 772
+XX
+//
+AC  M06452_2.00
+XX
+ID  M06452_2.00
+XX
+DE  yycattsa 
+P0       A     C     G     T
+1    5.88235 58.8235     0 35.2941
+2        0 61.1111     0 38.8889
+3        0   100     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7        0 55.5556 44.4444     0
+8      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 773
+CC  accession: M06452_2.00
+CC  AC: M06452_2.00
+CC  id: M06452_2.00
+CC  name: M06452_2.00
+CC  version: 
+CC  name: M06452_2.00
+CC  description: yycattsa 
+CC  transfac_consensus: 
+CC  matrix.nb: 773
+XX
+//
+AC  M06477_2.00
+XX
+ID  M06477_2.00
+XX
+DE  taattaa 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6       85     0    15     0
+7       90     0    10     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 774
+CC  accession: M06477_2.00
+CC  AC: M06477_2.00
+CC  id: M06477_2.00
+CC  name: M06477_2.00
+CC  version: 
+CC  name: M06477_2.00
+CC  description: taattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 774
+XX
+//
+AC  M06482_2.00
+XX
+ID  M06482_2.00
+XX
+DE  taattgs 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6    23.8095     0 76.1905     0
+7    4.7619 28.5714 61.9048 4.7619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 775
+CC  accession: M06482_2.00
+CC  AC: M06482_2.00
+CC  id: M06482_2.00
+CC  name: M06482_2.00
+CC  version: 
+CC  name: M06482_2.00
+CC  description: taattgs 
+CC  transfac_consensus: 
+CC  matrix.nb: 775
+XX
+//
+AC  M06485_2.00
+XX
+ID  M06485_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    8.69565 34.7826 8.69565 47.8261
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 8.69565 91.3043
+7    56.5217     0 43.4783     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 776
+CC  accession: M06485_2.00
+CC  AC: M06485_2.00
+CC  id: M06485_2.00
+CC  name: M06485_2.00
+CC  version: 
+CC  name: M06485_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 776
+XX
+//
+AC  M06491_2.00
+XX
+ID  M06491_2.00
+XX
+DE  wytaattr 
+P0       A     C     G     T
+1       25     0 18.75 56.25
+2     6.25 56.25     0  37.5
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8    68.75     0 31.25     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 777
+CC  accession: M06491_2.00
+CC  AC: M06491_2.00
+CC  id: M06491_2.00
+CC  name: M06491_2.00
+CC  version: 
+CC  name: M06491_2.00
+CC  description: wytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 777
+XX
+//
+AC  M06495_2.00
+XX
+ID  M06495_2.00
+XX
+DE  ytaatta 
+P0       A     C     G     T
+1    4.34783 52.1739 13.0435 30.4348
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 13.0435 86.9565
+7    82.6087     0 17.3913     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 778
+CC  accession: M06495_2.00
+CC  AC: M06495_2.00
+CC  id: M06495_2.00
+CC  name: M06495_2.00
+CC  version: 
+CC  name: M06495_2.00
+CC  description: ytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 778
+XX
+//
+AC  M06506_2.00
+XX
+ID  M06506_2.00
+XX
+DE  ttaattr 
+P0       A     C     G     T
+1    11.7647 11.7647 11.7647 64.7059
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    52.9412     0 41.1765 5.88235
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 779
+CC  accession: M06506_2.00
+CC  AC: M06506_2.00
+CC  id: M06506_2.00
+CC  name: M06506_2.00
+CC  version: 
+CC  name: M06506_2.00
+CC  description: ttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 779
+XX
+//
+AC  M06511_2.00
+XX
+ID  M06511_2.00
+XX
+DE  ttaattr 
+P0       A     C     G     T
+1    3.57143 14.2857 14.2857 67.8571
+2    3.57143     0     0 96.4286
+3    96.4286     0     0 3.57143
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7       75     0    25     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 780
+CC  accession: M06511_2.00
+CC  AC: M06511_2.00
+CC  id: M06511_2.00
+CC  name: M06511_2.00
+CC  version: 
+CC  name: M06511_2.00
+CC  description: ttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 780
+XX
+//
+AC  M06516_2.00
+XX
+ID  M06516_2.00
+XX
+DE  ytaatta 
+P0       A     C     G     T
+1        5    30    10    55
+2        0     5     0    95
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     5    20    75
+7       75     0    15    10
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 781
+CC  accession: M06516_2.00
+CC  AC: M06516_2.00
+CC  id: M06516_2.00
+CC  name: M06516_2.00
+CC  version: 
+CC  name: M06516_2.00
+CC  description: ytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 781
+XX
+//
+AC  M06517_2.00
+XX
+ID  M06517_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    4.7619 28.5714 19.0476 47.619
+2    4.7619     0     0 95.2381
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 9.52381 90.4762
+7    66.6667     0 33.3333     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 782
+CC  accession: M06517_2.00
+CC  AC: M06517_2.00
+CC  id: M06517_2.00
+CC  name: M06517_2.00
+CC  version: 
+CC  name: M06517_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 782
+XX
+//
+AC  M06520_2.00
+XX
+ID  M06520_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    11.1111 48.1481     0 40.7407
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    62.963     0 37.037     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 783
+CC  accession: M06520_2.00
+CC  AC: M06520_2.00
+CC  id: M06520_2.00
+CC  name: M06520_2.00
+CC  version: 
+CC  name: M06520_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 783
+XX
+//
+AC  M06522_2.00
+XX
+ID  M06522_2.00
+XX
+DE  mtaattr 
+P0       A     C     G     T
+1    28.5714 38.0952 14.2857 19.0476
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0 4.7619     0 95.2381
+7    61.9048 4.7619 28.5714 4.7619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 784
+CC  accession: M06522_2.00
+CC  AC: M06522_2.00
+CC  id: M06522_2.00
+CC  name: M06522_2.00
+CC  version: 
+CC  name: M06522_2.00
+CC  description: mtaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 784
+XX
+//
+AC  M06523_2.00
+XX
+ID  M06523_2.00
+XX
+DE  ttaattr 
+P0       A     C     G     T
+1    4.7619 23.8095 9.52381 61.9048
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6    4.7619     0     0 95.2381
+7    28.5714 4.7619 66.6667     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 785
+CC  accession: M06523_2.00
+CC  AC: M06523_2.00
+CC  id: M06523_2.00
+CC  name: M06523_2.00
+CC  version: 
+CC  name: M06523_2.00
+CC  description: ttaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 785
+XX
+//
+AC  M06525_2.00
+XX
+ID  M06525_2.00
+XX
+DE  ytaatta 
+P0       A     C     G     T
+1    23.5294 35.2941     0 41.1765
+2        0     0     0   100
+3    94.1176     0     0 5.88235
+4      100     0     0     0
+5        0     0     0   100
+6    5.88235     0 5.88235 88.2353
+7    47.0588 5.88235 23.5294 23.5294
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 786
+CC  accession: M06525_2.00
+CC  AC: M06525_2.00
+CC  id: M06525_2.00
+CC  name: M06525_2.00
+CC  version: 
+CC  name: M06525_2.00
+CC  description: ytaatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 786
+XX
+//
+AC  M06528_2.00
+XX
+ID  M06528_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1        0    50 18.1818 31.8182
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    59.0909     0 36.3636 4.54545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 787
+CC  accession: M06528_2.00
+CC  AC: M06528_2.00
+CC  id: M06528_2.00
+CC  name: M06528_2.00
+CC  version: 
+CC  name: M06528_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 787
+XX
+//
+AC  M06531_2.00
+XX
+ID  M06531_2.00
+XX
+DE  taattaa 
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6    86.6667     0 13.3333     0
+7       80     0    20     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 788
+CC  accession: M06531_2.00
+CC  AC: M06531_2.00
+CC  id: M06531_2.00
+CC  name: M06531_2.00
+CC  version: 
+CC  name: M06531_2.00
+CC  description: taattaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 788
+XX
+//
+AC  M06537_2.00
+XX
+ID  M06537_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1       10    45    15    30
+2        0     0     0   100
+3       90     0     0    10
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     5    95
+7       70     0    30     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 789
+CC  accession: M06537_2.00
+CC  AC: M06537_2.00
+CC  id: M06537_2.00
+CC  name: M06537_2.00
+CC  version: 
+CC  name: M06537_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 789
+XX
+//
+AC  M06547_2.00
+XX
+ID  M06547_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    8.69565 26.087 8.69565 56.5217
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0 8.69565 91.3043
+7    52.1739     0 43.4783 4.34783
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 790
+CC  accession: M06547_2.00
+CC  AC: M06547_2.00
+CC  id: M06547_2.00
+CC  name: M06547_2.00
+CC  version: 
+CC  name: M06547_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 790
+XX
+//
+AC  M06552_2.00
+XX
+ID  M06552_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    4.54545 36.3636 4.54545 54.5455
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6    9.09091     0 13.6364 77.2727
+7    68.1818     0 27.2727 4.54545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 791
+CC  accession: M06552_2.00
+CC  AC: M06552_2.00
+CC  id: M06552_2.00
+CC  name: M06552_2.00
+CC  version: 
+CC  name: M06552_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 791
+XX
+//
+AC  M06553_2.00
+XX
+ID  M06553_2.00
+XX
+DE  kttaattag 
+P0       A     C     G     T
+1    7.69231 7.69231 38.4615 46.1538
+2    15.3846 15.3846     0 69.2308
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8    76.9231     0 23.0769     0
+9    7.69231 15.3846 76.9231     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 792
+CC  accession: M06553_2.00
+CC  AC: M06553_2.00
+CC  id: M06553_2.00
+CC  name: M06553_2.00
+CC  version: 
+CC  name: M06553_2.00
+CC  description: kttaattag 
+CC  transfac_consensus: 
+CC  matrix.nb: 792
+XX
+//
+AC  M06559_2.00
+XX
+ID  M06559_2.00
+XX
+DE  ycywttgttyt 
+P0       A     C     G     T
+1    3.44828 27.5862 24.1379 44.8276
+2        0 86.2069     0 13.7931
+3        0 58.6207     0 41.3793
+4    68.9655     0     0 31.0345
+5        0     0     0   100
+6        0     0 10.3448 89.6552
+7    6.89655     0 93.1034     0
+8        0     0     0   100
+9    3.44828 6.89655 13.7931 75.8621
+10   13.7931 34.4828 20.6897 31.0345
+11   20.6897 3.44828 3.44828 72.4138
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 793
+CC  accession: M06559_2.00
+CC  AC: M06559_2.00
+CC  id: M06559_2.00
+CC  name: M06559_2.00
+CC  version: 
+CC  name: M06559_2.00
+CC  description: ycywttgttyt 
+CC  transfac_consensus: 
+CC  matrix.nb: 793
+XX
+//
+AC  M07432_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1       34    14    18    34
+2       23    18    22    37
+3       46     9    45     0
+4        0     0     8    92
+5       19    81     0     0
+6    54.4554 8.91089 24.7525 11.8812
+7        0 58.1633     0 41.8367
+8       15    24    21    40
+9       28    20    18    34
+10      17    28    16    39
+11      28    26    24    22
+12      20    22    17    41
+13     100     0     0     0
+14       0   100     0     0
+15       1     0    99     0
+16      44     4    41    11
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 794
+CC  accession: M07432_2.00
+CC  AC: M07432_2.00
+CC  id: M07432_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 794
+XX
+//
+AC  M07433_2.00
+XX
+ID  AFT2
+XX
+DE  AFT2
+P0       A     C     G     T
+1    21.2121 27.2727 42.4242 9.09091
+2        0     0   100     0
+3        0     0   100     0
+4        0     0   100     0
+5        0     0     0   100
+6        0     0   100     0
+7        0    30     0    70
+8       20    27    45     8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 795
+CC  accession: M07433_2.00
+CC  AC: M07433_2.00
+CC  id: M07433_2.00
+CC  name: AFT2
+CC  version: 
+CC  name: AFT2
+CC  description: AFT2
+CC  transfac_consensus: 
+CC  matrix.nb: 795
+XX
+//
+AC  M07434_2.00
+XX
+ID  MBP1
+XX
+DE  MBP1
+P0       A     C     G     T
+1    18.1818 18.1818 30.303 33.3333
+2       39     9    17    35
+3        0    98     2     0
+4       12     0    88     0
+5        0    85     0    15
+6        0     0   100     0
+7       17    18    10    55
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 796
+CC  accession: M07434_2.00
+CC  AC: M07434_2.00
+CC  id: M07434_2.00
+CC  name: MBP1
+CC  version: 
+CC  name: MBP1
+CC  description: MBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 796
+XX
+//
+AC  M07435_2.00
+XX
+ID  SWI4
+XX
+DE  SWI4
+P0       A     C     G     T
+1       62     8    15    15
+2        0   100     0     0
+3       15     0    85     0
+4        0   100     0     0
+5        0     0   100     0
+6      100     0     0     0
+7       94     2     2     2
+8    61.3861 7.92079 7.92079 22.7723
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 797
+CC  accession: M07435_2.00
+CC  AC: M07435_2.00
+CC  id: M07435_2.00
+CC  name: SWI4
+CC  version: 
+CC  name: SWI4
+CC  description: SWI4
+CC  transfac_consensus: 
+CC  matrix.nb: 797
+XX
+//
+AC  M07436_2.00
+XX
+ID  XBP1
+XX
+DE  XBP1
+P0       A     C     G     T
+1    11.8812 50.495 6.93069 30.6931
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5      100     0     0     0
+6    39.604 7.92079 49.505 2.9703
+7    31.3131 22.2222 31.3131 15.1515
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 798
+CC  accession: M07436_2.00
+CC  AC: M07436_2.00
+CC  id: M07436_2.00
+CC  name: XBP1
+CC  version: 
+CC  name: XBP1
+CC  description: XBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 798
+XX
+//
+AC  M07437_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1       36    27    19    18
+2    9.09091 43.4343 39.3939 8.08081
+3    37.3737 44.4444 15.1515 3.0303
+4        0 10.101     0 89.899
+5        0     0   100     0
+6        0    99     0     1
+7       91     1     7     1
+8        8    22    36    34
+9       22    42    22    14
+10      32    28    21    19
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 799
+CC  accession: M07437_2.00
+CC  AC: M07437_2.00
+CC  id: M07437_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 799
+XX
+//
+AC  M07438_2.00
+XX
+ID  SOK2
+XX
+DE  SOK2
+P0       A     C     G     T
+1    23.2323 23.2323 23.2323 30.303
+2       18    22    32    28
+3       10    52    21    17
+4       40    50     5     5
+5        1     1     1    97
+6        4     1    91     4
+7        1    94     1     4
+8       91     4     1     4
+9        3     9    47    41
+10      18    18    49    15
+11   15.8416 15.8416 18.8119 49.505
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 800
+CC  accession: M07438_2.00
+CC  AC: M07438_2.00
+CC  id: M07438_2.00
+CC  name: SOK2
+CC  version: 
+CC  name: SOK2
+CC  description: SOK2
+CC  transfac_consensus: 
+CC  matrix.nb: 800
+XX
+//
+AC  M07439_2.00
+XX
+ID  ORC2,SUM1
+XX
+DE  ORC2,SUM1
+P0       A     C     G     T
+1       59    11    15    15
+2    61.6162 5.05051 5.05051 28.2828
+3       76     0     0    24
+4       92     0     0     8
+5      100     0     0     0
+6        0     0     0   100
+7       34     2     2    62
+8       32     8     8    52
+9       22    14    14    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 801
+CC  accession: M07439_2.00
+CC  AC: M07439_2.00
+CC  id: M07439_2.00
+CC  name: ORC2,SUM1
+CC  version: 
+CC  name: ORC2,SUM1
+CC  description: ORC2,SUM1
+CC  transfac_consensus: 
+CC  matrix.nb: 801
+XX
+//
+AC  M07440_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1    5.94059 5.94059 16.8317 71.2871
+2        0   100     0     0
+3      100     0     0     0
+4        0   100     0     0
+5        0     0   100     0
+6        0     0     0   100
+7    2.9703 2.9703 91.0891 2.9703
+8    19.1919 53.5354 8.08081 19.1919
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 802
+CC  accession: M07440_2.00
+CC  AC: M07440_2.00
+CC  id: M07440_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 802
+XX
+//
+AC  M07441_2.00
+XX
+ID  TYE7
+XX
+DE  TYE7
+P0       A     C     G     T
+1    7.84314 7.84314 7.84314 76.4706
+2        0   100     0     0
+3      100     0     0     0
+4        0    90    10     0
+5        0     0   100     0
+6        0     0     0   100
+7    2.94118 2.94118 91.1765 2.94118
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 803
+CC  accession: M07441_2.00
+CC  AC: M07441_2.00
+CC  id: M07441_2.00
+CC  name: TYE7
+CC  version: 
+CC  name: TYE7
+CC  description: TYE7
+CC  transfac_consensus: 
+CC  matrix.nb: 803
+XX
+//
+AC  M07442_2.00
+XX
+ID  HAC1
+XX
+DE  HAC1
+P0       A     C     G     T
+1       14    41    18    27
+2      100     0     0     0
+3        0   100     0     0
+4        0     0   100     0
+5        0     0     0   100
+6        0     0   100     0
+7        0     0    32    68
+8    14.8515 55.4455 5.94059 23.7624
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 804
+CC  accession: M07442_2.00
+CC  AC: M07442_2.00
+CC  id: M07442_2.00
+CC  name: HAC1
+CC  version: 
+CC  name: HAC1
+CC  description: HAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 804
+XX
+//
+AC  M07443_2.00
+XX
+ID  YAP3
+XX
+DE  YAP3
+P0       A     C     G     T
+1       19    19    12    50
+2       94     2     2     2
+3        0   100     0     0
+4        0     0   100     0
+5        0     0     0   100
+6      100     0     0     0
+7      100     0     0     0
+8        4    12    19    65
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 805
+CC  accession: M07443_2.00
+CC  AC: M07443_2.00
+CC  id: M07443_2.00
+CC  name: YAP3
+CC  version: 
+CC  name: YAP3
+CC  description: YAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 805
+XX
+//
+AC  M07444_2.00
+XX
+ID  CST6
+XX
+DE  CST6
+P0       A     C     G     T
+1    46.5347 10.8911 31.6832 10.8911
+2    1.0101 1.0101 1.0101 96.9697
+3        1     1    91     7
+4      100     0     0     0
+5        0   100     0     0
+6        5     0    95     0
+7        0     0     0   100
+8    45.4545 28.2828 8.08081 18.1818
+9       46    14    20    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 806
+CC  accession: M07444_2.00
+CC  AC: M07444_2.00
+CC  id: M07444_2.00
+CC  name: CST6
+CC  version: 
+CC  name: CST6
+CC  description: CST6
+CC  transfac_consensus: 
+CC  matrix.nb: 806
+XX
+//
+AC  M07445_2.00
+XX
+ID  CIN5
+XX
+DE  CIN5
+P0       A     C     G     T
+1        0     0     9    91
+2    13.1313 7.07071 23.2323 56.5657
+3      100     0     0     0
+4    10.8911 53.4653 4.9505 30.6931
+5       20    16    57     7
+6        0     0     0   100
+7       91     9     0     0
+8      100     0     0     0
+9    1.9802 13.8614 37.6238 46.5347
+10      15    70     8     7
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 807
+CC  accession: M07445_2.00
+CC  AC: M07445_2.00
+CC  id: M07445_2.00
+CC  name: CIN5
+CC  version: 
+CC  name: CIN5
+CC  description: CIN5
+CC  transfac_consensus: 
+CC  matrix.nb: 807
+XX
+//
+AC  M07446_2.00
+XX
+ID  REI1
+XX
+DE  REI1
+P0       A     C     G     T
+1        0    95     0     5
+2        5    95     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0     0     0   100
+6        0     0    95     5
+7       56     8    23    13
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 808
+CC  accession: M07446_2.00
+CC  AC: M07446_2.00
+CC  id: M07446_2.00
+CC  name: REI1
+CC  version: 
+CC  name: REI1
+CC  description: REI1
+CC  transfac_consensus: 
+CC  matrix.nb: 808
+XX
+//
+AC  M07447_2.00
+XX
+ID  RPN4
+XX
+DE  RPN4
+P0       A     C     G     T
+1        0    87     0    13
+2        0     0   100     0
+3        0   100     0     0
+4        0   100     0     0
+5       88    12     0     0
+6        0   100     0     0
+7    9.09091 67.6768     0 23.2323
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 809
+CC  accession: M07447_2.00
+CC  AC: M07447_2.00
+CC  id: M07447_2.00
+CC  name: RPN4
+CC  version: 
+CC  name: RPN4
+CC  description: RPN4
+CC  transfac_consensus: 
+CC  matrix.nb: 809
+XX
+//
+AC  M07448_2.00
+XX
+ID  STP4
+XX
+DE  STP4
+P0       A     C     G     T
+1       15    16    15    54
+2       10    17    73     0
+3        0   100     0     0
+4        0     0   100     0
+5        0   100     0     0
+6        0     0     0   100
+7      100     0     0     0
+8    7.07071 24.2424 28.2828 40.404
+9    14.8515 55.4455 10.8911 18.8119
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 810
+CC  accession: M07448_2.00
+CC  AC: M07448_2.00
+CC  id: M07448_2.00
+CC  name: STP4
+CC  version: 
+CC  name: STP4
+CC  description: STP4
+CC  transfac_consensus: 
+CC  matrix.nb: 810
+XX
+//
+AC  M07449_2.00
+XX
+ID  GIS1
+XX
+DE  GIS1
+P0       A     C     G     T
+1       41    22    12    25
+2        0    97     0     3
+3        0   100     0     0
+4        0   100     0     0
+5        0    87     0    13
+6        0     0     0   100
+7       49     4    15    32
+8       46    11    16    27
+9    32.3232 19.1919 18.1818 30.303
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 811
+CC  accession: M07449_2.00
+CC  AC: M07449_2.00
+CC  id: M07449_2.00
+CC  name: GIS1
+CC  version: 
+CC  name: GIS1
+CC  description: GIS1
+CC  transfac_consensus: 
+CC  matrix.nb: 811
+XX
+//
+AC  M07450_2.00
+XX
+ID  SWI5
+XX
+DE  SWI5
+P0       A     C     G     T
+1    7.92079 7.92079 22.7723 61.3861
+2        0     0   100     0
+3        0   100     0     0
+4        0     0     0   100
+5        0     0   100     0
+6        0     0   100     0
+7        4     4    27    65
+8       25    25    10    40
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 812
+CC  accession: M07450_2.00
+CC  AC: M07450_2.00
+CC  id: M07450_2.00
+CC  name: SWI5
+CC  version: 
+CC  name: SWI5
+CC  description: SWI5
+CC  transfac_consensus: 
+CC  matrix.nb: 812
+XX
+//
+AC  M07451_2.00
+XX
+ID  ADR1
+XX
+DE  ADR1
+P0       A     C     G     T
+1       41    24    13    22
+2        0   100     0     0
+3        0    85     0    15
+4        0   100     0     0
+5        0   100     0     0
+6       64     6    20    10
+7       34    51     6     9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 813
+CC  accession: M07451_2.00
+CC  AC: M07451_2.00
+CC  id: M07451_2.00
+CC  name: ADR1
+CC  version: 
+CC  name: ADR1
+CC  description: ADR1
+CC  transfac_consensus: 
+CC  matrix.nb: 813
+XX
+//
+AC  M07452_2.00
+XX
+ID  MET32
+XX
+DE  MET32
+P0       A     C     G     T
+1       34    46    10    10
+2       11     5    77     7
+3        0   100     0     0
+4        0   100     0     0
+5    93.9394 3.0303     0 3.0303
+6        0    99     0     1
+7       64    15    12     9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 814
+CC  accession: M07452_2.00
+CC  AC: M07452_2.00
+CC  id: M07452_2.00
+CC  name: MET32
+CC  version: 
+CC  name: MET32
+CC  description: MET32
+CC  transfac_consensus: 
+CC  matrix.nb: 814
+XX
+//
+AC  M07453_2.00
+XX
+ID  MIG3
+XX
+DE  MIG3
+P0       A     C     G     T
+1    0.990099 97.0297 0.990099 0.990099
+2        0    94     0     6
+3        0   100     0     0
+4        0   100     0     0
+5    41.4141 2.0202 55.5556 1.0101
+6        5    69    17     9
+7       41    22    23    14
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 815
+CC  accession: M07453_2.00
+CC  AC: M07453_2.00
+CC  id: M07453_2.00
+CC  name: MIG3
+CC  version: 
+CC  name: MIG3
+CC  description: MIG3
+CC  transfac_consensus: 
+CC  matrix.nb: 815
+XX
+//
+AC  M07454_2.00
+XX
+ID  COM2
+XX
+DE  COM2
+P0       A     C     G     T
+1    35.3535 28.2828 23.2323 13.1313
+2        0    97     1     2
+3        0    91     0     9
+4        0   100     0     0
+5        0   100     0     0
+6        0     0     0   100
+7       60     0     8    32
+8       21     0     4    75
+9    32.3232 28.2828 5.05051 34.3434
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 816
+CC  accession: M07454_2.00
+CC  AC: M07454_2.00
+CC  id: M07454_2.00
+CC  name: COM2
+CC  version: 
+CC  name: COM2
+CC  description: COM2
+CC  transfac_consensus: 
+CC  matrix.nb: 816
+XX
+//
+AC  M07455_2.00
+XX
+ID  RPH1
+XX
+DE  RPH1
+P0       A     C     G     T
+1       53    14    14    19
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0     0     0   100
+7    63.6364 1.0101 7.07071 28.2828
+8    73.2673 6.93069 6.93069 12.8713
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 817
+CC  accession: M07455_2.00
+CC  AC: M07455_2.00
+CC  id: M07455_2.00
+CC  name: RPH1
+CC  version: 
+CC  name: RPH1
+CC  description: RPH1
+CC  transfac_consensus: 
+CC  matrix.nb: 817
+XX
+//
+AC  M07456_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1       32    35    15    18
+2        1    97     1     1
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6       46     3    50     1
+7    5.05051 57.5758 30.303 7.07071
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 818
+CC  accession: M07456_2.00
+CC  AC: M07456_2.00
+CC  id: M07456_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 818
+XX
+//
+AC  M07457_2.00
+XX
+ID  MIG2
+XX
+DE  MIG2
+P0       A     C     G     T
+1        1    96     2     1
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5       36    11    52     1
+6    4.9505 76.2376 12.8713 5.94059
+7    36.3636 24.2424 24.2424 15.1515
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 819
+CC  accession: M07457_2.00
+CC  AC: M07457_2.00
+CC  id: M07457_2.00
+CC  name: MIG2
+CC  version: 
+CC  name: MIG2
+CC  description: MIG2
+CC  transfac_consensus: 
+CC  matrix.nb: 819
+XX
+//
+AC  M07458_2.00
+XX
+ID  FZF1
+XX
+DE  FZF1
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0     0   100
+3      100     0     0     0
+4        0     0     0   100
+5        0   100     0     0
+6      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 820
+CC  accession: M07458_2.00
+CC  AC: M07458_2.00
+CC  id: M07458_2.00
+CC  name: FZF1
+CC  version: 
+CC  name: FZF1
+CC  description: FZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 820
+XX
+//
+AC  M07459_2.00
+XX
+ID  YGR067C
+XX
+DE  YGR067C
+P0       A     C     G     T
+1    35.6436 23.7624 26.7327 13.8614
+2        0   100     0     0
+3        0    99     0     1
+4        0   100     0     0
+5        1    99     0     0
+6       41     0    31    28
+7        0    98     1     1
+8    26.7327 25.7426 16.8317 30.6931
+9       23    26    20    31
+10      24    26    20    30
+11      25    24    25    26
+12      25    22    26    27
+13      22    26    26    26
+14   25.7426 23.7624 25.7426 24.7525
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 821
+CC  accession: M07459_2.00
+CC  AC: M07459_2.00
+CC  id: M07459_2.00
+CC  name: YGR067C
+CC  version: 
+CC  name: YGR067C
+CC  description: YGR067C
+CC  transfac_consensus: 
+CC  matrix.nb: 821
+XX
+//
+AC  M07460_2.00
+XX
+ID  RIM101
+XX
+DE  RIM101
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0     0   100
+3        0     0     0   100
+4        0     0   100     0
+5        0     0   100     0
+6        0   100     0     0
+7       39     9    43     9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 822
+CC  accession: M07460_2.00
+CC  AC: M07460_2.00
+CC  id: M07460_2.00
+CC  name: RIM101
+CC  version: 
+CC  name: RIM101
+CC  description: RIM101
+CC  transfac_consensus: 
+CC  matrix.nb: 822
+XX
+//
+AC  M07461_2.00
+XX
+ID  RSF2
+XX
+DE  RSF2
+P0       A     C     G     T
+1       15    15    15    55
+2    31.3131 11.1111 11.1111 46.4646
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0   100     0     0
+7    18.8119 3.9604 53.4653 23.7624
+8        5    85     5     5
+9       50    10    10    30
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 823
+CC  accession: M07461_2.00
+CC  AC: M07461_2.00
+CC  id: M07461_2.00
+CC  name: RSF2
+CC  version: 
+CC  name: RSF2
+CC  description: RSF2
+CC  transfac_consensus: 
+CC  matrix.nb: 823
+XX
+//
+AC  M07462_2.00
+XX
+ID  MSN4
+XX
+DE  MSN4
+P0       A     C     G     T
+1        1    99     0     0
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0 16.1616     0 83.8384
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 824
+CC  accession: M07462_2.00
+CC  AC: M07462_2.00
+CC  id: M07462_2.00
+CC  name: MSN4
+CC  version: 
+CC  name: MSN4
+CC  description: MSN4
+CC  transfac_consensus: 
+CC  matrix.nb: 824
+XX
+//
+AC  M07463_2.00
+XX
+ID  ACE2
+XX
+DE  ACE2
+P0       A     C     G     T
+1       14    17    20    49
+2        0     0   100     0
+3        0   100     0     0
+4        0     0    10    90
+5        0     0   100     0
+6        1     6    92     1
+7    5.05051 21.2121 28.2828 45.4545
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 825
+CC  accession: M07463_2.00
+CC  AC: M07463_2.00
+CC  id: M07463_2.00
+CC  name: ACE2
+CC  version: 
+CC  name: ACE2
+CC  description: ACE2
+CC  transfac_consensus: 
+CC  matrix.nb: 825
+XX
+//
+AC  M07464_2.00
+XX
+ID  STP3
+XX
+DE  STP3
+P0       A     C     G     T
+1       25     9    48    18
+2       18    42    21    19
+3        0     0     0   100
+4      100     0     0     0
+5        0     0   100     0
+6        0   100     0     0
+7        0     0   100     0
+8        0    64    18    18
+9    44.5545 16.8317 18.8119 19.802
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 826
+CC  accession: M07464_2.00
+CC  AC: M07464_2.00
+CC  id: M07464_2.00
+CC  name: STP3
+CC  version: 
+CC  name: STP3
+CC  description: STP3
+CC  transfac_consensus: 
+CC  matrix.nb: 826
+XX
+//
+AC  M07465_2.00
+XX
+ID  TDA9
+XX
+DE  TDA9
+P0       A     C     G     T
+1       32    24    23    21
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6       30     0    36    34
+7        0   100     0     0
+8    43.5644 15.8416 2.9703 37.6238
+9       19    35    15    31
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 827
+CC  accession: M07465_2.00
+CC  AC: M07465_2.00
+CC  id: M07465_2.00
+CC  name: TDA9
+CC  version: 
+CC  name: TDA9
+CC  description: TDA9
+CC  transfac_consensus: 
+CC  matrix.nb: 827
+XX
+//
+AC  M07466_2.00
+XX
+ID  MSN2
+XX
+DE  MSN2
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0 32.3232 7.07071 60.6061
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 828
+CC  accession: M07466_2.00
+CC  AC: M07466_2.00
+CC  id: M07466_2.00
+CC  name: MSN2
+CC  version: 
+CC  name: MSN2
+CC  description: MSN2
+CC  transfac_consensus: 
+CC  matrix.nb: 828
+XX
+//
+AC  M07467_2.00
+XX
+ID  RGM1
+XX
+DE  RGM1
+P0       A     C     G     T
+1        0    77    12    11
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 829
+CC  accession: M07467_2.00
+CC  AC: M07467_2.00
+CC  id: M07467_2.00
+CC  name: RGM1
+CC  version: 
+CC  name: RGM1
+CC  description: RGM1
+CC  transfac_consensus: 
+CC  matrix.nb: 829
+XX
+//
+AC  M07468_2.00
+XX
+ID  CRZ1
+XX
+DE  CRZ1
+P0       A     C     G     T
+1       20    48    18    14
+2    28.2828 22.2222 17.1717 32.3232
+3       37    30    22    11
+4    62.3762 35.6436 0.990099 0.990099
+5        0     0   100     0
+6        0   100     0     0
+7        0   100     0     0
+8       42    30     7    21
+9    7.07071 76.7677 8.08081 8.08081
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 830
+CC  accession: M07468_2.00
+CC  AC: M07468_2.00
+CC  id: M07468_2.00
+CC  name: CRZ1
+CC  version: 
+CC  name: CRZ1
+CC  description: CRZ1
+CC  transfac_consensus: 
+CC  matrix.nb: 830
+XX
+//
+AC  M07469_2.00
+XX
+ID  AZF1
+XX
+DE  AZF1
+P0       A     C     G     T
+1    12.7451 12.7451 12.7451 61.7647
+2    6.06061 6.06061 6.06061 81.8182
+3        3     3    16    78
+4        0   100     0     0
+5        0    25     0    75
+6        0     0 12.8713 87.1287
+7        0     0     0   100
+8        0     0     0   100
+9    12.7451 12.7451 12.7451 61.7647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 831
+CC  accession: M07469_2.00
+CC  AC: M07469_2.00
+CC  id: M07469_2.00
+CC  name: AZF1
+CC  version: 
+CC  name: AZF1
+CC  description: AZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 831
+XX
+//
+AC  M07470_2.00
+XX
+ID  MET31
+XX
+DE  MET31
+P0       A     C     G     T
+1    20.202 69.697     0 10.101
+2        0     0   100     0
+3        0   100     0     0
+4        0   100     0     0
+5      100     0     0     0
+6        0   100     0     0
+7    54.4554 17.8218 13.8614 13.8614
+8    20.4082 30.6122 28.5714 20.4082
+9    14.8515 37.6238 9.90099 37.6238
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 832
+CC  accession: M07470_2.00
+CC  AC: M07470_2.00
+CC  id: M07470_2.00
+CC  name: MET31
+CC  version: 
+CC  name: MET31
+CC  description: MET31
+CC  transfac_consensus: 
+CC  matrix.nb: 832
+XX
+//
+AC  M07471_2.00
+XX
+ID  CMR3
+XX
+DE  CMR3
+P0       A     C     G     T
+1       17    17    30    36
+2        0     0   100     0
+3      100     0     0     0
+4        0     0     0   100
+5        0    60     0    40
+6       11     0    26    63
+7       65     0    26     9
+8        0   100     0     0
+9    41.4141 11.1111 36.3636 11.1111
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 833
+CC  accession: M07471_2.00
+CC  AC: M07471_2.00
+CC  id: M07471_2.00
+CC  name: CMR3
+CC  version: 
+CC  name: CMR3
+CC  description: CMR3
+CC  transfac_consensus: 
+CC  matrix.nb: 833
+XX
+//
+AC  M07472_2.00
+XX
+ID  YPR022C
+XX
+DE  YPR022C
+P0       A     C     G     T
+1    14.8515 65.3465     0 19.802
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5      100     0     0     0
+6        0   100     0     0
+7    22.7723 25.7426 33.6634 17.8218
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 834
+CC  accession: M07472_2.00
+CC  AC: M07472_2.00
+CC  id: M07472_2.00
+CC  name: YPR022C
+CC  version: 
+CC  name: YPR022C
+CC  description: YPR022C
+CC  transfac_consensus: 
+CC  matrix.nb: 834
+XX
+//
+AC  M07473_2.00
+XX
+ID  HCM1
+XX
+DE  HCM1
+P0       A     C     G     T
+1       51    16    25     8
+2       27     8     4    61
+3    66.3366 31.6832 0.990099 0.990099
+4       95     5     0     0
+5      100     0     0     0
+6        1    86     0    13
+7    94.0594 1.9802 1.9802 1.9802
+8    57.5758 17.1717 11.1111 14.1414
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 835
+CC  accession: M07473_2.00
+CC  AC: M07473_2.00
+CC  id: M07473_2.00
+CC  name: HCM1
+CC  version: 
+CC  name: HCM1
+CC  description: HCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 835
+XX
+//
+AC  M07474_2.00
+XX
+ID  FKH2
+XX
+DE  FKH2
+P0       A     C     G     T
+1    12.8713     0 87.1287     0
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5      100     0     0     0
+6        0   100     0     0
+7      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 836
+CC  accession: M07474_2.00
+CC  AC: M07474_2.00
+CC  id: M07474_2.00
+CC  name: FKH2
+CC  version: 
+CC  name: FKH2
+CC  description: FKH2
+CC  transfac_consensus: 
+CC  matrix.nb: 836
+XX
+//
+AC  M07475_2.00
+XX
+ID  FHL1
+XX
+DE  FHL1
+P0       A     C     G     T
+1        0    10    90     0
+2      100     0     0     0
+3        0   100     0     0
+4        0     0   100     0
+5        0   100     0     0
+6       90     0     0    10
+7    47.0588 27.451 17.6471 7.84314
+8       55    15    15    15
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 837
+CC  accession: M07475_2.00
+CC  AC: M07475_2.00
+CC  id: M07475_2.00
+CC  name: FHL1
+CC  version: 
+CC  name: FHL1
+CC  description: FHL1
+CC  transfac_consensus: 
+CC  matrix.nb: 837
+XX
+//
+AC  M07476_2.00
+XX
+ID  SRD1
+XX
+DE  SRD1
+P0       A     C     G     T
+1       66     9    19     6
+2        6     2    90     2
+3       97     0     0     3
+4       13     0     2    85
+5        0   100     0     0
+6        4    19     3    74
+7       46    30    13    11
+8       24    42    18    16
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 838
+CC  accession: M07476_2.00
+CC  AC: M07476_2.00
+CC  id: M07476_2.00
+CC  name: SRD1
+CC  version: 
+CC  name: SRD1
+CC  description: SRD1
+CC  transfac_consensus: 
+CC  matrix.nb: 838
+XX
+//
+AC  M07477_2.00
+XX
+ID  GLN3
+XX
+DE  GLN3
+P0       A     C     G     T
+1        0     0   100     0
+2      100     0     0     0
+3        0     0     0   100
+4       74     0     0    26
+5       61     0    27    12
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 839
+CC  accession: M07477_2.00
+CC  AC: M07477_2.00
+CC  id: M07477_2.00
+CC  name: GLN3
+CC  version: 
+CC  name: GLN3
+CC  description: GLN3
+CC  transfac_consensus: 
+CC  matrix.nb: 839
+XX
+//
+AC  M07478_2.00
+XX
+ID  GAT1
+XX
+DE  GAT1
+P0       A     C     G     T
+1    12.8713 43.5644 18.8119 24.7525
+2       17    42     5    36
+3        0     0   100     0
+4      100     0     0     0
+5        0     0     0   100
+6      100     0     0     0
+7      100     0     0     0
+8    3.0303 9.09091 84.8485 3.0303
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 840
+CC  accession: M07478_2.00
+CC  AC: M07478_2.00
+CC  id: M07478_2.00
+CC  name: GAT1
+CC  version: 
+CC  name: GAT1
+CC  description: GAT1
+CC  transfac_consensus: 
+CC  matrix.nb: 840
+XX
+//
+AC  M07479_2.00
+XX
+ID  GAT4
+XX
+DE  GAT4
+P0       A     C     G     T
+1    35.6436 20.7921 23.7624 19.802
+2    30.6931 25.7426 17.8218 25.7426
+3       80     4    12     4
+4    3.0303     0 96.9697     0
+5       98     0     0     2
+6        0     0     0   100
+7        0   100     0     0
+8        5    28     3    64
+9       40    20    23    17
+10   28.2828 26.2626 23.2323 22.2222
+11   33.3333 24.2424 21.2121 21.2121
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 841
+CC  accession: M07479_2.00
+CC  AC: M07479_2.00
+CC  id: M07479_2.00
+CC  name: GAT4
+CC  version: 
+CC  name: GAT4
+CC  description: GAT4
+CC  transfac_consensus: 
+CC  matrix.nb: 841
+XX
+//
+AC  M07480_2.00
+XX
+ID  GZF3
+XX
+DE  GZF3
+P0       A     C     G     T
+1       18    39     2    41
+2        0     0   100     0
+3      100     0     0     0
+4        0     0     0   100
+5      100     0     0     0
+6       73     9     0    18
+7    3.9604 37.6238 58.4158     0
+8       39    18    27    16
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 842
+CC  accession: M07480_2.00
+CC  AC: M07480_2.00
+CC  id: M07480_2.00
+CC  name: GZF3
+CC  version: 
+CC  name: GZF3
+CC  description: GZF3
+CC  transfac_consensus: 
+CC  matrix.nb: 842
+XX
+//
+AC  M07481_2.00
+XX
+ID  DAL80
+XX
+DE  DAL80
+P0       A     C     G     T
+1    10.8911 66.3366 5.94059 16.8317
+2        0     0   100     0
+3      100     0     0     0
+4        0     0     0   100
+5      100     0     0     0
+6    90.9091 1.0101 1.0101 7.07071
+7        3    19    75     3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 843
+CC  accession: M07481_2.00
+CC  AC: M07481_2.00
+CC  id: M07481_2.00
+CC  name: DAL80
+CC  version: 
+CC  name: DAL80
+CC  description: DAL80
+CC  transfac_consensus: 
+CC  matrix.nb: 843
+XX
+//
+AC  M07482_2.00
+XX
+ID  GAT3
+XX
+DE  GAT3
+P0       A     C     G     T
+1       65     9    20     6
+2    8.08081 2.0202 88.8889 1.0101
+3       92     0     0     8
+4       12     0     1    87
+5        3    94     1     2
+6        6    27     4    63
+7       51    19    18    12
+8    28.2828 33.3333 21.2121 17.1717
+9    32.3232 25.2525 21.2121 21.2121
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 844
+CC  accession: M07482_2.00
+CC  AC: M07482_2.00
+CC  id: M07482_2.00
+CC  name: GAT3
+CC  version: 
+CC  name: GAT3
+CC  description: GAT3
+CC  transfac_consensus: 
+CC  matrix.nb: 844
+XX
+//
+AC  M07483_2.00
+XX
+ID  ECM23
+XX
+DE  ECM23
+P0       A     C     G     T
+1       31    25    23    21
+2       33    25    22    20
+3       72    11    10     7
+4       10     2    86     2
+5      100     0     0     0
+6        3     0     0    97
+7    0.990099 89.1089 2.9703 6.93069
+8       14    19    14    53
+9       30    23    21    26
+10   31.6832 24.7525 24.7525 18.8119
+11   30.303 26.2626 22.2222 21.2121
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 845
+CC  accession: M07483_2.00
+CC  AC: M07483_2.00
+CC  id: M07483_2.00
+CC  name: ECM23
+CC  version: 
+CC  name: ECM23
+CC  description: ECM23
+CC  transfac_consensus: 
+CC  matrix.nb: 845
+XX
+//
+AC  M07484_2.00
+XX
+ID  HMRA2
+XX
+DE  HMRA2
+P0       A     C     G     T
+1        6    67     6    21
+2       54     0    46     0
+3        4     0     0    96
+4        0     0   100     0
+5        0     0     0   100
+6       93     0     0     7
+7    87.1287 1.9802 1.9802 8.91089
+8       40     8     8    44
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 846
+CC  accession: M07484_2.00
+CC  AC: M07484_2.00
+CC  id: M07484_2.00
+CC  name: HMRA2
+CC  version: 
+CC  name: HMRA2
+CC  description: HMRA2
+CC  transfac_consensus: 
+CC  matrix.nb: 846
+XX
+//
+AC  M07485_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1    51.4851     0 7.92079 40.5941
+2       12     0     0    88
+3      100     0     0     0
+4       56     0     0    44
+5       23     0     0    77
+6       63     0     0    37
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 847
+CC  accession: M07485_2.00
+CC  AC: M07485_2.00
+CC  id: M07485_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 847
+XX
+//
+AC  M07486_2.00
+XX
+ID  TOS8
+XX
+DE  TOS8
+P0       A     C     G     T
+1    19.1919 15.1515 15.1515 50.5051
+2       22     7     7    64
+3        0     0     0   100
+4        0     0   100     0
+5      100     0     0     0
+6        0   100     0     0
+7       82     1    16     1
+8        5    20    47    28
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 848
+CC  accession: M07486_2.00
+CC  AC: M07486_2.00
+CC  id: M07486_2.00
+CC  name: TOS8
+CC  version: 
+CC  name: TOS8
+CC  description: TOS8
+CC  transfac_consensus: 
+CC  matrix.nb: 848
+XX
+//
+AC  M07487_2.00
+XX
+ID  YOX1
+XX
+DE  YOX1
+P0       A     C     G     T
+1    1.0101 25.2525 7.07071 66.6667
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    61.3861 2.9703 14.8515 20.7921
+8    54.5455 13.1313 13.1313 19.1919
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 849
+CC  accession: M07487_2.00
+CC  AC: M07487_2.00
+CC  id: M07487_2.00
+CC  name: YOX1
+CC  version: 
+CC  name: YOX1
+CC  description: YOX1
+CC  transfac_consensus: 
+CC  matrix.nb: 849
+XX
+//
+AC  M07488_2.00
+XX
+ID  CUP9
+XX
+DE  CUP9
+P0       A     C     G     T
+1    7.07071 10.101 3.0303 79.798
+2        0     0   100     0
+3       84     0     9     7
+4        1    99     0     0
+5       91     0     9     0
+6        0    64     9    27
+7       75    15     0    10
+8       40     0     0    60
+9       39    13     3    45
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 850
+CC  accession: M07488_2.00
+CC  AC: M07488_2.00
+CC  id: M07488_2.00
+CC  name: CUP9
+CC  version: 
+CC  name: CUP9
+CC  description: CUP9
+CC  transfac_consensus: 
+CC  matrix.nb: 850
+XX
+//
+AC  M07489_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1    17.1717 23.2323 11.1111 48.4848
+2       19    19    56     6
+3        0     0     0   100
+4        0     0     0   100
+5        0   100     0     0
+6        0    81     0    19
+7    94.0594 1.9802 1.9802 1.9802
+8    5.94059 12.8713 12.8713 68.3168
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 851
+CC  accession: M07489_2.00
+CC  AC: M07489_2.00
+CC  id: M07489_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 851
+XX
+//
+AC  M07490_2.00
+XX
+ID  SKN7
+XX
+DE  SKN7
+P0       A     C     G     T
+1        0     0   100     0
+2        0     0   100     0
+3        0   100     0     0
+4        0    84    16     0
+5    48.5149 14.8515 36.6337     0
+6    21.2121 18.1818 28.2828 32.3232
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 852
+CC  accession: M07490_2.00
+CC  AC: M07490_2.00
+CC  id: M07490_2.00
+CC  name: SKN7
+CC  version: 
+CC  name: SKN7
+CC  description: SKN7
+CC  transfac_consensus: 
+CC  matrix.nb: 852
+XX
+//
+AC  M07491_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1       30    10    50    10
+2        0     0     0   100
+3        0     0     0   100
+4      100     0     0     0
+5        0   100     0     0
+6        0   100     0     0
+7        0   100     0     0
+8        0     0    60    40
+9       15    15    55    15
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 853
+CC  accession: M07491_2.00
+CC  AC: M07491_2.00
+CC  id: M07491_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 853
+XX
+//
+AC  M07492_2.00
+XX
+ID  TBF1
+XX
+DE  TBF1
+P0       A     C     G     T
+1       61    11    12    16
+2       46    11    35     8
+3    14.8515 83.1683 0.990099 0.990099
+4        0   100     0     0
+5        0   100     0     0
+6        0     1     0    99
+7    75.7576 8.08081 11.1111 5.05051
+8    37.6238 18.8119 26.7327 16.8317
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 854
+CC  accession: M07492_2.00
+CC  AC: M07492_2.00
+CC  id: M07492_2.00
+CC  name: TBF1
+CC  version: 
+CC  name: TBF1
+CC  description: TBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 854
+XX
+//
+AC  M07493_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1        1     0    13    86
+2        1     0    98     1
+3       14    14     0    72
+4    64.3564 7.92079 10.8911 16.8317
+5        2    27     0    71
+6        9     0    90     1
+7        1     1    97     1
+8    23.2323     0 75.7576 1.0101
+9    1.0101     0     0 98.9899
+10       1    12    69    18
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 855
+CC  accession: M07493_2.00
+CC  AC: M07493_2.00
+CC  id: M07493_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 855
+XX
+//
+AC  M07494_2.00
+XX
+ID  RFX1
+XX
+DE  RFX1
+P0       A     C     G     T
+1       12    27    42    19
+2        0     0   100     0
+3        0     0     0   100
+4        0     0     0   100
+5       31     0    69     0
+6        0   100     0     0
+7        2    48     2    48
+8       88     4     4     4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 856
+CC  accession: M07494_2.00
+CC  AC: M07494_2.00
+CC  id: M07494_2.00
+CC  name: RFX1
+CC  version: 
+CC  name: RFX1
+CC  description: RFX1
+CC  transfac_consensus: 
+CC  matrix.nb: 856
+XX
+//
+AC  M07495_2.00
+XX
+ID  MOT2
+XX
+DE  MOT2
+P0       A     C     G     T
+1       93     2     0     5
+2        0     0     0   100
+3      100     0     0     0
+4        0     0     0   100
+5      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 857
+CC  accession: M07495_2.00
+CC  AC: M07495_2.00
+CC  id: M07495_2.00
+CC  name: MOT2
+CC  version: 
+CC  name: MOT2
+CC  description: MOT2
+CC  transfac_consensus: 
+CC  matrix.nb: 857
+XX
+//
+AC  M07496_2.00
+XX
+ID  NHP10
+XX
+DE  NHP10
+P0       A     C     G     T
+1    7.84314 17.6471 7.84314 66.6667
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0     0   100     0
+7    7.84314 7.84314 76.4706 7.84314
+8       10    60    10    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 858
+CC  accession: M07496_2.00
+CC  AC: M07496_2.00
+CC  id: M07496_2.00
+CC  name: NHP10
+CC  version: 
+CC  name: NHP10
+CC  description: NHP10
+CC  transfac_consensus: 
+CC  matrix.nb: 858
+XX
+//
+AC  M07497_2.00
+XX
+ID  ABF2
+XX
+DE  ABF2
+P0       A     C     G     T
+1    1.9802 1.9802 1.9802 94.0594
+2        0   100     0     0
+3        0     0     0   100
+4      100     0     0     0
+5        0     0   100     0
+6       80     2     9     9
+7       18    25    39    18
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 859
+CC  accession: M07497_2.00
+CC  AC: M07497_2.00
+CC  id: M07497_2.00
+CC  name: ABF2
+CC  version: 
+CC  name: ABF2
+CC  description: ABF2
+CC  transfac_consensus: 
+CC  matrix.nb: 859
+XX
+//
+AC  M07498_2.00
+XX
+ID  ROX1
+XX
+DE  ROX1
+P0       A     C     G     T
+1        0    50     0    50
+2        0    75     0    25
+3       25    50     0    25
+4     87.5  12.5     0     0
+5        0     0     0   100
+6        0     0  12.5  87.5
+7        0     0   100     0
+8        0     0     0   100
+9        0     0     0   100
+10       0  62.5  12.5    25
+11    12.5     0  12.5    75
+12       0  62.5    25  12.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 860
+CC  accession: M07498_2.00
+CC  AC: M07498_2.00
+CC  id: M07498_2.00
+CC  name: ROX1
+CC  version: 
+CC  name: ROX1
+CC  description: ROX1
+CC  transfac_consensus: 
+CC  matrix.nb: 860
+XX
+//
+AC  M07499_2.00
+XX
+ID  TEC1
+XX
+DE  TEC1
+P0       A     C     G     T
+1       28    15    47    10
+2       32     0    68     0
+3        0     9    91     0
+4      100     0     0     0
+5       95     0     0     5
+6        0     0     0   100
+7        0     5    95     0
+8        7    34     7    52
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 861
+CC  accession: M07499_2.00
+CC  AC: M07499_2.00
+CC  id: M07499_2.00
+CC  name: TEC1
+CC  version: 
+CC  name: TEC1
+CC  description: TEC1
+CC  transfac_consensus: 
+CC  matrix.nb: 861
+XX
+//
+AC  M07500_2.00
+XX
+ID  DAL82
+XX
+DE  DAL82
+P0       A     C     G     T
+1    57.1429 14.2857 14.2857 14.2857
+2    52.4752 10.8911 4.9505 31.6832
+3       39     3     3    55
+4       26    11    42    21
+5        0    26     0    74
+6        0     0   100     0
+7        0   100     0     0
+8        0     0   100     0
+9    10.8911 67.3267 10.8911 10.8911
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 862
+CC  accession: M07500_2.00
+CC  AC: M07500_2.00
+CC  id: M07500_2.00
+CC  name: DAL82
+CC  version: 
+CC  name: DAL82
+CC  description: DAL82
+CC  transfac_consensus: 
+CC  matrix.nb: 862
+XX
+//
+AC  M07501_2.00
+XX
+ID  OAF1
+XX
+DE  OAF1
+P0       A     C     G     T
+1       11    32    11    46
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5    56.5657     0 43.4343     0
+6        7     0    86     7
+7    67.3267 3.9604 3.9604 24.7525
+8    14.1414 7.07071 7.07071 71.7172
+9    57.1429 14.2857 14.2857 14.2857
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 863
+CC  accession: M07501_2.00
+CC  AC: M07501_2.00
+CC  id: M07501_2.00
+CC  name: OAF1
+CC  version: 
+CC  name: OAF1
+CC  description: OAF1
+CC  transfac_consensus: 
+CC  matrix.nb: 863
+XX
+//
+AC  M07502_2.00
+XX
+ID  EDS1
+XX
+DE  EDS1
+P0       A     C     G     T
+1    14.1414 52.5253 14.1414 19.1919
+2        0     0   100     0
+3        0     0   100     0
+4      100     0     0     0
+5       76     0     0    24
+6    47.5248 23.7624 9.90099 18.8119
+7      100     0     0     0
+8    82.8283 1.0101 1.0101 15.1515
+9       15    20    11    54
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 864
+CC  accession: M07502_2.00
+CC  AC: M07502_2.00
+CC  id: M07502_2.00
+CC  name: EDS1
+CC  version: 
+CC  name: EDS1
+CC  description: EDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 864
+XX
+//
+AC  M07503_2.00
+XX
+ID  TBS1
+XX
+DE  TBS1
+P0       A     C     G     T
+1    8.08081 75.7576 8.08081 8.08081
+2        0     0   100     0
+3        0     0   100     0
+4    53.5354 13.1313 13.1313 20.202
+5    8.08081 8.08081 8.08081 75.7576
+6    1.9802 94.0594 1.9802 1.9802
+7    3.0303 90.9091 3.0303 3.0303
+8        5     5    78    12
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 865
+CC  accession: M07503_2.00
+CC  AC: M07503_2.00
+CC  id: M07503_2.00
+CC  name: TBS1
+CC  version: 
+CC  name: TBS1
+CC  description: TBS1
+CC  transfac_consensus: 
+CC  matrix.nb: 865
+XX
+//
+AC  M07504_2.00
+XX
+ID  ERT1
+XX
+DE  ERT1
+P0       A     C     G     T
+1    51.5152 10.101 22.2222 16.1616
+2        6    47     6    41
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6      100     0     0     0
+7      100     0     0     0
+8    4.0404 63.6364 4.0404 28.2828
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 866
+CC  accession: M07504_2.00
+CC  AC: M07504_2.00
+CC  id: M07504_2.00
+CC  name: ERT1
+CC  version: 
+CC  name: ERT1
+CC  description: ERT1
+CC  transfac_consensus: 
+CC  matrix.nb: 866
+XX
+//
+AC  M07505_2.00
+XX
+ID  RDS1
+XX
+DE  RDS1
+P0       A     C     G     T
+1        1    91     1     7
+2        0    11    89     0
+3        0     0   100     0
+4        0    84    16     0
+5        0    95     5     0
+6        0    11    89     0
+7    31.6832 31.6832 31.6832 4.9505
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 867
+CC  accession: M07505_2.00
+CC  AC: M07505_2.00
+CC  id: M07505_2.00
+CC  name: RDS1
+CC  version: 
+CC  name: RDS1
+CC  description: RDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 867
+XX
+//
+AC  M07506_2.00
+XX
+ID  UGA3
+XX
+DE  UGA3
+P0       A     C     G     T
+1       10    44    27    19
+2    4.0404 28.2828 63.6364 4.0404
+3        0     0   100     0
+4        0   100     0     0
+5        0     0   100     0
+6        0     0   100     0
+7        2    27    69     2
+8    85.8586 2.0202 2.0202 10.101
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 868
+CC  accession: M07506_2.00
+CC  AC: M07506_2.00
+CC  id: M07506_2.00
+CC  name: UGA3
+CC  version: 
+CC  name: UGA3
+CC  description: UGA3
+CC  transfac_consensus: 
+CC  matrix.nb: 868
+XX
+//
+AC  M07507_2.00
+XX
+ID  LYS14
+XX
+DE  LYS14
+P0       A     C     G     T
+1    20.7921 48.5149 20.7921 9.90099
+2        4    82    10     4
+3        0     0   100     0
+4        0     0   100     0
+5      100     0     0     0
+6      100     0     0     0
+7        6     0     0    94
+8    12.8713 12.8713 6.93069 67.3267
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 869
+CC  accession: M07507_2.00
+CC  AC: M07507_2.00
+CC  id: M07507_2.00
+CC  name: LYS14
+CC  version: 
+CC  name: LYS14
+CC  description: LYS14
+CC  transfac_consensus: 
+CC  matrix.nb: 869
+XX
+//
+AC  M07508_2.00
+XX
+ID  UPC2
+XX
+DE  UPC2
+P0       A     C     G     T
+1       16    25    19    40
+2    59.596 3.0303 28.2828 9.09091
+3       38     0     0    62
+4      100     0     0     0
+5        0   100     0     0
+6        1     0    99     0
+7    82.1782 4.9505 8.91089 3.9604
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 870
+CC  accession: M07508_2.00
+CC  AC: M07508_2.00
+CC  id: M07508_2.00
+CC  name: UPC2
+CC  version: 
+CC  name: UPC2
+CC  description: UPC2
+CC  transfac_consensus: 
+CC  matrix.nb: 870
+XX
+//
+AC  M07509_2.00
+XX
+ID  RSC3
+XX
+DE  RSC3
+P0       A     C     G     T
+1    17.8218 33.6634 25.7426 22.7723
+2       14    37    30    19
+3    20.202 18.1818 55.5556 6.06061
+4        0   100     0     0
+5        0     0   100     0
+6        0   100     0     0
+7        4     5    91     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 871
+CC  accession: M07509_2.00
+CC  AC: M07509_2.00
+CC  id: M07509_2.00
+CC  name: RSC3
+CC  version: 
+CC  name: RSC3
+CC  description: RSC3
+CC  transfac_consensus: 
+CC  matrix.nb: 871
+XX
+//
+AC  M07510_2.00
+XX
+ID  URC2
+XX
+DE  URC2
+P0       A     C     G     T
+1    24.7525 37.6238 10.8911 26.7327
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5       74     9    17     0
+6       23    17    46    14
+7    56.5657     0     0 43.4343
+8    14.1414     0     0 85.8586
+9       94     6     0     0
+10      36    17    15    32
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 872
+CC  accession: M07510_2.00
+CC  AC: M07510_2.00
+CC  id: M07510_2.00
+CC  name: URC2
+CC  version: 
+CC  name: URC2
+CC  description: URC2
+CC  transfac_consensus: 
+CC  matrix.nb: 872
+XX
+//
+AC  M07511_2.00
+XX
+ID  TOG1
+XX
+DE  TOG1
+P0       A     C     G     T
+1    28.2828 37.3737 6.06061 28.2828
+2        2    17    10    71
+3        0    77    15     8
+4        0   100     0     0
+5        0     0   100     0
+6        0     0   100     0
+7       69    31     0     0
+8    46.4646 15.1515 23.2323 15.1515
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 873
+CC  accession: M07511_2.00
+CC  AC: M07511_2.00
+CC  id: M07511_2.00
+CC  name: TOG1
+CC  version: 
+CC  name: TOG1
+CC  description: TOG1
+CC  transfac_consensus: 
+CC  matrix.nb: 873
+XX
+//
+AC  M07512_2.00
+XX
+ID  PDR1
+XX
+DE  PDR1
+P0       A     C     G     T
+1        8    22     8    62
+2    3.0303 83.8384 3.0303 10.101
+3        2    88     2     8
+4        2     8    88     2
+5        0    87     0    13
+6        0     0   100     0
+7        0     0   100     0
+8    48.4848 15.1515 28.2828 8.08081
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 874
+CC  accession: M07512_2.00
+CC  AC: M07512_2.00
+CC  id: M07512_2.00
+CC  name: PDR1
+CC  version: 
+CC  name: PDR1
+CC  description: PDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 874
+XX
+//
+AC  M07513_2.00
+XX
+ID  RSC30
+XX
+DE  RSC30
+P0       A     C     G     T
+1       19    50    19    12
+2    15.1515 38.3838 46.4646     0
+3        0    92     8     0
+4        0     8    92     0
+5        0    92     8     0
+6        0     0   100     0
+7        0    85    15     0
+8        0    31    69     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 875
+CC  accession: M07513_2.00
+CC  AC: M07513_2.00
+CC  id: M07513_2.00
+CC  name: RSC30
+CC  version: 
+CC  name: RSC30
+CC  description: RSC30
+CC  transfac_consensus: 
+CC  matrix.nb: 875
+XX
+//
+AC  M07514_2.00
+XX
+ID  STB5
+XX
+DE  STB5
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4       23    19    26    32
+5    22.7723 22.7723 46.5347 7.92079
+6    18.8119 24.7525 11.8812 44.5545
+7        6    12     6    76
+8    96.9697 1.0101 1.0101 1.0101
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 876
+CC  accession: M07514_2.00
+CC  AC: M07514_2.00
+CC  id: M07514_2.00
+CC  name: STB5
+CC  version: 
+CC  name: STB5
+CC  description: STB5
+CC  transfac_consensus: 
+CC  matrix.nb: 876
+XX
+//
+AC  M07515_2.00
+XX
+ID  ASG1
+XX
+DE  ASG1
+P0       A     C     G     T
+1        0    76     0    24
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5    72.7273 11.1111 16.1616     0
+6       53     0     0    47
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 877
+CC  accession: M07515_2.00
+CC  AC: M07515_2.00
+CC  id: M07515_2.00
+CC  name: ASG1
+CC  version: 
+CC  name: ASG1
+CC  description: ASG1
+CC  transfac_consensus: 
+CC  matrix.nb: 877
+XX
+//
+AC  M07516_2.00
+XX
+ID  SIP4
+XX
+DE  SIP4
+P0       A     C     G     T
+1        0 25.5102 16.3265 58.1633
+2       14    63     0    23
+3        0   100     0     0
+4        0     0   100     0
+5        1     0    99     0
+6       73     0    27     0
+7    31.6832 12.8713 47.5248 7.92079
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 878
+CC  accession: M07516_2.00
+CC  AC: M07516_2.00
+CC  id: M07516_2.00
+CC  name: SIP4
+CC  version: 
+CC  name: SIP4
+CC  description: SIP4
+CC  transfac_consensus: 
+CC  matrix.nb: 878
+XX
+//
+AC  M07517_2.00
+XX
+ID  PUT3
+XX
+DE  PUT3
+P0       A     C     G     T
+1    9.09091 72.7273 9.09091 9.09091
+2        2    90     2     6
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6        0     0   100     0
+7    51.4851 14.8515 18.8119 14.8515
+8    45.5446 12.8713 16.8317 24.7525
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 879
+CC  accession: M07517_2.00
+CC  AC: M07517_2.00
+CC  id: M07517_2.00
+CC  name: PUT3
+CC  version: 
+CC  name: PUT3
+CC  description: PUT3
+CC  transfac_consensus: 
+CC  matrix.nb: 879
+XX
+//
+AC  M07518_2.00
+XX
+ID  RGT1
+XX
+DE  RGT1
+P0       A     C     G     T
+1       22    33    13    32
+2    7.92079 88.1188     0 3.9604
+3        0     0   100     0
+4        0     0   100     0
+5       88     0    12     0
+6       48     4    18    30
+7       41    17    15    27
+8    76.2376     0 1.9802 21.7822
+9       63     0     0    37
+10      22    34    10    34
+11      22    23    13    42
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 880
+CC  accession: M07518_2.00
+CC  AC: M07518_2.00
+CC  id: M07518_2.00
+CC  name: RGT1
+CC  version: 
+CC  name: RGT1
+CC  description: RGT1
+CC  transfac_consensus: 
+CC  matrix.nb: 880
+XX
+//
+AC  M07519_2.00
+XX
+ID  YKL222C
+XX
+DE  YKL222C
+P0       A     C     G     T
+1    47.5248 22.7723 14.8515 14.8515
+2       69    10    19     2
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6       92     0     8     0
+7       52     2    44     2
+8       65     6     6    23
+9    10.101 10.101 10.101 69.697
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 881
+CC  accession: M07519_2.00
+CC  AC: M07519_2.00
+CC  id: M07519_2.00
+CC  name: YKL222C
+CC  version: 
+CC  name: YKL222C
+CC  description: YKL222C
+CC  transfac_consensus: 
+CC  matrix.nb: 881
+XX
+//
+AC  M07520_2.00
+XX
+ID  YLL054C
+XX
+DE  YLL054C
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4    21.2121 64.6465 14.1414     0
+5        9    66    16     9
+6       13     5    77     5
+7    57.1429 14.2857 7.14286 21.4286
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 882
+CC  accession: M07520_2.00
+CC  AC: M07520_2.00
+CC  id: M07520_2.00
+CC  name: YLL054C
+CC  version: 
+CC  name: YLL054C
+CC  description: YLL054C
+CC  transfac_consensus: 
+CC  matrix.nb: 882
+XX
+//
+AC  M07521_2.00
+XX
+ID  CHA4
+XX
+DE  CHA4
+P0       A     C     G     T
+1       22     5    68     5
+2        0     0   100     0
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6    71.7172     0 28.2828     0
+7       22     1    76     1
+8    48.4848 10.101 10.101 31.3131
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 883
+CC  accession: M07521_2.00
+CC  AC: M07521_2.00
+CC  id: M07521_2.00
+CC  name: CHA4
+CC  version: 
+CC  name: CHA4
+CC  description: CHA4
+CC  transfac_consensus: 
+CC  matrix.nb: 883
+XX
+//
+AC  M07522_2.00
+XX
+ID  ECM22
+XX
+DE  ECM22
+P0       A     C     G     T
+1        0     7     0    93
+2       14    86     0     0
+3        0    86    14     0
+4        0     0   100     0
+5        0     0   100     0
+6    71.7172 7.07071 7.07071 14.1414
+7    28.2828 7.07071 36.3636 28.2828
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 884
+CC  accession: M07522_2.00
+CC  AC: M07522_2.00
+CC  id: M07522_2.00
+CC  name: ECM22
+CC  version: 
+CC  name: ECM22
+CC  description: ECM22
+CC  transfac_consensus: 
+CC  matrix.nb: 884
+XX
+//
+AC  M07523_2.00
+XX
+ID  HAP1
+XX
+DE  HAP1
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4       89     0    11     0
+5        5    26    53    16
+6       51     4     4    41
+7        4     4     4    88
+8       57    11    11    21
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 885
+CC  accession: M07523_2.00
+CC  AC: M07523_2.00
+CC  id: M07523_2.00
+CC  name: HAP1
+CC  version: 
+CC  name: HAP1
+CC  description: HAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 885
+XX
+//
+AC  M07524_2.00
+XX
+ID  PDR8
+XX
+DE  PDR8
+P0       A     C     G     T
+1    38.3838 15.1515 38.3838 8.08081
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5      100     0     0     0
+6    7.92079 7.92079 84.1584     0
+7      100     0     0     0
+8       13     6     6    75
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 886
+CC  accession: M07524_2.00
+CC  AC: M07524_2.00
+CC  id: M07524_2.00
+CC  name: PDR8
+CC  version: 
+CC  name: PDR8
+CC  description: PDR8
+CC  transfac_consensus: 
+CC  matrix.nb: 886
+XX
+//
+AC  M07525_2.00
+XX
+ID  YLR278C
+XX
+DE  YLR278C
+P0       A     C     G     T
+1    13.1313 42.4242 13.1313 31.3131
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5       96     0     4     0
+6        4    14    82     0
+7       23     2     5    70
+8       27     5     5    63
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 887
+CC  accession: M07525_2.00
+CC  AC: M07525_2.00
+CC  id: M07525_2.00
+CC  name: YLR278C
+CC  version: 
+CC  name: YLR278C
+CC  description: YLR278C
+CC  transfac_consensus: 
+CC  matrix.nb: 887
+XX
+//
+AC  M07526_2.00
+XX
+ID  LEU3
+XX
+DE  LEU3
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3        0     0 56.5657 43.4343
+4       20     0    35    45
+5    25.7426 33.6634     0 40.5941
+6       47    12    16    25
+7        0    61    39     0
+8        0   100     0     0
+9        0     0   100     0
+10       0    32    68     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 888
+CC  accession: M07526_2.00
+CC  AC: M07526_2.00
+CC  id: M07526_2.00
+CC  name: LEU3
+CC  version: 
+CC  name: LEU3
+CC  description: LEU3
+CC  transfac_consensus: 
+CC  matrix.nb: 888
+XX
+//
+AC  M07527_2.00
+XX
+ID  STB4
+XX
+DE  STB4
+P0       A     C     G     T
+1        9    43     9    39
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6      100     0     0     0
+7       75     1     1    23
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 889
+CC  accession: M07527_2.00
+CC  AC: M07527_2.00
+CC  id: M07527_2.00
+CC  name: STB4
+CC  version: 
+CC  name: STB4
+CC  description: STB4
+CC  transfac_consensus: 
+CC  matrix.nb: 889
+XX
+//
+AC  M07528_2.00
+XX
+ID  CEP3
+XX
+DE  CEP3
+P0       A     C     G     T
+1        4    56     4    36
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6       91     1     1     7
+7    91.0891 2.9703 2.9703 2.9703
+8       42    21    21    16
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 890
+CC  accession: M07528_2.00
+CC  AC: M07528_2.00
+CC  id: M07528_2.00
+CC  name: CEP3
+CC  version: 
+CC  name: CEP3
+CC  description: CEP3
+CC  transfac_consensus: 
+CC  matrix.nb: 890
+XX
+//
+AC  M07529_2.00
+XX
+ID  CAT8
+XX
+DE  CAT8
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5       66    13    21     0
+6       32    18    28    22
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 891
+CC  accession: M07529_2.00
+CC  AC: M07529_2.00
+CC  id: M07529_2.00
+CC  name: CAT8
+CC  version: 
+CC  name: CAT8
+CC  description: CAT8
+CC  transfac_consensus: 
+CC  matrix.nb: 891
+XX
+//
+AC  M07530_2.00
+XX
+ID  YNR063W
+XX
+DE  YNR063W
+P0       A     C     G     T
+1    7.84314 7.84314 17.6471 66.6667
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5      100     0     0     0
+6       10     0    80    10
+7       90     0     0    10
+8    32.3529 2.94118 2.94118 61.7647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 892
+CC  accession: M07530_2.00
+CC  AC: M07530_2.00
+CC  id: M07530_2.00
+CC  name: YNR063W
+CC  version: 
+CC  name: YNR063W
+CC  description: YNR063W
+CC  transfac_consensus: 
+CC  matrix.nb: 892
+XX
+//
+AC  M07531_2.00
+XX
+ID  HAL9
+XX
+DE  HAL9
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4      100     0     0     0
+5    62.6263     0 37.3737     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 893
+CC  accession: M07531_2.00
+CC  AC: M07531_2.00
+CC  id: M07531_2.00
+CC  name: HAL9
+CC  version: 
+CC  name: HAL9
+CC  description: HAL9
+CC  transfac_consensus: 
+CC  matrix.nb: 893
+XX
+//
+AC  M07532_2.00
+XX
+ID  YRR1
+XX
+DE  YRR1
+P0       A     C     G     T
+1       39    14    41     6
+2        2    95     0     3
+3        0     0   100     0
+4        0     0   100     0
+5    67.3267 6.93069 21.7822 3.9604
+6    31.6832 7.92079 32.6733 27.7228
+7       68     4     9    19
+8        8     2     1    89
+9       66     4     8    22
+10   57.5758 10.101 16.1616 16.1616
+11      15    22    42    21
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 894
+CC  accession: M07532_2.00
+CC  AC: M07532_2.00
+CC  id: M07532_2.00
+CC  name: YRR1
+CC  version: 
+CC  name: YRR1
+CC  description: YRR1
+CC  transfac_consensus: 
+CC  matrix.nb: 894
+XX
+//
+AC  M07533_2.00
+XX
+ID  YRM1
+XX
+DE  YRM1
+P0       A     C     G     T
+1       51    15    23    11
+2        2    94     2     2
+3        0     0   100     0
+4        0     0   100     0
+5      100     0     0     0
+6       60    12    16    12
+7       93     1     1     5
+8       12     8     4    76
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 895
+CC  accession: M07533_2.00
+CC  AC: M07533_2.00
+CC  id: M07533_2.00
+CC  name: YRM1
+CC  version: 
+CC  name: YRM1
+CC  description: YRM1
+CC  transfac_consensus: 
+CC  matrix.nb: 895
+XX
+//
+AC  M07534_2.00
+XX
+ID  TEA1
+XX
+DE  TEA1
+P0       A     C     G     T
+1        5     5    75    15
+2        0   100     0     0
+3        0     0   100     0
+4        0    40    60     0
+5       50     0    50     0
+6        0    80    20     0
+7       60     0    10    30
+8       15    20     5    60
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 896
+CC  accession: M07534_2.00
+CC  AC: M07534_2.00
+CC  id: M07534_2.00
+CC  name: TEA1
+CC  version: 
+CC  name: TEA1
+CC  description: TEA1
+CC  transfac_consensus: 
+CC  matrix.nb: 896
+XX
+//
+AC  M07535_2.00
+XX
+ID  RDR1
+XX
+DE  RDR1
+P0       A     C     G     T
+1    24.7525 10.8911 10.8911 53.4653
+2        0     0   100     0
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6      100     0     0     0
+7       86     0     0    14
+8    26.7327 47.5248 12.8713 12.8713
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 897
+CC  accession: M07535_2.00
+CC  AC: M07535_2.00
+CC  id: M07535_2.00
+CC  name: RDR1
+CC  version: 
+CC  name: RDR1
+CC  description: RDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 897
+XX
+//
+AC  M07536_2.00
+XX
+ID  RDS2
+XX
+DE  RDS2
+P0       A     C     G     T
+1    34.3434 39.3939 18.1818 8.08081
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6       12     1    86     1
+7    16.8317 6.93069 69.3069 6.93069
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 898
+CC  accession: M07536_2.00
+CC  AC: M07536_2.00
+CC  id: M07536_2.00
+CC  name: RDS2
+CC  version: 
+CC  name: RDS2
+CC  description: RDS2
+CC  transfac_consensus: 
+CC  matrix.nb: 898
+XX
+//
+AC  M07537_2.00
+XX
+ID  YPR196W
+XX
+DE  YPR196W
+P0       A     C     G     T
+1    4.9505 92.0792     0 2.9703
+2        0     0   100     0
+3        0     7    93     0
+4       49     7    32    12
+5       28    11    44    17
+6    69.697 2.0202 4.0404 24.2424
+7       83     0     0    17
+8       68     0     0    32
+9       13    26     0    61
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 899
+CC  accession: M07537_2.00
+CC  AC: M07537_2.00
+CC  id: M07537_2.00
+CC  name: YPR196W
+CC  version: 
+CC  name: YPR196W
+CC  description: YPR196W
+CC  transfac_consensus: 
+CC  matrix.nb: 899
+XX
+//
+AC  M07547_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1       20    60    20     0
+2    13.3333 73.3333 13.3333     0
+3       80     0 13.3333 6.6667
+4    6.6667 93.3333     0     0
+5    93.3333     0 6.6667     0
+6        0   100     0     0
+7    13.3333 86.6667     0     0
+8        0   100     0     0
+9    93.3333 6.6667     0     0
+10       0 93.3333     0 6.6667
+11      80     0    20     0
+12       0   100     0     0
+13   73.3333 26.6667     0     0
+14       0 93.3333     0 6.6667
+15       0 93.3333 6.6667     0
+16   66.6667 13.3333 13.3333 6.6667
+17       0 73.3333 13.3333 13.3333
+18   73.3333 6.6667 13.3333 6.6667
+19      20    80     0     0
+20   26.6667 53.3333 6.6667 13.3333
+21   6.6667 86.6667     0 6.6667
+22      40 26.6667 13.3333    20
+23      20 53.3333 13.3333 13.3333
+24      60 26.6667 13.3333     0
+25   13.3333 73.3333     0 13.3333
+26      20 53.3333    20 6.6667
+27   13.3333 66.6667 6.6667 13.3333
+28   46.6667    20     0 33.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 900
+CC  accession: M07547_2.00
+CC  AC: M07547_2.00
+CC  id: M07547_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 900
+XX
+//
+AC  M07548_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1    60.3636 39.6364     0     0
+2        0 31.2727     0 68.7273
+3        0     0   100     0
+4        0   100     0     0
+5    53.0909     0 46.9091     0
+6        0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 901
+CC  accession: M07548_2.00
+CC  AC: M07548_2.00
+CC  id: M07548_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 901
+XX
+//
+AC  M07549_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3    9.0909     0 90.9091     0
+4        0   100     0     0
+5        0   100     0     0
+6        0     0   100     0
+7        0   100     0     0
+8        0   100     0     0
+9        0 9.0909 90.9091     0
+10     100     0     0     0
+11   27.2727     0 63.6364 9.0909
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 902
+CC  accession: M07549_2.00
+CC  AC: M07549_2.00
+CC  id: M07549_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 902
+XX
+//
+AC  M07553_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1    15.1934 28.7293 16.2983 39.779
+2    32.5967 15.4696 46.9613 4.9724
+3    0.8287 2.7624 0.5525 95.8564
+4    4.9724 7.4586 3.5912 83.9779
+5    98.0663 0.2762 1.6575     0
+6        0   100     0     0
+7        0   100     0     0
+8        0   100     0     0
+9    2.4862 2.2099 66.2983 29.0055
+10   20.1657 26.2431 43.9227 9.6685
+11   35.6354 40.884 6.6298 16.8508
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 903
+CC  accession: M07553_2.00
+CC  AC: M07553_2.00
+CC  id: M07553_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 903
+XX
+//
+AC  M07554_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1    14.2857 60.7143     0    25
+2    67.8571 17.8571     0 14.2857
+3    7.1429 85.7143     0 7.1429
+4        0   100     0     0
+5    92.8571     0 3.5714 3.5714
+6    10.7143 89.2857     0     0
+7       50 14.2857     0 35.7143
+8       25 67.8571 3.5714 3.5714
+9    3.5714 96.4286     0     0
+10   3.5714 92.8571 3.5714     0
+11   96.4286     0 3.5714     0
+12   14.2857 85.7143     0     0
+13   57.1429 14.2857 3.5714    25
+14       0 71.4286     0 28.5714
+15   82.1429 7.1429 10.7143     0
+16       0   100     0     0
+17   21.4286 78.5714     0     0
+18   42.8571 57.1429     0     0
+19   35.7143    25     0 39.2857
+20   53.5714 39.2857 7.1429     0
+21   21.4286    75 3.5714     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 904
+CC  accession: M07554_2.00
+CC  AC: M07554_2.00
+CC  id: M07554_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 904
+XX
+//
+AC  M07555_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1        0     0     0   100
+2        0 66.6667     0 33.3333
+3        0     0     0   100
+4        0   100     0     0
+5      100     0     0     0
+6        0 83.3333 16.6667     0
+7      100     0     0     0
+8        0     0     0   100
+9        0     0     0   100
+10       0   100     0     0
+11       0 83.3333     0 16.6667
+12     100     0     0     0
+13       0   100     0     0
+14       0     0     0   100
+15       0 83.3333     0 16.6667
+16       0   100     0     0
+17     100     0     0     0
+18       0    50     0    50
+19       0     0 66.6667 33.3333
+20       0 33.3333 66.6667     0
+21       0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 905
+CC  accession: M07555_2.00
+CC  AC: M07555_2.00
+CC  id: M07555_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 905
+XX
+//
+AC  M07556_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    38.8506 1.1494 56.092 3.908
+2        0 2.069 19.0805 78.8506
+3        0 1.3793 97.0115 1.6092
+4    3.2184 25.977 2.5287 68.2759
+5    42.5287 6.6667 39.5402 11.2644
+6    5.2874 24.3678 2.2989 68.046
+7    3.4483     0 93.7931 2.7586
+8        0     0 92.6437 7.3563
+9    16.7816 3.2184 79.0805 0.9195
+10   0.2299 4.8276 2.7586 92.1839
+11   2.069 3.908 74.2529 19.7701
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 906
+CC  accession: M07556_2.00
+CC  AC: M07556_2.00
+CC  id: M07556_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 906
+XX
+//
+AC  M07557_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    4.8387     0 95.1613     0
+2        0 1.6129 1.6129 96.7742
+3        0     0 98.3871 1.6129
+4        0     0     0   100
+5        0     0   100     0
+6        0     0 62.9032 37.0968
+7    3.2258     0 95.1613 1.6129
+8        0     0 1.6129 98.3871
+9        0     0   100     0
+10       0     0     0   100
+11   1.6129     0 98.3871     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 907
+CC  accession: M07557_2.00
+CC  AC: M07557_2.00
+CC  id: M07557_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 907
+XX
+//
+AC  M07558_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    2.439     0 90.2439 7.3171
+2        0 12.1951 87.8049     0
+3        0     0     0   100
+4        0     0   100     0
+5    2.439     0     0 97.561
+6        0     0   100     0
+7    4.878     0 92.6829 2.439
+8        0     0     0   100
+9        0     0   100     0
+10   4.878 9.7561 2.439 82.9268
+11   12.1951     0 82.9268 4.878
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 908
+CC  accession: M07558_2.00
+CC  AC: M07558_2.00
+CC  id: M07558_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 908
+XX
+//
+AC  M07559_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1        0     0   100     0
+2    15.3846     0 84.6154     0
+3    76.9231 23.0769     0     0
+4    53.8462 15.3846 15.3846 15.3846
+5    23.0769 38.4615 38.4615     0
+6    69.2308 7.6923 23.0769     0
+7    7.6923 92.3077     0     0
+8    30.7692     0     0 69.2308
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 909
+CC  accession: M07559_2.00
+CC  AC: M07559_2.00
+CC  id: M07559_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 909
+XX
+//
+AC  M07560_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1        0     0   100     0
+2        0     0   100     0
+3    33.3333     0 66.6667     0
+4      100     0     0     0
+5      100     0     0     0
+6      100     0     0     0
+7    33.3333     0 66.6667     0
+8        0     0   100     0
+9        0     0   100     0
+10       0     0     0   100
+11       0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 910
+CC  accession: M07560_2.00
+CC  AC: M07560_2.00
+CC  id: M07560_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 910
+XX
+//
+AC  M07561_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1      100     0     0     0
+2        0     0   100     0
+3      100     0     0     0
+4      100     0     0     0
+5        0   100     0     0
+6      100     0     0     0
+7      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 911
+CC  accession: M07561_2.00
+CC  AC: M07561_2.00
+CC  id: M07561_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 911
+XX
+//
+AC  M07981_2.00
+XX
+ID  M07981_2.00
+XX
+DE  myatgsccawawawggcma 
+P0       A     C     G     T
+1    29.9342 32.5658 19.0789 18.4211
+2    17.1053 33.8816 15.4605 33.5526
+3    44.4079 17.4342 21.0526 17.1053
+4    23.3553 13.1579 8.22369 55.2631
+5    14.1447 10.8553 51.9737 23.0263
+6    23.3553 28.6184 30.2632 17.7632
+7    2.3026 95.0659 1.6447 0.986801
+8    0.3289 93.4211     0  6.25
+9    75.6579 5.5921 0.6579 18.0921
+10   48.3553 0.657899 2.6316 48.3553
+11   95.0658     0 4.2763 0.6579
+12   29.9342 7.8947 2.6316 59.5395
+13   88.8158 1.3158 1.9737 7.8947
+14   64.4736 1.3158 5.26319 28.9474
+15   3.2895     0 96.7105     0
+16   1.6447 0.3289 97.3685 0.657901
+17   22.6974 42.4342 18.4211 16.4474
+18   45.0658 30.2632 15.4605 9.2105
+19   55.592 9.53949 16.4474 18.4211
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 912
+CC  accession: M07981_2.00
+CC  AC: M07981_2.00
+CC  id: M07981_2.00
+CC  name: M07981_2.00
+CC  version: 
+CC  name: M07981_2.00
+CC  description: myatgsccawawawggcma 
+CC  transfac_consensus: 
+CC  matrix.nb: 912
+XX
+//
+AC  M07982_2.00
+XX
+ID  M07982_2.00
+XX
+DE  ccawataaggmmad 
+P0       A     C     G     T
+1        0 99.7409 0.2591     0
+2        0 97.1503     0 2.8497
+3    77.9792 1.0363 0.777199 20.2073
+4    42.228     0     0 57.772
+5    95.5959     0 1.2953 3.1088
+6    10.6218 3.6269 1.0363 84.715
+7    93.2642     0     0 6.7358
+8    75.9068     0 3.6269 20.4663
+9    0.7772     0 99.2228     0
+10       0     0   100     0
+11   27.9793 36.2694 16.8394 18.9119
+12   63.7306 26.4249 7.772 2.0725
+13   77.202 2.5907 12.9534 7.25389
+14   33.6788 12.1762 28.2383 25.9067
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 913
+CC  accession: M07982_2.00
+CC  AC: M07982_2.00
+CC  id: M07982_2.00
+CC  name: M07982_2.00
+CC  version: 
+CC  name: M07982_2.00
+CC  description: ccawataaggmmad 
+CC  transfac_consensus: 
+CC  matrix.nb: 913
+XX
+//
+AC  M07983_2.00
+XX
+ID  M07983_2.00
+XX
+DE  yatkcccawawawggmma 
+P0       A     C     G     T
+1    19.0231 34.7044 18.7661 27.5064
+2    43.9589 21.3368 15.6812 19.0231
+3    18.509 12.5964 10.7969 58.0977
+4    12.8535 13.1105 43.7018 30.3342
+5    22.365 30.3342 24.4216 22.8792
+6    0.2571 97.6863 0.2571 1.7995
+7        0 92.0308     0 7.9692
+8    74.8073 4.6272 1.5424 19.0231
+9    46.5296 1.7995 2.0566 49.6144
+10   97.6864 0.5141 1.0283 0.7712
+11   30.5913 5.14139     0 64.2673
+12   89.7172 1.5424 1.7995 6.9409
+13   67.3522 1.5424 1.7995 29.3059
+14   2.0566     0 97.9434     0
+15   0.514101     0 98.9718 0.514101
+16   32.9049 34.9614 19.2802 12.8535
+17   50.8997 26.2211 15.4242 7.455
+18   51.928 11.054 18.7661 18.2519
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 914
+CC  accession: M07983_2.00
+CC  AC: M07983_2.00
+CC  id: M07983_2.00
+CC  name: M07983_2.00
+CC  version: 
+CC  name: M07983_2.00
+CC  description: yatkcccawawawggmma 
+CC  transfac_consensus: 
+CC  matrix.nb: 914
+XX
+//
+AC  M07984_2.00
+XX
+ID  M07984_2.00
+XX
+DE  gmccawatawggyaamt 
+P0       A     C     G     T
+1    9.1912  12.5 70.2206 8.0882
+2    38.9706 31.25 13.9706 15.8088
+3        0 99.2648 0.3676 0.3676
+4        0 94.4853 0.3676 5.1471
+5    75.0001 0.3676 0.3676 24.2647
+6    29.7794     0     0 70.2206
+7    91.5442     0 1.1029 7.35291
+8    11.3971 4.7794 0.7353 83.0882
+9    88.2353 1.4706     0 10.2941
+10   48.1618 1.8382 18.75 31.25
+11   1.4706     0 98.5294     0
+12   0.3676     0 99.2648 0.3676
+13   16.5441 41.1765 12.1324 30.1471
+14   59.9265 20.2206  12.5 7.3529
+15   67.2794 6.9853 15.4412 10.2941
+16   27.9412 35.6618 15.8088 20.5882
+17   13.9706 16.9118 20.5882 48.5294
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 915
+CC  accession: M07984_2.00
+CC  AC: M07984_2.00
+CC  id: M07984_2.00
+CC  name: M07984_2.00
+CC  version: 
+CC  name: M07984_2.00
+CC  description: gmccawatawggyaamt 
+CC  transfac_consensus: 
+CC  matrix.nb: 915
+XX
+//
+AC  M08040_2.00
+XX
+ID  M08040_2.00
+XX
+DE  rracaawrgav 
+P0       A     C     G     T
+1    60.274     0 31.5068 8.2192
+2    47.032 21.4612 31.5068     0
+3      100     0     0     0
+4    3.1963 88.1279 8.6758     0
+5      100     0     0     0
+6    98.1735 1.8265     0     0
+7    26.484     0     0 73.516
+8    28.7671     0 71.2329     0
+9    21.0046 15.9817 63.0137     0
+10   43.8356 22.8311 21.0046 12.3288
+11   33.79 26.0274 25.5708 14.6119
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 916
+CC  accession: M08040_2.00
+CC  AC: M08040_2.00
+CC  id: M08040_2.00
+CC  name: M08040_2.00
+CC  version: 
+CC  name: M08040_2.00
+CC  description: rracaawrgav 
+CC  transfac_consensus: 
+CC  matrix.nb: 916
+XX
+//
+AC  M08041_2.00
+XX
+ID  M08041_2.00
+XX
+DE  ttwgcatracaawrg 
+P0       A     C     G     T
+1    18.7013 5.7143 13.7662 61.8182
+2    18.961 22.0779 11.1688 47.7922
+3    25.974 7.013 9.0909 57.9221
+4    16.8831 12.2078 62.5974 8.3117
+5    21.039 70.1298 8.83119     0
+6    84.9352 6.75321 1.5584 6.75321
+7    24.6753 5.45451 17.4026 52.4676
+8    43.3766 15.8442 28.0519 12.7273
+9    82.5974     0 0.7792 16.6234
+10   2.3377 78.961 14.2857 4.4156
+11   99.2208     0     0 0.7792
+12   98.1819 1.5584 0.2597     0
+13   48.8312     0 1.2987 49.8701
+14   31.1688 0.779201 63.3767 4.6753
+15   16.3636 14.2857 64.4156 4.9351
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 917
+CC  accession: M08041_2.00
+CC  AC: M08041_2.00
+CC  id: M08041_2.00
+CC  name: M08041_2.00
+CC  version: 
+CC  name: M08041_2.00
+CC  description: ttwgcatracaawrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 917
+XX
+//
+AC  M08042_2.00
+XX
+ID  M08042_2.00
+XX
+DE  ttwgcatwwsaawrg 
+P0       A     C     G     T
+1    4.4444 4.127 2.5397 88.8889
+2    8.25399 17.4603 1.9048 72.3809
+3    28.5714 1.5873 3.1746 66.6667
+4    21.9048 10.1587 64.7619 3.1746
+5    13.6508 86.0317     0 0.3175
+6    95.5556 3.8095     0 0.6349
+7    18.4127 6.0317 1.5873 73.9683
+8    37.4603 13.9683 22.8571 25.7143
+9    69.2064 1.2698 1.2698 28.254
+10   8.254 56.8254 27.3016 7.619
+11   96.8254 0.9524     0 2.2222
+12   94.9206 3.4921 1.5873     0
+13   42.2222 0.634901 2.2222 54.9207
+14   36.5079 4.4444 52.381 6.6667
+15   22.2222 22.5397 50.1587 5.0794
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 918
+CC  accession: M08042_2.00
+CC  AC: M08042_2.00
+CC  id: M08042_2.00
+CC  name: M08042_2.00
+CC  version: 
+CC  name: M08042_2.00
+CC  description: ttwgcatwwsaawrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 918
+XX
+//
+AC  M08104_2.00
+XX
+ID  M08104_2.00
+XX
+DE  kctgattggyy 
+P0       A     C     G     T
+1    14.7979 18.3834 28.3731 38.4456
+2    7.66839 56.228 23.4404 12.6632
+3    0.725389 10.1347 4.41451 84.7254
+4    2.59067 6.6114 87.3575 3.44041
+5    96.2694 0.227979 2.73575 0.766839
+6    0.476684 2.56995 1.94819 95.0052
+7    1.98964 0.352332 0.601036 97.057
+8    1.09845 0.580311 97.6788 0.642487
+9    2.30052 0.704663 96.5181 0.476684
+10   13.2435 38.5078 8.37306 39.8756
+11   7.37824 37.6166 15.6891 39.3161
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 919
+CC  accession: M08104_2.00
+CC  AC: M08104_2.00
+CC  id: M08104_2.00
+CC  name: M08104_2.00
+CC  version: 
+CC  name: M08104_2.00
+CC  description: kctgattggyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 919
+XX
+//
+AC  M08162_2.00
+XX
+ID  M08162_2.00
+XX
+DE  gttgcyatggcrac 
+P0       A     C     G     T
+1        0     0   100     0
+2        0 2.61927     0 97.3807
+3    4.72404 11.4125     0 83.8634
+4    6.03368 0.561272 79.9813 13.4238
+5        0 91.3003     0 8.69972
+6        0 71.7493     0 28.2507
+7    83.6763 4.49018 5.37886 6.45463
+8    19.13 3.41441 18.8026 58.6529
+9    4.20954     0 95.7905     0
+10   12.0206 4.49018 81.7587 1.73059
+11   24.4153 35.6408 20.2526 19.6913
+12   48.1291 6.12722 38.9616 6.78204
+13   69.2703 17.6333 10.3835 2.71282
+14   7.43686 71.6558 7.34331 13.5641
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 920
+CC  accession: M08162_2.00
+CC  AC: M08162_2.00
+CC  id: M08162_2.00
+CC  name: M08162_2.00
+CC  version: 
+CC  name: M08162_2.00
+CC  description: gttgcyatggcrac 
+CC  transfac_consensus: 
+CC  matrix.nb: 920
+XX
+//
+AC  M08165_2.00
+XX
+ID  M08165_2.00
+XX
+DE  rraacaaagvm 
+P0       A     C     G     T
+1    33.236 19.3187 25.6448 21.8005
+2    35.1825 13.7713 27.7859 23.2603
+3    54.4039 18.1022 15.4258 12.0681
+4    98.4428 0.194647 0.145985 1.21655
+5    0.145985 96.7883 0.53528 2.53041
+6    98.7348 0.340633 0.340633 0.583942
+7    95.7664 1.36253 0.973236 1.89781
+8    95.3285 1.11922 0.583942 2.96837
+9    0.486618 0.632603 97.9075 0.973236
+10   32.4088 26.8613 30.1217 10.6083
+11   31.0462 27.0073 24.5742 17.3723
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 921
+CC  accession: M08165_2.00
+CC  AC: M08165_2.00
+CC  id: M08165_2.00
+CC  name: M08165_2.00
+CC  version: 
+CC  name: M08165_2.00
+CC  description: rraacaaagvm 
+CC  transfac_consensus: 
+CC  matrix.nb: 921
+XX
+//
+AC  M08166_2.00
+XX
+ID  M08166_2.00
+XX
+DE  raacaatggmw 
+P0       A     C     G     T
+1    33.8093 14.565 30.6459 20.9798
+2    39.4332 21.0457 23.0448 16.4763
+3    97.7812 0.483304 0.878735 0.856766
+4    1.20826 93.9367 1.3181 3.53691
+5    95.1011 1.20826 1.09842 2.59227
+6    96.4411 1.05448 1.38401 1.12039
+7    3.42707 1.69156 0.615114 94.2663
+8    12.8515 1.2522 84.2926 1.60369
+9    17.0914 14.2135 58.5677 10.1274
+10   26.9772 27.6142 23.594 21.8146
+11   26.9772 24.7364 22.9789 25.3076
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 922
+CC  accession: M08166_2.00
+CC  AC: M08166_2.00
+CC  id: M08166_2.00
+CC  name: M08166_2.00
+CC  version: 
+CC  name: M08166_2.00
+CC  description: raacaatggmw 
+CC  transfac_consensus: 
+CC  matrix.nb: 922
+XX
+//
+AC  M08168_2.00
+XX
+ID  M08168_2.00
+XX
+DE  cctttgtyyy 
+P0       A     C     G     T
+1        0 71.94 15.9652 12.0948
+2        0 75.0847     0 24.9153
+3    12.6754     0     0 87.3246
+4        0     0     0   100
+5        0     0     0   100
+6        0 6.96662 93.0334     0
+7        0     0     0   100
+8        0 33.7687 12.2883 53.9429
+9    0.919207 41.2675 1.06434 56.7489
+10   2.03193 31.6401 18.4809 47.8471
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 923
+CC  accession: M08168_2.00
+CC  AC: M08168_2.00
+CC  id: M08168_2.00
+CC  name: M08168_2.00
+CC  version: 
+CC  name: M08168_2.00
+CC  description: cctttgtyyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 923
+XX
+//
+AC  M08169_2.00
+XX
+ID  M08169_2.00
+XX
+DE  ccwttgtyyy 
+P0       A     C     G     T
+1    1.60643 55.8233 20.0803 22.49
+2        0 88.755     0 11.245
+3    64.6586     0     0 35.3414
+4        0     0     0   100
+5        0     0     0   100
+6        0     0   100     0
+7        0     0     0   100
+8        0 46.1847 2.00803 51.8072
+9    1.60643 44.9799     0 53.4137
+10   5.62249 30.5221 12.4498 51.4056
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 924
+CC  accession: M08169_2.00
+CC  AC: M08169_2.00
+CC  id: M08169_2.00
+CC  name: M08169_2.00
+CC  version: 
+CC  name: M08169_2.00
+CC  description: ccwttgtyyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 924
+XX
+//
+AC  M08170_2.00
+XX
+ID  M08170_2.00
+XX
+DE  ccwttgty 
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3    45.3252     0     0 54.6748
+4        0     0     0   100
+5        0     0     0   100
+6        0     0   100     0
+7        0     0     0   100
+8        0 28.3875 20.122 51.4905
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 925
+CC  accession: M08170_2.00
+CC  AC: M08170_2.00
+CC  id: M08170_2.00
+CC  name: M08170_2.00
+CC  version: 
+CC  name: M08170_2.00
+CC  description: ccwttgty 
+CC  transfac_consensus: 
+CC  matrix.nb: 925
+XX
+//
+AC  M08231_2.00
+XX
+ID  M08231_2.00
+XX
+DE  tatttgcata 
+P0       A     C     G     T
+1    11.7647 20.5882 4.4118 63.2353
+2    80.8823 2.9412 4.4118 11.7647
+3    10.2941     0 8.8235 80.8824
+4        0 16.1765     0 83.8235
+5    22.0588     0     0 77.9412
+6    22.0588     0 77.9412     0
+7    11.7647 69.1177     0 19.1176
+8    95.5882 2.9412     0 1.4706
+9        0     0     0   100
+10   61.7646 5.8824 16.1765 16.1765
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 926
+CC  accession: M08231_2.00
+CC  AC: M08231_2.00
+CC  id: M08231_2.00
+CC  name: M08231_2.00
+CC  version: 
+CC  name: M08231_2.00
+CC  description: tatttgcata 
+CC  transfac_consensus: 
+CC  matrix.nb: 926
+XX
+//
+AC  M08405_2.00
+XX
+ID  INO2
+XX
+DE  INO2
+P0       A     C     G     T
+1    14.5455 3.0303 1.21212 81.2121
+2        0 12.7778 8.88889 78.3333
+3        0 87.6364 12.3636     0
+4    88.5542 6.62651     0 4.81928
+5        0 97.3585     0 2.64151
+6    85.7143     0 14.2857     0
+7    2.40964     0 4.21687 93.3735
+8        0     0   100     0
+9    1.60643 79.5181 11.6466 7.22892
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 927
+CC  accession: M08405_2.00
+CC  AC: M08405_2.00
+CC  id: M08405_2.00
+CC  name: INO2
+CC  version: 
+CC  name: INO2
+CC  description: INO2
+CC  transfac_consensus: 
+CC  matrix.nb: 927
+XX
+//
+AC  M08406_2.00
+XX
+ID  INO4
+XX
+DE  INO4
+P0       A     C     G     T
+1        0 14.8571     4 81.1429
+2        0 13.0682 3.97727 82.9545
+3        0 93.4109     0 6.58915
+4      100     0     0     0
+5        0 96.2406     0 3.7594
+6      100     0     0     0
+7    10.0592     0 8.28402 81.6568
+8    7.45098     0 92.549     0
+9    2.06612 66.9421 19.0083 11.9835
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 928
+CC  accession: M08406_2.00
+CC  AC: M08406_2.00
+CC  id: M08406_2.00
+CC  name: INO4
+CC  version: 
+CC  name: INO4
+CC  description: INO4
+CC  transfac_consensus: 
+CC  matrix.nb: 928
+XX
+//
+AC  M08408_2.00
+XX
+ID  MET28
+XX
+DE  MET28
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3      100     0     0     0
+4        0   100     0     0
+5      100     0     0     0
+6        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 929
+CC  accession: M08408_2.00
+CC  AC: M08408_2.00
+CC  id: M08408_2.00
+CC  name: MET28
+CC  version: 
+CC  name: MET28
+CC  description: MET28
+CC  transfac_consensus: 
+CC  matrix.nb: 929
+XX
+//
+AC  M08409_2.00
+XX
+ID  YAP5
+XX
+DE  YAP5
+P0       A     C     G     T
+1    78.2051     0     0 21.7949
+2    64.9215     0 35.0785     0
+3    38.7387     0 61.2613     0
+4        0 93.9502     0 6.04982
+5      100     0     0     0
+6    12.1795     0     0 87.8205
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 930
+CC  accession: M08409_2.00
+CC  AC: M08409_2.00
+CC  id: M08409_2.00
+CC  name: YAP5
+CC  version: 
+CC  name: YAP5
+CC  description: YAP5
+CC  transfac_consensus: 
+CC  matrix.nb: 930
+XX
+//
+AC  M08410_2.00
+XX
+ID  ARR1
+XX
+DE  ARR1
+P0       A     C     G     T
+1    78.6585 14.6341     0 6.70732
+2    1.77515 17.1598     0 81.0651
+3        0 6.59341 22.5275 70.8791
+4        0 68.8034     0 31.1966
+5      100     0     0     0
+6    46.5241     0 37.4332 16.0428
+7    36.3184 14.4279 37.3134 11.9403
+8        0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 931
+CC  accession: M08410_2.00
+CC  AC: M08410_2.00
+CC  id: M08410_2.00
+CC  name: ARR1
+CC  version: 
+CC  name: ARR1
+CC  description: ARR1
+CC  transfac_consensus: 
+CC  matrix.nb: 931
+XX
+//
+AC  M08414_2.00
+XX
+ID  STP1
+XX
+DE  STP1
+P0       A     C     G     T
+1    1.94175 39.8058 16.0194 42.233
+2    20.332     0 79.668     0
+3        0   100     0     0
+4        0     0 98.5185 1.48148
+5    4.49438     0 95.5056     0
+6        0   100     0     0
+7    1.90476     0 56.6667 41.4286
+8    1.77778 41.7778 31.1111 25.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 932
+CC  accession: M08414_2.00
+CC  AC: M08414_2.00
+CC  id: M08414_2.00
+CC  name: STP1
+CC  version: 
+CC  name: STP1
+CC  description: STP1
+CC  transfac_consensus: 
+CC  matrix.nb: 932
+XX
+//
+AC  M08415_2.00
+XX
+ID  RME1
+XX
+DE  RME1
+P0       A     C     G     T
+1    11.0429 11.6564     0 77.3006
+2    11.7021 18.617 20.7447 48.9362
+3        0 87.0722     0 12.9278
+4        0 90.0369     0 9.9631
+5    1.17647     0 17.0588 81.7647
+6    13.0952 16.0714     0 70.8333
+7        0     0     0   100
+8    26.009 21.9731 44.843 7.17489
+9    32.243 15.4206 44.8598 7.47664
+10   71.5847     0 28.4153     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 933
+CC  accession: M08415_2.00
+CC  AC: M08415_2.00
+CC  id: M08415_2.00
+CC  name: RME1
+CC  version: 
+CC  name: RME1
+CC  description: RME1
+CC  transfac_consensus: 
+CC  matrix.nb: 933
+XX
+//
+AC  M08416_2.00
+XX
+ID  ZAP1
+XX
+DE  ZAP1
+P0       A     C     G     T
+1      100     0     0     0
+2        0   100     0     0
+3        0   100     0     0
+4        0 47.549     0 52.451
+5        0     0     0   100
+6    53.2338 38.3085 8.45771     0
+7      100     0     0     0
+8    61.658 8.80829 29.5337     0
+9        0     0   100     0
+10       0     0   100     0
+11       0     0     0   100
+12   9.85915 45.5399 17.3709 27.23
+13   64.3243     0 30.8108 4.86486
+14   5.26316 9.94152     0 84.7953
+15   18.8525     0 81.1475     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 934
+CC  accession: M08416_2.00
+CC  AC: M08416_2.00
+CC  id: M08416_2.00
+CC  name: ZAP1
+CC  version: 
+CC  name: ZAP1
+CC  description: ZAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 934
+XX
+//
+AC  M08417_2.00
+XX
+ID  MOT3
+XX
+DE  MOT3
+P0       A     C     G     T
+1        0     0     0   100
+2       50     0    50     0
+3        0   100     0     0
+4        0   100     0     0
+5        0     0     0   100
+6    33.3333     0 33.3333 33.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 935
+CC  accession: M08417_2.00
+CC  AC: M08417_2.00
+CC  id: M08417_2.00
+CC  name: MOT3
+CC  version: 
+CC  name: MOT3
+CC  description: MOT3
+CC  transfac_consensus: 
+CC  matrix.nb: 935
+XX
+//
+AC  M08419_2.00
+XX
+ID  ASH1
+XX
+DE  ASH1
+P0       A     C     G     T
+1    6.56934 93.4307     0     0
+2    6.88406 90.2174 2.89855     0
+3    13.1313 46.4646     0 40.404
+4    15.4867 3.53982 66.3717 14.6018
+5    88.5542 4.81928 6.62651     0
+6        0 29.3478     0 70.6522
+7    5.33333 44.8889    24 25.7778
+8    4.44444 59.1111 9.33333 27.1111
+9    1.02041     0 98.9796     0
+10   13.308 3.04183 83.6502     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 936
+CC  accession: M08419_2.00
+CC  AC: M08419_2.00
+CC  id: M08419_2.00
+CC  name: ASH1
+CC  version: 
+CC  name: ASH1
+CC  description: ASH1
+CC  transfac_consensus: 
+CC  matrix.nb: 936
+XX
+//
+AC  M08422_2.00
+XX
+ID  HMRA1
+XX
+DE  HMRA1
+P0       A     C     G     T
+1       50     0    50     0
+2        0   100     0     0
+3      100     0     0     0
+4        0   100     0     0
+5      100     0     0     0
+6      100     0     0     0
+7        0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 937
+CC  accession: M08422_2.00
+CC  AC: M08422_2.00
+CC  id: M08422_2.00
+CC  name: HMRA1
+CC  version: 
+CC  name: HMRA1
+CC  description: HMRA1
+CC  transfac_consensus: 
+CC  matrix.nb: 937
+XX
+//
+AC  M08423_2.00
+XX
+ID  YHP1
+XX
+DE  YHP1
+P0       A     C     G     T
+1        0     0     0   100
+2      100     0     0     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0     0   100
+6        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 938
+CC  accession: M08423_2.00
+CC  AC: M08423_2.00
+CC  id: M08423_2.00
+CC  name: YHP1
+CC  version: 
+CC  name: YHP1
+CC  description: YHP1
+CC  transfac_consensus: 
+CC  matrix.nb: 938
+XX
+//
+AC  M08426_2.00
+XX
+ID  ARG80
+XX
+DE  ARG80
+P0       A     C     G     T
+1    56.3291     0     0 43.6709
+2        0     0   100     0
+3      100     0     0     0
+4        0   100     0     0
+5    22.9167     0 41.1458 35.9375
+6        0 92.7536     0 7.24638
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 939
+CC  accession: M08426_2.00
+CC  AC: M08426_2.00
+CC  id: M08426_2.00
+CC  name: ARG80
+CC  version: 
+CC  name: ARG80
+CC  description: ARG80
+CC  transfac_consensus: 
+CC  matrix.nb: 939
+XX
+//
+AC  M08429_2.00
+XX
+ID  IXR1
+XX
+DE  IXR1
+P0       A     C     G     T
+1    10.2941 89.7059     0     0
+2    46.9194 53.0806     0     0
+3        0 97.9381     0 2.06186
+4        0 89.7059     0 10.2941
+5        0     0   100     0
+6        0   100     0     0
+7    23.4177     0     0 76.5823
+8        0 36.9792     0 63.0208
+9    15.812 72.2222     0 11.9658
+10       0 76.0163     0 23.9837
+11       0     0 76.0163 23.9837
+12   2.29008     0 87.0229 10.687
+13   13.4615 53.8462     0 32.6923
+14   23.4177     0     0 76.5823
+15       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 940
+CC  accession: M08429_2.00
+CC  AC: M08429_2.00
+CC  id: M08429_2.00
+CC  name: IXR1
+CC  version: 
+CC  name: IXR1
+CC  description: IXR1
+CC  transfac_consensus: 
+CC  matrix.nb: 940
+XX
+//
+AC  M08432_2.00
+XX
+ID  SPT2
+XX
+DE  SPT2
+P0       A     C     G     T
+1    61.7834     0 1.91083 36.3057
+2    36.6667 24.4444 6.66667 32.2222
+3        0     0     0   100
+4    2.5641     0     0 97.4359
+5    70.6522     0 29.3478     0
+6    63.4921 12.1693 24.3386     0
+7    39.3365 31.2796 28.436 0.947867
+8        0     0 50.7246 49.2754
+9      100     0     0     0
+10   63.8743     0 36.1257     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 941
+CC  accession: M08432_2.00
+CC  AC: M08432_2.00
+CC  id: M08432_2.00
+CC  name: SPT2
+CC  version: 
+CC  name: SPT2
+CC  description: SPT2
+CC  transfac_consensus: 
+CC  matrix.nb: 941
+XX
+//
+AC  M08433_2.00
+XX
+ID  OPI1
+XX
+DE  OPI1
+P0       A     C     G     T
+1    5.52995 40.553 26.7281 27.1889
+2        0     0   100     0
+3        0     0   100     0
+4        0     0     0   100
+5        0     0 1.19048 98.8095
+6        0   100     0     0
+7    15.5251 19.1781 49.7717 15.5251
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 942
+CC  accession: M08433_2.00
+CC  AC: M08433_2.00
+CC  id: M08433_2.00
+CC  name: OPI1
+CC  version: 
+CC  name: OPI1
+CC  description: OPI1
+CC  transfac_consensus: 
+CC  matrix.nb: 942
+XX
+//
+AC  M08434_2.00
+XX
+ID  IME1
+XX
+DE  IME1
+P0       A     C     G     T
+1        0 94.3262     0 5.67376
+2        0     0     0   100
+3        0   100     0     0
+4    5.37634 26.8817 67.7419     0
+5        0     0   100     0
+6        0   100     0     0
+7        0 20.8191 79.1809     0
+8        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 943
+CC  accession: M08434_2.00
+CC  AC: M08434_2.00
+CC  id: M08434_2.00
+CC  name: IME1
+CC  version: 
+CC  name: IME1
+CC  description: IME1
+CC  transfac_consensus: 
+CC  matrix.nb: 943
+XX
+//
+AC  M08435_2.00
+XX
+ID  SPT23
+XX
+DE  SPT23
+P0       A     C     G     T
+1    44.3925     0 55.6075     0
+2      100     0     0     0
+3    85.6287     0 13.1737 1.1976
+4    85.3503     0     0 14.6497
+5    0.581395 20.9302     0 78.4884
+6        0 54.9801 26.6932 18.3267
+7    60.3352 20.6704 10.0559 8.93855
+8    96.319     0 3.68098     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 944
+CC  accession: M08435_2.00
+CC  AC: M08435_2.00
+CC  id: M08435_2.00
+CC  name: SPT23
+CC  version: 
+CC  name: SPT23
+CC  description: SPT23
+CC  transfac_consensus: 
+CC  matrix.nb: 944
+XX
+//
+AC  M08436_2.00
+XX
+ID  MET4
+XX
+DE  MET4
+P0       A     C     G     T
+1      100     0     0     0
+2    52.7363 23.3831 23.8806     0
+3        0  79.6     0  20.4
+4        0     0     0   100
+5        0     0   100     0
+6        0     0     0   100
+7        0     0   100     0
+8        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 945
+CC  accession: M08436_2.00
+CC  AC: M08436_2.00
+CC  id: M08436_2.00
+CC  name: MET4
+CC  version: 
+CC  name: MET4
+CC  description: MET4
+CC  transfac_consensus: 
+CC  matrix.nb: 945
+XX
+//
+AC  M08437_2.00
+XX
+ID  GCR2
+XX
+DE  GCR2
+P0       A     C     G     T
+1    14.2857 14.2857 64.5022 6.92641
+2        0   100     0     0
+3    6.70732     0 0.609756 92.6829
+4        0     0     0   100
+5        0 97.0149     0 2.98507
+6        0 99.6296 0.37037     0
+7    33.3333 28.4153 3.27869 34.9727
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 946
+CC  accession: M08437_2.00
+CC  AC: M08437_2.00
+CC  id: M08437_2.00
+CC  name: GCR2
+CC  version: 
+CC  name: GCR2
+CC  description: GCR2
+CC  transfac_consensus: 
+CC  matrix.nb: 946
+XX
+//
+AC  M08438_2.00
+XX
+ID  PDR3
+XX
+DE  PDR3
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3        0   100     0     0
+4        0     0   100     0
+5        0   100     0     0
+6        0     0   100     0
+7        0     0   100     0
+8      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 947
+CC  accession: M08438_2.00
+CC  AC: M08438_2.00
+CC  id: M08438_2.00
+CC  name: PDR3
+CC  version: 
+CC  name: PDR3
+CC  description: PDR3
+CC  transfac_consensus: 
+CC  matrix.nb: 947
+XX
+//
+AC  M08439_2.00
+XX
+ID  SUT1
+XX
+DE  SUT1
+P0       A     C     G     T
+1       10 61.7391 15.6522 12.6087
+2    20.1681 2.10084 77.7311     0
+3        0   100     0     0
+4    3.10078 23.6434 72.8682 0.387597
+5        0 16.9118 83.0882     0
+6    20.8511 14.8936 64.2553     0
+7    18.9655 6.03448 73.2759 1.72414
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 948
+CC  accession: M08439_2.00
+CC  AC: M08439_2.00
+CC  id: M08439_2.00
+CC  name: SUT1
+CC  version: 
+CC  name: SUT1
+CC  description: SUT1
+CC  transfac_consensus: 
+CC  matrix.nb: 948
+XX
+//
+AC  M08440_2.00
+XX
+ID  DAL81
+XX
+DE  DAL81
+P0       A     C     G     T
+1      100     0     0     0
+2      100     0     0     0
+3      100     0     0     0
+4      100     0     0     0
+5        0     0   100     0
+6        0   100     0     0
+7        0   100     0     0
+8        0     0   100     0
+9        0   100     0     0
+10       0     0   100     0
+11       0     0   100     0
+12       0     0   100     0
+13       0   100     0     0
+14       0     0   100     0
+15       0     0   100     0
+16       0     0   100     0
+17     100     0     0     0
+18       0     0     0   100
+19       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 949
+CC  accession: M08440_2.00
+CC  AC: M08440_2.00
+CC  id: M08440_2.00
+CC  name: DAL81
+CC  version: 
+CC  name: DAL81
+CC  description: DAL81
+CC  transfac_consensus: 
+CC  matrix.nb: 949
+XX
+//
+AC  M08441_2.00
+XX
+ID  ARG81
+XX
+DE  ARG81
+P0       A     C     G     T
+1    29.798 6.06061 41.9192 22.2222
+2    3.65854     0 2.43902 93.9024
+3    7.72201     0 92.278     0
+4      100     0     0     0
+5        0 99.6324     0 0.367647
+6    0.606061     0     0 99.3939
+7        0   100     0     0
+8    31.7204 31.7204 2.15054 34.4086
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 950
+CC  accession: M08441_2.00
+CC  AC: M08441_2.00
+CC  id: M08441_2.00
+CC  name: ARG81
+CC  version: 
+CC  name: ARG81
+CC  description: ARG81
+CC  transfac_consensus: 
+CC  matrix.nb: 950
+XX
+//
+AC  M08442_2.00
+XX
+ID  CAD1
+XX
+DE  CAD1
+P0       A     C     G     T
+1    4.43936     0 95.5606     0
+2    36.0434 63.9566     0     0
+3        0     0     0   100
+4        0     0 9.56804 90.432
+5      100     0     0     0
+6        0 64.2387 9.3462 26.4151
+7    7.96665     0 4.53914 87.4942
+8      100     0     0     0
+9    95.5748     0     0 4.42518
+10       0 4.34783 4.43656 91.2156
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 951
+CC  accession: M08442_2.00
+CC  AC: M08442_2.00
+CC  id: M08442_2.00
+CC  name: CAD1
+CC  version: 
+CC  name: CAD1
+CC  description: CAD1
+CC  transfac_consensus: 
+CC  matrix.nb: 951
+XX
+//
+AC  M08443_2.00
+XX
+ID  SKO1
+XX
+DE  SKO1
+P0       A     C     G     T
+1      100     0     0     0
+2        0   100     0     0
+3    10.0301     0 89.9699     0
+4        0     0     0   100
+5      100     0     0     0
+6    61.9247     0     0 38.0753
+7        0     0     0   100
+8        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 952
+CC  accession: M08443_2.00
+CC  AC: M08443_2.00
+CC  id: M08443_2.00
+CC  name: SKO1
+CC  version: 
+CC  name: SKO1
+CC  description: SKO1
+CC  transfac_consensus: 
+CC  matrix.nb: 952
+XX
+//
+AC  M08444_2.00
+XX
+ID  YAP7
+XX
+DE  YAP7
+P0       A     C     G     T
+1    10.9012 20.5162 9.98758 58.595
+2    3.61203 4.6663 71.1313 20.5904
+3    40.2814 58.8054     0 0.913157
+4        0     0     0   100
+5        0 1.88482 24.0457 74.0695
+6    99.0791     0 0.920915     0
+7        0 77.437 10.854 11.7089
+8    1.63203 0.920391 0.929879 96.5177
+9    79.7088 20.2912     0     0
+10   98.1612     0     0 1.83876
+11   8.01587 1.79873 23.817 66.3684
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 953
+CC  accession: M08444_2.00
+CC  AC: M08444_2.00
+CC  id: M08444_2.00
+CC  name: YAP7
+CC  version: 
+CC  name: YAP7
+CC  description: YAP7
+CC  transfac_consensus: 
+CC  matrix.nb: 953
+XX
+//
+AC  M08452_2.00
+XX
+ID  HAP2
+XX
+DE  HAP2
+P0       A     C     G     T
+1        0     0     0   100
+2        0     0 1.016 98.984
+3    0.557809     0 99.4422     0
+4        0     0 99.8223 0.17771
+5    15.8006 37.8979 3.06648 43.235
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 954
+CC  accession: M08452_2.00
+CC  AC: M08452_2.00
+CC  id: M08452_2.00
+CC  name: HAP2
+CC  version: 
+CC  name: HAP2
+CC  description: HAP2
+CC  transfac_consensus: 
+CC  matrix.nb: 954
+XX
+//
+AC  M08453_2.00
+XX
+ID  CUP2
+XX
+DE  CUP2
+P0       A     C     G     T
+1        0 77.7778     0 22.2222
+2    55.5556     0     0 44.4444
+3        0 22.2222     0 77.7778
+4        0     0     0   100
+5        0     0     0   100
+6        0 44.4444 11.1111 44.4444
+7        0 33.3333     0 66.6667
+8        0     0 77.7778 22.2222
+9        0   100     0     0
+10       0     0     0   100
+11   22.2222     0 77.7778     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 955
+CC  accession: M08453_2.00
+CC  AC: M08453_2.00
+CC  id: M08453_2.00
+CC  name: CUP2
+CC  version: 
+CC  name: CUP2
+CC  description: CUP2
+CC  transfac_consensus: 
+CC  matrix.nb: 955
+XX
+//
+AC  M08454_2.00
+XX
+ID  MAC1
+XX
+DE  MAC1
+P0       A     C     G     T
+1    6.2069     0     0 93.7931
+2    5.05969     0 12.4503 82.4901
+3        0     0     0   100
+4    6.70945     0 93.2905     0
+5        0   100     0     0
+6        0     0     0   100
+7        0   100     0     0
+8    55.5041     0 37.949 6.54693
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 956
+CC  accession: M08454_2.00
+CC  AC: M08454_2.00
+CC  id: M08454_2.00
+CC  name: MAC1
+CC  version: 
+CC  name: MAC1
+CC  description: MAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 956
+XX
+//
+AC  M08456_2.00
+XX
+ID  GCR1
+XX
+DE  GCR1
+P0       A     C     G     T
+1    25.0577 0.577367 74.3649     0
+2    9.61538     0 68.2292 22.1554
+3    4.90077 94.2082 0.526529 0.36452
+4    11.9464     0 0.406339 87.6473
+5        0     0     0   100
+6        0 99.1057 0.894309     0
+7        0 94.2276 5.77236     0
+8    68.7807 2.90676 1.17025 27.1423
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 957
+CC  accession: M08456_2.00
+CC  AC: M08456_2.00
+CC  id: M08456_2.00
+CC  name: GCR1
+CC  version: 
+CC  name: GCR1
+CC  description: GCR1
+CC  transfac_consensus: 
+CC  matrix.nb: 957
+XX
+//
+AC  M08458_2.00
+XX
+ID  MCM1
+XX
+DE  MCM1
+P0       A     C     G     T
+1    3.4669 2.55456 2.9122 91.0663
+2    15.6343 2.26595 6.86177 75.238
+3    0.117492 98.0394 0.983992 0.859157
+4        0 95.315 0.232795 4.4522
+5    12.4658 37.8814 7.49092 42.1619
+6    62.0431 3.68883 26.271 7.99701
+7    91.4747     0 1.72251 6.80282
+8    38.3373 4.58932 1.39395 55.6795
+9    23.9493 22.3292 14.4437 39.2778
+10   26.548 18.6249 36.3317 18.4955
+11   7.03572     0 92.2614 0.702848
+12   2.66261 2.93032 82.1648 12.2422
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 958
+CC  accession: M08458_2.00
+CC  AC: M08458_2.00
+CC  id: M08458_2.00
+CC  name: MCM1
+CC  version: 
+CC  name: MCM1
+CC  description: MCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 958
+XX
+//
+AC  M08459_2.00
+XX
+ID  RLM1
+XX
+DE  RLM1
+P0       A     C     G     T
+1    26.3158 26.3158 26.3158 21.0526
+2    33.3333 4.7619 38.0952 23.8095
+3    26.1905     0 2.38095 71.4286
+4        0     0 11.9048 88.0952
+5        0   100     0     0
+6        0     0     0   100
+7      100     0     0     0
+8    38.0952     0     0 61.9048
+9    52.381     0     0 47.619
+10   54.7619     0     0 45.2381
+11   76.1905     0     0 23.8095
+12       0     0     0   100
+13     100     0     0     0
+14       0     0   100     0
+15   64.2857 33.3333     0 2.38095
+16   9.7561 36.5854 4.87805 48.7805
+17   16.6667 38.0952 7.14286 38.0952
+18      25  32.5    25  17.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 959
+CC  accession: M08459_2.00
+CC  AC: M08459_2.00
+CC  id: M08459_2.00
+CC  name: RLM1
+CC  version: 
+CC  name: RLM1
+CC  description: RLM1
+CC  transfac_consensus: 
+CC  matrix.nb: 959
+XX
+//
+AC  M08460_2.00
+XX
+ID  NSI1
+XX
+DE  NSI1
+P0       A     C     G     T
+1    9.13386     0 14.3832 76.4829
+2        0     0 2.15401 97.846
+3        0 5.4584     0 94.5416
+4      100     0     0     0
+5        0   100     0     0
+6        0   100     0     0
+7    6.35433 93.6457     0     0
+8        0     0   100     0
+9    2.67321     0 97.3268     0
+10   38.4122 41.4694 5.76923 14.3491
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 960
+CC  accession: M08460_2.00
+CC  AC: M08460_2.00
+CC  id: M08460_2.00
+CC  name: NSI1
+CC  version: 
+CC  name: NSI1
+CC  description: NSI1
+CC  transfac_consensus: 
+CC  matrix.nb: 960
+XX
+//
+AC  M08463_2.00
+XX
+ID  STE12
+XX
+DE  STE12
+P0       A     C     G     T
+1    7.59219 31.3265 10.0184 51.0629
+2    0.346751     0 99.3029 0.350325
+3        0     0     0   100
+4        0 9.59872 0.59304 89.8082
+5        0   4.5     0  95.5
+6    0.691534 84.3008     0 15.0077
+7    88.1708 0.338278 11.4909     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 961
+CC  accession: M08463_2.00
+CC  AC: M08463_2.00
+CC  id: M08463_2.00
+CC  name: STE12
+CC  version: 
+CC  name: STE12
+CC  description: STE12
+CC  transfac_consensus: 
+CC  matrix.nb: 961
+XX
+//
+AC  M08464_2.00
+XX
+ID  HAP3
+XX
+DE  HAP3
+P0       A     C     G     T
+1        0 18.2203 18.9619 62.8178
+2    12.06 67.601 9.71317 10.6258
+3        0 16.2324     0 83.7676
+4    3.31978 30.3862 49.8984 16.3957
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8        0     0   100     0
+9        0     0   100     0
+10       0 48.861     0 51.139
+11   3.31171 39.9112 13.8272 42.9498
+12   25.9295 37.6603 33.2692 3.14103
+13   48.9262 8.89262 30.8054 11.3758
+14   35.7213 8.74137 44.397 11.1403
+15   50.3021 19.1415 9.41176 21.1447
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 962
+CC  accession: M08464_2.00
+CC  AC: M08464_2.00
+CC  id: M08464_2.00
+CC  name: HAP3
+CC  version: 
+CC  name: HAP3
+CC  description: HAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 962
+XX
+//
+AC  M08465_2.00
+XX
+ID  SNT2
+XX
+DE  SNT2
+P0       A     C     G     T
+1    17.172 48.5714 6.73469 27.5219
+2        0     0 94.6446 5.35544
+3        0 2.37718 97.3693 0.253566
+4        0   100     0     0
+5        0     0   100     0
+6        0 99.7769     0 0.223143
+7        0 1.10935     0 98.8906
+8      100     0     0     0
+9        0 50.6922 7.92342 41.3844
+10       0   100     0     0
+11   87.5116 9.72352 2.76483     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 963
+CC  accession: M08465_2.00
+CC  AC: M08465_2.00
+CC  id: M08465_2.00
+CC  name: SNT2
+CC  version: 
+CC  name: SNT2
+CC  description: SNT2
+CC  transfac_consensus: 
+CC  matrix.nb: 963
+XX
+//
+AC  M08466_2.00
+XX
+ID  HAP5
+XX
+DE  HAP5
+P0       A     C     G     T
+1    61.8775     0 38.1225     0
+2    6.17488 73.6036 11.7134 8.50813
+3        0 90.7305     0 9.26946
+4    94.3696 5.63041     0     0
+5      100     0     0     0
+6        0     0     0   100
+7    17.4593 41.9199 28.7979 11.823
+8    84.1378     0 15.8622     0
+9    13.5711 14.7238 69.5737 2.13136
+10   53.9765 28.7619 14.3922 2.86941
+11   21.2739 9.34183 30.8068 38.5775
+12   9.9103 47.145 24.8742 18.0704
+13   9.52905 54.6875 33.2967 2.4868
+14   2.24589 48.8076 44.3158 4.6307
+15   40.6776 23.4879 21.2597 14.5748
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 964
+CC  accession: M08466_2.00
+CC  AC: M08466_2.00
+CC  id: M08466_2.00
+CC  name: HAP5
+CC  version: 
+CC  name: HAP5
+CC  description: HAP5
+CC  transfac_consensus: 
+CC  matrix.nb: 964
+XX
+//
+AC  M08467_2.00
+XX
+ID  THI2
+XX
+DE  THI2
+P0       A     C     G     T
+1    8.14229     0 91.8577     0
+2        0     0   100     0
+3    51.7504 43.6073     0 4.64231
+4      100     0     0     0
+5      100     0     0     0
+6        0 80.9486     0 19.0514
+7        0 40.2819     0 59.7181
+8    5.33434 45.0038 42.9001 6.76183
+9    34.6519     0     0 65.3481
+10   72.8063     0     0 27.1937
+11     100     0     0     0
+12       0     0   100     0
+13     100     0     0     0
+14   64.3196     0 35.6804     0
+15   10.0311 83.0482 6.92068     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 965
+CC  accession: M08467_2.00
+CC  AC: M08467_2.00
+CC  id: M08467_2.00
+CC  name: THI2
+CC  version: 
+CC  name: THI2
+CC  description: THI2
+CC  transfac_consensus: 
+CC  matrix.nb: 965
+XX
+//
+AC  M08468_2.00
+XX
+ID  UME6
+XX
+DE  UME6
+P0       A     C     G     T
+1    11.1111     0     0 88.8889
+2        0 55.5556 27.7778 16.6667
+3    11.1111     0 88.8889     0
+4        0     0   100     0
+5        0   100     0     0
+6        0     0   100     0
+7        0     0   100     0
+8        0 94.4444     0 5.55556
+9    5.55556     0     0 94.4444
+10     100     0     0     0
+11   55.5556 5.55556     0 38.8889
+12   38.8889 11.1111 5.55556 44.4444
+13   11.1111     0 5.55556 83.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 966
+CC  accession: M08468_2.00
+CC  AC: M08468_2.00
+CC  id: M08468_2.00
+CC  name: UME6
+CC  version: 
+CC  name: UME6
+CC  description: UME6
+CC  transfac_consensus: 
+CC  matrix.nb: 966
+XX
+//
+AC  M08469_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1    31.4465 23.1132 18.6478 26.7925
+2    22.876 19.4836 30.021 27.6193
+3    44.8833 13.6894 41.2029 0.224417
+4    0.0935454 0.0935454 6.26754 93.5454
+5    11.35 85.9845 1.54772 1.1178
+6    50.8388 12.4555 32.2318 4.47382
+7    0.0588235 58.8235 0.0588235 41.0588
+8    15.0474 23.9731 21.485 39.4945
+9    21.4854 25.1989 20.1592 33.1565
+10   15.0799 34.7464 19.7012 30.4726
+11   24.1615 29.6824 27.753 18.4031
+12   16.2669 24.8523 24.1223 34.7584
+13   99.7009 0.0997009 0.0997009 0.0997009
+14   0.0997009 99.7009 0.0997009 0.0997009
+15   0.0990099 0.0990099 99.0099 0.792079
+16   40.0481 7.92952 35.1221 16.9003
+17   25.8126 27.0856 23.6999 23.402
+18   27.5179 24.601 24.4084 23.4728
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 967
+CC  accession: M08469_2.00
+CC  AC: M08469_2.00
+CC  id: M08469_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 967
+XX
+//
+AC  M08470_2.00
+XX
+ID  AFT1
+XX
+DE  AFT1
+P0       A     C     G     T
+1    38.0816 4.20106 53.5848 4.13252
+2    4.02876 0.80668 94.3577 0.80683
+3    0.874933 4.47527 89.7584 4.89139
+4    1.2952 8.91297 1.25693 88.5349
+5    4.93954 0.597126 91.8437 2.61966
+6    1.61149 75.1202 3.48251 19.7858
+7    66.4624 12.0687 13.7389 7.72999
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 968
+CC  accession: M08470_2.00
+CC  AC: M08470_2.00
+CC  id: M08470_2.00
+CC  name: AFT1
+CC  version: 
+CC  name: AFT1
+CC  description: AFT1
+CC  transfac_consensus: 
+CC  matrix.nb: 968
+XX
+//
+AC  M08471_2.00
+XX
+ID  AFT2
+XX
+DE  AFT2
+P0       A     C     G     T
+1      7.6   3.9  85.2   3.3
+2      2.5   8.7  85.2   3.6
+3      2.9   5.3  88.7   3.1
+4    5.70571 1.7017 8.80881 83.7838
+5      2.5    13  82.1   2.4
+6    4.4955 52.7473 5.09491 37.6623
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 969
+CC  accession: M08471_2.00
+CC  AC: M08471_2.00
+CC  id: M08471_2.00
+CC  name: AFT2
+CC  version: 
+CC  name: AFT2
+CC  description: AFT2
+CC  transfac_consensus: 
+CC  matrix.nb: 969
+XX
+//
+AC  M08472_2.00
+XX
+ID  MBP1
+XX
+DE  MBP1
+P0       A     C     G     T
+1    18.1387 18.4759 30.4358 32.9496
+2    38.6457 9.1376 17.2992 34.9175
+3    0.2036 97.7794 1.7835 0.2335
+4    12.1673     0 87.8327     0
+5        0 85.1711     0 14.8289
+6    0.1221 0.1506 99.5872 0.1401
+7    17.284 18.2402 9.5864 54.8894
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 970
+CC  accession: M08472_2.00
+CC  AC: M08472_2.00
+CC  id: M08472_2.00
+CC  name: MBP1
+CC  version: 
+CC  name: MBP1
+CC  description: MBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 970
+XX
+//
+AC  M08473_2.00
+XX
+ID  SWI4
+XX
+DE  SWI4
+P0       A     C     G     T
+1    61.5385 7.69231 15.3846 15.3846
+2        0   100     0     0
+3    15.3846     0 84.6154     0
+4        0   100     0     0
+5        0     0   100     0
+6      100     0     0     0
+7    94.2308 1.92308 1.92308 1.92308
+8    61.5385 7.69231 7.69231 23.0769
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 971
+CC  accession: M08473_2.00
+CC  AC: M08473_2.00
+CC  id: M08473_2.00
+CC  name: SWI4
+CC  version: 
+CC  name: SWI4
+CC  description: SWI4
+CC  transfac_consensus: 
+CC  matrix.nb: 971
+XX
+//
+AC  M08474_2.00
+XX
+ID  XBP1
+XX
+DE  XBP1
+P0       A     C     G     T
+1    18.9189 13.5135 56.7568 10.8108
+2    18.9189 40.5405 24.3243 16.2162
+3    5.40541 78.3784 13.5135 2.7027
+4        0     0     0   100
+5        0   100     0     0
+6        0     0   100     0
+7    83.7838     0 16.2162     0
+8    40.5405 2.7027 51.3514 5.40541
+9    13.5135 13.5135 72.973     0
+10   40.5405 48.6486 5.40541 5.40541
+11   13.5135 24.3243 45.9459 16.2162
+12   45.9459 10.8108 35.1351 8.10811
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 972
+CC  accession: M08474_2.00
+CC  AC: M08474_2.00
+CC  id: M08474_2.00
+CC  name: XBP1
+CC  version: 
+CC  name: XBP1
+CC  description: XBP1
+CC  transfac_consensus: 
+CC  matrix.nb: 972
+XX
+//
+AC  M08475_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1    0.400802 47.5952 48.998 3.00601
+2    10.8108 71.972 14.2142 3.003
+3    15.015 29.4294 15.4154 40.1401
+4    0.300601 3.20641 94.489 2.00401
+5    4.4044 94.1942 1.1011 0.3003
+6     50.2  11.7  26.9  11.2
+7    1.001 15.1151 69.97 13.9139
+8    6.01202 13.5271 78.3567 2.10421
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 973
+CC  accession: M08475_2.00
+CC  AC: M08475_2.00
+CC  id: M08475_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 973
+XX
+//
+AC  M08476_2.00
+XX
+ID  PHD1
+XX
+DE  PHD1
+P0       A     C     G     T
+1    35.8268 27.1654 19.2913 17.7165
+2    9.44882 43.3071 39.3701 7.87402
+3    37.4016 44.4882 15.3543 2.75591
+4    0.393701 9.84252 0.393701 89.3701
+5    0.19685 0.19685 99.4094 0.19685
+6    0.19685 98.622 0.19685 0.984252
+7    91.1417 0.590551 6.88976 1.37795
+8    7.87402 22.0472 36.2205 33.8583
+9    21.6535 42.126 22.4409 13.7795
+10   32.2835 27.5591 21.2598 18.8976
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 974
+CC  accession: M08476_2.00
+CC  AC: M08476_2.00
+CC  id: M08476_2.00
+CC  name: PHD1
+CC  version: 
+CC  name: PHD1
+CC  description: PHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 974
+XX
+//
+AC  M08477_2.00
+XX
+ID  SOK2
+XX
+DE  SOK2
+P0       A     C     G     T
+1     16.3  15.7  12.2  55.8
+2     18.2  19.8  21.3  40.7
+3    11.0889 50.3497 23.2767 15.2847
+4    13.986 74.3257 7.99201 3.6963
+5      0.8  13.4   0.5  85.3
+6      0.8   0.5  94.7     4
+7      1.4  94.6   0.5   3.5
+8     61.9  10.8    19   8.3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 975
+CC  accession: M08477_2.00
+CC  AC: M08477_2.00
+CC  id: M08477_2.00
+CC  name: SOK2
+CC  version: 
+CC  name: SOK2
+CC  description: SOK2
+CC  transfac_consensus: 
+CC  matrix.nb: 975
+XX
+//
+AC  M08478_2.00
+XX
+ID  ORC2,SUM1
+XX
+DE  ORC2,SUM1
+P0       A     C     G     T
+1     23.8  10.1  54.2  11.9
+2    9.79021 37.6623 5.09491 47.4525
+3      6.1   4.1  83.6   6.2
+4     42.2   6.3   3.7  47.8
+5      2.9    92   1.5   3.6
+6    86.2138 1.2987 9.69031 2.7972
+7    6.50651 44.8448 45.1451 3.5035
+8     45.3    13   5.2  36.5
+9     74.7     6  10.5   8.8
+10   77.7778 7.50751 4.8048 9.90991
+11   48.5514 10.1898 8.99101 32.2677
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 976
+CC  accession: M08478_2.00
+CC  AC: M08478_2.00
+CC  id: M08478_2.00
+CC  name: ORC2,SUM1
+CC  version: 
+CC  name: ORC2,SUM1
+CC  description: ORC2,SUM1
+CC  transfac_consensus: 
+CC  matrix.nb: 976
+XX
+//
+AC  M08479_2.00
+XX
+ID  ORC2,SUM1
+XX
+DE  ORC2,SUM1
+P0       A     C     G     T
+1       59    11    15    15
+2       61     5     5    29
+3       76     0     0    24
+4       92     0     0     8
+5      100     0     0     0
+6        0     0     0   100
+7       34     2     2    62
+8       32     8     8    52
+9       22    14    14    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 977
+CC  accession: M08479_2.00
+CC  AC: M08479_2.00
+CC  id: M08479_2.00
+CC  name: ORC2,SUM1
+CC  version: 
+CC  name: ORC2,SUM1
+CC  description: ORC2,SUM1
+CC  transfac_consensus: 
+CC  matrix.nb: 977
+XX
+//
+AC  M08480_2.00
+XX
+ID  RTG3
+XX
+DE  RTG3
+P0       A     C     G     T
+1     18.4  25.2  29.5  26.9
+2     53.5     9  24.7  12.8
+3      3.3   3.9     4  88.8
+4    4.7047 21.9219 58.4585 14.9149
+5    80.9191 9.29071 3.996 5.79421
+6    0.500501 96.997 0.3003 2.2022
+7        4   6.7  15.6  73.7
+8      5.5    78  10.2   6.3
+9     52.5  10.2  15.9  21.4
+10     2.1  27.5  12.3  58.1
+11    20.6  35.6  14.3  29.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 978
+CC  accession: M08480_2.00
+CC  AC: M08480_2.00
+CC  id: M08480_2.00
+CC  name: RTG3
+CC  version: 
+CC  name: RTG3
+CC  description: RTG3
+CC  transfac_consensus: 
+CC  matrix.nb: 978
+XX
+//
+AC  M08481_2.00
+XX
+ID  RTG3
+XX
+DE  RTG3
+P0       A     C     G     T
+1     22.5  27.3  25.6  24.6
+2      5.3   8.5  82.3   3.9
+3      5.2   7.9  14.7  72.2
+4      2.2   8.6  82.2     7
+5     70.8   7.1  17.2   4.9
+6      5.9  82.1   9.9   2.1
+7        9  70.5  10.7   9.8
+8      7.3  33.1  49.1  10.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 979
+CC  accession: M08481_2.00
+CC  AC: M08481_2.00
+CC  id: M08481_2.00
+CC  name: RTG3
+CC  version: 
+CC  name: RTG3
+CC  description: RTG3
+CC  transfac_consensus: 
+CC  matrix.nb: 979
+XX
+//
+AC  M08482_2.00
+XX
+ID  RTG3
+XX
+DE  RTG3
+P0       A     C     G     T
+1    39.3512 14.5302 33.0883 13.0303
+2    22.0585 14.7729 26.7664 36.4021
+3    35.7643 32.2579 20.7476 11.2302
+4    16.4957 17.6216 29.5664 36.3163
+5    15.6121 12.1155 25.0012 47.2712
+6    53.4802 11.3359 20.3597 14.8242
+7    3.40006 2.75712 66.282 27.5608
+8    1.98666 95.331 1.94385 0.73845
+9    90.5021 0.561585 8.16788 0.768389
+10   0.59002 94.9249 1.67901 2.80608
+11   2.80608 1.67901 94.9249 0.59002
+12   0.768389 8.16788 0.561585 90.5021
+13   0.73845 1.94385 95.331 1.98666
+14   27.5608 66.282 2.75712 3.40006
+15   15.2466 33.2231 15.6669 35.8634
+16   11.1003 27.0709 18.7901 43.0386
+17   39.8934 12.2013 27.6993 20.206
+18   27.5145 25.7555 29.6041 17.1259
+19   32.3639 16.5379 3.37637 47.7218
+20   24.9042 39.6648 10.8359 24.5952
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 980
+CC  accession: M08482_2.00
+CC  AC: M08482_2.00
+CC  id: M08482_2.00
+CC  name: RTG3
+CC  version: 
+CC  name: RTG3
+CC  description: RTG3
+CC  transfac_consensus: 
+CC  matrix.nb: 980
+XX
+//
+AC  M08483_2.00
+XX
+ID  INO2
+XX
+DE  INO2
+P0       A     C     G     T
+1    15.7933 2.8878 2.01946 79.2995
+2    0.0252934 9.29617 7.10895 83.5696
+3    0.0169284 86.7217 13.2445 0.0169167
+4    87.1544 5.10614 1.00991 6.72951
+5    1.02021 92.8348 0.0108181 6.13415
+6    88.9674 1.00901 10.007 0.0165756
+7    4.30137 0.0138932 3.92455 91.7602
+8    1.13223 0.0129482 98.8314 0.0234083
+9    4.649 71.2417 11.5566 12.5526
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 981
+CC  accession: M08483_2.00
+CC  AC: M08483_2.00
+CC  id: M08483_2.00
+CC  name: INO2
+CC  version: 
+CC  name: INO2
+CC  description: INO2
+CC  transfac_consensus: 
+CC  matrix.nb: 981
+XX
+//
+AC  M08484_2.00
+XX
+ID  PHO4
+XX
+DE  PHO4
+P0       A     C     G     T
+1    22.8126 35.0295 42.1228 0.0350295
+2    12.7079 87.1179 0.0871179 0.0871179
+3    92.4038 1.76623 1.11702 4.713
+4    0.0957454 95.7454 0.207491 3.95134
+5    6.57125 0.354743 92.981 0.092981
+6    5.04276 6.3525 1.61602 86.9887
+7    0.892913 2.22169 78.5624 18.323
+8    9.37945 29.166 15.4159 46.0386
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 982
+CC  accession: M08484_2.00
+CC  AC: M08484_2.00
+CC  id: M08484_2.00
+CC  name: PHO4
+CC  version: 
+CC  name: PHO4
+CC  description: PHO4
+CC  transfac_consensus: 
+CC  matrix.nb: 982
+XX
+//
+AC  M08485_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1    29.4683 15.7514 15.3235 39.4569
+2    15.7031 74.8548 6.90579 2.53629
+3    71.0542 4.32728 10.1783 14.4402
+4    0.73021 66.692 14.8503 17.7276
+5    23.5161  4.92 70.7117 0.852199
+6    6.78245 4.11008 3.97985 85.1276
+7    0.0943914 0.0943914 94.3914 5.41979
+8    26.0129 23.4064 34.7706 15.8101
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 983
+CC  accession: M08485_2.00
+CC  AC: M08485_2.00
+CC  id: M08485_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 983
+XX
+//
+AC  M08486_2.00
+XX
+ID  RTG1
+XX
+DE  RTG1
+P0       A     C     G     T
+1    16.1838 34.965 12.0879 36.7632
+2    43.956 22.4775 19.2807 14.2857
+3      5.1   7.6  12.7  74.6
+4    10.2897 35.2647 20.6793 33.7662
+5    79.5205 6.69331 7.09291 6.69331
+6      5.1  72.1  18.4   4.4
+7      5.6   8.7   8.6  77.1
+8      7.1  72.9  13.2   6.8
+9       62  15.2  12.5  10.3
+10    10.3  25.4  11.1  53.2
+11    18.6  28.3    30  23.1
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 984
+CC  accession: M08486_2.00
+CC  AC: M08486_2.00
+CC  id: M08486_2.00
+CC  name: RTG1
+CC  version: 
+CC  name: RTG1
+CC  description: RTG1
+CC  transfac_consensus: 
+CC  matrix.nb: 984
+XX
+//
+AC  M08487_2.00
+XX
+ID  RTG1
+XX
+DE  RTG1
+P0       A     C     G     T
+1     37.1    15  23.4  24.5
+2      6.9  11.8  73.1   8.2
+3      5.5  11.1   7.8  75.6
+4      4.7  11.9  67.8  15.6
+5    68.969 12.2122 3.9039 14.9149
+6      7.4    81   5.3   6.3
+7     10.2  71.4     9   9.4
+8    17.4174 22.6226 39.5395 20.4204
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 985
+CC  accession: M08487_2.00
+CC  AC: M08487_2.00
+CC  id: M08487_2.00
+CC  name: RTG1
+CC  version: 
+CC  name: RTG1
+CC  description: RTG1
+CC  transfac_consensus: 
+CC  matrix.nb: 985
+XX
+//
+AC  M08488_2.00
+XX
+ID  HMS1
+XX
+DE  HMS1
+P0       A     C     G     T
+1     33.2  27.7   9.4  29.7
+2      6.8  72.5   7.7    13
+3     74.7   5.6  15.1   4.6
+4    3.1031 73.7738 15.8158 7.30731
+5      2.2   6.9  88.1   2.8
+6    5.60561 17.017 5.50551 71.8719
+7     43.5  37.9    12   6.6
+8     24.3  26.9  38.1  10.7
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 986
+CC  accession: M08488_2.00
+CC  AC: M08488_2.00
+CC  id: M08488_2.00
+CC  name: HMS1
+CC  version: 
+CC  name: HMS1
+CC  description: HMS1
+CC  transfac_consensus: 
+CC  matrix.nb: 986
+XX
+//
+AC  M08489_2.00
+XX
+ID  TYE7
+XX
+DE  TYE7
+P0       A     C     G     T
+1    56.2563 7.80781 25.1251 10.8108
+2      4.6  10.6   2.6  82.2
+3    3.6963 90.4096 2.2977 3.5964
+4     90.3   0.3   3.3   6.1
+5        1  83.9  12.2   2.9
+6    4.6046 11.2112 83.7838 0.4004
+7    5.40541 5.80581 0.700701 88.0881
+8      0.4   0.8  97.9   0.9
+9     74.5   3.4  17.2   4.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 987
+CC  accession: M08489_2.00
+CC  AC: M08489_2.00
+CC  id: M08489_2.00
+CC  name: TYE7
+CC  version: 
+CC  name: TYE7
+CC  description: TYE7
+CC  transfac_consensus: 
+CC  matrix.nb: 987
+XX
+//
+AC  M08490_2.00
+XX
+ID  YAP6
+XX
+DE  YAP6
+P0       A     C     G     T
+1    18.3436 5.50575 15.5942 60.5564
+2    11.9261 4.58774 5.50515 77.981
+3    95.4127 0.917539 2.75269 0.917074
+4    2.75211 31.1956 1.0919e-06 66.0523
+5    4.58666 0.917751 94.4956     0
+6    0.917373 1.83568 1.09193e-06 97.2469
+7    96.3303 9.17143e-07 3.66967     0
+8    66.0531 15.598 3.67128 14.6777
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 988
+CC  accession: M08490_2.00
+CC  AC: M08490_2.00
+CC  id: M08490_2.00
+CC  name: YAP6
+CC  version: 
+CC  name: YAP6
+CC  description: YAP6
+CC  transfac_consensus: 
+CC  matrix.nb: 988
+XX
+//
+AC  M08491_2.00
+XX
+ID  CAD1
+XX
+DE  CAD1
+P0       A     C     G     T
+1    0.0986522 0.0986522 1.15052 98.6522
+2    0.080802 9.52722 9.58998 80.802
+3    94.051 5.76091 0.094051 0.094051
+4    0.0874826 87.4826 0.0874826 12.3425
+5    27.4485 23.7605 46.7047 2.0863
+6    0.0997009 0.0997009 0.0997009 99.7009
+7    99.0374 0.764524 0.0990374 0.0990374
+8    87.9757 0.0879757 10.0842 1.85206
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 989
+CC  accession: M08491_2.00
+CC  AC: M08491_2.00
+CC  id: M08491_2.00
+CC  name: CAD1
+CC  version: 
+CC  name: CAD1
+CC  description: CAD1
+CC  transfac_consensus: 
+CC  matrix.nb: 989
+XX
+//
+AC  M08492_2.00
+XX
+ID  CAD1
+XX
+DE  CAD1
+P0       A     C     G     T
+1    11.3396 0.0115339 77.7637 10.8852
+2    30.2505 58.4698 2.65851 8.6212
+3    2.66645 1.7662 0.891714 94.6756
+4    4.40719 0.0126966 22.325 73.2551
+5    88.153 5.61649 0.0104502 6.2201
+6    5.3222 73.0471 7.76914 13.8616
+7    11.268 0.014347 4.72689 83.9908
+8    94.0023 2.98216 0.00998069 3.00554
+9    96.4321 0.890799 0.0133981 2.66372
+10   1.78165 5.97919 4.85998 87.3792
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 990
+CC  accession: M08492_2.00
+CC  AC: M08492_2.00
+CC  id: M08492_2.00
+CC  name: CAD1
+CC  version: 
+CC  name: CAD1
+CC  description: CAD1
+CC  transfac_consensus: 
+CC  matrix.nb: 990
+XX
+//
+AC  M08493_2.00
+XX
+ID  GCN4
+XX
+DE  GCN4
+P0       A     C     G     T
+1    53.8827 10.3527 35.7108 0.0538827
+2    0.0997009 0.0997009 0.0997009 99.7009
+3    0.0972361 0.0972361 97.2361 2.56947
+4    99.7009 0.0997009 0.0997009 0.0997009
+5    0.0719011 71.9011 27.57 0.457007
+6    9.19722 2.24446 0.0884699 88.4699
+7    10.5908 88.8764 0.0888764 0.443981
+8    81.0068 2.31528 10.6526 6.02533
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 991
+CC  accession: M08493_2.00
+CC  AC: M08493_2.00
+CC  id: M08493_2.00
+CC  name: GCN4
+CC  version: 
+CC  name: GCN4
+CC  description: GCN4
+CC  transfac_consensus: 
+CC  matrix.nb: 991
+XX
+//
+AC  M08494_2.00
+XX
+ID  ACA1
+XX
+DE  ACA1
+P0       A     C     G     T
+1        0     0     0   100
+2        0     0 66.6667 33.3333
+3      100     0     0     0
+4        0   100     0     0
+5        0     0   100     0
+6        0     0     0   100
+7    66.6667 33.3333     0     0
+8      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 992
+CC  accession: M08494_2.00
+CC  AC: M08494_2.00
+CC  id: M08494_2.00
+CC  name: ACA1
+CC  version: 
+CC  name: ACA1
+CC  description: ACA1
+CC  transfac_consensus: 
+CC  matrix.nb: 992
+XX
+//
+AC  M08495_2.00
+XX
+ID  HAC1
+XX
+DE  HAC1
+P0       A     C     G     T
+1    51.5737 4.8552 13.5243 30.0467
+2    20.2883 5.51394 54.6926 19.5052
+3    10.005 0.088481 88.481 1.42552
+4    73.9152 24.3117 0.0740631 1.69902
+5    2.82167 91.8421 0.091934 5.24428
+6    97.9716 0.0979716 0.0979716 1.83246
+7    0.0972193 97.0252 0.748452 2.12912
+8    6.73828 6.25274 86.9221 0.0869221
+9    8.50598 8.76734 10.1073 72.6194
+10   56.3717 12.0622 25.4631 6.10291
+11   8.72302 27.8291 6.18285 57.2651
+12   19.9688 31.3834 37.701 10.9468
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 993
+CC  accession: M08495_2.00
+CC  AC: M08495_2.00
+CC  id: M08495_2.00
+CC  name: HAC1
+CC  version: 
+CC  name: HAC1
+CC  description: HAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 993
+XX
+//
+AC  M08496_2.00
+XX
+ID  HAC1
+XX
+DE  HAC1
+P0       A     C     G     T
+1    42.8571     0 42.8571 14.2857
+2    71.4286 28.5714     0     0
+3    14.2857 42.8571 14.2857 28.5714
+4    57.1429 14.2857 28.5714     0
+5        0 85.7143 14.2857     0
+6        0 14.2857 85.7143     0
+7        0 71.4286 28.5714     0
+8        0 14.2857     0 85.7143
+9        0     0   100     0
+10   14.2857 28.5714 28.5714 28.5714
+11       0 71.4286     0 28.5714
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 994
+CC  accession: M08496_2.00
+CC  AC: M08496_2.00
+CC  id: M08496_2.00
+CC  name: HAC1
+CC  version: 
+CC  name: HAC1
+CC  description: HAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 994
+XX
+//
+AC  M08497_2.00
+XX
+ID  YAP3
+XX
+DE  YAP3
+P0       A     C     G     T
+1    0.574925 0.0992266 0.0992266 99.2266
+2    1.44829 8.56658 8.35756 81.6276
+3    89.8064 2.89835 3.69866 3.59659
+4    2.56898 62.0503 14.4356 20.9451
+5    0.0520128 47.8832 52.0128 0.0520128
+6    2.5107 0.0972947 0.0972947 97.2947
+7    97.4364 2.36874 0.0974364 0.0974364
+8    99.7009 0.0997009 0.0997009 0.0997009
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 995
+CC  accession: M08497_2.00
+CC  AC: M08497_2.00
+CC  id: M08497_2.00
+CC  name: YAP3
+CC  version: 
+CC  name: YAP3
+CC  description: YAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 995
+XX
+//
+AC  M08498_2.00
+XX
+ID  YAP3
+XX
+DE  YAP3
+P0       A     C     G     T
+1    1.19036 1.19036 1.19036 96.4289
+2    1.19036 1.19036 1.19036 96.4289
+3    96.4289 1.19036 1.19036 1.19036
+4    1.19036 96.4289 1.19036 1.19036
+5    1.19036 1.19036 1.19036 96.4289
+6    96.4289 1.19036 1.19036 1.19036
+7    96.4289 1.19036 1.19036 1.19036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 996
+CC  accession: M08498_2.00
+CC  AC: M08498_2.00
+CC  id: M08498_2.00
+CC  name: YAP3
+CC  version: 
+CC  name: YAP3
+CC  description: YAP3
+CC  transfac_consensus: 
+CC  matrix.nb: 996
+XX
+//
+AC  M08499_2.00
+XX
+ID  CST6
+XX
+DE  CST6
+P0       A     C     G     T
+1    47.3684 10.5263 31.5789 10.5263
+2    1.31579 1.31579 1.31579 96.0526
+3    1.31579 1.31579 90.7895 6.57895
+4      100     0     0     0
+5        0   100     0     0
+6    5.26316     0 94.7368     0
+7        0     0     0   100
+8    44.7368 28.9474 7.89474 18.4211
+9    46.0526 14.4737 19.7368 19.7368
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 997
+CC  accession: M08499_2.00
+CC  AC: M08499_2.00
+CC  id: M08499_2.00
+CC  name: CST6
+CC  version: 
+CC  name: CST6
+CC  description: CST6
+CC  transfac_consensus: 
+CC  matrix.nb: 997
+XX
+//
+AC  M08500_2.00
+XX
+ID  YAP5
+XX
+DE  YAP5
+P0       A     C     G     T
+1    53.1646 6.32911 16.4557 24.0506
+2        0     0     0   100
+3    5.06329     0     0 94.9367
+4    87.3418     0 12.6582     0
+5    11.3924     0 34.1772 54.4304
+6        0 1.26582     0 98.7342
+7    67.0886 16.4557     0 16.4557
+8      100     0     0     0
+9    18.9873 1.26582 13.9241 65.8228
+10   26.5823 15.1899     0 58.2278
+11   24.0506 11.3924 30.3797 34.1772
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 998
+CC  accession: M08500_2.00
+CC  AC: M08500_2.00
+CC  id: M08500_2.00
+CC  name: YAP5
+CC  version: 
+CC  name: YAP5
+CC  description: YAP5
+CC  transfac_consensus: 
+CC  matrix.nb: 998
+XX
+//
+AC  M08501_2.00
+XX
+ID  YAP1
+XX
+DE  YAP1
+P0       A     C     G     T
+1    0.0990765 0.463823 0.360646 99.0765
+2    0.0727478 19.0673 8.11214 72.7478
+3    96.64 0.09664 0.09664 3.16677
+4    0.0672389 67.2389 7.28896 25.4049
+5    8.44879 30.9112 59.0638 1.5762
+6    5.23956 10.4929 10.4878 73.7797
+7    97.3482 1.55092 0.0973482 1.00351
+8    98.9732 0.0989732 0.0989732 0.828818
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 999
+CC  accession: M08501_2.00
+CC  AC: M08501_2.00
+CC  id: M08501_2.00
+CC  name: YAP1
+CC  version: 
+CC  name: YAP1
+CC  description: YAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 999
+XX
+//
+AC  M08502_2.00
+XX
+ID  YAP1
+XX
+DE  YAP1
+P0       A     C     G     T
+1    1.13011 3.08031 68.1468 27.6428
+2    37.2837 60.9161 0.670067 1.13011
+3    1.13011 0.670067 0.670067 97.5298
+4    1.13011 0.670067 35.6136 62.5863
+5    97.5298 0.670067 0.670067 1.13011
+6    11.98 68.14 15.13  4.75
+7    11.98  9.11  0.67 78.24
+8    97.5298 0.670067 0.670067 1.13011
+9    92.7093 0.670067 0.670067 5.9506
+10   8.36084 0.670067 15.1315 75.8376
+11    43.3 17.54 24.77 14.39
+12   17.9982 18.7481 36.8163 26.4374
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1000
+CC  accession: M08502_2.00
+CC  AC: M08502_2.00
+CC  id: M08502_2.00
+CC  name: YAP1
+CC  version: 
+CC  name: YAP1
+CC  description: YAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1000
+XX
+//
+AC  M08503_2.00
+XX
+ID  SKO1
+XX
+DE  SKO1
+P0       A     C     G     T
+1    60.8837 5.54751 20.9127 12.656
+2    55.0979 9.3494 22.0766 13.4761
+3    6.56011 5.25504 3.18141 85.0034
+4    2.10847 6.4965 65.8255 25.5695
+5    87.3141 1.78276 6.33049 4.57265
+6    0.0862996 86.2996 1.29691 12.3172
+7    7.34578 6.02354 86.5441 0.0865441
+8    3.89157 18.6428 4.75165 72.714
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1001
+CC  accession: M08503_2.00
+CC  AC: M08503_2.00
+CC  id: M08503_2.00
+CC  name: SKO1
+CC  version: 
+CC  name: SKO1
+CC  description: SKO1
+CC  transfac_consensus: 
+CC  matrix.nb: 1001
+XX
+//
+AC  M08504_2.00
+XX
+ID  YAP7
+XX
+DE  YAP7
+P0       A     C     G     T
+1    7.68896 0.0921268 0.0921268 92.1268
+2    0.044008 0.044008 44.008 55.904
+3    65.2467 9.47417 9.72177 15.5574
+4    7.31388 79.7223 9.79512 3.16865
+5    6.1875 3.43166 90.2905 0.0902905
+6    0.0997009 0.0997009 0.0997009 99.7009
+7    62.733 0.310842 36.8934 0.062733
+8    84.594 3.61016 11.7112 0.084594
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1002
+CC  accession: M08504_2.00
+CC  AC: M08504_2.00
+CC  id: M08504_2.00
+CC  name: YAP7
+CC  version: 
+CC  name: YAP7
+CC  description: YAP7
+CC  transfac_consensus: 
+CC  matrix.nb: 1002
+XX
+//
+AC  M08505_2.00
+XX
+ID  YAP7
+XX
+DE  YAP7
+P0       A     C     G     T
+1    14.8651 26.1335 27.6561 31.3453
+2    49.1549 26.2698 12.3529 12.2224
+3    0.0959997 3.61007 0.294239 95.9997
+4    0.0650212 4.01025 30.9035 65.0212
+5    97.9808 0.0979808 0.0979808 1.82323
+6    9.08809 44.5816 44.7266 1.60376
+7    1.38795 0.0984152 0.0984152 98.4152
+8    55.4765 44.4125 0.0554765 0.0554765
+9    99.7009 0.0997009 0.0997009 0.0997009
+10   0.0328846 2.19354 64.8611 32.9124
+11   10.4332 71.5479 7.93523 10.0837
+12   36.2544 24.1066 26.9107 12.7283
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1003
+CC  accession: M08505_2.00
+CC  AC: M08505_2.00
+CC  id: M08505_2.00
+CC  name: YAP7
+CC  version: 
+CC  name: YAP7
+CC  description: YAP7
+CC  transfac_consensus: 
+CC  matrix.nb: 1003
+XX
+//
+AC  M08506_2.00
+XX
+ID  CIN5
+XX
+DE  CIN5
+P0       A     C     G     T
+1    0.0581508 16.2514 25.5397 58.1508
+2    88.1307 0.0881307 9.34944 2.43168
+3    87.3438 2.22408 3.21703 7.21508
+4    0.0987495 0.0987495 1.05302 98.7495
+5    0.0578721 23.1182 18.9519 57.8721
+6    97.6498 0.0976498 0.0976498 2.15486
+7    0.0607224 60.7224 3.06309 36.1537
+8    32.8766 28.6966 38.3981 0.0286966
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1004
+CC  accession: M08506_2.00
+CC  AC: M08506_2.00
+CC  id: M08506_2.00
+CC  name: CIN5
+CC  version: 
+CC  name: CIN5
+CC  description: CIN5
+CC  transfac_consensus: 
+CC  matrix.nb: 1004
+XX
+//
+AC  M08507_2.00
+XX
+ID  CIN5
+XX
+DE  CIN5
+P0       A     C     G     T
+1      6.2   3.7     4  86.1
+2    5.29471 3.5964 7.89211 83.2168
+3     93.2   3.2   1.9   1.7
+4      4.9  55.6   6.9  32.6
+5    32.3676 4.1958 60.8392 2.5974
+6      1.5   2.6   3.8  92.1
+7     90.7   5.9   1.6   1.8
+8    86.8132 3.4965 4.995 4.6953
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1005
+CC  accession: M08507_2.00
+CC  AC: M08507_2.00
+CC  id: M08507_2.00
+CC  name: CIN5
+CC  version: 
+CC  name: CIN5
+CC  description: CIN5
+CC  transfac_consensus: 
+CC  matrix.nb: 1005
+XX
+//
+AC  M08508_2.00
+XX
+ID  ARR1
+XX
+DE  ARR1
+P0       A     C     G     T
+1    80.592 9.09757 1.31265 8.99776
+2    4.02189 10.4598 0.135446 85.3828
+3    0.041539 5.10011 14.3754 80.483
+4    0.0390925 53.6665 0.0233886 46.271
+5    99.8138 0.120081 0.0231167 0.0430205
+6    55.186 0.244371 24.003 20.5666
+7    46.6783 10.7004 25.8411 16.7801
+8    0.0402021 0.307217 0.717142 98.9354
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1006
+CC  accession: M08508_2.00
+CC  AC: M08508_2.00
+CC  id: M08508_2.00
+CC  name: ARR1
+CC  version: 
+CC  name: ARR1
+CC  description: ARR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1006
+XX
+//
+AC  M08509_2.00
+XX
+ID  NRG2
+XX
+DE  NRG2
+P0       A     C     G     T
+1    27.4064 34.4576 38.1015 0.0344576
+2    23.6763 0.0624717 62.4717 13.7896
+3    65.0555 7.95399 6.54903 20.4414
+4    0.0995544 99.5544 0.0995544 0.246478
+5    0.0997009 99.7009 0.0997009 0.0997009
+6    1.25205 98.5099 0.139518 0.0985099
+7    0.0816599 15.4083 2.85016 81.6599
+8    19.4802 5.15973 37.2382 38.1219
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1007
+CC  accession: M08509_2.00
+CC  AC: M08509_2.00
+CC  id: M08509_2.00
+CC  name: NRG2
+CC  version: 
+CC  name: NRG2
+CC  description: NRG2
+CC  transfac_consensus: 
+CC  matrix.nb: 1007
+XX
+//
+AC  M08510_2.00
+XX
+ID  REI1
+XX
+DE  REI1
+P0       A     C     G     T
+1        0 95.2381     0 4.7619
+2    4.7619 95.2381     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0     0     0   100
+6        0     0 95.2381 4.7619
+7    55.9524 8.33333 22.619 13.0952
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1008
+CC  accession: M08510_2.00
+CC  AC: M08510_2.00
+CC  id: M08510_2.00
+CC  name: REI1
+CC  version: 
+CC  name: REI1
+CC  description: REI1
+CC  transfac_consensus: 
+CC  matrix.nb: 1008
+XX
+//
+AC  M08511_2.00
+XX
+ID  RPN4
+XX
+DE  RPN4
+P0       A     C     G     T
+1    16.9865 28.7326 26.6798 27.6011
+2    27.2993 27.089 25.1143 20.4974
+3    20.6112 31.5978 27.5699 20.2211
+4    25.3691 0.0658934 65.4353 9.12973
+5    0.0966019 0.0965054 96.5054 3.30145
+6    5.7495 0.090492 3.668 90.492
+7    0.0953655 3.39702 95.3655 1.1421
+8    0.0995144 0.0996139 99.5144 0.286502
+9    1.42152 98.3817 0.0983817 0.0983817
+10   59.1337 0.0596659 40.659 0.147657
+11   91.6221 0.0916221 0.131294 8.15501
+12   58.6225 20.4251 7.0524  13.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1009
+CC  accession: M08511_2.00
+CC  AC: M08511_2.00
+CC  id: M08511_2.00
+CC  name: RPN4
+CC  version: 
+CC  name: RPN4
+CC  description: RPN4
+CC  transfac_consensus: 
+CC  matrix.nb: 1009
+XX
+//
+AC  M08512_2.00
+XX
+ID  STP4
+XX
+DE  STP4
+P0       A     C     G     T
+1    14.625 16.125 15.125 54.125
+2    9.625 17.125 73.125 0.125
+3    0.125 99.625 0.125 0.125
+4    0.125 0.125 99.625 0.125
+5    0.125 99.625 0.125 0.125
+6    0.125 0.125 0.125 99.625
+7    99.625 0.125 0.125 0.125
+8    7.125 24.125 28.625 40.125
+9    14.625 55.625 11.125 18.625
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1010
+CC  accession: M08512_2.00
+CC  AC: M08512_2.00
+CC  id: M08512_2.00
+CC  name: STP4
+CC  version: 
+CC  name: STP4
+CC  description: STP4
+CC  transfac_consensus: 
+CC  matrix.nb: 1010
+XX
+//
+AC  M08513_2.00
+XX
+ID  NRG1
+XX
+DE  NRG1
+P0       A     C     G     T
+1    25.6057 4.1876 68.362 1.84471
+2    10.2061 3.45836 80.3422 5.99332
+3    87.0115 0.42392 1.99289 10.5717
+4    2.62245 93.5487 0.990786 2.83808
+5    0.471472 96.0008 0.953282 2.57441
+6    0.684402 98.0637 0.386261 0.865686
+7    6.6764 13.9365 6.12114 73.2659
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1011
+CC  accession: M08513_2.00
+CC  AC: M08513_2.00
+CC  id: M08513_2.00
+CC  name: NRG1
+CC  version: 
+CC  name: NRG1
+CC  description: NRG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1011
+XX
+//
+AC  M08514_2.00
+XX
+ID  NRG1
+XX
+DE  NRG1
+P0       A     C     G     T
+1     4.61  6.39  3.69 85.31
+2    6.92931 0.219978 82.0618 10.7889
+3    0.359964 0.219978 0.219978 99.2001
+4     8.09  4.08 76.66 11.17
+5    8.47085 84.7785 6.39064 0.360036
+6    0.360036 80.5281 7.94079 11.1711
+7    0.359964 0.219978 0.219978 99.2001
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1012
+CC  accession: M08514_2.00
+CC  AC: M08514_2.00
+CC  id: M08514_2.00
+CC  name: NRG1
+CC  version: 
+CC  name: NRG1
+CC  description: NRG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1012
+XX
+//
+AC  M08515_2.00
+XX
+ID  GIS1
+XX
+DE  GIS1
+P0       A     C     G     T
+1    40.8313 21.5159 12.4694 25.1834
+2        0 97.066     0 2.934
+3        0   100     0     0
+4        0   100     0     0
+5        0 87.2861     0 12.7139
+6        0     0     0   100
+7    48.6553 4.401 15.1589 31.7848
+8    45.9658 11.0024 15.6479 27.3839
+9    32.2738 19.3154 18.3374 30.0733
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1013
+CC  accession: M08515_2.00
+CC  AC: M08515_2.00
+CC  id: M08515_2.00
+CC  name: GIS1
+CC  version: 
+CC  name: GIS1
+CC  description: GIS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1013
+XX
+//
+AC  M08516_2.00
+XX
+ID  SWI5
+XX
+DE  SWI5
+P0       A     C     G     T
+1    7.69231 7.69231 23.0769 61.5385
+2        0     0   100     0
+3        0   100     0     0
+4        0     0     0   100
+5        0     0   100     0
+6        0     0   100     0
+7    3.84615 3.84615 26.9231 65.3846
+8       25    25 9.61538 40.3846
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1014
+CC  accession: M08516_2.00
+CC  AC: M08516_2.00
+CC  id: M08516_2.00
+CC  name: SWI5
+CC  version: 
+CC  name: SWI5
+CC  description: SWI5
+CC  transfac_consensus: 
+CC  matrix.nb: 1014
+XX
+//
+AC  M08517_2.00
+XX
+ID  ADR1
+XX
+DE  ADR1
+P0       A     C     G     T
+1    40.6675 24.165 13.067 22.1005
+2    0.1273 99.6309 0.1304 0.1114
+3        0 85.3403     0 14.6597
+4        0   100     0     0
+5        0   100     0     0
+6    64.2138 5.9809 20.2811 9.5242
+7    34.1301 50.5577 5.99989 9.31229
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1015
+CC  accession: M08517_2.00
+CC  AC: M08517_2.00
+CC  id: M08517_2.00
+CC  name: ADR1
+CC  version: 
+CC  name: ADR1
+CC  description: ADR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1015
+XX
+//
+AC  M08518_2.00
+XX
+ID  MET32
+XX
+DE  MET32
+P0       A     C     G     T
+1    27.4119 23.6464 40.8432 8.09846
+2    19.0519 34.8251 2.12102 44.0019
+3    11.5371 9.38647 60.3413 18.7352
+4    10.4608 79.2847 10.1753 0.0792847
+5    0.0997009 99.7009 0.0997009 0.0997009
+6    89.9371 1.37376 4.1194 4.56969
+7    2.65816 88.7596 0.0887596 8.49344
+8    66.6681 7.0576 11.3163 14.9579
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1016
+CC  accession: M08518_2.00
+CC  AC: M08518_2.00
+CC  id: M08518_2.00
+CC  name: MET32
+CC  version: 
+CC  name: MET32
+CC  description: MET32
+CC  transfac_consensus: 
+CC  matrix.nb: 1016
+XX
+//
+AC  M08519_2.00
+XX
+ID  STP1
+XX
+DE  STP1
+P0       A     C     G     T
+1    4.34751 30.4405 13.0404 52.1715
+2    30.4335 5.17618e-06 69.5665     0
+3    4.34903e-06   100 4.34822e-06     0
+4    5.69453e-06 5.1741e-06 95.653 4.34696
+5    8.69337 5.17377e-06 91.3066     0
+6    4.34903e-06   100 4.34822e-06     0
+7    4.34802 5.99874e-06 43.4743 52.1777
+8    4.34829 34.7798 26.0856 34.7863
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1017
+CC  accession: M08519_2.00
+CC  AC: M08519_2.00
+CC  id: M08519_2.00
+CC  name: STP1
+CC  version: 
+CC  name: STP1
+CC  description: STP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1017
+XX
+//
+AC  M08520_2.00
+XX
+ID  MIG3
+XX
+DE  MIG3
+P0       A     C     G     T
+1    0.795699 97.5932 0.913499 0.697599
+2        0 93.9655     0 6.0345
+3        0   100     0     0
+4        0   100     0     0
+5    41.2465 2.0831 55.2753 1.3951
+6    5.3707 69.0994 16.5111 9.0188
+7    40.516 22.1607 23.0826 14.2406
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1018
+CC  accession: M08520_2.00
+CC  AC: M08520_2.00
+CC  id: M08520_2.00
+CC  name: MIG3
+CC  version: 
+CC  name: MIG3
+CC  description: MIG3
+CC  transfac_consensus: 
+CC  matrix.nb: 1018
+XX
+//
+AC  M08521_2.00
+XX
+ID  COM2
+XX
+DE  COM2
+P0       A     C     G     T
+1    34.715 29.0155 23.3161 12.9534
+2        0 97.4094 0.518101 2.0725
+3        0 91.1917     0 8.8083
+4        0   100     0     0
+5        0   100     0     0
+6        0     0     0   100
+7    60.1036     0 8.2902 31.6062
+8    21.2435     0 3.6269 75.1296
+9    32.1244 29.0155 5.1813 33.6788
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1019
+CC  accession: M08521_2.00
+CC  AC: M08521_2.00
+CC  id: M08521_2.00
+CC  name: COM2
+CC  version: 
+CC  name: COM2
+CC  description: COM2
+CC  transfac_consensus: 
+CC  matrix.nb: 1019
+XX
+//
+AC  M08522_2.00
+XX
+ID  RPH1
+XX
+DE  RPH1
+P0       A     C     G     T
+1    52.7778 13.8889 13.8889 19.4444
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0     0     0   100
+7     62.5 1.38889 6.94444 29.1667
+8    73.6111 6.94444 6.94444  12.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1020
+CC  accession: M08522_2.00
+CC  AC: M08522_2.00
+CC  id: M08522_2.00
+CC  name: RPH1
+CC  version: 
+CC  name: RPH1
+CC  description: RPH1
+CC  transfac_consensus: 
+CC  matrix.nb: 1020
+XX
+//
+AC  M08523_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1    32.0756 35.371 14.6057 17.9476
+2    1.0083 96.9378 1.1618 0.8921
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6    46.0255 3.3741 49.8571 0.743399
+7    4.7056 58.3022 29.8663 7.1259
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1021
+CC  accession: M08523_2.00
+CC  AC: M08523_2.00
+CC  id: M08523_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1021
+XX
+//
+AC  M08524_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1    1.19036 96.4289 1.19036 1.19036
+2    1.19036 96.4289 1.19036 1.19036
+3    1.19036 96.4289 1.19036 1.19036
+4    1.19036 96.4289 1.19036 1.19036
+5    48.8091 1.19092 48.8091 1.19092
+6    1.19092 48.8091 48.8091 1.19092
+7    48.8091 1.19092 1.19092 48.8091
+8    48.8091 1.19092 1.19092 48.8091
+9    48.8091 1.19092 1.19092 48.8091
+10   48.8091 1.19092 1.19092 48.8091
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1022
+CC  accession: M08524_2.00
+CC  AC: M08524_2.00
+CC  id: M08524_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1022
+XX
+//
+AC  M08525_2.00
+XX
+ID  MIG2
+XX
+DE  MIG2
+P0       A     C     G     T
+1    1.4293 95.7087 1.6223 1.2397
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5    35.9426 10.7529 52.0648 1.2397
+6    4.5604 76.5757 13.0212 5.84269
+7    36.1456 24.2841 24.1668 15.4035
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1023
+CC  accession: M08525_2.00
+CC  AC: M08525_2.00
+CC  id: M08525_2.00
+CC  name: MIG2
+CC  version: 
+CC  name: MIG2
+CC  description: MIG2
+CC  transfac_consensus: 
+CC  matrix.nb: 1023
+XX
+//
+AC  M08526_2.00
+XX
+ID  FZF1
+XX
+DE  FZF1
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0     0   100
+4      100     0     0     0
+5        0     0     0   100
+6        0   100     0     0
+7        0     0   100     0
+8        0     0     0   100
+9      100     0     0     0
+10       0     0     0   100
+11     100     0     0     0
+12     100     0     0     0
+13       0     0   100     0
+14       0     0   100     0
+15       0   100     0     0
+16     100     0     0     0
+17     100     0     0     0
+18       0   100     0     0
+19     100     0     0     0
+20     100     0     0     0
+21       0     0     0   100
+22     100     0     0     0
+23       0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1024
+CC  accession: M08526_2.00
+CC  AC: M08526_2.00
+CC  id: M08526_2.00
+CC  name: FZF1
+CC  version: 
+CC  name: FZF1
+CC  description: FZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1024
+XX
+//
+AC  M08527_2.00
+XX
+ID  RME1
+XX
+DE  RME1
+P0       A     C     G     T
+1        0     0     0   100
+2    16.6667 16.6667     0 66.6667
+3        0 16.6667     0 83.3333
+4        0     0     0   100
+5        0     0   100     0
+6    66.6667     0     0 33.3333
+7        0     0   100     0
+8        0     0   100     0
+9        0     0     0   100
+10   66.6667     0     0 33.3333
+11       0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1025
+CC  accession: M08527_2.00
+CC  AC: M08527_2.00
+CC  id: M08527_2.00
+CC  name: RME1
+CC  version: 
+CC  name: RME1
+CC  description: RME1
+CC  transfac_consensus: 
+CC  matrix.nb: 1025
+XX
+//
+AC  M08528_2.00
+XX
+ID  YGR067C
+XX
+DE  YGR067C
+P0       A     C     G     T
+1    35.8178 23.6025 26.9151 13.6646
+2        0   100     0     0
+3        0 98.7578     0 1.2422
+4        0   100     0     0
+5    0.6211 99.3789     0     0
+6    40.7867 0.4141 30.8489 27.9503
+7        0 98.1366 0.8282 1.0352
+8    26.501 26.087 16.5631 30.8489
+9    22.9814 25.6729 20.2899 31.0559
+10   24.0166 25.8799 20.2899 29.8137
+11   25.2588 23.8095 25.2588 25.6729
+12   25.4658 21.9462 26.087 26.501
+13   21.9462 26.087 25.6729 26.294
+14   25.6729 23.8095 25.8799 24.6377
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1026
+CC  accession: M08528_2.00
+CC  AC: M08528_2.00
+CC  id: M08528_2.00
+CC  name: YGR067C
+CC  version: 
+CC  name: YGR067C
+CC  description: YGR067C
+CC  transfac_consensus: 
+CC  matrix.nb: 1026
+XX
+//
+AC  M08529_2.00
+XX
+ID  RIM101
+XX
+DE  RIM101
+P0       A     C     G     T
+1    1.19036 1.19036 1.19036 96.4289
+2    1.19036 1.19036 96.4289 1.19036
+3    1.19036 96.4289 1.19036 1.19036
+4    1.19036 96.4289 1.19036 1.19036
+5    96.4289 1.19036 1.19036 1.19036
+6    96.4289 1.19036 1.19036 1.19036
+7    1.19036 1.19036 96.4289 1.19036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1027
+CC  accession: M08529_2.00
+CC  AC: M08529_2.00
+CC  id: M08529_2.00
+CC  name: RIM101
+CC  version: 
+CC  name: RIM101
+CC  description: RIM101
+CC  transfac_consensus: 
+CC  matrix.nb: 1027
+XX
+//
+AC  M08530_2.00
+XX
+ID  STP2
+XX
+DE  STP2
+P0       A     C     G     T
+1    26.8614 12.27 26.5909 34.2777
+2    25.914 34.4374 23.7752 15.8734
+3    17.9766 16.155 42.7007 23.1677
+4    22.7787 20.5416 24.0489 32.6307
+5    10.96 35.9943 31.2309 21.8149
+6    34.1145 13.9832 43.3015 8.60075
+7    3.04009 33.8455 1.27509 61.8393
+8    46.0697 0.460368 52.0591 1.41084
+9    2.97196 94.8501 1.30513 0.872815
+10   0.382943 12.8114 86.6343 0.171384
+11   0.12295 14.8653 84.9176 0.0941027
+12   0.427806 98.7781 0.575556 0.218535
+13   31.2182 0.558431 64.7777 3.44567
+14   4.59657 82.9086 1.11564 11.3792
+15   8.16863 56.7373 11.1967 23.8974
+16   32.5874 14.3008 40.507 12.6048
+17   33.6718 17.6576 20.9919 27.6787
+18   15.7047 21.1317 19.3514 43.8122
+19   17.4549 29.3678 24.2982 28.8791
+20   38.5744 17.5089 25.8547 18.0619
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1028
+CC  accession: M08530_2.00
+CC  AC: M08530_2.00
+CC  id: M08530_2.00
+CC  name: STP2
+CC  version: 
+CC  name: STP2
+CC  description: STP2
+CC  transfac_consensus: 
+CC  matrix.nb: 1028
+XX
+//
+AC  M08531_2.00
+XX
+ID  ZAP1
+XX
+DE  ZAP1
+P0       A     C     G     T
+1      100     0     0     0
+2        0   100     0     0
+3        0   100     0     0
+4        0 83.3333     0 16.6667
+5        0 16.6667     0 83.3333
+6    66.6667 16.6667 16.6667     0
+7      100     0     0     0
+8      100     0     0     0
+9        0     0   100     0
+10       0     0   100     0
+11       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1029
+CC  accession: M08531_2.00
+CC  AC: M08531_2.00
+CC  id: M08531_2.00
+CC  name: ZAP1
+CC  version: 
+CC  name: ZAP1
+CC  description: ZAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1029
+XX
+//
+AC  M08532_2.00
+XX
+ID  RSF2
+XX
+DE  RSF2
+P0       A     C     G     T
+1       15    15    15    55
+2    31.25 11.25 11.25 46.25
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0   100     0     0
+7    18.75  3.75 53.75 23.75
+8        5    85     5     5
+9       50    10    10    30
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1030
+CC  accession: M08532_2.00
+CC  AC: M08532_2.00
+CC  id: M08532_2.00
+CC  name: RSF2
+CC  version: 
+CC  name: RSF2
+CC  description: RSF2
+CC  transfac_consensus: 
+CC  matrix.nb: 1030
+XX
+//
+AC  M08533_2.00
+XX
+ID  MSN4
+XX
+DE  MSN4
+P0       A     C     G     T
+1    1.06838 98.5043 0.213675 0.213675
+2    0.213675 99.359 0.213675 0.213675
+3    0.213675 99.359 0.213675 0.213675
+4    0.213675 99.359 0.213675 0.213675
+5    0.213675 16.453 0.213675 83.1197
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1031
+CC  accession: M08533_2.00
+CC  AC: M08533_2.00
+CC  id: M08533_2.00
+CC  name: MSN4
+CC  version: 
+CC  name: MSN4
+CC  description: MSN4
+CC  transfac_consensus: 
+CC  matrix.nb: 1031
+XX
+//
+AC  M08534_2.00
+XX
+ID  ACE2
+XX
+DE  ACE2
+P0       A     C     G     T
+1    23.0709 20.0411 17.6385 39.2495
+2    2.30815 0.111797 95.6554 1.92464
+3    0.106747 97.4762 1.699 0.718066
+4    0.0923115 0.0923115 7.50392 92.3115
+5    3.90006 0.0909061 90.9061 5.10295
+6    0.0869761 7.0845 86.9761 5.8524
+7    0.142193 24.5949 25.8048 49.4582
+8    15.9384 41.1978 10.2421 32.6216
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1032
+CC  accession: M08534_2.00
+CC  AC: M08534_2.00
+CC  id: M08534_2.00
+CC  name: ACE2
+CC  version: 
+CC  name: ACE2
+CC  description: ACE2
+CC  transfac_consensus: 
+CC  matrix.nb: 1032
+XX
+//
+AC  M08535_2.00
+XX
+ID  STP3
+XX
+DE  STP3
+P0       A     C     G     T
+1    24.8913 9.23913 47.9348 17.9348
+2    18.3696 41.8478 20.5435 19.2391
+3    0.108696 0.108696 0.108696 99.6739
+4    99.6739 0.108696 0.108696 0.108696
+5    0.108696 0.108696 99.6739 0.108696
+6    0.108696 99.6739 0.108696 0.108696
+7    0.108696 0.108696 99.6739 0.108696
+8    0.108696 64.4565  17.5 17.9348
+9    44.8913 16.6304 18.8043 19.6739
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1033
+CC  accession: M08535_2.00
+CC  AC: M08535_2.00
+CC  id: M08535_2.00
+CC  name: STP3
+CC  version: 
+CC  name: STP3
+CC  description: STP3
+CC  transfac_consensus: 
+CC  matrix.nb: 1033
+XX
+//
+AC  M08536_2.00
+XX
+ID  SFP1
+XX
+DE  SFP1
+P0       A     C     G     T
+1    42.7421 15.9905 16.1885 25.079
+2    20.2389 29.387 19.4568 30.9174
+3    28.9398 17.4988 19.2549 34.3065
+4    25.0731 21.7545 29.3678 23.8045
+5    35.3179 7.78569 29.7502 27.1462
+6    53.3167 4.26786 34.2064 8.20903
+7    78.2067 7.36992 7.114 7.30935
+8    89.858 3.59975 4.64911 1.89312
+9    90.458 0.933094 5.07726 3.53162
+10   85.5891 1.49487 4.24787 8.66813
+11   54.1619 3.40205 1.6047 40.8314
+12   8.66813 4.24787 1.49487 85.5891
+13   3.53162 5.07726 0.933094 90.458
+14   1.89312 4.64911 3.59975 89.858
+15   7.30935 7.114 7.36992 78.2067
+16   12.6584 40.5793 9.12078 37.6416
+17   8.26865 35.4844 10.3429 45.9041
+18   32.7413 20.1064 16.5499 30.6024
+19   11.5598 42.8176 15.4976 30.1249
+20   21.7895 8.33869 37.4099 32.462
+21   21.6333 16.9819 40.5151 20.8696
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1034
+CC  accession: M08536_2.00
+CC  AC: M08536_2.00
+CC  id: M08536_2.00
+CC  name: SFP1
+CC  version: 
+CC  name: SFP1
+CC  description: SFP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1034
+XX
+//
+AC  M08537_2.00
+XX
+ID  TDA9
+XX
+DE  TDA9
+P0       A     C     G     T
+1    31.4191 17.1032 28.1348 23.343
+2    16.2444 37.589 7.00703 39.1596
+3    24.7992 10.171 50.5633 14.4665
+4    29.4778 18.0509 15.5747 36.8966
+5    46.6205 12.2052 32.0491 9.12522
+6    23.0189 34.5056 11.3318 31.1437
+7    12.7037 10.7723 7.31782 69.2062
+8    79.3189 8.10775 6.99898 5.57434
+9    4.02032 95.7292 0.0673439 0.183158
+10   0.122816 97.039 0.0381844 2.79997
+11   0.183525 99.372 0.261609 0.182903
+12   0.0946824 99.2575 0.367024 0.280749
+13   11.2544 0.203754 80.3549 8.18686
+14   0.384072 99.1893 0.257964 0.168684
+15   68.9359 7.82715 0.850879 22.3861
+16   20.1566 32.5605 15.8488 31.4341
+17   28.3247 27.2196 8.33627 36.1194
+18   27.7425 13.623 20.5961 38.0384
+19   32.0536 16.1611 33.4601 18.3252
+20   20.8917 26.8163 21.8676 30.4244
+21   9.19739 31.8876 35.1012 23.8137
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1035
+CC  accession: M08537_2.00
+CC  AC: M08537_2.00
+CC  id: M08537_2.00
+CC  name: TDA9
+CC  version: 
+CC  name: TDA9
+CC  description: TDA9
+CC  transfac_consensus: 
+CC  matrix.nb: 1035
+XX
+//
+AC  M08538_2.00
+XX
+ID  MSN2
+XX
+DE  MSN2
+P0       A     C     G     T
+1    33.3482 25.5758 25.7074 15.3686
+2    21.8782 47.9691 3.2275 26.9253
+3    0.0620408 62.0408 0.0620408 37.8352
+4    3.07164 95.8056 1.02697 0.0958056
+5    0.0869867 86.9867 0.0869867 12.8393
+6    15.0139 0.0613494 23.5754 61.3494
+7    20.2742 17.1708 26.7888 35.7662
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1036
+CC  accession: M08538_2.00
+CC  AC: M08538_2.00
+CC  id: M08538_2.00
+CC  name: MSN2
+CC  version: 
+CC  name: MSN2
+CC  description: MSN2
+CC  transfac_consensus: 
+CC  matrix.nb: 1036
+XX
+//
+AC  M08539_2.00
+XX
+ID  MOT3
+XX
+DE  MOT3
+P0       A     C     G     T
+1    1.19036 1.19036 1.19036 96.4289
+2    48.8091 1.19092 48.8091 1.19092
+3    1.19036 96.4289 1.19036 1.19036
+4    1.19036 96.4289 1.19036 1.19036
+5    1.19036 1.19036 1.19036 96.4289
+6    32.9357 1.19299 32.9357 32.9357
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1037
+CC  accession: M08539_2.00
+CC  AC: M08539_2.00
+CC  id: M08539_2.00
+CC  name: MOT3
+CC  version: 
+CC  name: MOT3
+CC  description: MOT3
+CC  transfac_consensus: 
+CC  matrix.nb: 1037
+XX
+//
+AC  M08540_2.00
+XX
+ID  RGM1
+XX
+DE  RGM1
+P0       A     C     G     T
+1    0.095057 76.9011 11.8821 11.1217
+2    0.095057 99.7148 0.095057 0.095057
+3    0.095057 99.7148 0.095057 0.095057
+4    0.095057 99.7148 0.095057 0.095057
+5    0.095057 0.095057 0.095057 99.7148
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1038
+CC  accession: M08540_2.00
+CC  AC: M08540_2.00
+CC  id: M08540_2.00
+CC  name: RGM1
+CC  version: 
+CC  name: RGM1
+CC  description: RGM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1038
+XX
+//
+AC  M08541_2.00
+XX
+ID  CRZ1
+XX
+DE  CRZ1
+P0       A     C     G     T
+1    20.1556 47.7983 17.7801 14.266
+2    28.6035 21.704 17.2824 32.4101
+3    36.6874 30.201 22.1151 10.9965
+4    63.1234 35.6441 0.6838 0.5487
+5        0     0   100     0
+6        0   100     0     0
+7    0.3117 99.0721 0.3419 0.2743
+8    42.1755 29.5015 7.10259 21.2205
+9    7.4807 76.413 8.2062 7.9001
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1039
+CC  accession: M08541_2.00
+CC  AC: M08541_2.00
+CC  id: M08541_2.00
+CC  name: CRZ1
+CC  version: 
+CC  name: CRZ1
+CC  description: CRZ1
+CC  transfac_consensus: 
+CC  matrix.nb: 1039
+XX
+//
+AC  M08542_2.00
+XX
+ID  AZF1
+XX
+DE  AZF1
+P0       A     C     G     T
+1     12.5  12.5  12.5  62.5
+2     6.25  6.25  6.25 81.25
+3    3.125 3.125 15.625 78.125
+4        0   100     0     0
+5        0    25     0    75
+6        0     0  12.5  87.5
+7        0     0     0   100
+8        0     0     0   100
+9     12.5  12.5  12.5  62.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1040
+CC  accession: M08542_2.00
+CC  AC: M08542_2.00
+CC  id: M08542_2.00
+CC  name: AZF1
+CC  version: 
+CC  name: AZF1
+CC  description: AZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1040
+XX
+//
+AC  M08543_2.00
+XX
+ID  MET31
+XX
+DE  MET31
+P0       A     C     G     T
+1    22.6264 55.9131 21.4045 0.0559131
+2    0.0997009 99.7009 0.0997009 0.0997009
+3    90.9159 1.81219 3.96341 3.30854
+4    0.0972775 97.2775 0.0972775 2.52795
+5    65.854 11.3259 2.69527 20.1249
+6    19.5682 25.3952 44.7612 10.2755
+7    14.8911 25.4837 1.05655 58.5686
+8    11.3865 9.61339 60.1264 18.8737
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1041
+CC  accession: M08543_2.00
+CC  AC: M08543_2.00
+CC  id: M08543_2.00
+CC  name: MET31
+CC  version: 
+CC  name: MET31
+CC  description: MET31
+CC  transfac_consensus: 
+CC  matrix.nb: 1041
+XX
+//
+AC  M08544_2.00
+XX
+ID  USV1
+XX
+DE  USV1
+P0       A     C     G     T
+1    0.105485 99.6835 0.105485 0.105485
+2    0.105485 99.6835 0.105485 0.105485
+3    0.105485 99.6835 0.105485 0.105485
+4    0.105485 79.4304 0.105485 20.3586
+5    0.105485 0.105485 0.105485 99.6835
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1042
+CC  accession: M08544_2.00
+CC  AC: M08544_2.00
+CC  id: M08544_2.00
+CC  name: USV1
+CC  version: 
+CC  name: USV1
+CC  description: USV1
+CC  transfac_consensus: 
+CC  matrix.nb: 1042
+XX
+//
+AC  M08545_2.00
+XX
+ID  CMR3
+XX
+DE  CMR3
+P0       A     C     G     T
+1    23.0119 16.5741 27.244 33.17
+2    21.3224 19.6056 26.2178 32.8543
+3    29.5929 15.0737 29.8603 25.4732
+4    54.7582 8.32062 24.2689 12.6523
+5    44.4194 21.3396 22.5691 11.6719
+6    1.45442 52.2445 1.04208 45.259
+7    0.223278 0.233752 99.1993 0.343628
+8    0.327046 1.57313 0.220485 97.8793
+9    97.1017 2.24084 0.0912678 0.566159
+10   71.2594 0.228436 27.6839 0.82831
+11   98.994 0.0929313 0.657377 0.25568
+12   0.202013 0.251439 0.294783 99.2518
+13   0.223879 99.1439 0.221921 0.410276
+14   64.3542 29.6993 2.16419 3.78228
+15   13.243 46.8986 9.00502 30.8534
+16   35.8144 12.3391 12.7104 39.1361
+17   25.6462 15.4053 12.7921 46.1564
+18   20.3868 29.3018 14.1928 36.1185
+19   31.02 26.6256 19.643 22.7113
+20   22.0382 20.1788 29.3708 28.4122
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1043
+CC  accession: M08545_2.00
+CC  AC: M08545_2.00
+CC  id: M08545_2.00
+CC  name: CMR3
+CC  version: 
+CC  name: CMR3
+CC  description: CMR3
+CC  transfac_consensus: 
+CC  matrix.nb: 1043
+XX
+//
+AC  M08546_2.00
+XX
+ID  YPR015C
+XX
+DE  YPR015C
+P0       A     C     G     T
+1    7.54803 24.265 14.4116 53.7754
+2    15.8029 20.4851 34.1332 29.5788
+3    38.2063 17.0353 17.3378 27.4207
+4    37.659 24.0191 13.7934 24.5285
+5    27.4563 5.05883 46.2412 21.2437
+6    55.2472 16.9548 24.0438 3.75412
+7    1.63587 74.7755 1.74248 21.8461
+8    0.414091 0.462499 98.8381 0.28532
+9    0.251695 1.60283 0.313035 97.8324
+10   98.3715 0.76062 0.341439 0.52642
+11   88.4304 0.149918 10.9974 0.422227
+12   98.6892 0.223148 0.420648 0.667026
+13   0.535594 0.213646 0.280341 98.9704
+14   0.491782 98.3968 0.170042 0.941333
+15   32.6317 57.5522 5.51042 4.30573
+16   8.69495 22.1665 7.79739 61.3411
+17   25.8572 19.0531 19.6111 35.4786
+18   45.0375 11.0051 17.3065 26.6508
+19   28.1154 39.6644 6.20532 26.0149
+20   33.3857 33.0748 6.89058 26.6489
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1044
+CC  accession: M08546_2.00
+CC  AC: M08546_2.00
+CC  id: M08546_2.00
+CC  name: YPR015C
+CC  version: 
+CC  name: YPR015C
+CC  description: YPR015C
+CC  transfac_consensus: 
+CC  matrix.nb: 1044
+XX
+//
+AC  M08547_2.00
+XX
+ID  YPR022C
+XX
+DE  YPR022C
+P0       A     C     G     T
+1    14.6245 65.6127     0 19.7628
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5      100     0     0     0
+6        0   100     0     0
+7    22.5296 25.6917 33.9921 17.7866
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1045
+CC  accession: M08547_2.00
+CC  AC: M08547_2.00
+CC  id: M08547_2.00
+CC  name: YPR022C
+CC  version: 
+CC  name: YPR022C
+CC  description: YPR022C
+CC  transfac_consensus: 
+CC  matrix.nb: 1045
+XX
+//
+AC  M08548_2.00
+XX
+ID  PZF1
+XX
+DE  PZF1
+P0       A     C     G     T
+1        0     0     0   100
+2        0     0   100     0
+3        0     0     0   100
+4      100     0     0     0
+5        0     0   100     0
+6        0     0     0   100
+7        0     0   100     0
+8        0     0   100     0
+9        0     0   100     0
+10       0     0     0   100
+11       0     0   100     0
+12     100     0     0     0
+13       0   100     0     0
+14       0   100     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1046
+CC  accession: M08548_2.00
+CC  AC: M08548_2.00
+CC  id: M08548_2.00
+CC  name: PZF1
+CC  version: 
+CC  name: PZF1
+CC  description: PZF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1046
+XX
+//
+AC  M08549_2.00
+XX
+ID  CUP2
+XX
+DE  CUP2
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3        0     0     0   100
+4        0     0     0   100
+5        0     0     0   100
+6        0     0     0   100
+7        0     0   100     0
+8        0   100     0     0
+9        0     0     0   100
+10       0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1047
+CC  accession: M08549_2.00
+CC  AC: M08549_2.00
+CC  id: M08549_2.00
+CC  name: CUP2
+CC  version: 
+CC  name: CUP2
+CC  description: CUP2
+CC  transfac_consensus: 
+CC  matrix.nb: 1047
+XX
+//
+AC  M08550_2.00
+XX
+ID  CUP2
+XX
+DE  CUP2
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3        0     0     0   100
+4        0     0     0   100
+5        0     0     0   100
+6        0     0     0   100
+7        0     0     0   100
+8        0     0   100     0
+9        0   100     0     0
+10       0     0     0   100
+11       0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1048
+CC  accession: M08550_2.00
+CC  AC: M08550_2.00
+CC  id: M08550_2.00
+CC  name: CUP2
+CC  version: 
+CC  name: CUP2
+CC  description: CUP2
+CC  transfac_consensus: 
+CC  matrix.nb: 1048
+XX
+//
+AC  M08551_2.00
+XX
+ID  CUP2
+XX
+DE  CUP2
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3        0     0     0   100
+4        0     0     0   100
+5        0     0     0   100
+6        0     0     0   100
+7        0     0     0   100
+8        0     0     0   100
+9        0     0   100     0
+10       0   100     0     0
+11       0     0     0   100
+12       0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1049
+CC  accession: M08551_2.00
+CC  AC: M08551_2.00
+CC  id: M08551_2.00
+CC  name: CUP2
+CC  version: 
+CC  name: CUP2
+CC  description: CUP2
+CC  transfac_consensus: 
+CC  matrix.nb: 1049
+XX
+//
+AC  M08552_2.00
+XX
+ID  MAC1
+XX
+DE  MAC1
+P0       A     C     G     T
+1    6.20333     0     0 93.7967
+2    5.05969     0 12.4503 82.4901
+3        0     0     0   100
+4    6.76385     0 93.2362     0
+5        0   100     0     0
+6        0     0     0   100
+7        0   100     0     0
+8    55.4719     0 37.927 6.60104
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1050
+CC  accession: M08552_2.00
+CC  AC: M08552_2.00
+CC  id: M08552_2.00
+CC  name: MAC1
+CC  version: 
+CC  name: MAC1
+CC  description: MAC1
+CC  transfac_consensus: 
+CC  matrix.nb: 1050
+XX
+//
+AC  M08553_2.00
+XX
+ID  HAA1
+XX
+DE  HAA1
+P0       A     C     G     T
+1        0    50    50     0
+2       50    50     0     0
+3        0     0   100     0
+4        0     0   100     0
+5        0    50    50     0
+6        0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1051
+CC  accession: M08553_2.00
+CC  AC: M08553_2.00
+CC  id: M08553_2.00
+CC  name: HAA1
+CC  version: 
+CC  name: HAA1
+CC  description: HAA1
+CC  transfac_consensus: 
+CC  matrix.nb: 1051
+XX
+//
+AC  M08554_2.00
+XX
+ID  HCM1
+XX
+DE  HCM1
+P0       A     C     G     T
+1    51.3075 16.0895 24.8858 7.7172
+2    27.2549 7.678 4.1351 60.932
+3    67.0106 31.5845 0.658101 0.746801
+4    94.6809 5.3191     0     0
+5      100     0     0     0
+6    0.7021 85.5953 0.4388 13.2638
+7    95.0104 1.7114 1.5356 1.7426
+8    58.0308 17.0674 10.8697 14.0321
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1052
+CC  accession: M08554_2.00
+CC  AC: M08554_2.00
+CC  id: M08554_2.00
+CC  name: HCM1
+CC  version: 
+CC  name: HCM1
+CC  description: HCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1052
+XX
+//
+AC  M08555_2.00
+XX
+ID  FKH1
+XX
+DE  FKH1
+P0       A     C     G     T
+1    30.7261 24.2569 23.9582 21.0588
+2    19.8617 18.3866 29.2619 32.4899
+3    23.9529 0.076047 75.8952 0.0758952
+4    5.92749 0.0902797 3.70255 90.2797
+5    77.3108 22.5346 0.0773108 0.0773108
+6    83.3053 16.5281 0.0833053 0.0833053
+7    99.7009 0.0997009 0.0997009 0.0997009
+8    0.0844473 84.4473 0.0844473 15.3838
+9    96.9023 2.90387 0.0969023 0.0969023
+10   46.3405 12.1009 25.5022 16.0564
+11   20.5984 23.5058 44.9182 10.9776
+12   18.5368 34.8149 32.9331 13.7152
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1053
+CC  accession: M08555_2.00
+CC  AC: M08555_2.00
+CC  id: M08555_2.00
+CC  name: FKH1
+CC  version: 
+CC  name: FKH1
+CC  description: FKH1
+CC  transfac_consensus: 
+CC  matrix.nb: 1053
+XX
+//
+AC  M08556_2.00
+XX
+ID  FKH2
+XX
+DE  FKH2
+P0       A     C     G     T
+1    24.0122 19.6861 22.0816 34.2201
+2    27.789 14.6179 26.7804 30.8128
+3    34.1839 17.4534 21.9739 26.3888
+4    57.1702 14.603 14.3912 13.8356
+5    49.5698 11.0596 17.6615 21.7091
+6    37.9266 15.796 12.6669 33.6105
+7    17.9551 0.474826 81.3593 0.210774
+8    1.45578 0.426037 0.0952158 98.023
+9    95.0367 4.73081 0.0771337 0.155356
+10   97.9678 1.13902 0.0975914 0.795594
+11   98.6667 0.101634 0.269142 0.962519
+12   0.176721 79.7833 0.129659 19.9103
+13   98.9636 0.124924 0.366704 0.544745
+14   82.3954 6.96613 3.25003 7.38842
+15   68.4172 2.51104 10.658 18.4138
+16   21.2491 21.0952 44.6148 13.041
+17   35.3169 17.3423 32.1436 15.1971
+18   20.8011 23.9547 27.4318 27.8123
+19   31.5164 7.16398 43.2442 18.0754
+20   33.8566 26.3541 27.4442 12.345
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1054
+CC  accession: M08556_2.00
+CC  AC: M08556_2.00
+CC  id: M08556_2.00
+CC  name: FKH2
+CC  version: 
+CC  name: FKH2
+CC  description: FKH2
+CC  transfac_consensus: 
+CC  matrix.nb: 1054
+XX
+//
+AC  M08557_2.00
+XX
+ID  FHL1
+XX
+DE  FHL1
+P0       A     C     G     T
+1    35.802 14.0342 27.8072 22.3566
+2    40.1635 13.4922 32.0149 14.3294
+3    41.7175 15.4843 17.597 25.2012
+4    47.0693 8.87299 23.7797 20.278
+5    27.1875 11.5611 22.9701 38.2813
+6    24.621 24.9028 20.7354 29.7407
+7    4.62107 9.8829 83.7149 1.78115
+8    92.5629 0.704896 2.45171 4.28047
+9    0.343034 98.4695 0.235294 0.952135
+10   0.446645 0.0750241 94.8713 4.60705
+11   0.769808 98.6001 0.263869 0.366189
+12   90.797 0.566252 6.55776 2.07903
+13   64.8865 21.0057 4.72468 9.38312
+14   50.5596 8.56067 4.37776 36.502
+15   23.6895 18.3329 17.7434 40.2342
+16   30.1089 19.1764 17.5525 33.1623
+17   25.77 28.6641 17.9562 27.6097
+18   19.7181 18.2345 39.2219 22.8254
+19   27.1809 11.3256 14.3749 47.1186
+20   17.1648 15.4837 28.6854 38.6661
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1055
+CC  accession: M08557_2.00
+CC  AC: M08557_2.00
+CC  id: M08557_2.00
+CC  name: FHL1
+CC  version: 
+CC  name: FHL1
+CC  description: FHL1
+CC  transfac_consensus: 
+CC  matrix.nb: 1055
+XX
+//
+AC  M08558_2.00
+XX
+ID  SRD1
+XX
+DE  SRD1
+P0       A     C     G     T
+1    66.0645 8.59299 19.3842 5.95829
+2    6.19089 1.7162 90.3905 1.7024
+3    97.4138     0     0 2.5862
+4    12.931     0 1.7241 85.3449
+5    0.2351 99.3524 0.1997 0.2128
+6    4.388 18.7352 2.9952 73.8816
+7    46.3939 29.5011 12.7507 11.3544
+8    24.4492 41.5463 17.543 16.4615
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1056
+CC  accession: M08558_2.00
+CC  AC: M08558_2.00
+CC  id: M08558_2.00
+CC  name: SRD1
+CC  version: 
+CC  name: SRD1
+CC  description: SRD1
+CC  transfac_consensus: 
+CC  matrix.nb: 1056
+XX
+//
+AC  M08559_2.00
+XX
+ID  GLN3
+XX
+DE  GLN3
+P0       A     C     G     T
+1    0.0453721 0.0453721 99.8639 0.0453721
+2    99.8639 0.0453721 0.0453721 0.0453721
+3    0.0453721 0.0453721 0.0453721 99.8639
+4    74.274 0.0453721 0.0453721 25.6352
+5    61.3884 0.0453721 26.9056 11.6606
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1057
+CC  accession: M08559_2.00
+CC  AC: M08559_2.00
+CC  id: M08559_2.00
+CC  name: GLN3
+CC  version: 
+CC  name: GLN3
+CC  description: GLN3
+CC  transfac_consensus: 
+CC  matrix.nb: 1057
+XX
+//
+AC  M08560_2.00
+XX
+ID  GAT1
+XX
+DE  GAT1
+P0       A     C     G     T
+1    31.9149 8.51064 6.38298 53.1915
+2    8.51064 8.51064 17.0213 65.9574
+3    10.6383     0     0 89.3617
+4    2.12766     0 95.7447 2.12766
+5      100     0     0     0
+6    2.12766     0     0 97.8723
+7    55.3191 2.12766     0 42.5532
+8    74.4681     0     0 25.5319
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1058
+CC  accession: M08560_2.00
+CC  AC: M08560_2.00
+CC  id: M08560_2.00
+CC  name: GAT1
+CC  version: 
+CC  name: GAT1
+CC  description: GAT1
+CC  transfac_consensus: 
+CC  matrix.nb: 1058
+XX
+//
+AC  M08561_2.00
+XX
+ID  GAT4
+XX
+DE  GAT4
+P0       A     C     G     T
+1    35.5263 21.0526 23.6842 19.7368
+2    30.9211 25.6579 17.7632 25.6579
+3    80.2632 3.94737 11.8421 3.94737
+4    2.96053 0.328947 96.3816 0.328947
+5    97.6974 0.328947 0.328947 1.64474
+6    0.328947 0.328947 0.328947 99.0132
+7    0.328947 99.0132 0.328947 0.328947
+8    4.60526 28.2895 3.28947 63.8158
+9    39.8026 20.0658 22.6974 17.4342
+10   28.6184 25.9868 23.3553 22.0395
+11   33.2237 24.0132 21.3816 21.3816
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1059
+CC  accession: M08561_2.00
+CC  AC: M08561_2.00
+CC  id: M08561_2.00
+CC  name: GAT4
+CC  version: 
+CC  name: GAT4
+CC  description: GAT4
+CC  transfac_consensus: 
+CC  matrix.nb: 1059
+XX
+//
+AC  M08562_2.00
+XX
+ID  GZF3
+XX
+DE  GZF3
+P0       A     C     G     T
+1    1.19036 1.19036 96.4289 1.19036
+2    96.4289 1.19036 1.19036 1.19036
+3    1.19036 1.19036 1.19036 96.4289
+4    96.4289 1.19036 1.19036 1.19036
+5    96.4289 1.19036 1.19036 1.19036
+6    1.19036 1.19036 96.4289 1.19036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1060
+CC  accession: M08562_2.00
+CC  AC: M08562_2.00
+CC  id: M08562_2.00
+CC  name: GZF3
+CC  version: 
+CC  name: GZF3
+CC  description: GZF3
+CC  transfac_consensus: 
+CC  matrix.nb: 1060
+XX
+//
+AC  M08563_2.00
+XX
+ID  ASH1
+XX
+DE  ASH1
+P0       A     C     G     T
+1        0    50     0    50
+2        0     0     0   100
+3        0     0   100     0
+4      100     0     0     0
+5        0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1061
+CC  accession: M08563_2.00
+CC  AC: M08563_2.00
+CC  id: M08563_2.00
+CC  name: ASH1
+CC  version: 
+CC  name: ASH1
+CC  description: ASH1
+CC  transfac_consensus: 
+CC  matrix.nb: 1061
+XX
+//
+AC  M08564_2.00
+XX
+ID  DAL80
+XX
+DE  DAL80
+P0       A     C     G     T
+1    13.1351 50.7522 24.0876 12.0251
+2    18.5949 34.0578 28.685 18.6623
+3    31.1019 54.2695 5.92624 8.70237
+4    0.0997009 0.0997009 99.7009 0.0997009
+5    99.7009 0.0997009 0.0997009 0.0997009
+6    0.0997009 0.0997009 0.0997009 99.7009
+7    77.2742 3.92194 2.82331 15.9805
+8    30.8741 9.88701 22.168 37.0709
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1062
+CC  accession: M08564_2.00
+CC  AC: M08564_2.00
+CC  id: M08564_2.00
+CC  name: DAL80
+CC  version: 
+CC  name: DAL80
+CC  description: DAL80
+CC  transfac_consensus: 
+CC  matrix.nb: 1062
+XX
+//
+AC  M08565_2.00
+XX
+ID  GAT3
+XX
+DE  GAT3
+P0       A     C     G     T
+1    64.7661 8.62573 20.3216 6.28655
+2    8.47953 2.04678 88.0117 1.46199
+3    91.9591 0.146199 0.146199 7.74854
+4    11.9883 0.292398 0.877193 86.8421
+5    2.92398 94.152 1.16959 1.75439
+6    5.99415 27.0468 4.23977 62.7193
+7    51.462 18.7135 18.1287 11.6959
+8    28.3626 33.0409 21.345 17.2515
+9    32.3099 25.2924 21.1988 21.1988
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1063
+CC  accession: M08565_2.00
+CC  AC: M08565_2.00
+CC  id: M08565_2.00
+CC  name: GAT3
+CC  version: 
+CC  name: GAT3
+CC  description: GAT3
+CC  transfac_consensus: 
+CC  matrix.nb: 1063
+XX
+//
+AC  M08566_2.00
+XX
+ID  ECM23
+XX
+DE  ECM23
+P0       A     C     G     T
+1    30.7624 25.4433 22.961 20.8333
+2    33.422 24.9113 21.7199 19.9468
+3    72.1631 10.8156 9.75177 7.2695
+4    9.84043 2.03901 86.4362 1.6844
+5    99.734 0.0886525 0.0886525 0.0886525
+6    2.57092 0.0886525 0.0886525 97.2518
+7    0.886525 89.539 3.01418 6.56028
+8    14.0957 18.7057 14.0957 53.1028
+9    30.1418 23.0496 21.2766 25.5319
+10   31.7376    25 24.6454 18.617
+11   30.2305 25.9752 22.4291 21.3652
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1064
+CC  accession: M08566_2.00
+CC  AC: M08566_2.00
+CC  id: M08566_2.00
+CC  name: ECM23
+CC  version: 
+CC  name: ECM23
+CC  description: ECM23
+CC  transfac_consensus: 
+CC  matrix.nb: 1064
+XX
+//
+AC  M08567_2.00
+XX
+ID  MSN1
+XX
+DE  MSN1
+P0       A     C     G     T
+1    0.846457 0.0989556 98.9556 0.0989556
+2    0.645918 0.0969154 2.34179 96.9154
+3    2.8187 95.7965 0.0957965 1.28896
+4    4.87367 73.7543 3.64737 17.7247
+5    30.6391 22.9026 14.7592 31.699
+6    42.8071 13.257 10.4105 33.5255
+7    77.2683 0.705482 9.60631 12.4199
+8    11.1995 3.60403 1.55981 83.6367
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1065
+CC  accession: M08567_2.00
+CC  AC: M08567_2.00
+CC  id: M08567_2.00
+CC  name: MSN1
+CC  version: 
+CC  name: MSN1
+CC  description: MSN1
+CC  transfac_consensus: 
+CC  matrix.nb: 1065
+XX
+//
+AC  M08568_2.00
+XX
+ID  MSN1
+XX
+DE  MSN1
+P0       A     C     G     T
+1    42.4905 14.9417 10.4664 32.1015
+2    77.0037 0.786301 9.74188 12.4681
+3    10.7723 3.66537 1.60658 83.9558
+4    1.74782 0.0980561 98.0561 0.0980561
+5    0.0974105 0.0974105 2.39465 97.4105
+6    3.83742 93.2951 0.880371 1.98711
+7    5.87919 76.6578 1.1831 16.2799
+8    30.3547 22.0024 11.8676 35.7753
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1066
+CC  accession: M08568_2.00
+CC  AC: M08568_2.00
+CC  id: M08568_2.00
+CC  name: MSN1
+CC  version: 
+CC  name: MSN1
+CC  description: MSN1
+CC  transfac_consensus: 
+CC  matrix.nb: 1066
+XX
+//
+AC  M08569_2.00
+XX
+ID  GCR1
+XX
+DE  GCR1
+P0       A     C     G     T
+1    21.3048 13.1122 54.1105 11.4725
+2    1.63886e-06   100 1.63969e-06     0
+3    8.19896 2.26222e-06 1.63941 90.1616
+4    1.63856e-06 1.63939e-06 1.63939e-06   100
+5    2.14776e-06 93.4419 1.95148e-06 6.55805
+6    2.65481e-06 96.7218 1.63895 1.63925
+7    37.6968 19.6724 3.27865 39.3521
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1067
+CC  accession: M08569_2.00
+CC  AC: M08569_2.00
+CC  id: M08569_2.00
+CC  name: GCR1
+CC  version: 
+CC  name: GCR1
+CC  description: GCR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1067
+XX
+//
+AC  M08570_2.00
+XX
+ID  MATALPHA2
+XX
+DE  MATALPHA2
+P0       A     C     G     T
+1    85.0802 0.0850802 0.786565 14.0481
+2    0.780068 87.2161 0.0872161 11.9166
+3    82.0398 0.737919 14.2768 2.94551
+4    0.0600185 38.7667 1.15476 60.0185
+5    20.517 0.0728775 72.8775 6.53255
+6    35.4082 24.8861 3.50632 36.1993
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1068
+CC  accession: M08570_2.00
+CC  AC: M08570_2.00
+CC  id: M08570_2.00
+CC  name: MATALPHA2
+CC  version: 
+CC  name: MATALPHA2
+CC  description: MATALPHA2
+CC  transfac_consensus: 
+CC  matrix.nb: 1068
+XX
+//
+AC  M08571_2.00
+XX
+ID  HMRA2
+XX
+DE  HMRA2
+P0       A     C     G     T
+1     6.25 66.9643  6.25 20.5357
+2    53.5714     0 46.4286     0
+3    3.57143     0     0 96.4286
+4        0     0   100     0
+5        0     0     0   100
+6    92.8571     0     0 7.14286
+7     87.5 1.78571 1.78571 8.92857
+8    40.1786 8.03571 8.03571 43.75
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1069
+CC  accession: M08571_2.00
+CC  AC: M08571_2.00
+CC  id: M08571_2.00
+CC  name: HMRA2
+CC  version: 
+CC  name: HMRA2
+CC  description: HMRA2
+CC  transfac_consensus: 
+CC  matrix.nb: 1069
+XX
+//
+AC  M08572_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1    51.6406 0.078125 7.57812 40.7031
+2    11.6406 0.078125 0.078125 88.2031
+3    99.7656 0.078125 0.078125 0.078125
+4    56.3281 0.078125 0.078125 43.5156
+5    22.8906 0.078125 0.078125 76.9531
+6    62.8906 0.078125 0.078125 36.9531
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1070
+CC  accession: M08572_2.00
+CC  AC: M08572_2.00
+CC  id: M08572_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 1070
+XX
+//
+AC  M08573_2.00
+XX
+ID  YHP1
+XX
+DE  YHP1
+P0       A     C     G     T
+1    42.8571 14.2857     0 42.8571
+2    14.2857 17.8571 39.2857 28.5714
+3    17.8571 3.57143 10.7143 67.8571
+4    85.7143     0 3.57143 10.7143
+5    85.7143     0 10.7143 3.57143
+6        0     0 3.57143 96.4286
+7    7.14286     0 14.2857 78.5714
+8    53.5714 7.14286 39.2857     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1071
+CC  accession: M08573_2.00
+CC  AC: M08573_2.00
+CC  id: M08573_2.00
+CC  name: YHP1
+CC  version: 
+CC  name: YHP1
+CC  description: YHP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1071
+XX
+//
+AC  M08574_2.00
+XX
+ID  TOS8
+XX
+DE  TOS8
+P0       A     C     G     T
+1    19.2308 15.3846 15.3846    50
+2    22.1154 6.73077 6.73077 64.4231
+3        0     0     0   100
+4        0     0   100     0
+5      100     0     0     0
+6        0   100     0     0
+7    81.7308 0.961539 16.3462 0.961539
+8    4.80769 20.1923 47.1154 27.8846
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1072
+CC  accession: M08574_2.00
+CC  AC: M08574_2.00
+CC  id: M08574_2.00
+CC  name: TOS8
+CC  version: 
+CC  name: TOS8
+CC  description: TOS8
+CC  transfac_consensus: 
+CC  matrix.nb: 1072
+XX
+//
+AC  M08575_2.00
+XX
+ID  YOX1
+XX
+DE  YOX1
+P0       A     C     G     T
+1    1.47059    25 7.35294 66.1765
+2        0     0     0   100
+3      100     0     0     0
+4      100     0     0     0
+5        0     0     0   100
+6        0     0     0   100
+7    61.7647 2.94118 14.7059 20.5882
+8    54.4118 13.2353 13.2353 19.1176
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1073
+CC  accession: M08575_2.00
+CC  AC: M08575_2.00
+CC  id: M08575_2.00
+CC  name: YOX1
+CC  version: 
+CC  name: YOX1
+CC  description: YOX1
+CC  transfac_consensus: 
+CC  matrix.nb: 1073
+XX
+//
+AC  M08576_2.00
+XX
+ID  CUP9
+XX
+DE  CUP9
+P0       A     C     G     T
+1    7.46269 10.4478 2.9851 79.1044
+2        0     0   100     0
+3    83.5821     0 8.9552 7.4627
+4    1.4925 98.5075     0     0
+5    91.0448     0 8.9552     0
+6        0 64.1791 8.9552 26.8657
+7    74.6268 14.9254     0 10.4478
+8    40.2985     0     0 59.7015
+9    38.806 13.4328 2.9851 44.7761
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1074
+CC  accession: M08576_2.00
+CC  AC: M08576_2.00
+CC  id: M08576_2.00
+CC  name: CUP9
+CC  version: 
+CC  name: CUP9
+CC  description: CUP9
+CC  transfac_consensus: 
+CC  matrix.nb: 1074
+XX
+//
+AC  M08577_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1      5.4   4.5   5.7  84.4
+2      0.2   0.6   1.3  97.9
+3    20.4204 73.3734 3.3033 2.9029
+4      2.3  17.8   5.9    74
+5    99.3007 0.2997 0.1998 0.1998
+6      0.4   2.1  93.9   3.6
+7     94.4   2.5   2.1     1
+8       81   4.7  10.3     4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1075
+CC  accession: M08577_2.00
+CC  AC: M08577_2.00
+CC  id: M08577_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1075
+XX
+//
+AC  M08578_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1    5.69431 2.4975 87.2128 4.5954
+2    89.8899 2.1021 4.6046 3.4034
+3     82.9   4.3   5.5   7.3
+4     22.3  23.9  24.8    29
+5     29.1  20.2  29.2  21.5
+6     23.6  18.3    14  44.1
+7     23.2  19.6  14.7  42.5
+8    34.1658 28.6713 19.8801 17.2827
+9    21.6783 12.7872 9.09091 56.4436
+10   57.043 9.69031 23.2767 9.99001
+11   1.6983 0.899101 94.3057 3.0969
+12    95.4   2.1   1.6   0.9
+13   83.1832 4.1041 5.40541 7.30731
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1076
+CC  accession: M08578_2.00
+CC  AC: M08578_2.00
+CC  id: M08578_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1076
+XX
+//
+AC  M08579_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1    17.1875 23.4375 10.9375 48.4375
+2    18.75 18.75 56.25  6.25
+3        0     0     0   100
+4        0     0     0   100
+5        0   100     0     0
+6        0 81.25     0 18.75
+7    95.3125 1.5625 1.5625 1.5625
+8     6.25  12.5  12.5 68.75
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1077
+CC  accession: M08579_2.00
+CC  AC: M08579_2.00
+CC  id: M08579_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1077
+XX
+//
+AC  M08580_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1    51.8935 8.8349 37.148 2.12356
+2    14.9511 0.0146995 81.4537 3.58054
+3    97.0846 0.0592887 0.961195 1.89496
+4    84.2757 1.52285 7.8941 6.30739
+5    10.5296 30.6775 20.9388 37.8541
+6    23.9184 23.5684 29.4415 23.0717
+7    3.24777 6.89323 6.43161 83.4274
+8    0.968281 16.4524 5.16665 77.4126
+9    17.8897 72.4435 4.46848 5.19835
+10   5.55514 9.15496 3.89751 81.3924
+11   69.9918 4.74973 24.3331 0.925378
+12   2.42223 0.0118997 94.9481 2.61777
+13   96.3005 2.69298 0.0575198 0.948994
+14   95.8858 0.931725 0.900611 2.28191
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1078
+CC  accession: M08580_2.00
+CC  AC: M08580_2.00
+CC  id: M08580_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1078
+XX
+//
+AC  M08581_2.00
+XX
+ID  MGA1
+XX
+DE  MGA1
+P0       A     C     G     T
+1    14.4953 21.6897 29.5433 34.2717
+2    28.5698 10.5266 16.8379 44.0656
+3    25.7456 22.9976 7.09327 44.1636
+4    34.2346 9.75539 26.8295 29.1805
+5    26.031 8.45453 35.3365 30.178
+6    41.9419 19.5813 18.0833 20.3935
+7    35.515 7.04736 50.5913 6.84629
+8    3.29114 8.27397 3.98661 84.4483
+9    15.6624 1.57939 81.5522 1.20606
+10   0.576839 0.201853 0.205504 99.0158
+11   0.298155 0.390673 0.21667 99.0945
+12   0.258901 98.9258 0.219467 0.595783
+13   0.266078 9.83104 19.7151 70.1878
+14   53.1732 16.6048 11.0091 19.2128
+15   1.11887 19.8174 0.311318 78.7524
+16   44.8674 23.047 20.4732 11.6123
+17   27.3071 19.4184 28.0394 25.2351
+18   15.4495 30.6966 17.1074 36.7465
+19   17.2411 31.8892 26.8372 24.0324
+20   19.4235 37.6159 12.4108 30.5497
+21   31.7149 20.664 9.18099 38.44
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1079
+CC  accession: M08581_2.00
+CC  AC: M08581_2.00
+CC  id: M08581_2.00
+CC  name: MGA1
+CC  version: 
+CC  name: MGA1
+CC  description: MGA1
+CC  transfac_consensus: 
+CC  matrix.nb: 1079
+XX
+//
+AC  M08582_2.00
+XX
+ID  SKN7
+XX
+DE  SKN7
+P0       A     C     G     T
+1    5.39461 4.7952 83.9161 5.89411
+2      8.4    42  27.9  21.7
+3      3.2  87.4   4.2   5.2
+4      5.4  31.3  30.9  32.4
+5     20.2  31.4  36.3  12.1
+6      3.5   7.2  87.6   1.7
+7     10.1  42.5  42.8   4.6
+8      2.2  91.3     3   3.5
+9    10.8108 59.3594 20.02 9.80981
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1080
+CC  accession: M08582_2.00
+CC  AC: M08582_2.00
+CC  id: M08582_2.00
+CC  name: SKN7
+CC  version: 
+CC  name: SKN7
+CC  description: SKN7
+CC  transfac_consensus: 
+CC  matrix.nb: 1080
+XX
+//
+AC  M08583_2.00
+XX
+ID  SKN7
+XX
+DE  SKN7
+P0       A     C     G     T
+1    0.0961538 0.0961538 99.7115 0.0961538
+2    0.0961538 0.0961538 99.7115 0.0961538
+3    0.0961538 99.7115 0.0961538 0.0961538
+4    0.0961538 83.5577 16.25 0.0961538
+5    48.5577 14.7115 36.6346 0.0961538
+6    20.8654 17.7885 29.3269 32.0192
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1081
+CC  accession: M08583_2.00
+CC  AC: M08583_2.00
+CC  id: M08583_2.00
+CC  name: SKN7
+CC  version: 
+CC  name: SKN7
+CC  description: SKN7
+CC  transfac_consensus: 
+CC  matrix.nb: 1081
+XX
+//
+AC  M08584_2.00
+XX
+ID  HMS2
+XX
+DE  HMS2
+P0       A     C     G     T
+1       40     0     0    60
+2        0     0   100     0
+3      100     0     0     0
+4      100     0     0     0
+5        0     0   100     0
+6        0     0   100     0
+7      100     0     0     0
+8       80     0     0    20
+9      100     0     0     0
+10       0    20    40    40
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1082
+CC  accession: M08584_2.00
+CC  AC: M08584_2.00
+CC  id: M08584_2.00
+CC  name: HMS2
+CC  version: 
+CC  name: HMS2
+CC  description: HMS2
+CC  transfac_consensus: 
+CC  matrix.nb: 1082
+XX
+//
+AC  M08585_2.00
+XX
+ID  SFL1
+XX
+DE  SFL1
+P0       A     C     G     T
+1    1.19036 1.19036 96.4289 1.19036
+2    96.4289 1.19036 1.19036 1.19036
+3    96.4289 1.19036 1.19036 1.19036
+4    1.19036 1.19036 96.4289 1.19036
+5    1.19036 96.4289 1.19036 1.19036
+6    1.19036 1.19036 1.19036 96.4289
+7    1.19036 1.19036 1.19036 96.4289
+8    1.19036 96.4289 1.19036 1.19036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1083
+CC  accession: M08585_2.00
+CC  AC: M08585_2.00
+CC  id: M08585_2.00
+CC  name: SFL1
+CC  version: 
+CC  name: SFL1
+CC  description: SFL1
+CC  transfac_consensus: 
+CC  matrix.nb: 1083
+XX
+//
+AC  M08586_2.00
+XX
+ID  SFL1
+XX
+DE  SFL1
+P0       A     C     G     T
+1    39.5912 7.22771 12.1986 40.9825
+2    36.045 14.6646 12.3275 36.9629
+3    40.1023 9.97127 6.78488 43.1415
+4    19.3185 21.7697 9.61533 49.2965
+5    44.0304 14.6517 15.6507 25.6672
+6    19.4425 4.84127 22.1864 53.5298
+7    23.2712 3.64609 13.4405 59.6422
+8    3.60465 21.819 12.9732 61.6031
+9    12.3488 80.6535 4.76518 2.23248
+10   0.926867 2.19814 0.915882 95.9591
+11   2.14012 0.552335 1.62547 95.6821
+12   1.09769 96.0038 1.02594 1.8726
+13   0.6176 22.601 26.1183 50.6631
+14   58.6414 10.8176 17.8049 12.7361
+15   11.8171 12.4116 3.05771 72.7136
+16   21.2182 19.8174 22.1088 36.8556
+17   23.7491 34.9635 9.8069 31.4805
+18   24.4391 11.7232 25.6129 38.2247
+19   14.1584 33.2372 24.4366 28.1678
+20   24.4759 12.4163 26.2591 36.8487
+21   41.4067 13.0361 18.3127 27.2445
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1084
+CC  accession: M08586_2.00
+CC  AC: M08586_2.00
+CC  id: M08586_2.00
+CC  name: SFL1
+CC  version: 
+CC  name: SFL1
+CC  description: SFL1
+CC  transfac_consensus: 
+CC  matrix.nb: 1084
+XX
+//
+AC  M08587_2.00
+XX
+ID  SMP1
+XX
+DE  SMP1
+P0       A     C     G     T
+1    11.1035 24.4325 23.5182 40.9458
+2    18.9841 18.8299 26.5821 35.6039
+3    56.9017 9.76289 13.7159 19.6195
+4    8.54174 55.4009 15.8587 20.1987
+5    17.974 62.3403 4.74448 14.9412
+6    13.0193 14.7261 8.53757 63.717
+7    40.8892 12.8639 11.2232 35.0237
+8    9.74274 23.4068 3.39116 63.4593
+9    75.0868 12.5165 4.60026 7.79649
+10   86.5617 1.83784 1.87979 9.72069
+11   9.72069 1.87979 1.83784 86.5617
+12   7.79649 4.60026 12.5165 75.0868
+13   63.4593 3.39116 23.4068 9.74274
+14   49.5841 4.10158 6.05975 40.2545
+15   63.717 8.53757 14.7261 13.0193
+16   19.6999 26.2911 14.6775 39.3314
+17   17.4056 27.5034 27.15 27.9409
+18   52.5089 10.4155 10.1553 26.9202
+19   15.634 29.0116 45.586 9.76837
+20   24.9418 38.1034 20.1074 16.8474
+21   33.6249 17.2952 22.927 26.1529
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1085
+CC  accession: M08587_2.00
+CC  AC: M08587_2.00
+CC  id: M08587_2.00
+CC  name: SMP1
+CC  version: 
+CC  name: SMP1
+CC  description: SMP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1085
+XX
+//
+AC  M08588_2.00
+XX
+ID  ARG80
+XX
+DE  ARG80
+P0       A     C     G     T
+1    21.8218 30.03 27.1271 21.021
+2     19.3  31.6  32.7  16.4
+3       25    10    34    31
+4     24.3  36.6  26.8  12.3
+5      1.8  92.9   2.4   2.9
+6    9.59041 21.978 25.7742 42.6573
+7     32.8  32.6  14.7  19.9
+8     23.9  28.3  35.5  12.3
+9    2.2977 29.5704 32.1678 35.964
+10   34.965 10.1898 37.2627 17.5824
+11    24.8  35.5  16.8  22.9
+12   5.20521 6.00601 83.6837 5.10511
+13    22.9  13.3  56.4   7.4
+14    54.1  19.9  10.2  15.8
+15   79.5205 8.79121 8.59141 3.0969
+16      62  10.1  24.4   3.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1086
+CC  accession: M08588_2.00
+CC  AC: M08588_2.00
+CC  id: M08588_2.00
+CC  name: ARG80
+CC  version: 
+CC  name: ARG80
+CC  description: ARG80
+CC  transfac_consensus: 
+CC  matrix.nb: 1086
+XX
+//
+AC  M08589_2.00
+XX
+ID  MCM1
+XX
+DE  MCM1
+P0       A     C     G     T
+1    24.7387 15.9698 11.1426 48.1488
+2    16.738 27.5851 31.4154 24.2614
+3    16.9124 20.4936 10.23 52.364
+4    8.94356 8.45523 16.1973 66.4039
+5    17.0372 3.36688 12.9287 66.6672
+6    13.0139 80.8174 0.938277 5.23041
+7    1.11048 81.2592 0.723264 16.9071
+8    12.1686 40.5354 24.3077 22.9883
+9    60.1855 7.62697 17.1089 15.0786
+10   66.3071 0.710375 3.56973 29.4128
+11   29.4128 3.56973 0.710375 66.3071
+12   15.0786 17.1089 7.62697 60.1855
+13   16.9982 44.3223 27.0397 11.6398
+14   16.9071 0.723264 81.2592 1.11048
+15   5.23041 0.938277 80.8174 13.0139
+16   72.1932 9.33475 10.3155 8.15652
+17   47.9693 29.1824 8.09041 14.7579
+18   54.7301 6.60683 21.6109 17.0522
+19   17.6817 31.744 10.8132 39.7611
+20   24.7463 23.5867 26.2819 25.3851
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1087
+CC  accession: M08589_2.00
+CC  AC: M08589_2.00
+CC  id: M08589_2.00
+CC  name: MCM1
+CC  version: 
+CC  name: MCM1
+CC  description: MCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1087
+XX
+//
+AC  M08590_2.00
+XX
+ID  RLM1
+XX
+DE  RLM1
+P0       A     C     G     T
+1    13.7255 52.9412 13.7255 19.6078
+2    1.96078 9.80392 5.88235 82.3529
+3    98.0392     0 1.96078     0
+4       54     0     0    46
+5       60     0     0    40
+6       68     0     0    32
+7       58     0     0    42
+8    7.84314 1.96078     0 90.1961
+9    96.0784     0 3.92157     0
+10   3.92157 3.92157 92.1569     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1088
+CC  accession: M08590_2.00
+CC  AC: M08590_2.00
+CC  id: M08590_2.00
+CC  name: RLM1
+CC  version: 
+CC  name: RLM1
+CC  description: RLM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1088
+XX
+//
+AC  M08591_2.00
+XX
+ID  HMLALPHA1,MATALPHA1
+XX
+DE  HMLALPHA1,MATALPHA1
+P0       A     C     G     T
+1    16.6667 16.6667 16.6667    50
+2        0     0     0   100
+3        0     0     0   100
+4        0   100     0     0
+5    16.6667    50 16.6667 16.6667
+6        0     0     0   100
+7       50 16.6667 16.6667 16.6667
+8      100     0     0     0
+9        0     0     0   100
+10       0     0     0   100
+11      50 16.6667 16.6667 16.6667
+12       0     0   100     0
+13   16.6667 16.6667 16.6667    50
+14      25    25    25    25
+15   16.6667    50 16.6667 16.6667
+16      50 16.6667 16.6667 16.6667
+17   16.6667 16.6667 16.6667    50
+18       0   100     0     0
+19     100     0     0     0
+20     100     0     0     0
+21       0     0     0   100
+22   16.6667 16.6667    50 16.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1089
+CC  accession: M08591_2.00
+CC  AC: M08591_2.00
+CC  id: M08591_2.00
+CC  name: HMLALPHA1,MATALPHA1
+CC  version: 
+CC  name: HMLALPHA1,MATALPHA1
+CC  description: HMLALPHA1,MATALPHA1
+CC  transfac_consensus: 
+CC  matrix.nb: 1089
+XX
+//
+AC  M08592_2.00
+XX
+ID  TOD6
+XX
+DE  TOD6
+P0       A     C     G     T
+1    36.2633 18.8776 21.8331 23.0261
+2    14.454 21.3057 36.9378 27.3025
+3    10.104 26.1938 37.0227 26.6794
+4    23.9152 32.7396 20.6692 22.676
+5    36.9306 11.696 23.5545 27.8189
+6    21.2274 36.6126 13.3513 28.8086
+7    64.9223 5.07702 9.65187 20.3488
+8    6.78947 39.6768 43.635 9.89878
+9    2.07388 78.4232 19.3366 0.166368
+10   0.217773 2.97543 4.63489 92.1719
+11   0.221128 99.1716 0.237264 0.370042
+12   97.5877 0.0716377 0.17575 2.1649
+13   0.160127 0.114857 1.85659 97.8684
+14   0.0930504 97.892 0.161331 1.85364
+15   5.25029 1.99617 86.9929 5.76064
+16   13.5668 65.5521 18.6371 2.24398
+17   18.1059 30.032 38.3206 13.5416
+18   23.2197 28.211 10.9534 37.6158
+19   18.7039 28.0278 11.1075 42.1609
+20   30.6131 21.2996 17.2575 30.8298
+21   20.141 15.083 32.0413 32.7347
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1090
+CC  accession: M08592_2.00
+CC  AC: M08592_2.00
+CC  id: M08592_2.00
+CC  name: TOD6
+CC  version: 
+CC  name: TOD6
+CC  description: TOD6
+CC  transfac_consensus: 
+CC  matrix.nb: 1090
+XX
+//
+AC  M08593_2.00
+XX
+ID  REB1
+XX
+DE  REB1
+P0       A     C     G     T
+1    38.03  9.41 50.32  2.24
+2     0.53  0.32  0.32 98.83
+3     0.53  0.32  0.32 98.83
+4    98.83  0.32  0.32  0.53
+5    0.530053 98.6199 0.320032 0.530053
+6    0.530053 98.6199 0.320032 0.530053
+7    0.530053 98.6199 0.320032 0.530053
+8    0.530053 0.320032 92.3692 6.78068
+9    10.76 19.64 58.27 11.33
+10   44.2844 36.6837 6.0006 13.0313
+11   14.7415 35.5436 10.5411 39.1739
+12   20.42 10.54 25.89 43.15
+13   28.38 12.25  32.7 26.67
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1091
+CC  accession: M08593_2.00
+CC  AC: M08593_2.00
+CC  id: M08593_2.00
+CC  name: REB1
+CC  version: 
+CC  name: REB1
+CC  description: REB1
+CC  transfac_consensus: 
+CC  matrix.nb: 1091
+XX
+//
+AC  M08594_2.00
+XX
+ID  NSI1
+XX
+DE  NSI1
+P0       A     C     G     T
+1    99.9326 0.0174673 0.0174673 0.0324842
+2    0.0325263 99.9174 0.0175141 0.0325263
+3    0.032594 99.9174 0.0175141 0.0325263
+4    0.0325258 99.9161 0.0175139 0.0339071
+5    0.0325263 0.0175141 99.9174 0.0325263
+6    0.0325262 0.0176482 99.9173 0.0325262
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1092
+CC  accession: M08594_2.00
+CC  AC: M08594_2.00
+CC  id: M08594_2.00
+CC  name: NSI1
+CC  version: 
+CC  name: NSI1
+CC  description: NSI1
+CC  transfac_consensus: 
+CC  matrix.nb: 1092
+XX
+//
+AC  M08595_2.00
+XX
+ID  DOT6
+XX
+DE  DOT6
+P0       A     C     G     T
+1    27.8449 13.5779 23.1491 35.428
+2    19.4157 25.0238 26.6069 28.9536
+3    15.6446 33.2067 22.3748 28.7739
+4    13.1102 24.9399 26.8092 35.1407
+5    23.9797 8.57826 40.0493 27.3927
+6    14.1841 48.0552 14.5553 23.2053
+7    51.6422 5.97253 13.8431 28.5422
+8    7.96558 42.0594 39.2358 10.7392
+9    2.90239 77.0071 19.7676 0.322869
+10   0.604644 5.22924 8.33564 85.8305
+11   0.133568 99.072 0.497756 0.296665
+12   97.2526 0.0613622 0.135196 2.55088
+13   0.167602 0.0888713 2.77629 96.9672
+14   0.0910153 96.8835 0.133029 2.89242
+15   3.61956 0.933604 87.6172 7.82964
+16   22.3844 57.5758 17.7568 2.28296
+17   28.0176 26.5192 25.2107 20.2524
+18   18.8153 29.8287 7.20016 44.1559
+19   16.3536 43.5699 20.8726 19.2039
+20   15.3628 37.1599 18.3845 29.0928
+21   18.5498 14.9311 20.2929 46.2263
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1093
+CC  accession: M08595_2.00
+CC  AC: M08595_2.00
+CC  id: M08595_2.00
+CC  name: DOT6
+CC  version: 
+CC  name: DOT6
+CC  description: DOT6
+CC  transfac_consensus: 
+CC  matrix.nb: 1093
+XX
+//
+AC  M08596_2.00
+XX
+ID  BAS1
+XX
+DE  BAS1
+P0       A     C     G     T
+1    6.29371 0.4995 0.4995 92.7073
+2    0.799201 5.99401 92.4076 0.799201
+3    98.2018 0.4995 0.4995 0.799201
+4    0.799201 97.9021 0.4995 0.799201
+5    0.799201 0.4995 0.4995 98.2018
+6    0.799201 97.9021 0.4995 0.799201
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1094
+CC  accession: M08596_2.00
+CC  AC: M08596_2.00
+CC  id: M08596_2.00
+CC  name: BAS1
+CC  version: 
+CC  name: BAS1
+CC  description: BAS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1094
+XX
+//
+AC  M08597_2.00
+XX
+ID  TBF1
+XX
+DE  TBF1
+P0       A     C     G     T
+1       34     6    38    22
+2       40    26    12    22
+3        6    54     0    40
+4    12.766 65.9574 2.12766 19.1489
+5       86     0     0    14
+6       82     2    14     2
+7        0   100     0     0
+8        0   100     0     0
+9        0   100     0     0
+10       2     2     0    96
+11   85.7143 8.16327 4.08163 2.04082
+12   35.2941 21.5686 23.5294 19.6078
+13      12    38    28    22
+14   13.0435 30.4348 47.8261 8.69565
+15   26.087 23.913 41.3043 8.69565
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1095
+CC  accession: M08597_2.00
+CC  AC: M08597_2.00
+CC  id: M08597_2.00
+CC  name: TBF1
+CC  version: 
+CC  name: TBF1
+CC  description: TBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1095
+XX
+//
+AC  M08598_2.00
+XX
+ID  NDT80
+XX
+DE  NDT80
+P0       A     C     G     T
+1     16.9  23.7  25.3  34.1
+2    11.3113 8.50851 14.1141 66.0661
+3    15.7842 13.0869 23.0769 48.0519
+4    0.599401 1.998 0.999001 96.4036
+5    5.40541 2.1021 91.4915 1.001
+6      0.4   6.8   0.4  92.4
+7     12.5  12.5    71     4
+8     16.8   9.5   6.4  67.3
+9      8.2    64    20   7.8
+10     9.7  11.4  63.4  15.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1096
+CC  accession: M08598_2.00
+CC  AC: M08598_2.00
+CC  id: M08598_2.00
+CC  name: NDT80
+CC  version: 
+CC  name: NDT80
+CC  description: NDT80
+CC  transfac_consensus: 
+CC  matrix.nb: 1096
+XX
+//
+AC  M08599_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1     23.8     2  44.4  29.8
+2     44.8   0.4  50.2   4.6
+3      0.4   0.2  19.2  80.2
+4      0.8   0.9    97   1.3
+5      7.1  12.3   0.4  80.2
+6    51.4515 6.00601 33.033 9.50951
+7      4.2  27.7   0.4  67.7
+8    5.90591 0.4004 92.1922 1.5015
+9      0.4   0.9  86.3  12.4
+10    22.5   2.7  73.8     1
+11   1.2987 4.6953 5.39461 88.6114
+12     0.8   7.6  67.6    24
+13     8.6  20.3  11.4  59.7
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1097
+CC  accession: M08599_2.00
+CC  AC: M08599_2.00
+CC  id: M08599_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1097
+XX
+//
+AC  M08600_2.00
+XX
+ID  RFX1
+XX
+DE  RFX1
+P0       A     C     G     T
+1      4.7  69.4  18.1   7.8
+2      5.9  10.9  74.9   8.3
+3      1.4  10.2   1.3  87.1
+4    3.4034 24.024 10.9109 61.6617
+5     23.4   2.2    66   8.4
+6      5.1  53.5  19.9  21.5
+7        3  71.8   2.9  22.3
+8     72.3     6    19   2.7
+9      9.2  20.7   5.5  64.6
+10    20.6   5.4  70.2   3.8
+11   22.8228 1.2012 75.2753 0.700701
+12   4.8048 62.4625 12.7127 20.02
+13    65.1   6.2   4.8  23.9
+14    80.5   5.2  11.3     3
+15     2.3  85.1   6.4   6.2
+16    20.9  63.7   6.6   8.8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1098
+CC  accession: M08600_2.00
+CC  AC: M08600_2.00
+CC  id: M08600_2.00
+CC  name: RFX1
+CC  version: 
+CC  name: RFX1
+CC  description: RFX1
+CC  transfac_consensus: 
+CC  matrix.nb: 1098
+XX
+//
+AC  M08601_2.00
+XX
+ID  RFX1
+XX
+DE  RFX1
+P0       A     C     G     T
+1    11.5385 26.9231 42.3077 19.2308
+2        0     0   100     0
+3        0     0     0   100
+4        0     0     0   100
+5    30.7692     0 69.2308     0
+6        0   100     0     0
+7    1.92308 48.0769 1.92308 48.0769
+8    88.4615 3.84615 3.84615 3.84615
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1099
+CC  accession: M08601_2.00
+CC  AC: M08601_2.00
+CC  id: M08601_2.00
+CC  name: RFX1
+CC  version: 
+CC  name: RFX1
+CC  description: RFX1
+CC  transfac_consensus: 
+CC  matrix.nb: 1099
+XX
+//
+AC  M08602_2.00
+XX
+ID  MOT2
+XX
+DE  MOT2
+P0       A     C     G     T
+1    93.0147 1.83824 0.367647 4.77941
+2    0.367647 0.367647 0.367647 98.8971
+3    98.8971 0.367647 0.367647 0.367647
+4    0.367647 0.367647 0.367647 98.8971
+5    98.8971 0.367647 0.367647 0.367647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1100
+CC  accession: M08602_2.00
+CC  AC: M08602_2.00
+CC  id: M08602_2.00
+CC  name: MOT2
+CC  version: 
+CC  name: MOT2
+CC  description: MOT2
+CC  transfac_consensus: 
+CC  matrix.nb: 1100
+XX
+//
+AC  M08603_2.00
+XX
+ID  NHP6B
+XX
+DE  NHP6B
+P0       A     C     G     T
+1    18.2042 30.442 9.93513 41.4187
+2    21.7012 22.5209 21.655 34.1229
+3    13.5553 10.8932 10.7984 64.7532
+4    37.6644 20.8833 7.7882 33.6641
+5    19.5358 31.6234 11.1897 37.6511
+6    15.4774 31.7516 14.3266 38.4444
+7    39.3811 6.98981 2.62029 51.0088
+8    57.8521 8.99026 5.19522 27.9624
+9    16.9071 6.56603 1.61366 74.9132
+10   80.7796 3.27996 6.70792 9.23251
+11   9.23251 6.70792 3.27996 80.7796
+12   74.9132 1.61366 6.56603 16.9071
+13   27.9624 5.19522 8.99026 57.8521
+14   51.0088 2.62029 6.98981 39.3811
+15   46.1269 9.65935 12.1822 32.0316
+16   37.2446 10.6653 11.1807 40.9094
+17   46.587 8.42023 33.6242 11.3686
+18   20.2821 16.0353 30.2688 33.4137
+19   28.7801 12.0317 33.9173 25.2709
+20   28.7291 25.745 25.2875 20.2385
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1101
+CC  accession: M08603_2.00
+CC  AC: M08603_2.00
+CC  id: M08603_2.00
+CC  name: NHP6B
+CC  version: 
+CC  name: NHP6B
+CC  description: NHP6B
+CC  transfac_consensus: 
+CC  matrix.nb: 1101
+XX
+//
+AC  M08604_2.00
+XX
+ID  NHP10
+XX
+DE  NHP10
+P0       A     C     G     T
+1      7.5  17.5   7.5  67.5
+2        0   100     0     0
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0     0   100     0
+7      7.5   7.5  77.5   7.5
+8       10    60    10    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1102
+CC  accession: M08604_2.00
+CC  AC: M08604_2.00
+CC  id: M08604_2.00
+CC  name: NHP10
+CC  version: 
+CC  name: NHP10
+CC  description: NHP10
+CC  transfac_consensus: 
+CC  matrix.nb: 1102
+XX
+//
+AC  M08605_2.00
+XX
+ID  ABF2
+XX
+DE  ABF2
+P0       A     C     G     T
+1    1.78571 1.78571 1.78571 94.6429
+2        0   100     0     0
+3        0     0     0   100
+4      100     0     0     0
+5        0     0   100     0
+6    80.3571 1.78571 8.92857 8.92857
+7    17.8571    25 39.2857 17.8571
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1103
+CC  accession: M08605_2.00
+CC  AC: M08605_2.00
+CC  id: M08605_2.00
+CC  name: ABF2
+CC  version: 
+CC  name: ABF2
+CC  description: ABF2
+CC  transfac_consensus: 
+CC  matrix.nb: 1103
+XX
+//
+AC  M08606_2.00
+XX
+ID  NHP6A
+XX
+DE  NHP6A
+P0       A     C     G     T
+1    28.4338 9.68513 28.9397 32.9414
+2    22.432 31.471 14.7316 31.3653
+3    43.4483 12.4153 15.4889 28.6476
+4    29.9819 17.2232 11.1032 41.6917
+5    34.6355 13.8864 13.8822 37.5959
+6    34.8388 13.7406 13.6575 37.7631
+7    16.6573 15.3277 3.01087 65.0041
+8    21.6231 2.08195 1.68189 74.6131
+9    87.1511 2.85794 4.27857 5.71243
+10   9.23234 4.38666 1.62632 84.7547
+11   83.5329 0.836369 2.96747 12.6633
+12   5.86646 2.67004 1.07361 90.3899
+13   85.5348 0.646807 2.40725 11.4112
+14   19.3828 6.43317 25.0646 49.1194
+15   45.8139 7.15948 13.0593 33.9674
+16   32.907 4.91633 51.6863 10.4903
+17   28.1453 9.94699 33.3862 28.5215
+18   25.5764 15.1531 21.2293 38.0412
+19   29.8959 31.1527 15.3188 23.6326
+20   45.6391 8.34791 21.7338 24.2792
+21   20.0129 21.4235 27.9428 30.6208
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1104
+CC  accession: M08606_2.00
+CC  AC: M08606_2.00
+CC  id: M08606_2.00
+CC  name: NHP6A
+CC  version: 
+CC  name: NHP6A
+CC  description: NHP6A
+CC  transfac_consensus: 
+CC  matrix.nb: 1104
+XX
+//
+AC  M08607_2.00
+XX
+ID  ROX1
+XX
+DE  ROX1
+P0       A     C     G     T
+1    6.5845 39.8927 25.4087 28.1141
+2    11.4346 22.8808 11.9723 53.7122
+3    88.5805 0.121773 0.0885805 11.2092
+4    2.36021 0.667586 0.0968753 96.8753
+5    1.49329 0.0968904 1.51938 96.8904
+6    6.41077 6.75912 86.7434 0.0867434
+7    3.45388 0.796645 0.0956538 95.6538
+8    13.5135 25.9882 32.5552 27.943
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1105
+CC  accession: M08607_2.00
+CC  AC: M08607_2.00
+CC  id: M08607_2.00
+CC  name: ROX1
+CC  version: 
+CC  name: ROX1
+CC  description: ROX1
+CC  transfac_consensus: 
+CC  matrix.nb: 1105
+XX
+//
+AC  M08608_2.00
+XX
+ID  STE12
+XX
+DE  STE12
+P0       A     C     G     T
+1    9.39061 16.2837 5.19481 69.1309
+2    4.7047 0.600601 91.992 2.7027
+3      3.6   3.3   0.8  92.3
+4    4.1041 5.20521 3.003 87.6877
+5      6.5   3.6   4.4  85.5
+6    2.8971 78.9211 5.19481 12.987
+7     80.9     4   7.5   7.6
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1106
+CC  accession: M08608_2.00
+CC  AC: M08608_2.00
+CC  id: M08608_2.00
+CC  name: STE12
+CC  version: 
+CC  name: STE12
+CC  description: STE12
+CC  transfac_consensus: 
+CC  matrix.nb: 1106
+XX
+//
+AC  M08609_2.00
+XX
+ID  SPT15
+XX
+DE  SPT15
+P0       A     C     G     T
+1    28.6371 27.0884 19.3837 24.8908
+2    30.1021 17.2576 17.6397 35.0006
+3    12.1658 38.3999 22.8247 26.6096
+4    11.2231 36.9687 38.0802 13.728
+5    48.3248 12.9197 12.2748 26.4806
+6    65.7135 9.43762 6.21646 18.6324
+7    8.11767 2.49132 1.00752 88.3835
+8    94.7483 0.331348 0.4462 4.47411
+9    2.07983 0.601918 0.225342 97.0929
+10   95.4667 0.517672 0.186526 3.82915
+11   1.20064 0.438967 0.241747 98.1186
+12   95.5608 2.38488 0.785493 1.26885
+13   5.90851 2.59269 0.791603 90.7072
+14   52.9666 2.73321 11.0816 33.2186
+15   24.7765 26.6325 19.8825 28.7085
+16   8.44102 70.1617 9.86462 11.5326
+17   16.0199 15.4641 13.9664 54.5495
+18   48.4821 15.4575 20.0315 16.0289
+19   31.3301 8.80624 34.5476 25.3161
+20   32.3596 14.7499 19.1203 33.7701
+21   8.42365 38.6874 25.0994 27.7896
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1107
+CC  accession: M08609_2.00
+CC  AC: M08609_2.00
+CC  id: M08609_2.00
+CC  name: SPT15
+CC  version: 
+CC  name: SPT15
+CC  description: SPT15
+CC  transfac_consensus: 
+CC  matrix.nb: 1107
+XX
+//
+AC  M08610_2.00
+XX
+ID  TEC1
+XX
+DE  TEC1
+P0       A     C     G     T
+1    15.4221 23.3846 24.9556 36.2377
+2    31.2277 19.4825 26.2203 23.0695
+3    14.4596 19.7115 31.7231 34.1058
+4    33.7544 18.9815 31.4342 15.8298
+5    26.0307 14.0605 16.184 43.7248
+6    12.8847 56.3246 16.3986 14.3921
+7    58.0278 1.28107 39.9204 0.770742
+8    50.7957 0.810436 48.2371 0.156738
+9    1.13875 0.74533 98.0815 0.0344128
+10   94.8394 0.174219 0.0430935 4.94331
+11   98.448 0.0818214 0.0967648 1.37336
+12   0.151319 3.46995 0.0654011 96.3133
+13   0.0904161 0.249608 91.7028 7.95722
+14   1.07401 22.5485 0.989012 75.3885
+15   20.7829 7.34315 21.8635 50.0105
+16   21.0664 19.8437 43.0781 16.0117
+17   26.444 18.7605 35.362 19.4335
+18   21.4884 16.6543 20.2985 41.5587
+19   22.8201 13.8415 26.3876 36.9507
+20   27.6889 13.0368 30.2434 29.031
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1108
+CC  accession: M08610_2.00
+CC  AC: M08610_2.00
+CC  id: M08610_2.00
+CC  name: TEC1
+CC  version: 
+CC  name: TEC1
+CC  description: TEC1
+CC  transfac_consensus: 
+CC  matrix.nb: 1108
+XX
+//
+AC  M08611_2.00
+XX
+ID  KAR4
+XX
+DE  KAR4
+P0       A     C     G     T
+1    90.9091     0 9.09091     0
+2    63.6364 36.3636     0     0
+3    36.3636 27.2727 18.1818 18.1818
+4    45.4545 18.1818 9.09091 27.2727
+5    9.09091 72.7273 18.1818     0
+6      100     0     0     0
+7      100     0     0     0
+8      100     0     0     0
+9    54.5455 18.1818 18.1818 9.09091
+10   45.4545 9.09091 18.1818 27.2727
+11       0   100     0     0
+12   27.2727 27.2727     0 45.4545
+13       0 9.09091 90.9091     0
+14   9.09091 27.2727 36.3636 27.2727
+15       0 63.6364     0 36.3636
+16       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1109
+CC  accession: M08611_2.00
+CC  AC: M08611_2.00
+CC  id: M08611_2.00
+CC  name: KAR4
+CC  version: 
+CC  name: KAR4
+CC  description: KAR4
+CC  transfac_consensus: 
+CC  matrix.nb: 1109
+XX
+//
+AC  M08612_2.00
+XX
+ID  FYV5
+XX
+DE  FYV5
+P0       A     C     G     T
+1      100     0     0     0
+2        0     0     0   100
+3      100     0     0     0
+4        0     0     0   100
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11      25    25    25    25
+12      25    25    25    25
+13      25    25    25    25
+14      25    25    25    25
+15      25    25    25    25
+16      25    25    25    25
+17      25    25    25    25
+18     100     0     0     0
+19       0   100     0     0
+20     100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1110
+CC  accession: M08612_2.00
+CC  AC: M08612_2.00
+CC  id: M08612_2.00
+CC  name: FYV5
+CC  version: 
+CC  name: FYV5
+CC  description: FYV5
+CC  transfac_consensus: 
+CC  matrix.nb: 1110
+XX
+//
+AC  M08613_2.00
+XX
+ID  PDC2
+XX
+DE  PDC2
+P0       A     C     G     T
+1       50     0     0    50
+2    41.6667 16.6667     0 41.6667
+3        0     0     0   100
+4      100     0     0     0
+5        0     0     0   100
+6      100     0     0     0
+7        0     0     0   100
+8        0     0   100     0
+9        0     0     0   100
+10   91.6667 8.33333     0     0
+11   16.6667 16.6667 8.33333 58.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1111
+CC  accession: M08613_2.00
+CC  AC: M08613_2.00
+CC  id: M08613_2.00
+CC  name: PDC2
+CC  version: 
+CC  name: PDC2
+CC  description: PDC2
+CC  transfac_consensus: 
+CC  matrix.nb: 1111
+XX
+//
+AC  M08614_2.00
+XX
+ID  STB3
+XX
+DE  STB3
+P0       A     C     G     T
+1    9.85504 16.8791 54.6864 18.5795
+2    16.6948 17.3139 20.2689 45.7223
+3    18.2808 41.5976 5.79694 34.3246
+4    19.4335 37.9716 10.7312 31.8638
+5    50.7409 5.95793 18.9551 24.346
+6    54.7521 12.0065 15.1028 18.1386
+7    77.6343 3.56742 7.18935 11.6089
+8    49.9625 2.71615 3.30468 44.0167
+9    9.96211 1.12994 0.221207 88.6867
+10   5.31139 0.569378 0.194834 93.9244
+11   1.05512 0.483209 0.216531 98.2451
+12   1.3777 0.0684321 1.53681 97.0171
+13   0.0673392 6.4122 2.01261 91.5079
+14   0.34064 99.0189 0.208648 0.431816
+15   96.5012 0.706709 2.53252 0.259542
+16   15.0845 58.7578 8.43012 17.7276
+17   12.9354 12.0372 13.7219 61.3054
+18   16.6916 32.6777 20.0265 30.6041
+19   30.8768 25.3019 12.5517 31.2696
+20   23.3894 17.0548 31.5313 28.0245
+21   22.6786 18.2924 29.6412 29.3879
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1112
+CC  accession: M08614_2.00
+CC  AC: M08614_2.00
+CC  id: M08614_2.00
+CC  name: STB3
+CC  version: 
+CC  name: STB3
+CC  description: STB3
+CC  transfac_consensus: 
+CC  matrix.nb: 1112
+XX
+//
+AC  M08615_2.00
+XX
+ID  HEL2
+XX
+DE  HEL2
+P0       A     C     G     T
+1    16.6667     0     0 83.3333
+2    16.6667     0     0 83.3333
+3        0     0 83.3333 16.6667
+4        0     0   100     0
+5    83.3333     0     0 16.6667
+6        0     0     0   100
+7        0 83.3333     0 16.6667
+8        0     0   100     0
+9    16.6667 33.3333     0    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1113
+CC  accession: M08615_2.00
+CC  AC: M08615_2.00
+CC  id: M08615_2.00
+CC  name: HEL2
+CC  version: 
+CC  name: HEL2
+CC  description: HEL2
+CC  transfac_consensus: 
+CC  matrix.nb: 1113
+XX
+//
+AC  M08616_2.00
+XX
+ID  SNF1
+XX
+DE  SNF1
+P0       A     C     G     T
+1        0     0     0   100
+2        0     0    10    90
+3        0    20     0    80
+4        0    90    10     0
+5       20    10     0    70
+6       10     0     0    90
+7       20    10    10    60
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1114
+CC  accession: M08616_2.00
+CC  AC: M08616_2.00
+CC  id: M08616_2.00
+CC  name: SNF1
+CC  version: 
+CC  name: SNF1
+CC  description: SNF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1114
+XX
+//
+AC  M08617_2.00
+XX
+ID  JHD1
+XX
+DE  JHD1
+P0       A     C     G     T
+1    1.2172 0.0237238 0.0191499 98.7399
+2    0.38708 0.0193385 0.019165 99.5744
+3    15.3504 84.1048 0.0224851 0.52239
+4    0.52239 0.0224851 84.1048 15.3504
+5    99.5744 0.019165 0.0193385 0.38708
+6    98.7399 0.0191499 0.0237238 1.2172
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1115
+CC  accession: M08617_2.00
+CC  AC: M08617_2.00
+CC  id: M08617_2.00
+CC  name: JHD1
+CC  version: 
+CC  name: JHD1
+CC  description: JHD1
+CC  transfac_consensus: 
+CC  matrix.nb: 1115
+XX
+//
+AC  M08618_2.00
+XX
+ID  ARG5,6
+XX
+DE  ARG5,6
+P0       A     C     G     T
+1        0     0   100     0
+2        0    75    25     0
+3       25     0    25    50
+4     62.5  37.5     0     0
+5       50    25  12.5  12.5
+6      100     0     0     0
+7     37.5  62.5     0     0
+8        0     0    75    25
+9        0     0   100     0
+10    12.5  87.5     0     0
+11       0     0  62.5  37.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1116
+CC  accession: M08618_2.00
+CC  AC: M08618_2.00
+CC  id: M08618_2.00
+CC  name: ARG5,6
+CC  version: 
+CC  name: ARG5,6
+CC  description: ARG5,6
+CC  transfac_consensus: 
+CC  matrix.nb: 1116
+XX
+//
+AC  M08619_2.00
+XX
+ID  FLO8
+XX
+DE  FLO8
+P0       A     C     G     T
+1        0     0   100     0
+2        0   100     0     0
+3      100     0     0     0
+4      100     0     0     0
+5      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1117
+CC  accession: M08619_2.00
+CC  AC: M08619_2.00
+CC  id: M08619_2.00
+CC  name: FLO8
+CC  version: 
+CC  name: FLO8
+CC  description: FLO8
+CC  transfac_consensus: 
+CC  matrix.nb: 1117
+XX
+//
+AC  M08620_2.00
+XX
+ID  SPT2
+XX
+DE  SPT2
+P0       A     C     G     T
+1    33.3333 14.2857 42.8571 9.52381
+2      100     0     0     0
+3    85.7143     0     0 14.2857
+4    95.2381 4.7619     0     0
+5    4.7619     0     0 95.2381
+6    4.7619     0 61.9048 33.3333
+7      100     0     0     0
+8    85.7143     0     0 14.2857
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1118
+CC  accession: M08620_2.00
+CC  AC: M08620_2.00
+CC  id: M08620_2.00
+CC  name: SPT2
+CC  version: 
+CC  name: SPT2
+CC  description: SPT2
+CC  transfac_consensus: 
+CC  matrix.nb: 1118
+XX
+//
+AC  M08621_2.00
+XX
+ID  OTU1
+XX
+DE  OTU1
+P0       A     C     G     T
+1    93.75     0     0  6.25
+2    66.6667     0     0 33.3333
+3    95.8333     0     0 4.16667
+4    4.16667     0 29.1667 66.6667
+5      100     0     0     0
+6    54.1667 14.5833     0 31.25
+7    93.75     0     0  6.25
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1119
+CC  accession: M08621_2.00
+CC  AC: M08621_2.00
+CC  id: M08621_2.00
+CC  name: OTU1
+CC  version: 
+CC  name: OTU1
+CC  description: OTU1
+CC  transfac_consensus: 
+CC  matrix.nb: 1119
+XX
+//
+AC  M08622_2.00
+XX
+ID  SNT2
+XX
+DE  SNT2
+P0       A     C     G     T
+1    35.5609 9.90359 36.0256 18.5098
+2    31.0089 16.7181 18.9923 33.2806
+3    35.5596 8.76589 34.8938 20.7806
+4    3.61205 62.6198 1.14516 32.623
+5    0.0220713 0.0119491 99.9439 0.0220713
+6    0.0220255 0.0118995 99.9439 0.0221786
+7    0.0218885 99.9438 0.0124393 0.0218733
+8    0.0220713 0.011916 99.9439 0.0221019
+9    0.0220713 99.9439 0.0119243 0.0220866
+10   0.0198504 0.00875332 0.00890633 99.9625
+11   99.9637 0.00942079 0.00942079 0.0174495
+12   3.58975 31.2897 8.12077 56.9998
+13   0.0226062 96.3755 0.0121964 3.5897
+14   66.2274 8.76702 8.76702 16.2386
+15   35.5585 9.90293 9.90293 44.6356
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1120
+CC  accession: M08622_2.00
+CC  AC: M08622_2.00
+CC  id: M08622_2.00
+CC  name: SNT2
+CC  version: 
+CC  name: SNT2
+CC  description: SNT2
+CC  transfac_consensus: 
+CC  matrix.nb: 1120
+XX
+//
+AC  M08623_2.00
+XX
+ID  GTS1
+XX
+DE  GTS1
+P0       A     C     G     T
+1    0.0471362 1.02733 0.0200104 98.9055
+2    0.0422236 15.424 0.889526 83.6442
+3    2.34029 0.0238908 97.5859 0.0498828
+4    22.9229 3.58415 73.4469 0.0460937
+5    0.0387279 0.0284079 0.0255317 99.9073
+6    84.9272 0.0279321 0.0213602 15.0236
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1121
+CC  accession: M08623_2.00
+CC  AC: M08623_2.00
+CC  id: M08623_2.00
+CC  name: GTS1
+CC  version: 
+CC  name: GTS1
+CC  description: GTS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1121
+XX
+//
+AC  M08624_2.00
+XX
+ID  IME4
+XX
+DE  IME4
+P0       A     C     G     T
+1    16.9231 15.3846     0 67.6923
+2    1.53846     0     0 98.4615
+3    38.4615     0     0 61.5385
+4        0     0     0   100
+5    10.7692 61.5385 26.1538 1.53846
+6    41.5385 56.9231     0 1.53846
+7    4.61538     0     0 95.3846
+8    23.0769 6.15385 6.15385 64.6154
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1122
+CC  accession: M08624_2.00
+CC  AC: M08624_2.00
+CC  id: M08624_2.00
+CC  name: IME4
+CC  version: 
+CC  name: IME4
+CC  description: IME4
+CC  transfac_consensus: 
+CC  matrix.nb: 1122
+XX
+//
+AC  M08625_2.00
+XX
+ID  SPT10
+XX
+DE  SPT10
+P0       A     C     G     T
+1    38.9124 0.0406666 20.3803 40.6666
+2    2.15291 63.6618 17.785 16.4003
+3    5.06788 1.13304 13.5158 80.2832
+4    95.1546 0.0951546 4.65506 0.0951546
+5    6.32235 0.904035 2.07075 90.7029
+6    14.4788 60.7816 21.6914 3.04832
+7    43.0765 3.84128 7.84118 45.241
+8    3.93704 0.0958711 95.8711 0.095967
+9    11.8271 55.9758 32.141 0.0559758
+10   0.0998003 0.0999 0.0997006 99.7006
+11   0.255918 2.70551 96.6459 0.392672
+12   94.7889 5.02154 0.0947889 0.0947889
+13   0.0750997 11.9203 12.9049 75.0997
+14   23.5086 75.8683 0.0758683 0.547238
+15   28.7455 5.45547 36.0031 29.7959
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1123
+CC  accession: M08625_2.00
+CC  AC: M08625_2.00
+CC  id: M08625_2.00
+CC  name: SPT10
+CC  version: 
+CC  name: SPT10
+CC  description: SPT10
+CC  transfac_consensus: 
+CC  matrix.nb: 1123
+XX
+//
+AC  M08626_2.00
+XX
+ID  SPT23
+XX
+DE  SPT23
+P0       A     C     G     T
+1    59.6663 0.0321232 40.2456 0.0560106
+2    98.852 0.0938248 0.993859 0.0603375
+3    88.3429 0.0334223 8.38585 3.23786
+4    83.4845 0.057446 0.139598 16.3185
+5    2.88652 12.8727 0.240023 84.0007
+6    0.422487 46.3307 22.9734 30.2734
+7    67.8381 13.1222 6.96411 12.0756
+8    96.639 0.0293082 3.26809 0.063616
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1124
+CC  accession: M08626_2.00
+CC  AC: M08626_2.00
+CC  id: M08626_2.00
+CC  name: SPT23
+CC  version: 
+CC  name: SPT23
+CC  description: SPT23
+CC  transfac_consensus: 
+CC  matrix.nb: 1124
+XX
+//
+AC  M08627_2.00
+XX
+ID  HAP4
+XX
+DE  HAP4
+P0       A     C     G     T
+1    19.8906 16.504 18.0352 45.5701
+2    23.3974 30.3161 23.6704 22.6161
+3    25.3054 20.5363 31.7592 22.3991
+4    28.1488 23.5024 21.5518 26.7971
+5    30.4872 24.7072 20.8195 23.9862
+6    19.7397 20.8613 19.0902 40.3089
+7    11.1414 39.7419 9.0354 40.0813
+8    4.60399 4.96095 0.0580571 90.377
+9    15.1425 12.1364 65.7202 7.00087
+10   93.152 0.0114243 6.81752 0.0190181
+11   0.0168469 0.00920964 0.886603 99.0873
+12   1.83737 0.0194292 0.011894 98.1313
+13   1.42903 0.0155361 93.2332 5.32226
+14   2.89978 2.21864 94.8564 0.0251891
+15   19.7405 21.9146 12.7093 45.6356
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1125
+CC  accession: M08627_2.00
+CC  AC: M08627_2.00
+CC  id: M08627_2.00
+CC  name: HAP4
+CC  version: 
+CC  name: HAP4
+CC  description: HAP4
+CC  transfac_consensus: 
+CC  matrix.nb: 1125
+XX
+//
+AC  M08628_2.00
+XX
+ID  ORC1
+XX
+DE  ORC1
+P0       A     C     G     T
+1    81.8182     0 12.1212 6.06061
+2    78.7879 21.2121     0     0
+3    30.303 54.5455 15.1515     0
+4    45.4545     0     0 54.5455
+5      100     0     0     0
+6    87.8788     0 3.0303 9.09091
+7    96.9697     0 3.0303     0
+8    21.2121 42.4242 3.0303 33.3333
+9    78.7879     0 12.1212 9.09091
+10   12.1212     0     0 87.8788
+11   90.9091     0 6.06061 3.0303
+12   96.9697     0     0 3.0303
+13   96.9697     0     0 3.0303
+14   69.697 9.09091     0 21.2121
+15   90.9091     0     0 9.09091
+16   69.697 9.09091     0 21.2121
+17   54.5455     0 15.1515 30.303
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1126
+CC  accession: M08628_2.00
+CC  AC: M08628_2.00
+CC  id: M08628_2.00
+CC  name: ORC1
+CC  version: 
+CC  name: ORC1
+CC  description: ORC1
+CC  transfac_consensus: 
+CC  matrix.nb: 1126
+XX
+//
+AC  M08629_2.00
+XX
+ID  WAR1
+XX
+DE  WAR1
+P0       A     C     G     T
+1        0   100     0     0
+2        0   100     0     0
+3        0     0   100     0
+4       25    25    25    25
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11      25    25    25    25
+12      25    25    25    25
+13      25    25    25    25
+14      25    25    25    25
+15      25    25    25    25
+16      25    25    25    25
+17      25    25    25    25
+18      25    25    25    25
+19      25    25    25    25
+20      25    25    25    25
+21      25    25    25    25
+22      25    25    25    25
+23      25    25    25    25
+24      25    25    25    25
+25      25    25    25    25
+26      25    25    25    25
+27       0   100     0     0
+28       0     0   100     0
+29       0     0   100     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1127
+CC  accession: M08629_2.00
+CC  AC: M08629_2.00
+CC  id: M08629_2.00
+CC  name: WAR1
+CC  version: 
+CC  name: WAR1
+CC  description: WAR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1127
+XX
+//
+AC  M08630_2.00
+XX
+ID  DAT1
+XX
+DE  DAT1
+P0       A     C     G     T
+1      100     0     0     0
+2      100     0     0     0
+3      100     0     0     0
+4      100     0     0     0
+5      100     0     0     0
+6       25    25    25    25
+7      100     0     0     0
+8      100     0     0     0
+9      100     0     0     0
+10     100     0     0     0
+11     100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1128
+CC  accession: M08630_2.00
+CC  AC: M08630_2.00
+CC  id: M08630_2.00
+CC  name: DAT1
+CC  version: 
+CC  name: DAT1
+CC  description: DAT1
+CC  transfac_consensus: 
+CC  matrix.nb: 1128
+XX
+//
+AC  M08631_2.00
+XX
+ID  STB2
+XX
+DE  STB2
+P0       A     C     G     T
+1    2.94169 94.1166 4.06131e-06 2.94169
+2    2.94179e-06 2.94124e-06   100     0
+3    3.85333e-06 26.4697 73.5303     0
+4    3.85362e-06 3.50143e-06 94.1166 5.88338
+5    5.88237 8.82214 4.06061e-06 85.2955
+6    94.1176 3.50082e-06 3.50082e-06 5.88235
+7    85.2964 5.88134 8.82224     0
+8    35.2973 26.4687 23.5265 14.7075
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1129
+CC  accession: M08631_2.00
+CC  AC: M08631_2.00
+CC  id: M08631_2.00
+CC  name: STB2
+CC  version: 
+CC  name: STB2
+CC  description: STB2
+CC  transfac_consensus: 
+CC  matrix.nb: 1129
+XX
+//
+AC  M08632_2.00
+XX
+ID  RCO1
+XX
+DE  RCO1
+P0       A     C     G     T
+1    69.2308     0 7.69231 23.0769
+2    61.5385     0 38.4615     0
+3        0 38.4615     0 61.5385
+4        0 38.4615     0 61.5385
+5        0     0     0   100
+6        0 30.7692 61.5385 7.69231
+7    23.0769     0     0 76.9231
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1130
+CC  accession: M08632_2.00
+CC  AC: M08632_2.00
+CC  id: M08632_2.00
+CC  name: RCO1
+CC  version: 
+CC  name: RCO1
+CC  description: RCO1
+CC  transfac_consensus: 
+CC  matrix.nb: 1130
+XX
+//
+AC  M08633_2.00
+XX
+ID  MSS11
+XX
+DE  MSS11
+P0       A     C     G     T
+1        0     0   100     0
+2        0   100     0     0
+3      100     0     0     0
+4      100     0     0     0
+5      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1131
+CC  accession: M08633_2.00
+CC  AC: M08633_2.00
+CC  id: M08633_2.00
+CC  name: MSS11
+CC  version: 
+CC  name: MSS11
+CC  description: MSS11
+CC  transfac_consensus: 
+CC  matrix.nb: 1131
+XX
+//
+AC  M08634_2.00
+XX
+ID  THO2
+XX
+DE  THO2
+P0       A     C     G     T
+1     54.1     0  16.7  29.2
+2      100     0     0     0
+3    54.1542 12.5125     0 33.3333
+4      8.3     0  87.5   4.2
+5    62.5626 8.30831 8.30831 20.8208
+6    58.3584 8.30831 12.5125 20.8208
+7      4.2     0  95.8     0
+8     79.2     0     0  20.8
+9     83.3     0     0  16.7
+10   91.6917     0     0 8.30831
+11     100     0     0     0
+12     4.2     0   8.3  87.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1132
+CC  accession: M08634_2.00
+CC  AC: M08634_2.00
+CC  id: M08634_2.00
+CC  name: THO2
+CC  version: 
+CC  name: THO2
+CC  description: THO2
+CC  transfac_consensus: 
+CC  matrix.nb: 1132
+XX
+//
+AC  M08635_2.00
+XX
+ID  DAL82
+XX
+DE  DAL82
+P0       A     C     G     T
+1    85.3777 0.0469316 11.7591 2.81627
+2    95.9206 0.629241 0.396031 3.05414
+3    65.2293 3.36677 7.31249 24.0914
+4    36.9475 15.9371 24.5443 22.5711
+5    36.112 0.700919 9.61522 53.5719
+6    5.36913 12.7251 0.40799 81.4978
+7    13.5843 6.78233 76.2561 3.37729
+8    3.64352 59.7657 0.229449 36.3613
+9    6.65631 0.123933 93.1599 0.0598594
+10   20.4352 37.4501 10.0484 32.0662
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1133
+CC  accession: M08635_2.00
+CC  AC: M08635_2.00
+CC  id: M08635_2.00
+CC  name: DAL82
+CC  version: 
+CC  name: DAL82
+CC  description: DAL82
+CC  transfac_consensus: 
+CC  matrix.nb: 1133
+XX
+//
+AC  M08636_2.00
+XX
+ID  WTM1
+XX
+DE  WTM1
+P0       A     C     G     T
+1     62.5  12.5    25     0
+2        0     0    25    75
+3      100     0     0     0
+4       50  12.5     0  37.5
+5        0     0     0   100
+6     62.5     0  12.5    25
+7       75     0     0    25
+8       25     0     0    75
+9      100     0     0     0
+10    12.5     0     0  87.5
+11    12.5     0     0  87.5
+12    87.5     0     0  12.5
+13      25    75     0     0
+14    37.5    50     0  12.5
+15    62.5  12.5     0    25
+16      50     0     0    50
+17    12.5  12.5    25    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1134
+CC  accession: M08636_2.00
+CC  AC: M08636_2.00
+CC  id: M08636_2.00
+CC  name: WTM1
+CC  version: 
+CC  name: WTM1
+CC  description: WTM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1134
+XX
+//
+AC  M08637_2.00
+XX
+ID  UME1
+XX
+DE  UME1
+P0       A     C     G     T
+1       20     0 46.6667 33.3333
+2    76.6667     0 3.33333    20
+3      100     0     0     0
+4       90     0     0    10
+5        0     0 3.33333 96.6667
+6        0 46.6667 53.3333     0
+7    63.3333     0 26.6667    10
+8    93.3333     0     0 6.66667
+9       50     0    50     0
+10      40 6.66667 26.6667 26.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1135
+CC  accession: M08637_2.00
+CC  AC: M08637_2.00
+CC  id: M08637_2.00
+CC  name: UME1
+CC  version: 
+CC  name: UME1
+CC  description: UME1
+CC  transfac_consensus: 
+CC  matrix.nb: 1135
+XX
+//
+AC  M08638_2.00
+XX
+ID  SMK1
+XX
+DE  SMK1
+P0       A     C     G     T
+1    0.0430114 26.8433 30.1023 43.0114
+2    0.0662743 66.2743 13.4475 20.2119
+3    78.9335 20.3764 0.502727 0.187467
+4    98.7309 0.0987309 0.0987309 1.07163
+5    0.0997009 99.7009 0.0997009 0.0997009
+6    0.0958211 3.98721 0.0958211 95.8211
+7    27.9583 56.8635 11.4926 3.68555
+8    26.3205 0.284082 7.52906 65.8664
+9    29.1884 11.8993 54.3564 4.55594
+10   59.5727 24.9009 11.7441 3.78233
+11   38.2851 1.22931 56.7548 3.73089
+12   13.3482 13.5396 38.7335 34.3786
+13   13.3852 66.6396 9.65168 10.3235
+14   7.24576 7.40257 0.0853516 85.2663
+15   0.0606194 0.0605589 39.32 60.5589
+16   6.2921 0.857799 92.745 0.10508
+17   0.227058 62.1225 25.1131 12.5374
+18   9.75236 27.2761 8.382 54.5895
+19   50.5364 4.21722 0.882265 44.3641
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1136
+CC  accession: M08638_2.00
+CC  AC: M08638_2.00
+CC  id: M08638_2.00
+CC  name: SMK1
+CC  version: 
+CC  name: SMK1
+CC  description: SMK1
+CC  transfac_consensus: 
+CC  matrix.nb: 1136
+XX
+//
+AC  M08639_2.00
+XX
+ID  SUA7
+XX
+DE  SUA7
+P0       A     C     G     T
+1    74.8978 0.0251526 0.0251526 25.0519
+2    28.4714 9.65609 19.3122 42.5604
+3    44.6496 10.1301 30.2859 14.9345
+4    0.0371426 12.5465 87.3792 0.0371426
+5    0.0372206 99.8883 0.0372206 0.0372206
+6    0.037056 37.423 62.5029 0.037056
+7    0.0331367 66.9296 0.0331367 33.0041
+8    0.0350566 82.4717 0.0350566 17.4581
+9    0.0372206 99.8883 0.0372206 0.0372206
+10   0.0372206 99.8883 0.0372206 0.0372206
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1137
+CC  accession: M08639_2.00
+CC  AC: M08639_2.00
+CC  id: M08639_2.00
+CC  name: SUA7
+CC  version: 
+CC  name: SUA7
+CC  description: SUA7
+CC  transfac_consensus: 
+CC  matrix.nb: 1137
+XX
+//
+AC  M08640_2.00
+XX
+ID  VHR1
+XX
+DE  VHR1
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3      100     0     0     0
+4       25    25    25    25
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11      25    25    25    25
+12       0     0     0   100
+13       0     0   100     0
+14     100     0     0     0
+15       0     0     0   100
+16       0     0     0   100
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1138
+CC  accession: M08640_2.00
+CC  AC: M08640_2.00
+CC  id: M08640_2.00
+CC  name: VHR1
+CC  version: 
+CC  name: VHR1
+CC  description: VHR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1138
+XX
+//
+AC  M08641_2.00
+XX
+ID  OAF1
+XX
+DE  OAF1
+P0       A     C     G     T
+1    24.1758 20.2797 18.8811 36.6633
+2    1.7017 72.973 20.2202 5.10511
+3     12.3  26.2  51.8   9.7
+4      5.5  32.9    50  11.6
+5     17.9  42.4  20.6  19.1
+6     14.2  25.3  40.2  20.3
+7     19.9  46.2  13.8  20.1
+8     21.8    35    24  19.2
+9       18    23  23.3  35.7
+10    11.6  17.9    16  54.5
+11      13  51.1  18.3  17.6
+12    13.1  21.9  10.8  54.2
+13     8.2  47.4  19.2  25.2
+14      15  20.2  39.7  25.1
+15   11.9119 43.6436 13.3133 31.1311
+16   15.8841 36.963 35.6643 11.4885
+17   27.5275 28.9289 22.4224 21.1211
+18    22.3  17.8    39  20.9
+19   9.70971 40.4404 34.5345 15.3153
+20   36.036 17.8178 20.3203 25.8258
+21     5.7  69.9    21   3.4
+22   6.60661 77.8779 6.00601 9.50951
+23     6.5   8.1  81.3   4.1
+24    40.2  28.6  15.6  15.6
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1139
+CC  accession: M08641_2.00
+CC  AC: M08641_2.00
+CC  id: M08641_2.00
+CC  name: OAF1
+CC  version: 
+CC  name: OAF1
+CC  description: OAF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1139
+XX
+//
+AC  M08642_2.00
+XX
+ID  PDR3
+XX
+DE  PDR3
+P0       A     C     G     T
+1    25.0729 37.1482 23.1821 14.5968
+2    27.1187 26.6878 36.8868 9.30669
+3    0.0846406 84.6406 8.16069 7.11405
+4    0.09862 1.18273 98.62 0.09862
+5    6.48295 0.0933304 93.3304 0.0933304
+6    67.8084 12.4914 10.5756 9.12461
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1140
+CC  accession: M08642_2.00
+CC  AC: M08642_2.00
+CC  id: M08642_2.00
+CC  name: PDR3
+CC  version: 
+CC  name: PDR3
+CC  description: PDR3
+CC  transfac_consensus: 
+CC  matrix.nb: 1140
+XX
+//
+AC  M08643_2.00
+XX
+ID  PDR3
+XX
+DE  PDR3
+P0       A     C     G     T
+1     18.7   8.7   9.8  62.8
+2     12.6  79.1     6   2.3
+3    19.6196 28.028 7.20721 45.1451
+4        6   5.3  81.8   6.9
+5      3.4  84.2   6.2   6.2
+6    2.3976 11.7882 73.2268 12.5874
+7      3.6     4  88.4     4
+8     32.4    18  34.2  15.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1141
+CC  accession: M08643_2.00
+CC  AC: M08643_2.00
+CC  id: M08643_2.00
+CC  name: PDR3
+CC  version: 
+CC  name: PDR3
+CC  description: PDR3
+CC  transfac_consensus: 
+CC  matrix.nb: 1141
+XX
+//
+AC  M08644_2.00
+XX
+ID  EDS1
+XX
+DE  EDS1
+P0       A     C     G     T
+1    14.2857 52.381 14.2857 19.0476
+2        0     0   100     0
+3        0     0   100     0
+4      100     0     0     0
+5    76.1905     0     0 23.8095
+6    47.619 23.8095 9.52381 19.0476
+7      100     0     0     0
+8    82.1429 1.19048 1.19048 15.4762
+9    15.4762 20.2381 10.7143 53.5714
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1142
+CC  accession: M08644_2.00
+CC  AC: M08644_2.00
+CC  id: M08644_2.00
+CC  name: EDS1
+CC  version: 
+CC  name: EDS1
+CC  description: EDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1142
+XX
+//
+AC  M08645_2.00
+XX
+ID  TBS1
+XX
+DE  TBS1
+P0       A     C     G     T
+1    8.33333    75 8.33333 8.33333
+2        0     0   100     0
+3        0     0   100     0
+4    53.3333 13.3333 13.3333    20
+5    8.33333 8.33333 8.33333    75
+6    1.66667    95 1.66667 1.66667
+7    3.33333    90 3.33333 3.33333
+8        5     5 78.3333 11.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1143
+CC  accession: M08645_2.00
+CC  AC: M08645_2.00
+CC  id: M08645_2.00
+CC  name: TBS1
+CC  version: 
+CC  name: TBS1
+CC  description: TBS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1143
+XX
+//
+AC  M08646_2.00
+XX
+ID  ERT1
+XX
+DE  ERT1
+P0       A     C     G     T
+1    51.4706 10.2941 22.0588 16.1765
+2    5.88235 47.0588 5.88235 41.1765
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6      100     0     0     0
+7      100     0     0     0
+8    4.41176 63.2353 4.41176 27.9412
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1144
+CC  accession: M08646_2.00
+CC  AC: M08646_2.00
+CC  id: M08646_2.00
+CC  name: ERT1
+CC  version: 
+CC  name: ERT1
+CC  description: ERT1
+CC  transfac_consensus: 
+CC  matrix.nb: 1144
+XX
+//
+AC  M08647_2.00
+XX
+ID  THI2
+XX
+DE  THI2
+P0       A     C     G     T
+1     17.8  27.6  38.1  16.5
+2     16.4  65.9   4.6  13.1
+3    14.6853 15.3846 56.8432 13.0869
+4      7.1  13.5  61.3  18.1
+5    32.1321 16.016 35.9359 15.9159
+6       18  22.2  14.8    45
+7     15.5  23.3  27.6  33.6
+8     11.1  18.5  29.8  40.6
+9     18.8  21.3  18.8  41.1
+10      16    20  26.5  37.5
+11   10.6106 22.4224 19.8198 47.1471
+12   9.20921 14.4144 49.6496 26.7267
+13   24.1241 24.3243 31.1311 20.4204
+14      37  18.4  29.1  15.5
+15    14.9  46.5  16.7  21.9
+16    24.2  20.8    30    25
+17    12.1  74.7   5.8   7.4
+18   8.90891 72.6727 7.60761 10.8108
+19     1.4   4.2  87.8   6.6
+20    20.5  24.2   9.8  45.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1145
+CC  accession: M08647_2.00
+CC  AC: M08647_2.00
+CC  id: M08647_2.00
+CC  name: THI2
+CC  version: 
+CC  name: THI2
+CC  description: THI2
+CC  transfac_consensus: 
+CC  matrix.nb: 1145
+XX
+//
+AC  M08648_2.00
+XX
+ID  RDS1
+XX
+DE  RDS1
+P0       A     C     G     T
+1    1.31579 90.7895 1.31579 6.57895
+2        0 10.5263 89.4737     0
+3        0     0   100     0
+4        0 84.2105 15.7895     0
+5        0 94.7368 5.26316     0
+6        0 10.5263 89.4737     0
+7    31.5789 31.5789 31.5789 5.26316
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1146
+CC  accession: M08648_2.00
+CC  AC: M08648_2.00
+CC  id: M08648_2.00
+CC  name: RDS1
+CC  version: 
+CC  name: RDS1
+CC  description: RDS1
+CC  transfac_consensus: 
+CC  matrix.nb: 1146
+XX
+//
+AC  M08649_2.00
+XX
+ID  UGA3
+XX
+DE  UGA3
+P0       A     C     G     T
+1    10.4167 43.75 27.0833 18.75
+2    4.16667 29.1667  62.5 4.16667
+3        0     0   100     0
+4        0   100     0     0
+5        0     0   100     0
+6        0     0   100     0
+7    2.08333 27.0833 68.75 2.08333
+8    85.4167 2.08333 2.08333 10.4167
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1147
+CC  accession: M08649_2.00
+CC  AC: M08649_2.00
+CC  id: M08649_2.00
+CC  name: UGA3
+CC  version: 
+CC  name: UGA3
+CC  description: UGA3
+CC  transfac_consensus: 
+CC  matrix.nb: 1147
+XX
+//
+AC  M08650_2.00
+XX
+ID  UGA3
+XX
+DE  UGA3
+P0       A     C     G     T
+1    1.19036 96.4289 1.19036 1.19036
+2    1.19036 96.4289 1.19036 1.19036
+3    1.19036 1.19036 96.4289 1.19036
+4       25    25    25    25
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8    1.19036 96.4289 1.19036 1.19036
+9    1.19036 1.19036 96.4289 1.19036
+10   1.19036 1.19036 96.4289 1.19036
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1148
+CC  accession: M08650_2.00
+CC  AC: M08650_2.00
+CC  id: M08650_2.00
+CC  name: UGA3
+CC  version: 
+CC  name: UGA3
+CC  description: UGA3
+CC  transfac_consensus: 
+CC  matrix.nb: 1148
+XX
+//
+AC  M08651_2.00
+XX
+ID  LYS14
+XX
+DE  LYS14
+P0       A     C     G     T
+1       60     0     0    40
+2       60     0     0    40
+3        0     0     0   100
+4       10     0    10    80
+5        0   100     0     0
+6        0   100     0     0
+7       40    10    50     0
+8       20    30    40    10
+9       10    60     0    30
+10       0     0   100     0
+11       0     0   100     0
+12      60    10    20    10
+13      90     0     0    10
+14      30     0    10    60
+15      20    20     0    60
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1149
+CC  accession: M08651_2.00
+CC  AC: M08651_2.00
+CC  id: M08651_2.00
+CC  name: LYS14
+CC  version: 
+CC  name: LYS14
+CC  description: LYS14
+CC  transfac_consensus: 
+CC  matrix.nb: 1149
+XX
+//
+AC  M08652_2.00
+XX
+ID  LYS14
+XX
+DE  LYS14
+P0       A     C     G     T
+1    46.3355 10.2503 27.2419 16.1723
+2    25.874 12.5675 35.3183 26.2402
+3    30.1915 37.5783 13.3173 18.913
+4    23.2206 24.1236 41.1512 11.5046
+5    25.9161 45.7774 10.0863 18.2202
+6    38.6759 41.4314 18.1527 1.74001
+7    0.458849 98.4993 0.586179 0.455716
+8    0.221617 0.175665 99.3488 0.253937
+9    0.0991711 0.952574 98.7756 0.172666
+10   95.1348 0.100024 4.6453 0.119858
+11   99.0891 0.111754 0.156294 0.642852
+12   5.79995 0.170648 0.0680169 93.9614
+13   3.93281 1.10643 0.113139 94.8476
+14   15.4743 4.97607 1.08912 78.4606
+15   15.5065 25.4131 19.6582 39.4222
+16   12.2992 10.2238 47.7759 29.701
+17    31.5 24.0597 31.6935 12.7468
+18   21.4341 23.1615 39.4624 15.942
+19   29.7519 23.5043 18.557 28.1868
+20   27.3447 20.2525 28.4857 23.9171
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1150
+CC  accession: M08652_2.00
+CC  AC: M08652_2.00
+CC  id: M08652_2.00
+CC  name: LYS14
+CC  version: 
+CC  name: LYS14
+CC  description: LYS14
+CC  transfac_consensus: 
+CC  matrix.nb: 1150
+XX
+//
+AC  M08653_2.00
+XX
+ID  UME6
+XX
+DE  UME6
+P0       A     C     G     T
+1    18.75 43.75 18.75 18.75
+2    9.375 65.625 21.875 3.125
+3        0     0   100     0
+4        0   100     0     0
+5        0     0   100     0
+6        0 18.75 81.25     0
+7    1.5625 51.5625 7.8125 39.0625
+8    42.1875 10.9375 4.6875 42.1875
+9    56.25  12.5 18.75  12.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1151
+CC  accession: M08653_2.00
+CC  AC: M08653_2.00
+CC  id: M08653_2.00
+CC  name: UME6
+CC  version: 
+CC  name: UME6
+CC  description: UME6
+CC  transfac_consensus: 
+CC  matrix.nb: 1151
+XX
+//
+AC  M08654_2.00
+XX
+ID  UPC2
+XX
+DE  UPC2
+P0       A     C     G     T
+1    15.6931 25.2915 19.415 39.6005
+2    59.3216 2.7584 28.9317 8.9883
+3    37.8413 0.3065 0.298 61.5542
+4      100     0     0     0
+5        0   100     0     0
+6    0.511901 0.4597 98.572 0.4564
+7    82.8454 4.9279 8.57559 3.6511
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1152
+CC  accession: M08654_2.00
+CC  AC: M08654_2.00
+CC  id: M08654_2.00
+CC  name: UPC2
+CC  version: 
+CC  name: UPC2
+CC  description: UPC2
+CC  transfac_consensus: 
+CC  matrix.nb: 1152
+XX
+//
+AC  M08655_2.00
+XX
+ID  RSC3
+XX
+DE  RSC3
+P0       A     C     G     T
+1    17.6573 33.7413 26.049 22.5524
+2    14.1608 36.5385 30.2448 19.0559
+3    20.4545 18.3566 54.7203 6.46853
+4    0.174825 99.4755 0.174825 0.174825
+5    0.174825 0.174825 99.4755 0.174825
+6    0.174825 99.4755 0.174825 0.174825
+7    3.67133 5.06993 91.0839 0.174825
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1153
+CC  accession: M08655_2.00
+CC  AC: M08655_2.00
+CC  id: M08655_2.00
+CC  name: RSC3
+CC  version: 
+CC  name: RSC3
+CC  description: RSC3
+CC  transfac_consensus: 
+CC  matrix.nb: 1153
+XX
+//
+AC  M08656_2.00
+XX
+ID  ARO80
+XX
+DE  ARO80
+P0       A     C     G     T
+1      5.2  82.7   5.8   6.3
+2      9.1   4.4  83.3   3.2
+3    1.7982 6.19381 79.7203 12.2877
+4     24.3  22.3    10  43.4
+5     37.3    18   7.5  37.2
+6     56.9  13.7    17  12.4
+7     19.8  14.6  18.8  46.8
+8    8.50851 33.9339 18.7187 38.8388
+9    27.5724 23.3766 24.6753 24.3756
+10    21.2   2.8  20.8  55.2
+11   5.29471 87.6124 3.4965 3.5964
+12   2.6026 15.1151 74.7748 7.50751
+13     7.6   6.6  83.4   2.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1154
+CC  accession: M08656_2.00
+CC  AC: M08656_2.00
+CC  id: M08656_2.00
+CC  name: ARO80
+CC  version: 
+CC  name: ARO80
+CC  description: ARO80
+CC  transfac_consensus: 
+CC  matrix.nb: 1154
+XX
+//
+AC  M08657_2.00
+XX
+ID  ARO80
+XX
+DE  ARO80
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4        0    50     0    50
+5       50     0     0    50
+6      100     0     0     0
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11       0   100     0     0
+12       0     0   100     0
+13       0     0   100     0
+14       0    50     0    50
+15      50     0     0    50
+16     100     0     0     0
+17      25    25    25    25
+18      25    25    25    25
+19      25    25    25    25
+20      25    25    25    25
+21       0   100     0     0
+22       0     0   100     0
+23       0     0   100     0
+24       0    50     0    50
+25      50     0     0    50
+26     100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1155
+CC  accession: M08657_2.00
+CC  AC: M08657_2.00
+CC  id: M08657_2.00
+CC  name: ARO80
+CC  version: 
+CC  name: ARO80
+CC  description: ARO80
+CC  transfac_consensus: 
+CC  matrix.nb: 1155
+XX
+//
+AC  M08658_2.00
+XX
+ID  ARO80
+XX
+DE  ARO80
+P0       A     C     G     T
+1    10.2797 15.5405 53.161 21.0187
+2    33.0491 19.3738 30.1529 17.4242
+3    12.5995 23.2231 31.7895 32.3879
+4    40.712 25.3095 20.3675 13.6111
+5    39.0048 19.3969 22.9429 18.6554
+6    31.0294 19.8534 13.5404 35.5768
+7    8.37054 15.4087 33.6033 42.6174
+8    4.03325 74.41 3.04686 18.5099
+9    0.582487 23.1884 0.895071 75.334
+10   0.50032 98.7925 0.121301 0.58591
+11   0.164305 2.22928 97.5014 0.105049
+12   0.177931 0.563267 99.0191 0.239697
+13   1.52401 35.9291 29.5906 32.9563
+14   67.0917 0.417571 0.642632 31.8481
+15   69.0375 6.83538 6.02328 18.1038
+16   10.5241 22.2702 37.2726 29.9331
+17   26.9185 11.9687 19.3046 41.8081
+18   35.3747 21.0714 20.5046 23.0493
+19   25.7301 21.7143 17.8067 34.7489
+20   23.6094 10.3141 34.9776 31.0989
+21   27.8411 25.2556 17.0242 29.879
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1156
+CC  accession: M08658_2.00
+CC  AC: M08658_2.00
+CC  id: M08658_2.00
+CC  name: ARO80
+CC  version: 
+CC  name: ARO80
+CC  description: ARO80
+CC  transfac_consensus: 
+CC  matrix.nb: 1156
+XX
+//
+AC  M08659_2.00
+XX
+ID  URC2
+XX
+DE  URC2
+P0       A     C     G     T
+1    24.6324 37.8676 10.9069 26.5931
+2    0.122549 99.6324 0.122549 0.122549
+3    0.122549 0.122549 99.6324 0.122549
+4    0.122549 0.122549 99.6324 0.122549
+5    73.652 9.43627 16.7892 0.122549
+6    22.6716 17.2794 46.201 13.848
+7    56.4951 0.122549 0.122549 43.2598
+8    14.3382 0.122549 0.122549 85.4167
+9    93.75 6.0049 0.122549 0.122549
+10   36.3971 16.7892 14.8284 31.9853
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1157
+CC  accession: M08659_2.00
+CC  AC: M08659_2.00
+CC  id: M08659_2.00
+CC  name: URC2
+CC  version: 
+CC  name: URC2
+CC  description: URC2
+CC  transfac_consensus: 
+CC  matrix.nb: 1157
+XX
+//
+AC  M08660_2.00
+XX
+ID  TOG1
+XX
+DE  TOG1
+P0       A     C     G     T
+1    28.8462 36.5385 5.76923 28.8462
+2    1.92308 17.3077 9.61538 71.1538
+3        0 76.9231 15.3846 7.69231
+4        0   100     0     0
+5        0     0   100     0
+6        0     0   100     0
+7    69.2308 30.7692     0     0
+8    46.1538 15.3846 23.0769 15.3846
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1158
+CC  accession: M08660_2.00
+CC  AC: M08660_2.00
+CC  id: M08660_2.00
+CC  name: TOG1
+CC  version: 
+CC  name: TOG1
+CC  description: TOG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1158
+XX
+//
+AC  M08661_2.00
+XX
+ID  PDR1
+XX
+DE  PDR1
+P0       A     C     G     T
+1    8.33333 21.6667 8.33333 61.6667
+2    3.33333 83.3333 3.33333    10
+3    1.66667 88.3333 1.66667 8.33333
+4    1.66667 8.33333 88.3333 1.66667
+5        0 86.6667     0 13.3333
+6        0     0   100     0
+7        0     0   100     0
+8    48.3333    15 28.3333 8.33333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1159
+CC  accession: M08661_2.00
+CC  AC: M08661_2.00
+CC  id: M08661_2.00
+CC  name: PDR1
+CC  version: 
+CC  name: PDR1
+CC  description: PDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1159
+XX
+//
+AC  M08662_2.00
+XX
+ID  SUT1
+XX
+DE  SUT1
+P0       A     C     G     T
+1    15.5248 51.5978 13.8829 18.9945
+2    29.8656 3.01497 67.0954 0.0240538
+3    2.30423 95.4066 0.76261 1.52656
+4    6.49124 22.8042 67.8476 2.85699
+5    0.0314071 17.5569 81.6265 0.785255
+6    30.3592 13.4898 55.0165 1.1345
+7    27.6297 6.04557 61.8147 4.51006
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1160
+CC  accession: M08662_2.00
+CC  AC: M08662_2.00
+CC  id: M08662_2.00
+CC  name: SUT1
+CC  version: 
+CC  name: SUT1
+CC  description: SUT1
+CC  transfac_consensus: 
+CC  matrix.nb: 1160
+XX
+//
+AC  M08663_2.00
+XX
+ID  RSC30
+XX
+DE  RSC30
+P0       A     C     G     T
+1    31.8916 35.2577 10.6079 22.2429
+2    18.2992 38.8289 28.0308 14.841
+3    34.7473 38.9339 8.58006 17.7387
+4    31.0713 31.5541 31.211 6.16354
+5    32.3581 33.3118 12.0597 22.2704
+6    11.324 69.9521 6.39245 12.3314
+7    10.1824 24.1396 62.3491 3.32878
+8    1.59079 88.7441 3.56439 6.10072
+9    1.98346 8.95675 87.6617 1.39805
+10   1.3169 95.2762 2.25626 1.15069
+11   1.15069 2.25626 95.2762 1.3169
+12   1.39805 87.6617 8.95675 1.98346
+13   6.10072 3.56439 88.7441 1.59079
+14   2.59897 59.6148 30.885 6.9012
+15   12.3314 6.39245 69.9521 11.324
+16   22.3195 16.2992 43.1538 18.2275
+17   21.7244 5.15831 32.0978 41.0195
+18   35.6226 37.8842 16.5309 9.96235
+19   9.13311 39.4063 41.7845 9.67602
+20   38.4621 19.2629 30.312 11.9631
+21   26.6535 38.5091 19.7282 15.1092
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1161
+CC  accession: M08663_2.00
+CC  AC: M08663_2.00
+CC  id: M08663_2.00
+CC  name: RSC30
+CC  version: 
+CC  name: RSC30
+CC  description: RSC30
+CC  transfac_consensus: 
+CC  matrix.nb: 1161
+XX
+//
+AC  M08664_2.00
+XX
+ID  STB5
+XX
+DE  STB5
+P0       A     C     G     T
+1    0.0971461 97.1461 0.887504 1.86924
+2    2.94663 0.0968596 96.8596 0.0968596
+3    2.77095 3.41473 93.7206 0.0937206
+4    27.9921 14.4905 17.6321 39.8854
+5    16.4268 22.0254 54.1065 7.4413
+6    19.6347 28.2232 7.09788 45.0443
+7    5.83146 13.0871 22.6627 58.4187
+8    57.9801 0.0579801 13.965 27.9969
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1162
+CC  accession: M08664_2.00
+CC  AC: M08664_2.00
+CC  id: M08664_2.00
+CC  name: STB5
+CC  version: 
+CC  name: STB5
+CC  description: STB5
+CC  transfac_consensus: 
+CC  matrix.nb: 1162
+XX
+//
+AC  M08665_2.00
+XX
+ID  STB5
+XX
+DE  STB5
+P0       A     C     G     T
+1      4.3  26.1  24.6    45
+2        1  82.1  12.6   4.3
+3    13.1868 32.967 27.1728 26.6733
+4      2.3   6.7  84.2   6.8
+5      4.3  89.8   3.5   2.4
+6      2.3     3  91.8   2.9
+7      2.9  12.2    83   1.9
+8     23.3  22.2  35.2  19.3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1163
+CC  accession: M08665_2.00
+CC  AC: M08665_2.00
+CC  id: M08665_2.00
+CC  name: STB5
+CC  version: 
+CC  name: STB5
+CC  description: STB5
+CC  transfac_consensus: 
+CC  matrix.nb: 1163
+XX
+//
+AC  M08666_2.00
+XX
+ID  ASG1
+XX
+DE  ASG1
+P0       A     C     G     T
+1    0.139665 75.5587 0.139665 24.162
+2    0.139665 99.581 0.139665 0.139665
+3    0.139665 0.139665 99.581 0.139665
+4    0.139665 0.139665 99.581 0.139665
+5    72.2067 11.3128 16.3408 0.139665
+6    52.6536 0.139665 0.139665 47.067
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1164
+CC  accession: M08666_2.00
+CC  AC: M08666_2.00
+CC  id: M08666_2.00
+CC  name: ASG1
+CC  version: 
+CC  name: ASG1
+CC  description: ASG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1164
+XX
+//
+AC  M08667_2.00
+XX
+ID  ASG1
+XX
+DE  ASG1
+P0       A     C     G     T
+1    5.20734 85.2478 2.42729 7.11761
+2    1.89561 89.1457 8.2034 0.755302
+3    0.789759 9.60538 87.6526 1.95222
+4    4.81088 7.31231 83.8409 4.03591
+5    42.9692 14.3915 31.7551 10.8841
+6    50.989 8.33316 5.56501 35.1128
+7    22.2904 64.5495 7.30673 5.85334
+8    23.2962 21.7921 6.59661 48.3151
+9    24.5893 65.1438 6.22979 4.03708
+10   16.9648 6.23352 50.3851 26.4166
+11   6.11308 28.4864 41.9944 23.4061
+12   4.03591 83.8409 7.31231 4.81088
+13   1.95222 87.6526 9.60538 0.789759
+14   0.755302 8.2034 89.1457 1.89561
+15   7.11761 2.42729 85.2478 5.20734
+16   34.9352 6.57868 36.3578 22.1284
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1165
+CC  accession: M08667_2.00
+CC  AC: M08667_2.00
+CC  id: M08667_2.00
+CC  name: ASG1
+CC  version: 
+CC  name: ASG1
+CC  description: ASG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1165
+XX
+//
+AC  M08668_2.00
+XX
+ID  DAL81
+XX
+DE  DAL81
+P0       A     C     G     T
+1    16.6667 16.6667    50 16.6667
+2    16.6667 16.6667 16.6667    50
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6        0   100     0     0
+7    16.6667 16.6667 16.6667    50
+8    16.6667    50 16.6667 16.6667
+9    16.6667 16.6667 16.6667    50
+10      50 16.6667 16.6667 16.6667
+11      50 16.6667 16.6667 16.6667
+12   16.6667 16.6667    50 16.6667
+13       0     0   100     0
+14       0   100     0     0
+15       0   100     0     0
+16       0     0   100     0
+17      50 16.6667 16.6667 16.6667
+18   16.6667    50 16.6667 16.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1166
+CC  accession: M08668_2.00
+CC  AC: M08668_2.00
+CC  id: M08668_2.00
+CC  name: DAL81
+CC  version: 
+CC  name: DAL81
+CC  description: DAL81
+CC  transfac_consensus: 
+CC  matrix.nb: 1166
+XX
+//
+AC  M08669_2.00
+XX
+ID  SIP4
+XX
+DE  SIP4
+P0       A     C     G     T
+1     15.4  32.9    14  37.7
+2      1.3  94.5     3   1.2
+3    3.1968 3.3966 91.3087 2.0979
+4      2.5   1.7  94.6   1.2
+5     25.6  41.7    17  15.7
+6      6.2  35.8   7.3  50.7
+7     13.7  18.2  26.9  41.2
+8     58.3  15.9  13.5  12.3
+9    65.2348 18.8811 6.89311 8.99101
+10   8.29171 28.2717 3.7962 59.6404
+11     5.5  20.5  69.7   4.3
+12     2.1   4.3  93.1   0.5
+13    58.4   8.1    28   5.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1167
+CC  accession: M08669_2.00
+CC  AC: M08669_2.00
+CC  id: M08669_2.00
+CC  name: SIP4
+CC  version: 
+CC  name: SIP4
+CC  description: SIP4
+CC  transfac_consensus: 
+CC  matrix.nb: 1167
+XX
+//
+AC  M08670_2.00
+XX
+ID  SIP4
+XX
+DE  SIP4
+P0       A     C     G     T
+1        0 25.3165 16.4557 58.2278
+2    13.9241 63.2911     0 22.7848
+3        0   100     0     0
+4        0     0   100     0
+5    1.2658     0 98.7342     0
+6    73.4177     0 26.5823     0
+7    31.6456 12.6582 48.1013 7.5949
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1168
+CC  accession: M08670_2.00
+CC  AC: M08670_2.00
+CC  id: M08670_2.00
+CC  name: SIP4
+CC  version: 
+CC  name: SIP4
+CC  description: SIP4
+CC  transfac_consensus: 
+CC  matrix.nb: 1168
+XX
+//
+AC  M08671_2.00
+XX
+ID  GSM1
+XX
+DE  GSM1
+P0       A     C     G     T
+1    26.8947 19.5581 21.2682 32.279
+2    30.6953 29.9085 16.8325 22.5637
+3    29.2501 23.2782 10.1036 37.3681
+4    45.8434 20.5085 17.2297 16.4184
+5    8.76662 43.8604 18.3904 28.9826
+6    3.2691 19.7735 6.07271 70.8847
+7    0.998202 84.9357 0.416108 13.65
+8    0.128779 96.7169 3.07413 0.0802325
+9    0.0994434 2.55124 97.2506 0.0986717
+10   0.986594 0.133619 98.5672 0.312553
+11   77.856 3.88982 17.7764 0.477853
+12   6.92069 1.05444 91.6518 0.373116
+13   25.2352 18.267 16.4609 40.0368
+14   12.0529 2.06741 0.936993 84.9427
+15   39.3844 1.75763 2.25013 56.6078
+16   23.1287 28.19 14.4311 34.2502
+17   21.6074 23.3241 20.1072 34.9612
+18   22.9718 18.4273 12.4628 46.1381
+19   32.2291 16.8908 28.9418 21.9382
+20   43.8395 22.9316 17.2216 16.0074
+21   27.9426 19.0454 20.7571 32.2548
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1169
+CC  accession: M08671_2.00
+CC  AC: M08671_2.00
+CC  id: M08671_2.00
+CC  name: GSM1
+CC  version: 
+CC  name: GSM1
+CC  description: GSM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1169
+XX
+//
+AC  M08672_2.00
+XX
+ID  PUT3
+XX
+DE  PUT3
+P0       A     C     G     T
+1    8.59141 74.8252 8.59141 7.99201
+2      5.8   3.8  86.9   3.5
+3     11.3  18.3  65.8   4.6
+4    19.0809 23.4765 49.7502 7.69231
+5     39.6  12.6  29.9  17.9
+6       21   6.6  33.7  38.7
+7    15.1848 7.69231 36.8631 40.2597
+8      4.7  27.8  64.9   2.6
+9        3   1.8  89.2     6
+10     9.9  46.1  33.5  10.5
+11      14  16.8  17.9  51.3
+12   22.8228 16.2162 16.3163 44.6446
+13   25.4745 36.6633 20.0799 17.7822
+14     3.4  85.9   8.6   2.1
+15    11.5  64.9   6.8  16.8
+16     6.5  10.9  78.1   4.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1170
+CC  accession: M08672_2.00
+CC  AC: M08672_2.00
+CC  id: M08672_2.00
+CC  name: PUT3
+CC  version: 
+CC  name: PUT3
+CC  description: PUT3
+CC  transfac_consensus: 
+CC  matrix.nb: 1170
+XX
+//
+AC  M08673_2.00
+XX
+ID  RGT1
+XX
+DE  RGT1
+P0       A     C     G     T
+1    26.3741 25.6593 14.86 33.1066
+2    31.2219 9.76314 20.4591 38.5558
+3    14.9014 39.8506 22.2042 23.0438
+4    22.9099 29.3831 14.1805 33.5265
+5    23.7701 19.2097 26.9576 30.0626
+6    12.3785 51.9827 8.10456 27.5341
+7    0.597956 97.7604 0.58946 1.05221
+8    0.0810959 1.40348 98.3965 0.118957
+9    0.148211 1.45442 98.2639 0.133442
+10   97.8186 0.266876 1.44554 0.468958
+11   66.0021 0.505613 5.66272 27.8296
+12   62.8644 12.8039 4.98669 19.345
+13   96.1842 0.198205 0.250089 3.36746
+14   79.3903 0.0707511 0.445506 20.0935
+15   9.71942 37.7773 1.37301 51.1303
+16   23.3221 19.5817 4.09885 52.9973
+17   15.0672 18.53 18.0367 48.3662
+18   18.9683 20.5272 30.4913 30.0133
+19   26.3313 30.5894 19.1754 23.9038
+20   39.0297 21.7936 26.4159 12.7608
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1171
+CC  accession: M08673_2.00
+CC  AC: M08673_2.00
+CC  id: M08673_2.00
+CC  name: RGT1
+CC  version: 
+CC  name: RGT1
+CC  description: RGT1
+CC  transfac_consensus: 
+CC  matrix.nb: 1171
+XX
+//
+AC  M08674_2.00
+XX
+ID  YKL222C
+XX
+DE  YKL222C
+P0       A     C     G     T
+1    28.7609 31.9646 22.8445 16.4299
+2    22.5849 34.0389 26.797 16.5793
+3    22.3629 28.3082 30.4688 18.8601
+4    29.5897 24.6712 22.23 23.5091
+5    7.52225 27.4666 32.6573 32.3539
+6    47.5453 25.3744 23.0556 4.02467
+7    52.911 17.6292 28.9596 0.500208
+8    0.601429 97.933 0.1347 1.33085
+9    0.252755 0.5055 99.0739 0.167828
+10   0.352955 0.579513 98.8984 0.169109
+11   83.3273 1.35434 14.8896 0.428758
+12   48.8121 5.08359 43.0453 3.05904
+13   76.0735 2.77896 1.95247 19.1951
+14   10.6278 2.31544 0.664305 86.3925
+15   58.8059 8.05418 3.86256 29.2774
+16   59.9234 11.1408 16.7428 12.193
+17   15.3893 31.1206 35.7585 17.7317
+18   25.8755 20.5664 28.2273 25.3308
+19   11.4368 39.8453 28.918 19.7999
+20   23.3654 22.7826 31.3359 22.5161
+21   17.9203 21.5019 34.5396 26.0381
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1172
+CC  accession: M08674_2.00
+CC  AC: M08674_2.00
+CC  id: M08674_2.00
+CC  name: YKL222C
+CC  version: 
+CC  name: YKL222C
+CC  description: YKL222C
+CC  transfac_consensus: 
+CC  matrix.nb: 1172
+XX
+//
+AC  M08675_2.00
+XX
+ID  YLL054C
+XX
+DE  YLL054C
+P0       A     C     G     T
+1        0   100     0     0
+2        0     0   100     0
+3        0     0   100     0
+4    21.4286 64.2857 14.2857     0
+5    8.92857 66.0714 16.0714 8.92857
+6     12.5 5.35714 76.7857 5.35714
+7    57.1429 14.2857 7.14286 21.4286
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1173
+CC  accession: M08675_2.00
+CC  AC: M08675_2.00
+CC  id: M08675_2.00
+CC  name: YLL054C
+CC  version: 
+CC  name: YLL054C
+CC  description: YLL054C
+CC  transfac_consensus: 
+CC  matrix.nb: 1173
+XX
+//
+AC  M08676_2.00
+XX
+ID  YLL054C
+XX
+DE  YLL054C
+P0       A     C     G     T
+1    2.28243 11.9624 10.9794 74.7757
+2    2.87901 91.1625 2.26413 3.69436
+3    0.869574 80.774 16.2846 2.07186
+4    1.80846 4.46686 92.8632 0.861488
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11      25    25    25    25
+12      25    25    25    25
+13      25    25    25    25
+14   35.386 19.1791 25.2498 20.1851
+15   0.861488 92.8632 4.46686 1.80846
+16   2.07186 16.2846 80.774 0.869574
+17   3.69436 2.26413 91.1625 2.87901
+18   74.7757 10.9794 11.9624 2.28243
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1174
+CC  accession: M08676_2.00
+CC  AC: M08676_2.00
+CC  id: M08676_2.00
+CC  name: YLL054C
+CC  version: 
+CC  name: YLL054C
+CC  description: YLL054C
+CC  transfac_consensus: 
+CC  matrix.nb: 1174
+XX
+//
+AC  M08677_2.00
+XX
+ID  PPR1
+XX
+DE  PPR1
+P0       A     C     G     T
+1      1.3  11.5   2.1  85.1
+2    1.2987 93.5065 3.8961 1.2987
+3    3.0969 2.2977 73.9261 20.6793
+4      4.3   3.1  89.7   2.9
+5     50.7  40.7   6.5   2.1
+6     25.5  24.7  46.8     3
+7     74.7  10.1  12.3   2.9
+8       81   6.1   1.3  11.6
+9      1.3  14.5  29.4  54.8
+10    24.4    25  37.7  12.9
+11     8.1  87.7   2.9   1.3
+12     5.4  87.2   2.1   5.3
+13   1.2987 10.989 86.4136 1.2987
+14    54.6  18.5  24.9     2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1175
+CC  accession: M08677_2.00
+CC  AC: M08677_2.00
+CC  id: M08677_2.00
+CC  name: PPR1
+CC  version: 
+CC  name: PPR1
+CC  description: PPR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1175
+XX
+//
+AC  M08678_2.00
+XX
+ID  CHA4
+XX
+DE  CHA4
+P0       A     C     G     T
+1    19.426 50.0338 24.66 5.88017
+2    34.326 28.8937 14.3526 22.4278
+3    28.8211 30.3862 21.8903 18.9024
+4    30.452 12.5634 28.8252 28.1594
+5    24.5307 33.0199 31.5731 10.8763
+6    27.5944 39.8465 27.015 5.54401
+7    9.72814 1.70872 72.4983 16.0648
+8    1.86788 1.74521 95.3695 1.01743
+9    0.360274 96.3362 0.867711 2.4358
+10   0.283705 0.946563 98.4227 0.347064
+11   0.509043 0.379779 98.634 0.477224
+12   81.5861 2.36909 15.5878 0.456993
+13   27.7513 6.55554 55.5849 10.1083
+14   47.7862 3.2959 6.86334 42.0546
+15   18.7337 6.62993 4.93872 69.6977
+16   40.8546 13.6202 14.1522 31.373
+17   23.9586 43.3903 20.0743 12.5768
+18   33.9414 34.6096 12.365 19.084
+19   15.7694 57.5263 15.68 11.0243
+20   25.624 39.0152 13.2645 22.0963
+21   22.9555 33.6081 25.6678 17.7686
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1176
+CC  accession: M08678_2.00
+CC  AC: M08678_2.00
+CC  id: M08678_2.00
+CC  name: CHA4
+CC  version: 
+CC  name: CHA4
+CC  description: CHA4
+CC  transfac_consensus: 
+CC  matrix.nb: 1176
+XX
+//
+AC  M08679_2.00
+XX
+ID  ECM22
+XX
+DE  ECM22
+P0       A     C     G     T
+1    25.5025 20.2988 20.3219 33.8768
+2    16.6814 24.887 16.3441 42.0875
+3    6.09425 52.6312 12.734 28.5406
+4    0.676276 78.43 20.054 0.839687
+5    1.35175 3.11788 94.4802 1.05019
+6    4.18931 0.939853 93.5754 1.2954
+7    24.3399 2.17151 71.1629 2.32562
+8    14.0399 26.0295 16.0786 43.8519
+9    22.7826 29.5238 34.9488 12.7449
+10   22.92 7.91902 41.9889 27.1721
+11   35.1339 41.6335 10.8538 12.3788
+12   1.73041 93.2452 1.33869 3.68573
+13   0.636636 4.02761 95.1544 0.181395
+14   1.95563 1.58465 96.3026 0.157083
+15   92.7122 0.630565 5.05758 1.59962
+16   40.1955 27.7355 29.2985 2.77058
+17   33.9857 29.5918 13.7643 22.6582
+18   34.0406 16.2334 8.2292 41.4968
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1177
+CC  accession: M08679_2.00
+CC  AC: M08679_2.00
+CC  id: M08679_2.00
+CC  name: ECM22
+CC  version: 
+CC  name: ECM22
+CC  description: ECM22
+CC  transfac_consensus: 
+CC  matrix.nb: 1177
+XX
+//
+AC  M08680_2.00
+XX
+ID  HAP1
+XX
+DE  HAP1
+P0       A     C     G     T
+1      0.9   1.9  95.5   1.7
+2      2.4   2.1  94.8   0.7
+3    57.9421 25.2747 7.59241 9.19081
+4     58.3   6.4  24.2  11.1
+5     66.3   3.3   1.2  29.2
+6      6.6   6.2     4  83.2
+7    87.1872 1.2012 0.900901 10.7107
+8     22.6  17.2  10.3  49.9
+9      1.6  97.3   0.4   0.7
+10     2.5   0.7    96   0.8
+11   1.998 32.8671 61.5385 3.5964
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1178
+CC  accession: M08680_2.00
+CC  AC: M08680_2.00
+CC  id: M08680_2.00
+CC  name: HAP1
+CC  version: 
+CC  name: HAP1
+CC  description: HAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1178
+XX
+//
+AC  M08681_2.00
+XX
+ID  PDR8
+XX
+DE  PDR8
+P0       A     C     G     T
+1        0     0     0   100
+2        0   100     0     0
+3        0   100     0     0
+4    33.3333     0 33.3333 33.3333
+5        0   100     0     0
+6        0     0   100     0
+7        0     0   100     0
+8      100     0     0     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1179
+CC  accession: M08681_2.00
+CC  AC: M08681_2.00
+CC  id: M08681_2.00
+CC  name: PDR8
+CC  version: 
+CC  name: PDR8
+CC  description: PDR8
+CC  transfac_consensus: 
+CC  matrix.nb: 1179
+XX
+//
+AC  M08682_2.00
+XX
+ID  PDR8
+XX
+DE  PDR8
+P0       A     C     G     T
+1    38.4615 15.3846 38.4615 7.69231
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5      100     0     0     0
+6    7.69231 7.69231 84.6154     0
+7      100     0     0     0
+8    13.4615 5.76923 5.76923    75
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1180
+CC  accession: M08682_2.00
+CC  AC: M08682_2.00
+CC  id: M08682_2.00
+CC  name: PDR8
+CC  version: 
+CC  name: PDR8
+CC  description: PDR8
+CC  transfac_consensus: 
+CC  matrix.nb: 1180
+XX
+//
+AC  M08683_2.00
+XX
+ID  YLR278C
+XX
+DE  YLR278C
+P0       A     C     G     T
+1    13.3929 41.9643 13.3929 31.25
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5    96.4286     0 3.57143     0
+6    3.57143 14.2857 82.1429     0
+7    23.2143 1.78571 5.35714 69.6429
+8    26.7857 5.35714 5.35714  62.5
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1181
+CC  accession: M08683_2.00
+CC  AC: M08683_2.00
+CC  id: M08683_2.00
+CC  name: YLR278C
+CC  version: 
+CC  name: YLR278C
+CC  description: YLR278C
+CC  transfac_consensus: 
+CC  matrix.nb: 1181
+XX
+//
+AC  M08684_2.00
+XX
+ID  LEU3
+XX
+DE  LEU3
+P0       A     C     G     T
+1    2.23139 65.7563 29.5462 2.46606
+2    0.660445 98.0187 0.660445 0.660445
+3    2.27962 0.445158 66.0673 31.208
+4    17.2038 23.2227 39.5855 19.988
+5    22.4192 16.6086 14.2951 46.6771
+6    46.6771 14.2951 16.6086 22.4192
+7    19.988 39.5855 23.2227 17.2038
+8    31.208 66.0673 0.445158 2.27962
+9    0.660445 0.660445 98.0187 0.660445
+10   2.46606 29.5462 65.7563 2.23139
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1182
+CC  accession: M08684_2.00
+CC  AC: M08684_2.00
+CC  id: M08684_2.00
+CC  name: LEU3
+CC  version: 
+CC  name: LEU3
+CC  description: LEU3
+CC  transfac_consensus: 
+CC  matrix.nb: 1182
+XX
+//
+AC  M08685_2.00
+XX
+ID  ARG81
+XX
+DE  ARG81
+P0       A     C     G     T
+1      9.5  85.6   3.4   1.5
+2      1.3   9.5    87   2.2
+3      2.5  17.5  76.1   3.9
+4      5.9    27   2.3  64.8
+5     60.9  16.7  14.9   7.5
+6      8.1   3.4  31.4  57.1
+7      3.8  75.4  15.3   5.5
+8    6.29371 12.0879 68.9311 12.6873
+9    1.9019 12.9129 67.968 17.2172
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1183
+CC  accession: M08685_2.00
+CC  AC: M08685_2.00
+CC  id: M08685_2.00
+CC  name: ARG81
+CC  version: 
+CC  name: ARG81
+CC  description: ARG81
+CC  transfac_consensus: 
+CC  matrix.nb: 1183
+XX
+//
+AC  M08686_2.00
+XX
+ID  STB4
+XX
+DE  STB4
+P0       A     C     G     T
+1    8.69565 43.4783 8.69565 39.1304
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6      100     0     0     0
+7       75 1.08696 1.08696 22.8261
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1184
+CC  accession: M08686_2.00
+CC  AC: M08686_2.00
+CC  id: M08686_2.00
+CC  name: STB4
+CC  version: 
+CC  name: STB4
+CC  description: STB4
+CC  transfac_consensus: 
+CC  matrix.nb: 1184
+XX
+//
+AC  M08687_2.00
+XX
+ID  CEP3
+XX
+DE  CEP3
+P0       A     C     G     T
+1    3.94737 56.5789 3.94737 35.5263
+2        0     0     0   100
+3        0   100     0     0
+4        0     0   100     0
+5        0     0   100     0
+6    90.7895 1.31579 1.31579 6.57895
+7    92.1053 2.63158 2.63158 2.63158
+8    42.1053 21.0526 21.0526 15.7895
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1185
+CC  accession: M08687_2.00
+CC  AC: M08687_2.00
+CC  id: M08687_2.00
+CC  name: CEP3
+CC  version: 
+CC  name: CEP3
+CC  description: CEP3
+CC  transfac_consensus: 
+CC  matrix.nb: 1185
+XX
+//
+AC  M08688_2.00
+XX
+ID  CAT8
+XX
+DE  CAT8
+P0       A     C     G     T
+1    18.93 29.2181 21.8107 30.0412
+2    6.66667 81.1111 5.55556 6.66667
+3    1.31579 1.31579 96.0526 1.31579
+4    1.17647 10.5882 85.8824 2.35294
+5    37.4359 26.1538 18.4615 17.9487
+6    15.7143 35.2381 14.2857 34.7619
+7    21.0046 25.5708 33.3333 20.0913
+8    48.6667 9.33333    20    22
+9    43.9759 16.2651 31.9277 7.83133
+10   21.1111 34.4444 17.4074 27.037
+11   3.7037 3.7037 90.1235 2.46914
+12   4.34783 10.8696 79.3478 5.43478
+13   36.8687 18.1818 30.8081 14.1414
+14   30.2905 22.8216 24.4813 22.4066
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1186
+CC  accession: M08688_2.00
+CC  AC: M08688_2.00
+CC  id: M08688_2.00
+CC  name: CAT8
+CC  version: 
+CC  name: CAT8
+CC  description: CAT8
+CC  transfac_consensus: 
+CC  matrix.nb: 1186
+XX
+//
+AC  M08689_2.00
+XX
+ID  YNR063W
+XX
+DE  YNR063W
+P0       A     C     G     T
+1    18.0667 23.9608 30.0568 27.9157
+2    12.2601 37.0999 19.6894 30.9506
+3    20.504 16.7371 46.3233 16.4356
+4    24.296 22.407 34.0626 19.2344
+5    12.9281 31.3922 27.7301 27.9496
+6    16.5041 37.0915 13.0307 33.3736
+7    2.36282 11.5766 2.25323 83.8073
+8    0.216154 99.2759 0.232071 0.275874
+9    0.138999 2.62938 97.1421 0.0895144
+10   0.355592 0.154109 99.2488 0.241544
+11   97.0622 1.50412 0.667331 0.766352
+12   5.10533 1.54525 84.867 8.4824
+13   77.3635 0.187465 2.8263 19.6227
+14   26.7715 0.711215 0.143997 72.3733
+15   25.8865 18.2673 13.5315 42.3147
+16   17.8484 25.1751 21.8652 35.1113
+17   34.007 14.2768 26.3281 25.3881
+18   32.1058 21.1625 18.5567 28.1751
+19   18.6244 18.7088 32.789 29.8778
+20   13.3066 28.2482 43.2047 15.2404
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1187
+CC  accession: M08689_2.00
+CC  AC: M08689_2.00
+CC  id: M08689_2.00
+CC  name: YNR063W
+CC  version: 
+CC  name: YNR063W
+CC  description: YNR063W
+CC  transfac_consensus: 
+CC  matrix.nb: 1187
+XX
+//
+AC  M08690_2.00
+XX
+ID  HAL9
+XX
+DE  HAL9
+P0       A     C     G     T
+1    1.03706 5.65823 18.6598 74.6449
+2    4.34202 90.6686 3.87872 1.11069
+3    0.534704 84.2046 8.95048 6.31021
+4    0.756674 3.3953 89.5352 6.31287
+5       25    25    25    25
+6       25    25    25    25
+7       25    25    25    25
+8       25    25    25    25
+9       25    25    25    25
+10      25    25    25    25
+11      25    25    25    25
+12      25    25    25    25
+13      25    25    25    25
+14   12.6475 30.9147 43.3193 13.1185
+15   6.31287 89.5352 3.3953 0.756674
+16   6.31021 8.95048 84.2046 0.534704
+17   1.11069 3.87872 90.6686 4.34202
+18   74.6449 18.6598 5.65823 1.03706
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1188
+CC  accession: M08690_2.00
+CC  AC: M08690_2.00
+CC  id: M08690_2.00
+CC  name: HAL9
+CC  version: 
+CC  name: HAL9
+CC  description: HAL9
+CC  transfac_consensus: 
+CC  matrix.nb: 1188
+XX
+//
+AC  M08691_2.00
+XX
+ID  YRR1
+XX
+DE  YRR1
+P0       A     C     G     T
+1    38.6076 13.9241 41.1392 6.3291
+2    1.8987 94.9367     0 3.1646
+3        0     0   100     0
+4        0     0   100     0
+5    67.7215 6.962 21.519 3.7975
+6    31.6456 7.5949 32.9114 27.8481
+7    68.3544 3.7975 8.8608 18.9873
+8    8.22781 1.8987 0.632901 89.2406
+9    66.4557 3.7975 7.5949 22.1519
+10   58.2278 10.1266 15.8228 15.8228
+11   14.557 22.1519 42.4051 20.8861
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1189
+CC  accession: M08691_2.00
+CC  AC: M08691_2.00
+CC  id: M08691_2.00
+CC  name: YRR1
+CC  version: 
+CC  name: YRR1
+CC  description: YRR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1189
+XX
+//
+AC  M08692_2.00
+XX
+ID  YRM1
+XX
+DE  YRM1
+P0       A     C     G     T
+1    8.78122 52.642 28.8053 9.77144
+2    48.8821 8.62783 21.5694 20.9207
+3    14.7706 32.9408 19.4869 32.8017
+4    28.2841 24.9046 17.8333 28.978
+5    26.5776 44.2695 15.4395 13.7134
+6    37.9849 15.2182 43.7338 3.06303
+7    5.98328 76.4178 10.1843 7.41455
+8    8.08893 2.52488 84.4954 4.89079
+9    3.18413 2.35949 88.448 6.00837
+10   69.0237 4.89566 20.0345 6.04614
+11   60.3845 3.31218 15.197 21.1064
+12   79.0691 4.58641 5.44508 10.8994
+13   22.2256 2.99974 4.72698 70.0477
+14   61.9725 1.68086 12.1301 24.2165
+15   57.7852 17.3099 12.7224 12.1826
+16   23.5633 21.0267 39.0308 16.3792
+17   31.6372 11.8691 30.0651 26.4286
+18   22.1428 47.3713 16.1671 14.3189
+19   18.6957 25.0995 43.644 12.5607
+20   6.55873 10.4358 59.4785 23.5269
+21   30.847 13.6331 7.00723 48.5127
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1190
+CC  accession: M08692_2.00
+CC  AC: M08692_2.00
+CC  id: M08692_2.00
+CC  name: YRM1
+CC  version: 
+CC  name: YRM1
+CC  description: YRM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1190
+XX
+//
+AC  M08693_2.00
+XX
+ID  TEA1
+XX
+DE  TEA1
+P0       A     C     G     T
+1    40.3816 9.19675 16.8799 33.5417
+2    22.5769 14.4157 4.02465 58.9827
+3    15.9252 41.5123 23.4073 19.1552
+4    4.69552 1.35563 2.34255 91.6063
+5    2.15839 13.4485 52.6582 31.7349
+6    0.241067 98.882 0.558166 0.318757
+7    0.144065 1.10355 98.5609 0.191485
+8    0.537502 2.68676 96.4554 0.320365
+9    50.1433 8.10114 26.9864 14.7691
+10   92.9388 2.59393 2.58539 1.88185
+11   64.6423 2.95306 4.2736 28.131
+12   1.52399 0.363746 0.1845 97.9278
+13   1.8279 1.24626 0.305208 96.6206
+14   97.9885 0.511957 1.03339 0.466158
+15   97.4689 0.610048 0.213654 1.70739
+16   42.0018 12.3429 8.43026 37.2251
+17   31.9983 13.0198 11.7457 43.2362
+18   79.1165 9.47019 2.7945 8.61879
+19   17.886 38.8448 16.9136 26.3556
+20   0.821226 97.7386 0.827366 0.612774
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1191
+CC  accession: M08693_2.00
+CC  AC: M08693_2.00
+CC  id: M08693_2.00
+CC  name: TEA1
+CC  version: 
+CC  name: TEA1
+CC  description: TEA1
+CC  transfac_consensus: 
+CC  matrix.nb: 1191
+XX
+//
+AC  M08694_2.00
+XX
+ID  RDR1
+XX
+DE  RDR1
+P0       A     C     G     T
+1    18.1818 9.09091 9.09091 63.6364
+2        0 9.09091 9.09091 81.8182
+3        0   100     0     0
+4        0   100     0     0
+5    18.1818     0 81.8182     0
+6        0 81.8182     0 18.1818
+7        0     0   100     0
+8        0     0   100     0
+9    81.8182     0 18.1818     0
+10   63.6364     0 27.2727 9.09091
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1192
+CC  accession: M08694_2.00
+CC  AC: M08694_2.00
+CC  id: M08694_2.00
+CC  name: RDR1
+CC  version: 
+CC  name: RDR1
+CC  description: RDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1192
+XX
+//
+AC  M08695_2.00
+XX
+ID  RDR1
+XX
+DE  RDR1
+P0       A     C     G     T
+1     16.6 17.1361 17.0988 49.165
+2    20.4104 30.1398 25.6894 23.7604
+3    32.6225 28.3718 25.5955 13.4103
+4    16.0853 19.0291 38.6764 26.2093
+5    32.2242 29.9715 18.521 19.2832
+6    26.8665 39.1214 19.5986 14.4135
+7    15.079 31.1168 33.0646 20.7396
+8    21.331 13.9651 12.8428 51.8612
+9    1.69711 9.66474 81.4281 7.21001
+10   0.264914 98.3715 0.519767 0.843816
+11   0.34357 0.606801 98.7089 0.340732
+12   0.33216 0.438581 98.9082 0.321017
+13   81.2715 1.9204 15.942 0.866017
+14   33.9252 0.673859 2.50687 62.8941
+15   79.043 6.642 11.3597 2.95529
+16   16.4405 15.5665 21.076 46.917
+17   19.3387 28.5644 29.9232 22.1738
+18   26.9355 19.246 32.7008 21.1176
+19   30.4041 25.961 21.0811 22.5539
+20   17.5954 20.0277 26.4492 35.9277
+21   11.2436 42.6178 27.1352 19.0034
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1193
+CC  accession: M08695_2.00
+CC  AC: M08695_2.00
+CC  id: M08695_2.00
+CC  name: RDR1
+CC  version: 
+CC  name: RDR1
+CC  description: RDR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1193
+XX
+//
+AC  M08696_2.00
+XX
+ID  RDS2
+XX
+DE  RDS2
+P0       A     C     G     T
+1       25    25    25    25
+2        0   100     0     0
+3        0     0   100     0
+4        0     0   100     0
+5       50    50     0     0
+6        0     0     0   100
+7       25    25    25    25
+8      100     0     0     0
+9      100     0     0     0
+10   33.3333 33.3333     0 33.3333
+11       0     0   100     0
+12       0     0   100     0
+13      50     0    50     0
+14      25    25    25    25
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1194
+CC  accession: M08696_2.00
+CC  AC: M08696_2.00
+CC  id: M08696_2.00
+CC  name: RDS2
+CC  version: 
+CC  name: RDS2
+CC  description: RDS2
+CC  transfac_consensus: 
+CC  matrix.nb: 1194
+XX
+//
+AC  M08697_2.00
+XX
+ID  RDS2
+XX
+DE  RDS2
+P0       A     C     G     T
+1    46.4996 16.9594 20.0418 16.4992
+2    30.3786 31.0979 20.1796 18.3438
+3    23.5949 17.0345 27.1946 32.176
+4    21.2987 29.6733 19.5956 29.4324
+5    16.2214 36.0087 17.3765 30.3935
+6    23.3465 38.2746 19.2675 19.1114
+7    2.09417 0.979961 1.51519 95.4107
+8    0.453848 98.8926 0.213986 0.439609
+9    0.359441 3.27727 96.1542 0.209071
+10   0.275434 1.82936 97.5691 0.326068
+11   38.1722 0.960571 60.4166 0.450678
+12   29.8729 4.60111 8.46044 57.0655
+13   10.361 3.37183 5.92369 80.3435
+14   9.51118 10.0338 3.30921 77.1458
+15   13.2043 13.972 6.08379 66.7399
+16   15.6369 49.3216 14.3691 20.6723
+17   25.2184 15.9728 30.3618 28.4471
+18   30.0295 25.4707 23.3553 21.1445
+19   28.5678 25.072 19.4172 26.943
+20   35.9866 28.2014 18.6042 17.2078
+21   12.1668 33.0335 16.5935 38.2062
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1195
+CC  accession: M08697_2.00
+CC  AC: M08697_2.00
+CC  id: M08697_2.00
+CC  name: RDS2
+CC  version: 
+CC  name: RDS2
+CC  description: RDS2
+CC  transfac_consensus: 
+CC  matrix.nb: 1195
+XX
+//
+AC  M08698_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1      2.9  89.4   2.4   5.3
+2    1.998 10.4895 83.6164 3.8961
+3        5   8.1  80.3   6.6
+4     46.5  27.4  13.7  12.4
+5     13.9  32.1  46.1   7.9
+6    14.6146 29.1291 35.035 21.2212
+7     41.4    22  23.7  12.9
+8    26.1738 39.8601 24.0759 9.89011
+9      0.3     9   4.1  86.6
+10    14.5  42.7  28.3  14.5
+11   6.50651 18.9189 11.8118 62.7628
+12    14.9  32.7  28.6  23.8
+13   7.30731 33.7337 46.1461 12.8128
+14   21.4785 23.0769 21.0789 34.3656
+15   2.5025 77.0771 18.9189 1.5015
+16     5.3  88.7   4.1   1.9
+17     2.6   1.2  93.9   2.3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1196
+CC  accession: M08698_2.00
+CC  AC: M08698_2.00
+CC  id: M08698_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 1196
+XX
+//
+AC  M08699_2.00
+XX
+ID  SUT2
+XX
+DE  SUT2
+P0       A     C     G     T
+1    33.8077 24.4012 13.613 28.178
+2    33.0816 25.2311 25.3218 16.3656
+3    30.6823 20.9535 20.408 27.9562
+4    27.9043 16.8878 21.4011 33.8068
+5    21.776 15.4456 25.25 37.5284
+6    13.7831 25.7847 8.0862 52.346
+7    2.45309 16.8655 1.69612 78.9852
+8    0.292128 99.3399 0.152262 0.215686
+9    0.126059 1.27079 98.4958 0.107343
+10   0.290767 0.143615 99.289 0.276629
+11   98.1758 0.0816445 1.62109 0.121512
+12   0.223345 28.7652 70.9623 0.0491428
+13   1.66837 1.16393 0.0510053 97.1167
+14   4.0572 1.26486 0.602347 94.0756
+15   10.4627 28.732 8.59236 52.2128
+16   38.1988 15.3215 21.6228 24.8568
+17   34.5027 10.0544 20.0323 35.4107
+18   23.3941 27.7348 21.8783 26.9929
+19   30.3749 26.4274 20.6428 22.5549
+20   32.1809 11.2724 23.2014 33.3452
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1197
+CC  accession: M08699_2.00
+CC  AC: M08699_2.00
+CC  id: M08699_2.00
+CC  name: SUT2
+CC  version: 
+CC  name: SUT2
+CC  description: SUT2
+CC  transfac_consensus: 
+CC  matrix.nb: 1197
+XX
+//
+AC  M08700_2.00
+XX
+ID  YPR196W
+XX
+DE  YPR196W
+P0       A     C     G     T
+1    41.3808 19.7995 24.6955 14.1242
+2    35.4903 19.1541 15.473 29.8827
+3    31.0072 11.2413 11.9427 45.8088
+4    31.0092 31.1374 18.0452 19.8082
+5    33.1138 19.7845 17.3942 29.7076
+6    7.93229 28.5712 14.6407 48.8558
+7    5.38349 83.0845 8.35687 3.1751
+8    1.423 3.71658 91.7463 3.11412
+9    1.63337 10.7271 86.0225 1.61712
+10   52.381 4.30423 29.2287 14.0861
+11   31.1028 3.00229 49.7762 16.1187
+12   79.4815 2.36755 6.05002 12.1009
+13   84.4075 0.943128 3.19724 11.4521
+14   61.7113 1.56401 0.828767 35.8959
+15   12.7379 10.2721 2.91315 74.0768
+16   28.9054 23.0255 10.3785 37.6906
+17   26.6952 23.3165 34.6222 15.3661
+18   50.8735 16.1962 16.3636 16.5667
+19   21.4923 24.1281 30.3931 23.9865
+20   33.7672 18.981 19.2754 27.9765
+21   17.6526 10.8706 15.3512 56.1255
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1198
+CC  accession: M08700_2.00
+CC  AC: M08700_2.00
+CC  id: M08700_2.00
+CC  name: YPR196W
+CC  version: 
+CC  name: YPR196W
+CC  description: YPR196W
+CC  transfac_consensus: 
+CC  matrix.nb: 1198
+XX
+//
+AC  M09018_2.00
+XX
+ID  M09018_2.00
+XX
+DE  ytcysattggyyrr 
+P0       A     C     G     T
+1     11.4  39.6     3    46
+2      6.8    14  21.2    58
+3      6.6  52.2  17.8  23.4
+4      1.2  26.2   5.2  67.4
+5      4.4  25.8  55.4  14.4
+6     97.2   0.4     2   0.4
+7      0.2   1.8   1.2  96.8
+8        0     0     0   100
+9      0.8   0.2  98.6   0.4
+10     0.4     0    99   0.6
+11      12    49   1.4  37.6
+12     4.4  35.2    10  50.4
+13    37.8  12.2    41     9
+14    34.4    21  32.4  12.2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1199
+CC  accession: M09018_2.00
+CC  AC: M09018_2.00
+CC  id: M09018_2.00
+CC  name: M09018_2.00
+CC  version: 
+CC  name: M09018_2.00
+CC  description: ytcysattggyyrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1199
+XX
+//
+AC  M09019_2.00
+XX
+ID  M09019_2.00
+XX
+DE  ytcysattggyyrr 
+P0       A     C     G     T
+1     11.4  39.6     3    46
+2      6.8    14  21.2    58
+3      6.6  52.2  17.8  23.4
+4      1.2  26.2   5.2  67.4
+5      4.4  25.8  55.4  14.4
+6     97.2   0.4     2   0.4
+7      0.2   1.8   1.2  96.8
+8        0     0     0   100
+9      0.8   0.2  98.6   0.4
+10     0.4     0    99   0.6
+11      12    49   1.4  37.6
+12     4.4  35.2    10  50.4
+13    37.8  12.2    41     9
+14    34.4    21  32.4  12.2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1200
+CC  accession: M09019_2.00
+CC  AC: M09019_2.00
+CC  id: M09019_2.00
+CC  name: M09019_2.00
+CC  version: 
+CC  name: M09019_2.00
+CC  description: ytcysattggyyrr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1200
+XX
+//
+AC  M09156_2.00
+XX
+ID  M09156_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    17.3729 30.9322 7.20339 44.4915
+2        0     0     0   100
+3      100     0     0     0
+4    98.3051     0 1.69492     0
+5    1.69492 1.69492     0 96.6102
+6        0 5.08475 5.08475 89.8305
+7    45.7627 1.69492 49.1525 3.38983
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1201
+CC  accession: M09156_2.00
+CC  AC: M09156_2.00
+CC  id: M09156_2.00
+CC  name: M09156_2.00
+CC  version: 
+CC  name: M09156_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1201
+XX
+//
+AC  M09160_2.00
+XX
+ID  M09160_2.00
+XX
+DE  rtaattrvatta 
+P0       A     C     G     T
+1    43.6833 20.9075 27.3132 8.09609
+2    6.40569 9.60854     0 83.9858
+3    77.2242 3.20285 9.96441 9.60854
+4    86.8327 6.40569     0 6.76157
+5        0 9.60854     0 90.3915
+6    3.20285 22.7758 12.8114 61.21
+7    48.3986     0 51.6014     0
+8    35.5872 25.6228 35.5872 3.20285
+9    77.5801     0 12.8114 9.60854
+10   9.96441     0 3.20285 86.8327
+11   6.40569 3.20285 3.20285 87.1886
+12   82.9181 5.69395 5.69395 5.69395
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1202
+CC  accession: M09160_2.00
+CC  AC: M09160_2.00
+CC  id: M09160_2.00
+CC  name: M09160_2.00
+CC  version: 
+CC  name: M09160_2.00
+CC  description: rtaattrvatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 1202
+XX
+//
+AC  M09180_2.00
+XX
+ID  M09180_2.00
+XX
+DE  kargctaattar 
+P0       A     C     G     T
+1     15.2    19    34  31.8
+2     47.6    16  14.8  21.6
+3     60.4   0.2  36.2   3.2
+4      0.4   0.2  99.4     0
+5        0  97.8   0.8   1.4
+6        0   0.8     0  99.2
+7     99.8     0   0.2     0
+8     99.6   0.4     0     0
+9        0     0   0.4  99.6
+10     0.4   0.8     1  97.8
+11    97.8   0.4   0.4   1.4
+12      41   8.2  38.8    12
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1203
+CC  accession: M09180_2.00
+CC  AC: M09180_2.00
+CC  id: M09180_2.00
+CC  name: M09180_2.00
+CC  version: 
+CC  name: M09180_2.00
+CC  description: kargctaattar 
+CC  transfac_consensus: 
+CC  matrix.nb: 1203
+XX
+//
+AC  M09194_2.00
+XX
+ID  M09194_2.00
+XX
+DE  htaattrsy 
+P0       A     C     G     T
+1    29.1502 32.9508 5.06935 32.8297
+2        0     0     0   100
+3    97.4653     0     0 2.53468
+4    97.4653 2.53468     0     0
+5    2.53468 2.53468 2.53468 92.396
+6    2.53468     0 10.1387 87.3266
+7    36.6274     0 63.3726     0
+8    18.8846 30.419 44.3583 6.33813
+9    8.23913 27.1238 17.1091 47.528
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1204
+CC  accession: M09194_2.00
+CC  AC: M09194_2.00
+CC  id: M09194_2.00
+CC  name: M09194_2.00
+CC  version: 
+CC  name: M09194_2.00
+CC  description: htaattrsy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1204
+XX
+//
+AC  M09201_2.00
+XX
+ID  M09201_2.00
+XX
+DE  rtaattrvatta 
+P0       A     C     G     T
+1    43.6833 20.9075 27.3132 8.09609
+2    6.40569 9.60854     0 83.9858
+3    77.2242 3.20285 9.96441 9.60854
+4    86.8327 6.40569     0 6.76157
+5        0 9.60854     0 90.3915
+6    3.20285 22.7758 12.8114 61.21
+7    48.3986     0 51.6014     0
+8    35.5872 25.6228 35.5872 3.20285
+9    77.5801     0 12.8114 9.60854
+10   9.96441     0 3.20285 86.8327
+11   6.40569 3.20285 3.20285 87.1886
+12   82.9181 5.69395 5.69395 5.69395
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1205
+CC  accession: M09201_2.00
+CC  AC: M09201_2.00
+CC  id: M09201_2.00
+CC  name: M09201_2.00
+CC  version: 
+CC  name: M09201_2.00
+CC  description: rtaattrvatta 
+CC  transfac_consensus: 
+CC  matrix.nb: 1205
+XX
+//
+AC  M09207_2.00
+XX
+ID  M09207_2.00
+XX
+DE  ytaattr 
+P0       A     C     G     T
+1    17.3729 30.9322 7.20339 44.4915
+2        0     0     0   100
+3      100     0     0     0
+4    98.3051     0 1.69492     0
+5    1.69492 1.69492     0 96.6102
+6        0 5.08475 5.08475 89.8305
+7    45.7627 1.69492 49.1525 3.38983
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1206
+CC  accession: M09207_2.00
+CC  AC: M09207_2.00
+CC  id: M09207_2.00
+CC  name: M09207_2.00
+CC  version: 
+CC  name: M09207_2.00
+CC  description: ytaattr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1206
+XX
+//
+AC  M09210_2.00
+XX
+ID  M09210_2.00
+XX
+DE  taattrratta 
+P0       A     C     G     T
+1     17.6   4.4   2.6  75.4
+2       91   0.6   4.6   3.8
+3      100     0     0     0
+4        3   6.8   4.6  85.6
+5      7.6    11  17.2  64.2
+6     47.8     0  52.2     0
+7       49  13.6  29.8   7.6
+8     75.2   1.8  14.8   8.2
+9      1.2   0.4   0.6  97.8
+10     4.2   9.4   0.4    86
+11    72.4   5.4   4.2    18
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1207
+CC  accession: M09210_2.00
+CC  AC: M09210_2.00
+CC  id: M09210_2.00
+CC  name: M09210_2.00
+CC  version: 
+CC  name: M09210_2.00
+CC  description: taattrratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 1207
+XX
+//
+AC  M09229_2.00
+XX
+ID  M09229_2.00
+XX
+DE  vgaakrttctagaa 
+P0       A     C     G     T
+1    34.1392 26.179 30.8834 8.79831
+2    6.72128 8.40885 76.648 8.22189
+3    75.0297 6.85647 11.7061 6.40775
+4    69.2769 6.05789 11.0646 13.6006
+5    12.0981 23.04 28.0198 36.8421
+6    30.4404 18.9921 41.5818 8.98567
+7    9.6047 3.61831 7.87382 78.9032
+8    6.45456 4.85172 9.26486 79.4289
+9    4.42911 79.5095 12.06 4.0014
+10   6.77002 13.7598 16.1984 63.2718
+11   58.2009 17.7806 17.4564 6.56207
+12   1.68635 11.9123 81.0129 5.38845
+13   72.5306 6.17122 11.4388 9.85939
+14   55.078 16.2435 13.8522 14.8263
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1208
+CC  accession: M09229_2.00
+CC  AC: M09229_2.00
+CC  id: M09229_2.00
+CC  name: M09229_2.00
+CC  version: 
+CC  name: M09229_2.00
+CC  description: vgaakrttctagaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 1208
+XX
+//
+AC  M09231_2.00
+XX
+ID  M09231_2.00
+XX
+DE  vgaakrttctagaa 
+P0       A     C     G     T
+1    34.1392 26.179 30.8834 8.79831
+2    6.72128 8.40885 76.648 8.22189
+3    75.0297 6.85647 11.7061 6.40775
+4    69.2769 6.05789 11.0646 13.6006
+5    12.0981 23.04 28.0198 36.8421
+6    30.4404 18.9921 41.5818 8.98567
+7    9.6047 3.61831 7.87382 78.9032
+8    6.45456 4.85172 9.26486 79.4289
+9    4.42911 79.5095 12.06 4.0014
+10   6.77002 13.7598 16.1984 63.2718
+11   58.2009 17.7806 17.4564 6.56207
+12   1.68635 11.9123 81.0129 5.38845
+13   72.5306 6.17122 11.4388 9.85939
+14   55.078 16.2435 13.8522 14.8263
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1209
+CC  accession: M09231_2.00
+CC  AC: M09231_2.00
+CC  id: M09231_2.00
+CC  name: M09231_2.00
+CC  version: 
+CC  name: M09231_2.00
+CC  description: vgaakrttctagaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 1209
+XX
+//
+AC  M09249_2.00
+XX
+ID  M09249_2.00
+XX
+DE  hawgmccawawawggmaa 
+P0       A     C     G     T
+1    25.1908 32.0611 11.4504 31.2977
+2    46.5649 21.374 15.2672 16.7939
+3    34.3511 9.16031 7.63359 48.855
+4    9.92366 15.2672 58.7786 16.0305
+5    33.5878 34.3511 21.374 10.687
+6        0 95.4198 0.763359 3.81679
+7        0 92.3664 2.29008 5.34351
+8    77.8626 0.763359 2.29008 19.084
+9    42.7481     0 4.58015 52.6718
+10   98.4733 0.763359 0.763359     0
+11   32.8244 4.58015 2.29008 60.3053
+12   78.626 3.05344 5.34351 12.9771
+13   57.2519 3.05344 7.63359 32.0611
+14   5.34351 0.763359 93.8931     0
+15   3.05344 1.52672 92.3664 3.05344
+16   30.5344 39.6947 15.2672 14.5038
+17   58.0153 10.687 19.084 12.2137
+18   57.2519 9.16031 20.6107 12.9771
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1210
+CC  accession: M09249_2.00
+CC  AC: M09249_2.00
+CC  id: M09249_2.00
+CC  name: M09249_2.00
+CC  version: 
+CC  name: M09249_2.00
+CC  description: hawgmccawawawggmaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 1210
+XX
+//
+AC  M09254_2.00
+XX
+ID  M09254_2.00
+XX
+DE  rtkgccawawawggvaa 
+P0       A     C     G     T
+1    40.6417 17.9144 25.6684 15.7754
+2    24.8663 11.7647 10.1604 53.2086
+3    22.9947 5.08021 44.9198 27.0053
+4    14.4385 18.4492 54.8128 12.2995
+5    2.40642 94.1176 0.26738 3.20856
+6    1.3369 85.5615 0.802139 12.2995
+7    75.6684 3.74332 2.40642 18.1818
+8    47.0588 2.40642 6.68449 43.8503
+9    91.1765 1.3369 4.81283 2.6738
+10   27.5401 4.0107 4.81283 63.6364
+11   86.631 3.74332 3.20856 6.41711
+12   62.5668 0.534759 4.54545 32.3529
+13   4.27807     0 94.9198 0.802139
+14   2.40642 1.06952 95.4545 1.06952
+15   36.8984 25.4011 31.2834 6.41711
+16   60.9626 21.9251 9.62567 7.48663
+17   57.754 9.62567 20.5882 12.0321
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1211
+CC  accession: M09254_2.00
+CC  AC: M09254_2.00
+CC  id: M09254_2.00
+CC  name: M09254_2.00
+CC  version: 
+CC  name: M09254_2.00
+CC  description: rtkgccawawawggvaa 
+CC  transfac_consensus: 
+CC  matrix.nb: 1211
+XX
+//
+AC  M09361_2.00
+XX
+ID  M09361_2.00
+XX
+DE  sgttrccatggyra 
+P0       A     C     G     T
+1    11.2355 30.3491 35.1304 23.2851
+2        0     0   100     0
+3        0     0     0   100
+4    6.99892 0.893639     0 92.1074
+5    33.3144 0.446819 61.0573 5.18146
+6        0 89.1839     0 10.8161
+7        0 78.9947     0 21.0053
+8    99.8643     0 0.0678545 0.0678545
+9    0.678545     0 5.51314 93.8083
+10   10.5345     0 89.4655     0
+11   6.75064 0.135709 93.1136     0
+12   12.0432 27.9205 7.30042 52.7359
+13   58.6917 0.0678545 30.0752 11.1652
+14   55.5468 14.6914 14.6914 15.0704
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1212
+CC  accession: M09361_2.00
+CC  AC: M09361_2.00
+CC  id: M09361_2.00
+CC  name: M09361_2.00
+CC  version: 
+CC  name: M09361_2.00
+CC  description: sgttrccatggyra 
+CC  transfac_consensus: 
+CC  matrix.nb: 1212
+XX
+//
+AC  M09362_2.00
+XX
+ID  M09362_2.00
+XX
+DE  ykgttgccatggcracvs 
+P0       A     C     G     T
+1    4.25532 56.974 10.4019 28.3688
+2    13.0024 17.7305 40.8983 28.3688
+3        0     0   100     0
+4        0 0.70922     0 99.2908
+5    1.89125 8.03783 0.472813 89.5981
+6    4.25532 0.236407 94.0898 1.41844
+7    0.236407 90.5437 0.236407 8.98345
+8        0 80.1418     0 19.8582
+9    80.3783 5.43735 5.67376 8.51064
+10   13.0024 0.70922 11.5839 74.7045
+11   7.80142     0 91.7258 0.472813
+12   11.5839 0.70922 87.4704 0.236407
+13   15.6028 53.4279 19.3853 11.5839
+14   57.6832 3.5461 30.0236 8.74704
+15   84.6336 5.43735 7.32861 2.60047
+16   2.36407 85.8156 1.65485 10.1655
+17   30.7329 25.7683 33.0969 10.4019
+18   19.1489 26.4775 44.4444 9.92908
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1213
+CC  accession: M09362_2.00
+CC  AC: M09362_2.00
+CC  id: M09362_2.00
+CC  name: M09362_2.00
+CC  version: 
+CC  name: M09362_2.00
+CC  description: ykgttgccatggcracvs 
+CC  transfac_consensus: 
+CC  matrix.nb: 1213
+XX
+//
+AC  M09363_2.00
+XX
+ID  M09363_2.00
+XX
+DE  sssscsgttgccakggcracss 
+P0       A     C     G     T
+1    7.32454 37.3782 40.9498 14.3475
+2    10.8914 45.733 26.7771 16.5985
+3    6.72303 43.0254 32.121 18.1305
+4    9.22054 40.1239 37.5148 13.1408
+5    5.2827 59.4942 24.6074 10.6158
+6    13.6798 34.0973 34.6155 17.6074
+7    0.697942 0.861253 98.0075 0.433281
+8    0.199153 10.6458 0.201549 88.9535
+9    2.26731 18.762 0.84399 78.1267
+10   3.1777 1.36369 89.9783 5.48028
+11   0.228096 89.9151 0.214353 9.64244
+12       0 78.9671 1.16597 19.8669
+13   74.0518 6.18108 9.6823 10.0849
+14   16.2391 6.49243 31.08 46.1885
+15   4.6714 0.387132 94.6894 0.252074
+16   8.91854 6.49487 82.5841 2.00245
+17   22.7418 40.6082 21.4403 15.2098
+18   40.474 9.67449 42.3421 7.50945
+19   62.4203 21.0926 12.5736 3.91344
+20   7.15406 71.4437 12.172 9.23032
+21   14.73 30.7378 47.1065 7.42567
+22   15.3023 28.5514 49.9033 6.24302
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1214
+CC  accession: M09363_2.00
+CC  AC: M09363_2.00
+CC  id: M09363_2.00
+CC  name: M09363_2.00
+CC  version: 
+CC  name: M09363_2.00
+CC  description: sssscsgttgccakggcracss 
+CC  transfac_consensus: 
+CC  matrix.nb: 1214
+XX
+//
+AC  M09366_2.00
+XX
+ID  M09366_2.00
+XX
+DE  ycysgtykccatggcaacmsss 
+P0       A     C     G     T
+1       25 25.7576 15.1515 34.0909
+2    12.1212 53.7879 16.6667 17.4242
+3    11.3636 41.6667 9.84848 37.1212
+4    3.78788 46.9697 33.3333 15.9091
+5    16.6667 7.57576 69.697 6.06061
+6    3.0303 9.84848 14.3939 72.7273
+7    9.84848 33.3333 2.27273 54.5455
+8    13.6364 15.1515 40.1515 31.0606
+9    0.757576 82.5758 5.30303 11.3636
+10   0.757576 86.3636 1.51515 11.3636
+11   62.8788 22.7273 4.54545 9.84848
+12   12.8788 12.8788 2.27273 71.9697
+13   20.4545 3.78788 73.4848 2.27273
+14   15.9091 3.0303 77.2727 3.78788
+15   9.84848 75.7576 3.78788 10.6061
+16   71.9697 2.27273 19.697 6.06061
+17   93.9394     0 5.30303 0.757576
+18   2.27273 89.3939 0.757576 7.57576
+19   31.8182 32.5758 18.1818 17.4242
+20   6.06061 31.8182 57.5758 4.54545
+21   12.1212 53.0303 25.7576 9.09091
+22   6.06061 47.7273 33.3333 12.8788
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1215
+CC  accession: M09366_2.00
+CC  AC: M09366_2.00
+CC  id: M09366_2.00
+CC  name: M09366_2.00
+CC  version: 
+CC  name: M09366_2.00
+CC  description: ycysgtykccatggcaacmsss 
+CC  transfac_consensus: 
+CC  matrix.nb: 1215
+XX
+//
+AC  M09367_2.00
+XX
+ID  M09367_2.00
+XX
+DE  sssscsgttgccakggcracss 
+P0       A     C     G     T
+1    7.32454 37.3782 40.9498 14.3475
+2    10.8914 45.733 26.7771 16.5985
+3    6.72303 43.0254 32.121 18.1305
+4    9.22054 40.1239 37.5148 13.1408
+5    5.2827 59.4942 24.6074 10.6158
+6    13.6798 34.0973 34.6155 17.6074
+7    0.697942 0.861253 98.0075 0.433281
+8    0.199153 10.6458 0.201549 88.9535
+9    2.26731 18.762 0.84399 78.1267
+10   3.1777 1.36369 89.9783 5.48028
+11   0.228096 89.9151 0.214353 9.64244
+12       0 78.9671 1.16597 19.8669
+13   74.0518 6.18108 9.6823 10.0849
+14   16.2391 6.49243 31.08 46.1885
+15   4.6714 0.387132 94.6894 0.252074
+16   8.91854 6.49487 82.5841 2.00245
+17   22.7418 40.6082 21.4403 15.2098
+18   40.474 9.67449 42.3421 7.50945
+19   62.4203 21.0926 12.5736 3.91344
+20   7.15406 71.4437 12.172 9.23032
+21   14.73 30.7378 47.1065 7.42567
+22   15.3023 28.5514 49.9033 6.24302
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1216
+CC  accession: M09367_2.00
+CC  AC: M09367_2.00
+CC  id: M09367_2.00
+CC  name: M09367_2.00
+CC  version: 
+CC  name: M09367_2.00
+CC  description: sssscsgttgccakggcracss 
+CC  transfac_consensus: 
+CC  matrix.nb: 1216
+XX
+//
+AC  M09368_2.00
+XX
+ID  M09368_2.00
+XX
+DE  csgttgccatggcrac 
+P0       A     C     G     T
+1    2.57143    58    22 17.4286
+2    4.57143 27.7143 48.5714 19.1429
+3        0     0   100     0
+4        0 3.71429 0.285714    96
+5    1.71429 6.85714 0.285714 91.1429
+6    4.57143 1.42857 88.5714 5.42857
+7        0    92 0.285714 7.71429
+8        0 83.7143     0 16.2857
+9       78 2.57143 6.57143 12.8571
+10   12.5714     2 14.5714 70.8571
+11   5.71429     0 94.2857     0
+12   9.42857 0.571429    90     0
+13   22.5714    42    18 17.4286
+14   50.5714 3.42857 42.8571 3.14286
+15      84 7.71429 6.85714 1.42857
+16   2.85714 85.4286 1.42857 10.2857
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1217
+CC  accession: M09368_2.00
+CC  AC: M09368_2.00
+CC  id: M09368_2.00
+CC  name: M09368_2.00
+CC  version: 
+CC  name: M09368_2.00
+CC  description: csgttgccatggcrac 
+CC  transfac_consensus: 
+CC  matrix.nb: 1217
+XX
+//
+AC  M09387_2.00
+XX
+ID  M09387_2.00
+XX
+DE  maarrrrrbcwttgtt 
+P0       A     C     G     T
+1       38  40.2  16.8     5
+2     88.8   6.4   3.2   1.6
+3       77   3.2    12   7.8
+4       48   3.2    25  23.8
+5     32.4   7.8  54.6   5.2
+6     27.8  16.4  50.2   5.6
+7     36.8  21.2  30.4  11.6
+8     29.2  14.8  32.2  23.8
+9        5  29.2  40.4  25.4
+10       5  79.8   4.6  10.6
+11    50.6   4.4   1.2  43.8
+12     2.8   7.4   3.6  86.2
+13     0.6   2.2   0.6  96.6
+14     5.4     2  92.6     0
+15     6.2   0.2   1.2  92.4
+16    13.8  18.2    18    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1218
+CC  accession: M09387_2.00
+CC  AC: M09387_2.00
+CC  id: M09387_2.00
+CC  name: M09387_2.00
+CC  version: 
+CC  name: M09387_2.00
+CC  description: maarrrrrbcwttgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1218
+XX
+//
+AC  M09388_2.00
+XX
+ID  M09388_2.00
+XX
+DE  yyctttgtyyyy 
+P0       A     C     G     T
+1        4  33.4  23.6    39
+2      1.8  53.2  12.2  32.8
+3      0.6  80.4   0.8  18.2
+4     10.6     3     1  85.4
+5      0.4   1.6   3.6  94.4
+6      0.2   1.2   2.6    96
+7      2.2   9.2  84.8   3.8
+8      1.2     2   1.4  95.4
+9      1.4  33.4    12  53.2
+10     2.8  57.4   8.8    31
+11     5.6  36.2  16.2    42
+12      12    38  20.6  29.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1219
+CC  accession: M09388_2.00
+CC  AC: M09388_2.00
+CC  id: M09388_2.00
+CC  name: M09388_2.00
+CC  version: 
+CC  name: M09388_2.00
+CC  description: yyctttgtyyyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1219
+XX
+//
+AC  M09389_2.00
+XX
+ID  M09389_2.00
+XX
+DE  raacaawgvsscchtt 
+P0       A     C     G     T
+1     30.8     7  56.6   5.6
+2     63.6  19.4  13.2   3.8
+3     98.6     0   0.2   1.2
+4      0.2    99   0.4   0.4
+5      100     0     0     0
+6       77   9.4  13.6     0
+7     50.6   1.4   7.8  40.2
+8     10.6   6.2  79.6   3.6
+9       25  25.6  42.8   6.6
+10      23  29.8  28.2    19
+11      17  33.8  25.8  23.4
+12       5  52.2  19.4  23.4
+13    12.8  60.8     5  21.4
+14    29.4  28.8   0.6  41.2
+15       6   5.6   0.4    88
+16     1.4   4.4  13.8  80.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1220
+CC  accession: M09389_2.00
+CC  AC: M09389_2.00
+CC  id: M09389_2.00
+CC  name: M09389_2.00
+CC  version: 
+CC  name: M09389_2.00
+CC  description: raacaawgvsscchtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1220
+XX
+//
+AC  M09390_2.00
+XX
+ID  M09390_2.00
+XX
+DE  waacaatr 
+P0       A     C     G     T
+1    33.5297 13.0836 15.6085 37.7783
+2    88.0865 2.13612 4.26041 5.51695
+3    93.6035     0 5.26565 1.13089
+4    2.26177 89.9595 3.39266 4.38607
+5    97.7382     0 1.13089 1.13089
+6    90.0852 6.52219 3.39266     0
+7    6.78532 5.78009     0 87.4346
+8    39.665 16.0109 31.2032 13.1209
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1221
+CC  accession: M09390_2.00
+CC  AC: M09390_2.00
+CC  id: M09390_2.00
+CC  name: M09390_2.00
+CC  version: 
+CC  name: M09390_2.00
+CC  description: waacaatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1221
+XX
+//
+AC  M09391_2.00
+XX
+ID  M09391_2.00
+XX
+DE  bccwttgtbyy 
+P0       A     C     G     T
+1      3.4  25.6  36.6  34.4
+2      0.8  67.4  12.6  19.2
+3      1.2  75.4   0.6  22.8
+4     32.8     1   0.6  65.6
+5        0     1   0.4  98.6
+6        0     0   0.2  99.8
+7      0.6   9.4  89.6   0.4
+8      0.8   0.2   0.2  98.8
+9      1.8  34.6  31.4  32.2
+10       9    44   6.2  40.8
+11      11  34.8  22.8  31.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1222
+CC  accession: M09391_2.00
+CC  AC: M09391_2.00
+CC  id: M09391_2.00
+CC  name: M09391_2.00
+CC  version: 
+CC  name: M09391_2.00
+CC  description: bccwttgtbyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1222
+XX
+//
+AC  M09396_2.00
+XX
+ID  M09396_2.00
+XX
+DE  sccattktkyt 
+P0       A     C     G     T
+1     11.4  28.4  42.6  17.6
+2      3.2  80.6   9.2     7
+3        4    80   0.4  15.6
+4     88.8   1.6   0.4   9.2
+5      0.4     2     1  96.6
+6      0.8  11.8  11.2  76.2
+7     2.25  6.65 62.05 29.05
+8     2.85  2.25  1.45 93.45
+9    13.45 13.65 27.65 45.25
+10    7.45 29.05 22.85 40.65
+11   13.05 23.65 19.65 43.65
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1223
+CC  accession: M09396_2.00
+CC  AC: M09396_2.00
+CC  id: M09396_2.00
+CC  name: M09396_2.00
+CC  version: 
+CC  name: M09396_2.00
+CC  description: sccattktkyt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1223
+XX
+//
+AC  M09397_2.00
+XX
+ID  M09397_2.00
+XX
+DE  tbycwttgtyyyb 
+P0       A     C     G     T
+1     10.4  22.8  24.6  42.2
+2      3.6  35.2  26.2    35
+3        1  64.2     8  26.8
+4      1.6  72.8     1  24.6
+5     29.2     1     0  69.8
+6        0   0.2   0.2  99.6
+7        0     0     0   100
+8      1.6  15.6  80.8     2
+9      6.2   1.8     0    92
+10     4.6  25.4  20.8  49.2
+11    10.6  41.2   7.6  40.6
+12    10.2  31.2  13.6    45
+13     7.6  39.6  25.8    27
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1224
+CC  accession: M09397_2.00
+CC  AC: M09397_2.00
+CC  id: M09397_2.00
+CC  name: M09397_2.00
+CC  version: 
+CC  name: M09397_2.00
+CC  description: tbycwttgtyyyb 
+CC  transfac_consensus: 
+CC  matrix.nb: 1224
+XX
+//
+AC  M09398_2.00
+XX
+ID  M09398_2.00
+XX
+DE  ywttgttww 
+P0       A     C     G     T
+1    10.4328 28.5373 14.0995 46.9304
+2    36.6669 3.66678 4.44928 55.217
+3    7.79385 0.460299 4.12708 87.6188
+4    9.49696 0.460299 3.02236 87.0204
+5        0 7.33355 91.0094 1.65708
+6    5.52359     0 3.49827 90.9781
+7    19.2545 4.0194 3.40621 73.3199
+8    26.0661 9.46654 6.98093 57.4864
+9    33.8904 24.1953 2.6237 39.2907
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1225
+CC  accession: M09398_2.00
+CC  AC: M09398_2.00
+CC  id: M09398_2.00
+CC  name: M09398_2.00
+CC  version: 
+CC  name: M09398_2.00
+CC  description: ywttgttww 
+CC  transfac_consensus: 
+CC  matrix.nb: 1225
+XX
+//
+AC  M09399_2.00
+XX
+ID  M09399_2.00
+XX
+DE  raacaawgvsscchtt 
+P0       A     C     G     T
+1     30.8     7  56.6   5.6
+2     63.6  19.4  13.2   3.8
+3     98.6     0   0.2   1.2
+4      0.2    99   0.4   0.4
+5      100     0     0     0
+6       77   9.4  13.6     0
+7     50.6   1.4   7.8  40.2
+8     10.6   6.2  79.6   3.6
+9       25  25.6  42.8   6.6
+10      23  29.8  28.2    19
+11      17  33.8  25.8  23.4
+12       5  52.2  19.4  23.4
+13    12.8  60.8     5  21.4
+14    29.4  28.8   0.6  41.2
+15       6   5.6   0.4    88
+16     1.4   4.4  13.8  80.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1226
+CC  accession: M09399_2.00
+CC  AC: M09399_2.00
+CC  id: M09399_2.00
+CC  name: M09399_2.00
+CC  version: 
+CC  name: M09399_2.00
+CC  description: raacaawgvsscchtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1226
+XX
+//
+AC  M09403_2.00
+XX
+ID  M09403_2.00
+XX
+DE  maarrrrrbcwttgtt 
+P0       A     C     G     T
+1       38  40.2  16.8     5
+2     88.8   6.4   3.2   1.6
+3       77   3.2    12   7.8
+4       48   3.2    25  23.8
+5     32.4   7.8  54.6   5.2
+6     27.8  16.4  50.2   5.6
+7     36.8  21.2  30.4  11.6
+8     29.2  14.8  32.2  23.8
+9        5  29.2  40.4  25.4
+10       5  79.8   4.6  10.6
+11    50.6   4.4   1.2  43.8
+12     2.8   7.4   3.6  86.2
+13     0.6   2.2   0.6  96.6
+14     5.4     2  92.6     0
+15     6.2   0.2   1.2  92.4
+16    13.8  18.2    18    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1227
+CC  accession: M09403_2.00
+CC  AC: M09403_2.00
+CC  id: M09403_2.00
+CC  name: M09403_2.00
+CC  version: 
+CC  name: M09403_2.00
+CC  description: maarrrrrbcwttgtt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1227
+XX
+//
+AC  M09404_2.00
+XX
+ID  M09404_2.00
+XX
+DE  waacaatr 
+P0       A     C     G     T
+1    33.5297 13.0836 15.6085 37.7783
+2    88.0865 2.13612 4.26041 5.51695
+3    93.6035     0 5.26565 1.13089
+4    2.26177 89.9595 3.39266 4.38607
+5    97.7382     0 1.13089 1.13089
+6    90.0852 6.52219 3.39266     0
+7    6.78532 5.78009     0 87.4346
+8    39.665 16.0109 31.2032 13.1209
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1228
+CC  accession: M09404_2.00
+CC  AC: M09404_2.00
+CC  id: M09404_2.00
+CC  name: M09404_2.00
+CC  version: 
+CC  name: M09404_2.00
+CC  description: waacaatr 
+CC  transfac_consensus: 
+CC  matrix.nb: 1228
+XX
+//
+AC  M09405_2.00
+XX
+ID  M09405_2.00
+XX
+DE  rrvacaawggv 
+P0       A     C     G     T
+1    31.686 22.6744 34.0116 11.6279
+2    32.8488 10.1744 46.8023 10.1744
+3    37.7907 25.5814 35.1744 1.45349
+4    99.4186 0.290698     0 0.290698
+5    0.872093 88.6628 9.59302 0.872093
+6    99.4186 0.581395     0     0
+7    96.5116 2.03488 1.16279 0.290698
+8    68.0233 0.290698 1.16279 30.5233
+9    18.8953 0.581395 77.907 2.61628
+10   13.6628 10.1744 75.5814 0.581395
+11   25.5814 39.8256 31.686 2.90698
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1229
+CC  accession: M09405_2.00
+CC  AC: M09405_2.00
+CC  id: M09405_2.00
+CC  name: M09405_2.00
+CC  version: 
+CC  name: M09405_2.00
+CC  description: rrvacaawggv 
+CC  transfac_consensus: 
+CC  matrix.nb: 1229
+XX
+//
+AC  M09408_2.00
+XX
+ID  M09408_2.00
+XX
+DE  ywttgttww 
+P0       A     C     G     T
+1    10.4328 28.5373 14.0995 46.9304
+2    36.6669 3.66678 4.44928 55.217
+3    7.79385 0.460299 4.12708 87.6188
+4    9.49696 0.460299 3.02236 87.0204
+5        0 7.33355 91.0094 1.65708
+6    5.52359     0 3.49827 90.9781
+7    19.2545 4.0194 3.40621 73.3199
+8    26.0661 9.46654 6.98093 57.4864
+9    33.8904 24.1953 2.6237 39.2907
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1230
+CC  accession: M09408_2.00
+CC  AC: M09408_2.00
+CC  id: M09408_2.00
+CC  name: M09408_2.00
+CC  version: 
+CC  name: M09408_2.00
+CC  description: ywttgttww 
+CC  transfac_consensus: 
+CC  matrix.nb: 1230
+XX
+//
+AC  M09409_2.00
+XX
+ID  M09409_2.00
+XX
+DE  ttwgcataacaawrgm 
+P0       A     C     G     T
+1    11.2224 7.61523 3.80762 77.3547
+2    20.6413 14.4289 9.41884 55.511
+3    30.4609 3.40681 10.2204 55.9118
+4    19.8397 11.8236 63.5271 4.80962
+5    15.2305 75.1503 5.81162 3.80762
+6    87.976 3.80762 1.002 7.21443
+7    17.4349 6.61323 7.81563 68.1363
+8    36.8737 15.6313 24.8497 22.6453
+9    86.9739 2.40481 0.200401 10.4208
+10   2.40481 74.5491 15.2305 7.81563
+11   97.996 0.400802 0.200401 1.40281
+12   96.5932 1.002 2.20441 0.200401
+13   54.1082 0.801603 1.2024 43.8878
+14   38.8778 1.60321 54.509 5.01002
+15   23.8477 14.2285 56.3126 5.61122
+16   45.2906 29.2585 18.4369 7.01403
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1231
+CC  accession: M09409_2.00
+CC  AC: M09409_2.00
+CC  id: M09409_2.00
+CC  name: M09409_2.00
+CC  version: 
+CC  name: M09409_2.00
+CC  description: ttwgcataacaawrgm 
+CC  transfac_consensus: 
+CC  matrix.nb: 1231
+XX
+//
+AC  M09410_2.00
+XX
+ID  M09410_2.00
+XX
+DE  yyctttgtyyyy 
+P0       A     C     G     T
+1        4  33.4  23.6    39
+2      1.8  53.2  12.2  32.8
+3      0.6  80.4   0.8  18.2
+4     10.6     3     1  85.4
+5      0.4   1.6   3.6  94.4
+6      0.2   1.2   2.6    96
+7      2.2   9.2  84.8   3.8
+8      1.2     2   1.4  95.4
+9      1.4  33.4    12  53.2
+10     2.8  57.4   8.8    31
+11     5.6  36.2  16.2    42
+12      12    38  20.6  29.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1232
+CC  accession: M09410_2.00
+CC  AC: M09410_2.00
+CC  id: M09410_2.00
+CC  name: M09410_2.00
+CC  version: 
+CC  name: M09410_2.00
+CC  description: yyctttgtyyyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1232
+XX
+//
+AC  M09432_2.00
+XX
+ID  M09432_2.00
+XX
+DE  mtataaaars 
+P0       A     C     G     T
+1    28.1879 54.3624 15.4362 2.01342
+2    4.69799 8.72483 8.72483 77.8523
+3    81.2081     0 4.69799 14.094
+4    4.69799 4.69799 4.02685 86.5772
+5    85.906 6.04027 4.02685 4.02685
+6    71.1409 3.3557 2.68456 22.8188
+7    77.1812 2.01342 19.4631 1.34228
+8    59.7315 0.671141 15.4362 24.1611
+9    39.5973 3.3557 49.6644 7.38255
+10   7.38255 30.8725 57.047 4.69799
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1233
+CC  accession: M09432_2.00
+CC  AC: M09432_2.00
+CC  id: M09432_2.00
+CC  name: M09432_2.00
+CC  version: 
+CC  name: M09432_2.00
+CC  description: mtataaaars 
+CC  transfac_consensus: 
+CC  matrix.nb: 1233
+XX
+//
+AC  M09433_2.00
+XX
+ID  M09433_2.00
+XX
+DE  stataaaars 
+P0       A     C     G     T
+1     16.4  50.4  27.4   5.8
+2     13.4  11.4   4.8  70.4
+3     76.8   1.6   2.4  19.2
+4      3.6   4.4  10.2  81.8
+5     91.4     3   3.6     2
+6     85.2   1.8     1    12
+7     94.6     0     5   0.4
+8     76.2   0.6   7.2    16
+9     40.8   1.8  53.8   3.6
+10    11.4    37    43   8.6
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1234
+CC  accession: M09433_2.00
+CC  AC: M09433_2.00
+CC  id: M09433_2.00
+CC  name: M09433_2.00
+CC  version: 
+CC  name: M09433_2.00
+CC  description: stataaaars 
+CC  transfac_consensus: 
+CC  matrix.nb: 1234
+XX
+//
+AC  M09482_2.00
+XX
+ID  PHO4
+XX
+DE  PHO4
+P0       A     C     G     T
+1     51.8   7.2  19.4  21.6
+2       56  14.4  29.5   0.1
+3      7.2    36  56.7   0.1
+4      0.1  99.7   0.1   0.1
+5     99.7   0.1   0.1   0.1
+6      0.1  99.7   0.1   0.1
+7      0.1   0.1  99.7   0.1
+8      0.1   0.1   0.1  99.7
+9      0.1   0.1  99.7   0.1
+10     0.1  33.8  30.1    36
+11    21.6  15.1  49.6  13.7
+12    30.1  14.4  20.8  34.7
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1235
+CC  accession: M09482_2.00
+CC  AC: M09482_2.00
+CC  id: M09482_2.00
+CC  name: PHO4
+CC  version: 
+CC  name: PHO4
+CC  description: PHO4
+CC  transfac_consensus: 
+CC  matrix.nb: 1235
+XX
+//
+AC  M09483_2.00
+XX
+ID  CBF1
+XX
+DE  CBF1
+P0       A     C     G     T
+1      6.7  10.5    22  60.8
+2      0.4  98.9   0.6   0.1
+3     97.8   0.9   0.7   0.6
+4      0.7  93.1   0.1   6.1
+5      3.2     1  95.7   0.1
+6      0.1   0.5   0.5  98.9
+7      0.1   0.3  97.9   1.7
+8       79  11.6   6.2   3.2
+9     14.6  43.8   3.3  38.3
+10    23.1    34    15  27.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1236
+CC  accession: M09483_2.00
+CC  AC: M09483_2.00
+CC  id: M09483_2.00
+CC  name: CBF1
+CC  version: 
+CC  name: CBF1
+CC  description: CBF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1236
+XX
+//
+AC  M09564_2.00
+XX
+ID  M09564_2.00
+XX
+DE  ytaatywratta 
+P0       A     C     G     T
+1       17  40.8  15.3    27
+2     18.3   4.9   0.4  76.4
+3       86   1.2   7.8     5
+4     99.7   0.1   0.1   0.1
+5      1.6   7.7     4  86.7
+6      4.7  34.7  16.2  44.4
+7       29    21    23    27
+8     43.8  13.8  39.5   2.8
+9     84.9   3.3   7.3   4.5
+10     0.1   0.1   0.1  99.7
+11     8.9   5.9   1.7  83.5
+12      74   1.8   4.8  19.4
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1237
+CC  accession: M09564_2.00
+CC  AC: M09564_2.00
+CC  id: M09564_2.00
+CC  name: M09564_2.00
+CC  version: 
+CC  name: M09564_2.00
+CC  description: ytaatywratta 
+CC  transfac_consensus: 
+CC  matrix.nb: 1237
+XX
+//
+AC  M09583_2.00
+XX
+ID  PHO2
+XX
+DE  PHO2
+P0       A     C     G     T
+1     11.6  49.3  26.1  12.9
+2      6.8  68.1  15.2   9.9
+3      4.9  87.9   4.9   2.3
+4     86.2   0.1   5.4   8.3
+5      2.6    95   2.3   0.1
+6      0.1   0.1  99.7   0.1
+7      2.8   2.6   2.3  92.3
+8      7.5   0.1  92.3   0.1
+9     10.9  69.6   9.6   9.9
+10     6.3  19.4  14.3    60
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1238
+CC  accession: M09583_2.00
+CC  AC: M09583_2.00
+CC  id: M09583_2.00
+CC  name: PHO2
+CC  version: 
+CC  name: PHO2
+CC  description: PHO2
+CC  transfac_consensus: 
+CC  matrix.nb: 1238
+XX
+//
+AC  M09598_2.00
+XX
+ID  M09598_2.00
+XX
+DE  ccwwatwwggmm 
+P0       A     C     G     T
+1      0.1  99.4   0.3   0.1
+2      0.1  94.7   0.1   5.1
+3     55.7   3.7   0.4  40.2
+4     28.8   1.4   1.7    68
+5     78.6   1.3   4.1    16
+6       17   4.8   1.2  77.1
+7     69.3   1.7   1.2  27.8
+8     40.5   0.3   1.7  57.5
+9        6   0.1  93.8   0.1
+10     0.3   0.1  99.4   0.3
+11    26.6  30.2    23  20.2
+12    41.3  34.1  10.4  14.2
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1239
+CC  accession: M09598_2.00
+CC  AC: M09598_2.00
+CC  id: M09598_2.00
+CC  name: M09598_2.00
+CC  version: 
+CC  name: M09598_2.00
+CC  description: ccwwatwwggmm 
+CC  transfac_consensus: 
+CC  matrix.nb: 1239
+XX
+//
+AC  M09627_2.00
+XX
+ID  M09627_2.00
+XX
+DE  cggttgccatggcaac 
+P0       A     C     G     T
+1        9  56.4  15.2  19.4
+2     13.3  21.7  43.7  21.3
+3      3.4   0.4  95.1   1.1
+4      1.2   3.5   2.8  92.4
+5      5.2  17.2   1.8  75.8
+6     12.3   6.2  69.3  12.2
+7      0.3  90.5   0.5   8.7
+8      0.1  87.4   0.2  12.3
+9       79   7.6     5   8.4
+10     8.4     5   8.5  78.2
+11    10.7   0.2  89.1   0.1
+12     8.9   0.5  90.1   0.4
+13    11.9  69.3   6.1  12.7
+14    73.8   1.8    19   5.4
+15    91.6   2.5   4.4   1.5
+16     1.1    94   0.6   4.3
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1240
+CC  accession: M09627_2.00
+CC  AC: M09627_2.00
+CC  id: M09627_2.00
+CC  name: M09627_2.00
+CC  version: 
+CC  name: M09627_2.00
+CC  description: cggttgccatggcaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 1240
+XX
+//
+AC  M09628_2.00
+XX
+ID  M09628_2.00
+XX
+DE  kgttgccatggcaac 
+P0       A     C     G     T
+1     12.5  23.4  38.7  25.4
+2      4.8   0.4  94.3   0.5
+3      0.5   4.1   2.1  93.3
+4      4.3  20.4     1  74.3
+5     13.2   6.3  64.9  15.6
+6      0.2  91.2   0.3   8.3
+7      0.1  87.9   0.1  11.9
+8     80.8   7.1   5.5   6.6
+9      6.3   5.2   7.5    81
+10    11.4   0.1  88.4   0.1
+11     7.9   0.4  91.6   0.1
+12    15.9  65.4   6.2  12.5
+13      75   1.1  20.2   3.7
+14    93.5   1.9   4.1   0.5
+15     0.6  94.2   0.3   4.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1241
+CC  accession: M09628_2.00
+CC  AC: M09628_2.00
+CC  id: M09628_2.00
+CC  name: M09628_2.00
+CC  version: 
+CC  name: M09628_2.00
+CC  description: kgttgccatggcaac 
+CC  transfac_consensus: 
+CC  matrix.nb: 1241
+XX
+//
+AC  M09639_2.00
+XX
+ID  M09639_2.00
+XX
+DE  racaawrg 
+P0       A     C     G     T
+1     40.9  18.5    33   7.6
+2       83  11.3   0.1   5.6
+3     12.3  84.3   2.7   0.7
+4     99.7   0.1   0.1   0.1
+5     99.7   0.1   0.1   0.1
+6     51.7   0.1   0.1  48.1
+7       26   0.3  70.5   3.2
+8     13.9  14.7  69.5   1.9
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1242
+CC  accession: M09639_2.00
+CC  AC: M09639_2.00
+CC  id: M09639_2.00
+CC  name: M09639_2.00
+CC  version: 
+CC  name: M09639_2.00
+CC  description: racaawrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 1242
+XX
+//
+AC  M09640_2.00
+XX
+ID  M09640_2.00
+XX
+DE  ccwttgttyy 
+P0       A     C     G     T
+1      7.4  48.9  23.5  20.2
+2       24  44.8    12  19.1
+3     53.3   1.7  15.5  29.5
+4      0.3   1.4   1.3    97
+5      2.6   1.9   1.3  94.2
+6      1.8   6.8  90.9   0.5
+7      0.6   2.4   1.1  95.9
+8     10.7  22.8    18  48.4
+9     19.9  30.5  24.1  25.4
+10    13.5  31.7    19  35.8
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1243
+CC  accession: M09640_2.00
+CC  AC: M09640_2.00
+CC  id: M09640_2.00
+CC  name: M09640_2.00
+CC  version: 
+CC  name: M09640_2.00
+CC  description: ccwttgttyy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1243
+XX
+//
+AC  M09641_2.00
+XX
+ID  M09641_2.00
+XX
+DE  ycwttgtycc 
+P0       A     C     G     T
+1      0.1  47.6  19.3    33
+2      0.1  99.7   0.1   0.1
+3       25   0.1   0.1  74.8
+4      0.1   0.1   0.1  99.7
+5      0.1   0.1   0.1  99.7
+6      0.1   0.1  99.7   0.1
+7      0.1   0.1   0.1  99.7
+8      0.1  29.6   4.6  65.7
+9      0.1  73.1   8.8    18
+10    13.7  45.6  16.7    24
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1244
+CC  accession: M09641_2.00
+CC  AC: M09641_2.00
+CC  id: M09641_2.00
+CC  name: M09641_2.00
+CC  version: 
+CC  name: M09641_2.00
+CC  description: ycwttgtycc 
+CC  transfac_consensus: 
+CC  matrix.nb: 1244
+XX
+//
+AC  M09677_2.00
+XX
+ID  M09677_2.00
+XX
+DE  ttaattrg 
+P0       A     C     G     T
+1    21.8782 16.5211 7.67016 53.9305
+2    6.77083 1.11607 1.11607 90.997
+3    84.2262 2.97619 10.7143 2.08333
+4    98.2887 0.967262 0.372024 0.372024
+5    0.967262 0.372024 2.15774 96.503
+6    1.71131 1.71131 7.58605 88.9913
+7    52.0251 2.52976 38.7487 6.69643
+8    17.236 24.9741 43.4136 14.3763
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1245
+CC  accession: M09677_2.00
+CC  AC: M09677_2.00
+CC  id: M09677_2.00
+CC  name: M09677_2.00
+CC  version: 
+CC  name: M09677_2.00
+CC  description: ttaattrg 
+CC  transfac_consensus: 
+CC  matrix.nb: 1245
+XX
+//
+AC  M09694_2.00
+XX
+ID  M09694_2.00
+XX
+DE  racaawrgmm 
+P0       A     C     G     T
+1    61.8529 8.41176 27.7647 1.97059
+2      100     0     0     0
+3        0   100     0     0
+4    95.5882 4.41176     0     0
+5    94.1176     0 5.88235     0
+6    32.7647     0     0 67.2353
+7    32.1471   0.5 58.4706 8.88235
+8    18.3529 4.97059 76.6765     0
+9    47.5294 28.7353 21.2647 2.47059
+10   31.1765 40.1471 9.91176 18.7647
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1246
+CC  accession: M09694_2.00
+CC  AC: M09694_2.00
+CC  id: M09694_2.00
+CC  name: M09694_2.00
+CC  version: 
+CC  name: M09694_2.00
+CC  description: racaawrgmm 
+CC  transfac_consensus: 
+CC  matrix.nb: 1246
+XX
+//
+AC  M09695_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1    30.4348 26.087 13.0435 30.4348
+2       25 41.6667 16.6667 16.6667
+3    54.1667     0 16.6667 29.1667
+4    16.6667    25 16.6667 41.6667
+5     62.5     0  37.5     0
+6        0     0 4.16667 95.8333
+7    4.16667 95.8333     0     0
+8       75     0 20.8333 4.16667
+9        0 41.6667     0 58.3333
+10   4.16667  12.5 16.6667 66.6667
+11   45.8333 16.6667  12.5    25
+12   16.6667 16.6667 4.16667  62.5
+13   54.1667 8.33333 16.6667 20.8333
+14      25 20.8333 20.8333 33.3333
+15     100     0     0     0
+16       0   100     0     0
+17       0     0   100     0
+18   41.6667     0    25 33.3333
+19      50  12.5 20.8333 16.6667
+20   39.1304 21.7391 13.0435 26.087
+21   26.087 30.4348 26.087 17.3913
+22   30.4348 17.3913 8.69565 43.4783
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1247
+CC  accession: M09695_2.00
+CC  AC: M09695_2.00
+CC  id: M09695_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1247
+XX
+//
+AC  M09698_2.00
+XX
+ID  ABF1
+XX
+DE  ABF1
+P0       A     C     G     T
+1    20.9974 26.4436 19.8163 32.7428
+2    65.4629     0 34.5371     0
+3        0     0     0   100
+4        0   100     0     0
+5    69.2055 4.26789 15.3644 11.1622
+6        0 53.3815     0 46.6185
+7    9.52068 10.7026 19.3697 60.4071
+8    40.0919 23.3596 15.748 20.8005
+9    16.5354 19.6194 14.9606 48.8845
+10   45.5082 26.3607 12.2623 15.8689
+11   38.411 12.6067 25.8043 23.1779
+12     100     0     0     0
+13       0   100     0     0
+14       0     0   100     0
+15   40.4861     0 22.2917 37.2222
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1248
+CC  accession: M09698_2.00
+CC  AC: M09698_2.00
+CC  id: M09698_2.00
+CC  name: ABF1
+CC  version: 
+CC  name: ABF1
+CC  description: ABF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1248
+XX
+//
+AC  M09896_2.00
+XX
+ID  PHO4
+XX
+DE  PHO4
+P0       A     C     G     T
+1     12.5    25  12.5    50
+2     37.5    25    25  12.5
+3       25  37.5  37.5     0
+4        0   100     0     0
+5      100     0     0     0
+6        0   100     0     0
+7        0     0   100     0
+8        0     0     0   100
+9        0     0  62.5  37.5
+10       0    25    50    25
+11    12.5     0  62.5    25
+12      25    25    25    25
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1249
+CC  accession: M09896_2.00
+CC  AC: M09896_2.00
+CC  id: M09896_2.00
+CC  name: PHO4
+CC  version: 
+CC  name: PHO4
+CC  description: PHO4
+CC  transfac_consensus: 
+CC  matrix.nb: 1249
+XX
+//
+AC  M10055_2.00
+XX
+ID  GCN4
+XX
+DE  GCN4
+P0       A     C     G     T
+1    28.5714 42.8571 14.2857 14.2857
+2    13.3333 46.6667 33.3333 6.66667
+3    38.8889 33.3333 11.1111 16.6667
+4       10    35    45    10
+5    13.0435 26.087 26.087 34.7826
+6       20    16    40    24
+7    18.5185 40.7407 25.9259 14.8148
+8    13.3333    40    30 16.6667
+9    16.2162 24.3243 29.7297 29.7297
+10   45.2381 14.2857 35.7143 4.7619
+11       0     0     0   100
+12       0     0   100     0
+13     100     0     0     0
+14       0   100     0     0
+15   4.65116     0     0 95.3488
+16   2.32558 97.6744     0     0
+17     100     0     0     0
+18   2.32558 25.5814 11.6279 60.4651
+19   31.5789 42.1053 5.26316 21.0526
+20   11.7647 41.1765 38.2353 8.82353
+21   35.2941 29.4118 11.7647 23.5294
+22   18.1818 27.2727 33.3333 21.2121
+23   22.5806 32.2581 12.9032 32.2581
+24   14.2857 28.5714 39.2857 17.8571
+25   18.5185 37.037 22.2222 22.2222
+26      32    28    12    28
+27   26.087 30.4348 17.3913 26.087
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1250
+CC  accession: M10055_2.00
+CC  AC: M10055_2.00
+CC  id: M10055_2.00
+CC  name: GCN4
+CC  version: 
+CC  name: GCN4
+CC  description: GCN4
+CC  transfac_consensus: 
+CC  matrix.nb: 1250
+XX
+//
+AC  M10056_2.00
+XX
+ID  GCN4
+XX
+DE  GCN4
+P0       A     C     G     T
+1    34.9351 31.9481 22.5974 10.5195
+2    67.2727     0 32.7273     0
+3    55.8442     0 31.5584 12.5974
+4        0     0     0   100
+5        0     0   100     0
+6      100     0     0     0
+7        0 78.1534     0 21.8466
+8        0     0     0   100
+9        0   100     0     0
+10   49.062 23.8095     0 27.1284
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1251
+CC  accession: M10056_2.00
+CC  AC: M10056_2.00
+CC  id: M10056_2.00
+CC  name: GCN4
+CC  version: 
+CC  name: GCN4
+CC  description: GCN4
+CC  transfac_consensus: 
+CC  matrix.nb: 1251
+XX
+//
+AC  M10388_2.00
+XX
+ID  ADR1
+XX
+DE  ADR1
+P0       A     C     G     T
+1       50  37.5  12.5     0
+2        0   100     0     0
+3        0  62.5     0  37.5
+4        0   100     0     0
+5        0   100     0     0
+6     37.5  12.5 31.25 18.75
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1252
+CC  accession: M10388_2.00
+CC  AC: M10388_2.00
+CC  id: M10388_2.00
+CC  name: ADR1
+CC  version: 
+CC  name: ADR1
+CC  description: ADR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1252
+XX
+//
+AC  M10391_2.00
+XX
+ID  MIG1
+XX
+DE  MIG1
+P0       A     C     G     T
+1    14.2857 21.4286 14.2857    50
+2    42.8571 14.2857 7.14286 35.7143
+3        0   100     0     0
+4        0   100     0     0
+5        0   100     0     0
+6        0   100     0     0
+7    57.1429     0 42.8571     0
+8        0    50    50     0
+9    57.1429 7.14286 21.4286 14.2857
+10   14.2857 14.2857     0 71.4286
+11   35.7143     0     0 64.2857
+12   35.7143     0     0 64.2857
+13      50     0     0    50
+14   35.7143 14.2857     0    50
+15   28.5714 7.14286 21.4286 42.8571
+16   21.4286 7.14286 14.2857 57.1429
+17   42.8571 42.8571 7.14286 7.14286
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1253
+CC  accession: M10391_2.00
+CC  AC: M10391_2.00
+CC  id: M10391_2.00
+CC  name: MIG1
+CC  version: 
+CC  name: MIG1
+CC  description: MIG1
+CC  transfac_consensus: 
+CC  matrix.nb: 1253
+XX
+//
+AC  M10405_2.00
+XX
+ID  M10405_2.00
+XX
+DE  wctgattggytasy 
+P0       A     C     G     T
+1    26.4498 24.8939 12.7298 35.9264
+2        0 63.0835 12.8713 24.0453
+3        0     0     0   100
+4        0     0   100     0
+5      100     0     0     0
+6        0     0     0   100
+7        0     0     0   100
+8        0     0   100     0
+9        0     0   100     0
+10       0 49.5751     0 50.4249
+11   12.0226 12.8713     0 75.1061
+12   83.871     0 16.129     0
+13   24.0453 37.4823 38.4724     0
+14   24.0453 25.6011     0 50.3536
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1254
+CC  accession: M10405_2.00
+CC  AC: M10405_2.00
+CC  id: M10405_2.00
+CC  name: M10405_2.00
+CC  version: 
+CC  name: M10405_2.00
+CC  description: wctgattggytasy 
+CC  transfac_consensus: 
+CC  matrix.nb: 1254
+XX
+//
+AC  M10606_2.00
+XX
+ID  GCR1
+XX
+DE  GCR1
+P0       A     C     G     T
+1    33.3333     0 66.6667     0
+2    16.6667     0 66.6667 16.6667
+3        0   100     0     0
+4    16.6667     0     0 83.3333
+5        0     0     0   100
+6        0   100     0     0
+7        0   100     0     0
+8       50     0     0    50
+9    16.6667 66.6667 16.6667     0
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1255
+CC  accession: M10606_2.00
+CC  AC: M10606_2.00
+CC  id: M10606_2.00
+CC  name: GCR1
+CC  version: 
+CC  name: GCR1
+CC  description: GCR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1255
+XX
+//
+AC  M10676_2.00
+XX
+ID  M10676_2.00
+XX
+DE  wkvgctaattasch 
+P0       A     C     G     T
+1    27.7778 22.2222 11.1111 38.8889
+2    21.0526 15.7895 31.5789 31.5789
+3    26.3158 31.5789 26.3158 15.7895
+4        0 5.26316 78.9474 15.7895
+5        0    85    10     5
+6        5     0     5    90
+7      100     0     0     0
+8       95     0     0     5
+9        0     0     0   100
+10       0     0     0   100
+11      95     0     5     0
+12      20    25    40    15
+13   11.1111 44.4444 22.2222 22.2222
+14      25 31.25 18.75    25
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1256
+CC  accession: M10676_2.00
+CC  AC: M10676_2.00
+CC  id: M10676_2.00
+CC  name: M10676_2.00
+CC  version: 
+CC  name: M10676_2.00
+CC  description: wkvgctaattasch 
+CC  transfac_consensus: 
+CC  matrix.nb: 1256
+XX
+//
+AC  M10714_2.00
+XX
+ID  M10714_2.00
+XX
+DE  rtartkg 
+P0       A     C     G     T
+1       30     0    70     0
+2       20     0     0    80
+3       60     0    20    20
+4       40    10    30    20
+5       10     0     0    90
+6       10    20    30    40
+7       10    20    50    20
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1257
+CC  accession: M10714_2.00
+CC  AC: M10714_2.00
+CC  id: M10714_2.00
+CC  name: M10714_2.00
+CC  version: 
+CC  name: M10714_2.00
+CC  description: rtartkg 
+CC  transfac_consensus: 
+CC  matrix.nb: 1257
+XX
+//
+AC  M10715_2.00
+XX
+ID  M10715_2.00
+XX
+DE  ccgtawwtg 
+P0       A     C     G     T
+1    15.3846 61.5385 7.69231 15.3846
+2    23.0769 30.7692 23.0769 23.0769
+3    7.69231 23.0769 53.8462 15.3846
+4    7.69231 7.69231 7.69231 76.9231
+5    61.5385 7.69231 7.69231 23.0769
+6    53.8462 15.3846     0 30.7692
+7    30.7692 15.3846 15.3846 38.4615
+8        0 7.69231 7.69231 84.6154
+9    7.69231 7.69231 76.9231 7.69231
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1258
+CC  accession: M10715_2.00
+CC  AC: M10715_2.00
+CC  id: M10715_2.00
+CC  name: M10715_2.00
+CC  version: 
+CC  name: M10715_2.00
+CC  description: ccgtawwtg 
+CC  transfac_consensus: 
+CC  matrix.nb: 1258
+XX
+//
+AC  M10741_2.00
+XX
+ID  M10741_2.00
+XX
+DE  mvctaattmmhattakyd 
+P0       A     C     G     T
+1    41.6667 33.3333  12.5  12.5
+2    33.3333 33.3333 29.1667 4.16667
+3       24    44    12    20
+4        0     0     0   100
+5       88     0     4     8
+6      100     0     0     0
+7        0     4     0    96
+8        0     8    24    68
+9       40    28    16    16
+10      28    32    20    20
+11      25    50     0    25
+12      88     4     8     0
+13       0     4     0    96
+14       8     4     0    88
+15      80     4    12     4
+16   8.33333    25 29.1667  37.5
+17   8.69565 52.1739 13.0435 26.087
+18      25    15    30    30
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1259
+CC  accession: M10741_2.00
+CC  AC: M10741_2.00
+CC  id: M10741_2.00
+CC  name: M10741_2.00
+CC  version: 
+CC  name: M10741_2.00
+CC  description: mvctaattmmhattakyd 
+CC  transfac_consensus: 
+CC  matrix.nb: 1259
+XX
+//
+AC  M10767_2.00
+XX
+ID  M10767_2.00
+XX
+DE  wsrytaattrrktmww 
+P0       A     C     G     T
+1    41.6667 16.6667 8.33333 33.3333
+2       20 26.6667    40 13.3333
+3    26.3158 15.7895 52.6316 5.26316
+4    19.5122 34.1463 7.31707 39.0244
+5        0     0     0   100
+6      100     0     0     0
+7      100     0     0     0
+8        0     0     0   100
+9        0 5.26316 3.50877 91.2281
+10   47.1698     0 50.9434 1.88679
+11   39.2157 9.80392 39.2157 11.7647
+12      20    24    28    28
+13   21.2766 14.8936 10.6383 53.1915
+14   31.1111 28.8889 15.5556 24.4444
+15   39.4737 10.5263 18.4211 31.5789
+16   41.1765 11.7647 11.7647 35.2941
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1260
+CC  accession: M10767_2.00
+CC  AC: M10767_2.00
+CC  id: M10767_2.00
+CC  name: M10767_2.00
+CC  version: 
+CC  name: M10767_2.00
+CC  description: wsrytaattrrktmww 
+CC  transfac_consensus: 
+CC  matrix.nb: 1260
+XX
+//
+AC  M10791_2.00
+XX
+ID  MATALPHA2
+XX
+DE  MATALPHA2
+P0       A     C     G     T
+1    28.5714 7.14286 21.4286 42.8571
+2    42.8571     0 7.14286    50
+3    21.4286 14.2857 14.2857    50
+4    28.5714 14.2857 21.4286 35.7143
+5    92.8571     0 7.14286     0
+6    7.14286 92.8571     0     0
+7    85.7143     0 7.14286 7.14286
+8    7.14286 28.5714 7.14286 57.1429
+9    7.14286 7.14286 71.4286 14.2857
+10      50 21.4286 14.2857 14.2857
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1261
+CC  accession: M10791_2.00
+CC  AC: M10791_2.00
+CC  id: M10791_2.00
+CC  name: MATALPHA2
+CC  version: 
+CC  name: MATALPHA2
+CC  description: MATALPHA2
+CC  transfac_consensus: 
+CC  matrix.nb: 1261
+XX
+//
+AC  M10795_2.00
+XX
+ID  HMRA1
+XX
+DE  HMRA1
+P0       A     C     G     T
+1        0 7.14286 7.14286 85.7143
+2        0     0   100     0
+3      100     0     0     0
+4        0     0     0   100
+5        0     0   100     0
+6    7.14286 14.2857     0 78.5714
+7    71.4286     0 21.4286 7.14286
+8    42.8571 14.2857 28.5714 14.2857
+9    35.7143 28.5714 7.14286 28.5714
+10   14.2857 7.14286 7.14286 71.4286
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1262
+CC  accession: M10795_2.00
+CC  AC: M10795_2.00
+CC  id: M10795_2.00
+CC  name: HMRA1
+CC  version: 
+CC  name: HMRA1
+CC  description: HMRA1
+CC  transfac_consensus: 
+CC  matrix.nb: 1262
+XX
+//
+AC  M10859_2.00
+XX
+ID  M10859_2.00
+XX
+DE  rgaakvwtck 
+P0       A     C     G     T
+1    34.6154 23.0769 30.7692 11.5385
+2        0     0   100     0
+3    88.8889 3.7037 7.40741     0
+4    74.0741 3.7037 7.40741 14.8148
+5    14.8148 22.2222 25.9259 37.037
+6    29.6296 25.9259 29.6296 14.8148
+7    29.6296 7.40741 7.40741 55.5556
+8    15.3846     0 7.69231 76.9231
+9        0   100     0     0
+10   7.40741 14.8148 44.4444 33.3333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1263
+CC  accession: M10859_2.00
+CC  AC: M10859_2.00
+CC  id: M10859_2.00
+CC  name: M10859_2.00
+CC  version: 
+CC  name: M10859_2.00
+CC  description: rgaakvwtck 
+CC  transfac_consensus: 
+CC  matrix.nb: 1263
+XX
+//
+AC  M10874_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1       56    12    24     8
+2        0     0    96     4
+3       92     0     4     4
+4       92     0     4     4
+5       24    38    16    22
+6       56    12    24     8
+7        0     0    96     4
+8       92     0     4     4
+9       92     0     4     4
+10      24    38    16    22
+11      56    12    24     8
+12       0     0    96     4
+13      92     0     4     4
+14      92     0     4     4
+15      24    38    16    22
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1264
+CC  accession: M10874_2.00
+CC  AC: M10874_2.00
+CC  id: M10874_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1264
+XX
+//
+AC  M10875_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1       56    12    24     8
+2        0     0    96     4
+3       92     0     4     4
+4       92     0     4     4
+5       24    38    16    22
+6       22    16    38    24
+7        4     4     0    92
+8        4     4     0    92
+9        4    96     0     0
+10       8    24    12    56
+11      22    16    38    24
+12       4     4     0    92
+13       4     4     0    92
+14       4    96     0     0
+15       8    24    12    56
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1265
+CC  accession: M10875_2.00
+CC  AC: M10875_2.00
+CC  id: M10875_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1265
+XX
+//
+AC  M10876_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1       56    12    24     8
+2        0     0    96     4
+3       92     0     4     4
+4       92     0     4     4
+5       24    38    16    22
+6       22    16    38    24
+7        4     4     0    92
+8        4     4     0    92
+9        4    96     0     0
+10       8    24    12    56
+11      56    12    24     8
+12       0     0    96     4
+13      92     0     4     4
+14      92     0     4     4
+15      24    38    16    22
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1266
+CC  accession: M10876_2.00
+CC  AC: M10876_2.00
+CC  id: M10876_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1266
+XX
+//
+AC  M10877_2.00
+XX
+ID  HSF1
+XX
+DE  HSF1
+P0       A     C     G     T
+1       22    16    38    24
+2        4     4     0    92
+3        4     4     0    92
+4        4    96     0     0
+5        8    24    12    56
+6       22    16    38    24
+7        4     4     0    92
+8        4     4     0    92
+9        4    96     0     0
+10       8    24    12    56
+11      56    12    24     8
+12       0     0    96     4
+13      92     0     4     4
+14      92     0     4     4
+15      24    38    16    22
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1267
+CC  accession: M10877_2.00
+CC  AC: M10877_2.00
+CC  id: M10877_2.00
+CC  name: HSF1
+CC  version: 
+CC  name: HSF1
+CC  description: HSF1
+CC  transfac_consensus: 
+CC  matrix.nb: 1267
+XX
+//
+AC  M10947_2.00
+XX
+ID  M10947_2.00
+XX
+DE  awkwccwtatawgggcat 
+P0       A     C     G     T
+1    60.6061 24.2424 12.1212 3.0303
+2    27.2727 21.2121 18.1818 33.3333
+3    9.09091 24.2424 27.2727 39.3939
+4    42.4242 9.09091 12.1212 36.3636
+5        0   100     0     0
+6        0   100     0     0
+7    69.697     0     0 30.303
+8    6.06061     0     0 93.9394
+9      100     0     0     0
+10       0     0     0   100
+11   93.9394     0     0 6.06061
+12   30.303     0     0 69.697
+13       0     0   100     0
+14       0     0   100     0
+15   3.0303     0 75.7576 21.2121
+16   3.0303 93.9394     0 3.0303
+17   96.9697     0     0 3.0303
+18   6.06061 6.06061 3.0303 84.8485
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1268
+CC  accession: M10947_2.00
+CC  AC: M10947_2.00
+CC  id: M10947_2.00
+CC  name: M10947_2.00
+CC  version: 
+CC  name: M10947_2.00
+CC  description: awkwccwtatawgggcat 
+CC  transfac_consensus: 
+CC  matrix.nb: 1268
+XX
+//
+AC  M10951_2.00
+XX
+ID  M10951_2.00
+XX
+DE  dccwtatawggccwk 
+P0       A     C     G     T
+1    26.5487     0 47.6401 25.8112
+2        0   100     0     0
+3        0   100     0     0
+4    55.5642 9.2607     0 35.1751
+5    20.6226     0     0 79.3774
+6    73.6965     0 7.23735 19.0661
+7    7.23173 9.48678     0 83.2815
+8    83.9813     0     0 16.0187
+9    27.3717     0     0 72.6283
+10       0     0   100     0
+11       0     0   100     0
+12   24.7278 47.9005 16.563 10.8087
+13   13.0739 61.2451 19.0661 6.61479
+14   52.3328 19.5956     0 28.0715
+15   11.353 19.3624 36.0031 33.2815
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1269
+CC  accession: M10951_2.00
+CC  AC: M10951_2.00
+CC  id: M10951_2.00
+CC  name: M10951_2.00
+CC  version: 
+CC  name: M10951_2.00
+CC  description: dccwtatawggccwk 
+CC  transfac_consensus: 
+CC  matrix.nb: 1269
+XX
+//
+AC  M10956_2.00
+XX
+ID  M10956_2.00
+XX
+DE  gkccawatawggmc 
+P0       A     C     G     T
+1    9.52381 19.0476 52.381 19.0476
+2    14.2857 19.0476 33.3333 33.3333
+3        0   100     0     0
+4        0   100     0     0
+5    90.4762     0     0 9.52381
+6    42.8571 4.7619     0 52.381
+7    90.4762     0 4.7619 4.7619
+8    4.7619 9.52381 4.7619 80.9524
+9    80.9524     0 4.7619 14.2857
+10   47.619 9.52381 9.52381 33.3333
+11       0     0   100     0
+12       0     0 95.2381 4.7619
+13   42.8571 33.3333 23.8095     0
+14   19.0476 42.8571 23.8095 14.2857
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1270
+CC  accession: M10956_2.00
+CC  AC: M10956_2.00
+CC  id: M10956_2.00
+CC  name: M10956_2.00
+CC  version: 
+CC  name: M10956_2.00
+CC  description: gkccawatawggmc 
+CC  transfac_consensus: 
+CC  matrix.nb: 1270
+XX
+//
+AC  M10990_2.00
+XX
+ID  MCM1
+XX
+DE  MCM1
+P0       A     C     G     T
+1    34.7826 13.0435 8.69565 43.4783
+2    13.0435 17.3913 17.3913 52.1739
+3    26.087     0 21.7391 52.1739
+4        0   100     0     0
+5        0   100     0     0
+6        0 43.4783     0 56.5217
+7    78.2609 4.34783 4.34783 13.0435
+8    82.6087     0 4.34783 13.0435
+9    47.8261     0     0 52.1739
+10   21.7391 43.4783 17.3913 17.3913
+11   34.7826 17.3913 26.087 21.7391
+12   21.7391     0 78.2609     0
+13   4.34783     0 91.3043 4.34783
+14   26.087 8.69565     0 65.2174
+15   60.8696 26.087 8.69565 4.34783
+16   65.2174     0 8.69565 26.087
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1271
+CC  accession: M10990_2.00
+CC  AC: M10990_2.00
+CC  id: M10990_2.00
+CC  name: MCM1
+CC  version: 
+CC  name: MCM1
+CC  description: MCM1
+CC  transfac_consensus: 
+CC  matrix.nb: 1271
+XX
+//
+AC  M11215_2.00
+XX
+ID  RAP1
+XX
+DE  RAP1
+P0       A     C     G     T
+1    29.6221 10.8637 48.448 11.0661
+2    52.476     0 41.6851 5.83888
+3        0     0 22.6874 77.3126
+4        0     0 94.8718 5.12821
+5    4.3214 10.0608 5.13167 80.4862
+6    61.7409 19.3657 4.52092 14.3725
+7        0     0     0   100
+8        0     0   100     0
+9        0     0   100     0
+10       0     0   100     0
+11       0     0     0   100
+12       0 5.33063 46.0864 48.583
+13   9.65564 30.9251     0 59.4193
+14   31.9838 5.33063 16.1943 46.4912
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1272
+CC  accession: M11215_2.00
+CC  AC: M11215_2.00
+CC  id: M11215_2.00
+CC  name: RAP1
+CC  version: 
+CC  name: RAP1
+CC  description: RAP1
+CC  transfac_consensus: 
+CC  matrix.nb: 1272
+XX
+//
+AC  M11246_2.00
+XX
+ID  M11246_2.00
+XX
+DE  wkgttrcywggydacym 
+P0       A     C     G     T
+1    34.4828 17.2414 10.3448 37.931
+2    12.9032 22.5806 29.0323 35.4839
+3        0     0   100     0
+4        0     0     0   100
+5    3.125 3.125     0 93.75
+6    31.25 9.375    50 9.375
+7        0   100     0     0
+8    3.125 53.125 9.375 34.375
+9       50     0 16.6667 33.3333
+10   21.875 21.875 43.75  12.5
+11   9.375 3.125 78.125 9.375
+12   3.125 53.125 3.125 40.625
+13   28.125  6.25 31.25 34.375
+14    62.5 21.875  6.25 9.375
+15       0 68.75  12.5 18.75
+16   21.4286 28.5714 14.2857 35.7143
+17   33.3333    25 20.8333 20.8333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1273
+CC  accession: M11246_2.00
+CC  AC: M11246_2.00
+CC  id: M11246_2.00
+CC  name: M11246_2.00
+CC  version: 
+CC  name: M11246_2.00
+CC  description: wkgttrcywggydacym 
+CC  transfac_consensus: 
+CC  matrix.nb: 1273
+XX
+//
+AC  M11247_2.00
+XX
+ID  M11247_2.00
+XX
+DE  wkgttrcywtggydacym 
+P0       A     C     G     T
+1    34.4828 17.2414 10.3448 37.931
+2    12.9032 22.5806 29.0323 35.4839
+3        0     0   100     0
+4        0     0     0   100
+5    3.125 3.125     0 93.75
+6    31.25 9.375    50 9.375
+7        0   100     0     0
+8    3.125 53.125 9.375 34.375
+9     62.5     0  12.5    25
+10    12.5  12.5 18.75 56.25
+11   21.875 21.875 43.75  12.5
+12   9.375 3.125 78.125 9.375
+13   3.125 53.125 3.125 40.625
+14   28.125  6.25 31.25 34.375
+15    62.5 21.875  6.25 9.375
+16       0 68.75  12.5 18.75
+17   21.4286 28.5714 14.2857 35.7143
+18   33.3333    25 20.8333 20.8333
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1274
+CC  accession: M11247_2.00
+CC  AC: M11247_2.00
+CC  id: M11247_2.00
+CC  name: M11247_2.00
+CC  version: 
+CC  name: M11247_2.00
+CC  description: wkgttrcywtggydacym 
+CC  transfac_consensus: 
+CC  matrix.nb: 1274
+XX
+//
+AC  M11305_2.00
+XX
+ID  M11305_2.00
+XX
+DE  wraraacaatrgrw 
+P0       A     C     G     T
+1    28.7671 24.6575 15.0685 31.5068
+2    27.3973 23.2877 26.0274 23.2877
+3    45.2055 15.0685 16.4384 23.2877
+4    27.3973 6.84932 45.2055 20.5479
+5    72.6027 8.21918 8.21918 10.9589
+6    78.0822 4.10959 2.73973 15.0685
+7        0   100     0     0
+8      100     0     0     0
+9      100     0     0     0
+10   6.84932     0     0 93.1507
+11   30.137 4.10959 57.5342 8.21918
+12   17.8082 10.9589 65.7534 5.47945
+13   30.137 13.6986 39.726 16.4384
+14   31.5068 19.1781 21.9178 27.3973
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1275
+CC  accession: M11305_2.00
+CC  AC: M11305_2.00
+CC  id: M11305_2.00
+CC  name: M11305_2.00
+CC  version: 
+CC  name: M11305_2.00
+CC  description: wraraacaatrgrw 
+CC  transfac_consensus: 
+CC  matrix.nb: 1275
+XX
+//
+AC  M11309_2.00
+XX
+ID  M11309_2.00
+XX
+DE  ywaacaatrs 
+P0       A     C     G     T
+1    18.1818 27.2727 13.6364 40.9091
+2    31.8182 18.1818 13.6364 36.3636
+3    91.3043     0 4.34783 4.34783
+4    95.6522     0 4.34783     0
+5        0 95.6522     0 4.34783
+6      100     0     0     0
+7    95.6522 4.34783     0     0
+8        0     0     0   100
+9    43.4783 13.0435 26.087 17.3913
+10   21.7391 30.4348 26.087 21.7391
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1276
+CC  accession: M11309_2.00
+CC  AC: M11309_2.00
+CC  id: M11309_2.00
+CC  name: M11309_2.00
+CC  version: 
+CC  name: M11309_2.00
+CC  description: ywaacaatrs 
+CC  transfac_consensus: 
+CC  matrix.nb: 1276
+XX
+//
+AC  M11331_2.00
+XX
+ID  M11331_2.00
+XX
+DE  aawswam 
+P0       A     C     G     T
+1    82.6087     0     0 17.3913
+2    95.6522     0     0 4.34783
+3    69.5652     0 4.34783 26.087
+4        0 73.913 26.087     0
+5    60.8696     0 4.34783 34.7826
+6    56.5217 21.7391 8.69565 13.0435
+7    52.1739 34.7826 8.69565 4.34783
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1277
+CC  accession: M11331_2.00
+CC  AC: M11331_2.00
+CC  id: M11331_2.00
+CC  name: M11331_2.00
+CC  version: 
+CC  name: M11331_2.00
+CC  description: aawswam 
+CC  transfac_consensus: 
+CC  matrix.nb: 1277
+XX
+//
+AC  M11332_2.00
+XX
+ID  M11332_2.00
+XX
+DE  yctwttgttwwc 
+P0       A     C     G     T
+1    20.6897 34.4828 6.89655 37.931
+2    10.3448 44.8276 20.6897 24.1379
+3    17.2414 17.2414 10.3448 55.1724
+4    62.069 3.44828     0 34.4828
+5    6.89655     0     0 93.1034
+6    3.44828     0     0 96.5517
+7        0     0   100     0
+8    13.7931     0     0 86.2069
+9    17.2414 3.44828 6.89655 72.4138
+10   37.931 6.89655 3.44828 51.7241
+11   41.3793 10.3448 13.7931 34.4828
+12   24.1379 34.4828 20.6897 20.6897
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1278
+CC  accession: M11332_2.00
+CC  AC: M11332_2.00
+CC  id: M11332_2.00
+CC  name: M11332_2.00
+CC  version: 
+CC  name: M11332_2.00
+CC  description: yctwttgttwwc 
+CC  transfac_consensus: 
+CC  matrix.nb: 1278
+XX
+//
+AC  M11340_2.00
+XX
+ID  M11340_2.00
+XX
+DE  trmycaacaaagavrymt 
+P0       A     C     G     T
+1    16.6667 16.6667 16.6667    50
+2       50     0 33.3333 16.6667
+3       50 33.3333 16.6667     0
+4    16.6667 33.3333 16.6667 33.3333
+5    16.6667    50 16.6667 16.6667
+6      100     0     0     0
+7      100     0     0     0
+8        0   100     0     0
+9      100     0     0     0
+10     100     0     0     0
+11     100     0     0     0
+12       0     0   100     0
+13   83.3333     0 16.6667     0
+14   33.3333 33.3333 33.3333     0
+15   33.3333 16.6667    50     0
+16   16.6667 33.3333     0    50
+17   33.3333 66.6667     0     0
+18   16.6667 16.6667     0 66.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1279
+CC  accession: M11340_2.00
+CC  AC: M11340_2.00
+CC  id: M11340_2.00
+CC  name: M11340_2.00
+CC  version: 
+CC  name: M11340_2.00
+CC  description: trmycaacaaagavrymt 
+CC  transfac_consensus: 
+CC  matrix.nb: 1279
+XX
+//
+AC  M11341_2.00
+XX
+ID  M11341_2.00
+XX
+DE  yyyattgtyw 
+P0       A     C     G     T
+1        0    40     0    60
+2        0    70     0    30
+3       20    40    10    30
+4       90     0     0    10
+5       10     0     0    90
+6        0     0     0   100
+7        0     0   100     0
+8        0     0     0   100
+9       10    30     0    60
+10      30     0    20    50
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1280
+CC  accession: M11341_2.00
+CC  AC: M11341_2.00
+CC  id: M11341_2.00
+CC  name: M11341_2.00
+CC  version: 
+CC  name: M11341_2.00
+CC  description: yyyattgtyw 
+CC  transfac_consensus: 
+CC  matrix.nb: 1280
+XX
+//
+AC  M11342_2.00
+XX
+ID  M11342_2.00
+XX
+DE  wwrtttctttgttywhww 
+P0       A     C     G     T
+1    35.2941 11.7647 23.5294 29.4118
+2    52.9412 5.88235 11.7647 29.4118
+3    29.4118 23.5294 29.4118 17.6471
+4    11.7647 11.7647     0 76.4706
+5        0     0     0   100
+6        0 5.88235     0 94.1176
+7        0   100     0     0
+8        0     0     0   100
+9        0     0     0   100
+10       0     0     0   100
+11       0     0   100     0
+12       0     0     0   100
+13       0     0     0   100
+14   23.5294 29.4118 5.88235 41.1765
+15   29.4118 17.6471 23.5294 29.4118
+16   29.4118 29.4118 5.88235 35.2941
+17   35.2941 11.7647 11.7647 41.1765
+18   41.1765     0 5.88235 52.9412
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1281
+CC  accession: M11342_2.00
+CC  AC: M11342_2.00
+CC  id: M11342_2.00
+CC  name: M11342_2.00
+CC  version: 
+CC  name: M11342_2.00
+CC  description: wwrtttctttgttywhww 
+CC  transfac_consensus: 
+CC  matrix.nb: 1281
+XX
+//
+AC  M11388_2.00
+XX
+ID  M11388_2.00
+XX
+DE  statawawrssssss 
+P0       A     C     G     T
+1    15.6812 37.2751 39.0746 7.96915
+2    4.11311 11.8252 4.62725 79.4344
+3    90.4884     0 0.514139 8.99743
+4    0.771208 2.57069 0.514139 96.144
+5    91.0026     0 1.28535 7.71208
+6    68.8946     0     0 31.1054
+7    92.545 0.771208 5.14139 1.54242
+8    57.0694 0.514139 11.3111 31.1054
+9    39.8458 11.3111 40.3599 8.48329
+10   14.3959 34.7044 38.5604 12.3393
+11   21.3368 37.7892 32.9049 7.96915
+12   21.0797 32.6478 32.9049 13.3676
+13   21.0797 30.3342 32.9049 15.6812
+14   17.4807 27.5064 35.7326 19.2802
+15   19.7943 25.964 35.9897 18.2519
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1282
+CC  accession: M11388_2.00
+CC  AC: M11388_2.00
+CC  id: M11388_2.00
+CC  name: M11388_2.00
+CC  version: 
+CC  name: M11388_2.00
+CC  description: statawawrssssss 
+CC  transfac_consensus: 
+CC  matrix.nb: 1282
+XX
+//
+AC  M11389_2.00
+XX
+ID  M11389_2.00
+XX
+DE  yctwtaaaar 
+P0       A     C     G     T
+1    22.4551 29.1168 18.5629 29.8653
+2        0 76.2154 19.8953 3.8893
+3    2.46821 24.9065     0 72.6253
+4    72.9993     0     0 27.0007
+5        0     0     0   100
+6      100     0     0     0
+7    92.8144     0     0 7.18563
+8      100     0     0     0
+9      100     0     0     0
+10   29.3413 10.1796 45.7335 14.7455
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1283
+CC  accession: M11389_2.00
+CC  AC: M11389_2.00
+CC  id: M11389_2.00
+CC  name: M11389_2.00
+CC  version: 
+CC  name: M11389_2.00
+CC  description: yctwtaaaar 
+CC  transfac_consensus: 
+CC  matrix.nb: 1283
+XX
+//
+AC  M11390_2.00
+XX
+ID  M11390_2.00
+XX
+DE  tataaatw 
+P0       A     C     G     T
+1    6.38298 8.51064 19.1489 65.9574
+2    72.3404     0 12.766 14.8936
+3        0     0     0   100
+4      100     0     0     0
+5      100     0     0     0
+6    85.1064 2.12766 8.51064 4.25532
+7    6.38298 6.38298 12.766 74.4681
+8    44.6809 8.51064 8.51064 38.2979
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1284
+CC  accession: M11390_2.00
+CC  AC: M11390_2.00
+CC  id: M11390_2.00
+CC  name: M11390_2.00
+CC  version: 
+CC  name: M11390_2.00
+CC  description: tataaatw 
+CC  transfac_consensus: 
+CC  matrix.nb: 1284
+XX
+//
+AC  M11453_2.00
+XX
+ID  CAR1
+XX
+DE  CAR1
+P0       A     C     G     T
+1    7.14286 28.5714 35.7143 28.5714
+2    7.14286 35.7143 28.5714 28.5714
+3        0 46.6667 13.3333    40
+4    6.66667 33.3333    20    40
+5    6.66667 13.3333 13.3333 66.6667
+6    6.66667 46.6667 13.3333 33.3333
+7        0 13.3333 86.6667     0
+8        0 6.66667 93.3333     0
+9    6.66667    80     0 13.3333
+10       0     0   100     0
+11       0     0   100     0
+12       0 86.6667     0 13.3333
+13   6.66667     0     0 93.3333
+14      80 13.3333     0 6.66667
+15   26.6667 26.6667 33.3333 13.3333
+16      25 16.6667 16.6667 41.6667
+17   33.3333    25    25 16.6667
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1285
+CC  accession: M11453_2.00
+CC  AC: M11453_2.00
+CC  id: M11453_2.00
+CC  name: CAR1
+CC  version: 
+CC  name: CAR1
+CC  description: CAR1
+CC  transfac_consensus: 
+CC  matrix.nb: 1285
+XX
+//
+AC  M11487_2.00
+XX
+ID  GAL4
+XX
+DE  GAL4
+P0       A     C     G     T
+1        0 27.2727 54.5455 18.1818
+2        0 36.3636     0 63.6364
+3    27.2727     0     0 72.7273
+4        0   100     0     0
+5        0     0   100     0
+6        0 9.09091 90.9091     0
+7    63.6364 9.09091 9.09091 18.1818
+8    9.09091 36.3636 45.4545 9.09091
+9    18.1818 18.1818 54.5455 9.09091
+10   72.7273 9.09091 18.1818     0
+11   18.1818 45.4545 27.2727 9.09091
+12   54.5455     0 9.09091 36.3636
+13       0 18.1818 72.7273 9.09091
+14   18.1818 18.1818     0 63.6364
+15   9.09091 36.3636 36.3636 18.1818
+16   27.2727 36.3636 27.2727 9.09091
+17   9.09091 27.2727 27.2727 36.3636
+18       0 90.9091 9.09091     0
+19   9.09091 90.9091     0     0
+20       0     0 90.9091 9.09091
+21   45.4545 9.09091 18.1818 27.2727
+22   27.2727 9.09091 18.1818 45.4545
+23   18.1818 27.2727 45.4545 9.09091
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1286
+CC  accession: M11487_2.00
+CC  AC: M11487_2.00
+CC  id: M11487_2.00
+CC  name: GAL4
+CC  version: 
+CC  name: GAL4
+CC  description: GAL4
+CC  transfac_consensus: 
+CC  matrix.nb: 1286
+XX
+//
+AC  M11488_2.00
+XX
+ID  M11488_2.00
+XX
+DE  ckywcggavgaswgykstccga 
+P0       A     C     G     T
+1    16.3188 52.3719 7.40038 23.9089
+2        0 8.94142 65.1593 25.8993
+3    6.83112 36.907     0 56.2619
+4    26.945 9.20304     0 63.852
+5        0   100     0     0
+6        0     0   100     0
+7        0 8.26211 91.7379     0
+8    53.7002 22.6755 8.25427 15.37
+9    25.1423 30.0759 44.7818     0
+10   15.37 23.9089 53.3207 7.40038
+11   68.2163 7.59013 24.1935     0
+12   23.0769 38.8414 30.4843 7.59734
+13   68.566     0     0 31.434
+14       0 15.0047 70.5603 14.4349
+15   20.9877 25.4511     0 53.5613
+16   7.59734 20.6078 41.0256 30.7692
+17   15.1803 37.1917 31.8786 15.7495
+18   8.26211 23.8367 22.4122 45.4891
+19       0 91.0816 8.91841     0
+20       0   100     0     0
+21       0     0 93.4535 6.54649
+22   60.7943 8.14664 15.8859 15.1731
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1287
+CC  accession: M11488_2.00
+CC  AC: M11488_2.00
+CC  id: M11488_2.00
+CC  name: M11488_2.00
+CC  version: 
+CC  name: M11488_2.00
+CC  description: ckywcggavgaswgykstccga 
+CC  transfac_consensus: 
+CC  matrix.nb: 1287
+XX
+//
+AC  M11491_2.00
+XX
+ID  M11491_2.00
+XX
+DE  statawawrssssss 
+P0       A     C     G     T
+1    15.6812 37.2751 39.0746 7.96915
+2    4.11311 11.8252 4.62725 79.4344
+3    90.4884     0 0.514139 8.99743
+4    0.771208 2.57069 0.514139 96.144
+5    91.0026     0 1.28535 7.71208
+6    68.8946     0     0 31.1054
+7    92.545 0.771208 5.14139 1.54242
+8    57.0694 0.514139 11.3111 31.1054
+9    39.8458 11.3111 40.3599 8.48329
+10   14.3959 34.7044 38.5604 12.3393
+11   21.3368 37.7892 32.9049 7.96915
+12   21.0797 32.6478 32.9049 13.3676
+13   21.0797 30.3342 32.9049 15.6812
+14   17.4807 27.5064 35.7326 19.2802
+15   19.7943 25.964 35.9897 18.2519
+XX
+CC  residue_type: 
+CC  program: transfac
+CC  matrix.nb: 1288
+CC  accession: M11491_2.00
+CC  AC: M11491_2.00
+CC  id: M11491_2.00
+CC  name: M11491_2.00
+CC  version: 
+CC  name: M11491_2.00
+CC  description: statawawrssssss 
+CC  transfac_consensus: 
+CC  matrix.nb: 1288
+XX
+//
