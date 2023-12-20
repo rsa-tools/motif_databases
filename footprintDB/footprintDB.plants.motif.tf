@@ -40,7 +40,7 @@ BS  35092;
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB0_I:AtMYB0_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB0_I:AtMYB0_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -76,7 +76,7 @@ BS  35090;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB0_II:AtMYB0_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB0_II:AtMYB0_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -133,7 +133,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB100_I:AtMYB100_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB100_I:AtMYB100_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -170,7 +170,7 @@ P0      A      C      G      T
 XX
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB100_II:AtMYB100_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB100_II:AtMYB100_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -207,7 +207,7 @@ XX
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB101_I:AtMYB101_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB101_I:AtMYB101_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -244,7 +244,7 @@ XX
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB101_II:AtMYB101_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB101_II:AtMYB101_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -318,7 +318,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB102_I:AtMYB102_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB102_I:AtMYB102_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -354,7 +354,7 @@ XX
 BS  35091;
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB102_II:AtMYB102_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB102_II:AtMYB102_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -395,7 +395,7 @@ BS  19337;
 BS  35098;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB103_II:AtMYB103_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB103_II:AtMYB103_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -430,7 +430,7 @@ P0      A      C      G      T
 XX
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB104_I:AtMYB104_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB104_I:AtMYB104_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -468,7 +468,7 @@ BS  35088;
 BS  35092;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB105_I:AtMYB105_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB105_I:AtMYB105_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -508,7 +508,7 @@ P0      A      C      G      T
 XX
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB106_II:AtMYB106_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB106_II:AtMYB106_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -544,7 +544,7 @@ BS  35091;
 BS  35094;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB107_II:AtMYB107_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB107_II:AtMYB107_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -581,7 +581,7 @@ BS  35088;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB108_I:AtMYB108_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB108_I:AtMYB108_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -617,7 +617,7 @@ XX
 BS  35089;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB108_II:AtMYB108_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB108_II:AtMYB108_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -653,7 +653,7 @@ BS  35087;
 BS  35092;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB10_I:AtMYB10_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB10_I:AtMYB10_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -693,7 +693,7 @@ BS  35095;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB10_II:AtMYB10_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB10_II:AtMYB10_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -737,7 +737,7 @@ BS  35088;
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB110_I:AtMYB110_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB110_I:AtMYB110_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -772,7 +772,7 @@ XX
 BS  35091;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB110_II:AtMYB110_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB110_II:AtMYB110_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -808,7 +808,7 @@ BS  35095;
 BS  35096;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB111_II:AtMYB111_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB111_II:AtMYB111_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -846,7 +846,7 @@ BS  35094;
 BS  35098;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB112_II:AtMYB112_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB112_II:AtMYB112_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -883,7 +883,7 @@ BS  35094;
 BS  19337;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB113_II:AtMYB113_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB113_II:AtMYB113_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -920,7 +920,7 @@ BS  35091;
 BS  35094;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB114_II:AtMYB114_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB114_II:AtMYB114_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -954,7 +954,7 @@ P0      A      C      G      T
 XX
 BS  35090;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB116_II:AtMYB116_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB116_II:AtMYB116_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -991,7 +991,7 @@ BS  35087;
 BS  35088;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB117_I:AtMYB117_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB117_I:AtMYB117_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1025,7 +1025,7 @@ P0      A      C      G      T
 XX
 BS  35091;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB117_II:AtMYB117_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB117_II:AtMYB117_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1060,7 +1060,7 @@ XX
 BS  35089;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB118_II:AtMYB118_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB118_II:AtMYB118_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1099,7 +1099,7 @@ BS  35092;
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB121_I:AtMYB121_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB121_I:AtMYB121_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1139,7 +1139,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB121_II:AtMYB121_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB121_II:AtMYB121_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1174,7 +1174,7 @@ XX
 BS  35089;
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB122_II:AtMYB122_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB122_II:AtMYB122_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1209,7 +1209,7 @@ XX
 BS  35094;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB123_II:AtMYB123_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB123_II:AtMYB123_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1247,7 +1247,7 @@ BS  35094;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB124_II:AtMYB124_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB124_II:AtMYB124_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1285,7 +1285,7 @@ BS  35095;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB13_II:AtMYB13_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB13_II:AtMYB13_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1325,7 +1325,7 @@ BS  35095;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB14_II:AtMYB14_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB14_II:AtMYB14_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1364,7 +1364,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB15_I:AtMYB15_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB15_I:AtMYB15_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1401,7 +1401,7 @@ BS  35095;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB15_II:AtMYB15_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB15_II:AtMYB15_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1438,7 +1438,7 @@ BS  35088;
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB16_I:AtMYB16_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB16_I:AtMYB16_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1474,7 +1474,7 @@ P0      A      C      G      T
 XX
 BS  35095;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB16_II:AtMYB16_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB16_II:AtMYB16_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1510,7 +1510,7 @@ BS  35089;
 BS  35090;
 BS  35091;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB18_II:AtMYB18_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB18_II:AtMYB18_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1548,7 +1548,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB19_II:AtMYB19_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB19_II:AtMYB19_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1580,7 +1580,7 @@ P0      A      C      G      T
 XX
 BS  35089;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB1_II:AtMYB1_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB1_II:AtMYB1_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1617,7 +1617,7 @@ BS  35091;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB20_II:AtMYB20_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB20_II:AtMYB20_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1652,7 +1652,7 @@ XX
 BS  35094;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB22_II:AtMYB22_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB22_II:AtMYB22_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1689,7 +1689,7 @@ BS  35094;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB23_II:AtMYB23_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB23_II:AtMYB23_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1725,7 +1725,7 @@ BS  35094;
 BS  19337;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB26_II:AtMYB26_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB26_II:AtMYB26_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1760,7 +1760,7 @@ XX
 BS  35087;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB27_I:AtMYB27_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB27_I:AtMYB27_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1800,7 +1800,7 @@ BS  35094;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB27_II:AtMYB27_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB27_II:AtMYB27_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1836,7 +1836,7 @@ BS  35087;
 BS  35097;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB30_I:AtMYB30_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB30_I:AtMYB30_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1874,7 +1874,7 @@ BS  35095;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB30_II:AtMYB30_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB30_II:AtMYB30_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1910,7 +1910,7 @@ BS  35093;
 BS  35094;
 BS  35095;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB31_II:AtMYB31_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB31_II:AtMYB31_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1945,7 +1945,7 @@ XX
 BS  35090;
 BS  35091;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB34_II:AtMYB34_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB34_II:AtMYB34_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -1981,7 +1981,7 @@ XX
 BS  35090;
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB35_II:AtMYB35_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB35_II:AtMYB35_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2019,7 +2019,7 @@ BS  35089;
 BS  35094;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB36_II:AtMYB36_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB36_II:AtMYB36_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2058,7 +2058,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB37_I:AtMYB37_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB37_I:AtMYB37_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2094,7 +2094,7 @@ BS  35094;
 BS  35095;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB39_II:AtMYB39_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB39_II:AtMYB39_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2137,7 +2137,7 @@ BS  35094;
 BS  35098;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB40_II:AtMYB40_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB40_II:AtMYB40_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2175,7 +2175,7 @@ BS  35091;
 BS  35094;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB41_II:AtMYB41_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB41_II:AtMYB41_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2216,7 +2216,7 @@ BS  35096;
 BS  35098;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB42_II:AtMYB42_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB42_II:AtMYB42_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2254,7 +2254,7 @@ BS  35093;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB44_II:AtMYB44_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB44_II:AtMYB44_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2292,7 +2292,7 @@ BS  35095;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB45_II:AtMYB45_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB45_II:AtMYB45_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2328,7 +2328,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB46_I:AtMYB46_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB46_I:AtMYB46_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2365,7 +2365,7 @@ BS  35095;
 BS  35096;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB46_II:AtMYB46_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB46_II:AtMYB46_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2405,7 +2405,7 @@ BS  35095;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB49_II:AtMYB49_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB49_II:AtMYB49_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2440,7 +2440,7 @@ XX
 BS  35088;
 BS  35097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB4_I:AtMYB4_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB4_I:AtMYB4_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2480,7 +2480,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB50_II:AtMYB50_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB50_II:AtMYB50_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2515,7 +2515,7 @@ XX
 BS  35090;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB51_II:AtMYB51_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB51_II:AtMYB51_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2552,7 +2552,7 @@ BS  35090;
 BS  35091;
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB52_II:AtMYB52_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB52_II:AtMYB52_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2590,7 +2590,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB53_II:AtMYB53_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB53_II:AtMYB53_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2625,7 +2625,7 @@ XX
 BS  35087;
 BS  35097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB58_I:AtMYB58_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB58_I:AtMYB58_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2661,7 +2661,7 @@ BS  35095;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB58_II:AtMYB58_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB58_II:AtMYB58_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2699,7 +2699,7 @@ BS  35091;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB59_II:AtMYB59_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB59_II:AtMYB59_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2736,7 +2736,7 @@ BS  35090;
 BS  35094;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB5_II:AtMYB5_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB5_II:AtMYB5_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2776,7 +2776,7 @@ BS  35097;
 BS  35099;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB60_I:AtMYB60_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB60_I:AtMYB60_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2813,7 +2813,7 @@ BS  35088;
 BS  35092;
 BS  35097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB63_I:AtMYB63_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB63_I:AtMYB63_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2850,7 +2850,7 @@ BS  35095;
 BS  35096;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB63_II:AtMYB63_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB63_II:AtMYB63_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2885,7 +2885,7 @@ XX
 BS  35097;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB65_I:AtMYB65_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB65_I:AtMYB65_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2923,7 +2923,7 @@ BS  35091;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB66_II:AtMYB66_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB66_II:AtMYB66_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2964,7 +2964,7 @@ BS  19337;
 BS  35098;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB67_II:AtMYB67_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB67_II:AtMYB67_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -2999,7 +2999,7 @@ XX
 BS  35090;
 BS  35095;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB68_II:AtMYB68_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB68_II:AtMYB68_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3035,7 +3035,7 @@ BS  35091;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB6_II:AtMYB6_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB6_II:AtMYB6_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3071,7 +3071,7 @@ BS  35089;
 BS  35093;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB70_II:AtMYB70_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB70_II:AtMYB70_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3109,7 +3109,7 @@ BS  35094;
 BS  35095;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB72_II:AtMYB72_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB72_II:AtMYB72_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3146,7 +3146,7 @@ BS  35093;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB73_II:AtMYB73_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB73_II:AtMYB73_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3182,7 +3182,7 @@ BS  35089;
 BS  35091;
 BS  35094;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB74_II:AtMYB74_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB74_II:AtMYB74_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3220,7 +3220,7 @@ BS  35087;
 BS  35097;
 BS  35099;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB76_I:AtMYB76_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB76_I:AtMYB76_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3256,7 +3256,7 @@ BS  35090;
 BS  35095;
 BS  35096;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB76_II:AtMYB76_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB76_II:AtMYB76_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3294,7 +3294,7 @@ BS  35093;
 BS  19337;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB77_II:AtMYB77_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB77_II:AtMYB77_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3332,7 +3332,7 @@ BS  35089;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB78_II:AtMYB78_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB78_II:AtMYB78_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3371,7 +3371,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB80_II:AtMYB80_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB80_II:AtMYB80_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3407,7 +3407,7 @@ BS  35088;
 BS  35097;
 BS  35101;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB84_I:AtMYB84_I:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB84_I:AtMYB84_I:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3439,7 +3439,7 @@ P0      A      C      G      T
 XX
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB84_II:AtMYB84_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB84_II:AtMYB84_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3475,7 +3475,7 @@ BS  35090;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB85_II:AtMYB85_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB85_II:AtMYB85_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3510,7 +3510,7 @@ XX
 BS  35090;
 BS  19337;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB87_II:AtMYB87_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB87_II:AtMYB87_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3548,7 +3548,7 @@ BS  35094;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB89_II:AtMYB89_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB89_II:AtMYB89_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3586,7 +3586,7 @@ BS  35091;
 BS  35094;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB8_II:AtMYB8_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB8_II:AtMYB8_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3620,7 +3620,7 @@ P0      A      C      G      T
 XX
 BS  35096;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB93_II:AtMYB93_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB93_II:AtMYB93_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3659,7 +3659,7 @@ BS  35095;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB94_II:AtMYB94_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB94_II:AtMYB94_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3699,7 +3699,7 @@ BS  35096;
 BS  19337;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB95_II:AtMYB95_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB95_II:AtMYB95_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3738,7 +3738,7 @@ BS  35095;
 BS  35096;
 BS  35098;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB99_II:AtMYB99_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB99_II:AtMYB99_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3777,7 +3777,7 @@ BS  35095;
 BS  35096;
 BS  35100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB9_II:AtMYB9_II:AthaMYB
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB9_II:AtMYB9_II:AthaMYB
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -3800,16 +3800,16 @@ XX
 BF  10413;
 XX
 P0      A      C      G      T
-01     14     72      8      6      C
+01     15     71      8      6      C
 02      3      1     95      1      G
 03      2     87     11      0      C
 04      2     97      1      0      C
 05      0      1     99      0      G
-06      6     63     13     18      c
+06      6     63     14     17      c
 07     16     77      1      6      C
 08     49      7     30     14      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK19363.1:M0004_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK19363.1:M0004_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3836,12 +3836,12 @@ P0      A      C      G      T
 02      0      0    100      0      G
 03      0    100      0      0      C
 04     12     88      0      0      C
-05      2      1     97      0      G
+05      2      0     97      1      G
 06      0     95      5      0      C
 07      0    100      0      0      C
-08     24     10     49     17      g
+08     25     10     48     17      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ORA59:M0005_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ORA59:M0005_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3866,7 +3866,7 @@ XX
 P0      A      C      G      T
 01     25     39     27      9      s
 02     14     72     13      1      C
-03     38      0     62      0      r
+03     38      1     61      0      r
 04      0     79     19      2      C
 05      0     96      0      4      C
 06     20      1     71      8      G
@@ -3875,7 +3875,7 @@ P0      A      C      G      T
 09     25     16     43     16      r
 10     18     24     17     41      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WIN1:M0006_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WIN1:M0006_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3905,10 +3905,10 @@ P0      A      C      G      T
 05     10     67      8     15      C
 06     18      0     82      0      G
 07     14     42     21     23      c
-08     22     40     20     18      c
+08     22     41     19     18      c
 09     35     21     23     21      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G22985:M0007_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G22985:M0007_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3931,7 +3931,7 @@ XX
 BF  5566;
 XX
 P0      A      C      G      T
-01     28      0     13     59      w
+01     27      0     13     60      w
 02     76     24      0      0      A
 03      0      0      0    100      T
 04      0      0    100      0      G
@@ -3940,7 +3940,7 @@ P0      A      C      G      T
 07      0      0     91      9      G
 08      0     68     10     22      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TEM1:M0008_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TEM1:M0008_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3963,18 +3963,18 @@ XX
 BF  10415;
 XX
 P0      A      C      G      T
-01     20     31     32     17      s
+01     21     31     32     16      s
 02     21     49     13     17      c
 03     11      0     89      0      G
 04      2     83      6      9      C
 05     15     70      5     10      C
 06     13      1     83      3      G
-07     19     38     16     27      y
+07     20     38     15     27      y
 08     26     49      8     17      m
-09     42     16     18     24      a
+09     42     17     18     23      a
 10     28     20     20     32      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11:M0009_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11:M0009_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -3998,15 +3998,15 @@ BF  5568;
 XX
 P0      A      C      G      T
 01     18     26     32     24      s
-02     11     37     19     33      y
+02     11     38     19     32      y
 03      5      0     95      0      G
 04      4     78      5     13      C
-05      3     62     12     23      c
+05      4     62     11     23      c
 06     14      9     70      7      G
 07     18     19     36     27      k
-08     19     49     10     22      c
+08     20     48     10     22      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.6:M0010_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.6:M0010_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -4035,7 +4035,7 @@ P0      A      C      G      T
 07      8     90      0      2      C
 08     58      2     28     12      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3:M0011_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3:M0011_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4063,13 +4063,13 @@ P0      A      C      G      T
 03      1     91      6      2      C
 04     11     81      3      5      C
 05      7      5     85      3      G
-06     15     46     15     24      c
+06     16     45     15     24      c
 07     20     60      6     14      c
 08     45     18     18     19      a
 09     27     21     18     34      w
 10     29     21     19     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF-8:M0012_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF-8:M0012_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4099,9 +4099,9 @@ P0      A      C      G      T
 05      0      0      0    100      T
 06      0      9      0     91      T
 07      0      0    100      0      G
-08      1     71      7     21      C
+08      0     71      7     22      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TEM2:M0013_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TEM2:M0013_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4126,15 +4126,15 @@ XX
 P0      A      C      G      T
 01     17     40     16     27      y
 02     49      1     40     10      r
-03      4     89      3      4      C
+03      3     90      3      4      C
 04      3     94      0      3      C
 05      6      0     91      3      G
 06     35     19     19     27      w
-07      8     81      4      7      C
+07      8     81      5      6      C
 08     23     49     10     18      c
 09     37     19     20     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ORA47:M0014_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ORA47:M0014_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4163,11 +4163,11 @@ P0      A      C      G      T
 04      2     95      3      0      C
 05      3     91      2      4      C
 06      6      0     86      8      G
-07     35     31     13     21      m
+07     35     31     12     22      m
 08     22     38     15     25      y
 09     32     24     16     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G75490:M0015_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G75490:M0015_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4201,7 +4201,7 @@ P0      A      C      G      T
 09     47     14     16     23      a
 10     27     24     19     30      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.4:M0016_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.4:M0016_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4226,14 +4226,14 @@ XX
 P0      A      C      G      T
 01     20     50     13     17      c
 02      3      5     89      3      G
-03      3     61     34      2      s
+03      2     61     34      3      s
 04      3     89      5      3      C
 05      8      3     84      5      G
-06      3     24     70      3      G
-07      3     91      3      3      C
+06      3     24     71      2      G
+07      3     92      3      2      C
 08     10     59     17     14      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF15:M0017_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF15:M0017_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -4254,17 +4254,17 @@ BF  10420;
 XX
 P0      A      C      G      T
 01     19     24     39     18      g
-02     10     44     34     12      s
+02     10     43     35     12      s
 03     22     61     12      5      c
-04      1      0     92      7      G
+04      1      0     91      8      G
 05      0    100      0      0      C
-06      5     95      0      0      C
+06      4     96      0      0      C
 07      4      3     90      3      G
 08     17     52     10     21      c
-09     24     66      3      7      c
+09     24     66      4      6      c
 10     48     13     24     15      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G33710:M0018_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G33710:M0018_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4287,9 +4287,9 @@ XX
 BF  10421;
 XX
 P0      A      C      G      T
-01     19     29     23     29      y
+01     19     30     23     28      y
 02     17     23     19     41      t
-03     30      4     58      8      r
+03     31      4     57      8      r
 04      0     89      2      9      C
 05      4     87      5      4      C
 06      4      4     90      2      G
@@ -4297,7 +4297,7 @@ P0      A      C      G      T
 08      9     71     10     10      C
 09     42     16     22     20      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HRD:M0019_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HRD:M0019_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4327,9 +4327,9 @@ P0      A      C      G      T
 05      0      2     98      0      G
 06     10     64     15     11      c
 07      0    100      0      0      C
-08     46     10     29     15      r
+08     46     10     28     16      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF13:M0020_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF13:M0020_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4352,16 +4352,16 @@ XX
 BF  10422;
 XX
 P0      A      C      G      T
-01     26     24     21     29      w
+01     25     25     21     29      w
 02     24     22     26     28      k
 03     22      7     58     13      g
-04     11     51     24     14      c
-05      1     66      1     32      y
+04     12     50     24     14      c
+05      1     66      0     33      y
 06     20      0     79      1      G
 07     15     33     28     24      s
-08     23     35     23     19      c
+08     24     35     23     18      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.2:M0021_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.2:M0021_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -4386,11 +4386,11 @@ P0      A      C      G      T
 03      2      2     95      1      G
 04      1     90      8      1      C
 05      1     98      1      0      C
-06      1      0     99      0      G
+06      0      1     99      0      G
 07      6     66     13     15      c
 08     12     80      4      4      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF-4:M0022_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF-4:M0022_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4414,17 +4414,17 @@ BF  2877;
 XX
 P0      A      C      G      T
 01     26     44     14     16      m
-02      8      2     87      3      G
+02      8      1     87      4      G
 03      5     87      8      0      C
-04     12     77      4      7      C
+04     13     77      3      7      C
 05      9      2     88      1      G
-06     14     46     13     27      y
+06     15     46     13     26      y
 07     21     59      7     13      c
 08     42     17     21     20      a
-09     28     21     20     31      w
+09     28     21     19     32      w
 10     28     21     20     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF-7:M0023_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF-7:M0023_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4450,13 +4450,13 @@ P0      A      C      G      T
 01     21     32     27     20      s
 02     25     36     22     17      c
 03     10      6     80      4      G
-04      3     74     17      6      C
+04      3     75     17      5      C
 05     15     77      1      7      C
 06     19      4     76      1      G
 07     19     45     17     19      c
 08     12     68     10     10      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G23230:M0024_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G23230:M0024_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4479,7 +4479,7 @@ XX
 BF  4198;
 XX
 P0      A      C      G      T
-01     17     38     27     18      s
+01     18     38     26     18      s
 02     30     50     10     10      m
 03      0      0    100      0      G
 04      0    100      0      0      C
@@ -4490,7 +4490,7 @@ P0      A      C      G      T
 09     36      8     49      7      r
 10     15     26     24     35      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF1:M0025_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF1:M0025_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4515,16 +4515,16 @@ XX
 P0      A      C      G      T
 01     25     24     27     24      r
 02     17     24     12     47      t
-03      4      1     92      3      G
+03      4      1     91      4      G
 04     11      9     14     66      t
 05      0    100      0      0      C
 06      1      0     98      1      G
 07      2      1     97      0      G
 08      2     42      4     52      y
-09     24     17     40     19      g
+09     25     17     39     19      g
 10     26     22     32     20      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G16750:M0026_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G16750:M0026_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4548,7 +4548,7 @@ BF  5590;
 XX
 P0      A      C      G      T
 01     29     35     18     18      m
-02      8     22     16     54      t
+02      8     22     17     53      t
 03      0      0    100      0      G
 04      0    100      0      0      C
 05      0    100      0      0      C
@@ -4558,7 +4558,7 @@ P0      A      C      G      T
 09     16     16     53     15      g
 10     17     28     26     29      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF6:M0027_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF6:M0027_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4591,7 +4591,7 @@ P0      A      C      G      T
 08     13     68      7     12      C
 09     31     32     14     23      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF-1:M0028_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF-1:M0028_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -4620,7 +4620,7 @@ P0      A      C      G      T
 07      2     93      0      5      C
 08     12     73      6      9      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF2:M0029_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF2:M0029_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4643,16 +4643,16 @@ XX
 BF  7500;
 XX
 P0      A      C      G      T
-01    100      0      0      0      A
-02      0      0      1     99      T
-03      1      0     99      0      G
-04      0      0      1     99      T
+01     99      1      0      0      A
+02      1      0      0     99      T
+03      0      0    100      0      G
+04      0      1      0     99      T
 05      0     99      0      1      C
-06      0      1     99      0      G
-07      1      0     99      0      G
+06      1      0     99      0      G
+07      0      1     99      0      G
 08      0     50      0     50      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FTQ4:M0030_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=FTQ4:M0030_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4686,7 +4686,7 @@ P0      A      C      G      T
 09      2     53      1     44      y
 10     37     21     27     15      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATCBF3:M0031_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATCBF3:M0031_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4715,10 +4715,10 @@ P0      A      C      G      T
 04      0     97      3      0      C
 05      0    100      0      0      C
 06      0      1     99      0      G
-07      7     75      7     11      C
+07      7     76      6     11      C
 08     10     79      6      5      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF4:M0033_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF4:M0033_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4750,7 +4750,7 @@ P0      A      C      G      T
 07      0     25      0     75      Y
 08     20     10     60     10      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G32800:M0034_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G32800:M0034_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4773,17 +4773,17 @@ XX
 BF  10426;
 XX
 P0      A      C      G      T
-01     13     28     20     39      y
+01     12     28     20     40      y
 02      9     10     67     14      g
 03     11     35     36     18      s
 04      1     68      0     31      y
-05     13      6     70     11      G
+05     14      6     69     11      G
 06     12     19     48     21      g
 07     16     48     13     23      c
 08     17     32     21     30      y
 09     23     26     25     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G07580:M0035_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G07580:M0035_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4809,7 +4809,7 @@ P0      A      C      G      T
 01     18     35     27     20      s
 02     26     44     17     13      m
 03      7      3     89      1      G
-04      4     76     15      5      C
+04      4     76     14      6      C
 05     10     80      4      6      C
 06     11      8     75      6      G
 07     18     41     12     29      y
@@ -4817,7 +4817,7 @@ P0      A      C      G      T
 09     39     21     19     21      a
 10     29     21     19     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Rap2.6L:M0036_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Rap2.6L:M0036_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4842,16 +4842,16 @@ XX
 P0      A      C      G      T
 01     19     30     28     23      s
 02     29     47     17      7      m
-03      3      1     94      2      G
-04      3     90      4      3      C
+03      3      1     95      1      G
+04      3     91      3      3      C
 05     10     85      2      3      C
 06      4      1     93      2      G
 07     13     59     13     15      c
 08      3     90      3      4      C
 09     38     18     24     20      a
-10     23     25     22     30      y
+10     23     26     22     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G43410:M0037_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G43410:M0037_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4874,18 +4874,18 @@ XX
 BF  2867;
 XX
 P0      A      C      G      T
-01     26     25     21     28      h
+01     26     26     21     27      h
 02     23     27     27     23      s
 03     29     32     24     15      m
 04     13      8     73      6      G
 05      9     69     15      7      C
 06     18     70      4      8      C
-07     16      3     77      4      G
+07     17      2     77      4      G
 08     18     46     15     21      c
 09     12     68      9     11      C
-10     34     22     22     22      a
+10     35     22     22     21      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF2:M0038_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF2:M0038_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4908,18 +4908,18 @@ XX
 BF  1971;
 XX
 P0      A      C      G      T
-01     27     27     21     25      h
+01     28     27     20     25      h
 02     23     27     27     23      s
-03     27     37     19     17      m
+03     28     36     19     17      m
 04     14      6     75      5      G
 05     12     61     18      9      c
 06     19     67      7      7      c
 07     21     12     59      8      g
 08     20     35     21     24      c
 09     17     60     11     12      c
-10     32     29     18     21      m
+10     33     29     17     21      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF5:M0039_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF5:M0039_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -4948,7 +4948,7 @@ P0      A      C      G      T
 07      0    100      0      0      C
 08     10     10     70     10      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G51190:M0040_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G51190:M0040_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -4973,15 +4973,15 @@ XX
 P0      A      C      G      T
 01     19     31     30     20      s
 02     22     48     16     14      c
-03      5      0     94      1      G
+03      5      0     95      0      G
 04      2     88      5      5      C
-05      9     77      6      8      C
+05     10     77      6      7      C
 06     17     10     62     11      g
 07     20     42     14     24      c
 08     22     46     13     19      c
 09     34     24     21     21      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF3:M0041_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF3:M0041_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5015,7 +5015,7 @@ P0      A      C      G      T
 09     85      2      2     11      A
 10     13     22     22     43      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g45450:M0042_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g45450:M0042_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5038,16 +5038,16 @@ XX
 BF  10430;
 XX
 P0      A      C      G      T
-01      0     99      1      0      C
-02      0      0    100      0      G
+01      0     99      0      1      C
+02      0      0     99      1      G
 03      0     66     33      1      s
-04      0     99      0      1      C
-05      0      0     99      1      G
-06      1     99      0      0      C
-07      0     99      0      1      C
+04      0     99      1      0      C
+05      1      0     99      0      G
+06      0     99      1      0      C
+07      0    100      0      0      C
 08     50      0     50      0      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os05g41760:M0043_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os05g41760:M0043_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5071,17 +5071,17 @@ BF  10431;
 XX
 P0      A      C      G      T
 01     23     25     25     27      k
-02     20     32     25     23      s
+02     19     33     25     23      s
 03     23     34     24     19      c
 04     17      0     79      4      G
-05      2     64     31      3      s
+05      2     64     30      4      s
 06      0    100      0      0      C
 07      0      0    100      0      G
 08     21     49      0     30      y
 09     30     32     16     22      m
 10     35     19     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os08g36920:M0044_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os08g36920:M0044_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5113,7 +5113,7 @@ P0      A      C      G      T
 07      0     15      0     85      T
 08      8      0     67     25      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_4800009:M0072_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_4800009:M0072_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5147,7 +5147,7 @@ P0      A      C      G      T
 09      7      7     79      7      G
 10     29     25     29     17      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_gwp_gw1.C_550163:M0073_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_gwp_gw1.C_550163:M0073_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5170,10 +5170,10 @@ XX
 BF  10453;
 XX
 P0      A      C      G      T
-01     26     27     19     28      h
+01     26     27     18     29      h
 02      4      4      4     88      T
 03      2      2     85     11      G
-04     11      2     13     74      T
+04     11      1     13     75      T
 05      2     94      2      2      C
 06      0      9     91      0      G
 07      9      0     91      0      G
@@ -5184,7 +5184,7 @@ P0      A      C      G      T
 12     31     23     23     23      a
 13     31     23     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.scaffold_1000495:M0074_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.scaffold_1000495:M0074_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5216,7 +5216,7 @@ P0      A      C      G      T
 07      0     22      0     78      T
 08     12      0     70     18      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.8.141.1:M0075_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.8.141.1:M0075_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5239,16 +5239,16 @@ XX
 BF  10455;
 XX
 P0      A      C      G      T
-01     19     60     13      8      c
+01     18     60     14      8      c
 02      0      0    100      0      G
 03      0     92      8      0      C
 04      0     98      2      0      C
 05      0      0    100      0      G
-06      2     71     22      5      C
+06      2     70     22      6      C
 07      0    100      0      0      C
 08     59      3     32      6      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0100010458:M0076_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0100010458:M0076_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5277,12 +5277,12 @@ P0      A      C      G      T
 04     20     53     14     13      c
 05     51     21     22      6      a
 06     62     11     14     13      a
-07      3     87      3      7      C
+07      3     86      3      8      C
 08     83      0     14      3      A
 09     12     14     37     37      k
 10     39     17     16     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1:M0077_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1:M0077_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5316,7 +5316,7 @@ P0      A      C      G      T
 09     47     18      8     27      w
 10     34     16     16     34      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1:M0078_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1:M0078_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5339,18 +5339,18 @@ XX
 BF  2587;
 XX
 P0      A      C      G      T
-01     23     24     22     31      t
+01     23     23     23     31      t
 02     25     34     14     27      y
 03     38     20     14     28      w
 04     47     13     20     20      a
-05     12     45     13     30      y
-06     30     13     45     12      r
+05     12     45     12     31      y
+06     30     12     46     12      r
 07     20     20     13     47      t
 08     28     14     20     38      w
 09     26     14     35     25      r
-10     31     22     24     23      a
+10     31     22     23     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G51120:M0079_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G51120:M0079_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5373,7 +5373,7 @@ XX
 BF  5583;
 XX
 P0      A      C      G      T
-01     25     21     40     14      r
+01     25     22     39     14      r
 02     21     53     13     13      c
 03     52     19     23      6      a
 04     65     10     12     13      a
@@ -5382,7 +5382,7 @@ P0      A      C      G      T
 07     11     13     36     40      k
 08     39     17     15     29      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDF3:M0080_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDF3:M0080_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5411,10 +5411,10 @@ P0      A      C      G      T
 04    100      0      0      0      A
 05      0    100      0      0      C
 06    100      0      0      0      A
-07      0      0     33     67      k
+07      1      0     33     66      k
 08     85      0      1     14      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDF3:M0081_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDF3:M0081_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5441,13 +5441,13 @@ P0      A      C      G      T
 02     21     31     25     23      s
 03     35     18     30     17      r
 04     33     18     25     24      r
-05     41      5     20     34      w
+05     41      4     20     35      w
 06     71      5      0     24      A
 07     89      0      4      7      A
 08     45      1      4     50      w
 09     21     18     10     51      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HMGA:M0118_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HMGA:M0118_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5471,7 +5471,7 @@ BF  10483;
 XX
 P0      A      C      G      T
 01     25     15     25     35      t
-02     83      2      2     13      A
+02     83      2      3     12      A
 03     29      0      0     71      W
 04     70      0      0     30      W
 05      0      0      0    100      T
@@ -5479,9 +5479,9 @@ P0      A      C      G      T
 07     69      0      0     31      W
 08     30      0      0     70      W
 09     21     10     10     59      t
-10     32     23     23     22      a
+10     32     22     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G17950:M0119_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G17950:M0119_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5505,16 +5505,16 @@ BF  10484;
 XX
 P0      A      C      G      T
 01     27     25     24     24      a
-02     26     27     24     23      m
+02     25     28     24     23      m
 03     24     24     29     23      g
 04     29     23     26     22      r
-05     59      1     34      6      r
+05     59      2     34      5      r
 06     35     22      1     42      w
-07     40      9     16     35      w
+07     39      9     17     35      w
 08     38     12     19     31      w
-09     36     18     19     27      w
+09     35     18     20     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BRADI3G55950:M0120_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BRADI3G55950:M0120_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5538,16 +5538,16 @@ BF  10485;
 XX
 P0      A      C      G      T
 01     37     14     38     11      r
-02     22     28     25     25      s
-03     61      5     23     11      a
+02     23     28     25     24      s
+03     61      6     23     10      a
 04     43     11     20     26      w
-05     48      5     20     27      w
+05     48      5     21     26      w
 06     40     10     16     34      w
 07     34     20     12     34      w
 08     55      7     22     16      a
 09     46      4     32     18      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BRADI5G22430:M0121_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BRADI5G22430:M0121_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5581,7 +5581,7 @@ P0      A      C      G      T
 09     34     12     25     29      w
 10     34     15     24     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GSVIVG00033765001:M0136_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GSVIVG00033765001:M0136_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5605,15 +5605,15 @@ BF  10501;
 XX
 P0      A      C      G      T
 01     41     18     21     20      a
-02     38     16     18     28      w
-03     41      4     19     36      w
+02     38     15     19     28      w
+03     42      4     19     35      w
 04     44     12      5     39      w
 05     81      0      8     11      A
 06     51      0      7     42      w
 07     34      8      6     52      w
 08     31     19     15     35      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g57820:M0137_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g57820:M0137_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5645,7 +5645,7 @@ P0      A      C      G      T
 07     76      3      0     21      A
 08     19      4      0     77      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Medtr8g106590.1:M0145_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Medtr8g106590.1:M0145_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5669,15 +5669,15 @@ BF  9908;
 XX
 P0      A      C      G      T
 01     66     33      0      1      m
-02      0      0      0    100      T
-03      0      1     99      0      G
+02      0      1      0     99      T
+03      0      0    100      0      G
 04      1     99      0      0      C
 05     99      0      0      1      A
-06      0      0      1     99      T
-07      0      0     99      1      G
-08      1     99      0      0      C
+06      0      1      0     99      T
+07      0      0    100      0      G
+08      0     99      0      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEC2:M0146_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEC2:M0146_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5705,12 +5705,12 @@ P0      A      C      G      T
 03      0      0      9     91      T
 04      4      0     90      6      G
 05      0      1      0     99      T
-06      6     86      0      8      C
+06      5     86      1      8      C
 07      6      3     80     11      G
 08     12     14     65      9      g
-09     23     34     22     21      c
+09     22     34     22     22      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF8:M0147_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF8:M0147_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5735,13 +5735,13 @@ XX
 P0      A      C      G      T
 01     24     54     13      9      c
 02     62      8     12     18      a
-03      7     73      0     20      C
+03      8     72      0     20      C
 04     19      0     77      4      G
 05      1     13      1     85      T
-06     17      0     76      7      G
-07     15     44     21     20      c
+06     17      1     76      6      G
+07     14     44     22     20      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK18474.1:M0149_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK18474.1:M0149_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5773,7 +5773,7 @@ P0      A      C      G      T
 07      0      0    100      0      G
 08     13      7     27     53      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G01260:M0150_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G01260:M0150_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5801,10 +5801,10 @@ P0      A      C      G      T
 03      0     71      0     29      Y
 04      0      0     88     12      G
 05      0      1      0     99      T
-06      2      1     97      0      G
+06      2      0     98      0      G
 07     22     30     35     13      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=POC1:M0151_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=POC1:M0151_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -5824,18 +5824,18 @@ XX
 BF  7517;
 XX
 P0      A      C      G      T
-01     27     28     21     24      m
-02     26     20     36     18      r
+01     26     28     21     25      m
+02     26     20     37     17      r
 03     12     85      0      3      C
 04     85      1      8      6      A
 05      1     86      0     13      C
 06     13      0     86      1      G
-07      6      7      1     86      T
+07      6      8      1     85      T
 08      3      0     85     12      G
-09     17     37     20     26      y
-10     24     21     28     27      k
+09     18     37     19     26      y
+10     25     21     28     26      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYC2:M0152_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYC2:M0152_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5860,15 +5860,15 @@ XX
 P0      A      C      G      T
 01     23     27     29     21      s
 02     22     30     26     22      s
-03     19     53     13     15      c
-04     69     11     13      7      A
-05      1     76      4     19      C
+03     20     53     12     15      c
+04     68     11     14      7      A
+05      2     76      3     19      C
 06     16      0     83      1      G
-07      3      4      0     93      T
+07      2      4      1     93      T
 08      1      4     93      2      G
 09     19     34     26     21      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZCW32:M0153_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZCW32:M0153_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5894,7 +5894,7 @@ P0      A      C      G      T
 01     24     26     29     21      s
 02     17     14     37     32      k
 03      5     90      0      5      C
-04     97      0      2      1      A
+04     96      0      2      2      A
 05      2     89      0      9      C
 06      9      0     89      2      G
 07      1      2      1     96      T
@@ -5902,7 +5902,7 @@ P0      A      C      G      T
 09     32     37     14     17      m
 10     21     29     26     24      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM2:M0154_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM2:M0154_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5935,10 +5935,10 @@ P0      A      C      G      T
 08      0      0    100      0      G
 09      2      2      2     94      T
 10      2      2     94      2      G
-11     20     49     19     12      c
+11     20     49     20     11      c
 12     23     23     23     31      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G18300:M0155_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G18300:M0155_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5961,18 +5961,18 @@ XX
 BF  3877;
 XX
 P0      A      C      G      T
-01     28     22     30     20      r
+01     29     21     30     20      r
 02     14     28     28     30      b
-03      2     94      2      2      C
-04     96      0      3      1      A
+03      2     95      1      2      C
+04     95      0      3      2      A
 05      0     91      0      9      C
 06      9      0     91      0      G
-07      1      3      0     96      T
-08      2      1     94      3      G
+07      2      3      0     95      T
+08      2      2     94      2      G
 09     30     28     28     14      v
-10     20     30     21     29      y
+10     19     30     22     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIL5:M0156_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIL5:M0156_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -5995,16 +5995,16 @@ XX
 BF  10516;
 XX
 P0      A      C      G      T
-01     15      5     65     15      g
+01     16      4     65     15      g
 02      0    100      0      0      C
 03     73      0     24      3      A
 04      0     85      0     15      C
 05      0      0    100      0      G
 06      0      0      0    100      T
 07      0      0    100      0      G
-08     10     14     47     29      k
+08     10     13     48     29      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH34:M0157_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH34:M0157_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6036,7 +6036,7 @@ P0      A      C      G      T
 07      0      0    100      0      G
 08     27     53      7     13      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=UNE10:M0158_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=UNE10:M0158_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6070,7 +6070,7 @@ P0      A      C      G      T
 09      4     87      7      2      C
 10      2     82      3     13      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH104:M0159_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH104:M0159_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6100,11 +6100,11 @@ P0      A      C      G      T
 05      3     82      0     15      C
 06     15      0     82      3      G
 07      7      7      0     86      T
-08      4      1     83     12      G
+08      4      1     82     13      G
 09     19     36     19     26      y
 10     24     20     28     28      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYC4:M0160_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYC4:M0160_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6127,18 +6127,18 @@ XX
 BF  10519;
 XX
 P0      A      C      G      T
-01     25     25     24     26      h
+01     26     25     24     25      h
 02     21     23     34     22      g
 03     14     72      4     10      C
-04     89      0      4      7      A
+04     89      1      3      7      A
 05      2     82      0     16      C
 06     16      0     82      2      G
-07      7      3      0     90      T
+07      8      3      0     89      T
 08     10      4     72     14      G
 09     22     34     23     21      c
-10     25     24     25     26      d
+10     26     24     24     26      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BEE2:M0161_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BEE2:M0161_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6162,7 +6162,7 @@ BF  10520;
 XX
 P0      A      C      G      T
 01     20     43     21     16      c
-02      5     57     25     13      s
+02      4     57     26     13      s
 03      0     96      0      4      C
 04     88      0     10      2      A
 05      1     91      0      8      C
@@ -6171,7 +6171,7 @@ P0      A      C      G      T
 08      8     12     72      8      G
 09     22     30     24     24      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPT:M0162_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPT:M0162_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6196,16 +6196,16 @@ XX
 P0      A      C      G      T
 01     22     25     28     25      g
 02     13     65     10     12      c
-03     58     11     18     13      a
+03     58     10     18     14      a
 04      6     77      2     15      C
 05     14      6     80      0      G
 06      0      2      0     98      T
 07      0      0     99      1      G
-08     38     29     15     18      m
+08     38     30     14     18      m
 09     15     34     24     27      y
-10     25     26     26     23      v
+10     26     25     26     23      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM1:M0163_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM1:M0163_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6231,15 +6231,15 @@ P0      A      C      G      T
 01     30     20     27     23      r
 02     16     16     44     24      g
 03      7     82      1     10      C
-04     94      1      2      3      A
+04     95      0      2      3      A
 05      1     92      0      7      C
 06      7      0     92      1      G
-07      4      2      0     94      T
+07      3      2      1     94      T
 08     10      1     82      7      G
 09     24     43     17     16      c
-10     24     27     20     29      y
+10     23     28     20     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM3:M0164_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM3:M0164_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6262,8 +6262,8 @@ XX
 BF  9988;
 XX
 P0      A      C      G      T
-01     19     64      5     12      c
-02     58      8     12     22      a
+01     19     63      6     12      c
+02     59      7     12     22      a
 03      4     66      8     22      c
 04     18      1     73      8      G
 05      1     12      0     87      T
@@ -6273,7 +6273,7 @@ P0      A      C      G      T
 09     25     21     24     30      w
 10     30     23     20     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYC3:M0165_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYC3:M0165_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6305,7 +6305,7 @@ P0      A      C      G      T
 07      1      1     97      1      G
 08      1     97      1      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G48560:M0166_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G48560:M0166_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6328,18 +6328,18 @@ XX
 BF  10524;
 XX
 P0      A      C      G      T
-01     25     20     30     25      r
+01     25     20     31     24      r
 02     27     23     33     17      r
-03     13     80      2      5      C
-04     69      8     12     11      A
-05      0     86      1     13      C
-06     13      0     87      0      G
+03     13     80      1      6      C
+04     68      8     12     12      A
+05      0     86      0     14      C
+06     13      0     86      1      G
 07     11     12      9     68      T
-08      5      2     80     13      G
+08      6      1     80     13      G
 09     17     33     23     27      y
-10     25     30     20     25      y
+10     24     31     20     25      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ILR3:M0167_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ILR3:M0167_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6372,7 +6372,7 @@ P0      A      C      G      T
 08      0      0    100      0      G
 09     22     34     22     22      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bhlh112:M0229_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=bhlh112:M0229_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6406,7 +6406,7 @@ P0      A      C      G      T
 09     17     39     23     21      c
 10     26     22     27     25      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.209.40.1:M0250_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.209.40.1:M0250_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6432,15 +6432,15 @@ P0      A      C      G      T
 01     26     24     31     19      r
 02     21     18     27     34      k
 03      7     85      2      6      C
-04     80      0     11      9      A
+04     81      0     11      8      A
 05      5     80      0     15      C
 06     15      0     80      5      G
-07      9     11      0     80      T
+07      9     10      0     81      T
 08      6      2     85      7      G
 09     34     27     18     21      m
 10     19     31     24     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.scaffold_37000071:M0251_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.scaffold_37000071:M0251_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6463,16 +6463,16 @@ XX
 BF  10632;
 XX
 P0      A      C      G      T
-01     15     46     15     24      c
+01     15     47     15     23      c
 02      0    100      0      0      C
 03    100      0      0      0      A
 04      0    100      0      0      C
 05      5      0     95      0      G
 06      0      0      0    100      T
 07      0      0    100      0      G
-08     15     64      7     14      c
+08     14     64      8     14      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.270.82.1:M0252_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.270.82.1:M0252_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6497,7 +6497,7 @@ XX
 P0      A      C      G      T
 01     27     16     40     17      r
 02     26      8     56     10      r
-03     12     77      3      8      C
+03     12     77      4      7      C
 04     27      6     57     10      r
 05      1     63      2     34      y
 06      3      4     92      1      G
@@ -6506,7 +6506,7 @@ P0      A      C      G      T
 09      8     30     27     35      b
 10     18     40     18     24      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_14.0001000151:M0253_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_14.0001000151:M0253_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6530,16 +6530,16 @@ BF  10635;
 XX
 P0      A      C      G      T
 01     25     34     12     29      h
-02     18     33     26     23      s
+02     18     34     26     22      s
 03     62     13     14     11      a
 04      7     65     15     13      c
 05     12     16     63      9      g
 06      3      6      0     91      T
 07      3      0     95      2      G
-08      1      7     54     38      k
+08      0      7     54     39      k
 09     29     48     13     10      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP68:M0255_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP68:M0255_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6565,7 +6565,7 @@ P0      A      C      G      T
 01     23     31     23     23      c
 02     31     23     23     23      a
 03     19     27     19     35      y
-04     28     12     40     20      r
+04     27     12     41     20      r
 05     70     18     10      2      A
 06      0     84      0     16      C
 07    100      0      0      0      A
@@ -6576,7 +6576,7 @@ P0      A      C      G      T
 12     21     13     29     37      k
 13     23     23     23     31      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATAREB1:M0256_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATAREB1:M0256_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6600,10 +6600,10 @@ BF  3856;
 XX
 P0      A      C      G      T
 01     21     21     37     21      g
-02     26     17     32     25      r
+02     25     17     33     25      r
 03     68     18      7      7      a
 04     16     74      1      9      C
-05     73      8     11      8      A
+05     73      9     10      8      A
 06      0     91      0      9      C
 07     18      0     82      0      G
 08      0     10      0     90      T
@@ -6611,7 +6611,7 @@ P0      A      C      G      T
 10     16     19     40     25      k
 11     18     28     28     26      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF1:M0257_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF1:M0257_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6636,7 +6636,7 @@ XX
 P0      A      C      G      T
 01     19     21     34     26      k
 02     35     16     48      1      r
-03      1      0      0     99      T
+03      1      0      1     98      T
 04      8      0     87      5      G
 05     92      1      0      7      A
 06      0     86      2     12      C
@@ -6645,7 +6645,7 @@ P0      A      C      G      T
 09     26     57     10      7      m
 10     60      6     12     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G77920:M0259_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G77920:M0259_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6675,11 +6675,11 @@ P0      A      C      G      T
 05     94      4      0      2      A
 06     21      1     77      1      G
 07      2     68      8     22      C
-08      1      8      3     88      T
+08      1      9      3     87      T
 09     19      8     66      7      g
 10      9      6     39     46      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G21230:M0260_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G21230:M0260_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6702,8 +6702,8 @@ XX
 BF  3091;
 XX
 P0      A      C      G      T
-01     18     25     26     31      b
-02      9      9     65     17      g
+01     17     26     26     31      b
+02      9      9     66     16      g
 03     61     31      0      8      m
 04      0     92      8      0      C
 05    100      0      0      0      A
@@ -6713,7 +6713,7 @@ P0      A      C      G      T
 09     15      7     71      7      G
 10     16     16     34     34      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI5:M0261_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI5:M0261_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6736,18 +6736,18 @@ XX
 BF  10639;
 XX
 P0      A      C      G      T
-01     21     21     19     39      t
+01     21     22     19     38      t
 02     16      2     54     28      k
-03     55     40      1      4      m
+03     56     40      1      3      m
 04      6     79      1     14      C
 05     94      0      0      6      A
 06     24      7     58     11      g
 07     14     52     13     21      c
-08     17     20     12     51      t
+08     17     21     11     51      t
 09     23     16     38     23      g
 10     22     13     33     32      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G40620:M0262_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G40620:M0262_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6770,18 +6770,18 @@ XX
 BF  10640;
 XX
 P0      A      C      G      T
-01     26     20     32     22      r
+01     26     21     32     21      r
 02     35     18     30     17      r
 03     18     22     10     50      t
 04     12     19     51     18      g
 05     78      5      8      9      A
-06      0     81      1     18      C
-07     18      0     77      5      G
+06      1     80      1     18      C
+07     17      0     78      5      G
 08     14     19      3     64      t
 09     24     11     54     11      g
-10     15     14     39     32      k
+10     16     14     39     31      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP17:M0263_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP17:M0263_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6813,9 +6813,9 @@ P0      A      C      G      T
 07      7      0     89      4      G
 08      0      6     54     40      k
 09     33     41     14     12      m
-10     33     27     19     21      m
+10     33     28     18     21      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF3:M0264_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF3:M0264_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6847,9 +6847,9 @@ P0      A      C      G      T
 07      0      0    100      0      G
 08      0      0      0    100      T
 09     28     60      8      4      m
-10     66     10     14     10      a
+10     67      9     14     10      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA6:M0265_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA6:M0265_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6873,7 +6873,7 @@ BF  496;
 XX
 P0      A      C      G      T
 01     12     17     43     28      k
-02     37     51     11      1      m
+02     38     50     11      1      m
 03      3     88      0      9      C
 04     94      0      6      0      A
 05      9     59     22     10      c
@@ -6882,7 +6882,7 @@ P0      A      C      G      T
 08     25     28     29     18      s
 09     31     14     35     20      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF2:M0266_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF2:M0266_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6914,7 +6914,7 @@ P0      A      C      G      T
 07      1      1     97      1      G
 08      1      1      1     97      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF3:M0267_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF3:M0267_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6941,14 +6941,14 @@ P0      A      C      G      T
 02      6     32     40     22      s
 03     86      4      5      5      A
 04      2     78     11      9      C
-05      6     14     76      4      G
+05      6     13     76      5      G
 06      2      3      0     95      T
 07      5      0     95      0      G
 08      0      5     61     34      k
 09     28     54     10      8      m
-10     37     29     15     19      m
+10     36     29     16     19      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF1:M0268_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF1:M0268_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -6977,12 +6977,12 @@ P0      A      C      G      T
 04      2      9     85      4      G
 05     86      0     11      3      A
 06      0     78      3     19      C
-07     12      5     78      5      G
+07     13      4     78      5      G
 08     11     13      8     68      t
-09     33     36     16     15      m
+09     33     37     15     15      m
 10     50     17     19     14      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2:M0269_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2:M0269_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7005,7 +7005,7 @@ XX
 BF  10645;
 XX
 P0      A      C      G      T
-01     44     25     29      2      r
+01     45     24     29      2      r
 02      0      0      0    100      T
 03      0      0     91      9      G
 04     98      0      2      0      A
@@ -7014,7 +7014,7 @@ P0      A      C      G      T
 07      0     10      0     90      T
 08     35     29     21     15      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBF5:M0270_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBF5:M0270_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7038,17 +7038,17 @@ BF  10646;
 XX
 P0      A      C      G      T
 01     16      9     62     13      g
-02     27     49     17      7      m
-03      5      0      1     94      T
+02     27     49     18      6      m
+03      6      0      0     94      T
 04     12      0     64     24      g
-05     94      1      3      2      A
-06      9     84      1      6      C
-07     18      1     80      1      G
+05     95      1      2      2      A
+06      8     85      1      6      C
+07     18      0     80      2      G
 08     13     13      7     67      t
-09     37     32     18     13      m
+09     36     33     18     13      m
 10     41      8     36     15      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA4:M0271_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA4:M0271_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7072,7 +7072,7 @@ BF  10647;
 XX
 P0      A      C      G      T
 01     23     23     23     31      t
-02     20     21     39     20      g
+02     21     20     39     20      g
 03     19     43     19     19      c
 04     17     15      2     66      t
 05      0     36     64      0      s
@@ -7084,7 +7084,7 @@ P0      A      C      G      T
 11     14      6     60     20      g
 12     23     31     23     23      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtbZIP63:M0272_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtbZIP63:M0272_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7111,14 +7111,14 @@ P0      A      C      G      T
 02     32     30     32      6      v
 03      3      2      2     93      T
 04      4      5     76     15      G
-05     91      0      2      7      A
+05     90      1      2      7      A
 06      2     75      2     21      C
 07     13     10     69      8      G
-08     17     18     10     55      t
+08     17     17     11     55      t
 09     29     35     18     18      m
 10     38     18     22     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1:M0273_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1:M0273_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7141,7 +7141,7 @@ XX
 BF  10692;
 XX
 P0      A      C      G      T
-01     22     23     22     33      t
+01     22     22     22     34      t
 02     18     18     39     25      g
 03     20     64      4     12      c
 04      0     93      7      0      C
@@ -7149,11 +7149,11 @@ P0      A      C      G      T
 06      0    100      0      0      C
 07      0      0    100      0      G
 08      0      0      0    100      T
-09      3     22     73      2      G
+09      3     21     73      3      G
 10     27      7     19     47      w
 11     21     29     21     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g49560:M0327_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g49560:M0327_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7176,16 +7176,16 @@ XX
 BF  10693;
 XX
 P0      A      C      G      T
-01     66     33      1      0      m
-02      0     99      0      1      C
-03    100      0      0      0      A
+01     67     33      0      0      m
+02      1     99      0      0      C
+03     99      0      0      1      A
 04      0     99      0      1      C
-05      1      0     99      0      G
-06      1      0      0     99      T
-07      0      1     99      0      G
+05      0      1     99      0      G
+06      0      0      1     99      T
+07      0      0     99      1      G
 08      0      0     50     50      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os05g36160:M0329_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os05g36160:M0329_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7208,18 +7208,18 @@ XX
 BF  10719;
 XX
 P0      A      C      G      T
-01     34     20     25     21      r
-02     21     25      4     50      t
-03     16     16     34     34      k
+01     34     21     25     20      r
+02     22     25      3     50      t
+03     15     17     34     34      k
 04     76      4      7     13      A
 05     10     66      2     22      c
 06     22      2     66     10      g
 07     13      7      4     76      T
-08     35     34     16     15      m
-09     49      4     25     22      a
-10     21     25     20     34      y
+08     34     34     16     16      m
+09     50      4     24     22      a
+10     20     25     20     35      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0100010379:M0361_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0100010379:M0361_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7244,15 +7244,15 @@ XX
 P0      A      C      G      T
 01     43     12     42      3      r
 02      0      0      0    100      T
-03      5      0     86      9      G
+03      6      0     85      9      G
 04     94      2      0      4      A
 05      0     90      0     10      C
 06     14      2     81      3      G
-07     13     18      6     63      t
-08     29     36     25     10      v
+07     12     19      6     63      t
+08     28     36     26     10      v
 09     37     12     23     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0300010272:M0362_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0300010272:M0362_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7276,7 +7276,7 @@ BF  10721;
 XX
 P0      A      C      G      T
 01     29     21     29     21      r
-02     23     13      6     58      t
+02     23     14      5     58      t
 03      3     38     56      3      s
 04    100      0      0      0      A
 05      0    100      0      0      C
@@ -7284,10 +7284,10 @@ P0      A      C      G      T
 07      0      0      0    100      T
 08      0     10     90      0      G
 09     14      4     59     23      g
-10     20     41     19     20      c
+10     20     40     20     20      c
 11     34     22     22     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0300010311:M0363_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0300010311:M0363_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7316,12 +7316,12 @@ P0      A      C      G      T
 04     21     79      0      0      C
 05      6     92      0      2      C
 06    100      0      0      0      A
-07      4     90      6      0      C
+07      3     90      7      0      C
 08      4     10     84      2      G
 09      0      6      0     94      T
-10      5      9     79      7      G
+10      6      9     79      6      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=1500010105:M0364_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=1500010105:M0364_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7345,17 +7345,17 @@ BF  10723;
 XX
 P0      A      C      G      T
 01     15     26     12     47      y
-02     10      4     60     26      k
+02     10      5     60     25      k
 03     34     64      1      1      m
-04      1     96      0      3      C
+04      2     95      0      3      C
 05     99      0      0      1      A
 06     21     15     60      4      g
-07     19     38     28     15      s
-08     16     30     31     23      s
+07     18     39     28     15      s
+08     16     29     32     23      s
 09     18     24     17     41      t
 10     22     17     37     24      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_Chr_04.00010098:M0365_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_Chr_04.00010098:M0365_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7378,20 +7378,20 @@ XX
 BF  10724;
 XX
 P0      A      C      G      T
-01     32     23     22     23      a
-02     17     18     18     47      t
+01     32     22     23     23      a
+02     18     17     18     47      t
 03     13     13     61     13      g
 04     13     61     13     13      c
 05     11     20      0     69      T
 06      0     31     69      0      S
 07    100      0      0      0      A
 08      0    100      0      0      C
-09      2      2     73     23      G
-10      7     16      7     70      T
+09      3      2     73     22      G
+10      7     17      7     69      T
 11     12     12     64     12      g
 12     12     12     32     44      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_07.0001000033:M0366_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_07.0001000033:M0366_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7417,13 +7417,13 @@ P0      A      C      G      T
 01     25     24     24     27      w
 02     21     24     27     28      k
 03     23     25     25     27      y
-04     25     18     31     26      d
-05     75      5      9     11      A
-06     65      0      6     29      w
+04     26     17     31     26      d
+05     76      4      9     11      A
+06     66      0      6     28      w
 07      5     53     40      2      s
-08     19     21      7     53      t
+08     19     22      7     52      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZFP5:M0369_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZFP5:M0369_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7448,13 +7448,13 @@ XX
 P0      A      C      G      T
 01     23     23     31     23      g
 02     68      4     10     18      a
-03      8     38     52      2      s
+03      8     37     52      3      s
 04      7     15      0     78      T
 05     28      6     51     15      r
 06     30     16     21     33      w
 07     28     23     25     24      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STZ:M0370_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=STZ:M0370_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7478,7 +7478,7 @@ BF  10729;
 XX
 P0      A      C      G      T
 01     46     14     14     26      w
-02      4     32     56      8      s
+02      3     33     56      8      s
 03     26      9      0     65      w
 04     14     10     10     66      t
 05     26     29     19     26      h
@@ -7487,7 +7487,7 @@ P0      A      C      G      T
 08     25     23     26     26      k
 09     24     25     22     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZFP8:M0371_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZFP8:M0371_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7510,15 +7510,15 @@ XX
 BF  10730;
 XX
 P0      A      C      G      T
-01     22     23     31     24      g
+01     21     24     31     24      g
 02     78      0     10     12      A
 03      0     40     59      1      s
 04      7      7      0     86      T
-05     22      5     64      9      g
+05     21      6     64      9      g
 06     30     13     22     35      w
 07     28     23     27     22      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AZF2:M0372_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AZF2:M0372_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7552,10 +7552,10 @@ P0      A      C      G      T
 09      6     15     14     65      t
 10     48     17     27      8      r
 11     26     48      8     18      m
-12      9     17     17     57      t
-13     23     23     31     23      g
+12      8     17     17     58      t
+13     23     23     32     22      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT7:M0373_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT7:M0373_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7579,14 +7579,14 @@ BF  8906;
 XX
 P0      A      C      G      T
 01     24     23     30     23      g
-02     59      2     12     27      w
+02     59      3     12     26      w
 03      2     36     59      3      s
 04      3     18      0     79      T
 05     27      9     48     16      r
-06     28     18     24     30      w
-07     25     23     26     26      k
+06     29     18     24     29      w
+07     25     24     26     25      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G53600:M0374_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G53600:M0374_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7609,7 +7609,7 @@ XX
 BF  10732;
 XX
 P0      A      C      G      T
-01     26     24     29     21      r
+01     25     24     30     21      r
 02     66      3      8     23      a
 03      6     34     56      4      s
 04      6     25      0     69      T
@@ -7617,7 +7617,7 @@ P0      A      C      G      T
 06     30     19     23     28      w
 07     27     25     24     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G04390:M0375_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G04390:M0375_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7648,7 +7648,7 @@ P0      A      C      G      T
 06     32     17     27     24      r
 07     26     25     19     30      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RBE:M0376_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RBE:M0376_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7674,12 +7674,12 @@ P0      A      C      G      T
 01     26     24     29     21      r
 02     63      2      8     27      w
 03      2     28     69      1      S
-04      1     24      0     75      T
-05     25     12     45     18      r
+04      2     23      0     75      T
+05     25     12     46     17      r
 06     28     20     24     28      w
 07     26     23     26     25      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RHL41:M0377_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RHL41:M0377_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7710,7 +7710,7 @@ P0      A      C      G      T
 06     26     17     25     32      w
 07     25     24     27     24      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AZF1:M0378_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AZF1:M0378_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7734,16 +7734,16 @@ BF  7521;
 XX
 P0      A      C      G      T
 01     24     54     18      4      c
-02      1     97      0      2      C
+02      1     98      0      1      C
 03      3      0     96      1      G
 04      7     66      0     27      y
 05      4      0     96      0      G
 06      0      0      0    100      T
-07     23     27     21     29      y
+07     24     27     21     28      y
 08     29     25     25     21      a
 09     24     26     25     25      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CAMTA3:M0581_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=CAMTA3:M0581_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7766,17 +7766,17 @@ XX
 BF  10935;
 XX
 P0      A      C      G      T
-01     31     21     22     26      w
-02     33     24     18     25      w
-03     39     12     24     25      a
-04     22     44     30      4      s
+01     32     20     22     26      w
+02     33     23     18     26      w
+03     40     12     24     24      a
+04     21     44     31      4      s
 05      3     95      1      1      C
 06      2      1     97      0      G
 07      3     68      1     28      Y
 08      1      1     97      1      G
 09      1      1      5     93      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G64220:M0582_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G64220:M0582_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7799,16 +7799,16 @@ XX
 BF  10937;
 XX
 P0      A      C      G      T
-01      0      0     33     67      k
-02      0      0      0    100      T
-03      0      0      0    100      T
-04      0      0      1     99      T
-05      0      0      1     99      T
-06     66      0      1     33      w
-07      1      0      0     99      T
-08      1      0      0     99      T
+01      0      0     34     66      k
+02      0      1      0     99      T
+03      0      0      1     99      T
+04      0      1      0     99      T
+05      1      0      0     99      T
+06     67      0      0     33      w
+07      0      0      1     99      T
+08      0      0      0    100      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATGRP2B:M0583_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATGRP2B:M0583_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7834,18 +7834,18 @@ P0      A      C      G      T
 01     29     29     21     21      m
 02     27     25     24     24      a
 03     67     11     11     11      a
-04     78      8      7      7      A
-05     82      3      4     11      A
+04     78      7      8      7      A
+05     82      3      3     12      A
 06      0      0      0    100      T
 07      0      0      0    100      T
 08      0      0      8     92      T
 09     26     13     13     48      w
-10     63     10     18      9      a
+10     63     10     17     10      a
 11     58     14     14     14      a
-12     39     17     18     26      w
-13     34     22     22     22      a
+12     39     18     18     25      w
+13     35     22     21     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK22848.1:M0587_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK22848.1:M0587_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7869,15 +7869,15 @@ BF  10944;
 XX
 P0      A      C      G      T
 01     40      0     40     20      r
-02      1      0      0     99      T
-03      1      0      0     99      T
+02      0      0      1     99      T
+03      0      1      0     99      T
 04      0     20      0     80      T
 05     80      0     20      0      A
-06     99      1      0      0      A
-07    100      0      0      0      A
+06    100      0      0      0      A
+07     99      0      1      0      A
 08     25     25      0     50      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G20110:M0588_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G20110:M0588_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7901,17 +7901,17 @@ BF  10945;
 XX
 P0      A      C      G      T
 01     52     12     18     18      a
-02     50      7     13     30      w
+02     50      8     13     29      w
 03     12      9      5     74      T
 04      6      4      2     88      T
-05      3     42      4     51      y
+05      2     42      4     52      y
 06     51      4     42      3      r
 07     88      2      4      6      A
 08     74      5      9     12      A
-09     29     13      7     51      w
+09     29     14      7     50      w
 10     18     18     12     52      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G04850:M0589_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G04850:M0589_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7934,16 +7934,16 @@ XX
 BF  10946;
 XX
 P0      A      C      G      T
-01     26     10     42     22      r
+01     25     10     42     23      r
 02      2      2      0     96      T
 03      0      0      0    100      T
 04      3     15      2     80      T
-05     32      0     61      7      r
+05     33      0     60      7      r
 06     98      0      2      0      A
 07     93      0      0      7      A
-08     27     11      0     62      w
+08     28     11      0     61      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SOL1:M0590_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SOL1:M0590_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -7966,18 +7966,18 @@ XX
 BF  10947;
 XX
 P0      A      C      G      T
-01     31     23     23     23      a
-02     59      2     25     14      r
+01     32     23     23     22      a
+02     59      3     25     13      r
 03      0      0      0    100      T
 04      0      0      0    100      T
 05      0      9      0     91      T
 06     22      0     78      0      G
 07    100      0      0      0      A
 08    100      0      0      0      A
-09     11     23      2     64      t
-10     23     22     23     32      t
+09     12     23      2     63      t
+10     23     23     22     32      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G29000:M0591_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G29000:M0591_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8004,14 +8004,14 @@ P0      A      C      G      T
 02     46     14     28     12      r
 03      6     12      6     76      T
 04     11     16     13     60      t
-05      6     33     10     51      y
-06     50     11     33      6      r
+05      5     33     11     51      y
+06     51     11     32      6      r
 07     60     13     16     11      a
 08     76      6     12      6      A
 09     12     28     14     46      y
 10     24     20     27     29      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BRADI1G55710:M0592_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=BRADI1G55710:M0592_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8035,16 +8035,16 @@ BF  10954;
 XX
 P0      A      C      G      T
 01     30     18     28     24      r
-02     13     23     13     51      t
+02     13     24     13     50      t
 03     29      9     16     46      w
 04      7     38     12     43      y
 05     26     18     37     19      r
 06     41     20     23     16      a
-07     34     25     19     22      m
+07     35     25     18     22      m
 08     21     27     23     29      y
 09     22     24     27     27      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_09.0001000301:M0598_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_09.0001000301:M0598_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8074,11 +8074,11 @@ P0      A      C      G      T
 05     34     14     45      7      r
 06     56     13     11     20      a
 07     52     14     16     18      a
-08     26     22     14     38      w
+08     26     22     15     37      w
 09     25     20     19     36      t
 10     26     19     22     33      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgeneshCV_pg.C_scaffold_18000164:M0599_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgeneshCV_pg.C_scaffold_18000164:M0599_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8105,14 +8105,14 @@ P0      A      C      G      T
 02     28     14     20     38      w
 03     10     17     12     61      t
 04     20     12      9     59      t
-05      8     29     20     43      y
-06     43     21     28      8      r
+05      8     28     21     43      y
+06     44     20     28      8      r
 07     59      9     12     20      a
-08     61     12     17     10      a
+08     60     12     18     10      a
 09     38     20     14     28      w
 10     23     11     12     54      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.20.00.89.1:M0601_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.20.00.89.1:M0601_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8144,7 +8144,7 @@ P0      A      C      G      T
 07      5      0     95      0      G
 08      6     12      0     82      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G29160:M0646_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G29160:M0646_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8171,14 +8171,14 @@ P0      A      C      G      T
 02     32     20     25     23      a
 03     41     10     14     35      w
 04     81      7      4      8      A
-05     83      7      0     10      A
+05     83      6      0     11      A
 06     66     23      3      8      a
 07      7      2     85      6      G
 08     17     24     23     36      t
 09     27     19     27     27      d
 10     29     21     27     23      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G64620:M0647_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G64620:M0647_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8202,14 +8202,14 @@ BF  10999;
 XX
 P0      A      C      G      T
 01     38     17     23     22      a
-02     42      9     13     36      w
+02     43      8     13     36      w
 03     81      7      2     10      A
 04     81      7      0     12      A
 05     66     24      2      8      m
-06      8      8     76      8      G
+06      9      7     76      8      G
 07     18     24     21     37      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATDOF2.4:M0648_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATDOF2.4:M0648_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8239,9 +8239,9 @@ P0      A      C      G      T
 05     80      9      2      9      A
 06     50     40      2      8      m
 07     11      3     78      8      G
-08     20     26     20     34      y
+08     20     25     21     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ADOF2:M0649_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ADOF2:M0649_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8269,11 +8269,11 @@ P0      A      C      G      T
 03     26     20     20     34      w
 04     50     14     17     19      a
 05     50     17     18     15      a
-06     24     49      5     22      c
+06     24     50      4     22      c
 07     24      7     54     15      g
 08     27     22     22     29      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G45610:M0650_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G45610:M0650_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8297,16 +8297,16 @@ BF  11002;
 XX
 P0      A      C      G      T
 01     45     14     22     19      a
-02     61      3      6     30      w
-03     99      1      0      0      A
+02     61      3      7     29      w
+03    100      0      0      0      A
 04     99      0      0      1      A
 05     88      3      8      1      A
-06      2      0     97      1      G
+06      2      1     97      0      G
 07      7     29     16     48      y
 08     22     10     50     18      g
 09     29     34     17     20      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=cdf3:M0651_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=cdf3:M0651_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8332,14 +8332,14 @@ P0      A      C      G      T
 01     26     25     24     25      w
 02     25     23     28     24      g
 03     37     17     22     24      a
-04     38     12     13     37      w
+04     38     11     13     38      w
 05     79      6      3     12      A
 06     74     10      4     12      A
-07     47     38      6      9      m
+07     46     39      6      9      m
 08     14      4     71     11      G
-09     19     23     19     39      t
+09     19     24     18     39      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF4.7:M0652_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF4.7:M0652_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8362,18 +8362,18 @@ XX
 BF  11004;
 XX
 P0      A      C      G      T
-01     33     28     24     15      m
+01     33     28     23     16      m
 02     61      9     15     15      a
 03     69      2      4     25      W
 04     98      1      0      1      A
 05     98      1      0      1      A
 06     87      3      8      2      A
 07      2      0     97      1      G
-08      5     29     15     51      y
+08      6     29     15     50      y
 09     33      8     39     20      r
 10     30     28     16     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF2:M0653_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF2:M0653_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8398,13 +8398,13 @@ XX
 P0      A      C      G      T
 01     25     25     26     24      g
 02     33     21     23     23      a
-03     40     13     15     32      w
+03     40     12     15     33      w
 04     84      6      2      8      A
 05     85      8      0      7      A
 06     61     33      1      5      m
-07      6      5     77     12      G
+07      7      4     77     12      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TMO6:M0654_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TMO6:M0654_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8438,7 +8438,7 @@ P0      A      C      G      T
 09     30     20     10     40      w
 10     20     30     20     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP4:M0655_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP4:M0655_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8470,7 +8470,7 @@ P0      A      C      G      T
 07      5      3     88      4      G
 08     15     25     21     39      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.6:M0657_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.6:M0657_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8500,9 +8500,9 @@ P0      A      C      G      T
 05     70     11      5     14      A
 06     57     25      0     18      m
 07      8      8     76      8      G
-08     17     26     22     35      y
+08     17     27     22     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.149.93.1:M0658_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.149.93.1:M0658_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8536,7 +8536,7 @@ P0      A      C      G      T
 09     27     19     27     27      d
 10     28     22     27     23      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.170.52.1:M0659_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.170.52.1:M0659_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8559,17 +8559,17 @@ XX
 BF  11010;
 XX
 P0      A      C      G      T
-01     25     26     27     22      v
+01     25     26     26     23      v
 02     33     19     26     22      r
 03     48      7     12     33      w
 04     86      6      2      6      A
-05     92      4      0      4      A
+05     93      4      0      3      A
 06     67     15      5     13      a
 07      7      3     90      0      G
-08     14     29     19     38      y
+08     13     29     20     38      y
 09     28     16     30     26      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.392.16.1:M0660_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.392.16.1:M0660_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8592,18 +8592,18 @@ XX
 BF  11011;
 XX
 P0      A      C      G      T
-01     31     19     24     26      w
+01     32     18     24     26      w
 02     18     44     16     22      c
 03     18     19     31     32      k
 04     24     13     17     46      t
-05     30     14     10     46      w
-06     46     10     13     31      w
+05     30     13     10     47      w
+06     46     11     13     30      w
 07     46     17     13     24      a
 08     32     31     19     18      m
 09     22     16     44     18      g
-10     26     24     19     31      w
+10     27     24     18     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_370003:M0661_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_370003:M0661_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8629,12 +8629,12 @@ P0      A      C      G      T
 01     25     26     26     23      v
 02     26     21     21     32      w
 03     51     18     15     16      a
-04     52     19     11     18      a
+04     52     18     11     19      a
 05     35     39      5     21      m
 06     20     13     54     13      g
 07     21     25     23     31      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.12.257.1:M0662_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.12.257.1:M0662_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8668,7 +8668,7 @@ P0      A      C      G      T
 09     26     17     31     26      d
 10     28     26     23     23      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.385.26.1:M0663_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.385.26.1:M0663_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8693,14 +8693,14 @@ XX
 P0      A      C      G      T
 01     24     26     27     23      s
 02     36     19     23     22      a
-03     41     14     15     30      w
-04     62     13      9     16      a
-05     64     12      7     17      a
+03     41     15     15     29      w
+04     61     14      9     16      a
+05     65     11      7     17      a
 06     55     29      0     16      m
-07     13      9     71      7      G
+07     13     10     71      6      G
 08     17     24     21     38      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_08.0001000114:M0664_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_08.0001000114:M0664_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8723,18 +8723,18 @@ XX
 BF  7504;
 XX
 P0      A      C      G      T
-01     20     15      8     57      t
-02     20      3     29     48      k
+01     20     15      7     58      t
+02     20      2     30     48      k
 03      9     55     32      4      s
 04      0     20     80      0      G
 05      0    100      0      0      C
 06      0      0    100      0      G
 07      0     80     20      0      C
 08      4     32     55      9      s
-09     48     29      3     20      m
-10     57      8     15     20      a
+09     48     30      3     19      m
+10     57      7     16     20      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FE:M0665_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FE:M0665_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8763,12 +8763,12 @@ P0      A      C      G      T
 04      1     99      0      0      C
 05      1      0     99      0      G
 06      1     98      1      0      C
-07      8     55     23     14      c
+07      9     55     22     14      c
 08     41     24     12     23      a
 09     38     18     12     32      w
 10     31     22     20     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.38.2.1:M0677_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.38.2.1:M0677_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8799,10 +8799,10 @@ P0      A      C      G      T
 06      0      0    100      0      G
 07      0     93      7      0      C
 08      2     32     49     17      s
-09     11     56     11     22      c
+09     11     56     10     23      c
 10     38      7     28     27      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_gwp_GeneWisePlus.C_Chr_02.00010270:M0678_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_gwp_GeneWisePlus.C_Chr_02.00010270:M0678_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8825,9 +8825,9 @@ XX
 BF  11026;
 XX
 P0      A      C      G      T
-01     23     23     32     22      g
+01     22     23     32     23      g
 02     55     15     15     15      a
-03     86      5      5      4      A
+03     86      4      5      5      A
 04      0      0      0    100      T
 05      0      0    100      0      G
 06     49      0      0     51      w
@@ -8835,9 +8835,9 @@ P0      A      C      G      T
 08      0     50      0     50      y
 09      2     93      3      2      C
 10     10     10     10     70      T
-11     20     20     39     21      g
+11     20     21     39     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIL3:M0680_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIL3:M0680_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -8867,7 +8867,7 @@ P0      A      C      G      T
 08     22     20     20     38      t
 09     31     18     28     23      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIL1:M0681_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIL1:M0681_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -8887,18 +8887,18 @@ XX
 BF  11028;
 XX
 P0      A      C      G      T
-01     24     22     28     26      k
+01     25     22     28     25      k
 02     24     16     36     24      g
 03     45      9     35     11      r
 04      8     19      0     73      T
-05     29      5     48     18      r
-06     17     48      5     30      y
-07     73      0     18      9      A
+05     30      4     48     18      r
+06     18     48      5     29      y
+07     73      0     19      8      A
 08     11     35      9     45      y
 09     24     36     16     24      c
-10     25     28     23     24      m
+10     25     29     22     24      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIN3:M0682_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIN3:M0682_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -8927,10 +8927,10 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08      0     48      0     52      y
 09      2     94      2      2      C
-10      9     10     19     62      t
-11     29     20     31     20      r
+10     10      9     19     62      t
+11     29     20     30     21      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os09g31400:M0683_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os09g31400:M0683_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -8956,15 +8956,15 @@ P0      A      C      G      T
 01     28     25     24     23      a
 02     42     24     22     12      a
 03     15     19      9     57      t
-04     10      6     68     16      G
-05     32     22      7     39      w
+04      9      6     69     16      G
+05     32     22      8     38      w
 06     73      8      1     18      A
 07     13     41      3     43      y
 08     15     42     20     23      c
 09     24     19     21     36      t
 10     29     20     27     24      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.87.73.1:M0684_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.87.73.1:M0684_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -8990,10 +8990,10 @@ P0      A      C      G      T
 04    100      0      0      0      A
 05      0      0      0    100      T
 06      0    100      0      0      C
-07      0     12      8     80      T
+07      1     11      8     80      T
 08     11     11     74      4      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA10:M0758_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA10:M0758_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9023,9 +9023,9 @@ P0      A      C      G      T
 05      0      0      0    100      T
 06      0    100      0      0      C
 07      0      0      0    100      T
-08      4     14     69     13      G
+08      4     13     70     13      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA11:M0759_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA11:M0759_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9054,9 +9054,9 @@ P0      A      C      G      T
 04     92      0      1      7      A
 05      1      0      0     99      T
 06     13     33     30     24      s
-07     27     19     26     28      d
+07     27     20     26     27      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TIFY2A:M0760_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TIFY2A:M0760_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9085,11 +9085,11 @@ P0      A      C      G      T
 04      4      4     90      2      G
 05     98      0      0      2      A
 06      0      0      0    100      T
-07      5     66     16     13      c
+07      6     66     15     13      c
 08     32     20     27     21      r
 09     27     24     28     21      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA15:M0761_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA15:M0761_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9117,10 +9117,10 @@ P0      A      C      G      T
 03     97      0      0      3      A
 04      0      0      0    100      T
 05      9     40     27     24      s
-06     29     20     24     27      w
+06     29     20     23     28      w
 07     31     17     26     26      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TIFY2B:M0762_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TIFY2B:M0762_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9144,17 +9144,17 @@ BF  7509;
 XX
 P0      A      C      G      T
 01     26     24     23     27      w
-02     21     31     20     28      y
+02     21     31     19     29      y
 03     38     22     22     18      a
-04     17     16     56     11      g
+04     18     16     56     10      g
 05     87      0      8      5      A
 06      5      8      0     87      T
 07     11     56     15     18      c
 08     18     22     22     38      t
-09     29     20     31     20      r
+09     29     20     30     21      r
 10     27     23     24     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA1:M0763_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA1:M0763_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9180,15 +9180,15 @@ P0      A      C      G      T
 01     19     27     21     33      y
 02     54     13     22     11      a
 03     24      8     58     10      g
-04     77      1      8     14      A
-05     20      0      3     77      T
+04     77      1      7     15      A
+05     20      0      2     78      T
 06     18     56     17      9      c
-07     19     13     15     53      t
+07     18     13     15     54      t
 08     38      8     36     18      r
 09     31     14     28     27      d
 10     34     19     22     25      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA6:M0764_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA6:M0764_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9221,7 +9221,7 @@ P0      A      C      G      T
 08     38     16     37      9      r
 09     31     19     32     18      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA8:M0765_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA8:M0765_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9244,18 +9244,18 @@ XX
 BF  7512;
 XX
 P0      A      C      G      T
-01     29     25     17     29      h
+01     28     25     18     29      h
 02     18     30     16     36      y
-03     44     17     25     14      r
-04     16      7     74      3      G
+03     44     17     26     13      r
+04     16      6     74      4      G
 05     94      0      2      4      A
 06      4      2      0     94      T
-07      4     74      6     16      C
-08     14     26     17     43      y
+07      3     75      6     16      C
+08     13     26     17     44      y
 09     36     16     30     18      r
-10     29     18     24     29      d
+10     29     18     25     28      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA4:M0766_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA4:M0766_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -9276,17 +9276,17 @@ BF  11100;
 XX
 P0      A      C      G      T
 01     23     30     20     27      y
-02     30     37     14     19      m
+02     30     38     14     18      m
 03      8      5     68     19      G
 04     82      1      0     17      A
 05      8     16      7     69      T
 06     10     43     22     25      c
 07     32     17     27     24      r
-08     28     22     22     28      w
+08     27     22     23     28      w
 09     28     20     24     28      w
 10     29     24     21     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA26:M0767_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA26:M0767_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9309,9 +9309,9 @@ XX
 BF  11101;
 XX
 P0      A      C      G      T
-01     23     22     23     32      t
+01     23     23     23     31      t
 02     16     52     16     16      c
-03     20     30      5     45      y
+03     20     29      6     45      y
 04     93      0      7      0      A
 05      0      0    100      0      G
 06    100      0      0      0      A
@@ -9319,9 +9319,9 @@ P0      A      C      G      T
 08      0    100      0      0      C
 09      2     10      2     86      T
 10     29      9     45     17      r
-11     29     20     20     31      w
+11     30     19     20     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA9:M0768_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA9:M0768_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9344,9 +9344,9 @@ XX
 BF  7511;
 XX
 P0      A      C      G      T
-01     27     23     23     27      w
+01     26     23     23     28      w
 02     21     32     19     28      y
-03     25     24     25     26      w
+03     24     25     25     26      w
 04     35     23     22     20      a
 05     11      8     67     14      g
 06     88      0      0     12      A
@@ -9355,7 +9355,7 @@ P0      A      C      G      T
 09     17     26     21     36      y
 10     33     18     34     15      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA3:M0769_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA3:M0769_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9380,7 +9380,7 @@ XX
 P0      A      C      G      T
 01     33     17     22     28      w
 02     21     33     14     32      y
-03     44     18     23     15      a
+03     43     19     23     15      a
 04     21     16     48     15      g
 05     74      3      3     20      A
 06     20      3      3     74      T
@@ -9389,7 +9389,7 @@ P0      A      C      G      T
 09     32     14     33     21      r
 10     28     22     17     33      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA7:M0770_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA7:M0770_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9417,12 +9417,12 @@ P0      A      C      G      T
 03      8      3     73     16      G
 04     86      0      0     14      A
 05      5     18      4     73      T
-06     10     42     24     24      c
-07     33     17     27     23      r
+06     11     41     24     24      c
+07     33     18     26     23      r
 08     28     23     22     27      w
 09     29     21     24     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA27:M0771_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA27:M0771_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9445,17 +9445,17 @@ XX
 BF  11124;
 XX
 P0      A      C      G      T
-01     26     24     25     25      a
+01     27     24     24     25      a
 02     28     25     23     24      a
-03     26     15     48     11      r
-04     48     11     22     19      a
+03     26     16     47     11      r
+04     49     11     22     18      a
 05      0      0      0    100      T
 06     24     34     26     16      s
-07     24     24     24     28      t
-08     26     21     29     24      d
+07     23     24     25     28      t
+08     26     21     28     25      d
 09     24     23     28     25      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os06g48534:M0790_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os06g48534:M0790_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9485,9 +9485,9 @@ P0      A      C      G      T
 05     18     64     12      6      c
 06     25     17     24     34      t
 07     28     22     25     25      w
-08     25     20     27     28      k
+08     25     20     28     27      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0300010106:M0807_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0300010106:M0807_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9516,12 +9516,12 @@ P0      A      C      G      T
 04      9      0      0     91      T
 05      9     73     11      7      C
 06     27     10      8     55      w
-07     20     30     24     26      y
+07     21     30     23     26      y
 08     26     23     24     27      w
 09     28     23     23     26      w
 10     28     23     22     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_07.0001000042:M0808_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_07.0001000042:M0808_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9544,17 +9544,17 @@ XX
 BF  11143;
 XX
 P0      A      C      G      T
-01     21     26     18     35      y
+01     20     26     18     36      y
 02      8      0     75     17      G
 03      2      0      0     98      T
 04     79      1      1     19      A
-05      7     72     15      6      C
-06     17      3     71      9      G
-07      5      9     73     13      G
+05      7     72     14      7      C
+06     17      3     72      8      G
+07      6      9     73     12      G
 08     40     24     10     26      w
 09     29     29     17     25      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RGL2:M0821_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=RGL2:M0821_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9581,14 +9581,14 @@ P0      A      C      G      T
 02     20     31     34     15      s
 03     34     38     13     15      m
 04     15     30     13     42      y
-05     12      0     82      6      G
+05     13      0     81      6      G
 06      8      0      0     92      T
 07     10     78      4      8      C
 08     59      7     14     20      a
 09     29     29     20     22      m
-10     29     24     20     27      w
+10     28     24     21     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KNAT6:M0840_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=KNAT6:M0840_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9616,11 +9616,11 @@ P0      A      C      G      T
 03     20     18      2     60      t
 04      4      0     19     77      T
 05      8     73     10      9      C
-06     41      8     13     38      w
-07     29      5      2     64      w
+06     40      8     13     39      w
+07     28      5      3     64      w
 08     30     27     28     15      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HB-1:M0841_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HB-1:M0841_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9643,7 +9643,7 @@ XX
 BF  11164;
 XX
 P0      A      C      G      T
-01     21     40     11     28      y
+01     21     39     11     29      y
 02     58     26      7      9      m
 03     49      3      7     41      w
 04      6      1      1     92      T
@@ -9651,10 +9651,10 @@ P0      A      C      G      T
 06     92      3      4      1      A
 07     83      4      2     11      A
 08     13      3      0     84      T
-09      7      3     76     14      G
+09      8      3     76     13      G
 10     22     50      5     23      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDT1:M0842_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDT1:M0842_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9678,16 +9678,16 @@ BF  11165;
 XX
 P0      A      C      G      T
 01     18     25     29     28      b
-02     16     52      8     24      c
+02     15     52      8     25      c
 03     75      9      7      9      A
 04     89      7      0      4      A
 05      2      1      0     97      T
-06     36     30     13     21      m
+06     35     31     13     21      m
 07     92      1      4      3      A
-08     10      7     13     70      T
+08     11      6     13     70      T
 09     23     11     27     39      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB6:M0843_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB6:M0843_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9711,7 +9711,7 @@ BF  11166;
 XX
 P0      A      C      G      T
 01     22     23     23     32      t
-02     37     18     18     27      w
+02     36     18     19     27      w
 03     70     10     10     10      A
 04     15      6      5     74      T
 05     83      2      2     13      A
@@ -9720,11 +9720,11 @@ P0      A      C      G      T
 08     50      0      0     50      w
 09     22     13      2     63      t
 10     59      7      7     27      w
-11     35     15     14     36      w
+11     34     15     15     36      w
 12     29     20     20     31      w
 13     23     23     23     31      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB22:M0844_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB22:M0844_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9748,7 +9748,7 @@ BF  11167;
 XX
 P0      A      C      G      T
 01     17     35     27     21      s
-02     12     48      3     37      y
+02     11     49      3     37      y
 03     77      7      3     13      A
 04     79      9      5      7      A
 05     11      5      7     77      T
@@ -9758,7 +9758,7 @@ P0      A      C      G      T
 09     22     20     20     38      t
 10     30     18     29     23      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-4:M0845_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-4:M0845_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9782,7 +9782,7 @@ BF  11168;
 XX
 P0      A      C      G      T
 01     15     34     15     36      y
-02      3     83      3     11      C
+02      3     82      3     12      C
 03    100      0      0      0      A
 04    100      0      0      0      A
 05      0      0      0    100      T
@@ -9790,9 +9790,9 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08     29      0      0     71      W
 09     18     10     19     53      t
-10     23     22     33     22      g
+10     22     22     33     23      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB7:M0846_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB7:M0846_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9820,13 +9820,13 @@ P0      A      C      G      T
 03     46      9     36      9      r
 04     44     37      2     17      m
 05     80     12      0      8      A
-06      8     82      2      8      C
+06      8     82      1      9      C
 07      8     63     13     16      c
-08     31     24     21     24      a
+08     31     25     20     24      a
 09     26     28     19     27      h
-10     23     27     22     28      y
+10     23     27     21     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT3.1:M0847_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT3.1:M0847_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9854,11 +9854,11 @@ P0      A      C      G      T
 03     85      7      1      7      A
 04     85      7      3      5      A
 05      5      6      0     89      T
-06     10     76      6      8      C
+06     11     76      5      8      C
 07     82      3      6      9      A
 08     32     16     12     40      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT3:M0848_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT3:M0848_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -9878,18 +9878,18 @@ XX
 BF  8867;
 XX
 P0      A      C      G      T
-01      9     18     47     26      k
-02     32     19      8     41      w
+01     10     17     47     26      k
+02     33     19      7     41      w
 03     63      4      2     31      w
-04     40      9      4     47      w
+04     41      9      3     47      w
 05     33     16      1     50      w
 06     50      1     16     33      w
-07     47      4      9     40      w
+07     48      3      9     40      w
 08     31      2      5     62      w
-09     41      8     19     32      w
-10     26     47     17     10      m
+09     40      8     19     33      w
+10     25     47     18     10      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-12:M0849_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-12:M0849_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9913,7 +9913,7 @@ BF  11171;
 XX
 P0      A      C      G      T
 01     31     23     23     23      a
-02     17     16     17     50      t
+02     17     17     17     49      t
 03     67     21      6      6      a
 04     92      0      0      8      A
 05      0      0      0    100      T
@@ -9924,7 +9924,7 @@ P0      A      C      G      T
 10      8      9     75      8      G
 11     32     30     19     19      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANL2:M0850_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANL2:M0850_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9948,7 +9948,7 @@ BF  11172;
 XX
 P0      A      C      G      T
 01     15     37     33     15      s
-02      7     50      7     36      y
+02      7     51      7     35      y
 03    100      0      0      0      A
 04    100      0      0      0      A
 05      0      0      0    100      T
@@ -9958,7 +9958,7 @@ P0      A      C      G      T
 09     10     10     29     51      k
 10     35     18     29     18      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT1:M0851_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT1:M0851_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -9983,7 +9983,7 @@ XX
 P0      A      C      G      T
 01     32     28     19     21      m
 02     32     17     22     29      w
-03     14     15     11     60      t
+03     13     15     11     61      t
 04     32     19     14     35      w
 05     63     13     15      9      a
 06     43     20     12     25      a
@@ -9992,7 +9992,7 @@ P0      A      C      G      T
 09     18     39     18     25      y
 10     22     26     30     22      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATML1:M0852_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATML1:M0852_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10016,7 +10016,7 @@ BF  8899;
 XX
 P0      A      C      G      T
 01      0      9      9     82      T
-02      0     84      1     15      C
+02      0     85      0     15      C
 03    100      0      0      0      A
 04    100      0      0      0      A
 05      0      0      0    100      T
@@ -10024,7 +10024,7 @@ P0      A      C      G      T
 07     93      0      0      7      A
 08     60     10     20     10      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATWOX13:M0853_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATWOX13:M0853_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10056,7 +10056,7 @@ P0      A      C      G      T
 07      0      0      0    100      T
 08      7      0      7     86      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB16:M0854_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB16:M0854_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10079,18 +10079,18 @@ XX
 BF  11175;
 XX
 P0      A      C      G      T
-01     39     17     23     21      a
-02     19     35     33     13      s
-03     28     46     16     10      m
+01     39     16     23     22      a
+02     20     34     33     13      s
+03     29     46     15     10      m
 04     12     24     18     46      t
 05      8      0     89      3      G
 06      3      0      0     97      T
 07      6     87      3      4      C
-08     55     13     19     13      a
+08     55     14     18     13      a
 09     25     30     19     26      h
 10     28     24     22     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KNAT3:M0855_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=KNAT3:M0855_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10116,13 +10116,13 @@ P0      A      C      G      T
 01     28     28     22     22      m
 02     25     25     18     32      t
 03     25     10     48     17      g
-04     22     29      3     46      y
+04     22     29      2     47      y
 05     22     38     19     21      c
-06     34     23     23     20      a
-07     28     23     26     23      r
+06     34     24     23     19      a
+07     28     22     27     23      r
 08     25     24     27     24      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os03g03164:M1107_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os03g03164:M1107_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10149,14 +10149,14 @@ P0      A      C      G      T
 02     28     23     23     26      w
 03     11     37     19     33      y
 04      5     64      2     29      y
-05     87      6      2      5      A
+05     87      5      2      6      A
 06     96      3      0      1      A
 07      1      0      0     99      T
 08      1     96      1      2      C
 09     79      3     10      8      A
 10     40     17     12     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os09g35910:M1108_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os09g35910:M1108_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10181,16 +10181,16 @@ XX
 P0      A      C      G      T
 01     25     28     25     22      v
 02     21     32     19     28      y
-03     19     11      2     68      t
+03     19     11      3     67      t
 04     69      7     14     10      A
-05     75     11      5      9      A
+05     75     11      4     10      A
 06     15     20     15     50      t
 07     18     38     19     25      y
 08     31     26     21     22      m
 09     26     30     21     23      m
 10     25     23     28     24      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Os02g0706600:M1116_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Os02g0706600:M1116_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10213,16 +10213,16 @@ XX
 BF  11293;
 XX
 P0      A      C      G      T
-01    100      0      0      0      A
+01     99      0      1      0      A
 02      0      0      0    100      T
 03    100      0      0      0      A
 04      0      0      0    100      T
 05    100      0      0      0      A
-06     14      0      0     86      T
+06     14      1      0     85      T
 07     50      0      0     50      w
 08     80      0      0     20      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PRH:M1167_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PRH:M1167_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10245,8 +10245,8 @@ XX
 BF  11321;
 XX
 P0      A      C      G      T
-01     15     45     11     29      y
-02     67     18     15      0      a
+01     16     45     11     28      y
+02     66     19     15      0      a
 03     89     11      0      0      A
 04      0      0      0    100      T
 05     31     33     18     18      m
@@ -10256,7 +10256,7 @@ P0      A      C      G      T
 09     23     26     30     21      s
 10     23     24     33     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_gwp_gw1.C_70211:M1195_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_gwp_gw1.C_70211:M1195_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10286,9 +10286,9 @@ P0      A      C      G      T
 05      1      0      0     99      T
 06      0     70      0     30      Y
 07     95      1      0      4      A
-08     55     11     20     14      a
+08     55     10     20     15      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRMZM2G038252:M1209_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRMZM2G038252:M1209_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10322,7 +10322,7 @@ P0      A      C      G      T
 09      6     74     14      6      C
 10     37     15     15     33      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRMZM2G087741:M1210_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRMZM2G087741:M1210_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10345,7 +10345,7 @@ XX
 BF  11336;
 XX
 P0      A      C      G      T
-01     10     35     53      2      s
+01      9     35     54      2      s
 02     35     56      3      6      m
 03      4     32      4     60      y
 04      0      0    100      0      G
@@ -10354,7 +10354,7 @@ P0      A      C      G      T
 07     94      0      4      2      A
 08     29     33     12     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRMZM2G135447:M1211_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRMZM2G135447:M1211_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10377,18 +10377,18 @@ XX
 BF  11340;
 XX
 P0      A      C      G      T
-01     25     26     24     25      h
+01     25     26     23     26      h
 02     24     29     20     27      y
 03     37     14     24     25      w
 04     25     20     13     42      t
 05     23     15     13     49      t
-06     70      7      3     20      A
+06     70      7      2     21      A
 07     14     12     62     12      g
 08     24     16     23     37      t
-09     32     43     10     15      m
+09     33     43      9     15      m
 10     18     41     13     28      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q1T448:M1215_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q1T448:M1215_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10412,17 +10412,17 @@ BF  11387;
 XX
 P0      A      C      G      T
 01     39     20     29     12      r
-02     47     12     24     17      a
-03     26     35     13     26      h
-04     20     37     36      7      s
-05      7     76     15      2      C
+02     47     11     24     18      a
+03     25     36     13     26      h
+04     20     37     37      6      s
+05      8     76     14      2      C
 06      6     14     78      2      G
 07      9     23     64      4      g
 08     21     30     36     13      s
-09     27     18     37     18      r
-10     31     18     29     22      r
+09     28     18     37     17      r
+10     30     19     29     22      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD4:M1274_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD4:M1274_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10446,8 +10446,8 @@ BF  11388;
 XX
 P0      A      C      G      T
 01     40     18     25     17      a
-02     41     15     18     26      w
-03     35     17     17     31      w
+02     42     15     17     26      w
+03     35     16     17     32      w
 04     29     18     13     40      w
 05     18     28     16     38      y
 06     27     30     34      9      v
@@ -10456,7 +10456,7 @@ P0      A      C      G      T
 09      3     26     63      8      s
 10     30     21     23     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=gw1.238.28.1:M1275_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=gw1.238.28.1:M1275_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10488,7 +10488,7 @@ P0      A      C      G      T
 07      0     94      0      6      C
 08     62     17     13      8      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT-1:M1276_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT-1:M1276_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10515,14 +10515,14 @@ P0      A      C      G      T
 02     23     16     12     49      t
 03     51     10     17     22      a
 04     88      0      0     12      A
-05      6     74      7     13      C
+05      6     74      6     14      C
 06     14     45      9     32      y
 07     32     28     21     19      m
 08     25     25     26     24      r
 09     31     22     25     22      a
 10     24     26     30     20      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G25990:M1277_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G25990:M1277_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10546,15 +10546,15 @@ BF  11391;
 XX
 P0      A      C      G      T
 01     50      0      0     50      w
-02      0      0      1     99      T
-03      0      0      0    100      T
-04     99      1      0      0      A
+02      0      1      0     99      T
+03      0      1      0     99      T
+04     99      0      0      1      A
 05      0     99      1      0      C
-06      0     99      1      0      C
-07      0      0     99      1      G
+06      0     99      0      1      C
+07      1      0     99      0      G
 08      0     50      0     50      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G47660:M1278_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G47660:M1278_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10577,21 +10577,21 @@ XX
 BF  11414;
 XX
 P0      A      C      G      T
-01     22     21     36     21      g
+01     21     21     37     21      g
 02     21     21     37     21      g
-03     19     28     20     33      y
+03     19     29     19     33      y
 04     19     20     10     51      t
 05     76     14      5      5      A
 06    100      0      0      0      A
 07      0    100      0      0      C
 08      0    100      0      0      C
-09      4     89      3      4      C
-10      3     89      4      4      C
+09      4     89      4      3      C
+10      4     89      4      3      C
 11      6     55      6     33      y
 12     25     15     24     36      t
-13     20     21     20     39      t
+13     20     20     20     40      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002876896.1:M1282_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002876896.1:M1282_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10623,7 +10623,7 @@ P0      A      C      G      T
 07      1     66      0     33      y
 08     50     25     25      0      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GSVIVG00007522001:M1283_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GSVIVG00007522001:M1283_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10650,14 +10650,14 @@ P0      A      C      G      T
 02     30      9     18     43      w
 03     48      4      3     45      w
 04     21      5     10     64      t
-05      0      4      0     96      T
-06      6      3      1     90      T
-07     97      0      1      2      A
+05      0      3      1     96      T
+06      6      4      1     89      T
+07     96      1      1      2      A
 08      3     94      0      3      C
 09     14     45      9     32      y
 10     25     19     42     14      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g01380:M1284_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g01380:M1284_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10683,15 +10683,15 @@ P0      A      C      G      T
 01     10     27     13     50      y
 02     18      7      4     71      T
 03     75      3     12     10      A
-04     96      3      0      1      A
-05      0     97      0      3      C
+04     95      4      0      1      A
+05      0     96      1      3      C
 06      3     65      2     30      y
 07     38     31     17     14      m
 08     23     25     29     23      s
 09     42     16     26     16      r
 10     19     27     39     15      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os04g40930:M1286_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os04g40930:M1286_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10714,16 +10714,16 @@ XX
 BF  11418;
 XX
 P0      A      C      G      T
-01      0      0     99      1      G
-02      0      0    100      0      G
-03      0      0      0    100      T
-04      1      0      0     99      T
+01      1      0     99      0      G
+02      0      0     99      1      G
+03      0      0      1     99      T
+04      0      1      0     99      T
 05     99      1      0      0      A
-06     99      0      0      1      A
+06     99      1      0      0      A
 07      0     99      0      1      C
-08      1     99      0      0      C
+08      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002892704.1:M1287_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002892704.1:M1287_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10747,17 +10747,17 @@ BF  11421;
 XX
 P0      A      C      G      T
 01     13     17     37     33      k
-02     24     12     46     18      g
+02     24     12     47     17      g
 03     17     16     50     17      g
-04     18     12     18     52      t
+04     18     12     17     53      t
 05     24     20      9     47      t
 06     47      9     20     24      a
 07     52     17     13     18      a
-08     16     50     17     17      c
+08     17     50     16     17      c
 09     17     46     13     24      c
 10     33     37     17     13      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=29929.m004704:M1290_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=29929.m004704:M1290_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10781,17 +10781,17 @@ BF  11422;
 XX
 P0      A      C      G      T
 01     18     27     20     35      y
-02     26     18     15     41      t
-03     46     11     18     25      a
+02     25     19     15     41      t
+03     46     12     18     24      a
 04     90      3      0      7      A
-05      0     85      1     14      C
+05      0     84      1     15      C
 06     14     50     10     26      y
-07     29     31     21     19      m
+07     30     31     20     19      m
 08     23     29     24     24      c
 09     29     24     26     21      r
 10     24     29     29     18      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=cassava13991.valid.m1:M1291_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=cassava13991.valid.m1:M1291_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10814,18 +10814,18 @@ XX
 BF  11423;
 XX
 P0      A      C      G      T
-01     13     28     17     42      y
+01     12     28     18     42      y
 02     19     13     10     58      t
 03     64      0     19     17      a
 04    100      0      0      0      A
 05      5     95      0      0      C
-06      1     69      4     26      Y
+06      0     70      4     26      Y
 07     33     33     21     13      m
 08     23     28     27     22      s
 09     33     20     33     14      r
-10     19     27     41     13      s
+10     19     28     41     12      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Glyma11g37390.1:M1292_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Glyma11g37390.1:M1292_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10849,17 +10849,17 @@ BF  11424;
 XX
 P0      A      C      G      T
 01     13     27     14     46      y
-02     17     12      7     64      t
+02     17     11      7     65      t
 03     66      7     15     12      a
 04     92      5      0      3      A
 05      2     93      0      5      C
-06      6     58      4     32      y
+06      6     58      3     33      y
 07     35     30     22     13      m
 08     24     26     26     24      s
-09     35     19     29     17      r
+09     35     19     28     18      r
 10     21     27     33     19      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Medtr3g103160.1:M1293_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Medtr3g103160.1:M1293_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10893,7 +10893,7 @@ P0      A      C      G      T
 09     41     15     30     14      r
 10     18     26     40     16      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MDP0000164819:M1294_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MDP0000164819:M1294_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10917,17 +10917,17 @@ BF  11432;
 XX
 P0      A      C      G      T
 01     33     17     17     33      w
-02     28     21     24     27      w
-03     22     29     11     38      y
+02     29     20     24     27      w
+03     23     28     11     38      y
 04     28      9     58      5      r
-05      1      1     97      1      G
+05      2      1     96      1      G
 06     91      2      6      1      A
-07      1      1      0     98      T
+07      1      2      0     97      T
 08     62     11     11     16      a
 09     57      5     23     15      a
-10     22     21     37     20      g
+10     21     22     37     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK00738.1:M1302_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK00738.1:M1302_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10960,7 +10960,7 @@ P0      A      C      G      T
 08      0      0      0    100      T
 09     50      0      0     50      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK02532.1:M1303_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK02532.1:M1303_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -10992,7 +10992,7 @@ P0      A      C      G      T
 07      0    100      0      0      C
 08     80      0      0     20      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK06103.1:M1304_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK06103.1:M1304_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11018,7 +11018,7 @@ P0      A      C      G      T
 01     25     11     12     52      t
 02      6      8      3     83      T
 03     99      0      0      1      A
-04      2     97      0      1      C
+04      2     96      1      1      C
 05      1     98      0      1      C
 06      7      1      0     92      T
 07     96      0      0      4      A
@@ -11026,7 +11026,7 @@ P0      A      C      G      T
 09      1     90      1      8      C
 10     20     19     32     29      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK06182.1:M1305_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK06182.1:M1305_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11050,17 +11050,17 @@ BF  11436;
 XX
 P0      A      C      G      T
 01     29     20     23     28      w
-02     41     15     18     26      w
-03     52     16     16     16      a
+02     42     15     17     26      w
+03     52     17     16     15      a
 04     56     12     20     12      a
-05     25      4     12     59      w
+05     25      5     12     58      w
 06     88      0      5      7      A
 07     10      5      5     80      T
 08      9     80      7      4      C
-09     20     20     18     42      t
+09     20     21     18     41      t
 10     26     22     24     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK08316.1:M1306_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK08316.1:M1306_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11085,14 +11085,14 @@ XX
 P0      A      C      G      T
 01     16     26     58      0      s
 02      0      0    100      0      G
-03     65     31      0      4      m
+03     66     30      0      4      m
 04    100      0      0      0      A
 05      0      0      0    100      T
 06     13     87      0      0      C
 07      0      0      0    100      T
 08     27     13      7     53      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK10342.1:M1307_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK10342.1:M1307_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11124,10 +11124,10 @@ P0      A      C      G      T
 07      0      9      1     90      T
 08      0    100      0      0      C
 09      5     65     25      5      c
-10     13     22     44     21      g
+10     13     22     43     22      g
 11     20     30     20     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK14402.1:M1308_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK14402.1:M1308_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11151,7 +11151,7 @@ BF  11439;
 XX
 P0      A      C      G      T
 01     29     20     20     31      w
-02     12     12     12     64      t
+02     12     13     12     63      t
 03      0      0    100      0      G
 04      0      0    100      0      G
 05    100      0      0      0      A
@@ -11159,9 +11159,9 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08     72      0      9     19      A
 09     16     24     35     25      g
-10     31     22     34     13      r
+10     32     22     34     12      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK17526.1:M1309_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK17526.1:M1309_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11186,16 +11186,16 @@ XX
 P0      A      C      G      T
 01     26     24     24     26      w
 02     37     18     20     25      a
-03     11     10     53     26      k
+03     11      9     54     26      k
 04     72      4     14     10      A
-05      0      1      0     99      T
-06     25     22     14     39      w
+05      1      0      0     99      T
+06     25     21     15     39      w
 07     11     74      7      8      C
 08     20     30     23     27      y
 09     25     27     26     22      v
-10     24     27     23     26      y
+10     24     28     22     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK19779.1:M1310_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK19779.1:M1310_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11227,7 +11227,7 @@ P0      A      C      G      T
 07     78      0      9     13      A
 08      4     35     35     26      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK23829.1:M1311_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK23829.1:M1311_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11250,18 +11250,18 @@ XX
 BF  11442;
 XX
 P0      A      C      G      T
-01     28     18     19     35      w
+01     29     17     19     35      w
 02     28     25     23     24      a
 03     28     24     21     27      w
-04     30     17     37     16      r
+04     30     16     38     16      r
 05      5      4     85      6      G
-06     80      6      9      5      A
+06     81      5      9      5      A
 07      5      4      0     91      T
-08     58     12     12     18      a
+08     57     12     13     18      a
 09     52      8     23     17      a
 10     20     25     35     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK27213.1:M1312_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK27213.1:M1312_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11285,7 +11285,7 @@ BF  11443;
 XX
 P0      A      C      G      T
 01     29      0     61     10      r
-02     71      0     14     15      A
+02     71      0     15     14      A
 03      0     88      0     12      C
 04     35     42     21      2      m
 05      0      0    100      0      G
@@ -11293,7 +11293,7 @@ P0      A      C      G      T
 07      0      0      0    100      T
 08     81      0     16      3      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK28565.1:M1313_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK28565.1:M1313_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11327,7 +11327,7 @@ P0      A      C      G      T
 09     21     24     35     20      g
 10     25     20     36     19      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK29550.1:M1314_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK29550.1:M1314_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11350,16 +11350,16 @@ XX
 BF  11445;
 XX
 P0      A      C      G      T
-01     19     28     22     31      y
+01     19     28     23     30      y
 02     30     11     49     10      r
 03      0      0    100      0      G
 04     78      0      8     14      A
 05     90      0      0     10      A
 06      1      0      0     99      T
 07      5     95      0      0      C
-08      5      8      0     87      T
+08      6      8      0     86      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HRS1:M1315_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=HRS1:M1315_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11391,7 +11391,7 @@ P0      A      C      G      T
 07      0    100      0      0      C
 08     61      1     15     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRFL5:M1316_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRFL5:M1316_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11421,10 +11421,10 @@ P0      A      C      G      T
 05     72      7      2     19      A
 06      7     18      8     67      t
 07     15      8      9     68      t
-08     24     15      9     52      t
-09     30     19     16     35      w
+08     24     15      8     53      t
+09     29     19     17     35      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EPR1:M1317_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=EPR1:M1317_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11448,17 +11448,17 @@ BF  11448;
 XX
 P0      A      C      G      T
 01     35     14     14     37      w
-02     31     16     24     29      w
+02     30     16     24     30      w
 03     16     32      9     43      y
 04     25      9     61      5      r
 05      2      1     96      1      G
 06     92      3      4      1      A
-07      2      2      0     96      T
+07      2      1      0     97      T
 08     65     10     11     14      a
 09     59      4     22     15      a
 10     26     22     35     17      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G19000:M1318_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G19000:M1318_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11489,11 +11489,11 @@ P0      A      C      G      T
 06      0      0    100      0      G
 07      0      0    100      0      G
 08      0      0      0    100      T
-09     65      8     20      7      a
+09     65      7     21      7      a
 10     27     19     35     19      r
 11     31     23     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3:M1319_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3:M1319_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11516,18 +11516,18 @@ XX
 BF  11450;
 XX
 P0      A      C      G      T
-01     30     21     23     26      w
-02     64      7     14     15      a
+01     30     20     23     27      w
+02     65      7     13     15      a
 03      3      2     75     20      G
 04     95      1      4      0      A
 05      4      0      0     96      T
-06     18     14      7     61      t
+06     18     14      6     62      t
 07      0     98      0      2      C
 08     12     40     20     28      y
 09     24     28     26     22      s
 10     21     27     21     31      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G25550:M1320_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G25550:M1320_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11550,18 +11550,18 @@ XX
 BF  11451;
 XX
 P0      A      C      G      T
-01     29     22     27     22      r
+01     30     21     27     22      r
 02     24     24     26     26      k
 03     32     21     31     16      r
 04      7      8     76      9      G
 05     49     12     15     24      a
 06     95      0      3      2      A
 07      8      6      0     86      T
-08     23     60      8      9      c
-09     22     17     13     48      t
+08     23     59      9      9      c
+09     22     17     12     49      t
 10     26     22     21     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G68670:M1321_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G68670:M1321_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11585,18 +11585,18 @@ BF  11452;
 XX
 P0      A      C      G      T
 01     23     23     23     31      t
-02     18     45     18     19      c
+02     18     46     18     18      c
 03      9     63      9     19      c
 04     10      0     90      0      G
 05      0      0    100      0      G
 06    100      0      0      0      A
 07      0      0      0    100      T
-08     91      8      1      0      A
-09     37      3      2     58      w
+08     92      8      0      0      A
+09     37      2      3     58      w
 10      7     80      6      7      C
 11     25     33     16     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G74840:M1322_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G74840:M1322_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11619,18 +11619,18 @@ XX
 BF  11453;
 XX
 P0      A      C      G      T
-01     36     15     19     30      w
+01     37     15     18     30      w
 02     64      6      7     23      a
-03      2      1     77     20      G
+03      3      1     76     20      G
 04     98      0      2      0      A
 05      0      0      0    100      T
 06     17     10     19     54      t
-07      1     98      0      1      C
+07      0     99      0      1      C
 08      2     45     24     29      y
 09     24     30     20     26      y
-10     23     26     13     38      y
+10     24     26     13     37      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G01060:M1323_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G01060:M1323_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11662,9 +11662,9 @@ P0      A      C      G      T
 07      1      0      0     99      T
 08      7     89      0      4      C
 09     14     13      8     65      t
-10     25     20     16     39      w
+10     26     20     15     39      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR14:M1324_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR14:M1324_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11692,12 +11692,12 @@ P0      A      C      G      T
 03     79      3     15      3      A
 04      0      0      0    100      T
 05     17     12     22     49      t
-06      3     89      3      5      C
+06      3     88      4      5      C
 07      8     36     28     28      b
 08     21     31     25     23      c
-09     22     27     23     28      y
+09     23     27     23     27      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G04030:M1325_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G04030:M1325_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11722,16 +11722,16 @@ XX
 P0      A      C      G      T
 01     26     22     27     25      r
 02     34     18     20     28      w
-03     53     11     13     23      a
+03     53     10     13     24      a
 04      7      3     58     32      k
 05     90      0      9      1      A
 06      1      0      0     99      T
 07     18     19     23     40      t
-08      2     92      3      3      C
+08      1     92      3      4      C
 09      7     38     25     30      y
 10     24     29     24     23      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G13040:M1326_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G13040:M1326_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11755,8 +11755,8 @@ BF  7490;
 XX
 P0      A      C      G      T
 01     41     16     21     22      a
-02     17     29     34     20      s
-03     30     47     13     10      m
+02     18     29     34     19      s
+03     30     47     14      9      m
 04     31      8     56      5      r
 05     42      2     23     33      w
 06     97      0      0      3      A
@@ -11765,7 +11765,7 @@ P0      A      C      G      T
 09     14     16      9     61      t
 10     26     19     18     37      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR1:M1327_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR1:M1327_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11795,11 +11795,11 @@ P0      A      C      G      T
 05      0      0      0    100      T
 06     18     12     20     50      t
 07      7     79      6      8      C
-08      9     34     29     28      b
+08      9     34     28     29      b
 09     22     28     25     25      s
 10     24     27     22     27      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G24120:M1328_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G24120:M1328_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -11819,16 +11819,16 @@ XX
 BF  11457;
 XX
 P0      A      C      G      T
-01     34      0     33     33      d
+01     33      0     34     33      d
 02     99      1      0      0      A
-03      1     99      0      0      C
-04      0     99      0      1      C
-05      0      1     99      0      G
-06      1      0     99      0      G
-07      0      1      0     99      T
+03      0    100      0      0      C
+04      0     99      1      0      C
+05      0      0     99      1      G
+06      0      0    100      0      G
+07      0      0      0    100      T
 08     40     20      0     40      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB94:M1329_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB94:M1329_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11851,7 +11851,7 @@ XX
 BF  10005;
 XX
 P0      A      C      G      T
-01     23      0     73      4      G
+01     22      0     73      5      G
 02     48      4     48      0      r
 03      0     96      0      4      C
 04     33     17     50      0      r
@@ -11860,7 +11860,7 @@ P0      A      C      G      T
 07      0      0      0    100      T
 08     56      0     44      0      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB77:M1330_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB77:M1330_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11883,8 +11883,8 @@ XX
 BF  7491;
 XX
 P0      A      C      G      T
-01     17     26     39     18      s
-02     34     57      4      5      m
+01     18     26     39     17      s
+02     34     56      5      5      m
 03     21      0     79      0      G
 04     48      0     21     31      w
 05    100      0      0      0      A
@@ -11894,7 +11894,7 @@ P0      A      C      G      T
 09     15      8      8     69      T
 10     20     21     20     39      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR2:M1331_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR2:M1331_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11918,7 +11918,7 @@ BF  11458;
 XX
 P0      A      C      G      T
 01     30     18     30     22      r
-02     15     38     25     22      c
+02     16     38     24     22      c
 03     27     12     53      8      r
 04     30     22     20     28      w
 05     63      5     12     20      a
@@ -11926,9 +11926,9 @@ P0      A      C      G      T
 07     11      4      0     85      T
 08     14     71      7      8      C
 09     15     28     13     44      y
-10     34     21     24     21      a
+10     33     22     24     21      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=APRR2:M1332_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=APRR2:M1332_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11951,19 +11951,19 @@ XX
 BF  11459;
 XX
 P0      A      C      G      T
-01     30     20     20     30      w
+01     29     20     20     31      w
 02     12     12     24     52      t
-03     44     52      2      2      m
+03     43     52      2      3      m
 04      0     91      9      0      C
 05      0      0    100      0      G
 06      0      0      0    100      T
 07      0      0      0    100      T
 08    100      0      0      0      A
-09      5     86      4      5      C
+09      5     85      5      5      C
 10     32     23     32     13      r
-11     22     23     32     23      g
+11     23     23     32     22      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB98:M1333_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB98:M1333_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -11988,7 +11988,7 @@ XX
 P0      A      C      G      T
 01     33     18     23     26      w
 02     53     10     13     24      a
-03      8      4     52     36      k
+03      8      3     52     37      k
 04     83      1     15      1      A
 05      3      0      0     97      T
 06     18     20     26     36      k
@@ -11997,7 +11997,7 @@ P0      A      C      G      T
 09     23     28     25     24      c
 10     22     27     21     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtPHR1:M1334_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtPHR1:M1334_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12025,11 +12025,11 @@ P0      A      C      G      T
 03      0      1      0     99      T
 04     57      1      3     39      w
 05      3      0     97      0      G
-06      2      2     77     19      G
+06      2      1     78     19      G
 07      1      0      0     99      T
 08     32      7     54      7      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATMYB4:M1335_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATMYB4:M1335_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12052,7 +12052,7 @@ XX
 BF  11462;
 XX
 P0      A      C      G      T
-01     15     36     15     34      y
+01     16     35     15     34      y
 02     36      8     30     26      d
 03      0      0    100      0      G
 04    100      0      0      0      A
@@ -12060,10 +12060,10 @@ P0      A      C      G      T
 06     91      9      0      0      A
 07    100      0      0      0      A
 08     10      9     71     10      G
-09     10      9     71     10      G
-10     17     28     18     37      y
+09     10     10     71      9      G
+10     17     28     17     38      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G04760:M1336_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G04760:M1336_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12098,7 +12098,7 @@ P0      A      C      G      T
 10     30     20     30     20      r
 11     31     23     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G05090:M1337_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G05090:M1337_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12126,13 +12126,13 @@ P0      A      C      G      T
 03     25      7     44     24      r
 04     30      3     34     33      d
 05      6     64      3     27      y
-06     27     29     29     15      v
+06     27     30     28     15      v
 07      1      0     98      1      G
 08      0      0      9     91      T
 09      4      1      0     95      T
 10     54      8     22     16      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB33:M1338_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB33:M1338_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12163,9 +12163,9 @@ P0      A      C      G      T
 06     54     13     15     18      a
 07     50      8     25     17      r
 08     21     24     37     18      g
-09     25     21     35     19      g
+09     25     21     34     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G08520:M1339_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G08520:M1339_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12199,7 +12199,7 @@ P0      A      C      G      T
 09     20     43     11     26      y
 10     16     27     16     41      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN:M1340_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN:M1340_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12231,9 +12231,9 @@ P0      A      C      G      T
 07     88      0      4      8      A
 08      2     14      5     79      T
 09     28     57      8      7      m
-10     23     20     17     40      t
+10     23     21     16     40      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATMYR1:M1341_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATMYR1:M1341_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12257,9 +12257,9 @@ BF  11467;
 XX
 P0      A      C      G      T
 01     38     16     20     26      w
-02     61      5     11     23      a
+02     61      6     10     23      a
 03      6      1     64     29      k
-04     92      0      7      1      A
+04     91      1      7      1      A
 05      3      0      0     97      T
 06     18     15     25     42      k
 07      0     98      0      2      C
@@ -12267,7 +12267,7 @@ P0      A      C      G      T
 09     24     29     21     26      y
 10     24     26     16     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHL1:M1342_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHL1:M1342_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12292,7 +12292,7 @@ XX
 P0      A      C      G      T
 01     29     21     26     24      r
 02     37     16     24     23      a
-03     28      2     60     10      r
+03     29      1     60     10      r
 04      3      0     25     72      K
 05      5      6      0     89      T
 06     54     21      6     19      a
@@ -12300,7 +12300,7 @@ P0      A      C      G      T
 08      5      1     86      8      G
 09      4     36      2     58      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB24:M1343_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB24:M1343_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12324,17 +12324,17 @@ BF  11469;
 XX
 P0      A      C      G      T
 01     37     19     23     21      a
-02     22     30      6     42      y
-03     18      4     73      5      G
+02     22     30      5     43      y
+03     19      4     73      4      G
 04      1      2     94      3      G
-05     93      0      2      5      A
+05     92      0      3      5      A
 06      1      1      0     98      T
 07     78      6      6     10      A
 08     74      1     17      8      A
 09     14     22     50     14      g
 10     22     15     48     15      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G47390:M1344_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G47390:M1344_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12357,7 +12357,7 @@ XX
 BF  11470;
 XX
 P0      A      C      G      T
-01     32     22     23     23      a
+01     31     23     23     23      a
 02     20     21     20     39      t
 03     27     37     18     18      m
 04     33     19     19     29      w
@@ -12365,13 +12365,13 @@ P0      A      C      G      T
 06      0      9     91      0      G
 07    100      0      0      0      A
 08      0      0      0    100      T
-09     73      2      3     22      A
+09     73      3      2     22      A
 10      5     67      5     23      c
 11     16      7     70      7      G
-12     34     25     26     15      r
-13     22     23     22     33      t
+12     34     24     26     16      r
+13     22     22     23     33      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR18:M1345_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR18:M1345_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12394,16 +12394,16 @@ XX
 BF  11471;
 XX
 P0      A      C      G      T
-01     37     12      7     44      w
+01     37     13      6     44      w
 02     35      0     61      4      r
 03     37     63      0      0      m
 04      0    100      0      0      C
 05      0    100      0      0      C
 06      0      1      0     99      T
 07     98      0      1      1      A
-08     45      8     40      7      r
+08     45      7     40      8      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATTRB2:M1346_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATTRB2:M1346_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12427,17 +12427,17 @@ BF  11488;
 XX
 P0      A      C      G      T
 01     42     11      6     41      w
-02     53      2     37      8      r
+02     53      2     38      7      r
 03     42     56      1      1      m
 04      3     96      0      1      C
 05      4     93      3      0      C
 06      1      0      0     99      T
-07     83      4      8      5      A
+07     83      3      9      5      A
 08     37     13     39     11      r
-09     27     26     23     24      h
+09     27     26     22     25      h
 10     24     26     22     28      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os01g51154:M1361_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os01g51154:M1361_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12469,9 +12469,9 @@ P0      A      C      G      T
 07      0      0     62     38      k
 08      0      0      0    100      T
 09     77      4      4     15      A
-10     29     20     20     31      w
+10     30     20     19     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g09480:M1362_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g09480:M1362_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12498,14 +12498,14 @@ P0      A      C      G      T
 02     46     13     19     22      a
 03      6      6     65     23      g
 04     86      2      7      5      A
-05      7      3      2     88      T
-06     20     21     11     48      t
+05      6      3      3     88      T
+06     21     21     10     48      t
 07      3     89      2      6      C
 08     15     38     21     26      y
-09     22     29     28     21      s
+09     22     30     27     21      s
 10     22     29     23     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g22020:M1363_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g22020:M1363_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12539,7 +12539,7 @@ P0      A      C      G      T
 09     24     26     24     26      y
 10     23     26     19     32      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os03g21240:M1364_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os03g21240:M1364_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12563,16 +12563,16 @@ BF  11492;
 XX
 P0      A      C      G      T
 01     28     22     25     25      w
-02     56     11     20     13      a
+02     56     11     19     14      a
 03      3      0     96      1      G
 04     99      0      1      0      A
 05      1      0      0     99      T
 06     72      8      1     19      A
-07      7     23      9     61      t
-08     14     12     16     58      t
-09     22     21     12     45      t
+07      7     23      8     62      t
+08     13     13     16     58      t
+09     22     20     12     46      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os08g06110:M1365_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os08g06110:M1365_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12595,18 +12595,18 @@ XX
 BF  11503;
 XX
 P0      A      C      G      T
-01     35     19     24     22      a
-02     18     29     32     21      s
-03     28     38     20     14      m
-04     35     12     47      6      r
+01     34     19     24     23      a
+02     18     29     33     20      s
+03     29     38     20     13      m
+04     34     13     47      6      r
 05     42      4     25     29      w
-06    100      0      0      0      A
+06     99      0      0      1      A
 07      1      0      0     99      T
 08      7     89      0      4      C
-09     18     19     14     49      t
+09     18     18     14     50      t
 10     26     23     20     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.362.4.1:M1384_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.362.4.1:M1384_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12629,17 +12629,17 @@ XX
 BF  11507;
 XX
 P0      A      C      G      T
-01     20     31     20     29      y
+01     20     30     21     29      y
 02     22     14     55      9      g
-03      1      3     93      3      G
+03      1      2     94      3      G
 04     76      7     17      0      A
 05      0      4      3     93      T
 06     43     15     23     19      a
-07     44      9     30     17      r
+07     43     10     30     17      r
 08     19     25     37     19      s
 09     21     20     42     17      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.scaffold_70000111:M1388_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.scaffold_70000111:M1388_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12665,15 +12665,15 @@ P0      A      C      G      T
 01     39     10     20     31      w
 02     41      6      5     48      w
 03     78      0     15      7      A
-04     27     70      0      3      M
+04     27     69      1      3      M
 05      5     87      3      5      C
 06      8     85      4      3      C
-07      1      5      2     92      T
+07      2      5      1     92      T
 08     59     11     16     14      a
 09     34     18     27     21      r
 10     28     24     19     29      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0100010593:M1389_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0100010593:M1389_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12696,21 +12696,21 @@ XX
 BF  11509;
 XX
 P0      A      C      G      T
-01     33     23     22     22      a
-02     19     20     20     41      t
+01     34     22     22     22      a
+02     20     19     20     41      t
 03     17     39     27     17      s
-04     19     51     10     20      c
+04     19     50     10     21      c
 05     12      2     84      2      G
 06      0      0    100      0      G
 07    100      0      0      0      A
 08      0      0      0    100      T
 09     81     13      3      3      A
-10     66      5     15     14      a
+10     65      5     15     15      a
 11      8     39     17     36      y
 12     15     25     26     34      k
-13     23     22     23     32      t
+13     23     23     22     32      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0600010132:M1390_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0600010132:M1390_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12740,11 +12740,11 @@ P0      A      C      G      T
 05      2     98      0      0      C
 06      0      5      0     95      T
 07     90      1      6      3      A
-08     28     17     42     13      r
+08     29     16     42     13      r
 09     24     24     18     34      t
 10     23     26     18     33      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=1200010153:M1391_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=1200010153:M1391_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12771,16 +12771,16 @@ P0      A      C      G      T
 02     21     21     29     29      k
 03     24     26     26     24      s
 04     10     10     62     18      g
-05      0      1     91      8      G
+05      1      0     91      8      G
 06     74     17      9      0      A
 07    100      0      0      0      A
 08      0      0      0    100      T
 09     94      2      2      2      A
-10      4      4      5     87      T
-11      9     19     18     54      t
+10      4      5      4     87      T
+11      9     20     18     53      t
 12     15     55     15     15      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=1200010282:M1392_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=1200010282:M1392_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12805,15 +12805,15 @@ XX
 P0      A      C      G      T
 01     30     22     17     31      w
 02     44      7     12     37      w
-03     56      3     25     16      r
+03     56      2     26     16      r
 04     47     51      0      2      m
 05      3     97      0      0      C
 06      8     88      4      0      C
-07      1     28      3     68      Y
+07      1     29      3     67      Y
 08     51     18     14     17      a
-09     27     22     33     18      r
+09     28     21     33     18      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_Chr_03.00010061:M1394_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_Chr_03.00010061:M1394_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12841,13 +12841,13 @@ P0      A      C      G      T
 03      5      3     89      3      G
 04     83      5      9      3      A
 05      3      2      2     93      T
-06     59     11     13     17      a
-07     56      6     24     14      a
-08     18     25     41     16      g
+06     59     12     12     17      a
+07     56      5     24     15      a
+08     18     24     41     17      g
 09     26     19     37     18      r
-10     24     26     19     31      y
+10     23     26     20     31      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_Chr_03.00010215:M1395_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_Chr_03.00010215:M1395_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12870,17 +12870,17 @@ XX
 BF  11515;
 XX
 P0      A      C      G      T
-01     35     20     15     30      w
+01     35     20     14     31      w
 02     48      2     39     11      r
 03     45     52      1      2      m
 04      1     98      0      1      C
 05      1     98      1      0      C
 06      0      6      0     94      T
-07     73      7      7     13      A
+07     73      7      6     14      A
 08     36     17     31     16      r
 09     26     25     21     28      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_Chr_13.00010057:M1396_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_Chr_13.00010057:M1396_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12912,7 +12912,7 @@ P0      A      C      G      T
 07     13     66     10     11      c
 08     24     23     21     32      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=estExt_fgenesh1_pg.C_Chr_16.00010090:M1397_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=estExt_fgenesh1_pg.C_Chr_16.00010090:M1397_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12936,7 +12936,7 @@ BF  11519;
 XX
 P0      A      C      G      T
 01      0     42      0     58      y
-02     96      1      3      0      A
+02     96      0      3      1      A
 03      0    100      0      0      C
 04      0      0    100      0      G
 05      0     28      7     65      y
@@ -12944,7 +12944,7 @@ P0      A      C      G      T
 07     93      0      0      7      A
 08      5     60      5     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=anac025:M1400_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=anac025:M1400_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -12968,7 +12968,7 @@ BF  11520;
 XX
 P0      A      C      G      T
 01     26     26     20     28      h
-02     37     13     45      5      r
+02     37     12     45      6      r
 03      0      0     91      9      G
 04      3      0      0     97      T
 05      2     98      0      0      C
@@ -12977,7 +12977,7 @@ P0      A      C      G      T
 08     25     27     27     21      s
 09     25     25     29     21      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAP:M1401_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAP:M1401_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13000,18 +13000,18 @@ XX
 BF  11521;
 XX
 P0      A      C      G      T
-01     44     19     19     18      a
+01     44     19     18     19      a
 02      5      5      4     86      T
-03     45      0      8     47      w
+03     44      1      8     47      w
 04     72      0     28      0      R
 05      8     92      0      0      C
 06      0      0    100      0      G
 07      0     25      0     75      T
 08    100      0      0      0      A
-09     81      7      6      6      A
-10     31     21     20     28      w
+09     81      6      6      7      A
+10     32     20     20     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NST1:M1402_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=NST1:M1402_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13038,13 +13038,13 @@ P0      A      C      G      T
 02      1      0      0     99      T
 03    100      0      0      0      A
 04     99      0      0      1      A
-05      1      0     99      0      G
+05      0      1     99      0      G
 06      1      0      0     99      T
-07     99      1      0      0      A
-08     99      1      0      0      A
+07     99      0      0      1      A
+08     99      0      1      0      A
 09      1      1      1     97      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL9:M1403_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL9:M1403_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13080,7 +13080,7 @@ P0      A      C      G      T
 11     27     30     26     17      v
 12     31     23     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC2:M1404_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC2:M1404_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13103,16 +13103,16 @@ XX
 BF  11524;
 XX
 P0      A      C      G      T
-01     66      1     22     11      a
+01     67      0     22     11      a
 02      0     69      0     31      Y
 03    100      0      0      0      A
 04      0    100      0      0      C
 05      0      0    100      0      G
 06      0     86      0     14      C
-07     79      7      0     14      A
+07     78      8      0     14      A
 08    100      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC079:M1405_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC079:M1405_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13136,17 +13136,17 @@ BF  11525;
 XX
 P0      A      C      G      T
 01     43     13     12     32      w
-02      3     33      3     61      y
+02      2     33      3     62      y
 03    100      0      0      0      A
 04      0    100      0      0      C
 05      0      0    100      0      G
 06      0     60      0     40      y
 07    100      0      0      0      A
 08    100      0      0      0      A
-09     12     52     13     23      c
+09     13     51     13     23      c
 10     23     32     22     23      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC083:M1406_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC083:M1406_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13169,17 +13169,17 @@ XX
 BF  11526;
 XX
 P0      A      C      G      T
-01     42     12     24     22      a
-02      7     53     11     29      y
+01     42     11     24     23      a
+02      6     54     11     29      y
 03     92      2      1      5      A
 04     18     74      2      6      C
 05     10      3     72     15      G
 06     13     46     14     27      y
-07     41     25      8     26      w
+07     41     24      8     27      w
 08     74      3      5     18      A
 09     20     33     20     27      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATNAC6:M1407_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATNAC6:M1407_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -13199,18 +13199,18 @@ XX
 BF  11527;
 XX
 P0      A      C      G      T
-01     36     15     27     22      r
+01     37     15     26     22      r
 02     10     43     16     31      y
 03     86      4      4      6      A
 04     26     66      4      4      m
 05     12      5     65     18      g
 06     16     40     17     27      y
 07     36     25     11     28      w
-08     65      4      9     22      a
-09     24     30     19     27      y
+08     66      3      9     22      a
+09     24     30     18     28      y
 10     22     34     20     24      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC100:M1408_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC100:M1408_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13235,16 +13235,16 @@ XX
 P0      A      C      G      T
 01     39     14     26     21      r
 02     10     45     15     30      y
-03     90      2      3      5      A
+03     89      3      3      5      A
 04     26     67      2      5      m
-05     13      7     63     17      g
-06     16     40     17     27      y
+05     12      7     63     18      g
+06     16     40     18     26      y
 07     37     25     10     28      h
 08     68      3      7     22      A
 09     24     31     18     27      y
-10     23     35     20     22      c
+10     22     35     21     22      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002871237.1:M1409_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002871237.1:M1409_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13278,7 +13278,7 @@ P0      A      C      G      T
 09     20     34     19     27      y
 10     20     43     18     19      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002866389.1:M1410_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002866389.1:M1410_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13304,15 +13304,15 @@ P0      A      C      G      T
 01     22     24     25     29      k
 02     25     23     21     31      w
 03     25     24     23     28      t
-04     18     28     21     33      y
+04     18     29     20     33      y
 05     59     16     11     14      a
-06     32     49      8     11      m
+06     31     49      8     12      m
 07     17      9     54     20      g
 08     18     39     18     25      y
 09     35     22     15     28      w
 10     54     10     14     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os06g04090:M1411_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os06g04090:M1411_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13335,10 +13335,10 @@ XX
 BF  11531;
 XX
 P0      A      C      G      T
-01     41     12     25     22      a
+01     42     12     25     21      a
 02      8     50      9     33      y
 03     85      3      4      8      A
-04     16     75      2      7      C
+04     16     75      1      8      C
 05     11      5     67     17      g
 06     13     49     13     25      y
 07     36     27      8     29      h
@@ -13346,7 +13346,7 @@ P0      A      C      G      T
 09     21     34     17     28      y
 10     22     39     18     21      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.159.34.1:M1412_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.159.34.1:M1412_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13371,17 +13371,17 @@ XX
 P0      A      C      G      T
 01     57     11     21     11      a
 02     16     62      7     15      c
-03     85      2     11      2      A
+03     84      2     12      2      A
 04     27     64      0      9      m
 05     17      0     64     19      g
-06     19     72      0      9      C
+06     18     73      0      9      C
 07     81      0      0     19      A
 08    100      0      0      0      A
-09     23     33     14     30      y
+09     23     32     14     31      y
 10     18     18     18     46      t
-11     31     23     23     23      a
+11     32     23     22     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.279.28.1:M1413_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.279.28.1:M1413_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13407,15 +13407,15 @@ P0      A      C      G      T
 01     21     24     24     31      t
 02     26     27     17     30      h
 03     38     14     24     24      a
-04     12     42     13     33      y
-05     81      7      4      8      A
+04     12     41     13     34      y
+05     82      6      4      8      A
 06     21     69      3      7      C
 07     12      6     64     18      g
 08     16     41     17     26      y
-09     38     25      9     28      w
+09     38     24     10     28      w
 10     67      4      9     20      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.288.15.1:M1414_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.288.15.1:M1414_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13438,18 +13438,18 @@ XX
 BF  11534;
 XX
 P0      A      C      G      T
-01     31     23     23     23      a
+01     32     23     22     23      a
 02     55      5      5     35      w
 03     29     14      0     57      w
 04    100      0      0      0      A
 05     10     62      0     28      y
-06     28      0     63      9      r
+06     27      0     64      9      r
 07     19     53      0     28      y
 08     82      0      0     18      A
-09     92      2      3      3      A
+09     92      3      3      2      A
 10     21     20     20     39      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=e_gw1.327.11.1:M1415_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=e_gw1.327.11.1:M1415_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13474,16 +13474,16 @@ XX
 P0      A      C      G      T
 01     21     25     15     39      t
 02     21     18     25     36      k
-03     14     27     13     46      y
+03     13     27     13     47      y
 04     74     10      5     11      A
 05     29     60      6      5      m
 06     11      6     65     18      g
-07     15     50      8     27      y
+07     16     50      8     26      y
 08     39     19     13     29      w
 09     66      2     10     22      a
 10     17     38     16     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MDP0000762302:M1416_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MDP0000762302:M1416_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13506,17 +13506,17 @@ XX
 BF  11678;
 XX
 P0      A      C      G      T
-01     25     24     23     28      t
-02     22     24     20     34      t
+01     25     25     22     28      t
+02     22     24     21     33      t
 03     11      3     82      4      G
 04      1      4      1     94      T
 05     97      2      0      1      A
-06      0     99      0      1      C
+06      0     98      0      2      C
 07      7      6     79      8      G
 08     20      4     62     14      g
 09     33     28     13     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK06791.1:M1559_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK06791.1:M1559_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13540,17 +13540,17 @@ BF  11679;
 XX
 P0      A      C      G      T
 01     24     20     28     28      k
-02     23     23     22     32      t
-03     11      3     81      5      G
-04      0      3      1     96      T
+02     24     23     21     32      t
+03     11      3     82      4      G
+04      1      2      1     96      T
 05     96      2      1      1      A
 06      1     97      0      2      C
 07      4      3     89      4      G
-08     15      2     75      8      G
+08     15      3     74      8      G
 09     31     28     14     27      h
 10     26     32     17     25      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK22320.1:M1560_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK22320.1:M1560_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13573,17 +13573,17 @@ XX
 BF  3015;
 XX
 P0      A      C      G      T
-01     25     24     30     21      g
+01     24     25     30     21      g
 02     25     18     31     26      k
 03     25     20     30     25      d
 04     18     11     62      9      g
 05      3     12     11     74      T
-06     83     10      7      0      A
+06     82     10      8      0      A
 07      1     97      0      2      C
 08     17     14     55     14      g
 09     21     14     48     17      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL14:M1561_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL14:M1561_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13619,7 +13619,7 @@ P0      A      C      G      T
 11     57      8      8     27      w
 12     19     27     19     35      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL11:M1562_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL11:M1562_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13646,13 +13646,13 @@ P0      A      C      G      T
 02     21      5     64     10      g
 03      4      8      3     85      T
 04     93      5      2      0      A
-05      5     89      0      6      C
-06     19     11     56     14      g
-07     26     11     41     22      r
-08     25     25     21     29      h
-09     27     26     19     28      h
+05      4     89      1      6      C
+06     20     11     55     14      g
+07     26     10     41     23      r
+08     25     26     20     29      h
+09     26     26     20     28      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL4:M1563_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL4:M1563_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13686,7 +13686,7 @@ P0      A      C      G      T
 09     31     17     32     20      r
 10     25     26     22     27      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G76580:M1564_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G76580:M1564_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13709,17 +13709,17 @@ XX
 BF  11682;
 XX
 P0      A      C      G      T
-01     18     17     29     36      k
+01     18     17     30     35      k
 02     23     20     23     34      t
 03     14      5     74      7      G
 04      2      4      1     93      T
-05     93      7      0      0      A
+05     93      6      1      0      A
 06      1     97      0      2      C
 07      8      6     78      8      G
-08     18      6     58     18      g
+08     17      6     58     19      g
 09     25     30     15     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL5:M1565_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL5:M1565_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13746,12 +13746,12 @@ P0      A      C      G      T
 02     14      5     76      5      G
 03      1      4      1     94      T
 04     95      5      0      0      A
-05      0    100      0      0      C
+05      0     99      1      0      C
 06      8      8     74     10      G
 07     25      5     54     16      g
 08     28     26     15     31      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL12:M1566_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL12:M1566_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13776,15 +13776,15 @@ XX
 P0      A      C      G      T
 01     25     11     24     40      w
 02     11      3     81      5      G
-03      0      1      1     98      T
+03      1      1      0     98      T
 04     99      1      0      0      A
 05      0    100      0      0      C
-06      6      4     63     27      k
-07     51      8     21     20      a
-08     16     42     13     29      y
+06      7      3     63     27      k
+07     51      8     20     21      a
+08     15     43     13     29      y
 09     32     32     16     20      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL7:M1567_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL7:M1567_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13813,9 +13813,9 @@ P0      A      C      G      T
 04     95      4      1      0      A
 05     15     71      3     11      C
 06      4      8     86      2      G
-07     19      5     69      7      G
+07     19      5     70      6      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B9GPL8_POPTR:M1568_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=B9GPL8_POPTR:M1568_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13849,7 +13849,7 @@ P0      A      C      G      T
 09     27     20     29     24      r
 10     26     26     22     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.scaffold_194000034:M1570_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.scaffold_194000034:M1570_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13876,13 +13876,13 @@ P0      A      C      G      T
 02     29     24     30     17      v
 03     16     15     55     14      g
 04      6     14     29     51      k
-05     66     11     18      5      a
-06      5     71      8     16      C
+05     66     10     19      5      a
+06      4     72      8     16      C
 07     28     18     42     12      r
 08     28     18     35     19      r
 09     21     27     26     26      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.scaffold_252000020:M1571_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.scaffold_252000020:M1571_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13906,17 +13906,17 @@ BF  11689;
 XX
 P0      A      C      G      T
 01     24     27     29     20      s
-02     22     29     30     19      s
+02     22     28     30     20      s
 03     23     25     30     22      s
 04     20     25     34     21      s
 05     11     10     72      7      G
 06      2     12      7     79      T
-07     82     14      3      1      A
+07     82     14      4      0      A
 08      0    100      0      0      C
 09     14     11     66      9      g
 10     23      9     53     15      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ppa000682m:M1572_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ppa000682m:M1572_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13945,12 +13945,12 @@ P0      A      C      G      T
 04      3     32     13     52      y
 05     51      3     46      0      r
 06     41     14     14     31      w
-07     23     22     13     42      t
+07     24     21     13     42      t
 08     35     13     15     37      w
 09     43     12     23     22      a
 10     29     25     21     25      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=INO:M1575_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=INO:M1575_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -13973,15 +13973,15 @@ XX
 BF  8904;
 XX
 P0      A      C      G      T
-01     24     20     24     32      t
-02     32     20     21     27      w
+01     24     21     23     32      t
+02     32     20     20     28      w
 03     35     23     18     24      a
 04     28     17     17     38      w
 05     18     41      7     34      y
 06     48      8     44      0      r
-07     25     17     26     32      d
+07     26     17     26     31      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=YAB5:M1576_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=YAB5:M1576_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14010,12 +14010,12 @@ P0      A      C      G      T
 04     21     43      8     28      y
 05     10     71      5     14      C
 06     14      5     71     10      G
-07     28      7     44     21      r
+07     27      8     44     21      r
 08     28     31     10     31      h
 09     30     19     28     23      r
 10     32     22     20     26      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASIL1:M1618_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASIL1:M1618_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14043,13 +14043,13 @@ P0      A      C      G      T
 03     22     20     36     22      g
 04     15     47     17     21      c
 05     15     55     19     11      c
-06     11     19     55     15      g
+06     12     19     55     14      g
 07     21     17     47     15      g
 08     22     36     20     22      c
 09     27     38     18     17      m
 10     27     27     24     22      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G00238:M1619_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G00238:M1619_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14081,7 +14081,7 @@ P0      A      C      G      T
 07      0      0     97      3      G
 08     21     61      4     14      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G00270:M1620_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G00270:M1620_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14114,7 +14114,7 @@ P0      A      C      G      T
 08     24     32     23     21      c
 09     29     23     29     19      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os03g25430:M1621_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os03g25430:M1621_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14137,18 +14137,18 @@ XX
 BF  11747;
 XX
 P0      A      C      G      T
-01     10     14     60     16      g
+01      9     14     60     17      g
 02      5     11     16     68      t
 03      0      0     91      9      G
-04      9      0     83      8      G
+04      9      0     84      7      G
 05      8     11     69     12      G
 06     12     69     11      8      C
-07      7     84      0      9      C
+07      8     84      0      8      C
 08      9     91      0      0      C
 09     68     16     11      5      a
-10     16     60     15      9      c
+10     16     61     14      9      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PK14653.1:M1643_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=PK14653.1:M1643_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14175,14 +14175,14 @@ P0      A      C      G      T
 02      9     17     52     22      g
 03      3     11     70     16      G
 04      0      6     30     64      k
-05      5     29     46     20      s
+05      6     29     45     20      s
 06     11     65      8     16      c
 07     17     46     14     23      c
-08     23     30     18     29      y
-09     19     34     25     22      s
+08     23     31     18     28      y
+09     18     35     25     22      s
 10     16     36     19     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP24:M1644_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP24:M1644_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14211,12 +14211,12 @@ P0      A      C      G      T
 04      3     12     80      5      G
 05     62     24      3     11      a
 06      2     96      2      0      C
-07      2     97      1      0      C
+07      2     97      0      1      C
 08     80      7     11      2      A
 09      8     67     11     14      c
 10     28     30     16     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP3:M1645_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP3:M1645_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14248,7 +14248,7 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MEE35:M1646_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MEE35:M1646_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14272,17 +14272,17 @@ BF  3891;
 XX
 P0      A      C      G      T
 01      5      3     80     12      G
-02     12      2     79      7      G
+02     11      3     79      7      G
 03      9     36     42     13      s
-04      6     87      0      7      C
+04      5     88      0      7      C
 05      0    100      0      0      C
 06      1     96      0      3      C
 07     82      6      8      4      A
 08      2     82      8      8      C
-09     30     34     16     20      m
+09     30     33     16     21      m
 10     29     23     24     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20:M1647_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20:M1647_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14305,7 +14305,7 @@ XX
 BF  11751;
 XX
 P0      A      C      G      T
-01     22     17     43     18      g
+01     22     17     42     19      g
 02     10     19     15     56      t
 03      4      0     84     12      G
 04      0      0     98      2      G
@@ -14313,10 +14313,10 @@ P0      A      C      G      T
 06     33     52      8      7      m
 07      2     98      0      0      C
 08     12     84      0      4      C
-09     56     16     19      9      a
-10     19     42     17     22      c
+09     56     15     20      9      a
+10     19     43     17     21      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP2:M1648_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP2:M1648_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14350,7 +14350,7 @@ P0      A      C      G      T
 09     84      3     13      0      A
 10      0     81     11      8      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G51910:M1649_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G51910:M1649_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14373,7 +14373,7 @@ XX
 BF  11753;
 XX
 P0      A      C      G      T
-01      0      0    100      0      G
+01      1      0     99      0      G
 02      0      0    100      0      G
 03      0      0    100      0      G
 04    100      0      0      0      A
@@ -14382,7 +14382,7 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08      1     74      0     25      Y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP5:M1650_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP5:M1650_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14407,16 +14407,16 @@ XX
 P0      A      C      G      T
 01     33     20     30     17      r
 02     11     24     22     43      t
-03     15      4     55     26      k
+03     15      3     56     26      k
 04      6     12     55     27      k
-05     16     26     32     26      b
+05     15     26     33     26      b
 06     27     32     26     15      v
 07     27     55     12      6      m
-08     25     56      4     15      m
+08     26     55      4     15      m
 09     43     22     24     11      a
 10     17     30     20     33      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002893560.1:M1651_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002893560.1:M1651_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14443,13 +14443,13 @@ P0      A      C      G      T
 01      0      1     99      0      G
 02     25      0     75      0      R
 03      0     50     50      0      s
-04      0    100      0      0      C
+04      1     99      0      0      C
 05      0     99      0      1      C
 06      0     99      0      1      C
-07     99      1      0      0      A
+07     99      0      0      1      A
 08      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002876964.1:M1652_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002876964.1:M1652_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14472,16 +14472,16 @@ XX
 BF  11756;
 XX
 P0      A      C      G      T
-01      0      0    100      0      G
-02      0      0    100      0      G
-03      0     33     66      1      s
-04     33     67      0      0      m
-05      0    100      0      0      C
-06      0     99      0      1      C
-07    100      0      0      0      A
-08      0     99      0      1      C
+01      0      1     99      0      G
+02      0      0     99      1      G
+03      1     33     66      0      s
+04     33     66      1      0      m
+05      0     99      1      0      C
+06      0    100      0      0      C
+07     99      1      0      0      A
+08      0     99      1      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002867953.1:M1653_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002867953.1:M1653_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14504,16 +14504,16 @@ XX
 BF  11758;
 XX
 P0      A      C      G      T
-01      0      0     99      1      G
-02      1      0     99      0      G
+01      0      1     99      0      G
+02      0      0     99      1      G
 03      0      1     99      0      G
-04    100      0      0      0      A
-05      0     99      1      0      C
-06      0    100      0      0      C
-07     99      0      1      0      A
-08      1     99      0      0      C
+04     99      0      0      1      A
+05      0     99      0      1      C
+06      1     99      0      0      C
+07     99      1      0      0      A
+08      0     99      0      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=XM_002866361.1:M1655_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=XM_002866361.1:M1655_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14542,12 +14542,12 @@ P0      A      C      G      T
 04      5      1     92      2      G
 05     14     14     55     17      g
 06      7     82      3      8      C
-07      1     97      1      1      C
+07      1     98      1      0      C
 08      0     97      0      3      C
 09     89      2      7      2      A
 10      0     88      6      6      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GSVIVG00027588001:M1656_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GSVIVG00027588001:M1656_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14581,7 +14581,7 @@ P0      A      C      G      T
 09     45     33     15      7      m
 10     28     41     13     18      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOC_Os02g42380:M1657_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOC_Os02g42380:M1657_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14613,7 +14613,7 @@ P0      A      C      G      T
 07     90      5      5      0      A
 08      0     86      7      7      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OsI_08196:M1658_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=OsI_08196:M1658_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14639,15 +14639,15 @@ P0      A      C      G      T
 01      9     28     17     46      y
 02      3      8     49     40      k
 03      4      0     88      8      G
-04      1      1     96      2      G
+04      2      1     96      1      G
 05      4     12     83      1      G
 06     76     21      1      2      A
 07      0     95      5      0      C
 08      0    100      0      0      C
 09     86      1     13      0      A
-10      2     90      1      7      C
+10      2     91      0      7      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=scaffold_301743.1:M1659_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=scaffold_301743.1:M1659_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14673,15 +14673,15 @@ P0      A      C      G      T
 01      8     14     59     19      g
 02      2      1     90      7      G
 03     10      2     83      5      G
-04     15     30     42     13      s
+04     15     30     43     12      s
 05      4     88      1      7      C
-06      0     96      2      2      C
+06      0     96      1      3      C
 07      0     98      0      2      C
 08     89      2      8      1      A
-09      1     91      4      4      C
+09      0     91      4      5      C
 10     27     40     11     22      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=cassava45561.m1:M1660_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=cassava45561.m1:M1660_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14714,7 +14714,7 @@ P0      A      C      G      T
 08     90      2      8      0      A
 09      2     84      5      9      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Glyma19g26560.1:M1661_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Glyma19g26560.1:M1661_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14739,14 +14739,14 @@ XX
 P0      A      C      G      T
 01      0      0    100      0      G
 02      0      0    100      0      G
-03     14     15     57     14      g
+03     14     14     58     14      g
 04      0    100      0      0      C
 05      0    100      0      0      C
 06      0    100      0      0      C
 07    100      0      0      0      A
-08      0     99      0      1      C
+08      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LjSGA_053525.1:M1662_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LjSGA_053525.1:M1662_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14778,7 +14778,7 @@ P0      A      C      G      T
 07     88      4      8      0      A
 08      6     59      6     29      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LjT20A21.20.nc:M1663_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=LjT20A21.20.nc:M1663_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14801,16 +14801,16 @@ XX
 BF  11810;
 XX
 P0      A      C      G      T
-01     25     28     16     31      h
+01     26     27     16     31      h
 02     15     52     19     14      c
 03     22     20      0     58      t
 04     21      1     68     10      G
 05     38     26     16     20      m
 06     34     31     17     18      m
-07     35     22     24     19      a
-08     28     24     24     24      a
+07     34     22     25     19      a
+08     28     25     23     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtGRF6:M1677_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtGRF6:M1677_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14839,12 +14839,12 @@ P0      A      C      G      T
 04      2      0      0     98      T
 05      5     93      1      1      C
 06     88      6      2      4      A
-07     85      2     10      3      A
+07     84      2     11      3      A
 08     22     58      6     14      c
 09     16     19     46     19      g
-10     24     28     27     21      s
+10     23     28     28     21      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY14:M1678_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY14:M1678_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -14873,7 +14873,7 @@ P0      A      C      G      T
 07     98      0      0      2      A
 08     13     51     23     13      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY63:M1679_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY63:M1679_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14899,15 +14899,15 @@ P0      A      C      G      T
 01     40     18     20     22      a
 02     41     17     16     26      w
 03     50      8     31     11      r
-04      4      2     87      7      G
+04      4      1     87      8      G
 05      3      0      0     97      T
 06      5     91      1      3      C
 07     88      5      2      5      A
 08     82      1     11      6      A
-09     25     51      9     15      m
-10     20     21     38     21      g
+09     26     51      9     14      m
+10     20     20     39     21      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY57:M1680_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY57:M1680_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14931,7 +14931,7 @@ BF  11814;
 XX
 P0      A      C      G      T
 01     25     27     20     28      y
-02     37     13     44      6      r
+02     38     13     43      6      r
 03      0      0     91      9      G
 04      3      0      0     97      T
 05      2     98      0      0      C
@@ -14939,7 +14939,7 @@ P0      A      C      G      T
 07     59     11     12     18      a
 08     25     27     27     21      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY40:M1681_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY40:M1681_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14965,15 +14965,15 @@ P0      A      C      G      T
 01     31     19     25     25      a
 02     37     10     46      7      r
 03      0      1     95      4      G
-04      1      0      1     98      T
+04      2      0      0     98      T
 05      4     96      0      0      C
 06     81     10      3      6      A
 07     75      4     15      6      A
-08     26     52      9     13      m
-09     19     24     39     18      g
+08     25     52     10     13      m
+09     18     24     40     18      g
 10     21     29     28     22      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY15:M1682_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY15:M1682_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -14996,18 +14996,18 @@ XX
 BF  11816;
 XX
 P0      A      C      G      T
-01     33     22     20     25      a
-02     41     15     20     24      a
+01     34     22     19     25      a
+02     41     14     20     25      a
 03     41     12     33     14      r
 04      6      3     80     11      G
-05      6      0      0     94      T
+05      7      0      0     93      T
 06      8     86      1      5      C
 07     76      9      3     12      A
 08     73      2     19      6      A
 09     25     50      6     19      c
 10     21     18     39     22      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATWRKY17:M1683_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATWRKY17:M1683_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15031,18 +15031,18 @@ BF  11817;
 XX
 P0      A      C      G      T
 01     27     28     27     18      v
-02     10     41     11     38      y
+02     11     41     10     38      y
 03     14      2     82      2      G
 04      0      0    100      0      G
 05      0      0      0    100      T
 06      0    100      0      0      C
 07    100      0      0      0      A
 08    100      0      0      0      A
-09     26     61      6      7      m
-10     14     25     46     15      g
+09     26     61      7      6      m
+10     14     25     47     14      g
 11     23     23     23     31      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY60:M1684_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY60:M1684_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15074,7 +15074,7 @@ P0      A      C      G      T
 07     90      0      6      4      A
 08     18     63      8     11      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY25:M1685_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY25:M1685_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15098,17 +15098,17 @@ BF  11819;
 XX
 P0      A      C      G      T
 01     28     22     25     25      a
-02     32     20     22     26      w
+02     32     19     22     27      w
 03     40      9     41     10      r
 04      5      0     91      4      G
-05      9      0      0     91      T
+05      9      0      1     90      T
 06      0    100      0      0      C
 07     87      7      2      4      A
 08     78      1     16      5      A
-09     21     61      7     11      c
+09     21     60      7     12      c
 10     16     21     43     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY21:M1686_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY21:M1686_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15134,15 +15134,15 @@ P0      A      C      G      T
 01     27     24     23     26      w
 02     23     27     20     30      y
 03     37     13     41      9      r
-04      3      1     79     17      G
-05      2      0      0     98      T
+04      4      0     79     17      G
+05      1      0      0     99      T
 06     10     89      0      1      C
 07     61     16      8     15      a
 08     53      8     21     18      a
 09     31     36     15     18      m
 10     24     23     31     22      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY33:M1687_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY33:M1687_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15168,15 +15168,15 @@ P0      A      C      G      T
 01     37     21     17     25      a
 02     51      9     34      6      r
 03      5      2     88      5      G
-04      7      2      0     91      T
+04      8      1      0     91      T
 05      9     89      1      1      C
 06     80      6      6      8      A
 07     77      3     13      7      A
-08     25     46     11     18      m
+08     26     46     11     17      m
 09     33     20     31     16      r
 10     23     31     22     24      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY43:M1688_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY43:M1688_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15206,9 +15206,9 @@ P0      A      C      G      T
 05    100      0      0      0      A
 06    100      0      0      0      A
 07     17     83      0      0      C
-08     14     14     72      0      G
+08     15     14     71      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY23:M1689_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY23:M1689_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15237,12 +15237,12 @@ P0      A      C      G      T
 04     13      8     61     18      g
 05     16      4      2     78      T
 06     21     62      9      8      c
-07     60     14      8     18      a
+07     59     15      8     18      a
 08     55      6     22     17      a
 09     28     38     13     21      m
 10     23     22     30     25      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY22:M1690_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY22:M1690_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15273,11 +15273,11 @@ P0      A      C      G      T
 06     25     75      0      0      C
 07    100      0      0      0      A
 08     92      0      0      8      A
-09      4     80      4     12      C
-10     10     11     60     19      g
+09      5     79      4     12      C
+10     11     11     60     18      g
 11     28     30     21     21      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY47:M1691_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY47:M1691_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -15308,7 +15308,7 @@ P0      A      C      G      T
 09     28     40     13     19      m
 10     23     23     31     23      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY29:M1692_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY29:M1692_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15334,15 +15334,15 @@ P0      A      C      G      T
 01     36     15     22     27      w
 02     41     11     32     16      r
 03      8      4     78     10      G
-04      9      0      1     90      T
-05     12     82      2      4      C
-06     83      6      6      5      A
+04     10      0      0     90      T
+05     13     81      2      4      C
+06     83      5      7      5      A
 07     78      0     17      5      A
 08     21     54      8     17      c
 09     18     16     44     22      g
 10     25     21     27     27      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY11:M1693_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY11:M1693_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15365,7 +15365,7 @@ XX
 BF  11826;
 XX
 P0      A      C      G      T
-01     29     27     20     24      m
+01     29     26     21     24      m
 02     26     28     15     31      h
 03     39      2     58      1      r
 04      0      0     99      1      G
@@ -15376,7 +15376,7 @@ P0      A      C      G      T
 09     19     37     29     15      s
 10     21     25     40     14      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18:M1694_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18:M1694_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15408,7 +15408,7 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08     27     73      0      0      M
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY62:M1695_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY62:M1695_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15440,7 +15440,7 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08     26     62      0     12      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY75:M1696_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY75:M1696_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15469,12 +15469,12 @@ P0      A      C      G      T
 04      2     98      0      0      C
 05     90      6      1      3      A
 06     86      2      8      4      A
-07      6     78      4     12      C
+07      6     78      5     11      C
 08     13     23     48     16      g
 09     20     33     27     20      s
-10     21     23     25     31      k
+10     21     22     26     31      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY30:M1697_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY30:M1697_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15503,11 +15503,11 @@ P0      A      C      G      T
 04      1      0      0     99      T
 05      4     95      0      1      C
 06     80      9      3      8      A
-07     72      3     16      9      A
+07     72      3     17      8      A
 08     25     47     12     16      m
 09     22     22     37     19      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY8:M1698_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY8:M1698_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15530,18 +15530,18 @@ XX
 BF  11831;
 XX
 P0      A      C      G      T
-01     26     23     27     24      r
-02     26     24     25     25      d
+01     26     24     26     24      r
+02     27     23     25     25      d
 03     33     15     41     11      r
 04      2      0     87     11      G
 05      2      0      0     98      T
 06      6     93      0      1      C
 07     66     14      7     13      a
-08     53      8     23     16      a
-09     27     39     15     19      m
-10     23     23     31     23      g
+08     54      8     22     16      a
+09     27     38     16     19      m
+10     24     23     31     22      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY48:M1699_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY48:M1699_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15567,14 +15567,14 @@ P0      A      C      G      T
 01     27     22     25     26      d
 02     29     18     38     15      r
 03      4      0     85     11      G
-04      6      1      0     93      T
-05     14     76      5      5      C
+04      6      0      1     93      T
+05     14     77      4      5      C
 06     58     16     12     14      a
 07     51      9     23     17      a
 08     26     40     16     18      m
 09     23     24     32     21      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY27:M1700_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY27:M1700_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15606,7 +15606,7 @@ P0      A      C      G      T
 07     81      0     16      3      A
 08     27     53      7     13      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATWRKY2:M1701_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATWRKY2:M1701_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15637,10 +15637,10 @@ P0      A      C      G      T
 06     12     82      3      3      C
 07     71     14      5     10      A
 08     70      7      9     14      A
-09     30     38     16     16      m
+09     31     38     16     15      m
 10     23     25     33     19      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY51:M1702_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY51:M1702_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15677,7 +15677,7 @@ P0      A      C      G      T
 12     23     23     23     31      t
 13     31     23     23     23      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=0700010421:M1703_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=0700010421:M1703_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15710,7 +15710,7 @@ P0      A      C      G      T
 08     25     42     13     20      m
 09     23     23     33     21      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=fgenesh1_pg.C_Chr_11.0001000193:M1704_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=fgenesh1_pg.C_Chr_11.0001000193:M1704_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -15746,7 +15746,7 @@ P0      A      C      G      T
 11      0    100      0      0      C
 12     56     44      0      0      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=O22676_ANTMA:M2679_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=O22676_ANTMA:M2679_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15782,7 +15782,7 @@ P0      A      C      G      T
 11     18     82      0      0      C
 12      5     95      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=O22677_ANTMA:M2681_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=O22677_ANTMA:M2681_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15818,7 +15818,7 @@ P0      A      C      G      T
 11     25     55     10     10      m
 12     10     30     25     35      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q9SXJ0_TOBAC:M2786_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q9SXJ0_TOBAC:M2786_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15858,7 +15858,7 @@ P0      A      C      G      T
 15      0      0    100      0      G
 16    100      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRMZM2G015534:M2843_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRMZM2G015534:M2843_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15889,9 +15889,9 @@ P0      A      C      G      T
 06     53      0      0     47      w
 07     14      0     86      0      G
 08      8      8     78      6      G
-09     11     12      8     69      T
+09     12     11      8     69      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYBP_MAIZE:M2851_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYBP_MAIZE:M2851_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15919,11 +15919,11 @@ P0      A      C      G      T
 03      0      1     99      0      G
 04     36     14      3     47      w
 05     99      0      1      0      A
-06      2     56      2     40      y
+06      1     56      3     40      y
 07      6     70     15      9      C
 08      3      9      5     83      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q9ZWK1_TOBAC:M2889_1.02:CISBP
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q9ZWK1_TOBAC:M2889_1.02:CISBP
 XX
 RN  [1];
 RX  PUBMED: 16381825
@@ -15955,7 +15955,7 @@ P0      A      C      G      T
 07     10     10    971     10      G
 08     10     10     10    971      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF3:MA0930.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF3:MA0930.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16018,7 +16018,7 @@ BS  55030;
 BS  55031;
 BS  55032;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI5:MA0931.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI5:MA0931.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16058,7 +16058,7 @@ P0      A      C      G      T
 07    930      0      0     69      A
 08     50    599     50    300      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC025:MA0935.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC025:MA0935.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16098,7 +16098,7 @@ P0      A      C      G      T
 07    784     72      1    143      A
 08    998      1      1      1      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC080:MA0939.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC080:MA0939.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16164,7 +16164,7 @@ BS  55090;
 BS  55091;
 BS  55092;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AP1:MA0940.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AP1:MA0940.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -16229,7 +16229,7 @@ BS  55109;
 BS  55110;
 BS  55111;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF2:MA0941.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF2:MA0941.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16269,7 +16269,7 @@ P0      A      C      G      T
 07    901      4     88      8      A
 08    262    220    207    312      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF1:MA0942.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF1:MA0942.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16329,7 +16329,7 @@ BS  55128;
 BS  55129;
 BS  55130;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF5:MA0943.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF5:MA0943.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16370,7 +16370,7 @@ P0      A      C      G      T
 08    121    138    651     89      g
 09    228    337    217    219      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF8:MA0944.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF8:MA0944.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16412,7 +16412,7 @@ P0      A      C      G      T
 09    143    156     91    609      t
 10    257    190    181    372      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR1:MA0945.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR1:MA0945.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16457,7 +16457,7 @@ P0      A      C      G      T
 12    341    243    264    151      r
 13    225    225    225    326      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR18:MA0948.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR18:MA0948.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16496,7 +16496,7 @@ P0      A      C      G      T
 09    162     76     76    687      T
 10    205    205    205    386      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR2:MA0949.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR2:MA0949.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16533,7 +16533,7 @@ P0      A      C      G      T
 07      0      0      0    999      T
 08     67      1     67    865      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-16:MA0951.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-16:MA0951.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16595,7 +16595,7 @@ BS  55168;
 BS  55169;
 BS  55170;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-6:MA0953.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-6:MA0953.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16637,7 +16637,7 @@ P0      A      C      G      T
 09    183     98    190    528      t
 10    223    223    330    223      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-7:MA0954.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-7:MA0954.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16678,7 +16678,7 @@ P0      A      C      G      T
 06     41     80    859     19      G
 07    188     50    696     67      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=POPTR:MA0955.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=POPTR:MA0955.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16720,7 +16720,7 @@ P0      A      C      G      T
 09    218    342    229    211      c
 10    255    236    253    256      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BEE2:MA0956.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BEE2:MA0956.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16760,7 +16760,7 @@ P0      A      C      G      T
 07     11     14    930     45      G
 08     44    603     94    258      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH3:MA0957.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH3:MA0957.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16800,7 +16800,7 @@ P0      A      C      G      T
 07      1      2    987     10      G
 08     38    696     65    201      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH13:MA0958.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH13:MA0958.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16840,7 +16840,7 @@ P0      A      C      G      T
 07      2      1    939     59      G
 08      8    901     14     76      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AIB:MA0959.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AIB:MA0959.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16882,7 +16882,7 @@ P0      A      C      G      T
 09     45    866     74     15      C
 10     22    822     26    130      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH104:MA0960.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH104:MA0960.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16923,7 +16923,7 @@ P0      A      C      G      T
 08      0      0   1000      0      G
 09    218    343    217    223      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH112:MA0961.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH112:MA0961.1:JASPAR
 XX
 CC  PBM
 XX
@@ -16963,7 +16963,7 @@ P0      A      C      G      T
 07      0      0    999      0      G
 08     96    143    476    286      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH34:MA0962.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH34:MA0962.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17003,7 +17003,7 @@ P0      A      C      G      T
 07     10     10    971     10      G
 08     10    971     10     10      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH78:MA0963.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH78:MA0963.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17065,7 +17065,7 @@ BS  55207;
 BS  55208;
 BS  55209;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM1:MA0964.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM1:MA0964.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17128,7 +17128,7 @@ BS  55227;
 BS  55228;
 BS  55229;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM2:MA0965.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM2:MA0965.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17170,7 +17170,7 @@ P0      A      C      G      T
 09    243    433    165    159      c
 10    233    270    203    294      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM3:MA0966.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM3:MA0966.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17211,7 +17211,7 @@ P0      A      C      G      T
 08      2     73    542    382      k
 09    289    476    134    101      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP68:MA0968.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP68:MA0968.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17252,7 +17252,7 @@ P0      A      C      G      T
 08      8      7    970     15      G
 09      7     11     54    928      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CMTA2:MA0969.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CMTA2:MA0969.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17293,7 +17293,7 @@ P0      A      C      G      T
 08    290    247    250    213      r
 09    241    258    251    251      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CMTA3:MA0970.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CMTA3:MA0970.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17353,7 +17353,7 @@ BS  55244;
 BS  55245;
 BS  55246;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1A:MA0971.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1A:MA0971.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17395,7 +17395,7 @@ P0      A      C      G      T
 09    328     77    395    200      r
 10    299    282    155    264      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF2:MA0973.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF2:MA0973.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17454,7 +17454,7 @@ BS  55261;
 BS  55262;
 BS  55263;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF3:MA0974.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF3:MA0974.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17494,7 +17494,7 @@ P0      A      C      G      T
 07     23    931      0     46      C
 08    118    735     59     88      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF2:MA0975.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF2:MA0975.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17534,7 +17534,7 @@ P0      A      C      G      T
 07     68    756     68    108      C
 08     97    790     65     49      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF4:MA0976.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF4:MA0976.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17597,7 +17597,7 @@ BS  55280;
 BS  55281;
 BS  55282;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF1.8:MA0981.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF1.8:MA0981.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17657,7 +17657,7 @@ BS  55300;
 BS  55301;
 BS  55302;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF2.4:MA0982.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF2.4:MA0982.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17718,7 +17718,7 @@ BS  55320;
 BS  55321;
 BS  55322;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.6:MA0983.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.6:MA0983.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17758,7 +17758,7 @@ P0      A      C      G      T
 07      3      3    990      3      G
 08      5    495      5    495      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DRE1C:MA0985.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DRE1C:MA0985.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17800,7 +17800,7 @@ P0      A      C      G      T
 09    271    193    271    265      d
 10    280    218    272    229      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_140773:MA0987.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_140773:MA0987.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17842,7 +17842,7 @@ P0      A      C      G      T
 09    169    392    231    208      c
 10    256    222    272    250      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_143875:MA0988.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_143875:MA0988.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17883,7 +17883,7 @@ P0      A      C      G      T
 08    139    288    195    378      y
 09    285    158    297    260      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_153324:MA0989.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_153324:MA0989.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17925,7 +17925,7 @@ P0      A      C      G      T
 09     81     25    756    137      G
 10    220    504     49    227      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDT1:MA0990.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDT1:MA0990.1:JASPAR
 XX
 CC  PBM
 XX
@@ -17986,7 +17986,7 @@ BS  55340;
 BS  55341;
 BS  55342;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF4:MA0992.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF4:MA0992.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18049,7 +18049,7 @@ BS  55360;
 BS  55361;
 BS  55362;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF7:MA0993.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF7:MA0993.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18112,7 +18112,7 @@ BS  55380;
 BS  55381;
 BS  55382;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF8:MA0994.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF8:MA0994.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18154,7 +18154,7 @@ P0      A      C      G      T
 09    244    170    395    190      g
 10    261    225    316    198      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF039:MA0995.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF039:MA0995.1:JASPAR
 XX
 CC  DAP-seq; PBM
 XX
@@ -18194,7 +18194,7 @@ P0      A      C      G      T
 07      1    250      1    749      T
 08    200    101    599    101      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF043:MA0996.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF043:MA0996.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18235,7 +18235,7 @@ P0      A      C      G      T
 08    224    404    193    180      c
 09    351    209    231    209      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF069:MA0997.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF069:MA0997.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18277,7 +18277,7 @@ P0      A      C      G      T
 09    384    176    240    200      a
 10    233    254    223    290      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF096:MA0998.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF096:MA0998.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18317,7 +18317,7 @@ P0      A      C      G      T
 07    190    448    170    192      c
 08    125    677     99     98      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF098:MA0999.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF098:MA0999.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18357,7 +18357,7 @@ P0      A      C      G      T
 07      1    998      1      1      C
 08    101    101    698    101      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF105:MA1000.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF105:MA1000.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18418,7 +18418,7 @@ BS  55418;
 BS  55419;
 BS  55420;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11:MA1001.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11:MA1001.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18460,7 +18460,7 @@ P0      A      C      G      T
 09    236    661     37     67      c
 10    478    133    240    150      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF112:MA1002.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF112:MA1002.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18500,7 +18500,7 @@ P0      A      C      G      T
 07      0    999      0      0      C
 08    461    103    282    154      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF13:MA1004.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF13:MA1004.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18558,7 +18558,7 @@ BS  55403;
 BS  55420;
 BS  55424;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3:MA1005.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3:MA1005.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18600,7 +18600,7 @@ P0      A      C      G      T
 09    159    156    530    155      g
 10    172    278    257    294      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF6:MA1006.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF6:MA1006.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18640,7 +18640,7 @@ P0      A      C      G      T
 07      0    150      0    849      T
 08     84      1    665    250      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_173530:MA1007.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_173530:MA1007.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18682,7 +18682,7 @@ P0      A      C      G      T
 09     70     70    789     70      G
 10    292    246    291    171      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_182268:MA1008.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_182268:MA1008.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18727,7 +18727,7 @@ P0      A      C      G      T
 12    309    230    230    230      a
 13    309    230    230    230      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_64121:MA1010.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_64121:MA1010.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18769,7 +18769,7 @@ P0      A      C      G      T
 09    337    272    181    210      m
 10    190    308    238    264      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_72483:MA1011.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_72483:MA1011.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18836,7 +18836,7 @@ BS  55442;
 BS  55443;
 BS  55444;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL27:MA1012.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL27:MA1012.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -18876,7 +18876,7 @@ P0      A      C      G      T
 07      0    111     84    805      T
 08    111    111    740     37      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA10:MA1013.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA10:MA1013.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18937,7 +18937,7 @@ BS  55462;
 BS  55463;
 BS  55464;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA11:MA1014.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA11:MA1014.1:JASPAR
 XX
 CC  PBM
 XX
@@ -18978,7 +18978,7 @@ P0      A      C      G      T
 08    324    201    268    207      r
 09    269    239    280    212      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA15:MA1016.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA15:MA1016.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19019,7 +19019,7 @@ P0      A      C      G      T
 08    384    158    369     89      r
 09    314    187    320    179      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA8:MA1017.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA8:MA1017.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19062,7 +19062,7 @@ P0      A      C      G      T
 10    294     89    452    165      r
 11    296    199    199    305      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA9:MA1018.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA9:MA1018.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19103,7 +19103,7 @@ P0      A      C      G      T
 08    896     17     76     11      A
 09     17    844     50     89      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20-like:MA1019.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20-like:MA1019.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19160,7 +19160,7 @@ BS  55478;
 BS  55479;
 BS  55480;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT-1:MA1020.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT-1:MA1020.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19200,7 +19200,7 @@ P0      A      C      G      T
 07      1      1    998      1      G
 08    143    642     72    143      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_48267:MA1021.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_48267:MA1021.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19242,7 +19242,7 @@ P0      A      C      G      T
 09    259    174    307    259      d
 10    283    262    227    227      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_38837:MA1022.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_38837:MA1022.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19282,7 +19282,7 @@ P0      A      C      G      T
 07      0    217      0    782      T
 08    118      1    705    177      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHYPADRAFT_28324:MA1023.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHYPADRAFT_28324:MA1023.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19324,7 +19324,7 @@ P0      A      C      G      T
 09    101    101    286    512      k
 10    349    181    289    181      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT1:MA1024.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT1:MA1024.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19368,7 +19368,7 @@ P0      A      C      G      T
 11    202    485    195    118      c
 12    226    226    226    322      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HBI1:MA1025.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HBI1:MA1025.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19410,7 +19410,7 @@ P0      A      C      G      T
 09    266    258    226    250      h
 10    241    256    220    283      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB1-like:MA1030.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB1-like:MA1030.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19452,7 +19452,7 @@ P0      A      C      G      T
 09    445    335    146     74      m
 10    279    414    131    175      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OJ1581:MA1031.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OJ1581:MA1031.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19494,7 +19494,7 @@ P0      A      C      G      T
 09    845     22     22    111      A
 10    131    219    221    430      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1G:MA1032.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1G:MA1032.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19534,7 +19534,7 @@ P0      A      C      G      T
 07      3      3    990      3      G
 08      5      5    495    495      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OJ1058:MA1033.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OJ1058:MA1033.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19574,7 +19574,7 @@ P0      A      C      G      T
 07      3    990      3      3      C
 08    495      5    495      5      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Os05g0497200:MA1034.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Os05g0497200:MA1034.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19614,7 +19614,7 @@ P0      A      C      G      T
 07    997      1      1      1      A
 08      1    996      1      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP4:MA1035.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP4:MA1035.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19655,7 +19655,7 @@ P0      A      C      G      T
 08     51      5    860     84      G
 09     39    360     19    582      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB24:MA1037.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB24:MA1037.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19698,7 +19698,7 @@ P0      A      C      G      T
 10    273    191    345    191      r
 11    311    230    230    230      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3:MA1038.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3:MA1038.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19738,7 +19738,7 @@ P0      A      C      G      T
 07     10      0      0    990      T
 08    319     73    536     73      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB4:MA1039.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB4:MA1039.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19801,7 +19801,7 @@ BS  55505;
 BS  55506;
 BS  55507;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC083:MA1043.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC083:MA1043.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19845,7 +19845,7 @@ P0      A      C      G      T
 11    274    299    256    170      v
 12    314    229    229    229      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC92:MA1044.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC92:MA1044.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19908,7 +19908,7 @@ BS  55525;
 BS  55526;
 BS  55527;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC043:MA1045.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC043:MA1045.1:JASPAR
 XX
 CC  PBM
 XX
@@ -19949,7 +19949,7 @@ P0      A      C      G      T
 08    985      5      5      5      A
 09     10     10     10    971      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL9:MA1046.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL9:MA1046.1:JASPAR
 XX
 CC  DAP-seq; PBM
 XX
@@ -20009,7 +20009,7 @@ BS  55544;
 BS  55545;
 BS  55546;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA5:MA1047.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA5:MA1047.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20049,7 +20049,7 @@ P0      A      C      G      T
 07      0    999      0      0      C
 08    241    104    482    173      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF094:MA1049.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF094:MA1049.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20089,7 +20089,7 @@ P0      A      C      G      T
 07    899     50     50      0      A
 08      1    855     72     72      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OsI:MA1050.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OsI:MA1050.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20131,7 +20131,7 @@ P0      A      C      G      T
 09    862      2    132      4      A
 10     20    907      6     67      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARALYDRAFT_897773:MA1054.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARALYDRAFT_897773:MA1054.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20175,7 +20175,7 @@ P0      A      C      G      T
 11    572     78     78    271      w
 12    188    271    188    353      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL11:MA1056.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL11:MA1056.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20215,7 +20215,7 @@ P0      A      C      G      T
 07    249     53    538    159      g
 08    278    262    151    310      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL12:MA1057.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL12:MA1057.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20256,7 +20256,7 @@ P0      A      C      G      T
 08    252    252    205    290      h
 09    269    258    195    277      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL4:MA1058.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL4:MA1058.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20297,7 +20297,7 @@ P0      A      C      G      T
 08    178     59    575    188      g
 09    250    299    155    296      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL5:MA1059.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL5:MA1059.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20338,7 +20338,7 @@ P0      A      C      G      T
 08     84    115    724     76      G
 09    221    301    237    242      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPT:MA1061.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPT:MA1061.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20380,7 +20380,7 @@ P0      A      C      G      T
 09    841     29    128      2      A
 10      0    812    106     81      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP19:MA1063.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP19:MA1063.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20422,7 +20422,7 @@ P0      A      C      G      T
 09    564    154    194     88      a
 10    186    429    168    217      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP2:MA1064.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP2:MA1064.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20473,7 +20473,7 @@ BS  55598;
 BS  55599;
 BS  55600;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20:MA1065.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20:MA1065.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20513,7 +20513,7 @@ P0      A      C      G      T
 07    995      2      2      2      A
 08      2    745      2    250      Y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP5:MA1067.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP5:MA1067.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20576,7 +20576,7 @@ BS  54752;
 BS  55625;
 BS  54757;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA6:MA1069.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA6:MA1069.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20618,7 +20618,7 @@ P0      A      C      G      T
 09    261    574     97     68      m
 10    599     63    120    218      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA7:MA1070.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA7:MA1070.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20657,7 +20657,7 @@ P0      A      C      G      T
 06    611    329     14     47      m
 07     66     52    767    116      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.3:MA1071.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.3:MA1071.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20697,7 +20697,7 @@ P0      A      C      G      T
 07    980      0      7     13      A
 08    454     74    398     74      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRB2:MA1073.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRB2:MA1073.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20737,7 +20737,7 @@ P0      A      C      G      T
 07      0      0    999      0      G
 08    267    533     67    134      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=UNE10:MA1074.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=UNE10:MA1074.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20800,7 +20800,7 @@ BS  55643;
 BS  55644;
 BS  55645;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY15:MA1076.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY15:MA1076.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20863,7 +20863,7 @@ BS  55626;
 BS  55663;
 BS  55664;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18:MA1077.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18:MA1077.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20903,7 +20903,7 @@ P0      A      C      G      T
 07    806      0    163     31      A
 08    271    528     72    129      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY2:MA1078.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY2:MA1078.1:JASPAR
 XX
 CC  PBM
 XX
@@ -20966,7 +20966,7 @@ BS  55681;
 BS  55645;
 BS  55682;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY21:MA1079.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY21:MA1079.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21006,7 +21006,7 @@ P0      A      C      G      T
 07    167    831      1      1      C
 08    143    143    712      1      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY23:MA1080.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY23:MA1080.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21065,7 +21065,7 @@ BS  55644;
 BS  55654;
 BS  55693;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY25:MA1081.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY25:MA1081.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21107,7 +21107,7 @@ P0      A      C      G      T
 09    205    327    265    203      s
 10    214    221    251    313      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY30:MA1083.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY30:MA1083.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21147,7 +21147,7 @@ P0      A      C      G      T
 07    591    105    123    182      a
 08    247    270    270    213      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY40:MA1085.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY40:MA1085.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21189,7 +21189,7 @@ P0      A      C      G      T
 09    332    196    310    163      r
 10    231    311    218    240      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY43:MA1086.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY43:MA1086.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21231,7 +21231,7 @@ P0      A      C      G      T
 09    269    386    155    190      m
 10    234    232    313    221      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY48:MA1088.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY48:MA1088.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21273,7 +21273,7 @@ P0      A      C      G      T
 09    260    508     87    145      m
 10    199    207    386    207      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY57:MA1089.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY57:MA1089.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21316,7 +21316,7 @@ P0      A      C      G      T
 10    145    246    465    145      g
 11    228    228    228    316      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY60:MA1090.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY60:MA1090.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21356,7 +21356,7 @@ P0      A      C      G      T
 07    998      1      1      1      A
 08    273    726      1      1      M
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY62:MA1091.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY62:MA1091.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21396,7 +21396,7 @@ P0      A      C      G      T
 07    981      0      0     19      A
 08    128    513    231    128      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY63:MA1092.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY63:MA1092.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21457,7 +21457,7 @@ BS  55751;
 BS  55752;
 BS  55753;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY75:MA1093.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY75:MA1093.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21498,7 +21498,7 @@ P0      A      C      G      T
 08    254    467    120    160      m
 09    216    218    374    193      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY8:MA1094.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY8:MA1094.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21539,7 +21539,7 @@ P0      A      C      G      T
 07    993      2      2      2      A
 08      3    990      3      3      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARALYDRAFT_495258:MA1095.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARALYDRAFT_495258:MA1095.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21579,7 +21579,7 @@ P0      A      C      G      T
 07    994      2      2      2      A
 08      3    990      3      3      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARALYDRAFT_496250:MA1096.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARALYDRAFT_496250:MA1096.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21619,7 +21619,7 @@ P0      A      C      G      T
 07    990      3      3      3      A
 08      5    985      5      5      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARALYDRAFT_493022:MA1097.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARALYDRAFT_493022:MA1097.1:JASPAR
 XX
 CC  PBM
 XX
@@ -21670,7 +21670,7 @@ P0      A      C      G      T
 17     40      6      9     11      a
 18     15     10     16     25      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AG:AG:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AG:AG:Athamap
 XX
 CC  sequences selected with recombinant AG from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification; sequences selected with recombinant AG from a pool of double-stranded oligonucleotides containing a core of 66 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -21722,7 +21722,7 @@ BS  47973;
 BS  47974;
 BS  47975;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HMG-1:MA0044.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HMG-1:MA0044.1:JASPAR
 XX
 CC  sequences selected with recombinant HMG1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification; SELEX
 XX
@@ -21782,7 +21782,7 @@ BS  49799;
 BS  49800;
 BS  49801;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PEND:MA0127.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PEND:MA0127.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -21833,7 +21833,7 @@ BS  49824;
 BS  49825;
 BS  49826;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1A:MA0129.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1A:MA0129.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -21868,10 +21868,10 @@ P0      A      C      G      T
 05      4      2     92      2      G
 06     96      1      2      1      A
 07   0.06   0.01      0   0.92      T
-08     43      3      2     52      w
+08     42      4      2     52      w
 09      1     82      2     15      C
 10      3      8     85      4      G
-11     11     39     44      6      s
+11     10     39     44      7      s
 12     22      7     15     56      t
 13     21     14     28     37      k
 14     38     16     15     31      w
@@ -21897,7 +21897,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -21925,13 +21925,13 @@ P0      A      C      G      T
 03     43      6     19     32      w
 04     79      3      8     10      A
 05      4      1     92      3      G
-06     97      1      1      1      A
-07      3      1      1     95      T
+06     96      2      1      1      A
+07      4      1      1     94      T
 08     47      5      1     47      w
 09      2     85      1     12      C
 10      3      6     85      6      G
 11     12     34     48      6      s
-12     23      6     17     54      t
+12     23      7     17     53      t
 13     30     14     18     38      w
 14     43     15     14     28      w
 XX
@@ -21956,7 +21956,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -21982,16 +21982,16 @@ P0      A      C      G      T
 01     19     19     35     27      k
 02     33     32     11     24      m
 03     47      6     21     26      w
-04     83      2      6      9      A
+04     83      3      6      8      A
 05      2      1     96      1      G
 06     97      1      1      1      A
 07   0.03   0.01      0   0.96      T
-08     47      3      1     49      w
+08     47      4      1     48      w
 09      1     85      2     12      C
 10      2      7     88      3      G
 11     11     33     51      5      s
 12     29      9     15     47      w
-13     24     14     20     42      t
+13     24     13     21     42      t
 14     35     14     14     37      w
 XX
 BS  36387;
@@ -22015,7 +22015,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_3:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_3:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -22039,7 +22039,7 @@ BF  12724;
 XX
 P0      A      C      G      T
 01     22     24      4     50      t
-02     17     27     30     26      b
+02     17     26     30     27      b
 03     23     30      9     38      y
 04     41     15     10     34      w
 05     86      3      5      6      A
@@ -22074,7 +22074,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_4:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_4:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -22097,9 +22097,9 @@ XX
 BF  12724;
 XX
 P0      A      C      G      T
-01     14     22     36     28      k
+01     13     22     36     29      k
 02     25     28     12     35      h
-03     52     16     13     19      a
+03     53     16     12     19      a
 04     76      3      4     17      A
 05      1      1     91      7      G
 06   0.96   0.02      0   0.01      A
@@ -22108,7 +22108,7 @@ P0      A      C      G      T
 09      1     71      1     27      Y
 10      8      6     63     23      g
 11     14     44     34      8      s
-12     17     21      8     54      t
+12     16     22      8     54      t
 13     19     22     31     28      k
 14     44     16     22     18      a
 XX
@@ -22133,7 +22133,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_5:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_5:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -22156,10 +22156,10 @@ XX
 BF  12724;
 XX
 P0      A      C      G      T
-01     15     19     37     29      k
+01     14     19     37     30      k
 02     26     24     18     32      w
 03     45     21     12     22      a
-04     72      3      3     22      A
+04     72      3      4     21      A
 05      2      1     91      6      G
 06     97      1      1      1      A
 07   0.04      0   0.01   0.94      T
@@ -22168,7 +22168,7 @@ P0      A      C      G      T
 10      8      7     65     20      g
 11     11     43     36     10      s
 12     17     24      7     52      t
-13     23     20     26     31      k
+13     24     19     26     31      k
 14     44     20     17     19      a
 XX
 BS  36387;
@@ -22192,7 +22192,7 @@ BS  37577;
 BS  37713;
 BS  37994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LUX:UP00552A_6:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=LUX:UP00552A_6:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 21236673
@@ -22217,10 +22217,10 @@ XX
 P0      A      C      G      T
 01     18     19     31     32      k
 02     16     18     38     28      k
-03     13     22     38     27      k
-04     32     20     29     19      r
+03     13     22     37     28      k
+04     32     19     29     20      r
 05     27     26     33     14      v
-06     20     22     20     38      t
+06     20     23     19     38      t
 07     16     26     37     21      s
 08     96      1      2      1      A
 09      1      2      1     96      T
@@ -22230,9 +22230,9 @@ P0      A      C      G      T
 13      0      0   0.99      0      G
 14   0.22      0   0.78      0      G
 15      0   0.86      0   0.14      C
-16     33     16     35     16      r
+16     33     16     36     15      r
 17     35     23     28     14      r
-18     17     27     32     24      s
+18     18     27     31     24      s
 19     19     19     44     18      g
 20     30     19     27     24      r
 21     22     21     23     34      t
@@ -22259,7 +22259,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22283,14 +22283,14 @@ BF  8873;
 XX
 P0      A      C      G      T
 01     18     17     39     26      k
-02     16     11     38     35      k
+02     15     11     38     36      k
 03      8     38     34     20      s
 04     33     21     22     24      a
 05     32     27     25     16      v
 06     33     14     18     35      w
 07     21     17     38     24      g
 08     95      1      3      1      A
-09      2      2      1     95      T
+09      2      1      2     95      T
 10      0      0   0.99      0      G
 11      0      0      0   0.99      T
 12      0   0.99      0      0      C
@@ -22298,11 +22298,11 @@ P0      A      C      G      T
 14   0.21      0   0.79      0      G
 15      0   0.85      0   0.14      C
 16     33     19     35     13      r
-17     30     24     32     14      r
-18     15     23     34     28      k
+17     31     24     31     14      r
+18     14     23     35     28      k
 19     19     16     50     15      g
-20     40     20     19     21      a
-21     16     19     28     37      k
+20     40     20     20     20      a
+21     16     18     28     38      k
 22     27     23     14     36      w
 XX
 BS  36424;
@@ -22326,7 +22326,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22354,9 +22354,9 @@ P0      A      C      G      T
 03     19     12     36     33      k
 04     29     18     38     15      r
 05     22     25     41     12      s
-06     10     34     21     35      y
-07     12     37     34     17      s
-08     96      1      2      1      A
+06     10     33     21     36      y
+07     12     38     34     16      s
+08     97      1      1      1      A
 09      1      2      1     96      T
 10      0      0   0.99      0      G
 11      0      0      0   0.99      T
@@ -22393,7 +22393,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_3:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_3:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22419,12 +22419,12 @@ P0      A      C      G      T
 01     21     22     30     27      k
 02     18     17     40     25      k
 03     18     19     34     29      k
-04     27     22     36     15      r
+04     27     23     35     15      r
 05     26     28     32     14      v
 06     18     28     21     33      y
-07     23     28     33     16      s
+07     24     27     33     16      s
 08     94      1      4      1      A
-09      2      4      3     91      T
+09      1      4      3     92      T
 10   0.01      0   0.99      0      G
 11      0      0      0   0.99      T
 12      0   0.99      0      0      C
@@ -22432,10 +22432,10 @@ P0      A      C      G      T
 14   0.29      0   0.71      0      R
 15      0   0.80      0   0.19      C
 16     24     22     41     13      g
-17     29     28     26     17      v
+17     29     27     26     18      v
 18     22     20     28     30      k
-19     22     15     42     21      g
-20     23     28     27     22      s
+19     22     16     41     21      g
+20     23     29     27     21      s
 21     19     28     25     28      b
 22     25     26     21     28      h
 XX
@@ -22460,7 +22460,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_4:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_4:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22487,9 +22487,9 @@ P0      A      C      G      T
 02     20     12     41     27      k
 03     15     34     24     27      y
 04     29     18     33     20      r
-05     28     32     23     17      m
-06     28     19     18     35      w
-07     28     23     33     16      r
+05     28     32     24     16      m
+06     27     19     18     36      w
+07     27     23     34     16      r
 08     93      1      5      1      A
 09      2      4      3     91      T
 10   0.01      0   0.99      0      G
@@ -22504,7 +22504,7 @@ P0      A      C      G      T
 19     20     16     42     22      g
 20     30     26     25     19      v
 21     18     24     25     33      t
-22     19     34     16     31      y
+22     19     33     17     31      y
 XX
 BS  36424;
 BS  36476;
@@ -22527,7 +22527,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_5:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_5:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22550,14 +22550,14 @@ XX
 BF  8873;
 XX
 P0      A      C      G      T
-01     18     28     27     27      b
+01     18     29     26     27      b
 02     16     24     38     22      g
-03     20      9     44     27      k
+03     19     10     44     27      k
 04     24     28     38     10      s
 05     22     24     42     12      g
-06     11     38     22     29      y
+06     11     39     22     28      y
 07     19     32     33     16      s
-08     95      1      4      0      A
+08     95      0      4      1      A
 09      1      3      3     93      T
 10   0.01      0   0.99      0      G
 11      0      0      0   0.99      T
@@ -22566,12 +22566,12 @@ P0      A      C      G      T
 14   0.33      0   0.67      0      r
 15      0   0.82   0.01   0.17      C
 16     23     19     46     12      g
-17     28     28     22     22      m
+17     28     29     22     21      m
 18     25     21     28     26      d
 19     23     16     41     20      g
 20     18     30     29     23      s
 21     19     32     25     24      s
-22     31     19     25     25      r
+22     32     19     25     24      r
 XX
 BS  36424;
 BS  36476;
@@ -22594,7 +22594,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:UP00555A_6:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:UP00555A_6:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22617,11 +22617,11 @@ XX
 BF  12107;
 XX
 P0      A      C      G      T
-01     24     20     29     27      k
+01     23     20     30     27      k
 02     20     18     36     26      k
 03     20     21     28     31      k
 04     28     22     32     18      r
-05     25     27     33     15      v
+05     26     27     33     14      v
 06     19     23     20     38      t
 07     19     28     37     16      s
 08   0.95   0.01   0.04      0      A
@@ -22633,8 +22633,8 @@ P0      A      C      G      T
 14   0.33      0   0.67      0      r
 15      0   0.82      0   0.18      C
 16     27     21     36     16      r
-17     38     24     24     14      a
-18     21     22     35     22      g
+17     38     25     23     14      a
+18     22     22     34     22      g
 19     20     19     41     20      g
 20     29     22     27     22      r
 21     24     24     19     33      t
@@ -22661,7 +22661,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22690,9 +22690,9 @@ P0      A      C      G      T
 04     26     19     34     21      r
 05     29     31     24     16      m
 06     32     18     18     32      w
-07     28     21     35     16      r
+07     27     21     36     16      r
 08   0.93   0.01   0.05      0      A
-09      1      1      1     97      T
+09      1      1      0     98      T
 10      0      0   0.99      0      G
 11      0      0      0   0.99      T
 12      0   0.99      0      0      C
@@ -22700,11 +22700,11 @@ P0      A      C      G      T
 14   0.30      0   0.70      0      R
 15      0   0.82      0   0.18      C
 16     25     25     32     18      v
-17     33     28     23     16      m
+17     33     28     24     15      m
 18     20     20     32     28      k
 19     21     18     39     22      g
 20     39     23     23     15      a
-21     18     21     18     43      t
+21     17     21     19     43      t
 22     23     31     15     31      y
 XX
 BS  36476;
@@ -22728,7 +22728,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22754,10 +22754,10 @@ P0      A      C      G      T
 01     23     22     23     32      t
 02     21     27     30     22      s
 03     25     13     28     34      d
-04     30     25     29     16      r
+04     30     24     30     16      r
 05     22     22     43     13      g
 06     10     27     21     42      y
-07     13     34     37     16      s
+07     13     33     38     16      s
 08   0.97      0   0.03      0      A
 09   0.01   0.01      0   0.98      T
 10      0      0   0.99      0      G
@@ -22795,7 +22795,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_3:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_3:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22818,14 +22818,14 @@ XX
 BF  12107;
 XX
 P0      A      C      G      T
-01     23     16     28     33      k
+01     23     16     29     32      k
 02     17     18     33     32      k
 03     15     20     28     37      k
 04     23     18     39     20      g
 05     21     30     32     17      s
 06     18     27     19     36      y
 07     16     34     37     13      s
-08     96      1      2      1      A
+08     96      1      3      0      A
 09      1      1      1     97      T
 10      0      0   0.99   0.01      G
 11      0      0      0   0.99      T
@@ -22837,7 +22837,7 @@ P0      A      C      G      T
 17     45     17     23     15      a
 18     21     24     30     25      k
 19     26     18     38     18      r
-20     28     24     22     26      w
+20     27     24     23     26      w
 21     24     23     19     34      t
 22     33     26     21     20      m
 XX
@@ -22862,7 +22862,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_4:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_4:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22887,12 +22887,12 @@ XX
 P0      A      C      G      T
 01     26     13     34     27      d
 02     15     10     31     44      k
-03     14     33     24     29      y
+03     14     33     23     30      y
 04     18     18     39     25      k
-05     23     37     22     18      c
+05     23     37     23     17      c
 06     28     20     19     33      w
 07     26     23     37     14      r
-08     93      0      6      1      A
+08     93      1      5      1      A
 09      1      2      1     96      T
 10      0      0   0.98   0.01      G
 11   0.01      0   0.01   0.98      T
@@ -22902,11 +22902,11 @@ P0      A      C      G      T
 15      0   0.70   0.01   0.29      Y
 16     34     16     37     13      r
 17     38     17     25     20      r
-18     18     21     27     34      k
-19     30     15     38     17      r
+18     19     21     26     34      k
+19     31     14     38     17      r
 20     38     31     13     18      m
 21     15     20     24     41      t
-22     32     27     13     28      h
+22     32     27     12     29      h
 XX
 BS  36476;
 BS  36594;
@@ -22929,7 +22929,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_5:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_5:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -22970,10 +22970,10 @@ P0      A      C      G      T
 16     37      9     42     12      r
 17     51     17     21     11      a
 18     23     26     33     18      s
-19     21     22     38     19      g
+19     21     22     39     18      g
 20     18     16     34     32      k
 21     37     24     13     26      w
-22     31     23     32     14      r
+22     31     23     33     13      r
 XX
 BS  36476;
 BS  36594;
@@ -22996,7 +22996,7 @@ BS  37986;
 BS  38081;
 BS  38097;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2:UP00557A_6:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2:UP00557A_6:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 26103993
@@ -23053,7 +23053,7 @@ BS  19334;
 BS  37942;
 BS  38036;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC019:UP00570A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC019:UP00570A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23078,16 +23078,16 @@ XX
 P0      A      C      G      T
 01     31     31     19     19      m
 02     62      5     19     14      a
-03      2     77      9     12      C
+03      2     77     10     11      C
 04     93      3      2      2      A
-05      3     92      4      1      C
-06      2      1     94      3      G
+05      4     92      3      1      C
+06      1      1     95      3      G
 07      4     45     33     18      s
-08     65     32      1      2      m
+08     65     33      0      2      m
 09     92      2      2      4      A
 10      8     66     14     12      c
 11      7     20      7     66      t
-12     17      7     24     52      t
+12     17      8     23     52      t
 XX
 BS  36530;
 BS  36534;
@@ -23110,7 +23110,7 @@ BS  19334;
 BS  37942;
 BS  38036;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC019:UP00570A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC019:UP00570A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23136,14 +23136,14 @@ P0      A      C      G      T
 01     25     29     32     14      v
 02     24     29     16     31      y
 03     57      9     22     12      a
-04      3     85      5      7      C
+04      3     85      6      6      C
 05     95      1      2      2      A
 06      2     95      2      1      C
 07      1      1     95      3      G
 08     12      3     63     22      g
 09     42     50      3      5      m
 10     88      1      4      7      A
-11     21     67      5      7      c
+11     20     67      5      8      c
 12     12     31      9     48      y
 13     46      5     28     21      r
 XX
@@ -23168,7 +23168,7 @@ BS  37942;
 BS  37990;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC055:UP00571A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC055:UP00571A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23192,16 +23192,16 @@ BF  12726;
 XX
 P0      A      C      G      T
 01     13     41     36     10      s
-02      9     12     31     48      k
+02      8     12     32     48      k
 03     47      2     13     38      w
-04      1     70      2     27      Y
-05     97      1      0      2      A
+04      1     71      2     26      Y
+05     96      1      1      2      A
 06   0.02   0.95      0   0.03      C
 07      1      1     97      1      G
 08      6      3     81     10      G
 09   0.36   0.61      0   0.02      m
 10   0.87      0   0.03   0.10      A
-11     12     66     10     12      c
+11     12     67     10     11      c
 12      8     10      8     74      T
 13     19     23     21     37      t
 XX
@@ -23226,7 +23226,7 @@ BS  37942;
 BS  37990;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC055:UP00571A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC055:UP00571A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23284,7 +23284,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092:UP00572A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092:UP00572A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23308,7 +23308,7 @@ BF  12727;
 XX
 P0      A      C      G      T
 01     32     26     14     28      h
-02     23     21      8     48      t
+02     23     20      8     49      t
 03     83      1     11      5      A
 04      0   0.90   0.02   0.08      C
 05   0.99   0.01      0      0      A
@@ -23317,7 +23317,7 @@ P0      A      C      G      T
 08      2     96      1      1      C
 09     91      4      1      4      A
 10   0.96      0      0   0.03      A
-11      7     58     11     24      c
+11      6     58     12     24      c
 12     17     51     16     16      c
 13      6      6     52     36      k
 XX
@@ -23342,7 +23342,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092:UP00572A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092:UP00572A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23367,7 +23367,7 @@ XX
 P0      A      C      G      T
 01     12     67     14      7      c
 02     43     14     14     29      w
-03     95      1      3      1      A
+03     95      1      2      2      A
 04      0   0.95      0   0.04      C
 05   0.99      0      0      0      A
 06   0.04   0.95      0      0      C
@@ -23399,7 +23399,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092:UP00572A_3:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092:UP00572A_3:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23423,7 +23423,7 @@ BF  12727;
 XX
 P0      A      C      G      T
 01     31     22     21     26      w
-02     22     18     11     49      t
+02     23     18     10     49      t
 03   0.82      0   0.14   0.03      A
 04      0   0.94   0.01   0.05      C
 05   0.99      0      0      0      A
@@ -23434,7 +23434,7 @@ P0      A      C      G      T
 10   0.97      0      0   0.03      A
 11      4     68      7     21      C
 12     13     63     10     14      c
-13      9      6     52     33      k
+13      8      7     52     33      k
 XX
 BS  36530;
 BS  36531;
@@ -23457,7 +23457,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092:UP00572A_4:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092:UP00572A_4:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23486,11 +23486,11 @@ P0      A      C      G      T
 04      7      3     87      3      G
 05     74      1      1     24      A
 06      6      4     87      3      G
-07     49     29      4     18      m
-08      1     95      3      1      C
+07     48     29      5     18      m
+08      2     95      2      1      C
 09      2      1     95      2      G
 10      1      1      3     95      T
-11     78      1     19      2      A
+11     77      2     19      2      A
 12     20      8      5     67      t
 XX
 BS  36482;
@@ -23514,7 +23514,7 @@ BS  37972;
 BS  38082;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATAF1:UP00573A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATAF1:UP00573A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23537,7 +23537,7 @@ XX
 BF  12728;
 XX
 P0      A      C      G      T
-01     46      8     28     18      r
+01     46      9     28     17      r
 02   0.82      0   0.16   0.02      A
 03   0.04   0.01   0.94      0      G
 04   0.92   0.01      0   0.07      A
@@ -23571,7 +23571,7 @@ BS  37972;
 BS  38082;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATAF1:UP00573A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATAF1:UP00573A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23597,15 +23597,15 @@ P0      A      C      G      T
 01     24     10     54     12      g
 02     14     24     13     49      t
 03     12      2      5     81      T
-04      2      3     10     85      T
+04      2      4      9     85      T
 05     80      4     15      1      A
 06      1     96      1      2      C
 07      2      1     96      1      G
 08      1     15      4     80      T
-09     85     10      3      2      A
+09     85      9      3      3      A
 10     81      5      2     12      A
-11      7     63      4     26      y
-12     22     38     18     22      c
+11      8     63      4     25      y
+12     22     39     18     21      c
 13     26     17     10     47      w
 XX
 BS  36530;
@@ -23629,7 +23629,7 @@ BS  37942;
 BS  37951;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAP:UP00574A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAP:UP00574A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23655,9 +23655,9 @@ P0      A      C      G      T
 01     39     31     18     12      m
 02     37     10      8     45      w
 03     60      8     18     14      a
-04      3     63      5     29      y
+04      2     63      6     29      y
 05     94      3      2      1      A
-06      0     98      1      1      C
+06      1     98      1      0      C
 07      3      1     95      1      G
 08      4     70      8     18      C
 09     95      3      1      1      A
@@ -23687,7 +23687,7 @@ BS  37942;
 BS  37951;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAP:UP00574A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAP:UP00574A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23720,7 +23720,7 @@ P0      A      C      G      T
 08      1     80      1     18      C
 09     72      3      2     23      A
 10   0.98      0      0   0.01      A
-11      9     46      5     40      y
+11      9     46      6     39      y
 12     13     53     18     16      c
 XX
 BS  36398;
@@ -23744,7 +23744,7 @@ BS  38004;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NST2:UP00575A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NST2:UP00575A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23767,18 +23767,18 @@ XX
 BF  12730;
 XX
 P0      A      C      G      T
-01     20     33     30     17      s
-02     26     12      9     53      w
+01     21     33     29     17      s
+02     26     12      8     54      w
 03     67      9     13     11      a
 04      3     75      2     20      C
-05     86      7      4      3      A
-06      6     87      2      5      C
+05     87      6      4      3      A
+06      6     87      3      4      C
 07      4      3     90      3      G
 08      9     76      7      8      C
 09     67     18      3     12      a
 10     85      4      1     10      A
 11     15     28      7     50      y
-12     13     52     24     11      c
+12     13     51     25     11      c
 13     36     13     21     30      w
 XX
 BS  36398;
@@ -23802,7 +23802,7 @@ BS  38004;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NST2:UP00575A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NST2:UP00575A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23825,7 +23825,7 @@ XX
 BF  12731;
 XX
 P0      A      C      G      T
-01     12     28     37     23      s
+01     11     29     37     23      s
 02     24     22     14     40      t
 03     85      2      5      8      A
 04      0   0.90   0.02   0.07      C
@@ -23859,7 +23859,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL6:UP00576A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL6:UP00576A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23887,12 +23887,12 @@ P0      A      C      G      T
 03      7     13     59     21      g
 04      5     13      8     74      T
 05     87      3      4      6      A
-06     89      3      4      4      A
+06     89      2      5      4      A
 07      4      4     83      9      G
 08      7      2     56     35      k
 09     78      3      2     17      A
 10     83      3      3     11      A
-11     26     15     10     49      w
+11     25     15     11     49      w
 12     30     27     11     32      h
 13     11     14     19     56      t
 XX
@@ -23917,7 +23917,7 @@ BS  37951;
 BS  38035;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL6:UP00576A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL6:UP00576A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -23950,7 +23950,7 @@ P0      A      C      G      T
 08      6     11     39     44      k
 09   0.97      0      0   0.02      A
 10   0.97      0      0   0.02      A
-11     20     31     12     37      y
+11     20     31     13     36      y
 12      6     62     10     22      c
 XX
 BS  36442;
@@ -23974,7 +23974,7 @@ BS  38105;
 BS  38106;
 BS  38107;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL8:UP00577A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL8:UP00577A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24032,7 +24032,7 @@ BS  38105;
 BS  38106;
 BS  38107;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL8:UP00577A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL8:UP00577A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24056,7 +24056,7 @@ BF  12733;
 XX
 P0      A      C      G      T
 01     23     14     31     32      k
-02     53     10     18     19      a
+02     53     11     18     18      a
 03      1      3      1     95      T
 04      0   0.02      0   0.98      T
 05   0.99      0      0      0      A
@@ -24089,7 +24089,7 @@ BS  38089;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND1:UP00578A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND1:UP00578A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24112,17 +24112,17 @@ XX
 BF  12733;
 XX
 P0      A      C      G      T
-01     14      6     62     18      g
+01     14      5     62     19      g
 02     10      2     79      9      G
 03   0.03      0      0   0.96      T
-04     22      1      4     73      T
+04     22      0      5     73      T
 05   0.11      0   0.88   0.01      G
 06   0.03   0.97      0      0      C
 07      0      0   0.95   0.05      G
 08      0      0      0   0.99      T
 09   0.97      0   0.03      0      A
 10     85      4     10      1      A
-11     10     31     13     46      y
+11     11     31     13     45      y
 12     17     29      8     46      y
 XX
 BS  36397;
@@ -24146,7 +24146,7 @@ BS  38089;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND1:UP00578A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND1:UP00578A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24178,7 +24178,7 @@ P0      A      C      G      T
 07      6      1     86      7      G
 08   0.39   0.60      0      0      m
 09   0.93      0   0.01   0.06      A
-10      8     80      3      9      C
+10      8     80      2     10      C
 11     16     25     12     47      y
 12     20     22     23     35      t
 XX
@@ -24203,7 +24203,7 @@ BS  19334;
 BS  37942;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND3:UP00579A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND3:UP00579A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24231,13 +24231,13 @@ P0      A      C      G      T
 03     88      3      6      3      A
 04      1     84      4     11      C
 05   0.95      0   0.03   0.02      A
-06      3     94      1      2      C
+06      4     93      1      2      C
 07      1      1     97      1      G
-08      7     40     35     18      s
-09     91      7      0      2      A
+08      7     39     36     18      s
+09     91      7      1      1      A
 10     95      1      1      3      A
 11      7     80      9      4      C
-12      6     31      6     57      y
+12      6     32      5     57      y
 XX
 BS  36530;
 BS  36534;
@@ -24260,7 +24260,7 @@ BS  19334;
 BS  37942;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND3:UP00579A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND3:UP00579A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24287,9 +24287,9 @@ P0      A      C      G      T
 02     58      4     24     14      a
 03      2     78      4     16      C
 04     93      2      2      3      A
-05      3     94      1      2      C
+05      3     94      2      1      C
 06      1      2     93      4      G
-07      1     44     21     34      y
+07      2     43     21     34      y
 08     55     41      1      3      m
 09     90      3      3      4      A
 10     14     70      9      7      C
@@ -24317,7 +24317,7 @@ BS  38082;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND7:UP00580A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND7:UP00580A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24341,16 +24341,16 @@ BF  12735;
 XX
 P0      A      C      G      T
 01     35     14     42      9      r
-02     15      8     39     38      k
+02     16      8     38     38      k
 03     78      5     10      7      A
 04      2     78      8     12      C
 05     95      1      1      3      A
 06      3     95      1      1      C
 07      1      2     96      1      G
 08      3     37     41     19      s
-09     76     21      1      2      A
-10     92      1      2      5      A
-11      7     74      9     10      C
+09     77     21      1      1      A
+10     92      2      1      5      A
+11      7     75      9      9      C
 12      2     35      5     58      y
 XX
 BS  36530;
@@ -24374,7 +24374,7 @@ BS  38082;
 BS  19606;
 BS  19607;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND7:UP00580A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND7:UP00580A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24398,17 +24398,17 @@ BF  12736;
 XX
 P0      A      C      G      T
 01     28     16     25     31      d
-02     27     32     25     16      v
+02     27     33     25     15      v
 03      6      3     84      7      G
-04      5      2     87      6      G
+04      5      3     86      6      G
 05      1      3      1     95      T
 06     56      3      5     36      w
 07      1      1     98      0      G
 08      0   0.98   0.02      0      C
-09      1      1     97      1      G
+09      0      1     98      1      G
 10      1      1      0     98      T
 11     77      7     14      2      A
-12     47     23      6     24      a
+12     47     23      7     23      a
 XX
 BS  36373;
 BS  36377;
@@ -24431,7 +24431,7 @@ BS  38004;
 BS  38005;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VOZ2:UP00581A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VOZ2:UP00581A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24455,17 +24455,17 @@ BF  12736;
 XX
 P0      A      C      G      T
 01     29     31     11     29      h
-02     30     16     27     27      d
+02     29     17     27     27      d
 03   0.75   0.01   0.24      0      A
 04      0      0   0.99   0.01      G
 05      0      0      0   0.99      T
 06   0.01   0.99      0      0      C
 07   0.98   0.01      0   0.01      A
 08   0.98      0   0.02      0      A
-09      1     97      1      1      C
+09      0     98      1      1      C
 10      3      1     95      1      G
 11     21     39     14     26      y
-12     29     27     12     32      h
+12     28     27     12     33      h
 13     27     23     37     13      r
 XX
 BS  36373;
@@ -24489,7 +24489,7 @@ BS  38004;
 BS  38005;
 BS  19606;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VOZ2:UP00581A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=VOZ2:UP00581A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24515,7 +24515,7 @@ P0      A      C      G      T
 01     17     30     19     34      y
 02     36     12     33     19      r
 03     18     28     39     15      s
-04      3     85      4      8      C
+04      2     86      4      8      C
 05      3      1     92      4      G
 06      0   0.03      0   0.97      T
 07      0      0   0.01   0.99      T
@@ -24547,7 +24547,7 @@ BS  38054;
 BS  38092;
 BS  38112;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY1:UP00582A_1:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY1:UP00582A_1:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24605,7 +24605,7 @@ BS  38054;
 BS  38092;
 BS  38112;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY1:UP00582A_2:UniPROBE
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY1:UP00582A_2:UniPROBE
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -24642,7 +24642,7 @@ P0      A      C      G      T
 12     46      0      0      0      A
 13      1     13      2      7      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB.Ph3:MYB.PH3:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB.Ph3:MYB.PH3:1)(Athamap
 XX
 CC  sequences selected with recombinant MYB.Ph3 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -24681,7 +24681,7 @@ P0      A      C      G      T
 12     23      0      4      0      A
 13      1      5      4      1      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB.Ph3:MYB.PH3:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB.Ph3:MYB.PH3:2)(Athamap
 XX
 CC  sequences selected with recombinant MYB.Ph3 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -24716,7 +24716,7 @@ P0      A      C      G      T
 08     11     13      4      8      m
 09      6      8     15      7      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=P:P:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=P:P:Athamap
 XX
 CC  sequences selected with recombinant P from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -24775,7 +24775,7 @@ BS  47200;
 BS  47201;
 BS  47202;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL3:MA0001.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL3:MA0001.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -24833,7 +24833,7 @@ BS  47280;
 BS  47281;
 BS  47282;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AG:MA0005.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AG:MA0005.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -24888,7 +24888,7 @@ BS  47359;
 BS  47360;
 BS  47361;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT5:MA0008.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT5:MA0008.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -24926,7 +24926,7 @@ P0      A      C      G      T
 11      3      1     12      0      G
 12      2      8      4      1      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT5:MA0008.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT5:MA0008.2:JASPAR
 XX
 CC  SELEX
 XX
@@ -24972,7 +24972,7 @@ BS  47571;
 BS  47572;
 BS  47573;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Dof2:MA0020.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Dof2:MA0020.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25017,7 +25017,7 @@ BS  47583;
 BS  47584;
 BS  47585;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Dof3:MA0021.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Dof3:MA0021.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25074,7 +25074,7 @@ BS  47750;
 BS  47751;
 BS  47752;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Gam1:MA0034.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Gam1:MA0034.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25131,7 +25131,7 @@ BS  47987;
 BS  47988;
 BS  47989;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HMG-I/Y:MA0045.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HMG-I/Y:MA0045.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25175,7 +25175,7 @@ BS  48144;
 BS  48145;
 BS  48146;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MNB1A:MA0053.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MNB1A:MA0053.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25231,7 +25231,7 @@ BS  48164;
 BS  48165;
 BS  48166;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=myb.Ph3:MA0054.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=myb.Ph3:MA0054.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25276,7 +25276,7 @@ BS  48361;
 BS  48362;
 BS  48363;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PBF:MA0064.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PBF:MA0064.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25337,7 +25337,7 @@ BS  48767;
 BS  48768;
 BS  48769;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=squamosa:MA0082.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=squamosa:MA0082.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25379,7 +25379,7 @@ BS  49060;
 BS  49061;
 BS  49062;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP910:MA0096.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP910:MA0096.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25423,7 +25423,7 @@ BS  49065;
 BS  49066;
 BS  49067;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP911:MA0097.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP911:MA0097.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25478,7 +25478,7 @@ BS  49463;
 BS  49464;
 BS  49465;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-5:MA0110.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-5:MA0110.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25538,7 +25538,7 @@ BS  49483;
 BS  49484;
 BS  49485;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-5:MA0110.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-5:MA0110.2:JASPAR
 XX
 CC  SELEX
 XX
@@ -25597,7 +25597,7 @@ BS  49679;
 BS  49680;
 BS  49681;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=id1:MA0120.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=id1:MA0120.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25647,7 +25647,7 @@ BS  49694;
 BS  49695;
 BS  49696;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR10:MA0121.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR10:MA0121.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25700,7 +25700,7 @@ BS  49730;
 BS  49731;
 BS  49732;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=abi4:MA0123.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=abi4:MA0123.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25746,7 +25746,7 @@ BS  49810;
 BS  49811;
 BS  49812;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EmBP-1:MA0128.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EmBP-1:MA0128.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25811,7 +25811,7 @@ BS  54409;
 BS  54410;
 BS  54411;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL15:MA0548.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL15:MA0548.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -25860,7 +25860,7 @@ P0      A      C      G      T
 19    164    152     85    187      h
 20     96    136    126    230      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZR1:MA0550.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZR1:MA0550.2:JASPAR
 XX
 CC  ChIP-chip; DAP-seq
 XX
@@ -25921,7 +25921,7 @@ BS  54736;
 BS  54737;
 BS  54738;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL14:MA0586.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL14:MA0586.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -25961,7 +25961,7 @@ P0      A      C      G      T
 10      2     28      5     14      y
 11      8     20      5     13      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAP1:MA0589.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAP1:MA0589.1:JASPAR
 XX
 CC  SELEX
 XX
@@ -25995,7 +25995,7 @@ P0      A      C      G      T
 07     98     24     35    843      T
 08     64    146     18    772      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL12:MA0932.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL12:MA0932.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26029,7 +26029,7 @@ P0      A      C      G      T
 07    648     12      3    337      w
 08     54     28     18    900      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL20:MA0933.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL20:MA0933.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26063,7 +26063,7 @@ P0      A      C      G      T
 07    375      6      4    616      w
 08     49     53     26    872      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL25:MA0934.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL25:MA0934.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26097,7 +26097,7 @@ P0      A      C      G      T
 07    459    402     48     91      m
 08    805     40     96     59      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=T11I18.17:MA0936.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=T11I18.17:MA0936.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26152,7 +26152,7 @@ BS  55050;
 BS  55051;
 BS  55052;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC055:MA0937.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC055:MA0937.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26207,7 +26207,7 @@ BS  55070;
 BS  55071;
 BS  55072;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC058:MA0938.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC058:MA0938.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26241,7 +26241,7 @@ P0      A      C      G      T
 07      3    833      2    162      C
 08     14      5    968     13      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR11:MA0946.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR11:MA0946.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26275,7 +26275,7 @@ P0      A      C      G      T
 07     10      5    960     26      G
 08     83    484    401     32      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR14:MA0947.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR14:MA0947.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26309,7 +26309,7 @@ P0      A      C      G      T
 07     30     10     19    940      T
 08    128     18    766     88      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-12:MA0950.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-12:MA0950.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26364,7 +26364,7 @@ BS  55148;
 BS  55149;
 BS  55150;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-51:MA0952.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-51:MA0952.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26424,7 +26424,7 @@ BS  55188;
 BS  55189;
 BS  55190;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB7:MA0954.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB7:MA0954.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -26461,7 +26461,7 @@ P0      A      C      G      T
 07     74    840     59     26      C
 08    893     24     64     18      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP60:MA0967.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP60:MA0967.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26495,7 +26495,7 @@ P0      A      C      G      T
 07      5    991      0      4      C
 08     21     91     14    874      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CCA1:MA0972.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CCA1:MA0972.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26529,7 +26529,7 @@ P0      A      C      G      T
 07      8    198     65    729      T
 08    238     44    557    160      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF2.5:MA0977.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF2.5:MA0977.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26563,7 +26563,7 @@ P0      A      C      G      T
 07    169      0    828      2      G
 08      1    790      1    208      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1E:MA0978.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1E:MA0978.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26597,7 +26597,7 @@ P0      A      C      G      T
 07     70    828     68     34      C
 08    100    417    329    154      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF008:MA0979.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF008:MA0979.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26631,7 +26631,7 @@ P0      A      C      G      T
 07      8    838     85     69      C
 08     33    859     16     92      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-10:MA0980.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-10:MA0980.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26665,7 +26665,7 @@ P0      A      C      G      T
 07    102    191    460    247      g
 08    174    215    408    204      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.7:MA0984.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.7:MA0984.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26699,7 +26699,7 @@ P0      A      C      G      T
 07      5    977      5     13      C
 08    806     50     27    117      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2C:MA0986.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2C:MA0986.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26761,7 +26761,7 @@ BS  55400;
 BS  55401;
 BS  55402;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF105:MA1000.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF105:MA1000.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -26798,7 +26798,7 @@ P0      A      C      G      T
 07    618    124    212     46      a
 08    575     95    191    139      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF3:MA1009.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF3:MA1009.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26832,7 +26832,7 @@ P0      A      C      G      T
 07     59    230    112    599      t
 08    382    146    282    190      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA12:MA1015.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA12:MA1015.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26866,7 +26866,7 @@ P0      A      C      G      T
 07     26     15     32    926      T
 08     28     57    193    722      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-15:MA1026.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-15:MA1026.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26928,7 +26928,7 @@ BS  54693;
 BS  54694;
 BS  54695;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB15:MA1026.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB15:MA1026.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -26965,7 +26965,7 @@ P0      A      C      G      T
 07     36    147    169    648      t
 08     63    876     18     44      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN1:MA1027.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN1:MA1027.1:JASPAR
 XX
 CC  PBM
 XX
@@ -26999,7 +26999,7 @@ P0      A      C      G      T
 07     21     26     12    941      T
 08     14    965     10     11      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN4:MA1028.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN4:MA1028.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27033,7 +27033,7 @@ P0      A      C      G      T
 07      6      4      5    985      T
 08    525     30    390     55      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB111:MA1036.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB111:MA1036.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27067,7 +27067,7 @@ P0      A      C      G      T
 07      2     33      1    964      T
 08    580     24    358     38      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB46:MA1040.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB46:MA1040.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27101,7 +27101,7 @@ P0      A      C      G      T
 07      2    958      1     39      C
 08    118     54    756     72      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB55:MA1041.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB55:MA1041.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27135,7 +27135,7 @@ P0      A      C      G      T
 07     39     40      5    916      T
 08    552    267     23    158      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB59:MA1042.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB59:MA1042.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27169,7 +27169,7 @@ P0      A      C      G      T
 07     44    943      1     12      C
 08    735     10     70    184      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF018:MA1048.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF018:MA1048.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27203,7 +27203,7 @@ P0      A      C      G      T
 07    109    780     26     85      C
 08    257    664      6     73      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-3:MA1051.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-3:MA1051.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27237,7 +27237,7 @@ P0      A      C      G      T
 07     20    947     14     20      C
 08     66    921      2     10      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-6:MA1052.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-6:MA1052.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27271,7 +27271,7 @@ P0      A      C      G      T
 07     38    862     13     86      C
 08    207    773      2     18      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF109:MA1053.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF109:MA1053.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27326,7 +27326,7 @@ BS  55555;
 BS  54736;
 BS  55556;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1:MA1055.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1:MA1055.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27385,7 +27385,7 @@ BS  55574;
 BS  55575;
 BS  55576;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL5:MA1059.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL5:MA1059.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -27422,7 +27422,7 @@ P0      A      C      G      T
 07    286    208    365    142      r
 08    118    614     41    227      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL7:MA1060.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL7:MA1060.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27473,7 +27473,7 @@ BS  55590;
 BS  55591;
 BS  55592;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP15:MA1062.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP15:MA1062.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27507,7 +27507,7 @@ P0      A      C      G      T
 07    954     10     31      5      A
 08     10    959     11     21      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP23:MA1066.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP23:MA1066.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27562,7 +27562,7 @@ BS  55618;
 BS  55619;
 BS  55620;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2:MA1068.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2:MA1068.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27596,7 +27596,7 @@ P0      A      C      G      T
 07     29    949      5     16      C
 08     25    722    101    151      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY12:MA1075.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY12:MA1075.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27630,7 +27630,7 @@ P0      A      C      G      T
 07     16    951     13     20      C
 08     15    679     17    289      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY38:MA1084.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY38:MA1084.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27687,7 +27687,7 @@ BS  55711;
 BS  55712;
 BS  55713;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY40:MA1085.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY40:MA1085.2:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -27742,7 +27742,7 @@ BS  55731;
 BS  55732;
 BS  55733;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY45:MA1087.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY45:MA1087.1:JASPAR
 XX
 CC  PBM
 XX
@@ -27809,7 +27809,7 @@ BS  56281;
 BS  56282;
 BS  56283;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=JKD:MA1156.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=JKD:MA1156.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -27858,7 +27858,7 @@ P0      A      C      G      T
 19     24    148     55    343      y
 20    131     54    227    158      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NUC:MA1157.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NUC:MA1157.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -27907,7 +27907,7 @@ P0      A      C      G      T
 19    257     80     94    163      w
 20    263     68    104    159      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MGP:MA1158.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MGP:MA1158.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -27973,7 +27973,7 @@ BS  56301;
 BS  56302;
 BS  56303;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SGR5:MA1159.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SGR5:MA1159.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28022,7 +28022,7 @@ P0      A      C      G      T
 19      4     66      4    168      Y
 20     38     15    117     72      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G14580:MA1160.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G14580:MA1160.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28066,7 +28066,7 @@ P0      A      C      G      T
 14    264      0      0      0      A
 15    264      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TSO1:MA1161.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TSO1:MA1161.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28129,7 +28129,7 @@ BS  56319;
 BS  56320;
 BS  56321;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCX2:MA1162.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCX2:MA1162.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28194,7 +28194,7 @@ BS  56339;
 BS  56340;
 BS  56341;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G45580:MA1163.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G45580:MA1163.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28255,7 +28255,7 @@ BS  56359;
 BS  56360;
 BS  56361;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G37180:MA1164.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G37180:MA1164.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28315,7 +28315,7 @@ BS  56378;
 BS  56379;
 BS  56380;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G49560:MA1165.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G49560:MA1165.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28358,7 +28358,7 @@ P0      A      C      G      T
 13      0     86      0     19      C
 14      7     44     14     40      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G12730:MA1166.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G12730:MA1166.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28419,7 +28419,7 @@ BS  56398;
 BS  56399;
 BS  56400;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G03500:MA1167.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G03500:MA1167.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28483,7 +28483,7 @@ BS  56414;
 BS  56415;
 BS  56416;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G04030:MA1168.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G04030:MA1168.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28525,7 +28525,7 @@ P0      A      C      G      T
 12      0      0      1     94      T
 13     80      2      6      7      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB105:MA1169.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB105:MA1169.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28571,7 +28571,7 @@ P0      A      C      G      T
 16    123     24     23    108      w
 17    138     22     18    100      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB118:MA1170.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB118:MA1170.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28611,7 +28611,7 @@ P0      A      C      G      T
 10      0      0      0    109      T
 11     81      0     10     18      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB52:MA1171.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB52:MA1171.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28674,7 +28674,7 @@ BS  56432;
 BS  56433;
 BS  56434;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3R5:MA1172.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3R5:MA1172.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28738,7 +28738,7 @@ BS  56451;
 BS  56452;
 BS  56453;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB101:MA1173.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB101:MA1173.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28803,7 +28803,7 @@ BS  56471;
 BS  56472;
 BS  56473;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB56:MA1174.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB56:MA1174.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28861,7 +28861,7 @@ BS  56488;
 BS  56489;
 BS  56490;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB81:MA1175.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB81:MA1175.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28921,7 +28921,7 @@ BS  56507;
 BS  56508;
 BS  56509;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB119:MA1176.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB119:MA1176.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -28980,7 +28980,7 @@ BS  56523;
 BS  56524;
 BS  56525;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB65:MA1177.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB65:MA1177.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29045,7 +29045,7 @@ BS  56542;
 BS  56543;
 BS  56544;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3R1:MA1178.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3R1:MA1178.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29093,7 +29093,7 @@ P0      A      C      G      T
 18     28     23     17     76      t
 19     60      3     39     42      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB1:MA1179.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB1:MA1179.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29156,7 +29156,7 @@ BS  56551;
 BS  56541;
 BS  56540;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3R4:MA1180.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3R4:MA1180.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29196,7 +29196,7 @@ P0      A      C      G      T
 10    548      0     38      0      A
 11     40    139     89    318      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB113:MA1181.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB113:MA1181.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29257,7 +29257,7 @@ BS  56568;
 BS  56569;
 BS  56570;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g09600:MA1182.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g09600:MA1182.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29318,7 +29318,7 @@ BS  56588;
 BS  56589;
 BS  56590;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g52660:MA1183.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g52660:MA1183.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29382,7 +29382,7 @@ BS  56608;
 BS  56609;
 BS  56610;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RVE1:MA1184.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RVE1:MA1184.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29443,7 +29443,7 @@ BS  56628;
 BS  56629;
 BS  56630;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LHY1:MA1185.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LHY1:MA1185.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29508,7 +29508,7 @@ BS  56648;
 BS  56649;
 BS  56650;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g49010:MA1186.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g49010:MA1186.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29568,7 +29568,7 @@ BS  56668;
 BS  56669;
 BS  56670;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LCL1:MA1187.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LCL1:MA1187.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29629,7 +29629,7 @@ BS  56685;
 BS  56686;
 BS  56687;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g11280:MA1188.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g11280:MA1188.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29694,7 +29694,7 @@ BS  56705;
 BS  56706;
 BS  56707;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G61620:MA1189.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G61620:MA1189.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29755,7 +29755,7 @@ BS  56720;
 BS  56571;
 BS  56721;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g01280:MA1190.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g01280:MA1190.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29820,7 +29820,7 @@ BS  56739;
 BS  56740;
 BS  56741;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10113:MA1191.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10113:MA1191.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29864,7 +29864,7 @@ P0      A      C      G      T
 14    232     53    108    187      w
 15    188     63    131    198      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g58900:MA1192.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g58900:MA1192.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29914,7 +29914,7 @@ P0      A      C      G      T
 20     30      6     18     10      r
 21     21      0     24     19      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g38090:MA1193.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g38090:MA1193.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -29958,7 +29958,7 @@ P0      A      C      G      T
 14     63      0      0     77      w
 15     12     22     12     94      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10580:MA1194.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10580:MA1194.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30022,7 +30022,7 @@ BS  56695;
 BS  56753;
 BS  56754;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G56840:MA1195.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G56840:MA1195.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30087,7 +30087,7 @@ BS  56772;
 BS  56773;
 BS  56774;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g05790:MA1196.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g05790:MA1196.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30148,7 +30148,7 @@ BS  56790;
 BS  56791;
 BS  56792;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CAMTA1:MA1197.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CAMTA1:MA1197.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30188,7 +30188,7 @@ P0      A      C      G      T
 10    114     42     36    406      t
 11    229     52    131    186      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT2:MA1198.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT2:MA1198.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30232,7 +30232,7 @@ P0      A      C      G      T
 14    210     44     12    152      w
 15    358     15      8     37      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL16:MA1199.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL16:MA1199.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30279,7 +30279,7 @@ P0      A      C      G      T
 17    149     20     20     41      a
 18    147     24     27     32      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL25:MA1200.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL25:MA1200.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30315,7 +30315,7 @@ P0      A      C      G      T
 06      0      0      0    146      T
 07     17     73     16     40      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL42:MA1201.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL42:MA1201.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30350,7 +30350,7 @@ P0      A      C      G      T
 05      0     90      0      0      C
 06     90      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL55:MA1202.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL55:MA1202.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30415,7 +30415,7 @@ BS  56810;
 BS  56811;
 BS  56812;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL63:MA1203.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL63:MA1203.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30462,7 +30462,7 @@ P0      A      C      G      T
 17    126     14     41     38      a
 18     90     19     20     90      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL13:MA1204.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL13:MA1204.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30510,7 +30510,7 @@ P0      A      C      G      T
 18    256     27     46    153      w
 19    237     41     26    178      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL6:MA1205.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL6:MA1205.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30570,7 +30570,7 @@ BS  56830;
 BS  56831;
 BS  56832;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF2:MA1206.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF2:MA1206.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30636,7 +30636,7 @@ BS  56849;
 BS  56850;
 BS  56851;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT3a:MA1207.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT3a:MA1207.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30720,7 +30720,7 @@ BS  68003;
 BS  56871;
 BS  68005;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT2:MA1208.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT2:MA1208.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30760,7 +30760,7 @@ P0      A      C      G      T
 10     71     19    110     30      r
 11    131     27     31     41      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB20:MA1209.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB20:MA1209.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30799,7 +30799,7 @@ P0      A      C      G      T
 09      1      2      1    128      T
 10     17     10     14     91      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT22:MA1210.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT22:MA1210.1:JASPAR
 XX
 CC  ChIP-seq; DAP-seq
 XX
@@ -30859,7 +30859,7 @@ BS  56885;
 BS  56886;
 BS  56887;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB18:MA1211.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB18:MA1211.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30920,7 +30920,7 @@ BS  49473;
 BS  56900;
 BS  56901;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB13:MA1212.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB13:MA1212.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -30984,7 +30984,7 @@ BS  56919;
 BS  56920;
 BS  56921;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB21:MA1213.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB21:MA1213.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31055,7 +31055,7 @@ BS  56939;
 BS  56940;
 BS  56941;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB40:MA1214.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB40:MA1214.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31116,7 +31116,7 @@ BS  56955;
 BS  56956;
 BS  56957;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB53:MA1215.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB53:MA1215.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31179,7 +31179,7 @@ BS  56975;
 BS  56976;
 BS  56977;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP21:MA1216.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP21:MA1216.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31244,7 +31244,7 @@ BS  56995;
 BS  56996;
 BS  56997;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF2:MA1217.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF2:MA1217.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31307,7 +31307,7 @@ BS  57015;
 BS  57016;
 BS  57017;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF4:MA1218.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF4:MA1218.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31372,7 +31372,7 @@ BS  57035;
 BS  57036;
 BS  57037;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CEJ1:MA1219.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CEJ1:MA1219.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31436,7 +31436,7 @@ BS  57054;
 BS  57055;
 BS  57056;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TINY:MA1220.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TINY:MA1220.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31498,7 +31498,7 @@ BS  57059;
 BS  55405;
 BS  57060;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP26:MA1221.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP26:MA1221.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31562,7 +31562,7 @@ BS  57070;
 BS  57071;
 BS  57072;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G44830:MA1222.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G44830:MA1222.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31605,7 +31605,7 @@ P0      A      C      G      T
 13     56     19    472     38      G
 14    161     71    323     30      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G60490:MA1223.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G60490:MA1223.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31666,7 +31666,7 @@ BS  57089;
 BS  57090;
 BS  57091;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF1:MA1224.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF1:MA1224.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31731,7 +31731,7 @@ BS  57102;
 BS  57103;
 BS  57104;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF5:MA1225.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF5:MA1225.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31796,7 +31796,7 @@ BS  57122;
 BS  57123;
 BS  57124;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G18450:MA1226.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G18450:MA1226.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31866,7 +31866,7 @@ BS  57141;
 BS  57142;
 BS  57143;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G12630:MA1227.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G12630:MA1227.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31934,7 +31934,7 @@ BS  57161;
 BS  57162;
 BS  57163;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G18450:MA1228.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G18450:MA1228.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -31978,7 +31978,7 @@ P0      A      C      G      T
 14    145     63    217    135      r
 15    151     78    164    167      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G44940:MA1229.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G44940:MA1229.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32041,7 +32041,7 @@ BS  57180;
 BS  57181;
 BS  57182;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G77200:MA1230.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G77200:MA1230.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32106,7 +32106,7 @@ BS  57200;
 BS  57201;
 BS  57202;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF15:MA1231.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF15:MA1231.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32155,7 +32155,7 @@ P0      A      C      G      T
 19    121     97    245    104      g
 20    144     85    231    107      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G28140:MA1232.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G28140:MA1232.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32226,7 +32226,7 @@ BS  57220;
 BS  57221;
 BS  57222;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G71450:MA1233.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G71450:MA1233.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32289,7 +32289,7 @@ BS  57239;
 BS  57240;
 BS  57241;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G19210:MA1234.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G19210:MA1234.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32350,7 +32350,7 @@ BS  57259;
 BS  57260;
 BS  57261;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AIL7:MA1235.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AIL7:MA1235.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32418,7 +32418,7 @@ BS  57278;
 BS  57279;
 BS  57280;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ESE3:MA1236.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ESE3:MA1236.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32483,7 +32483,7 @@ BS  57298;
 BS  57299;
 BS  57300;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G16750:MA1237.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G16750:MA1237.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32546,7 +32546,7 @@ BS  57020;
 BS  57314;
 BS  57315;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF38:MA1238.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF38:MA1238.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32594,7 +32594,7 @@ P0      A      C      G      T
 18     40    274     51    192      y
 19    130    218     60    149      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF104:MA1239.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF104:MA1239.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32665,7 +32665,7 @@ BS  57333;
 BS  57334;
 BS  57335;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF10:MA1240.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF10:MA1240.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32730,7 +32730,7 @@ BS  57352;
 BS  57353;
 BS  57354;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G32800:MA1241.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G32800:MA1241.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32770,7 +32770,7 @@ P0      A      C      G      T
 10     21    438      0     19      C
 11     20    346      2    110      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G57600:MA1242.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G57600:MA1242.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32837,7 +32837,7 @@ BS  57372;
 BS  57373;
 BS  57374;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB19:MA1243.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB19:MA1243.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32906,7 +32906,7 @@ BS  57392;
 BS  57393;
 BS  57394;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABR1:MA1244.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABR1:MA1244.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -32970,7 +32970,7 @@ BS  55420;
 BS  57060;
 BS  55404;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G33710:MA1245.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G33710:MA1245.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33041,7 +33041,7 @@ BS  57412;
 BS  57413;
 BS  57414;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEP:MA1246.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEP:MA1246.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33104,7 +33104,7 @@ BS  55416;
 BS  55405;
 BS  57092;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G28160:MA1247.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G28160:MA1247.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33153,7 +33153,7 @@ P0      A      C      G      T
 19    299    171      0     98      m
 20      0    558      0     10      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB26:MA1248.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB26:MA1248.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33219,7 +33219,7 @@ BS  57434;
 BS  57435;
 BS  57436;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP210:MA1249.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP210:MA1249.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33263,7 +33263,7 @@ P0      A      C      G      T
 14     21    395      8    133      C
 15    237     21    127    172      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G75490:MA1250.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G75490:MA1250.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33332,7 +33332,7 @@ BS  57454;
 BS  57455;
 BS  57456;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR5:MA1251.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR5:MA1251.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33376,7 +33376,7 @@ P0      A      C      G      T
 14    104    214     34    126      y
 15    194     37    123    124      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PUCHI:MA1252.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PUCHI:MA1252.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33419,7 +33419,7 @@ P0      A      C      G      T
 13    171    165     68    157      h
 14    164     72    187    138      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G16280:MA1253.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G16280:MA1253.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33463,7 +33463,7 @@ P0      A      C      G      T
 14    143     47    127    253      w
 15     84    231     77    178      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF13:MA1254.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF13:MA1254.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33527,7 +33527,7 @@ BS  57112;
 BS  57113;
 BS  57471;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G22810:MA1255.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G22810:MA1255.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33598,7 +33598,7 @@ BS  57489;
 BS  57490;
 BS  57491;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP212:MA1256.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP212:MA1256.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33648,7 +33648,7 @@ P0      A      C      G      T
 20     52      8    439     56      G
 21    161     71    264     59      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF9:MA1257.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF9:MA1257.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33698,7 +33698,7 @@ P0      A      C      G      T
 20    149     87    225    120      r
 21    182     91    206    102      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2:MA1258.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2:MA1258.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33763,7 +33763,7 @@ BS  57509;
 BS  57510;
 BS  57511;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G01250:MA1259.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G01250:MA1259.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33813,7 +33813,7 @@ P0      A      C      G      T
 20    104     45    351     41      g
 21    198    128     60    155      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G77640:MA1260.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G77640:MA1260.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33857,7 +33857,7 @@ P0      A      C      G      T
 14      0     10     91     37      k
 15     25     26     67     20      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G67000:MA1261.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G67000:MA1261.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33928,7 +33928,7 @@ BS  55350;
 BS  57526;
 BS  57527;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF2:MA1262.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF2:MA1262.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -33992,7 +33992,7 @@ BS  57545;
 BS  57546;
 BS  57233;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G36060:MA1263.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G36060:MA1263.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34058,7 +34058,7 @@ BS  55424;
 BS  55418;
 BS  55405;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ESE1:MA1264.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ESE1:MA1264.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34128,7 +34128,7 @@ BS  57572;
 BS  57573;
 BS  57574;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G31060:MA1265.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G31060:MA1265.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34192,7 +34192,7 @@ BS  57591;
 BS  57592;
 BS  57593;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP211:MA1266.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP211:MA1266.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34271,7 +34271,7 @@ BS  57611;
 BS  57612;
 BS  57613;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G66940:MA1267.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G66940:MA1267.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34347,7 +34347,7 @@ BS  57630;
 BS  57631;
 BS  57632;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G69570:MA1268.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G69570:MA1268.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34411,7 +34411,7 @@ BS  57650;
 BS  57651;
 BS  57652;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof4.5:MA1269.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof4.5:MA1269.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34480,7 +34480,7 @@ BS  57670;
 BS  57671;
 BS  57672;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G45610:MA1270.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G45610:MA1270.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34541,7 +34541,7 @@ BS  57690;
 BS  57691;
 BS  57692;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DAG2:MA1271.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DAG2:MA1271.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34612,7 +34612,7 @@ BS  57710;
 BS  57711;
 BS  57712;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G28810:MA1272.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G28810:MA1272.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34680,7 +34680,7 @@ BS  57729;
 BS  57730;
 BS  57731;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof4.2:MA1273.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof4.2:MA1273.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34752,7 +34752,7 @@ BS  57749;
 BS  57750;
 BS  57751;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP3:MA1274.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP3:MA1274.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34813,7 +34813,7 @@ BS  57769;
 BS  57770;
 BS  57771;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G47655:MA1275.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G47655:MA1275.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34874,7 +34874,7 @@ BS  57682;
 BS  57786;
 BS  57787;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G52440:MA1276.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G52440:MA1276.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -34945,7 +34945,7 @@ BS  57805;
 BS  57806;
 BS  57807;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Adof1:MA1277.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Adof1:MA1277.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35016,7 +35016,7 @@ BS  57824;
 BS  57825;
 BS  57826;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP1:MA1278.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP1:MA1278.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35087,7 +35087,7 @@ BS  57842;
 BS  55311;
 BS  57843;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=COG1:MA1279.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=COG1:MA1279.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35151,7 +35151,7 @@ BS  57861;
 BS  57862;
 BS  57863;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP4:MA1280.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP4:MA1280.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35222,7 +35222,7 @@ BS  57709;
 BS  57693;
 BS  57877;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G02460:MA1281.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G02460:MA1281.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35264,7 +35264,7 @@ P0      A      C      G      T
 12     57     16     12     45      w
 13     50     10     27     43      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PTF1:MA1282.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PTF1:MA1282.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35313,7 +35313,7 @@ P0      A      C      G      T
 19     43      0      4      0      A
 20      0     47      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP14:MA1283.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP14:MA1283.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35372,7 +35372,7 @@ P0      A      C      G      T
 29     36     19     21     19      a
 30     12     35      8     40      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP1:MA1284.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP1:MA1284.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35430,7 +35430,7 @@ BS  57882;
 BS  57883;
 BS  57884;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g45680:MA1285.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g45680:MA1285.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35492,7 +35492,7 @@ BS  57902;
 BS  57903;
 BS  57904;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP24:MA1286.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP24:MA1286.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35552,7 +35552,7 @@ BS  57918;
 BS  57919;
 BS  57920;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g08330:MA1287.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g08330:MA1287.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35613,7 +35613,7 @@ BS  57929;
 BS  57930;
 BS  57931;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g72010:MA1288.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g72010:MA1288.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35672,7 +35672,7 @@ BS  57945;
 BS  57946;
 BS  57947;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP3:MA1289.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP3:MA1289.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35712,7 +35712,7 @@ P0      A      C      G      T
 10     90      6      6      6      A
 11      9     77      9     13      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP17:MA1290.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP17:MA1290.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35760,7 +35760,7 @@ BS  57952;
 BS  57953;
 BS  57954;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP7:MA1291.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP7:MA1291.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35825,7 +35825,7 @@ BS  57972;
 BS  57973;
 BS  57974;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB27:MA1292.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB27:MA1292.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35889,7 +35889,7 @@ BS  57992;
 BS  57993;
 BS  57994;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB57:MA1293.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB57:MA1293.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35933,7 +35933,7 @@ P0      A      C      G      T
 14    228     47     71     94      a
 15    130     66    134    110      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB62:MA1294.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB62:MA1294.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -35996,7 +35996,7 @@ BS  58011;
 BS  58012;
 BS  58013;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY20:MA1295.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY20:MA1295.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36036,7 +36036,7 @@ P0      A      C      G      T
 10      3      4      0     15      T
 11      1      4      9      8      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY46:MA1296.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY46:MA1296.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36078,7 +36078,7 @@ P0      A      C      G      T
 12     21     22     24     17      v
 13     18     22      5     39      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY26:MA1297.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY26:MA1297.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36138,7 +36138,7 @@ BS  55643;
 BS  58017;
 BS  58018;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY29:MA1298.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY29:MA1298.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36181,7 +36181,7 @@ P0      A      C      G      T
 13     32     38     32     25      v
 14     28     42     16     41      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY17:MA1299.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY17:MA1299.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36250,7 +36250,7 @@ BS  70454;
 BS  70455;
 BS  70456;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY6:MA1300.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY6:MA1300.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36308,7 +36308,7 @@ BS  58023;
 BS  55689;
 BS  55633;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY33:MA1301.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY33:MA1301.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36369,7 +36369,7 @@ BS  58029;
 BS  58030;
 BS  58031;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY65:MA1302.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY65:MA1302.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36432,7 +36432,7 @@ BS  58043;
 BS  58044;
 BS  58045;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY22:MA1303.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY22:MA1303.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36473,7 +36473,7 @@ P0      A      C      G      T
 11     93     62      6     12      m
 12     46     38     58     31      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY59:MA1304.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY59:MA1304.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36534,7 +36534,7 @@ BS  58062;
 BS  58063;
 BS  58064;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY55:MA1305.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY55:MA1305.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36577,7 +36577,7 @@ P0      A      C      G      T
 13    102     70     93    332      t
 14    144     85    139    229      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY11:MA1306.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY11:MA1306.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36625,7 +36625,7 @@ P0      A      C      G      T
 18      7    244      0      0      C
 19     30     17    169     35      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY31:MA1307.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY31:MA1307.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36687,7 +36687,7 @@ BS  58076;
 BS  58077;
 BS  58045;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY70:MA1308.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY70:MA1308.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36747,7 +36747,7 @@ BS  55640;
 BS  55674;
 BS  58019;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY3:MA1309.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY3:MA1309.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36797,7 +36797,7 @@ P0      A      C      G      T
 20     82     45     38    144      w
 21     63     48     92    106      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY42:MA1310.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY42:MA1310.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36860,7 +36860,7 @@ BS  58091;
 BS  55735;
 BS  58092;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY28:MA1311.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY28:MA1311.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36903,7 +36903,7 @@ P0      A      C      G      T
 13      1     33      1     53      y
 14     34     13      3     38      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY47:MA1312.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY47:MA1312.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -36967,7 +36967,7 @@ BS  58110;
 BS  58111;
 BS  58112;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY7:MA1313.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY7:MA1313.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37028,7 +37028,7 @@ BS  58117;
 BS  58071;
 BS  58077;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY14:MA1314.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY14:MA1314.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37091,7 +37091,7 @@ BS  58134;
 BS  58135;
 BS  58136;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY24:MA1315.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY24:MA1315.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37152,7 +37152,7 @@ BS  58027;
 BS  58142;
 BS  58143;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY71:MA1316.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY71:MA1316.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37214,7 +37214,7 @@ BS  58160;
 BS  58161;
 BS  58162;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY50:MA1317.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY50:MA1317.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37275,7 +37275,7 @@ BS  58117;
 BS  58113;
 BS  58166;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY27:MA1318.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY27:MA1318.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37312,7 +37312,7 @@ P0      A      C      G      T
 07      0    158      0      0      C
 08     68     29     33     28      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL3:MA1319.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL3:MA1319.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37355,7 +37355,7 @@ P0      A      C      G      T
 13     69    106     18     53      m
 14     94     44     66     42      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL15:MA1320.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL15:MA1320.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37415,7 +37415,7 @@ BS  58183;
 BS  58184;
 BS  58185;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL13:MA1321.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL13:MA1321.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37476,7 +37476,7 @@ BS  58202;
 BS  58203;
 BS  58204;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL9:MA1322.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL9:MA1322.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37537,7 +37537,7 @@ BS  58222;
 BS  58223;
 BS  58224;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA19:MA1323.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA19:MA1323.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37574,7 +37574,7 @@ P0      A      C      G      T
 07      0      0      0     76      T
 08      2     73      0      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA20:MA1324.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA20:MA1324.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37618,7 +37618,7 @@ P0      A      C      G      T
 14     86    124     97    244      t
 15     99    125    119    208      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA14:MA1325.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA14:MA1325.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37678,7 +37678,7 @@ BS  58241;
 BS  58242;
 BS  58243;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB33:MA1326.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB33:MA1326.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37750,7 +37750,7 @@ BS  58261;
 BS  58262;
 BS  58263;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB23:MA1327.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB23:MA1327.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37813,7 +37813,7 @@ BS  58278;
 BS  58279;
 BS  58280;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB34:MA1328.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB34:MA1328.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37878,7 +37878,7 @@ BS  58298;
 BS  58299;
 BS  58300;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB25:MA1329.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB25:MA1329.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -37943,7 +37943,7 @@ BS  58313;
 BS  58314;
 BS  58295;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB24:MA1330.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB24:MA1330.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38004,7 +38004,7 @@ BS  58332;
 BS  58333;
 BS  58334;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G78700:MA1331.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G78700:MA1331.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38066,7 +38066,7 @@ BS  58320;
 BS  58328;
 BS  58331;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G36780:MA1332.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G36780:MA1332.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38127,7 +38127,7 @@ BS  58346;
 BS  58347;
 BS  58327;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G18890:MA1333.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G18890:MA1333.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38191,7 +38191,7 @@ BS  58364;
 BS  58365;
 BS  58366;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF6:MA1334.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF6:MA1334.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38252,7 +38252,7 @@ BS  58384;
 BS  58385;
 BS  58386;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA4:MA1335.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA4:MA1335.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38315,7 +38315,7 @@ BS  55546;
 BS  55532;
 BS  55545;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA3:MA1336.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA3:MA1336.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38379,7 +38379,7 @@ BS  58362;
 BS  58364;
 BS  58365;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP44:MA1337.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP44:MA1337.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38443,7 +38443,7 @@ BS  58406;
 BS  58407;
 BS  58408;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AREB3:MA1338.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AREB3:MA1338.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38484,7 +38484,7 @@ P0      A      C      G      T
 11      3     25      0      0      C
 12     18      3      1      6      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP43:MA1339.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP43:MA1339.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38549,7 +38549,7 @@ BS  58364;
 BS  58363;
 BS  58349;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP3:MA1340.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP3:MA1340.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38612,7 +38612,7 @@ BS  58364;
 BS  58363;
 BS  58365;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP53:MA1341.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP53:MA1341.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38679,7 +38679,7 @@ BS  58433;
 BS  58434;
 BS  58435;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP50:MA1342.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP50:MA1342.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38743,7 +38743,7 @@ BS  58453;
 BS  58454;
 BS  58455;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP52:MA1343.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP52:MA1343.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38806,7 +38806,7 @@ BS  58412;
 BS  58467;
 BS  58468;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP28:MA1344.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP28:MA1344.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38869,7 +38869,7 @@ BS  58485;
 BS  58486;
 BS  58487;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP48:MA1345.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP48:MA1345.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38933,7 +38933,7 @@ BS  54752;
 BS  55621;
 BS  54757;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA10:MA1346.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA10:MA1346.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -38997,7 +38997,7 @@ BS  58363;
 BS  58354;
 BS  58351;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP68:MA1347.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP68:MA1347.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39057,7 +39057,7 @@ BS  58509;
 BS  58510;
 BS  58511;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA9:MA1348.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA9:MA1348.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39122,7 +39122,7 @@ BS  58520;
 BS  58521;
 BS  58387;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP16:MA1349.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP16:MA1349.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39163,7 +39163,7 @@ P0      A      C      G      T
 11      0      0     58      9      G
 12     18     49      0      0      M
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP42:MA1350.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP42:MA1350.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39228,7 +39228,7 @@ BS  58363;
 BS  58365;
 BS  58456;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF3:MA1351.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF3:MA1351.1:JASPAR
 XX
 CC  ChIP-seq; DAP-seq
 XX
@@ -39291,7 +39291,7 @@ BS  58529;
 BS  58530;
 BS  58531;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP1:MA1352.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP1:MA1352.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39353,7 +39353,7 @@ BS  58543;
 BS  58544;
 BS  58545;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G72740:MA1353.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G72740:MA1353.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39411,7 +39411,7 @@ P0      A      C      G      T
 28      0     39      1      2      C
 29      0     32      4      6      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G12670:MA1354.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G12670:MA1354.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39481,7 +39481,7 @@ BS  58563;
 BS  58564;
 BS  58565;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TBP3:MA1355.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TBP3:MA1355.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39543,7 +39543,7 @@ BS  58575;
 BS  58576;
 BS  58577;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP2:MA1356.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP2:MA1356.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39604,7 +39604,7 @@ BS  58595;
 BS  58596;
 BS  58597;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH80:MA1357.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH80:MA1357.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39645,7 +39645,7 @@ P0      A      C      G      T
 10     18    105     17     45      c
 11     79     52     19     35      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH130:MA1358.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH130:MA1358.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39715,7 +39715,7 @@ BS  58614;
 BS  58615;
 BS  58616;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH31:MA1359.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH31:MA1359.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39765,7 +39765,7 @@ P0      A      C      G      T
 20     39     87     36     36      c
 21     83     11     18     86      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH74:MA1360.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH74:MA1360.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39811,7 +39811,7 @@ P0      A      C      G      T
 16     29     34     79     59      k
 17     39     60     34     68      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH18:MA1361.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH18:MA1361.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39855,7 +39855,7 @@ P0      A      C      G      T
 14     28     36      0     11      m
 15     10     10     28     27      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH77:MA1362.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH77:MA1362.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39899,7 +39899,7 @@ P0      A      C      G      T
 14      0      0      0     34      T
 15      0      1     33      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH69:MA1363.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH69:MA1363.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39943,7 +39943,7 @@ P0      A      C      G      T
 14      0      0    110      2      G
 15      5     24     65     18      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF7:MA1364.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF7:MA1364.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -39987,7 +39987,7 @@ P0      A      C      G      T
 14     23     24    169     28      G
 15     12     83      6    143      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G47660:MA1365.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G47660:MA1365.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40053,7 +40053,7 @@ BS  58634;
 BS  58635;
 BS  58636;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G76880:MA1366.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G76880:MA1366.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40096,7 +40096,7 @@ P0      A      C      G      T
 13    177     71     53    155      w
 14    229     46     35    146      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G76870:MA1367.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G76870:MA1367.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40146,7 +40146,7 @@ P0      A      C      G      T
 20     17     41      7     13      c
 21     24     38      4     12      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G25990:MA1368.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G25990:MA1368.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40210,7 +40210,7 @@ BS  58654;
 BS  58655;
 BS  58656;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HDG1:MA1369.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HDG1:MA1369.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40255,7 +40255,7 @@ P0      A      C      G      T
 15      6     44      3    107      y
 16     31     14     78     37      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD5:MA1370.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD5:MA1370.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40322,7 +40322,7 @@ BS  58674;
 BS  58675;
 BS  58676;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD4:MA1371.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD4:MA1371.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40383,7 +40383,7 @@ BS  58694;
 BS  58695;
 BS  58696;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STZ:MA1372.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=STZ:MA1372.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40427,7 +40427,7 @@ P0      A      C      G      T
 14     91      0      3      0      A
 15     75      7      0     12      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD2:MA1373.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD2:MA1373.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40495,7 +40495,7 @@ BS  58714;
 BS  58715;
 BS  58716;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD7:MA1374.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD7:MA1374.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40556,7 +40556,7 @@ BS  58729;
 BS  58650;
 BS  58730;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANL2:MA1375.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANL2:MA1375.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40622,7 +40622,7 @@ BS  58743;
 BS  58744;
 BS  58745;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR3:MA1376.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR3:MA1376.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40670,7 +40670,7 @@ P0      A      C      G      T
 18     80     28     49     38      r
 19     72     33     54     36      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PLT1:MA1377.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PLT1:MA1377.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40735,7 +40735,7 @@ BS  58763;
 BS  58764;
 BS  58765;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PLT3:MA1378.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PLT3:MA1378.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40801,7 +40801,7 @@ BS  58780;
 BS  58781;
 BS  58782;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SOL1:MA1379.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SOL1:MA1379.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40866,7 +40866,7 @@ BS  58798;
 BS  58799;
 BS  58777;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G20110:MA1380.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G20110:MA1380.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40910,7 +40910,7 @@ P0      A      C      G      T
 14     59     78     13     52      h
 15     63     65     16     58      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G46070:MA1381.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G46070:MA1381.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -40972,7 +40972,7 @@ BS  58814;
 BS  58815;
 BS  58816;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FAR1:MA1382.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=FAR1:MA1382.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41016,7 +41016,7 @@ P0      A      C      G      T
 14     24     55     12    123      y
 15     46     40     12    116      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN2:MA1383.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN2:MA1383.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41079,7 +41079,7 @@ BS  58834;
 BS  58835;
 BS  58836;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G01060:MA1384.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G01060:MA1384.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41142,7 +41142,7 @@ BS  58852;
 BS  58853;
 BS  58854;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G40260:MA1385.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G40260:MA1385.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41202,7 +41202,7 @@ BS  58869;
 BS  58870;
 BS  58871;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G25550:MA1386.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G25550:MA1386.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41246,7 +41246,7 @@ P0      A      C      G      T
 14      0    596      0      0      C
 15     43    250     28    275      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G13300:MA1387.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G13300:MA1387.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41305,7 +41305,7 @@ BS  58889;
 BS  58890;
 BS  58891;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G24120:MA1388.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G24120:MA1388.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41370,7 +41370,7 @@ BS  58909;
 BS  58910;
 BS  58911;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G29000:MA1389.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G29000:MA1389.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41433,7 +41433,7 @@ BS  58929;
 BS  58930;
 BS  58931;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G68670:MA1390.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G68670:MA1390.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41494,7 +41494,7 @@ BS  58947;
 BS  58948;
 BS  58949;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB33:MA1391.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB33:MA1391.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41558,7 +41558,7 @@ BS  58966;
 BS  58967;
 BS  58968;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB98:MA1392.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB98:MA1392.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41621,7 +41621,7 @@ BS  58985;
 BS  58986;
 BS  58987;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB70:MA1393.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB70:MA1393.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41678,7 +41678,7 @@ BS  59001;
 BS  59002;
 BS  59003;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB73:MA1394.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB73:MA1394.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41743,7 +41743,7 @@ BS  59021;
 BS  59022;
 BS  59023;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB77:MA1395.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB77:MA1395.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41785,7 +41785,7 @@ P0      A      C      G      T
 12     91    162     53    111      y
 13     99    117     44    157      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA6:MA1396.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA6:MA1396.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41844,7 +41844,7 @@ BS  59039;
 BS  59040;
 BS  59041;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g74840:MA1397.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g74840:MA1397.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41909,7 +41909,7 @@ BS  59059;
 BS  59060;
 BS  59061;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g47390:MA1398.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g47390:MA1398.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -41972,7 +41972,7 @@ BS  59079;
 BS  59080;
 BS  59081;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g08520:MA1399.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g08520:MA1399.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42035,7 +42035,7 @@ BS  59098;
 BS  59099;
 BS  59100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g19000:MA1400.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g19000:MA1400.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42097,7 +42097,7 @@ BS  59118;
 BS  59119;
 BS  59120;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EPR1:MA1401.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EPR1:MA1401.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42147,7 +42147,7 @@ P0      A      C      G      T
 20      3      2      2    181      T
 21     50    123      1     14      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPC6:MA1402.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPC6:MA1402.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42206,7 +42206,7 @@ P0      A      C      G      T
 29    100      2      0      0      A
 30      5      3     91      3      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPC5:MA1403.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPC5:MA1403.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42271,7 +42271,7 @@ BS  59129;
 BS  59130;
 BS  59131;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPC1:MA1404.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPC1:MA1404.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -42310,7 +42310,7 @@ P0      A      C      G      T
 09    530  20496  78711    264      G
 10   2662   8331    627  88380      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SIZF2:MA1405.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SIZF2:MA1405.1:JASPAR
 XX
 CC  PBM
 XX
@@ -42346,7 +42346,7 @@ P0      A      C      G      T
 09  18045   3599  68409   9947      G
 10  12542  33825  35017  18616      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB4:MA1406.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB4:MA1406.1:JASPAR
 XX
 CC  PBM
 XX
@@ -42382,7 +42382,7 @@ P0      A      C      G      T
 09  13926  33145  46756   6173      s
 10  20468  11356   5511  62666      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OsRR22:MA1409.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=OsRR22:MA1409.1:JASPAR
 XX
 CC  PBM
 XX
@@ -42418,7 +42418,7 @@ P0      A      C      G      T
 09  19080  31467  20087  29365      y
 10  30642  18165  32999  18194      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=UIF1:MA1413.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=UIF1:MA1413.1:JASPAR
 XX
 CC  PBM
 XX
@@ -42454,7 +42454,7 @@ P0      A      C      G      T
 09    574    345    121    411      w
 10    535    293    334    289      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FA:MA1414.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FA:MA1414.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -42491,7 +42491,7 @@ P0      A      C      G      T
 10    752   1063    884    988      y
 11   2249    473    441    524      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REF6:MA1415.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=REF6:MA1415.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -42530,7 +42530,7 @@ P0      A      C      G      T
 12     37    282    412   1307      t
 13    124   1672     97    145      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=O2:MA1417.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=O2:MA1417.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -42575,7 +42575,7 @@ P0      A      C      G      T
 18    477     18     11     94      A
 19    386     24     26    164      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G60130.DAP:M0001:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G60130.DAP:M0001:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42628,7 +42628,7 @@ P0      A      C      G      T
 28     70     17     94    394      T
 29     83    207    133    151      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VRN1.DAP:M0002:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VRN1.DAP:M0002:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42667,7 +42667,7 @@ P0      A      C      G      T
 14    135    222     77    155      y
 15    329     63     77    120      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FUS3.DAP:M0003:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FUS3.DAP:M0003:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42707,7 +42707,7 @@ P0      A      C      G      T
 15    193     59     71    277      w
 16    144    134     57    265      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NGA4.DAP:M0004:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NGA4.DAP:M0004:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42752,7 +42752,7 @@ P0      A      C      G      T
 20    240      0      2      0      A
 21    219      8      0     15      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM16.DAP:M0005:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM16.DAP:M0005:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42795,7 +42795,7 @@ P0      A      C      G      T
 18     43     40    135    155      k
 19     46     79    104    144      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VRN1.ampDAP:M0006:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VRN1.ampDAP:M0006:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42825,7 +42825,7 @@ P0      A      C      G      T
 05      0    218      0      0      C
 06    218      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G25475.DAP:M0007:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G25475.DAP:M0007:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42870,7 +42870,7 @@ P0      A      C      G      T
 20      5     24      2    124      T
 21    102     17     12     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G60130.ampDAP:M0008:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G60130.ampDAP:M0008:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42909,7 +42909,7 @@ P0      A      C      G      T
 14     64     21     31     31      a
 15     39     15     48     45      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G18090.DAP:M0009:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G18090.DAP:M0009:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42945,7 +42945,7 @@ P0      A      C      G      T
 11    239     85    180     93      r
 12    191    159     81    166      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G77200.ampDAP:M0010:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G77200.ampDAP:M0010:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -42984,7 +42984,7 @@ P0      A      C      G      T
 14    137    150    109    202      y
 15    140     84    244    130      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR2.ampDAP:M0011:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR2.ampDAP:M0011:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43020,7 +43020,7 @@ P0      A      C      G      T
 11    327     75    163     34      r
 12    277     73    161     88      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF4.ampDAP:M0013:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF4.ampDAP:M0013:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43062,7 +43062,7 @@ P0      A      C      G      T
 17    253      8    235    104      r
 18     36    241     47    276      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF15.ampDAP:M0014:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF15.ampDAP:M0014:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43101,7 +43101,7 @@ P0      A      C      G      T
 14    161    359     24     50      m
 15    349     62     45    138      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g19210.ampDAP:M0016:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g19210.ampDAP:M0016:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43146,7 +43146,7 @@ P0      A      C      G      T
 20     89    394     35     75      c
 21    316     24    133    120      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF7.DAP:M0018:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF7.DAP:M0018:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43185,7 +43185,7 @@ P0      A      C      G      T
 14    164    144     78    201      w
 15    118     70    179    220      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP211.ampDAP:M0019:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP211.ampDAP:M0019:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43223,7 +43223,7 @@ P0      A      C      G      T
 13    164    133     76    225      w
 14    141    164     84    209      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G16280.ampDAP:M0020:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G16280.ampDAP:M0020:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43265,7 +43265,7 @@ P0      A      C      G      T
 17     86    246    102    166      y
 18    155    249     65    131      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g33710.ampDAP:M0021:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g33710.ampDAP:M0021:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43313,7 +43313,7 @@ P0      A      C      G      T
 23      0    589      2      0      C
 24    241      0    273     77      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF105.ampDAP:M0022:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF105.ampDAP:M0022:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43352,7 +43352,7 @@ P0      A      C      G      T
 14    152    101    212    133      r
 15    197     89    156    156      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF1.ampDAP:M0023:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF1.ampDAP:M0023:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43390,7 +43390,7 @@ P0      A      C      G      T
 13    255     29     25    286      w
 14    242     66    137    150      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB19.ampDAP:M0024:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB19.ampDAP:M0024:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43427,7 +43427,7 @@ P0      A      C      G      T
 12    270    121     18    186      w
 13    173    133     70    219      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CEJ1.ampDAP:M0026:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CEJ1.ampDAP:M0026:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43464,7 +43464,7 @@ P0      A      C      G      T
 12    317     57    179     46      r
 13    221    118    133    127      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF2.ampDAP:M0027:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF2.ampDAP:M0027:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43504,7 +43504,7 @@ P0      A      C      G      T
 15    270    137    104     87      a
 16    183     99    172    144      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G12630.ampDAP:M0028:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G12630.ampDAP:M0028:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43543,7 +43543,7 @@ P0      A      C      G      T
 14    191    303     25     79      m
 15     74     26    405     93      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF115.ampDAP:M0030:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF115.ampDAP:M0030:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43580,7 +43580,7 @@ P0      A      C      G      T
 12    160    151     81    205      h
 13    160     88    161    188      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR3.ampDAP:M0031:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR3.ampDAP:M0031:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43619,7 +43619,7 @@ P0      A      C      G      T
 14    127     58    255    138      g
 15    135     78    268     97      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF13.ampDAP:M0032:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF13.ampDAP:M0032:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43663,7 +43663,7 @@ P0      A      C      G      T
 19    175     52    248    107      r
 20    164    116    191    111      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF4.ampDAP:M0033:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF4.ampDAP:M0033:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43708,7 +43708,7 @@ P0      A      C      G      T
 20    146    123    185    129      r
 21    124    207     98    154      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABR1.ampDAP:M0034:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABR1.ampDAP:M0034:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43746,7 +43746,7 @@ P0      A      C      G      T
 13     64    428     16     84      C
 14    255      0    243     94      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G28160.ampDAP:M0035:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G28160.ampDAP:M0035:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43786,7 +43786,7 @@ P0      A      C      G      T
 15    196    151     87    163      h
 16    170     81    177    169      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G60490.ampDAP:M0036:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G60490.ampDAP:M0036:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43825,7 +43825,7 @@ P0      A      C      G      T
 14    113    353     24    106      c
 15    315     20    137    124      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11.DAP:M0039:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11.DAP:M0039:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43860,7 +43860,7 @@ P0      A      C      G      T
 10    238    112    198     50      r
 11    290     45    186     77      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF3.ampDAP:M0041:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF3.ampDAP:M0041:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43899,7 +43899,7 @@ P0      A      C      G      T
 14     31    314     33    211      y
 15    149    274     39    127      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF8.DAP:M0044:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF8.DAP:M0044:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43938,7 +43938,7 @@ P0      A      C      G      T
 14    120    289     58    133      c
 15    255     37    182    126      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF10.DAP:M0045:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF10.DAP:M0045:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -43980,7 +43980,7 @@ P0      A      C      G      T
 17    151    139    114    184      w
 18    167     57    209    155      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF8.ampDAP:M0046:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF8.ampDAP:M0046:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44019,7 +44019,7 @@ P0      A      C      G      T
 14    202    153     26    216      h
 15    172     71    123    231      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF4.DAP:M0047:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF4.DAP:M0047:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44056,7 +44056,7 @@ P0      A      C      G      T
 12    205    161     71    157      h
 13    158    100    200    136      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g44940.ampDAP:M0052:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g44940.ampDAP:M0052:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44094,7 +44094,7 @@ P0      A      C      G      T
 13    201    173    116    107      m
 14    209     96    162    130      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBF3.DAP:M0053:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBF3.DAP:M0053:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44132,7 +44132,7 @@ P0      A      C      G      T
 13    180    113    156    147      r
 14    214     87    157    138      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Rap210.ampDAP:M0054:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=Rap210.ampDAP:M0054:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44171,7 +44171,7 @@ P0      A      C      G      T
 14    170    103    175    148      r
 15    164    197    114    121      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g22810.ampDAP:M0056:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g22810.ampDAP:M0056:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44210,7 +44210,7 @@ P0      A      C      G      T
 14    172    312     39     77      m
 15     85     42    390     83      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RRTF1.DAP:M0057:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RRTF1.DAP:M0057:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44249,7 +44249,7 @@ P0      A      C      G      T
 14    198    149     61    181      h
 15    140     65    217    167      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g31060.ampDAP:M0058:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g31060.ampDAP:M0058:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44288,7 +44288,7 @@ P0      A      C      G      T
 14    222    144     52    182      w
 15    112     34    331    123      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ESE3.ampDAP:M0061:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ESE3.ampDAP:M0061:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44333,7 +44333,7 @@ P0      A      C      G      T
 20    178    142    115    144      a
 21    152     98    205    124      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF7.ampDAP:M0063:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF7.ampDAP:M0063:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44370,7 +44370,7 @@ P0      A      C      G      T
 12    286     27    153     91      r
 13    151    191     41    174      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G71450.ampDAP:M0064:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G71450.ampDAP:M0064:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44409,7 +44409,7 @@ P0      A      C      G      T
 14      3    594      3      0      C
 15    371     64     85     80      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR2.DAP:M0065:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR2.DAP:M0065:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44452,7 +44452,7 @@ P0      A      C      G      T
 18    164    131     86    197      w
 19    173     67    180    158      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RRTF1.ampDAP:M0066:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RRTF1.ampDAP:M0066:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44490,7 +44490,7 @@ P0      A      C      G      T
 13    315    110     23    152      w
 14    184    132     26    258      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g36060.ampDAP:M0067:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g36060.ampDAP:M0067:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44529,7 +44529,7 @@ P0      A      C      G      T
 14    115     45    303    133      g
 15    136     63    319     78      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3.DAP:M0069:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3.DAP:M0069:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44573,7 +44573,7 @@ P0      A      C      G      T
 19    161     60    223    125      r
 20    175     91    190    113      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11.ampDAP:M0072:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11.ampDAP:M0072:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44617,7 +44617,7 @@ P0      A      C      G      T
 19    133    196     95    143      y
 20    126     78    251    112      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3.ampDAP:M0074:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3.ampDAP:M0074:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44653,7 +44653,7 @@ P0      A      C      G      T
 11    599      0      1      0      A
 12     23      6    440    131      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AIL7.ampDAP:M0075:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AIL7.ampDAP:M0075:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44702,7 +44702,7 @@ P0      A      C      G      T
 24    139     88    253    105      g
 25    139     86    248    112      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PUCHI.ampDAP:M0076:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=PUCHI.ampDAP:M0076:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44741,7 +44741,7 @@ P0      A      C      G      T
 14     92     22    405     81      g
 15    133     49    362     56      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF4.ampDAP:M0079:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF4.ampDAP:M0079:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44780,7 +44780,7 @@ P0      A      C      G      T
 14     57    436     33     73      C
 15    127     37    360     75      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF115.DAP:M0081:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF115.DAP:M0081:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44819,7 +44819,7 @@ P0      A      C      G      T
 14    153     71    248    128      r
 15    191     90    184    135      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1.DAP:M0083:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1.DAP:M0083:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44863,7 +44863,7 @@ P0      A      C      G      T
 19    137    186     86    173      y
 20    119    212     90    161      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP21.ampDAP:M0086:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP21.ampDAP:M0086:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44902,7 +44902,7 @@ P0      A      C      G      T
 14    255     62     67    195      w
 15    166    210     75    128      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g75490.ampDAP:M0087:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g75490.ampDAP:M0087:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44942,7 +44942,7 @@ P0      A      C      G      T
 15    203    144     91    156      w
 16    165     80    174    175      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g32800.ampDAP:M0088:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g32800.ampDAP:M0088:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -44981,7 +44981,7 @@ P0      A      C      G      T
 14     30    495      0     53      C
 15    279     75    109    115      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g65130.DAP:M0090:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g65130.DAP:M0090:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45025,7 +45025,7 @@ P0      A      C      G      T
 19    219    162     35    149      h
 20    141     26    247    151      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF10.ampDAP:M0091:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF10.ampDAP:M0091:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45070,7 +45070,7 @@ P0      A      C      G      T
 20      3    579      0      3      C
 21    254      6    236     89      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF2.ampDAP:M0093:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF2.ampDAP:M0093:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45111,7 +45111,7 @@ P0      A      C      G      T
 16    154     70     92    256      w
 17     83    203     74    212      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF9.ampDAP:M0096:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF9.ampDAP:M0096:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45156,7 +45156,7 @@ P0      A      C      G      T
 20    105    277     72    113      c
 21    112    108    250     97      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF5.ampDAP:M0101:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF5.ampDAP:M0101:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45195,7 +45195,7 @@ P0      A      C      G      T
 14    333     30     17    187      w
 15    270     59    126    112      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2.ampDAP:M0102:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2.ampDAP:M0102:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45247,7 +45247,7 @@ P0      A      C      G      T
 27    142    106    178    155      k
 28    123    199    108    151      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF1.DAP:M0104:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF1.DAP:M0104:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45290,7 +45290,7 @@ P0      A      C      G      T
 18    300    186     22     67      m
 19    265     85      9    216      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g65130.ampDAP:M0106:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g65130.ampDAP:M0106:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45331,7 +45331,7 @@ P0      A      C      G      T
 16      3    406      0     19      C
 17     70    138     56    164      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF10.ampDAP:M0114:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF10.ampDAP:M0114:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45376,7 +45376,7 @@ P0      A      C      G      T
 20    136    231     65    131      c
 21    147    100    182    134      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF73.DAP:M0117:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF73.DAP:M0117:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45415,7 +45415,7 @@ P0      A      C      G      T
 14    114     87    229     95      g
 15    129     71    213    112      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g28140.ampDAP:M0120:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g28140.ampDAP:M0120:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45460,7 +45460,7 @@ P0      A      C      G      T
 20    129    223     43    118      m
 21    125     78    184    126      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF6.DAP:M0122:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF6.DAP:M0122:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45498,7 +45498,7 @@ P0      A      C      G      T
 13    481      1      5      0      A
 14     46      8    366     67      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PLT1.ampDAP:M0125:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=PLT1.ampDAP:M0125:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45543,7 +45543,7 @@ P0      A      C      G      T
 20     19    252      1     48      C
 21     37    212     11     60      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SHN3.DAP:M0127:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SHN3.DAP:M0127:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45588,7 +45588,7 @@ P0      A      C      G      T
 20     46     10    202      1      G
 21    103     51     29     76      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF48.DAP:M0128:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF48.DAP:M0128:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45627,7 +45627,7 @@ P0      A      C      G      T
 14     86     48    125     52      r
 15    103     39     92     77      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF2.DAP:M0129:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF2.DAP:M0129:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45666,7 +45666,7 @@ P0      A      C      G      T
 14     41     19    172     51      g
 15     54     40    154     35      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF104.ampDAP:M0130:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF104.ampDAP:M0130:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45711,7 +45711,7 @@ P0      A      C      G      T
 20     14    144     22     46      c
 21     50     34     91     51      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF4.DAP:M0131:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF4.DAP:M0131:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45752,7 +45752,7 @@ P0      A      C      G      T
 16     75     35     75     66      d
 17     89     32     71     59      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g16750.ampDAP:M0132:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g16750.ampDAP:M0132:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45796,7 +45796,7 @@ P0      A      C      G      T
 19     40     19    161     40      g
 20     66     29    137     28      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ESE1.ampDAP:M0133:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ESE1.ampDAP:M0133:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45833,7 +45833,7 @@ P0      A      C      G      T
 12    198     10     26     30      A
 13     50     71      3    140      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1.ampDAP:M0134:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1.ampDAP:M0134:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45868,7 +45868,7 @@ P0      A      C      G      T
 10     10      1    205     26      G
 11     91     36     81     34      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR5.ampDAP:M0135:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR5.ampDAP:M0135:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45913,7 +45913,7 @@ P0      A      C      G      T
 20     45     57     24     50      h
 21     40     20     90     26      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF73.ampDAP:M0138:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF73.ampDAP:M0138:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45952,7 +45952,7 @@ P0      A      C      G      T
 14     29     14     64     22      g
 15     48     11     40     30      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G01250.ampDAP:M0139:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G01250.ampDAP:M0139:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -45986,7 +45986,7 @@ P0      A      C      G      T
 09    288     64    181     67      r
 10    304     63     76    157      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MP.DAP:M0140:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MP.DAP:M0140:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46031,7 +46031,7 @@ P0      A      C      G      T
 20     99      0      1      1      A
 21     90      1      1      9      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF16.DAP:M0142:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF16.DAP:M0142:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46066,7 +46066,7 @@ P0      A      C      G      T
 10      0     17      0    579      T
 11    102      9    143    342      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G20910.DAP:M0143:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G20910.DAP:M0143:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46105,7 +46105,7 @@ P0      A      C      G      T
 14    108      1      9    446      T
 15    415     44     70     35      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G04880.ampDAP:M0144:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G04880.ampDAP:M0144:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46144,7 +46144,7 @@ P0      A      C      G      T
 14      0      0      0    387      T
 15     95     42     58    192      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g76110.ampDAP:M0145:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g76110.ampDAP:M0145:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46179,7 +46179,7 @@ P0      A      C      G      T
 10      0      0      0    507      T
 11    107     65     99    236      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g76110.DAP:M0146:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g76110.DAP:M0146:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46218,7 +46218,7 @@ P0      A      C      G      T
 14    243      0     10    201      w
 15    122     14      8    310      W
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G17410.DAP:M0147:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G17410.DAP:M0147:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46258,7 +46258,7 @@ P0      A      C      G      T
 15     32     20     17    246      T
 16     80     22     33    180      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G04880.DAP:M0148:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G04880.DAP:M0148:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46297,7 +46297,7 @@ P0      A      C      G      T
 14      1     46      1    550      T
 15     94    337      7    160      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPC1.ampDAP:M0149:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPC1.ampDAP:M0149:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46350,7 +46350,7 @@ P0      A      C      G      T
 28     50      0      0      0      A
 29      4      3     42      1      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPC5.ampDAP:M0153:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPC5.ampDAP:M0153:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46389,7 +46389,7 @@ P0      A      C      G      T
 14    167    195    100    138      m
 15     97    130    111    262      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BAM8.DAP:M0154:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BAM8.DAP:M0154:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46428,7 +46428,7 @@ P0      A      C      G      T
 14     19    161    397     13      s
 15    317      7    188     78      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BAM8.ampDAP:M0155:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BAM8.ampDAP:M0155:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46471,7 +46471,7 @@ P0      A      C      G      T
 18      0      7      6    572      T
 19      1      0    584      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM2.ampDAP:M0156:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM2.ampDAP:M0156:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46510,7 +46510,7 @@ P0      A      C      G      T
 14     59    373     43    125      c
 15    135    110    308     47      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM2.DAP:M0157:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM2.DAP:M0157:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46548,7 +46548,7 @@ P0      A      C      G      T
 13    211    168     79    139      m
 14    170    148     68    211      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH122.DAP:M0158:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH122.DAP:M0158:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46584,7 +46584,7 @@ P0      A      C      G      T
 11    409     96      3     81      A
 12    133    246     61    149      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH28.DAP:M0159:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH28.DAP:M0159:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46621,7 +46621,7 @@ P0      A      C      G      T
 12    208    163     63    161      h
 13    163     92    200    140      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH10.ampDAP:M0160:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH10.ampDAP:M0160:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46656,7 +46656,7 @@ P0      A      C      G      T
 10      7    507      6     55      C
 11    382     66     38     89      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH80.ampDAP:M0163:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH80.ampDAP:M0163:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46694,7 +46694,7 @@ P0      A      C      G      T
 13     80     30    455     31      G
 14    158     72    308     58      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH10.DAP:M0164:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH10.DAP:M0164:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46740,7 +46740,7 @@ P0      A      C      G      T
 21    130    162    115    155      y
 22    127    158     98    179      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM1.ampDAP:M0165:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM1.ampDAP:M0165:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46787,7 +46787,7 @@ P0      A      C      G      T
 22    136    105    211    115      g
 23    162    104     97    204      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH34.DAP:M0166:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH34.DAP:M0166:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46822,7 +46822,7 @@ P0      A      C      G      T
 10     41    367     39    116      c
 11    270    135     71     87      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH122.ampDAP:M0167:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH122.ampDAP:M0167:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46867,7 +46867,7 @@ P0      A      C      G      T
 20     96     82    231    164      k
 21    113    204    105    151      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH34.ampDAP:M0168:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH34.ampDAP:M0168:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46905,7 +46905,7 @@ P0      A      C      G      T
 13    240    151     88     87      m
 14    120    249     62    135      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM1.DAP:M0169:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM1.DAP:M0169:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46949,7 +46949,7 @@ P0      A      C      G      T
 19     33     82     20    161      y
 20     53     56     66    121      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH157.DAP:M0170:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH157.DAP:M0170:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -46991,7 +46991,7 @@ P0      A      C      G      T
 17     77     36     11     13      m
 18      4     80     20     33      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM3.DAP:M0174:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM3.DAP:M0174:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47035,7 +47035,7 @@ P0      A      C      G      T
 19      5     15     22      8      s
 20     15     25      2      8      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH104.DAP:M0175:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH104.DAP:M0175:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47065,7 +47065,7 @@ P0      A      C      G      T
 05      0      0     64      0      G
 06      0      0      0     64      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH64.DAP:M0178:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH64.DAP:M0178:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47097,7 +47097,7 @@ P0      A      C      G      T
 07     65     20      2      0      A
 08      0     54      3     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH74.ampDAP:M0179:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH74.ampDAP:M0179:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47135,7 +47135,7 @@ P0      A      C      G      T
 13    177      1      1      0      A
 14    137      3     21     18      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G10720.DAP:M0181:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G10720.DAP:M0181:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47173,7 +47173,7 @@ P0      A      C      G      T
 13    103    184     77    220      y
 14     63    365     59     97      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP50.ampDAP:M0182:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP50.ampDAP:M0182:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47212,7 +47212,7 @@ P0      A      C      G      T
 14    152     73     84    274      w
 15    123    193     77    190      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA6.ampDAP:M0183:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA6.ampDAP:M0183:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47247,7 +47247,7 @@ P0      A      C      G      T
 10    117    370     66     46      c
 11    426      0    108     65      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA9.ampDAP:M0184:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA9.ampDAP:M0184:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47282,7 +47282,7 @@ P0      A      C      G      T
 10     13    507     36     27      C
 11    314     43    127     99      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2.ampDAP:M0185:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2.ampDAP:M0185:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47321,7 +47321,7 @@ P0      A      C      G      T
 14    146     95     87    252      w
 15    134    182     76    188      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA6.DAP:M0186:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA6.DAP:M0186:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47359,7 +47359,7 @@ P0      A      C      G      T
 13    444     57     31     68      A
 14    205    127     61    207      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP52.ampDAP:M0187:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP52.ampDAP:M0187:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47398,7 +47398,7 @@ P0      A      C      G      T
 14    116    404      3     15      C
 15    319     77     75     67      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP53.ampDAP:M0188:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP53.ampDAP:M0188:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47437,7 +47437,7 @@ P0      A      C      G      T
 14    104    367     14     82      c
 15    188    195     84    100      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HY5.ampDAP:M0189:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HY5.ampDAP:M0189:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47472,7 +47472,7 @@ P0      A      C      G      T
 10     86     59    293    162      k
 11    104      1    295    200      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP18.ampDAP:M0190:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP18.ampDAP:M0190:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47511,7 +47511,7 @@ P0      A      C      G      T
 14    127    386      2     21      C
 15    267     53    120     96      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF3.ampDAP:M0192:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF3.ampDAP:M0192:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47550,7 +47550,7 @@ P0      A      C      G      T
 14     28    460     45     66      C
 15    361     59     81     98      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1.ampDAP:M0195:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1.ampDAP:M0195:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47589,7 +47589,7 @@ P0      A      C      G      T
 14     58    539      0      0      C
 15    439     41     90     27      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP16.ampDAP:M0197:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP16.ampDAP:M0197:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47628,7 +47628,7 @@ P0      A      C      G      T
 14     10    232     95    262      y
 15    151    214     68    166      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA4.ampDAP:M0199:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA4.ampDAP:M0199:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47670,7 +47670,7 @@ P0      A      C      G      T
 17    151    124    174    146      r
 18    190    117     87    201      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI5.DAP:M0201:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI5.DAP:M0201:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47708,7 +47708,7 @@ P0      A      C      G      T
 13    308     57    105    130      a
 14    168     79     94    259      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA10.ampDAP:M0202:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA10.ampDAP:M0202:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47747,7 +47747,7 @@ P0      A      C      G      T
 14     26    557      0      0      C
 15    388     45    119     31      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI5.ampDAP:M0204:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI5.ampDAP:M0204:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47786,7 +47786,7 @@ P0      A      C      G      T
 14    172     93     81    207      w
 15    145    166     65    177      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP48.ampDAP:M0206:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP48.ampDAP:M0206:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47825,7 +47825,7 @@ P0      A      C      G      T
 14    118    460      1      5      C
 15    373     65     78     68      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF5.ampDAP:M0207:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF5.ampDAP:M0207:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47860,7 +47860,7 @@ P0      A      C      G      T
 10     63    534      0      0      C
 11    444     38     61     54      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP18.DAP:M0208:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP18.DAP:M0208:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47899,7 +47899,7 @@ P0      A      C      G      T
 14      9    228     77    281      y
 15    147    211     66    171      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1.DAP:M0209:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1.DAP:M0209:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47937,7 +47937,7 @@ P0      A      C      G      T
 13    292     53    119    124      a
 14    149     77     92    270      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA5.DAP:M0214:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA5.DAP:M0214:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -47976,7 +47976,7 @@ P0      A      C      G      T
 14    136    434      2      4      C
 15    353     80     78     65      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF5.DAP:M0215:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF5.DAP:M0215:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48020,7 +48020,7 @@ P0      A      C      G      T
 19    149    101    191    158      k
 20    155    112     96    236      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2.DAP:M0216:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2.DAP:M0216:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48062,7 +48062,7 @@ P0      A      C      G      T
 17    130    380     29     56      c
 18    281     94     40    180      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF2.DAP:M0217:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF2.DAP:M0217:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48101,7 +48101,7 @@ P0      A      C      G      T
 14      3    590      0      0      C
 15    474     39     57     23      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AREB3.ampDAP:M0218:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AREB3.ampDAP:M0218:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48137,7 +48137,7 @@ P0      A      C      G      T
 11    101      1    156    296      k
 12    192    140     78    144      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VIP1.DAP:M0221:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VIP1.DAP:M0221:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48176,7 +48176,7 @@ P0      A      C      G      T
 14    155    343      8     27      m
 15    263     74     83    113      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF6.ampDAP:M0222:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF6.ampDAP:M0222:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48213,7 +48213,7 @@ P0      A      C      G      T
 12      1      0    431    109      G
 13    113    421      2      5      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP44.ampDAP:M0224:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP44.ampDAP:M0224:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48250,7 +48250,7 @@ P0      A      C      G      T
 12      3    213     69    248      y
 13    142    167     66    158      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA3.ampDAP:M0226:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA3.ampDAP:M0226:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48288,7 +48288,7 @@ P0      A      C      G      T
 13    307     20     45     41      A
 14    143     87     42    141      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VIP1.ampDAP:M0227:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VIP1.ampDAP:M0227:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48325,7 +48325,7 @@ P0      A      C      G      T
 12      3    162      0      2      C
 13    124     12      6     25      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP42.ampDAP:M0228:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP42.ampDAP:M0228:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48360,7 +48360,7 @@ P0      A      C      G      T
 10     13    182      3      4      C
 11    155      7     23     17      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP69.DAP:M0229:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP69.DAP:M0229:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48395,7 +48395,7 @@ P0      A      C      G      T
 10      3     94      0      0      C
 11     83      0      6      8      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP69.ampDAP:M0231:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP69.ampDAP:M0231:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48430,7 +48430,7 @@ P0      A      C      G      T
 10     36     44    203     21      g
 11    126     41    100     37      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g18890.ampDAP:M0237:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g18890.ampDAP:M0237:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48468,7 +48468,7 @@ P0      A      C      G      T
 13     91     58     46     41      a
 14     23     39     39    135      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g36780.ampDAP:M0238:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g36780.ampDAP:M0238:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48507,7 +48507,7 @@ P0      A      C      G      T
 14     17     27     30     66      t
 15     21     27     28     64      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g78700.ampDAP:M0239:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g78700.ampDAP:M0239:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48546,7 +48546,7 @@ P0      A      C      G      T
 14     17    270    131      6      s
 15    312      8    101      3      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G59990.ampDAP:M0240:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G59990.ampDAP:M0240:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48591,7 +48591,7 @@ P0      A      C      G      T
 20     26      4      3    164      T
 21      9     23     24    141      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G59990.DAP:M0241:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G59990.DAP:M0241:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48637,7 +48637,7 @@ P0      A      C      G      T
 21     10     64      8     88      y
 22     14     74     49     33      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G27900.DAP:M0242:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G27900.DAP:M0242:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48682,7 +48682,7 @@ P0      A      C      G      T
 20    292     71     87    150      w
 21    307     45    101    147      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g62940.DAP:M0244:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g62940.DAP:M0244:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48721,7 +48721,7 @@ P0      A      C      G      T
 14     95    140     60    305      t
 15    132     87     45    336      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G28810.ampDAP:M0245:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G28810.ampDAP:M0245:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48766,7 +48766,7 @@ P0      A      C      G      T
 20    120     67     49    364      t
 21    124     83     50    343      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G52440.ampDAP:M0247:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G52440.ampDAP:M0247:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48801,7 +48801,7 @@ P0      A      C      G      T
 10    358     22    126     94      a
 11    308     97     77    118      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g64620.ampDAP:M0251:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g64620.ampDAP:M0251:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48840,7 +48840,7 @@ P0      A      C      G      T
 14     27     44     26    503      T
 15    123    148    173    156      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof24.DAP:M0252:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof24.DAP:M0252:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48878,7 +48878,7 @@ P0      A      C      G      T
 13    224     67     37    252      w
 14    126    108    118    228      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof43.ampDAP:M0253:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof43.ampDAP:M0253:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48917,7 +48917,7 @@ P0      A      C      G      T
 14     13     61     28    498      T
 15     67    196    222    115      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g45610.ampDAP:M0254:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g45610.ampDAP:M0254:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -48962,7 +48962,7 @@ P0      A      C      G      T
 20     93    116     76    315      t
 21    106     94     56    344      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G66940.ampDAP:M0257:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G66940.ampDAP:M0257:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49005,7 +49005,7 @@ P0      A      C      G      T
 18    163    114     66    257      w
 19    178     80     77    265      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G02460.ampDAP:M0258:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G02460.ampDAP:M0258:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49047,7 +49047,7 @@ P0      A      C      G      T
 17     73     80     38    409      T
 18    106     76     78    340      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF3.ampDAP:M0259:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF3.ampDAP:M0259:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49090,7 +49090,7 @@ P0      A      C      G      T
 18    274     71     72    183      w
 19    273     68     88    171      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP4.ampDAP:M0261:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP4.ampDAP:M0261:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49133,7 +49133,7 @@ P0      A      C      G      T
 18    324     58     63    155      w
 19    298     51     78    173      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g64620.DAP:M0263:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g64620.DAP:M0263:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49170,7 +49170,7 @@ P0      A      C      G      T
 12    238     82     46    232      w
 13    216     58     86    238      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DAG2.ampDAP:M0266:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DAG2.ampDAP:M0266:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49213,7 +49213,7 @@ P0      A      C      G      T
 18    338     64     49    149      a
 19    360     69     88     83      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF3.DAP:M0268:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF3.DAP:M0268:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49252,7 +49252,7 @@ P0      A      C      G      T
 14    215     32    173    177      d
 15    324     38    146     89      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof24.ampDAP:M0269:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof24.ampDAP:M0269:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49304,7 +49304,7 @@ P0      A      C      G      T
 27     46     60     27    436      T
 28    146    117     88    218      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g38000.DAP:M0270:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g38000.DAP:M0270:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49343,7 +49343,7 @@ P0      A      C      G      T
 14     53    183    138    197      y
 15    116    119     72    264      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G47655.ampDAP:M0271:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G47655.ampDAP:M0271:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49388,7 +49388,7 @@ P0      A      C      G      T
 20     51    110     90    347      t
 21    203     24    292     79      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G69570.ampDAP:M0273:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G69570.ampDAP:M0273:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49431,7 +49431,7 @@ P0      A      C      G      T
 18     77     81     65    377      t
 19    144    138    156    162      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OBP3.ampDAP:M0274:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=OBP3.ampDAP:M0274:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49466,7 +49466,7 @@ P0      A      C      G      T
 10    346     35    145     73      a
 11    302     80     90    127      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g38000.ampDAP:M0275:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g38000.ampDAP:M0275:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49505,7 +49505,7 @@ P0      A      C      G      T
 14     43     35     21    496      T
 15    113    156    155    171      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=COG1.ampDAP:M0276:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=COG1.ampDAP:M0276:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49550,7 +49550,7 @@ P0      A      C      G      T
 20    238    111     94    148      w
 21    185    150     81    175      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Adof1.ampDAP:M0277:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=Adof1.ampDAP:M0277:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49589,7 +49589,7 @@ P0      A      C      G      T
 14      6      0      4    512      T
 15    213     37     49    223      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof45.ampDAP:M0280:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof45.ampDAP:M0280:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49624,7 +49624,7 @@ P0      A      C      G      T
 10      0      0      0     62      T
 11      0      0      0     62      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=dof43.DAP:M0281:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=dof43.DAP:M0281:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49661,7 +49661,7 @@ P0      A      C      G      T
 12    194    123    142    141      a
 13    166     69    191    174      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA20.ampDAP:M0282:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA20.ampDAP:M0282:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49704,7 +49704,7 @@ P0      A      C      G      T
 18     43      8      2    289      T
 19     19    267     20     36      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA15.DAP:M0283:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA15.DAP:M0283:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49743,7 +49743,7 @@ P0      A      C      G      T
 14    353     46    133     52      a
 15    184     44    183    173      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA11.DAP:M0284:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA11.DAP:M0284:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49780,7 +49780,7 @@ P0      A      C      G      T
 12    271     57    229     34      r
 13    318     47    144     82      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA12.DAP:M0285:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA12.DAP:M0285:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49818,7 +49818,7 @@ P0      A      C      G      T
 13    269     80    161     81      r
 14    266     63    148    114      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA1.ampDAP:M0286:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA1.ampDAP:M0286:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49857,7 +49857,7 @@ P0      A      C      G      T
 14     32    167     18    377      y
 15     71    300     32    191      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA4.DAP:M0287:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA4.DAP:M0287:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49896,7 +49896,7 @@ P0      A      C      G      T
 14     17     14     17    176      T
 15     15     24    176      9      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA1.DAP:M0288:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA1.DAP:M0288:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49935,7 +49935,7 @@ P0      A      C      G      T
 14    158     63    223    128      r
 15    196     78    183    115      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA12.ampDAP:M0289:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA12.ampDAP:M0289:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -49974,7 +49974,7 @@ P0      A      C      G      T
 14    401     13      5    174      w
 15     18     27     17    531      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZIM.DAP:M0290:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZIM.DAP:M0290:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50019,7 +50019,7 @@ P0      A      C      G      T
 20     29     47     23    449      T
 21     53    200     37    258      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZML1.ampDAP:M0291:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZML1.ampDAP:M0291:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50058,7 +50058,7 @@ P0      A      C      G      T
 14      9    500      0      0      C
 15    428     21     26     34      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZML1.DAP:M0292:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZML1.DAP:M0292:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50093,7 +50093,7 @@ P0      A      C      G      T
 10     42     10      0    264      T
 11      0    130     39    147      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA19.ampDAP:M0295:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA19.ampDAP:M0295:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50123,20 +50123,20 @@ P0      A      C      G      T
 05     88      2      5      5      A
 06      0   0.01   0.01   0.98      T
 07      0   0.97      0   0.03      C
-08     85      9      2      4      A
+08     85     10      2      3      A
 09   0.06   0.04      0   0.89      T
 10      0   0.94      0   0.06      C
 11   0.82      0   0.07   0.11      A
 12      4      6      6     84      T
 13      3     90      1      6      C
 14   0.81      0   0.06   0.13      A
-15      3      1      2     94      T
+15      2      1      3     94      T
 16   0.05   0.88   0.06      0      C
 17     88      2      4      6      A
 18     11     10      2     77      T
-19      5     83      1     11      C
+19      5     82      1     12      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZML2.DAP:M0296:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZML2.DAP:M0296:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50187,7 +50187,7 @@ P0      A      C      G      T
 26     46      0      0      2      A
 27      4      3      0     41      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA16.DAP:M0298:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA16.DAP:M0298:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50219,7 +50219,7 @@ P0      A      C      G      T
 07    218      1     29    352      w
 08    445     48     86     21      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRC.DAP:M0300:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRC.DAP:M0300:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50273,7 +50273,7 @@ P0      A      C      G      T
 29      0     36      0      0      C
 30      0     35      0      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRC.ampDAP:M0301:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRC.ampDAP:M0301:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50312,7 +50312,7 @@ P0      A      C      G      T
 14    117     88    119    274      t
 15    148    112    137    201      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SGR5.ampDAP:M0303:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SGR5.ampDAP:M0303:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50344,7 +50344,7 @@ P0      A      C      G      T
 07      0    532     67      0      C
 08      0      0      0    599      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STZ.ampDAP:M0304:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=STZ.ampDAP:M0304:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50387,7 +50387,7 @@ P0      A      C      G      T
 18    220    111     40    220      w
 19    124    206     21    240      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G26030.DAP:M0306:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G26030.DAP:M0306:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50419,7 +50419,7 @@ P0      A      C      G      T
 07    513      0     87      0      A
 08    252     12    313     23      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g60580.DAP:M0307:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g60580.DAP:M0307:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50454,7 +50454,7 @@ P0      A      C      G      T
 10    196     35    128    240      w
 11    202     50    242    105      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g04390.DAP:M0308:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g04390.DAP:M0308:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50495,7 +50495,7 @@ P0      A      C      G      T
 16     15    164     14    406      y
 17    110     60    255    174      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD5.ampDAP:M0309:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD5.ampDAP:M0309:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50536,7 +50536,7 @@ P0      A      C      G      T
 16     56    142     77    320      t
 17    148     65    210    172      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g66730.ampDAP:M0310:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g66730.ampDAP:M0310:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50575,7 +50575,7 @@ P0      A      C      G      T
 14    262     33     18    264      w
 15    289     84    145     59      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WIP5.ampDAP:M0311:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WIP5.ampDAP:M0311:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50614,7 +50614,7 @@ P0      A      C      G      T
 14     87    272     96    129      c
 15    162     83    195    144      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G22990.DAP:M0312:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G22990.DAP:M0312:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50656,7 +50656,7 @@ P0      A      C      G      T
 17     33    136     63    360      t
 18    133     49    234    176      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MGP.ampDAP:M0314:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MGP.ampDAP:M0314:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50695,7 +50695,7 @@ P0      A      C      G      T
 14    262     17      8    270      w
 15    275     79    150     53      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WIP5.DAP:M0315:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WIP5.DAP:M0315:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50737,7 +50737,7 @@ P0      A      C      G      T
 17     49    122     51    363      t
 18    135     66    217    167      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtIDD11.ampDAP:M0316:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtIDD11.ampDAP:M0316:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50772,7 +50772,7 @@ P0      A      C      G      T
 10     40     22    525     13      G
 11    322     16     91    171      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G15740.DAP:M0317:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G15740.DAP:M0317:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50814,7 +50814,7 @@ P0      A      C      G      T
 17     62    144     84    288      t
 18    136     71    183    188      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD2.ampDAP:M0320:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD2.ampDAP:M0320:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50855,7 +50855,7 @@ P0      A      C      G      T
 16    306     86     68    126      a
 17    280     71     59    176      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g66730.DAP:M0321:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g66730.DAP:M0321:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50896,7 +50896,7 @@ P0      A      C      G      T
 16    262     91     85    146      w
 17    250     77     77    180      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g14580.ampDAP:M0322:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g14580.ampDAP:M0322:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50931,7 +50931,7 @@ P0      A      C      G      T
 10      2     28     16    554      T
 11    238    188     47    127      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=JGL.DAP:M0323:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=JGL.DAP:M0323:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -50966,7 +50966,7 @@ P0      A      C      G      T
 10      7      0    589      0      G
 11    279      0     65    252      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AZF1.ampDAP:M0324:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AZF1.ampDAP:M0324:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51011,7 +51011,7 @@ P0      A      C      G      T
 20     96    197    125    156      y
 21     79    127     70    298      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtIDD11.DAP:M0325:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtIDD11.DAP:M0325:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51050,7 +51050,7 @@ P0      A      C      G      T
 14    314     79    157     29      r
 15    221    141     73    144      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STOP1.ampDAP:M0326:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=STOP1.ampDAP:M0326:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51093,7 +51093,7 @@ P0      A      C      G      T
 18    107     29     34    430      T
 19     24    515     12     49      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TF3A.DAP:M0328:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TF3A.DAP:M0328:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51134,7 +51134,7 @@ P0      A      C      G      T
 16     11     87     19    228      y
 17     75     21    149    100      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NUC.ampDAP:M0330:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NUC.ampDAP:M0330:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51176,7 +51176,7 @@ P0      A      C      G      T
 17     77     54     33     64      w
 18     91     16     45     76      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g22890.DAP:M0331:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g22890.DAP:M0331:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51207,7 +51207,7 @@ P0      A      C      G      T
 06    192      0      0      0      A
 07    192      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g41835.DAP:M0332:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g41835.DAP:M0332:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51238,7 +51238,7 @@ P0      A      C      G      T
 06      0    102      0      0      C
 07     30     14     12     46      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G49930.DAP:M0336:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G49930.DAP:M0336:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51281,7 +51281,7 @@ P0      A      C      G      T
 18      1     41      0     17      Y
 19      5     14      8     32      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STOP1.DAP:M0338:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=STOP1.DAP:M0338:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51311,7 +51311,7 @@ P0      A      C      G      T
 05      0     38      0      0      C
 06     38      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g48100.DAP:M0339:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g48100.DAP:M0339:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51346,7 +51346,7 @@ P0      A      C      G      T
 10    380      6    176     38      r
 11    300    138     38    124      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G63260.DAP:M0340:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G63260.DAP:M0340:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51384,7 +51384,7 @@ P0      A      C      G      T
 13    351      9    179     61      r
 14    286    104     89    121      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G12130.ampDAP:M0341:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G12130.ampDAP:M0341:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51423,7 +51423,7 @@ P0      A      C      G      T
 14    318     50    120    111      a
 15    212     74    177    136      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDM1.ampDAP:M0342:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDM1.ampDAP:M0342:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51458,7 +51458,7 @@ P0      A      C      G      T
 10    407     29     93     71      a
 11    314    130     41    115      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G63260.ampDAP:M0343:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G63260.ampDAP:M0343:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51497,7 +51497,7 @@ P0      A      C      G      T
 14    325    131     45     99      a
 15    311    108     76    105      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g08750.DAP:M0344:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g08750.DAP:M0344:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51536,7 +51536,7 @@ P0      A      C      G      T
 14     40     26    119     83      k
 15     34     75     15    144      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EMB1789.DAP:M0345:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=EMB1789.DAP:M0345:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51566,7 +51566,7 @@ P0      A      C      G      T
 05      0    127      0      0      C
 06    127      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TZF9.DAP:M0346:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TZF9.DAP:M0346:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51597,7 +51597,7 @@ P0      A      C      G      T
 06      0      0     85      0      G
 07     85      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=U2AF35B.DAP:M0347:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=U2AF35B.DAP:M0347:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51641,7 +51641,7 @@ P0      A      C      G      T
 19     38      8     22      1      r
 20     29      8      1     31      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g74370.DAP:M0348:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g74370.DAP:M0348:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51672,7 +51672,7 @@ P0      A      C      G      T
 06      0     50      0      0      C
 07     50      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g70910.DAP:M0349:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g70910.DAP:M0349:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51714,7 +51714,7 @@ P0      A      C      G      T
 17      6     12     50    532      T
 18    126     92    191    191      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CAMTA5.DAP:M0351:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CAMTA5.DAP:M0351:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51747,7 +51747,7 @@ P0      A      C      G      T
 08     38     21     28     58      w
 09     26     67     26     26      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAP3.DAP:M0352:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAP3.DAP:M0352:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51778,7 +51778,7 @@ P0      A      C      G      T
 06     95      0      0      0      A
 07     22     30     24     19      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NFYB4.DAP:M0353:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NFYB4.DAP:M0353:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51817,7 +51817,7 @@ P0      A      C      G      T
 14    375      0     81    144      a
 15    305     38     32    225      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G20110.ampDAP:M0354:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G20110.ampDAP:M0354:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51855,7 +51855,7 @@ P0      A      C      G      T
 13    600      0      0      0      A
 14    176     79      3    342      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCX2.ampDAP:M0355:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCX2.ampDAP:M0355:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51894,7 +51894,7 @@ P0      A      C      G      T
 14    481      6     20     93      A
 15    388     23     53    136      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SOL1.ampDAP:M0356:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SOL1.ampDAP:M0356:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51933,7 +51933,7 @@ P0      A      C      G      T
 14     98    221     31     19      m
 15    180     55     63     71      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G51470.DAP:M0361:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G51470.DAP:M0361:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -51971,7 +51971,7 @@ P0      A      C      G      T
 13    223     83     50    236      w
 14    214     82     66    230      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FA.ampDAP:M0362:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FA.ampDAP:M0362:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52015,7 +52015,7 @@ P0      A      C      G      T
 19    527     15     12     22      A
 20    399     41     18    118      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEL2.DAP:M0363:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEL2.DAP:M0363:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52053,7 +52053,7 @@ P0      A      C      G      T
 13    354     45     65    116      a
 14    321     38     80    141      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FA.DAP:M0364:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FA.DAP:M0364:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52092,7 +52092,7 @@ P0      A      C      G      T
 14    541      5      9     29      A
 15    419     33     16    116      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEL1.ampDAP:M0365:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEL1.ampDAP:M0365:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52131,7 +52131,7 @@ P0      A      C      G      T
 14    526      7      6     10      A
 15    425     28     12     84      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEL2.ampDAP:M0366:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEL2.ampDAP:M0366:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52176,7 +52176,7 @@ P0      A      C      G      T
 20    279      1      2     44      A
 21    246      5      0     75      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEL1.DAP:M0367:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEL1.DAP:M0367:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52215,7 +52215,7 @@ P0      A      C      G      T
 14     21      0      2      0      A
 15     16      0      6      1      R
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FC.DAP:M0368:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FC.DAP:M0368:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52254,7 +52254,7 @@ P0      A      C      G      T
 14      5     49    508     38      G
 15    285     99     28    188      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIN3.DAP:M0369:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIN3.DAP:M0369:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52299,7 +52299,7 @@ P0      A      C      G      T
 20     26     34      9     25      h
 21     17     16      9     52      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIL3.DAP:M0370:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIL3.DAP:M0370:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52344,7 +52344,7 @@ P0      A      C      G      T
 20     36     59     83     37      s
 21     37     85     55     38      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FAR1.ampDAP:M0372:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FAR1.ampDAP:M0372:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52389,7 +52389,7 @@ P0      A      C      G      T
 20     14     26      1     10      m
 21      5     22      5     19      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FHA2.DAP:M0373:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FHA2.DAP:M0373:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52427,7 +52427,7 @@ P0      A      C      G      T
 13     61    291     44    204      y
 14     85    173     97    245      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G45580.ampDAP:M0375:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G45580.ampDAP:M0375:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52465,7 +52465,7 @@ P0      A      C      G      T
 13    207    106     29    254      w
 14    127     78    103    288      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g24120.ampDAP:M0376:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g24120.ampDAP:M0376:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52509,7 +52509,7 @@ P0      A      C      G      T
 19    112    150     45    292      y
 20     76     87     21    415      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G40260.ampDAP:M0379:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G40260.ampDAP:M0379:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52548,7 +52548,7 @@ P0      A      C      G      T
 14      1    599      0      0      C
 15    106    194     61    239      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G49560.ampDAP:M0382:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G49560.ampDAP:M0382:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52586,7 +52586,7 @@ P0      A      C      G      T
 13     76    104    112    304      t
 14    127    120    128    221      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g12730.ampDAP:M0384:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g12730.ampDAP:M0384:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52625,7 +52625,7 @@ P0      A      C      G      T
 14     79    320     52    145      c
 15    139    164     74    219      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g01060.ampDAP:M0385:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g01060.ampDAP:M0385:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52664,7 +52664,7 @@ P0      A      C      G      T
 14    271     46     63    198      w
 15    147     64    109    258      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G20400.ampDAP:M0389:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G20400.ampDAP:M0389:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52703,7 +52703,7 @@ P0      A      C      G      T
 14    126    107     92    269      t
 15    135    121     88    250      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g04030.ampDAP:M0390:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g04030.ampDAP:M0390:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52738,7 +52738,7 @@ P0      A      C      G      T
 10      0    598      0      0      C
 11     72    257     73    196      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G37180.ampDAP:M0391:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G37180.ampDAP:M0391:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52776,7 +52776,7 @@ P0      A      C      G      T
 13      0    598      0      0      C
 14     32    277     37    252      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g25550.ampDAP:M0394:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g25550.ampDAP:M0394:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52811,7 +52811,7 @@ P0      A      C      G      T
 10    111     19     68    359      t
 11    102    285     90     80      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN2.ampDAP:M0396:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN2.ampDAP:M0396:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52846,7 +52846,7 @@ P0      A      C      G      T
 10     83      5     12    500      T
 11    141     15     56    388      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G38300.DAP:M0397:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G38300.DAP:M0397:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52879,7 +52879,7 @@ P0      A      C      G      T
 08      0    157      0      0      C
 09     88     23     13     33      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g13040.DAP:M0399:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g13040.DAP:M0399:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52917,7 +52917,7 @@ P0      A      C      G      T
 13      0     98      0      0      C
 14      3     48     11     36      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g03500.ampDAP:M0400:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g03500.ampDAP:M0400:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -52970,7 +52970,7 @@ P0      A      C      G      T
 28     29     11      3     25      w
 29      9     14      9     36      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G20400.DAP:M0402:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G20400.DAP:M0402:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53007,7 +53007,7 @@ P0      A      C      G      T
 12    164    126     31    271      w
 13    244     18     12    318      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G00250.DAP:M0403:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G00250.DAP:M0403:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53050,7 +53050,7 @@ P0      A      C      G      T
 18     24      9     13      7      a
 19     11      5     18     19      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G66420.DAP:M0404:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G66420.DAP:M0404:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53088,7 +53088,7 @@ P0      A      C      G      T
 13      0      0    595      1      G
 14    479      1     48     68      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtGRF6.DAP:M0405:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtGRF6.DAP:M0405:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53120,7 +53120,7 @@ P0      A      C      G      T
 07    440     20     66     72      A
 08    267     75    124    132      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF9.ampDAP:M0406:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF9.ampDAP:M0406:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53159,7 +53159,7 @@ P0      A      C      G      T
 14     22     38     22     10      c
 15     44     20     11     17      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF9.DAP:M0407:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF9.DAP:M0407:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53197,7 +53197,7 @@ P0      A      C      G      T
 13    176     35    209    179      d
 14    173     69    196    161      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB40.ampDAP:M0409:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB40.ampDAP:M0409:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53232,7 +53232,7 @@ P0      A      C      G      T
 10    177     92    221    109      r
 11    289     51    113    146      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB5.DAP:M0410:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB5.DAP:M0410:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53269,7 +53269,7 @@ P0      A      C      G      T
 12    128     97     36    337      t
 13    147     90    117    244      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LMI1.ampDAP:M0411:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LMI1.ampDAP:M0411:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53303,7 +53303,7 @@ P0      A      C      G      T
 09    190      5    405      0      r
 10    209    110    159    122      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB5.ampDAP:M0412:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB5.ampDAP:M0412:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53340,7 +53340,7 @@ P0      A      C      G      T
 12    156     98    180    166      d
 13    139     97     37    327      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LMI1.DAP:M0413:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LMI1.DAP:M0413:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53384,7 +53384,7 @@ P0      A      C      G      T
 19    210     79     56    255      w
 20    259     49     38    254      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB21.ampDAP:M0414:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB21.ampDAP:M0414:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53423,7 +53423,7 @@ P0      A      C      G      T
 14    114     71     39    374      t
 15    130    153     45    270      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHV.DAP:M0416:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHV.DAP:M0416:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53462,7 +53462,7 @@ P0      A      C      G      T
 14     94    136    195    167      k
 15    131    185    112    164      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB53.ampDAP:M0420:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB53.ampDAP:M0420:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53497,7 +53497,7 @@ P0      A      C      G      T
 10    207      2    241     19      r
 11     70    241     38    120      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANL2.ampDAP:M0421:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANL2.ampDAP:M0421:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53532,7 +53532,7 @@ P0      A      C      G      T
 10    126     53     84      0      r
 11     64     32     43    124      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WOX11.DAP:M0422:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WOX11.DAP:M0422:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53567,7 +53567,7 @@ P0      A      C      G      T
 10     27      0    361     12      G
 11    106    181      4    109      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HDG7.DAP:M0423:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HDG7.DAP:M0423:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53612,7 +53612,7 @@ P0      A      C      G      T
 20    122     98     62    114      w
 21     73     31    199     93      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=3XHMGBOX1.DAP:M0424:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=3XHMGBOX1.DAP:M0424:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53651,7 +53651,7 @@ P0      A      C      G      T
 14     13    346     16     41      C
 15     38    335      4     39      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=3XHMGBOX1.ampDAP:M0425:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=3XHMGBOX1.ampDAP:M0425:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53686,7 +53686,7 @@ P0      A      C      G      T
 10    240     80     87    193      w
 11    137    151    121    191      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB6.DAP:M0430:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB6.DAP:M0430:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53721,7 +53721,7 @@ P0      A      C      G      T
 10    208      0    349     39      r
 11    279     59    161     97      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB20.ampDAP:M0431:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB20.ampDAP:M0431:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53756,7 +53756,7 @@ P0      A      C      G      T
 10    184     38    141    237      w
 11    199    121    135    145      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT2.ampDAP:M0432:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT2.ampDAP:M0432:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53791,7 +53791,7 @@ P0      A      C      G      T
 10    200      0    392      0      r
 11    175     82    261     74      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB18.ampDAP:M0433:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB18.ampDAP:M0433:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53830,7 +53830,7 @@ P0      A      C      G      T
 14    256    110    107    127      a
 15    306     76     50    168      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PDF2.DAP:M0434:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=PDF2.DAP:M0434:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53865,7 +53865,7 @@ P0      A      C      G      T
 10    225      7    302     56      r
 11    100    229     46    215      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDT1.DAP:M0435:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDT1.DAP:M0435:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53900,7 +53900,7 @@ P0      A      C      G      T
 10     85     28    427     60      G
 11    369     43     62    126      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WUS1.ampDAP:M0436:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WUS1.ampDAP:M0436:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53935,7 +53935,7 @@ P0      A      C      G      T
 10     50      2    501     32      G
 11    150    296     12    127      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HDG1.ampDAP:M0437:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HDG1.ampDAP:M0437:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -53970,7 +53970,7 @@ P0      A      C      G      T
 10    143     56    322     50      r
 11    347     57     64    103      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB13.ampDAP:M0439:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB13.ampDAP:M0439:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54005,7 +54005,7 @@ P0      A      C      G      T
 10    139     59    345     34      g
 11    292     74     81    130      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB6.ampDAP:M0440:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB6.ampDAP:M0440:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54043,7 +54043,7 @@ P0      A      C      G      T
 13    212     64    122    173      w
 14    156    107    131    177      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT5.ampDAP:M0441:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT5.ampDAP:M0441:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54078,7 +54078,7 @@ P0      A      C      G      T
 10    154     68    279     95      r
 11    327     42     63    164      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT5.DAP:M0442:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT5.DAP:M0442:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54117,7 +54117,7 @@ P0      A      C      G      T
 14    113     24     33     48      a
 15     88     11     22     97      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT1.DAP:M0444:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT1.DAP:M0444:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54152,7 +54152,7 @@ P0      A      C      G      T
 10     66      0     63      1      r
 11     43     26     40     21      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT1.ampDAP:M0445:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT1.ampDAP:M0445:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54187,7 +54187,7 @@ P0      A      C      G      T
 10      0     55      3     23      y
 11     70      1      3      7      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WUS1.DAP:M0447:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WUS1.DAP:M0447:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54226,7 +54226,7 @@ P0      A      C      G      T
 14    420     34     59     87      A
 15    139    121    242     98      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6B.DAP:M0448:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6B.DAP:M0448:AthalianaCistrome
 XX
 CC  DAP-seq
 XX
@@ -54268,7 +54268,7 @@ P0      A      C      G      T
 12      0      0    598      0      G
 13    587      2      0      9      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6B.ampDAP:M0449:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6B.ampDAP:M0449:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54304,7 +54304,7 @@ P0      A      C      G      T
 11      1      2    596      1      G
 12    547     18     17     18      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSF3.DAP:M0450:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSF3.DAP:M0450:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54339,7 +54339,7 @@ P0      A      C      G      T
 10      6      0      0    594      T
 11      0    600      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFC1.DAP:M0451:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFC1.DAP:M0451:AthalianaCistrome
 XX
 CC  DAP-seq
 XX
@@ -54385,7 +54385,7 @@ P0      A      C      G      T
 16      0    224      0      0      C
 17      9     61     16    138      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFC1.ampDAP:M0452:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFC1.ampDAP:M0452:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54423,7 +54423,7 @@ P0      A      C      G      T
 13    585      3      3      7      A
 14    481     27     35     55      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSF7.ampDAP:M0453:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSF7.ampDAP:M0453:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54459,7 +54459,7 @@ P0      A      C      G      T
 11    111     17    429     43      G
 12    507     11     39     43      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSF6.DAP:M0454:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSF6.DAP:M0454:AthalianaCistrome
 XX
 CC  DAP-seq
 XX
@@ -54501,7 +54501,7 @@ P0      A      C      G      T
 12    447     17     35     58      A
 13    129    105    232     91      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB3.ampDAP:M0455:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB3.ampDAP:M0455:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54539,7 +54539,7 @@ P0      A      C      G      T
 13      1    583      0      4      C
 14     27    145     27    389      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSF7.DAP:M0456:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSF7.DAP:M0456:AthalianaCistrome
 XX
 CC  DAP-seq
 XX
@@ -54587,7 +54587,7 @@ P0      A      C      G      T
 18    117     81    325     76      g
 19    198    225     96     80      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSF21.DAP:M0457:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSF21.DAP:M0457:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54627,7 +54627,7 @@ P0      A      C      G      T
 15    186    190     87    117      m
 16    198     66     73    243      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6A.DAP:M0458:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6A.DAP:M0458:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54664,7 +54664,7 @@ P0      A      C      G      T
 12      6      0    501      1      G
 13    497      5      4      2      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA1E.DAP:M0459:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA1E.DAP:M0459:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54703,7 +54703,7 @@ P0      A      C      G      T
 14    357     14     40     50      A
 15     88     88    195     90      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA1E.ampDAP:M0460:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA1E.ampDAP:M0460:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54740,7 +54740,7 @@ P0      A      C      G      T
 12      6      0      0    344      T
 13      0    349      0      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6A.ampDAP:M0461:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6A.ampDAP:M0461:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54779,7 +54779,7 @@ P0      A      C      G      T
 14    184      0      7      9      A
 15     46     29     99     26      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB4.DAP:M0462:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB4.DAP:M0462:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54818,7 +54818,7 @@ P0      A      C      G      T
 14      9     61      8     22      c
 15     12     33     11     44      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB3.DAP:M0463:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB3.DAP:M0463:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54849,7 +54849,7 @@ P0      A      C      G      T
 06      0      0      0    167      T
 07     35     56     46     30      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WLIM2A.DAP:M0464:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WLIM2A.DAP:M0464:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54888,7 +54888,7 @@ P0      A      C      G      T
 14    313    147     45     95      a
 15    145     49    323     83      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD2.DAP:M0465:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD2.DAP:M0465:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54927,7 +54927,7 @@ P0      A      C      G      T
 14    199     44    278     76      r
 15    265     83    162     87      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD18.ampDAP:M0466:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD18.ampDAP:M0466:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -54966,7 +54966,7 @@ P0      A      C      G      T
 14    277    123     93    107      a
 15    209     40    226    125      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD19.DAP:M0467:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD19.DAP:M0467:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55005,7 +55005,7 @@ P0      A      C      G      T
 14    331     58     89    122      a
 15    173     77    222    128      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD2.ampDAP:M0468:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD2.ampDAP:M0468:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55045,7 +55045,7 @@ P0      A      C      G      T
 15    216     44    246     94      r
 16    210    111    168    111      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASL18.ampDAP:M0469:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASL18.ampDAP:M0469:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55088,7 +55088,7 @@ P0      A      C      G      T
 18      0      0    571     29      G
 19     20    204    352     24      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD18.DAP:M0470:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD18.DAP:M0470:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55127,7 +55127,7 @@ P0      A      C      G      T
 14      0      0    598      0      G
 15      1     40    555      2      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD13.ampDAP:M0471:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD13.ampDAP:M0471:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55166,7 +55166,7 @@ P0      A      C      G      T
 14      6    472     32     90      C
 15    144    159     87    210      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD23.ampDAP:M0472:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD23.ampDAP:M0472:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55211,7 +55211,7 @@ P0      A      C      G      T
 20     46    296    114    117      c
 21    157    229     72    115      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOB.DAP:M0473:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOB.DAP:M0473:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55250,7 +55250,7 @@ P0      A      C      G      T
 14      1    530     19     38      C
 15     89    174     82    243      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD23.DAP:M0474:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD23.DAP:M0474:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55291,7 +55291,7 @@ P0      A      C      G      T
 16    142    306     20    115      c
 17     92     20    436     35      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD13.DAP:M0475:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD13.DAP:M0475:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55330,7 +55330,7 @@ P0      A      C      G      T
 14    268    186     47     72      m
 15    186     20    292     75      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASL18.DAP:M0476:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASL18.DAP:M0476:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55375,7 +55375,7 @@ P0      A      C      G      T
 20     34    350     16     39      C
 21     76      8    319     36      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AS2.DAP:M0477:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AS2.DAP:M0477:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55414,7 +55414,7 @@ P0      A      C      G      T
 14    525     27      0     29      A
 15    505     14     30     32      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SVP.ampDAP:M0479:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SVP.ampDAP:M0479:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55453,7 +55453,7 @@ P0      A      C      G      T
 14     48      0    547      0      G
 15      5      0    559     31      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SVP.DAP:M0480:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SVP.DAP:M0480:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55498,7 +55498,7 @@ P0      A      C      G      T
 20     94    160    200    130      s
 21    145     85     70    284      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL15.ampDAP:M0482:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL15.ampDAP:M0482:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55537,7 +55537,7 @@ P0      A      C      G      T
 14     28      5    372     51      G
 15    280     63     21     92      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL25.ampDAP:M0486:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL25.ampDAP:M0486:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55582,7 +55582,7 @@ P0      A      C      G      T
 20     18     33      9     45      y
 21     29     12     12     52      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL16.ampDAP:M0489:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL16.ampDAP:M0489:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55612,7 +55612,7 @@ P0      A      C      G      T
 05      0      0     54      0      G
 06     54      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FEM111.DAP:M0491:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FEM111.DAP:M0491:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55656,7 +55656,7 @@ P0      A      C      G      T
 19      8    572      0     11      C
 20    205      0    322     64      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G23930.DAP:M0492:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G23930.DAP:M0492:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55701,7 +55701,7 @@ P0      A      C      G      T
 20    143    119    288     49      g
 21    242     71    226     60      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB67.DAP:M0495:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB67.DAP:M0495:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55740,7 +55740,7 @@ P0      A      C      G      T
 14    171    312     11     98      m
 15    156    260      0    176      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATY13.DAP:M0496:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATY13.DAP:M0496:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55785,7 +55785,7 @@ P0      A      C      G      T
 20    141    189    125    145      c
 21    207     73    114    206      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB58.ampDAP:M0497:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB58.ampDAP:M0497:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55828,7 +55828,7 @@ P0      A      C      G      T
 18      7      9      0    462      T
 19    229     10    128    111      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB44.DAP:M0498:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB44.DAP:M0498:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55865,7 +55865,7 @@ P0      A      C      G      T
 12    270     55    109    158      w
 13    130    193     72    197      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB61.ampDAP:M0499:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB61.ampDAP:M0499:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55904,7 +55904,7 @@ P0      A      C      G      T
 14    130      5    456      5      G
 15    150     80    267     99      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB83.ampDAP:M0500:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB83.ampDAP:M0500:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55941,7 +55941,7 @@ P0      A      C      G      T
 12    113    102     43    342      t
 13    158     93     54    295      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB62.ampDAP:M0501:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB62.ampDAP:M0501:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -55978,7 +55978,7 @@ P0      A      C      G      T
 12      0      0      0    568      T
 13    274      0    254     40      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3R1.ampDAP:M0503:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3R1.ampDAP:M0503:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56017,7 +56017,7 @@ P0      A      C      G      T
 14    202     30     13    355      w
 15    152    130     76    242      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB101.ampDAP:M0506:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB101.ampDAP:M0506:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56056,7 +56056,7 @@ P0      A      C      G      T
 14    183     80    138    197      w
 15    186     66    173    173      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB55.ampDAP:M0507:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB55.ampDAP:M0507:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56095,7 +56095,7 @@ P0      A      C      G      T
 14    163    124     71    242      w
 15    255    112     87    146      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB65.ampDAP:M0508:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB65.ampDAP:M0508:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56134,7 +56134,7 @@ P0      A      C      G      T
 14    104    182      0    312      y
 15    313     47    167     71      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB119.ampDAP:M0510:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB119.ampDAP:M0510:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56171,7 +56171,7 @@ P0      A      C      G      T
 12    161    128    181    116      r
 13    267     70    157     92      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB116.ampDAP:M0511:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB116.ampDAP:M0511:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56210,7 +56210,7 @@ P0      A      C      G      T
 14    253     54    224     60      r
 15    283     45    225     38      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MS188.ampDAP:M0512:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MS188.ampDAP:M0512:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56249,7 +56249,7 @@ P0      A      C      G      T
 14    100    296     70    128      c
 15    108    276     61    149      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB88.DAP:M0513:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB88.DAP:M0513:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56291,7 +56291,7 @@ P0      A      C      G      T
 17    140    178     75    207      y
 18    128    104    138    230      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB107.DAP:M0514:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB107.DAP:M0514:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56330,7 +56330,7 @@ P0      A      C      G      T
 14    333     81    144     37      a
 15    221    189     91     94      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MS188.DAP:M0515:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MS188.DAP:M0515:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56367,7 +56367,7 @@ P0      A      C      G      T
 12    140     87    119    231      t
 13    151     99    179    148      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB88.ampDAP:M0516:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB88.ampDAP:M0516:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56406,7 +56406,7 @@ P0      A      C      G      T
 14    187     31      0    380      w
 15    190     94     37    277      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB49.DAP:M0518:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB49.DAP:M0518:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56444,7 +56444,7 @@ P0      A      C      G      T
 13     10    407      0    178      Y
 14    214    104     39    238      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB107.ampDAP:M0520:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB107.ampDAP:M0520:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56484,7 +56484,7 @@ P0      A      C      G      T
 15     97     87     63    349      t
 16    131    115     89    261      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB27.ampDAP:M0521:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB27.ampDAP:M0521:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56523,7 +56523,7 @@ P0      A      C      G      T
 14    123    165     53    256      y
 15    160     71    134    232      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB56.ampDAP:M0522:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB56.ampDAP:M0522:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56562,7 +56562,7 @@ P0      A      C      G      T
 14    198    140    147    115      a
 15    144    191    120    145      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB58.DAP:M0523:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB58.DAP:M0523:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56601,7 +56601,7 @@ P0      A      C      G      T
 14     53    236      0    308      y
 15    339     32    166     60      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB118.ampDAP:M0524:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB118.ampDAP:M0524:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56640,7 +56640,7 @@ P0      A      C      G      T
 14    204    375      0      0      m
 15      1    402      0    176      Y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB93.ampDAP:M0525:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB93.ampDAP:M0525:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56675,7 +56675,7 @@ P0      A      C      G      T
 10     13    349      0    228      y
 11    123    145     38    284      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB99.ampDAP:M0526:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB99.ampDAP:M0526:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56713,7 +56713,7 @@ P0      A      C      G      T
 13    306     76    156     50      r
 14    225    167     96    100      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB49.ampDAP:M0527:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB49.ampDAP:M0527:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56758,7 +56758,7 @@ P0      A      C      G      T
 20    178    174     73    171      h
 21    265     40    113    178      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB93.DAP:M0528:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB93.DAP:M0528:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56797,7 +56797,7 @@ P0      A      C      G      T
 14    189    153     94    159      h
 15    151    231     58    155      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB61.DAP:M0531:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB61.DAP:M0531:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56835,7 +56835,7 @@ P0      A      C      G      T
 13    314     55    177     40      r
 14    213    129    128    116      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB74.ampDAP:M0532:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB74.ampDAP:M0532:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56874,7 +56874,7 @@ P0      A      C      G      T
 14    261     30    261     43      r
 15    260     69    185     81      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB13.DAP:M0534:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB13.DAP:M0534:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56919,7 +56919,7 @@ P0      A      C      G      T
 20    191    202     62    138      m
 21    193    162     89    149      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB63.DAP:M0536:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB63.DAP:M0536:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -56958,7 +56958,7 @@ P0      A      C      G      T
 14    141    305      9    109      m
 15    113    273      8    170      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATY13.ampDAP:M0537:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATY13.ampDAP:M0537:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57000,7 +57000,7 @@ P0      A      C      G      T
 17    183    155     82    168      h
 18    152    174     80    182      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB13.ampDAP:M0538:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB13.ampDAP:M0538:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57039,7 +57039,7 @@ P0      A      C      G      T
 14    172    336     20     64      m
 15     95    331      0    166      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB30.ampDAP:M0539:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB30.ampDAP:M0539:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57078,7 +57078,7 @@ P0      A      C      G      T
 14      0      0    592      0      G
 15      2    227      0    363      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BOS1.DAP:M0540:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BOS1.DAP:M0540:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57116,7 +57116,7 @@ P0      A      C      G      T
 13    276     59    163     75      r
 14    230     74    129    140      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB121.DAP:M0541:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB121.DAP:M0541:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57161,7 +57161,7 @@ P0      A      C      G      T
 20    127    223     55    181      y
 21    138     95    106    247      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB96.ampDAP:M0542:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB96.ampDAP:M0542:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57198,7 +57198,7 @@ P0      A      C      G      T
 12    128    183     45    229      y
 13    149    213     48    175      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB99.DAP:M0544:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB99.DAP:M0544:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57238,7 +57238,7 @@ P0      A      C      G      T
 15    260     37    245     43      r
 16    261     49    213     62      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB10.DAP:M0546:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB10.DAP:M0546:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57280,7 +57280,7 @@ P0      A      C      G      T
 17     19     10     41    526      T
 18    167     28    334     67      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB96.DAP:M0547:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB96.DAP:M0547:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57323,7 +57323,7 @@ P0      A      C      G      T
 18    225    114     36    216      w
 19    167    154     47    223      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB92.ampDAP:M0548:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB92.ampDAP:M0548:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57362,7 +57362,7 @@ P0      A      C      G      T
 14    239    228     27    100      m
 15     96    364     27    107      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB30.DAP:M0549:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB30.DAP:M0549:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57401,7 +57401,7 @@ P0      A      C      G      T
 14    249     35    210     77      r
 15    236     44    251     40      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB17.ampDAP:M0550:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB17.ampDAP:M0550:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57442,7 +57442,7 @@ P0      A      C      G      T
 16    208     42     22    314      w
 17    111    158     57    260      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB105.ampDAP:M0551:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB105.ampDAP:M0551:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57480,7 +57480,7 @@ P0      A      C      G      T
 13    182     33     59    326      w
 14    121    176     67    236      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB81.ampDAP:M0553:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB81.ampDAP:M0553:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57515,7 +57515,7 @@ P0      A      C      G      T
 10    312    118      2    151      w
 11    332     12     14    225      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB44.ampDAP:M0554:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB44.ampDAP:M0554:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57553,7 +57553,7 @@ P0      A      C      G      T
 13    207    138     33    207      w
 14    192    125     64    204      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB10.ampDAP:M0555:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB10.ampDAP:M0555:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57596,7 +57596,7 @@ P0      A      C      G      T
 18    196     56    148    167      d
 19    160     60    120    227      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB94.DAP:M0556:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB94.DAP:M0556:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57634,7 +57634,7 @@ P0      A      C      G      T
 13    320     55    181     29      r
 14    279    115     99     92      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB39.DAP:M0557:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB39.DAP:M0557:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57679,7 +57679,7 @@ P0      A      C      G      T
 20    265     54    176     72      r
 21    191    143    100    133      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB39.ampDAP:M0559:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB39.ampDAP:M0559:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57724,7 +57724,7 @@ P0      A      C      G      T
 20     46    326     11    170      y
 21    232     50     13    258      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB51.DAP:M0560:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB51.DAP:M0560:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57763,7 +57763,7 @@ P0      A      C      G      T
 14    252     52    204     64      r
 15    217     85    169    101      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB4.DAP:M0561:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB4.DAP:M0561:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57808,7 +57808,7 @@ P0      A      C      G      T
 20     55    350     16    113      c
 21    205    155     55    119      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATY19.DAP:M0562:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATY19.DAP:M0562:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57851,7 +57851,7 @@ P0      A      C      G      T
 18    136     82     84    140      w
 19     83    150     59    150      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB60.DAP:M0563:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB60.DAP:M0563:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57889,7 +57889,7 @@ P0      A      C      G      T
 13     91    192     42    104      c
 14    114    217     32     66      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB55.DAP:M0564:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB55.DAP:M0564:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57924,7 +57924,7 @@ P0      A      C      G      T
 10     32      2    343     46      G
 11    112     41    215     55      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB83.DAP:M0565:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB83.DAP:M0565:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -57963,7 +57963,7 @@ P0      A      C      G      T
 14      3    140      6     91      y
 15    110     33     36     61      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB116.DAP:M0568:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB116.DAP:M0568:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58000,7 +58000,7 @@ P0      A      C      G      T
 12     57     54     15    111      t
 13     58     62     23     94      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB40.DAP:M0569:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB40.DAP:M0569:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58034,7 +58034,7 @@ P0      A      C      G      T
 09     69     22     57     39      r
 10     73     28     49     37      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB92.DAP:M0570:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB92.DAP:M0570:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58069,7 +58069,7 @@ P0      A      C      G      T
 10      3      0    204      0      G
 11     62     25     72     48      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB23.DAP:M0571:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB23.DAP:M0571:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58108,7 +58108,7 @@ P0      A      C      G      T
 14     18     99      4     63      y
 15     40     25      2    117      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB41.DAP:M0572:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB41.DAP:M0572:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58146,7 +58146,7 @@ P0      A      C      G      T
 13     56     27      4     43      w
 14     42     35     11     42      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB74.DAP:M0574:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB74.DAP:M0574:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58190,7 +58190,7 @@ P0      A      C      G      T
 19     14      4      3     74      T
 20      5      4     15     71      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB77.ampDAP:M0576:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB77.ampDAP:M0576:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58227,7 +58227,7 @@ P0      A      C      G      T
 12     46      7     30      0      r
 13     27     18     27     11      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB43.DAP:M0578:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB43.DAP:M0578:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58262,7 +58262,7 @@ P0      A      C      G      T
 10      0    598      0      0      C
 11     82     43     11    462      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EPR1.ampDAP:M0582:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=EPR1.ampDAP:M0582:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58302,7 +58302,7 @@ P0      A      C      G      T
 15    202    104     23    270      w
 16    300     20     20    259      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G56840.ampDAP:M0583:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G56840.ampDAP:M0583:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58341,7 +58341,7 @@ P0      A      C      G      T
 14    198     83     16    303      w
 15    183    181     72    164      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g58900.ampDAP:M0585:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g58900.ampDAP:M0585:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58376,7 +58376,7 @@ P0      A      C      G      T
 10    132    121    109    236      t
 11    160    121    132    185      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g09600.ampDAP:M0586:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g09600.ampDAP:M0586:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58421,7 +58421,7 @@ P0      A      C      G      T
 20    153    146    132    161      w
 21    104     74    233    181      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G72740.ampDAP:M0588:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G72740.ampDAP:M0588:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58459,7 +58459,7 @@ P0      A      C      G      T
 13    243     23     12    321      w
 14    242     69     21    267      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g19000.ampDAP:M0590:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g19000.ampDAP:M0590:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58495,7 +58495,7 @@ P0      A      C      G      T
 11    143     89    141    224      t
 12    142     99    119    237      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g52660.ampDAP:M0591:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g52660.ampDAP:M0591:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58530,7 +58530,7 @@ P0      A      C      G      T
 10    140    107    104    245      t
 11    184    108    141    163      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LHY1.ampDAP:M0592:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LHY1.ampDAP:M0592:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58565,7 +58565,7 @@ P0      A      C      G      T
 10    105    126    118    248      t
 11    149    113    131    204      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g01280.ampDAP:M0593:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g01280.ampDAP:M0593:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58599,7 +58599,7 @@ P0      A      C      G      T
 09    149     92    101    258      t
 10    128    148    114    210      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RVE1.ampDAP:M0594:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RVE1.ampDAP:M0594:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58634,7 +58634,7 @@ P0      A      C      G      T
 10    206    162     46    184      h
 11    337     23     10    228      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G61620.ampDAP:M0596:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G61620.ampDAP:M0596:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58673,7 +58673,7 @@ P0      A      C      G      T
 14    171     45     28    353      w
 15    147     61     73    316      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g49010.ampDAP:M0601:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g49010.ampDAP:M0601:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58708,7 +58708,7 @@ P0      A      C      G      T
 10    161    195     36    205      h
 11    301     19     24    253      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g08520.ampDAP:M0602:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g08520.ampDAP:M0602:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58747,7 +58747,7 @@ P0      A      C      G      T
 14    201     26     85     65      a
 15    130     40    114     93      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10580.ampDAP:M0606:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10580.ampDAP:M0606:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58782,7 +58782,7 @@ P0      A      C      G      T
 10    107    111     97    272      t
 11    146     84    141    216      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LCL1.ampDAP:M0611:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=LCL1.ampDAP:M0611:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58827,7 +58827,7 @@ P0      A      C      G      T
 20      4     76      1     23      C
 21     11     10      5     78      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP2.ampDAP:M0612:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP2.ampDAP:M0612:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58865,7 +58865,7 @@ P0      A      C      G      T
 13    250     14     10    311      w
 14    238     56     17    274      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g74840.ampDAP:M0615:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g74840.ampDAP:M0615:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58903,7 +58903,7 @@ P0      A      C      G      T
 13    176     71     33    302      w
 14    170     47     61    304      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g47390.ampDAP:M0616:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g47390.ampDAP:M0616:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58945,7 +58945,7 @@ P0      A      C      G      T
 17    132     92     64    211      w
 18    158    133     82    126      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g11280.ampDAP:M0619:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g11280.ampDAP:M0619:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -58991,7 +58991,7 @@ P0      A      C      G      T
 21     43     49     31     48      h
 22     45     66     15     45      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G18960.DAP:M0620:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G18960.DAP:M0620:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59034,7 +59034,7 @@ P0      A      C      G      T
 18     28     48     39    140      t
 19     44     21     64    126      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TBP3.ampDAP:M0621:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TBP3.ampDAP:M0621:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59079,7 +59079,7 @@ P0      A      C      G      T
 20     61      0      1      0      A
 21      3     41      0     18      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G12670.ampDAP:M0623:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G12670.ampDAP:M0623:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59125,7 +59125,7 @@ P0      A      C      G      T
 21     76    332     61    121      c
 22    154    217     56    163      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND3.ampDAP:M0626:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND3.ampDAP:M0626:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59165,7 +59165,7 @@ P0      A      C      G      T
 15    360     61     41    129      a
 16    524      2      0     65      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SMB.ampDAP:M0627:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SMB.ampDAP:M0627:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59204,7 +59204,7 @@ P0      A      C      G      T
 14    418    178      0      0      M
 15      8      0    587      1      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND2.ampDAP:M0628:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND2.ampDAP:M0628:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59243,7 +59243,7 @@ P0      A      C      G      T
 14    419    179      0      0      M
 15      0      0    595      3      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND3.DAP:M0629:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND3.DAP:M0629:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59288,7 +59288,7 @@ P0      A      C      G      T
 20    396     62     25    117      a
 21    550      0      4     46      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SMB.DAP:M0630:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SMB.DAP:M0630:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59327,7 +59327,7 @@ P0      A      C      G      T
 14     55    201    163    178      b
 15    355    126      1    115      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC016.DAP:M0631:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC016.DAP:M0631:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59366,7 +59366,7 @@ P0      A      C      G      T
 14    512     80      2      0      A
 15      0      0    591      3      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC071.DAP:M0632:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC071.DAP:M0632:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59406,7 +59406,7 @@ P0      A      C      G      T
 15    264     81      4    249      w
 16    474      5      0    119      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC070.ampDAP:M0633:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC070.ampDAP:M0633:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59446,7 +59446,7 @@ P0      A      C      G      T
 15    455     94      0     50      A
 16    579      0      0     20      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC2.ampDAP:M0634:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC2.ampDAP:M0634:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59485,7 +59485,7 @@ P0      A      C      G      T
 14     69    372     49    108      c
 15    454     20     24    100      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NST1.ampDAP:M0635:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NST1.ampDAP:M0635:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59525,7 +59525,7 @@ P0      A      C      G      T
 15    277     81      4    229      w
 16    523      4      7     57      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC058.DAP:M0636:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC058.DAP:M0636:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59566,7 +59566,7 @@ P0      A      C      G      T
 16    529      0      2     69      A
 17     98    261     58    183      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC046.ampDAP:M0637:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC046.ampDAP:M0637:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59611,7 +59611,7 @@ P0      A      C      G      T
 20     85    264     55    195      y
 21    126    288     90     95      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND6.DAP:M0638:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND6.DAP:M0638:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59652,7 +59652,7 @@ P0      A      C      G      T
 16      0      0    484      9      G
 17     77    106    198    112      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC017.ampDAP:M0639:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC017.ampDAP:M0639:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59695,7 +59695,7 @@ P0      A      C      G      T
 18    332     90      0    175      w
 19    468      8      1    120      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC083.DAP:M0640:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC083.DAP:M0640:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59735,7 +59735,7 @@ P0      A      C      G      T
 15    429     72      2     92      A
 16    585      0      0     10      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC045.DAP:M0641:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC045.DAP:M0641:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59774,7 +59774,7 @@ P0      A      C      G      T
 14      6    431      6    157      Y
 15    436     43      1    120      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND2.DAP:M0642:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND2.DAP:M0642:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59815,7 +59815,7 @@ P0      A      C      G      T
 16      3      0    571     22      G
 17     62    378     56    100      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NST1.DAP:M0643:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NST1.DAP:M0643:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59854,7 +59854,7 @@ P0      A      C      G      T
 14    477    120      0      0      A
 15      1      0    595      1      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC050.ampDAP:M0644:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC050.ampDAP:M0644:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59894,7 +59894,7 @@ P0      A      C      G      T
 15    527     17      0     53      A
 16    591      0      0      6      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC096.DAP:M0645:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC096.DAP:M0645:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59933,7 +59933,7 @@ P0      A      C      G      T
 14      0      0    599      0      G
 15      7    114     66    412      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTM1.DAP:M0646:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTM1.DAP:M0646:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -59978,7 +59978,7 @@ P0      A      C      G      T
 20    418     49     11    121      A
 21    556      0      1     42      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC070.DAP:M0647:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC070.DAP:M0647:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60017,7 +60017,7 @@ P0      A      C      G      T
 14     15    458      6    121      C
 15    449     26      1    124      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND4.DAP:M0648:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND4.DAP:M0648:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60056,7 +60056,7 @@ P0      A      C      G      T
 14     68    250     49    233      y
 15    515     10      0     75      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC083.ampDAP:M0649:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC083.ampDAP:M0649:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60097,7 +60097,7 @@ P0      A      C      G      T
 15    255    128      0    216      w
 16    544      0      0     55      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC050.DAP:M0650:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC050.DAP:M0650:AthalianaCistrome
 XX
 CC  DAP-seq
 XX
@@ -60143,7 +60143,7 @@ P0      A      C      G      T
 16    588      0      0     11      A
 17    102    315     59    123      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC2.DAP:M0651:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC2.DAP:M0651:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60189,7 +60189,7 @@ P0      A      C      G      T
 21     84    146     89    276      t
 22    141     68    131    255      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATAF1.DAP:M0652:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATAF1.DAP:M0652:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60228,7 +60228,7 @@ P0      A      C      G      T
 14     28    227     22    319      y
 15    471     23      0    102      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC071.ampDAP:M0653:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC071.ampDAP:M0653:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60273,7 +60273,7 @@ P0      A      C      G      T
 20    158    200    116    126      m
 21    124     79    113    284      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC004.ampDAP:M0654:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC004.ampDAP:M0654:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60313,7 +60313,7 @@ P0      A      C      G      T
 15    307     92      0    197      w
 16    506      0      1     89      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC028.DAP:M0655:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC028.DAP:M0655:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60358,7 +60358,7 @@ P0      A      C      G      T
 20    100    254     54    192      y
 21     53    366     71    110      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC020.DAP:M0656:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC020.DAP:M0656:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60398,7 +60398,7 @@ P0      A      C      G      T
 15    433     55      9    100      A
 16    544      0      0     53      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND4.ampDAP:M0657:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND4.ampDAP:M0657:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60437,7 +60437,7 @@ P0      A      C      G      T
 14    223     89    121    167      w
 15    328     42     76    154      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC047.DAP:M0658:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC047.DAP:M0658:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60480,7 +60480,7 @@ P0      A      C      G      T
 18    166     39     12    373      w
 19    273     11     12    294      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC005.DAP:M0659:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC005.DAP:M0659:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60524,7 +60524,7 @@ P0      A      C      G      T
 19    530      0      0     56      A
 20     72    298     40    176      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092.ampDAP:M0660:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092.ampDAP:M0660:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60569,7 +60569,7 @@ P0      A      C      G      T
 20     71    311     54    158      y
 21     44    195     32    323      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC055.DAP:M0661:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC055.DAP:M0661:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60609,7 +60609,7 @@ P0      A      C      G      T
 15    459     70      0     65      A
 16    572      0      0     22      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC053.ampDAP:M0662:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC053.ampDAP:M0662:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60646,7 +60646,7 @@ P0      A      C      G      T
 12    287    310      0      0      m
 13      0      0    560     37      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND1.DAP:M0663:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND1.DAP:M0663:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60684,7 +60684,7 @@ P0      A      C      G      T
 13      0      0    598      0      G
 14     38    145     46    369      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC004.DAP:M0664:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC004.DAP:M0664:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60726,7 +60726,7 @@ P0      A      C      G      T
 17    251     99      8    217      w
 18    479      2      4     90      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC058.ampDAP:M0665:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC058.ampDAP:M0665:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60768,7 +60768,7 @@ P0      A      C      G      T
 17    554      2      1     12      A
 18    135    204     86    144      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC3.DAP:M0666:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC3.DAP:M0666:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60810,7 +60810,7 @@ P0      A      C      G      T
 17    170    111     77    242      w
 18    292    107     16    185      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC038.DAP:M0667:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC038.DAP:M0667:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60850,7 +60850,7 @@ P0      A      C      G      T
 15    420     81      6     83      A
 16    576      0      0     14      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC045.ampDAP:M0668:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC045.ampDAP:M0668:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60894,7 +60894,7 @@ P0      A      C      G      T
 19    354      8    192     46      r
 20     68    253     32    247      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC042.DAP:M0669:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC042.DAP:M0669:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60937,7 +60937,7 @@ P0      A      C      G      T
 18    136    217     65    180      y
 19    107    113    123    255      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC034.DAP:M0670:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC034.DAP:M0670:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -60980,7 +60980,7 @@ P0      A      C      G      T
 18    200     78     74    239      w
 19    453     25      0    113      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL8.DAP:M0671:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL8.DAP:M0671:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61022,7 +61022,7 @@ P0      A      C      G      T
 17    126    186     52    233      y
 18    142    218     87    150      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC062.ampDAP:M0672:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC062.ampDAP:M0672:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61062,7 +61062,7 @@ P0      A      C      G      T
 15    351    121     12    115      a
 16    532      9     13     45      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC013.DAP:M0673:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC013.DAP:M0673:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61103,7 +61103,7 @@ P0      A      C      G      T
 16      0      0    591      7      G
 17    217     89     48    244      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC053.DAP:M0674:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC053.DAP:M0674:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61148,7 +61148,7 @@ P0      A      C      G      T
 20     89    197     82    231      y
 21    361     77      8    153      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC057.ampDAP:M0675:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC057.ampDAP:M0675:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61193,7 +61193,7 @@ P0      A      C      G      T
 20    153    179     11    257      h
 21    454      9     39     98      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC103.DAP:M0676:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC103.DAP:M0676:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61232,7 +61232,7 @@ P0      A      C      G      T
 14    507     80      0      0      A
 15      0      0    587      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTM2.DAP:M0677:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTM2.DAP:M0677:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61277,7 +61277,7 @@ P0      A      C      G      T
 20    147    180     92    157      h
 21     96    262     85    133      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC046.DAP:M0678:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC046.DAP:M0678:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61320,7 +61320,7 @@ P0      A      C      G      T
 18    399    161      0     28      m
 19    462     14      6    106      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAM.DAP:M0679:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAM.DAP:M0679:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61367,7 +61367,7 @@ P0      A      C      G      T
 22     81     51     53    188      t
 23     90    111     48    124      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND2.ampDAP:M0680:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND2.ampDAP:M0680:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61412,7 +61412,7 @@ P0      A      C      G      T
 20    327    115     57     99      a
 21    300     54     87    157      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTM1.ampDAP:M0681:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTM1.ampDAP:M0681:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61453,7 +61453,7 @@ P0      A      C      G      T
 16    110    223    115    152      y
 17    428     92      8     72      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC057.DAP:M0682:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC057.DAP:M0682:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61488,7 +61488,7 @@ P0      A      C      G      T
 10     46    242     39    269      y
 11    116     70    115    295      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAP.DAP:M0683:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAP.DAP:M0683:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61527,7 +61527,7 @@ P0      A      C      G      T
 14    104    104    156    234      k
 15    504     11      0     83      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC062.DAP:M0684:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC062.DAP:M0684:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61566,7 +61566,7 @@ P0      A      C      G      T
 14    456    143      0      0      A
 15      0      0    599      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC075.DAP:M0685:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC075.DAP:M0685:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61611,7 +61611,7 @@ P0      A      C      G      T
 20    221    134     25    137      h
 21    404     13     30     70      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC087.ampDAP:M0686:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC087.ampDAP:M0686:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61654,7 +61654,7 @@ P0      A      C      G      T
 18    372    225      0      0      m
 19      0      0    583     14      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC017.DAP:M0687:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC017.DAP:M0687:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61693,7 +61693,7 @@ P0      A      C      G      T
 14    332    267      1      0      m
 15      2      0    574     24      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND6.ampDAP:M0688:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND6.ampDAP:M0688:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61736,7 +61736,7 @@ P0      A      C      G      T
 18    107    252     83    141      c
 19    141     83    152    207      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC2.DAP:M0689:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC2.DAP:M0689:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61776,7 +61776,7 @@ P0      A      C      G      T
 15    503     15      5     65      A
 16    571      0      0     17      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND3.DAP:M0690:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND3.DAP:M0690:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61816,7 +61816,7 @@ P0      A      C      G      T
 15    301      5      4    287      w
 16     68    246     41    242      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC103.ampDAP:M0691:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC103.ampDAP:M0691:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61857,7 +61857,7 @@ P0      A      C      G      T
 16    569      0      0     18      A
 17     97    222     97    171      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VND3.ampDAP:M0692:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=VND3.ampDAP:M0692:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61897,7 +61897,7 @@ P0      A      C      G      T
 15    364     81      7    125      a
 16    544      1      0     32      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC1.DAP:M0693:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC1.DAP:M0693:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61942,7 +61942,7 @@ P0      A      C      G      T
 20    533      2      1     25      A
 21    165    169     84    143      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC079.DAP:M0694:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC079.DAP:M0694:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -61977,7 +61977,7 @@ P0      A      C      G      T
 10     43    241     34    276      y
 11    130     71    135    258      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAM.ampDAP:M0695:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAM.ampDAP:M0695:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62016,7 +62016,7 @@ P0      A      C      G      T
 14     59    256     38    237      y
 15    396     39      0    155      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC092.DAP:M0696:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC092.DAP:M0696:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62056,7 +62056,7 @@ P0      A      C      G      T
 15    345    236      0      0      m
 16      0      0    571     10      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC2.ampDAP:M0697:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC2.ampDAP:M0697:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62099,7 +62099,7 @@ P0      A      C      G      T
 18    349     73      9    144      w
 19    555      0      0     20      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC087.DAP:M0698:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC087.DAP:M0698:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62141,7 +62141,7 @@ P0      A      C      G      T
 17     61    342     22    165      y
 18     28    462      7     93      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC096.ampDAP:M0699:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC096.ampDAP:M0699:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62181,7 +62181,7 @@ P0      A      C      G      T
 15    181    130      7    243      w
 16    443      4      5    109      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC3.ampDAP:M0700:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC3.ampDAP:M0700:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62220,7 +62220,7 @@ P0      A      C      G      T
 14     36    181    155    221      b
 15    416    117      0     60      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC016.ampDAP:M0701:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC016.ampDAP:M0701:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62261,7 +62261,7 @@ P0      A      C      G      T
 16      0      0    416      6      G
 17     71    100    126    125      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAP.ampDAP:M0702:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAP.ampDAP:M0702:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62301,7 +62301,7 @@ P0      A      C      G      T
 15    380     83      3    125      a
 16    558      2      0     31      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC079.ampDAP:M0703:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC079.ampDAP:M0703:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62341,7 +62341,7 @@ P0      A      C      G      T
 15    500     81      0      0      A
 16      0      0    581      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G19040.DAP:M0704:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G19040.DAP:M0704:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62386,7 +62386,7 @@ P0      A      C      G      T
 20    305     34      6     68      A
 21    384      7      1     21      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC038.ampDAP:M0705:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC038.ampDAP:M0705:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62428,7 +62428,7 @@ P0      A      C      G      T
 17     30    162    154    205      b
 18    120    197     15    219      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC094.DAP:M0706:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC094.DAP:M0706:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62467,7 +62467,7 @@ P0      A      C      G      T
 14     48    343     32    174      y
 15    150    132      2    313      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SND2.DAP:M0707:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SND2.DAP:M0707:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62508,7 +62508,7 @@ P0      A      C      G      T
 16    362     80      2      0      A
 17      0      0    441      3      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC013.ampDAP:M0708:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC013.ampDAP:M0708:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62551,7 +62551,7 @@ P0      A      C      G      T
 18    159     68      0      0      M
 19      0      0    225      2      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CUC1.ampDAP:M0709:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=CUC1.ampDAP:M0709:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62596,7 +62596,7 @@ P0      A      C      G      T
 20    227      0      0      1      A
 21     32    125     17     54      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC011.DAP:M0710:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC011.DAP:M0710:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62637,7 +62637,7 @@ P0      A      C      G      T
 16      0      0     97      0      G
 17      3     20     43     31      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G12910.DAP:M0711:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G12910.DAP:M0711:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62691,7 +62691,7 @@ P0      A      C      G      T
 29     17      0      0      0      A
 30     17      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FRS9.ampDAP:M0712:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FRS9.ampDAP:M0712:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62736,7 +62736,7 @@ P0      A      C      G      T
 20     34     69     18    454      T
 21     42    404     10    119      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FRS9.DAP:M0713:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=FRS9.DAP:M0713:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62770,7 +62770,7 @@ P0      A      C      G      T
 09      0    584      0      0      C
 10     59     45      5    475      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G28920.DAP:M0714:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G28920.DAP:M0714:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62809,7 +62809,7 @@ P0      A      C      G      T
 14    431     28     62     74      A
 15    136    130    234     95      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL95.DAP:M0715:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL95.DAP:M0715:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62848,7 +62848,7 @@ P0      A      C      G      T
 14     55     97     51     67      c
 15    111     52     48     59      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASHR1.DAP:M0716:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASHR1.DAP:M0716:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62887,7 +62887,7 @@ P0      A      C      G      T
 14     58    130     93     84      s
 15    130     89     88     58      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtNLP4.DAP:M0717:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtNLP4.DAP:M0717:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62926,7 +62926,7 @@ P0      A      C      G      T
 14    232     75    131    162      w
 15    301     31    112    156      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BBX31.DAP:M0718:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=BBX31.DAP:M0718:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -62968,7 +62968,7 @@ P0      A      C      G      T
 17    163    212     14     78      m
 18    133    176      5    153      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G24250.DAP:M0719:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G24250.DAP:M0719:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63009,7 +63009,7 @@ P0      A      C      G      T
 16     84     79     77    119      t
 17    154     37     59    109      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G23810.DAP:M0720:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G23810.DAP:M0720:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63048,7 +63048,7 @@ P0      A      C      G      T
 14    420     34     66     80      A
 15    149    112    227    112      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G01818.DAP:M0721:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G01818.DAP:M0721:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63089,7 +63089,7 @@ P0      A      C      G      T
 16      9      8    508     65      G
 17     73    159    161    197      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1.DAP:M0722:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1.DAP:M0722:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63134,7 +63134,7 @@ P0      A      C      G      T
 20     24     15    481     71      G
 21     74    147    153    217      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1.ampDAP:M0723:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1.ampDAP:M0723:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63179,7 +63179,7 @@ P0      A      C      G      T
 20    349     23     24    156      w
 21    235    105    104    108      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM19.ampDAP:M0724:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM19.ampDAP:M0724:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63218,7 +63218,7 @@ P0      A      C      G      T
 14    394    120     59      0      A
 15    383     51     87     52      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM19.DAP:M0725:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM19.DAP:M0725:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63254,7 +63254,7 @@ P0      A      C      G      T
 11     60      6      5     93      w
 12     64     13     54     33      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G31460.DAP:M0726:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G31460.DAP:M0726:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63293,7 +63293,7 @@ P0      A      C      G      T
 14    130     31     63    376      t
 15      0    518      0     82      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RKD2.ampDAP:M0727:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RKD2.ampDAP:M0727:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63336,7 +63336,7 @@ P0      A      C      G      T
 18     92    217     53    225      y
 19    133    210     91    153      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RKD2.DAP:M0728:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=RKD2.DAP:M0728:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63375,7 +63375,7 @@ P0      A      C      G      T
 14    182     73    209    131      r
 15    206     73    167    149      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NLP7.DAP:M0729:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=NLP7.DAP:M0729:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63414,7 +63414,7 @@ P0      A      C      G      T
 14    414     26     79     79      A
 15    150    114    225    109      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G09735.DAP:M0730:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G09735.DAP:M0730:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63448,7 +63448,7 @@ P0      A      C      G      T
 09    402     48      5    145      a
 10    148    187     73    192      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL5.ampDAP:M0731:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL5.ampDAP:M0731:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63483,7 +63483,7 @@ P0      A      C      G      T
 10     38      3    450    109      G
 11    436     48     24     92      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL9.ampDAP:M0733:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL9.ampDAP:M0733:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63522,7 +63522,7 @@ P0      A      C      G      T
 14    296     77    122     93      a
 15    148     98     53    289      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL15.ampDAP:M0734:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL15.ampDAP:M0734:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63556,7 +63556,7 @@ P0      A      C      G      T
 09    325     81    101     91      a
 10    240    117     94    147      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1.ampDAP:M0735:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1.ampDAP:M0735:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63591,7 +63591,7 @@ P0      A      C      G      T
 10     65      0    484     48      G
 11    381     79      1    136      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1.DAP:M0737:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1.DAP:M0737:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63628,7 +63628,7 @@ P0      A      C      G      T
 12    136    220     56    165      y
 13    222     93    144    118      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL3.ampDAP:M0740:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL3.ampDAP:M0740:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63663,7 +63663,7 @@ P0      A      C      G      T
 10    373     12     29     28      A
 11    261     50     68     63      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL11.DAP:M0741:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL11.DAP:M0741:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63717,7 +63717,7 @@ P0      A      C      G      T
 29      2     21      4      8      c
 30      3     29      0      3      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SRS7.ampDAP:M0744:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SRS7.ampDAP:M0744:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63764,7 +63764,7 @@ P0      A      C      G      T
 22     25      0      0      0      A
 23     22      0      2      1      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SRS7.DAP:M0745:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=SRS7.DAP:M0745:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63801,7 +63801,7 @@ P0      A      C      G      T
 12    427     32     71     66      A
 13     59    294     74    169      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g72010.ampDAP:M0748:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g72010.ampDAP:M0748:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63837,7 +63837,7 @@ P0      A      C      G      T
 11     11    553      9     19      C
 12    215    161     47    169      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP3.ampDAP:M0750:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP3.ampDAP:M0750:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63882,7 +63882,7 @@ P0      A      C      G      T
 20    543      0     47      0      A
 21     16    433     42     99      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20.DAP:M0752:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20.DAP:M0752:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63917,7 +63917,7 @@ P0      A      C      G      T
 10    196    242     24     89      m
 11    211     88     92    160      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP16.ampDAP:M0753:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP16.ampDAP:M0753:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63954,7 +63954,7 @@ P0      A      C      G      T
 12    446     45     57     32      A
 13     44    358     49    129      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g69690.DAP:M0755:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g69690.DAP:M0755:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -63991,7 +63991,7 @@ P0      A      C      G      T
 12    445     36     61     45      A
 13     54    320     66    147      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g69690.ampDAP:M0756:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g69690.ampDAP:M0756:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64027,7 +64027,7 @@ P0      A      C      G      T
 11    436     42     52     54      A
 12     51    326     61    146      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g08330.ampDAP:M0757:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g08330.ampDAP:M0757:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64062,7 +64062,7 @@ P0      A      C      G      T
 10    409     23     62     34      A
 11     39    304     60    125      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At2g45680.ampDAP:M0758:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At2g45680.ampDAP:M0758:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64098,7 +64098,7 @@ P0      A      C      G      T
 11      0    534      0      8      C
 12    174    178     60    130      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20.ampDAP:M0759:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20.ampDAP:M0759:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64135,7 +64135,7 @@ P0      A      C      G      T
 12    279     82     66    100      a
 13    136    204     67    120      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PTF1.ampDAP:M0760:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=PTF1.ampDAP:M0760:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64170,7 +64170,7 @@ P0      A      C      G      T
 10     81      2      0      0      A
 11      5     66      6      6      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP17.ampDAP:M0766:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP17.ampDAP:M0766:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64205,7 +64205,7 @@ P0      A      C      G      T
 10     80      0      0      0      A
 11      0     80      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP16.DAP:M0767:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP16.DAP:M0767:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64240,7 +64240,7 @@ P0      A      C      G      T
 10     35      2      0      1      A
 11      0     35      2      1      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP24.ampDAP:M0768:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP24.ampDAP:M0768:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64274,7 +64274,7 @@ P0      A      C      G      T
 09    363      0      0    237      w
 10    332     17     78    173      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GTL1.ampDAP:M0769:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GTL1.ampDAP:M0769:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64313,7 +64313,7 @@ P0      A      C      G      T
 14    386     23      2    189      w
 15    354     67     45    134      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G47660.ampDAP:M0770:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G47660.ampDAP:M0770:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64347,7 +64347,7 @@ P0      A      C      G      T
 09    430      0      0    169      W
 10    367     26     66    140      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GTL1.DAP:M0771:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GTL1.DAP:M0771:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64386,7 +64386,7 @@ P0      A      C      G      T
 14    184     75    259     78      r
 15    231     61    124    180      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G05550.DAP:M0772:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G05550.DAP:M0772:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64424,7 +64424,7 @@ P0      A      C      G      T
 13    389     99     19     92      a
 14    374     47     47    131      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G33550.ampDAP:M0774:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G33550.ampDAP:M0774:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64463,7 +64463,7 @@ P0      A      C      G      T
 14    185     50    278     77      r
 15    214     62    128    186      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G05550.ampDAP:M0775:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G05550.ampDAP:M0775:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64498,7 +64498,7 @@ P0      A      C      G      T
 10    387     27     46    138      a
 11    280     65     54    199      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT2.ampDAP:M0776:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT2.ampDAP:M0776:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64533,7 +64533,7 @@ P0      A      C      G      T
 10    418     32     47    101      A
 11    303     90     37    168      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g14180.DAP:M0777:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g14180.DAP:M0777:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64577,7 +64577,7 @@ P0      A      C      G      T
 19    143     49     81    327      t
 20    181     46     78    295      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G25990.ampDAP:M0778:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G25990.ampDAP:M0778:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64616,7 +64616,7 @@ P0      A      C      G      T
 14    270     21     92    214      w
 15    336     28    115    118      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10030.ampDAP:M0779:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10030.ampDAP:M0779:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64654,7 +64654,7 @@ P0      A      C      G      T
 13     59    194     47    298      y
 14    297     29    139    133      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10030.DAP:M0781:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10030.DAP:M0781:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64693,7 +64693,7 @@ P0      A      C      G      T
 14    129    202    120    104      c
 15    162     64    199    130      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G58630.DAP:M0782:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G58630.DAP:M0782:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64732,7 +64732,7 @@ P0      A      C      G      T
 14    112    216    105     99      c
 15    144     74    198    116      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G58630.ampDAP:M0783:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G58630.ampDAP:M0783:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64775,7 +64775,7 @@ P0      A      C      G      T
 18    185     82     25    145      w
 19     84    147     55    151      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT1.DAP:M0784:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT1.DAP:M0784:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64817,7 +64817,7 @@ P0      A      C      G      T
 17    268     26     26     18      A
 18    210     25     25     78      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G33550.DAP:M0787:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G33550.DAP:M0787:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64852,7 +64852,7 @@ P0      A      C      G      T
 10    118    432      4     46      C
 11     71     83    330    116      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY15.DAP:M0791:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY15.DAP:M0791:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64891,7 +64891,7 @@ P0      A      C      G      T
 14    191    146    117    146      a
 15    176    132     63    229      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY8.DAP:M0792:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY8.DAP:M0792:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64928,7 +64928,7 @@ P0      A      C      G      T
 12    183    148    113    156      w
 13    117    141     67    275      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY27.ampDAP:M0793:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY27.ampDAP:M0793:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -64965,7 +64965,7 @@ P0      A      C      G      T
 12    166    141    146    147      a
 13    164    187     73    176      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY75.DAP:M0794:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY75.DAP:M0794:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65000,7 +65000,7 @@ P0      A      C      G      T
 10     77    304    156     62      s
 11    166     53    321     59      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18.DAP:M0795:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18.DAP:M0795:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65037,7 +65037,7 @@ P0      A      C      G      T
 12    188    140    114    157      w
 13    138    135     76    250      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY29.ampDAP:M0796:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY29.ampDAP:M0796:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65076,7 +65076,7 @@ P0      A      C      G      T
 14    145    110    133    212      t
 15    162    163     81    194      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY25.ampDAP:M0797:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY25.ampDAP:M0797:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65113,7 +65113,7 @@ P0      A      C      G      T
 12     39     21     14    526      T
 13     61     61     87    391      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY22.ampDAP:M0798:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY22.ampDAP:M0798:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65150,7 +65150,7 @@ P0      A      C      G      T
 12    132    103    130    235      t
 13    140    164     91    205      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18.ampDAP:M0801:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18.ampDAP:M0801:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65186,7 +65186,7 @@ P0      A      C      G      T
 11     75     56     20    448      T
 12     93     92    112    302      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY65.ampDAP:M0802:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY65.ampDAP:M0802:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65223,7 +65223,7 @@ P0      A      C      G      T
 12    103     52     31    414      T
 13    103     98    100    299      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY24.ampDAP:M0803:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY24.ampDAP:M0803:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65260,7 +65260,7 @@ P0      A      C      G      T
 12     59     40     20    481      T
 13     71     83     99    347      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY75.ampDAP:M0804:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY75.ampDAP:M0804:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65296,7 +65296,7 @@ P0      A      C      G      T
 11     58     69     82    391      t
 12    106     92    130    272      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY45.DAP:M0805:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY45.DAP:M0805:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65333,7 +65333,7 @@ P0      A      C      G      T
 12    153    178    132    136      m
 13    137    145     70    247      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY14.ampDAP:M0809:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY14.ampDAP:M0809:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65372,7 +65372,7 @@ P0      A      C      G      T
 14    138    131     82    249      t
 15    149    163     98    190      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY40.DAP:M0812:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY40.DAP:M0812:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65408,7 +65408,7 @@ P0      A      C      G      T
 11     39     39     10    509      T
 12     71     66     78    382      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY15.ampDAP:M0813:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY15.ampDAP:M0813:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65443,7 +65443,7 @@ P0      A      C      G      T
 10    150    436      0     13      M
 11     93     66    392     48      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY25.DAP:M0814:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY25.DAP:M0814:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65482,7 +65482,7 @@ P0      A      C      G      T
 14    141     87    141    230      t
 15    125    148     84    242      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY6.ampDAP:M0816:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY6.ampDAP:M0816:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65519,7 +65519,7 @@ P0      A      C      G      T
 12    111    219    141    127      c
 13    131    177     62    228      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY30.ampDAP:M0818:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY30.ampDAP:M0818:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65556,7 +65556,7 @@ P0      A      C      G      T
 12    143     67     99    289      t
 13    125     76    164    233      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY31.ampDAP:M0819:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY31.ampDAP:M0819:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65595,7 +65595,7 @@ P0      A      C      G      T
 14     47     55     46    451      T
 15    112     90     81    316      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY8.ampDAP:M0820:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY8.ampDAP:M0820:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65630,7 +65630,7 @@ P0      A      C      G      T
 10    169    390      1     23      m
 11    139     88    289     67      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY45.ampDAP:M0821:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY45.ampDAP:M0821:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65665,7 +65665,7 @@ P0      A      C      G      T
 10    233    155     86    117      m
 11    194    110    196     91      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY50.ampDAP:M0824:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY50.ampDAP:M0824:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65700,7 +65700,7 @@ P0      A      C      G      T
 10     80    501      0     13      C
 11     58     75    352    109      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY21.DAP:M0827:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY21.DAP:M0827:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65739,7 +65739,7 @@ P0      A      C      G      T
 14     83     42    419     45      G
 15    188    160    118    123      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY43.ampDAP:M0828:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY43.ampDAP:M0828:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65777,7 +65777,7 @@ P0      A      C      G      T
 13     84     72     94    256      t
 14     91     95    105    215      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY43.DAP:M0831:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY43.DAP:M0831:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65812,7 +65812,7 @@ P0      A      C      G      T
 10     31     64    404     84      G
 11    125    219    129    110      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY30.DAP:M0832:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY30.DAP:M0832:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65847,7 +65847,7 @@ P0      A      C      G      T
 10     72     62     90    364      t
 11     82     63    155    288      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY26.ampDAP:M0833:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY26.ampDAP:M0833:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65884,7 +65884,7 @@ P0      A      C      G      T
 12     44     56     20    458      T
 13     80     68    112    318      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY21.ampDAP:M0834:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY21.ampDAP:M0834:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65921,7 +65921,7 @@ P0      A      C      G      T
 12    150    281     82     48      m
 13    196     75    241     49      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY40.ampDAP:M0835:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY40.ampDAP:M0835:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -65964,7 +65964,7 @@ P0      A      C      G      T
 18    127     77    117    230      t
 19    102    123    100    226      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY47.ampDAP:M0836:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY47.ampDAP:M0836:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66001,7 +66001,7 @@ P0      A      C      G      T
 12      3     35    305     46      G
 13    110    118     80     81      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY17.ampDAP:M0837:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY17.ampDAP:M0837:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66045,7 +66045,7 @@ P0      A      C      G      T
 19    134     51    129    130      d
 20     80     54    111    199      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY42.ampDAP:M0838:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY42.ampDAP:M0838:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66090,7 +66090,7 @@ P0      A      C      G      T
 20      3     10    138     12      G
 21     59     50     37     17      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY7.ampDAP:M0843:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY7.ampDAP:M0843:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66125,7 +66125,7 @@ P0      A      C      G      T
 10     34     88      1      5      M
 11     16     13     82     17      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY28.ampDAP:M0844:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY28.ampDAP:M0844:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66160,7 +66160,7 @@ P0      A      C      G      T
 10     21    105      0      4      C
 11      1      4    107     18      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY46.ampDAP:M0845:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY46.ampDAP:M0845:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66195,7 +66195,7 @@ P0      A      C      G      T
 10      2    583      0     14      C
 11     41     50    427     81      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G42860.DAP:M0850:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G42860.DAP:M0850:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66230,7 +66230,7 @@ P0      A      C      G      T
 10     12    178    149    258      y
 11    168     95    203    131      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB25.ampDAP:M0853:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB25.ampDAP:M0853:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66269,7 +66269,7 @@ P0      A      C      G      T
 14    341      9    245      0      r
 15     68    150    131    246      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB34.ampDAP:M0854:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB34.ampDAP:M0854:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66304,7 +66304,7 @@ P0      A      C      G      T
 10     52     97     78    337      t
 11    127     90    138    209      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB23.ampDAP:M0855:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB23.ampDAP:M0855:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66339,7 +66339,7 @@ P0      A      C      G      T
 10    429      4      0    167      W
 11     18     19     11    552      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtHB32.DAP:M0856:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtHB32.DAP:M0856:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66378,7 +66378,7 @@ P0      A      C      G      T
 14    182     69    123    226      w
 15    340     38     62    160      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB24.ampDAP:M0858:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB24.ampDAP:M0858:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66417,7 +66417,7 @@ P0      A      C      G      T
 14    352     22    194     17      r
 15     42    153    137    253      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB33.ampDAP:M0859:AthalianaCistrome
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB33.ampDAP:M0859:AthalianaCistrome
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -66450,7 +66450,7 @@ XX
 BS  26614;
 BS  26615;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PROTEIN:1vol_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=PROTEIN:1vol_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 7675079
@@ -66481,7 +66481,7 @@ XX
 BS  61248;
 BS  61249;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Lysine-specific:6jnl_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Lysine-specific:6jnl_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 31048693
@@ -66514,7 +66514,7 @@ XX
 BS  26561;
 BS  26562;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA:1vtl_E:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA:1vtl_E:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 8413605
@@ -66548,7 +66548,7 @@ XX
 BS  60750;
 BS  60751;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Transcription:5gnj_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Transcription:5gnj_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 28514654
@@ -66579,7 +66579,7 @@ XX
 BS  60955;
 BS  60956;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:6j9a_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:6j9a_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 30962525
@@ -66610,7 +66610,7 @@ XX
 BS  60955;
 BS  60956;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:6j9b_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:6j9b_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 30962525
@@ -66641,7 +66641,7 @@ XX
 BS  60955;
 BS  60956;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:6j9c_D:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:6j9c_D:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 30962525
@@ -66672,7 +66672,7 @@ XX
 BS  61248;
 BS  61382;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Lysine-specific:6jnn_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Lysine-specific:6jnn_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 31048693
@@ -66729,7 +66729,7 @@ BS  54716;
 BS  54717;
 BS  54718;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1:RAV1:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1:RAV1:1)(Athamap
 XX
 CC  sequences selected with recombinant RAV1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification; SELEX
 XX
@@ -66796,7 +66796,7 @@ BS  61776;
 BS  61779;
 BS  61780;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-5:MA0110.3:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-5:MA0110.3:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -66850,7 +66850,7 @@ BS  62316;
 BS  62317;
 BS  62318;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FUS3:MA0565.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=FUS3:MA0565.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -66920,7 +66920,7 @@ BS  62334;
 BS  62338;
 BS  62336;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF1:MA0570.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF1:MA0570.2:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -66958,7 +66958,7 @@ P0      A      C      G      T
 11     12     14     16     10      s
 12      8     20      5     13      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV1:RAV1:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV1:RAV1:2)(Athamap
 XX
 CC  sequences selected with recombinant RAV1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification; SELEX
 XX
@@ -67024,7 +67024,7 @@ BS  62907;
 BS  62908;
 BS  62909;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF3:MA0974.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF3:MA0974.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67091,7 +67091,7 @@ BS  62925;
 BS  69985;
 BS  62928;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRF4:MA0976.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRF4:MA0976.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67157,7 +67157,7 @@ BS  62946;
 BS  62947;
 BS  62948;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-10:MA0980.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-10:MA0980.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67223,7 +67223,7 @@ BS  62965;
 BS  62966;
 BS  62967;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF4:MA0992.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF4:MA0992.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67280,7 +67280,7 @@ BS  62984;
 BS  62985;
 BS  62986;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF039:MA0995.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF039:MA0995.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67339,7 +67339,7 @@ BS  62965;
 BS  62994;
 BS  62995;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11:MA1001.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11:MA1001.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67402,7 +67402,7 @@ BS  63012;
 BS  63013;
 BS  63014;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3:MA1005.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3:MA1005.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67474,7 +67474,7 @@ BS  63032;
 BS  63033;
 BS  63034;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA5:MA1047.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA5:MA1047.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67547,7 +67547,7 @@ BS  63052;
 BS  63053;
 BS  63054;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP15:MA1062.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP15:MA1062.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67618,7 +67618,7 @@ BS  63052;
 BS  63053;
 BS  63060;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP20:MA1065.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP20:MA1065.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67691,7 +67691,7 @@ BS  63076;
 BS  63079;
 BS  63080;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY15:MA1076.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY15:MA1076.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67753,7 +67753,7 @@ BS  63256;
 BS  63257;
 BS  63258;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF027:MA1227.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF027:MA1227.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67815,7 +67815,7 @@ BS  63276;
 BS  63277;
 BS  63278;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF021:MA1233.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF021:MA1233.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67880,7 +67880,7 @@ BS  63296;
 BS  63297;
 BS  63298;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF38:MA1238.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF38:MA1238.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -67945,7 +67945,7 @@ BS  63308;
 BS  63011;
 BS  63309;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G33710:MA1245.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G33710:MA1245.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68004,7 +68004,7 @@ BS  63327;
 BS  63328;
 BS  63329;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF015:MA1265.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF015:MA1265.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68068,7 +68068,7 @@ BS  63345;
 BS  63348;
 BS  70468;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY28:MA1311.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY28:MA1311.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68123,7 +68123,7 @@ BS  63361;
 BS  63362;
 BS  70490;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB23:MA1327.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB23:MA1327.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68190,7 +68190,7 @@ BS  63380;
 BS  63382;
 BS  63381;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZHD1:MA1329.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZHD1:MA1329.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68248,7 +68248,7 @@ BS  58529;
 BS  58530;
 BS  58531;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP1:MA1352.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP1:MA1352.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68307,7 +68307,7 @@ BS  58543;
 BS  58544;
 BS  58545;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G72740:MA1353.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G72740:MA1353.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68369,7 +68369,7 @@ BS  58563;
 BS  58564;
 BS  58565;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TBP3:MA1355.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TBP3:MA1355.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68429,7 +68429,7 @@ BS  58575;
 BS  58576;
 BS  58577;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP2:MA1356.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP2:MA1356.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68494,7 +68494,7 @@ BS  63400;
 BS  63401;
 BS  63402;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G47660:MA1365.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G47660:MA1365.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68564,7 +68564,7 @@ BS  63419;
 BS  63420;
 BS  63422;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT-4:MA1368.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT-4:MA1368.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68636,7 +68636,7 @@ BS  63441;
 BS  63440;
 BS  63442;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB33:MA1391.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB33:MA1391.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68699,7 +68699,7 @@ BS  63460;
 BS  63461;
 BS  63462;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB70:MA1393.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB70:MA1393.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68768,7 +68768,7 @@ BS  63477;
 BS  63480;
 BS  63481;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB73:MA1394.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB73:MA1394.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68835,7 +68835,7 @@ BS  63500;
 BS  63501;
 BS  63502;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KUA1:MA1398.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=KUA1:MA1398.2:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68876,7 +68876,7 @@ P0      A      C      G      T
 14    285    172    293    248      r
 15    275    330    191    203      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF019:MA1424.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF019:MA1424.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -68914,7 +68914,7 @@ P0      A      C      G      T
 11    177    466    177    177      c
 12    321    226    226    226      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HYH:MA1425.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HYH:MA1425.1:JASPAR
 XX
 CC  PBM
 XX
@@ -68950,7 +68950,7 @@ P0      A      C      G      T
 09     80    610    159    149      c
 10    271    222    197    309      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB124:MA1426.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB124:MA1426.1:JASPAR
 XX
 CC  PBM
 XX
@@ -68985,7 +68985,7 @@ P0      A      C      G      T
 08    480    100    419      0      r
 09    171    159     69    600      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC028:MA1427.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC028:MA1427.1:JASPAR
 XX
 CC  PBM
 XX
@@ -69020,7 +69020,7 @@ P0      A      C      G      T
 08    864      1    113     20      A
 09     32    725     97    145      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP8:MA1428.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP8:MA1428.1:JASPAR
 XX
 CC  PBM
 XX
@@ -69056,7 +69056,7 @@ P0      A      C      G      T
 09    143    648     13    195      c
 10    385    405    119     89      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TB1:MA1430.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TB1:MA1430.1:JASPAR
 XX
 CC  PBM
 XX
@@ -69121,7 +69121,7 @@ BS  64883;
 BS  64884;
 BS  64885;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF4:MA1659.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF4:MA1659.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69209,7 +69209,7 @@ BS  65064;
 BS  64905;
 BS  71262;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC13:MA1660.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC13:MA1660.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69271,7 +69271,7 @@ BS  64923;
 BS  64924;
 BS  64925;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT-GTL1:MA1661.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT-GTL1:MA1661.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69345,7 +69345,7 @@ BS  71278;
 BS  64945;
 BS  71279;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G10030:MA1662.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G10030:MA1662.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69409,7 +69409,7 @@ BS  64963;
 BS  64964;
 BS  64965;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DPBF3:MA1668.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DPBF3:MA1668.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -69470,7 +69470,7 @@ BS  71363;
 BS  64985;
 BS  64984;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1B:MA1669.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1B:MA1669.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69541,7 +69541,7 @@ BS  64992;
 BS  64993;
 BS  63258;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1C:MA1670.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1C:MA1670.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69605,7 +69605,7 @@ BS  65011;
 BS  65012;
 BS  65013;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF118:MA1671.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF118:MA1671.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69671,7 +69671,7 @@ BS  65033;
 BS  65032;
 BS  65034;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF2:MA1672.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF2:MA1672.1:JASPAR
 XX
 CC  PBM
 XX
@@ -69736,7 +69736,7 @@ BS  65051;
 BS  71389;
 BS  65053;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD18:MA1673.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD18:MA1673.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69807,7 +69807,7 @@ BS  64889;
 BS  64890;
 BS  65066;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC017:MA1674.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC017:MA1674.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69876,7 +69876,7 @@ BS  65081;
 BS  65085;
 BS  65083;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC029:MA1675.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC029:MA1675.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -69947,7 +69947,7 @@ BS  65103;
 BS  65104;
 BS  65105;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC062:MA1676.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC062:MA1676.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70010,7 +70010,7 @@ BS  65123;
 BS  65124;
 BS  65125;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC078:MA1677.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC078:MA1677.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70081,7 +70081,7 @@ BS  65141;
 BS  65142;
 BS  65143;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL8:MA1678.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL8:MA1678.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70149,7 +70149,7 @@ BS  65158;
 BS  65159;
 BS  65160;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-1:MA1679.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-1:MA1679.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70210,7 +70210,7 @@ BS  65178;
 BS  65179;
 BS  65180;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RVE7:MA1680.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RVE7:MA1680.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -70271,7 +70271,7 @@ BS  65198;
 BS  65199;
 BS  65200;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SRM1:MA1681.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SRM1:MA1681.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70336,7 +70336,7 @@ BS  65218;
 BS  65219;
 BS  65220;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCX3:MA1682.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCX3:MA1682.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70401,7 +70401,7 @@ BS  65252;
 BS  71478;
 BS  71479;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF10:MA1685.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF10:MA1685.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70457,7 +70457,7 @@ BS  65264;
 BS  65265;
 BS  65266;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF13:MA1686.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF13:MA1686.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70520,7 +70520,7 @@ BS  71484;
 BS  65281;
 BS  65282;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF14:MA1687.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF14:MA1687.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70591,7 +70591,7 @@ BS  65298;
 BS  65299;
 BS  65300;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF16:MA1688.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF16:MA1688.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70662,7 +70662,7 @@ BS  71506;
 BS  65319;
 BS  65321;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF18:MA1689.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF18:MA1689.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70727,7 +70727,7 @@ BS  71513;
 BS  65335;
 BS  71514;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF25:MA1690.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF25:MA1690.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70801,7 +70801,7 @@ BS  71526;
 BS  71527;
 BS  71528;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF27:MA1691.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF27:MA1691.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70874,7 +70874,7 @@ BS  65374;
 BS  65375;
 BS  65376;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF29:MA1692.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF29:MA1692.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -70941,7 +70941,7 @@ BS  65394;
 BS  65395;
 BS  65396;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF34:MA1693.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF34:MA1693.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -71013,7 +71013,7 @@ BS  71578;
 BS  65469;
 BS  71579;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF4:MA1697.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF4:MA1697.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -71083,7 +71083,7 @@ BS  65485;
 BS  71590;
 BS  65484;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF7:MA1698.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF7:MA1698.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -71119,7 +71119,7 @@ P0      A      C      G      T
 09    147    260     54    537      y
 10    299    201    201    297      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G14600:UN0079.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G14600:UN0079.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -71150,7 +71150,7 @@ P0      A      C      G      T
 09    212    310    223    254      y
 10    216    267    190    326      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHL3:UN0080.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHL3:UN0080.1:JASPAR
 XX
 CC  PBM
 XX
@@ -71185,7 +71185,7 @@ P0      A      C      G      T
 07    111     49      0    839      T
 08    138    103     17    741      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CEG01538.1:UN0275.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CEG01538.1:UN0275.1:JASPAR
 XX
 CC  PBM
 XX
@@ -71216,7 +71216,7 @@ P0      A      C      G      T
 07     62      0      0    935      T
 08    997      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PNRC2:UN0276.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PNRC2:UN0276.1:JASPAR
 XX
 CC  PBM
 XX
@@ -71276,7 +71276,7 @@ BS  72845;
 BS  72846;
 BS  72847;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC016:UN0342.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC016:UN0342.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -71358,7 +71358,7 @@ BS  69926;
 BS  68112;
 BS  67681;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC020:UN0343.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC020:UN0343.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -71429,7 +71429,7 @@ BS  70673;
 BS  70674;
 BS  70675;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC028:UN0344.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC028:UN0344.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 27203113
@@ -71510,7 +71510,7 @@ BS  73290;
 BS  73291;
 BS  73292;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC038:UN0345.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC038:UN0345.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -71566,7 +71566,7 @@ BS  67602;
 BS  67674;
 BS  67604;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC057:UN0346.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC057:UN0346.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -71648,7 +71648,7 @@ BS  73316;
 BS  73317;
 BS  73318;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC075:UN0347.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC075:UN0347.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 20935069
@@ -71709,7 +71709,7 @@ BS  73320;
 BS  73321;
 BS  73322;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC076:UN0348.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC076:UN0348.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 20935069
@@ -71778,7 +71778,7 @@ BS  64905;
 BS  67648;
 BS  67659;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC096:UN0349.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC096:UN0349.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -71844,7 +71844,7 @@ BS  67725;
 BS  67726;
 BS  67727;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC103:UN0350.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC103:UN0350.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -71907,7 +71907,7 @@ BS  67745;
 BS  67746;
 BS  67747;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARID6:UN0351.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARID6:UN0351.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -71974,7 +71974,7 @@ BS  73357;
 BS  73358;
 BS  73359;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASIL2:UN0352.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASIL2:UN0352.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -72048,7 +72048,7 @@ BS  67786;
 BS  73917;
 BS  73918;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G11100:UN0353.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G11100:UN0353.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72104,7 +72104,7 @@ BS  67803;
 BS  67804;
 BS  67805;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G42860:UN0354.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G42860:UN0354.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72166,7 +72166,7 @@ BS  73927;
 BS  67823;
 BS  67824;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G49930:UN0355.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G49930:UN0355.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72233,7 +72233,7 @@ BS  73364;
 BS  67756;
 BS  67757;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G05550:UN0356.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G05550:UN0356.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -72283,7 +72283,7 @@ BS  67850;
 BS  67851;
 BS  67852;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G23930:UN0357.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G23930:UN0357.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72350,7 +72350,7 @@ BS  73369;
 BS  73370;
 BS  73371;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATMYB13:UN0358.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATMYB13:UN0358.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 19122102
@@ -72416,7 +72416,7 @@ BS  67891;
 BS  67892;
 BS  67890;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH28:UN0359.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH28:UN0359.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72469,7 +72469,7 @@ BS  67909;
 BS  67910;
 BS  67911;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDF5:UN0360.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDF5:UN0360.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -72526,7 +72526,7 @@ BS  67927;
 BS  67928;
 BS  67929;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FD:UN0361.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FD:UN0361.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -72599,7 +72599,7 @@ BS  73947;
 BS  67949;
 BS  73948;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EICBP-B:UN0362.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EICBP-B:UN0362.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72656,7 +72656,7 @@ BS  67967;
 BS  67968;
 BS  67969;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF003:UN0363.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF003:UN0363.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -72719,7 +72719,7 @@ BS  70395;
 BS  70396;
 BS  70397;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF011:UN0364.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF011:UN0364.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9952441
@@ -72776,7 +72776,7 @@ BS  68003;
 BS  68004;
 BS  68005;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT-2:UN0365.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT-2:UN0365.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -72845,7 +72845,7 @@ BS  72866;
 BS  72867;
 BS  72868;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB107:UN0366.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB107:UN0366.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -72920,7 +72920,7 @@ BS  73380;
 BS  73381;
 BS  73382;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB58:UN0367.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB58:UN0367.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -72975,7 +72975,7 @@ BS  68063;
 BS  72869;
 BS  72870;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB99:UN0368.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB99:UN0368.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -73046,7 +73046,7 @@ BS  68081;
 BS  68082;
 BS  68083;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC004:UN0369.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC004:UN0369.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -73103,7 +73103,7 @@ BS  73394;
 BS  73395;
 BS  67588;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC007:UN0370.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC007:UN0370.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 20935069
@@ -73172,7 +73172,7 @@ BS  68103;
 BS  68104;
 BS  68105;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC010:UN0371.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC010:UN0371.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -73251,7 +73251,7 @@ BS  73400;
 BS  72848;
 BS  73401;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC031:UN0372.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC031:UN0372.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -73318,7 +73318,7 @@ BS  73407;
 BS  73408;
 BS  73409;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC035:UN0373.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC035:UN0373.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 22345491
@@ -73377,7 +73377,7 @@ BS  72844;
 BS  67668;
 BS  73410;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC037:UN0374.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC037:UN0374.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 20935069
@@ -73441,7 +73441,7 @@ BS  73412;
 BS  73413;
 BS  73414;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC045:UN0375.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC045:UN0375.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -73504,7 +73504,7 @@ BS  73417;
 BS  73418;
 BS  73419;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC053:UN0376.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC053:UN0376.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -73560,7 +73560,7 @@ BS  68095;
 BS  67602;
 BS  67605;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC101:UN0377.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC101:UN0377.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -73626,7 +73626,7 @@ BS  68165;
 BS  68166;
 BS  68167;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC68:UN0378.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC68:UN0378.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -73687,7 +73687,7 @@ BS  68183;
 BS  68184;
 BS  68185;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=S1FA3:UN0379.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=S1FA3:UN0379.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -73746,7 +73746,7 @@ BS  68134;
 BS  72891;
 BS  67588;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SMB:UN0380.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SMB:UN0380.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -73813,7 +73813,7 @@ BS  73458;
 BS  73459;
 BS  73460;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT6:UN0381.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT6:UN0381.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24834923
@@ -73874,7 +73874,7 @@ BS  73461;
 BS  73462;
 BS  73463;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC105:UN0382.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC105:UN0382.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -73908,7 +73908,7 @@ XX
 BS  34906;
 BS  34907;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ETHYLENE:1gcc_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=ETHYLENE:1gcc_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 9736626
@@ -73941,7 +73941,7 @@ XX
 BS  26543;
 BS  26544;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn3_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn3_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -73974,7 +73974,7 @@ XX
 BS  26545;
 BS  26546;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn4_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn4_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74007,7 +74007,7 @@ XX
 BS  26547;
 BS  26548;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn5_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn5_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74040,7 +74040,7 @@ XX
 BS  26549;
 BS  26550;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn6_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn6_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74073,7 +74073,7 @@ XX
 BS  26551;
 BS  26552;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn7_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn7_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74106,7 +74106,7 @@ XX
 BS  26553;
 BS  26554;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn8_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn8_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74139,7 +74139,7 @@ XX
 BS  26555;
 BS  26556;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qn9_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qn9_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74172,7 +74172,7 @@ XX
 BS  34932;
 BS  34933;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qna_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qna_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74204,7 +74204,7 @@ XX
 BS  26557;
 BS  26558;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qnb_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qnb_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74237,7 +74237,7 @@ XX
 BS  26559;
 BS  26560;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qnc_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qnc_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74270,7 +74270,7 @@ XX
 BS  26561;
 BS  26562;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRANSCRIPTION:1qne_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRANSCRIPTION:1qne_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 10617571
@@ -74303,7 +74303,7 @@ XX
 BS  26561;
 BS  26562;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA:1vto_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA:1vto_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 7634103
@@ -74334,7 +74334,7 @@ XX
 BS  34984;
 BS  34985;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Probable:2lex_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Probable:2lex_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 22219184
@@ -74367,7 +74367,7 @@ P0      A      C      G      T
 XX
 BS  34997;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PROTEIN:2vy1_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=PROTEIN:2vy1_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 18784751
@@ -74400,7 +74400,7 @@ P0      A      C      G      T
 XX
 BS  26723;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PROTEIN:2vy2_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=PROTEIN:2vy2_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 18784751
@@ -74444,7 +74444,7 @@ XX
 BS  26866;
 BS  26867;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC:3swm_ABD:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC:3swm_ABD:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 22455904
@@ -74475,7 +74475,7 @@ XX
 BS  26866;
 BS  26867;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC:3swm_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC:3swm_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 22455904
@@ -74505,7 +74505,7 @@ XX
 BS  26868;
 BS  26869;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC:3swp_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC:3swp_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 22455904
@@ -74548,7 +74548,7 @@ XX
 BS  26868;
 BS  26869;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC:3swp_ABCD:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC:3swp_ABCD:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 22455904
@@ -74584,7 +74584,7 @@ P0      A      C      G      T
 11      0     18      0      0      C
 12     10      8      0      0      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP910:bZIP910:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP910:bZIP910:1)(Athamap
 XX
 CC  sequences selected with recombinant bZIP910 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -74618,7 +74618,7 @@ XX
 BS  26898;
 BS  26899;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FLORICAULA/LEAFY:4bhk_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=FLORICAULA/LEAFY:4bhk_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 24436181
@@ -74661,7 +74661,7 @@ XX
 BS  26898;
 BS  26899;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FLORICAULA/LEAFY:4bhk_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=FLORICAULA/LEAFY:4bhk_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 24436181
@@ -74697,7 +74697,7 @@ P0      A      C      G      T
 11      0      0     17      0      G
 12      0      0      0     17      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP910:bZIP910:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP910:bZIP910:2)(Athamap
 XX
 CC  sequences selected with recombinant bZIP910 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -74733,7 +74733,7 @@ XX
 BS  26971;
 BS  26972;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:4ldx_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:4ldx_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 24485461
@@ -74779,7 +74779,7 @@ XX
 BS  26971;
 BS  26972;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:4ldx_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:4ldx_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 24485461
@@ -74815,7 +74815,7 @@ P0      A      C      G      T
 11      4     18      0      0      C
 12      1     21      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP911:bZIP911:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP911:bZIP911:1)(Athamap
 XX
 CC  sequences selected with recombinant bZIP911 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -74853,7 +74853,7 @@ P0      A      C      G      T
 11      8      1      1      0      A
 12      0     10      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP911:bZIP911:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP911:bZIP911:2)(Athamap
 XX
 CC  sequences selected with recombinant bZIP911 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -74888,7 +74888,7 @@ XX
 BS  60750;
 BS  60751;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Transcription:5gnj_GIN:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Transcription:5gnj_GIN:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 28514654
@@ -74918,7 +74918,7 @@ XX
 BS  60750;
 BS  60751;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Transcription:5gnj_I:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Transcription:5gnj_I:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 28514654
@@ -74953,7 +74953,7 @@ XX
 BS  34906;
 BS  34907;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Ethylene-responsive:5wx9_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Ethylene-responsive:5wx9_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32813232
@@ -74984,7 +74984,7 @@ XX
 BS  60953;
 BS  60954;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:5yzy_C:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:5yzy_C:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 29733847
@@ -75015,7 +75015,7 @@ XX
 BS  60953;
 BS  60954;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:5yzz_C:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:5yzz_C:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 29733847
@@ -75045,7 +75045,7 @@ XX
 BS  60955;
 BS  60956;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:5z00_K:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:5z00_K:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 29733847
@@ -75076,7 +75076,7 @@ XX
 BS  61351;
 BS  61352;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Lysine-specific:6a57_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Lysine-specific:6a57_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32257379
@@ -75112,7 +75112,7 @@ P0      A      C      G      T
 10      2     55     27     16      s
 11     18     23     45     14      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CDC5:CDC5:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=CDC5:CDC5:Athamap
 XX
 CC  sequences selected with recombinant CDC5 from a pool of double-stranded oligonucleotides containing a core of 26 and 14 random nucleotides; 8-10 rounds of selection and amplification; figures are percentages; SELEX
 XX
@@ -75144,7 +75144,7 @@ XX
 BS  60994;
 BS  60995;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B3:6fas_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=B3:6fas_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 29660015
@@ -75176,7 +75176,7 @@ XX
 BS  61246;
 BS  61247;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=OsWRKY45:6ir8_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=OsWRKY45:6ir8_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 30783673
@@ -75209,7 +75209,7 @@ XX
 BS  68347;
 BS  68348;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Probable:6j4f_F:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Probable:6j4f_F:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -75238,7 +75238,7 @@ XX
 BS  61248;
 BS  68351;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Lysine-specific:6jnm_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Lysine-specific:6jnm_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 31048693
@@ -75279,7 +75279,7 @@ XX
 BS  68352;
 BS  68353;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Lysine-specific:6jnn_AN:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Lysine-specific:6jnn_AN:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 31048693
@@ -75311,7 +75311,7 @@ XX
 BS  26543;
 BS  26544;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA-box-binding:6njq_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA-box-binding:6njq_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 31268220
@@ -75343,7 +75343,7 @@ XX
 BS  68380;
 BS  68381;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Nuclear:6r2v_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Nuclear:6r2v_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 33098724
@@ -75379,7 +75379,7 @@ XX
 BS  68382;
 BS  68383;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryd_EF:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryd_EF:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75411,7 +75411,7 @@ XX
 BS  68382;
 BS  68383;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryd_F:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryd_F:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75450,7 +75450,7 @@ XX
 BS  68384;
 BS  68385;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryi_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryi_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75484,7 +75484,7 @@ XX
 BS  68386;
 BS  68387;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryi_DE:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryi_DE:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75513,7 +75513,7 @@ XX
 BS  68386;
 BS  68387;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryi_E:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryi_E:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75553,7 +75553,7 @@ XX
 BS  68388;
 BS  68389;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryl_ABC:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryl_ABC:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75591,7 +75591,7 @@ XX
 BS  68388;
 BS  68389;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryl_DE:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryl_DE:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75622,7 +75622,7 @@ XX
 BS  68388;
 BS  68389;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Protein:6ryl_E:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Protein:6ryl_E:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32376862
@@ -75668,7 +75668,7 @@ XX
 BS  68390;
 BS  68391;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:6sdg_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:6sdg_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32415296
@@ -75701,7 +75701,7 @@ XX
 BS  68390;
 BS  68391;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:6sdg_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:6sdg_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32415296
@@ -75734,7 +75734,7 @@ XX
 BS  26561;
 BS  68399;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA-box-binding:6ueo_G:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA-box-binding:6ueo_G:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 33087930
@@ -75767,7 +75767,7 @@ XX
 BS  26543;
 BS  68399;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA-box-binding:6uep_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA-box-binding:6uep_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 33087930
@@ -75800,7 +75800,7 @@ XX
 BS  68400;
 BS  26562;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA-box-binding:6ueq_B:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA-box-binding:6ueq_B:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 33087930
@@ -75833,7 +75833,7 @@ XX
 BS  26543;
 BS  68399;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TATA-box-binding:6uer_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=TATA-box-binding:6uer_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 33087930
@@ -75866,7 +75866,7 @@ XX
 BS  68424;
 BS  68425;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:6ycq_A:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:6ycq_A:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32929017
@@ -75912,7 +75912,7 @@ XX
 BS  68424;
 BS  68425;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Auxin:6ycq_AB:3D-footprint
+LN  https://footprintdb.eead.csic.es//index.php?motif=Auxin:6ycq_AB:3D-footprint
 XX
 RN  [1];
 RX  PUBMED: 32929017
@@ -75972,7 +75972,7 @@ BS  68479;
 BS  68480;
 BS  68481;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT5:MA0008.3:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT5:MA0008.3:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8253077
@@ -76027,7 +76027,7 @@ BS  69397;
 BS  69398;
 BS  69399;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL3:MA0577.3:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL3:MA0577.3:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 16554053
@@ -76080,7 +76080,7 @@ BS  69915;
 BS  69916;
 BS  69917;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF3:MA0930.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF3:MA0930.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11005831
@@ -76149,7 +76149,7 @@ BS  68112;
 BS  67682;
 BS  68109;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC058:MA0938.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC058:MA0938.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -76206,7 +76206,7 @@ BS  69947;
 BS  69948;
 BS  69949;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM1:MA0964.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM1:MA0964.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 15680330
@@ -76267,7 +76267,7 @@ BS  69967;
 BS  69968;
 BS  69969;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BIM2:MA0965.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BIM2:MA0965.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 15680330
@@ -76330,7 +76330,7 @@ BS  70018;
 BS  70019;
 BS  70020;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF8:MA0994.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF8:MA0994.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9756931
@@ -76386,7 +76386,7 @@ BS  70033;
 BS  70034;
 BS  70035;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF11:MA1001.3:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF11:MA1001.3:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9756931
@@ -76444,7 +76444,7 @@ BS  70069;
 BS  70070;
 BS  70071;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1:MA1055.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1:MA1055.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 16554053
@@ -76504,7 +76504,7 @@ BS  70048;
 BS  70049;
 BS  70050;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2:MA1068.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2:MA1068.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 10662863
@@ -76561,7 +76561,7 @@ BS  70048;
 BS  70049;
 BS  70050;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA6:MA1069.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA6:MA1069.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8487298
@@ -76621,7 +76621,7 @@ BS  70048;
 BS  70049;
 BS  70050;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA7:MA1070.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA7:MA1070.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8487298
@@ -76686,7 +76686,7 @@ BS  70123;
 BS  70124;
 BS  70125;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY21:MA1079.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY21:MA1079.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -76747,7 +76747,7 @@ BS  70135;
 BS  63065;
 BS  63066;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY25:MA1081.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY25:MA1081.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -76806,7 +76806,7 @@ BS  70153;
 BS  70154;
 BS  70155;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY30:MA1083.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY30:MA1083.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -76866,7 +76866,7 @@ BS  70173;
 BS  70174;
 BS  70175;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY45:MA1087.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY45:MA1087.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -76927,7 +76927,7 @@ BS  63071;
 BS  70188;
 BS  70096;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY8:MA1094.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY8:MA1094.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -76986,7 +76986,7 @@ BS  70310;
 BS  70311;
 BS  70312;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHL11:MA1163.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHL11:MA1163.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77045,7 +77045,7 @@ BS  70330;
 BS  70331;
 BS  70332;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HHO6:MA1165.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HHO6:MA1165.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77102,7 +77102,7 @@ BS  70347;
 BS  70348;
 BS  70349;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB3R1:MA1178.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB3R1:MA1178.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77160,7 +77160,7 @@ BS  70374;
 BS  70375;
 BS  70376;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAT22:MA1210.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAT22:MA1210.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8253077
@@ -77218,7 +77218,7 @@ BS  70388;
 BS  70389;
 BS  70390;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZHD3:MA1213.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZHD3:MA1213.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11247607
@@ -77277,7 +77277,7 @@ BS  70415;
 BS  70416;
 BS  70417;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF15:MA1231.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF15:MA1231.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9756931
@@ -77330,7 +77330,7 @@ BS  67898;
 BS  70435;
 BS  70436;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF2.2:MA1272.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF2.2:MA1272.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 10758479
@@ -77393,7 +77393,7 @@ BS  70438;
 BS  70439;
 BS  70461;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY31:MA1307.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY31:MA1307.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 11449049
@@ -77447,7 +77447,7 @@ BS  70484;
 BS  70485;
 BS  70486;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL9:MA1322.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL9:MA1322.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 16554053
@@ -77509,7 +77509,7 @@ BS  64948;
 BS  64949;
 BS  70502;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DPBF3:MA1338.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DPBF3:MA1338.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 10636868
@@ -77565,7 +77565,7 @@ BS  70520;
 BS  70521;
 BS  70522;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GBF3:MA1351.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GBF3:MA1351.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9680995
@@ -77624,7 +77624,7 @@ BS  70540;
 BS  70541;
 BS  70542;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BPE:MA1359.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BPE:MA1359.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 21335373
@@ -77682,7 +77682,7 @@ BS  70551;
 BS  70552;
 BS  70553;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH74:MA1360.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH74:MA1360.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 21335373
@@ -77740,7 +77740,7 @@ BS  70587;
 BS  70588;
 BS  70589;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HHO3:MA1386.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HHO3:MA1386.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77799,7 +77799,7 @@ BS  70607;
 BS  70608;
 BS  70609;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HHO2:MA1390.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HHO2:MA1390.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77853,7 +77853,7 @@ BS  70637;
 BS  70638;
 BS  70639;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB98:MA1392.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB98:MA1392.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -77911,7 +77911,7 @@ BS  71297;
 BS  71298;
 BS  71299;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC050:MA1663.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC050:MA1663.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26617990
@@ -77965,7 +77965,7 @@ BS  68183;
 BS  68185;
 BS  68173;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6B:MA1664.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6B:MA1664.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 27493213
@@ -78024,7 +78024,7 @@ BS  71328;
 BS  71329;
 BS  71330;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB2A:MA1665.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB2A:MA1665.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -78084,7 +78084,7 @@ BS  71347;
 BS  71348;
 BS  71349;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB2B:MA1666.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB2B:MA1666.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8689565
@@ -78140,7 +78140,7 @@ BS  68172;
 BS  68175;
 BS  68178;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFC1:MA1667.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFC1:MA1667.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8689565
@@ -78197,7 +78197,7 @@ BS  71407;
 BS  71408;
 BS  71409;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC017:MA1674.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC017:MA1674.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24045017
@@ -78256,7 +78256,7 @@ BS  71437;
 BS  71438;
 BS  71439;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC062:MA1676.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC062:MA1676.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -78314,7 +78314,7 @@ BS  71457;
 BS  67637;
 BS  71458;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NTL8:MA1678.2:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NTL8:MA1678.2:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -78348,7 +78348,7 @@ P0      A      C      G      T
 09    148    261     54    537      y
 10    300    201    201    297      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G14600:MA1706.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G14600:MA1706.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78390,7 +78390,7 @@ P0      A      C      G      T
 14    958  12.75 10.929 18.215      A
 15    774 51.002 21.858    153      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FD:MA1732.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FD:MA1732.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78430,7 +78430,7 @@ P0      A      C      G      T
 13    649    165  31.72    154      a
 14    624 78.464 78.464    219      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASR3:MA1733.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASR3:MA1733.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78472,7 +78472,7 @@ P0      A      C      G      T
 15    291    146  5.164    558      w
 16 647.16 12.048      0    341      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G19040:MA1734.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G19040:MA1734.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78509,7 +78509,7 @@ P0      A      C      G      T
 10    148    143     15    693      T
 11    230    133    107    530      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G38300:MA1735.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G38300:MA1735.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78546,7 +78546,7 @@ P0      A      C      G      T
 10      0      0      0   1000      T
 11    289    277    180    254      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G04390:MA1736.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G04390:MA1736.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78583,7 +78583,7 @@ P0      A      C      G      T
 10    299    202    297    202      r
 11    323    226    226    226      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G05090:MA1737.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G05090:MA1737.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78624,7 +78624,7 @@ P0      A      C      G      T
 14    289    527 18.581    166      m
 15    264    439      0    297      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATMYB31:MA1738.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATMYB31:MA1738.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78664,7 +78664,7 @@ P0      A      C      G      T
 13    353    281    132    233      m
 14    285    248    114    353      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH122:MA1739.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH122:MA1739.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78700,7 +78700,7 @@ P0      A      C      G      T
 09     90 808.94     83     18      C
 10  212.5    338    237    212      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH49:MA1740.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH49:MA1740.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78742,7 +78742,7 @@ P0      A      C      G      T
 15    441    135  6.689    416      w
 16    793  8.361      0    199      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BRN2:MA1741.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BRN2:MA1741.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78779,7 +78779,7 @@ P0      A      C      G      T
 10    166      0    499    335      k
 11 219.43    238    214    328      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP18:MA1742.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP18:MA1742.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78820,7 +78820,7 @@ P0      A      C      G      T
 14    202    788  1.712  8.562      C
 15    639    111    134    116      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP2:MA1743.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP2:MA1743.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78856,7 +78856,7 @@ P0      A      C      G      T
 09    188     77    664     70      g
 10     87     60    388 464.35      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP30:MA1744.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP30:MA1744.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78894,7 +78894,7 @@ P0      A      C      G      T
 11    139     62  597.6    201      g
 12    229    313    229    229      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP63:MA1745.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP63:MA1745.1:JASPAR
 XX
 CC  PBM
 XX
@@ -78931,7 +78931,7 @@ P0      A      C      G      T
 10   4.95 29.703    322    644      k
 11    421    376 59.406    144      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP69:MA1746.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP69:MA1746.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -78971,7 +78971,7 @@ P0      A      C      G      T
 13      0  1.724      0    998      T
 14    407 65.517    103    424      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF4.3:MA1747.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF4.3:MA1747.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79006,7 +79006,7 @@ P0      A      C      G      T
 08    527    149    168 155.49      a
 09    148    148    130    573      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1F:MA1748.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1F:MA1748.1:JASPAR
 XX
 CC  PBM
 XX
@@ -79047,7 +79047,7 @@ P0      A      C      G      T
 14    913      0 86.957      0      A
 15    696      0 260.87 43.478      R
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2FC:MA1749.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2FC:MA1749.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79084,7 +79084,7 @@ P0      A      C      G      T
 10    149    149    149    553      t
 11    227    318    227    227      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIL3:MA1751.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIL3:MA1751.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79125,7 +79125,7 @@ P0      A      C      G      T
 14    349    199    112    341      w
 15    337    147    234    282      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF025:MA1752.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF025:MA1752.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79166,7 +79166,7 @@ P0      A      C      G      T
 14 51.903    856      0 91.696      C
 15    483    130    189    199      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF057:MA1753.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF057:MA1753.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79213,7 +79213,7 @@ P0      A      C      G      T
 20    242    410    115    233      c
 21    261 177.62    323    238      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF073:MA1754.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF073:MA1754.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79249,7 +79249,7 @@ P0      A      C      G      T
 09    359    160    300 181.21      r
 10    286    177    250    287      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA4:MA1755.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA4:MA1755.1:JASPAR
 XX
 CC  PBM
 XX
@@ -79290,7 +79290,7 @@ P0      A      C      G      T
 14 239.13    413 239.13    109      c
 15    478    217    120    185      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF9:MA1756.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF9:MA1756.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79327,7 +79327,7 @@ P0      A      C      G      T
 10  452.5     15    395  137.5      r
 11    175  382.5   87.5    355      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HDG7:MA1757.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HDG7:MA1757.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79368,7 +79368,7 @@ P0      A      C      G      T
 14    774 30.369 86.768 108.46      A
 15    191    191    423    195      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA1E:MA1758.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA1E:MA1758.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79413,7 +79413,7 @@ P0      A      C      G      T
 18    195    135    543    127      g
 19    331    376    160    134      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA4A:MA1759.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA4A:MA1759.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79452,7 +79452,7 @@ P0      A      C      G      T
 12   1000      0      0      0      A
 13    834 31.429 54.286     80      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA6A:MA1760.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA6A:MA1760.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79491,7 +79491,7 @@ P0      A      C      G      T
 12    803 30.521 62.837    104      A
 13    232 188.51    417    163      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB3:MA1761.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB3:MA1761.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79531,7 +79531,7 @@ P0      A      C      G      T
 13    354    236  56.41    354      w
 14    328    214    109    349      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB10:MA1762.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB10:MA1762.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79570,7 +79570,7 @@ P0      A      C      G      T
 12    148    172  63.14    616      t
 13    203  184.3 87.031    526      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB116:MA1764.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB116:MA1764.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79610,7 +79610,7 @@ P0      A      C      G      T
 13    297    154  87.26    462      w
 14    339    143    101    417      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB121:MA1765.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB121:MA1765.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79651,7 +79651,7 @@ P0      A      C      G      T
 14    315    228    102    356      w
 15    292    210 98.074    399      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB17:MA1766.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB17:MA1766.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79688,7 +79688,7 @@ P0      A      C      G      T
 10    309    155 72.464    464      w
 11    275 260.87 96.618 367.15      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB23:MA1767.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB23:MA1767.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79729,7 +79729,7 @@ P0      A      C      G      T
 14    402    384 45.455 168.35      m
 15    162    613 45.455    180      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB30:MA1768.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB30:MA1768.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79769,7 +79769,7 @@ P0      A      C      G      T
 13    224    207 54.701 514.53      t
 14    253    219 92.308    436      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB39:MA1769.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB39:MA1769.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79808,7 +79808,7 @@ P0      A      C      G      T
 12    241    228 63.291    468      t
 13    245    262 97.046    397      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB40:MA1770.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB40:MA1770.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79849,7 +79849,7 @@ P0      A      C      G      T
 14 97.826    538 21.739    342      y
 15    217 135.87  10.87 635.87      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB41:MA1771.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB41:MA1771.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79888,7 +79888,7 @@ P0      A      C      G      T
 12    289    157 24.096 530.12      w
 13    241    169 24.096    566      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB43:MA1772.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB43:MA1772.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79935,7 +79935,7 @@ P0      A      C      G      T
 20 83.183    590 19.892    307      y
 21 419.53 90.416 23.508    467      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB51:MA1773.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB51:MA1773.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -79980,7 +79980,7 @@ P0      A      C      G      T
 18    308 185.52    190    317      w
 19    188    339    133    339      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB60:MA1774.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB60:MA1774.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80019,7 +80019,7 @@ P0      A      C      G      T
 12    456 92.905    184    267      w
 13    220    326    122 332.77      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB61:MA1775.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB61:MA1775.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80066,7 +80066,7 @@ P0      A      C      G      T
 20    287    254    199    260      h
 21 272.12 303.84 150.25 273.79      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB67:MA1776.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB67:MA1776.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80106,7 +80106,7 @@ P0      A      C      G      T
 13    324    230 66.553 378.84      w
 14    275    232    116    377      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB74:MA1777.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB74:MA1777.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80147,7 +80147,7 @@ P0      A      C      G      T
 14    227    155    168 450.42      t
 15    257    197    139    407      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB80:MA1778.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB80:MA1778.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80184,7 +80184,7 @@ P0      A      C      G      T
 10    314    253    191    241      m
 11    187 557.92 66.194    189      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB83:MA1779.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB83:MA1779.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80220,7 +80220,7 @@ P0      A      C      G      T
 09    701    299      0      0      M
 10 90.909    642 64.171    203      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB92:MA1780.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB92:MA1780.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80265,7 +80265,7 @@ P0      A      C      G      T
 18    270    257    138    335      h
 19    309    263    138    291      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB94:MA1781.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB94:MA1781.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80310,7 +80310,7 @@ P0      A      C      G      T
 18    281 66.102 20.339    632      w
 19    463 18.644 20.339    498      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC005:MA1783.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC005:MA1783.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80357,7 +80357,7 @@ P0      A      C      G      T
 20    899  4.386  4.386 92.105      A
 21    118    535 92.105    254      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC011:MA1784.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC011:MA1784.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80394,7 +80394,7 @@ P0      A      C      G      T
 10 72.391    406 57.239    465      y
 11    219    120    227    434      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC018:MA1785.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC018:MA1785.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80430,7 +80430,7 @@ P0      A      C      G      T
 09 659.77     28 71.657    240      a
 10    167    348    240 244.91      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC019:MA1786.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC019:MA1786.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80471,7 +80471,7 @@ P0      A      C      G      T
 14 66.667    285     45    603      y
 15    195    137    167    502      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC047:MA1787.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC047:MA1787.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80516,7 +80516,7 @@ P0      A      C      G      T
 18    123    652    101    123      c
 19    194 92.511    123    590      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC054:MA1788.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC054:MA1788.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80557,7 +80557,7 @@ P0      A      C      G      T
 14 89.226    340 65.657    505      y
 15    707 84.175      0    209      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC071:MA1789.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC071:MA1789.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80598,7 +80598,7 @@ P0      A      C      G      T
 14 80.402    575 53.601    291      y
 15    251    221   3.35    524      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC073:MA1790.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC073:MA1790.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80643,7 +80643,7 @@ P0      A      C      G      T
 18    398    176  8.696    417      w
 19    847  1.739  3.478    148      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC087:MA1791.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC087:MA1791.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80685,7 +80685,7 @@ P0      A      C      G      T
 15    351    224      0    425      w
 16    830  1.721  5.164    164      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC098:MA1792.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC098:MA1792.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80721,7 +80721,7 @@ P0      A      C      G      T
 09 245.25    233    222    300      t
 10    368    162    159 310.65      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NID1:MA1793.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NID1:MA1793.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80762,7 +80762,7 @@ P0      A      C      G      T
 14    306    123    351    220      r
 15    346    123    281 250.42      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NLP7:MA1794.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NLP7:MA1794.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -80798,7 +80798,7 @@ P0      A      C      G      T
 09    468    141    161    230      a
 10    269 245.43    189    297      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-4:MA1795.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-4:MA1795.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80832,7 +80832,7 @@ P0      A      C      G      T
 07   0.77   0.77    998   0.77      G
 08    273   0.91    182    544      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2-7:MA1796.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2-7:MA1796.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80866,7 +80866,7 @@ P0      A      C      G      T
 07   0.45   0.45 136.57    863      T
 08    562    250   0.62    188      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAV2:MA1797.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAV2:MA1797.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80902,7 +80902,7 @@ P0      A      C      G      T
 09    490    163    101 245.82      a
 10    299    323    166    213      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL10:MA1799.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL10:MA1799.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80936,7 +80936,7 @@ P0      A      C      G      T
 07   0.17   0.17    241 758.27      T
 08 599.65    125   0.25    275      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TEM1:MA1800.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TEM1:MA1800.1:JASPAR
 XX
 CC  PBM
 XX
@@ -80973,7 +80973,7 @@ P0      A      C      G      T
 10    386    170    177    267      w
 11    201    201    297    302      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TREE1:MA1801.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TREE1:MA1801.1:JASPAR
 XX
 CC  PBM
 XX
@@ -81009,7 +81009,7 @@ P0      A      C      G      T
 09     91    518 70.135    321      y
 10    191    334    109    366      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRP5:MA1802.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRP5:MA1802.1:JASPAR
 XX
 CC  PBM
 XX
@@ -81049,7 +81049,7 @@ P0      A      C      G      T
 13    269    346    102    283      h
 14    404    220    121    254      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VIP1:MA1803.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=VIP1:MA1803.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -81085,7 +81085,7 @@ P0      A      C      G      T
 09    253    163    426    158      r
 10 184.07    239    172    406      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WIN1:MA1804.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WIN1:MA1804.1:JASPAR
 XX
 CC  PBM
 XX
@@ -81120,7 +81120,7 @@ P0      A      C      G      T
 08 136.43    194    486    184      g
 09    204    314    262    219      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY53:MA1805.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY53:MA1805.1:JASPAR
 XX
 CC  PBM
 XX
@@ -81157,7 +81157,7 @@ P0      A      C      G      T
 10 92.199    172    138    598      t
 11    225    160    245    371      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZHD10:MA1807.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZHD10:MA1807.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -81215,7 +81215,7 @@ BS  71682;
 BS  71683;
 BS  71684;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-06G314400:MA1808.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-06G314400:MA1808.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81272,7 +81272,7 @@ BS  71701;
 BS  71702;
 BS  71703;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-07G038400:MA1809.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-07G038400:MA1809.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81333,7 +81333,7 @@ BS  71721;
 BS  71722;
 BS  71723;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-08G357600:MA1810.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-08G357600:MA1810.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81391,7 +81391,7 @@ BS  71732;
 BS  71733;
 BS  71670;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-13G317000:MA1811.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-13G317000:MA1811.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81453,7 +81453,7 @@ BS  71751;
 BS  71752;
 BS  71753;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ASR1:MA1812.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ASR1:MA1812.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81509,7 +81509,7 @@ BS  71769;
 BS  71770;
 BS  71771;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EIL4:MA1813.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EIL4:MA1813.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81571,7 +81571,7 @@ BS  71789;
 BS  71790;
 BS  71791;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RIN:MA1814.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RIN:MA1814.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81631,7 +81631,7 @@ BS  71809;
 BS  71810;
 BS  71811;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF4:MA1815.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF4:MA1815.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81690,7 +81690,7 @@ BS  71829;
 BS  71830;
 BS  71831;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=O11:MA1816.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=O11:MA1816.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81748,7 +81748,7 @@ BS  71847;
 BS  71848;
 BS  71849;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d020267:MA1817.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d020267:MA1817.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81804,7 +81804,7 @@ BS  71866;
 BS  71867;
 BS  71868;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d052229:MA1818.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d052229:MA1818.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81863,7 +81863,7 @@ BS  71886;
 BS  71887;
 BS  71888;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d005892:MA1819.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d005892:MA1819.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81923,7 +81923,7 @@ BS  71906;
 BS  71907;
 BS  71908;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d024324:MA1820.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d024324:MA1820.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -81978,7 +81978,7 @@ BS  71923;
 BS  71924;
 BS  71925;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d020595:MA1821.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d020595:MA1821.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82038,7 +82038,7 @@ BS  71943;
 BS  71944;
 BS  71945;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d018571:MA1822.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d018571:MA1822.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82096,7 +82096,7 @@ BS  71962;
 BS  71963;
 BS  71964;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d027846:MA1823.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d027846:MA1823.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82155,7 +82155,7 @@ BS  71982;
 BS  71983;
 BS  71984;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d005692:MA1824.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d005692:MA1824.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82211,7 +82211,7 @@ BS  72000;
 BS  72001;
 BS  72002;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d044409:MA1825.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d044409:MA1825.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82272,7 +82272,7 @@ BS  72020;
 BS  72021;
 BS  72022;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH145:MA1826.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH145:MA1826.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82329,7 +82329,7 @@ BS  72038;
 BS  72039;
 BS  72040;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d044785:MA1827.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d044785:MA1827.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82388,7 +82388,7 @@ BS  72058;
 BS  72059;
 BS  72060;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d038683:MA1828.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d038683:MA1828.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82448,7 +82448,7 @@ BS  72078;
 BS  72079;
 BS  72080;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d035604:MA1829.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d035604:MA1829.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82518,7 +82518,7 @@ BS  72098;
 BS  72099;
 BS  72100;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d015407:MA1830.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d015407:MA1830.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82577,7 +82577,7 @@ BS  72118;
 BS  72119;
 BS  72120;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d031796:MA1831.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d031796:MA1831.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82626,7 +82626,7 @@ BS  72129;
 BS  72130;
 BS  72131;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d002364:MA1832.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d002364:MA1832.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82687,7 +82687,7 @@ BS  72147;
 BS  72148;
 BS  72149;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d049364:MA1833.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d049364:MA1833.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82745,7 +82745,7 @@ BS  72167;
 BS  72168;
 BS  72169;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d034298:MA1834.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d034298:MA1834.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82802,7 +82802,7 @@ BS  72184;
 BS  72185;
 BS  72186;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TFLG2-Zm00001d042777:MA1835.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TFLG2-Zm00001d042777:MA1835.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -82873,7 +82873,7 @@ BS  72888;
 BS  72889;
 BS  72890;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC010:MA2009.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC010:MA2009.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 20935069
@@ -82930,7 +82930,7 @@ BS  72899;
 BS  62991;
 BS  62993;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF010:MA2011.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF010:MA2011.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 15319480
@@ -82985,7 +82985,7 @@ BS  72915;
 BS  72916;
 BS  72917;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF023:MA2012.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF023:MA2012.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 15319480
@@ -83045,7 +83045,7 @@ BS  72934;
 BS  72935;
 BS  72936;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF115:MA2013.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF115:MA2013.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 9756931
@@ -83103,7 +83103,7 @@ BS  72950;
 BS  72951;
 BS  72952;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BAM8:MA2014.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BAM8:MA2014.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 21487098
@@ -83161,7 +83161,7 @@ BS  65080;
 BS  72967;
 BS  72968;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC002:MA2015.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC002:MA2015.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -83214,7 +83214,7 @@ BS  72984;
 BS  72985;
 BS  72986;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF6:MA2016.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF6:MA2016.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 22942381
@@ -83273,7 +83273,7 @@ BS  73004;
 BS  73005;
 BS  73006;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=JUB1:MA2017.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=JUB1:MA2017.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 22345491
@@ -83330,7 +83330,7 @@ BS  73024;
 BS  73025;
 BS  73026;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC69:MA2018.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC69:MA2018.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -83387,7 +83387,7 @@ BS  73044;
 BS  73045;
 BS  73046;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFA1B:MA2019.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFA1B:MA2019.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 27493213
@@ -83444,7 +83444,7 @@ BS  73064;
 BS  73065;
 BS  73066;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB4:MA2020.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB4:MA2020.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 8689565
@@ -83502,7 +83502,7 @@ BS  73084;
 BS  73085;
 BS  73086;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD13:MA2021.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD13:MA2021.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 17913740
@@ -83564,7 +83564,7 @@ BS  73104;
 BS  73105;
 BS  73106;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LOB:MA2022.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LOB:MA2022.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 17913740
@@ -83626,7 +83626,7 @@ BS  73124;
 BS  73125;
 BS  73126;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHL4:MA2023.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHL4:MA2023.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 30327661
@@ -83681,7 +83681,7 @@ BS  73138;
 BS  73139;
 BS  73140;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB63:MA2024.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB63:MA2024.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 19122102
@@ -83740,7 +83740,7 @@ BS  73158;
 BS  73159;
 BS  73160;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB93:MA2025.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB93:MA2025.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 32246506
@@ -83799,7 +83799,7 @@ BS  73177;
 BS  73178;
 BS  73179;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB108:MA2026.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB108:MA2026.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -83854,7 +83854,7 @@ BS  70645;
 BS  70646;
 BS  73185;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB44:MA2027.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB44:MA2027.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25220462
@@ -83914,7 +83914,7 @@ BS  73203;
 BS  73204;
 BS  73205;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB49:MA2028.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB49:MA2028.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -83972,7 +83972,7 @@ BS  73223;
 BS  73224;
 BS  73225;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB88:MA2029.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB88:MA2029.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -84034,7 +84034,7 @@ BS  73243;
 BS  73244;
 BS  73245;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB96:MA2030.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB96:MA2030.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26484765
@@ -84090,7 +84090,7 @@ BS  73262;
 BS  73263;
 BS  73264;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G04760:MA2031.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G04760:MA2031.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 25215497
@@ -84142,7 +84142,7 @@ BS  73278;
 BS  73279;
 BS  73280;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TRB1:MA2032.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TRB1:MA2032.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 26597966
@@ -84197,7 +84197,7 @@ BS  67604;
 BS  67605;
 BS  73303;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC057:MA2034.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC057:MA2034.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84253,7 +84253,7 @@ BS  67597;
 BS  73295;
 BS  68092;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC096:MA2037.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC096:MA2037.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84309,7 +84309,7 @@ BS  68084;
 BS  73348;
 BS  73349;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC103:MA2038.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC103:MA2038.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84364,7 +84364,7 @@ BS  67597;
 BS  73391;
 BS  73392;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC004:MA2043.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC004:MA2043.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84422,7 +84422,7 @@ BS  73433;
 BS  71283;
 BS  73434;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC101:MA2050.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC101:MA2050.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84479,7 +84479,7 @@ BS  73450;
 BS  73451;
 BS  73452;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NAC68:MA2051.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NAC68:MA2051.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24914054
@@ -84518,7 +84518,7 @@ P0      A      C      G      T
 14 724.37 47.059    104 124.37      A
 15    229    218    393    160      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL95:UN0386.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL95:UN0386.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84556,7 +84556,7 @@ P0      A      C      G      T
 14    535      0 22.026    443      w
 15    269 30.837 17.621    683      W
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARID3:UN0388.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARID3:UN0388.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84598,7 +84598,7 @@ P0      A      C      G      T
 18 452.83    170    245    132      a
 19    208  94.34    340    358      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G66420:UN0389.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G66420:UN0389.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84633,7 +84633,7 @@ P0      A      C      G      T
 11    366 36.585 30.488    567      w
 12    390 79.268    329 201.22      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT2G31460:UN0390.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT2G31460:UN0390.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84671,7 +84671,7 @@ P0      A      C      G      T
 14    272    115    252 360.36      d
 15    182    238    207    373      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G58630:UN0391.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G58630:UN0391.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84706,7 +84706,7 @@ P0      A      C      G      T
 11    225    326    225    225      c
 12    225    326    225    225      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G00390:UN0392.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G00390:UN0392.1:JASPAR
 XX
 CC  PBM
 XX
@@ -84738,7 +84738,7 @@ P0      A      C      G      T
 08     75    559     80    286      y
 09  279.1 164.28 208.84 347.78      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT4G09450:UN0393.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT4G09450:UN0393.1:JASPAR
 XX
 CC  PBM
 XX
@@ -84776,7 +84776,7 @@ P0      A      C      G      T
 14    700 56.667    110    133      A
 15    248    187    378    187      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtPLATZ6:UN0394.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtPLATZ6:UN0394.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84807,7 +84807,7 @@ P0      A      C      G      T
 07      0      0      5    995      T
 08    598 73.333     60    268      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CRC:UN0396.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=CRC:UN0396.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84838,7 +84838,7 @@ P0      A      C      G      T
 07   1.11   1.11    333    665      k
 08    854   1.42   1.42    143      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=EDF3:UN0397.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=EDF3:UN0397.1:JASPAR
 XX
 CC  PBM
 XX
@@ -84878,7 +84878,7 @@ P0      A      C      G      T
 16 94.118    239    129    538      t
 17    249    109    353    289      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ENY:UN0398.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ENY:UN0398.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84909,7 +84909,7 @@ P0      A      C      G      T
 07     54   0.27    810    135      G
 08    160     40    560    240      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GEBP:UN0399.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GEBP:UN0399.1:JASPAR
 XX
 CC  PBM
 XX
@@ -84948,7 +84948,7 @@ P0      A      C      G      T
 15    102 63.492 53.968    781      T
 16    254 69.841    105    571      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HMGB15:UN0400.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HMGB15:UN0400.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -84982,7 +84982,7 @@ P0      A      C      G      T
 10      0      0      0   1000      T
 11    211    128    195    465      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HMGB9:UN0401.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HMGB9:UN0401.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85023,7 +85023,7 @@ P0      A      C      G      T
 17    482    116    109    292      w
 18    369    152 227.35    251      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDD11:UN0402.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDD11:UN0402.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85057,7 +85057,7 @@ P0      A      C      G      T
 10  3.333 46.667 26.667    923      T
 11    397    313 78.333    212      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=JGL:UN0403.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=JGL:UN0403.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85094,7 +85094,7 @@ P0      A      C      G      T
 13    585     15    298    102      r
 14    477    173    148    202      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KHZ1:UN0404.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=KHZ1:UN0404.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85134,7 +85134,7 @@ P0      A      C      G      T
 16      0      0   1000      0      G
 17 30.928    206    443    320      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MGH6.1:UN0405.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=MGH6.1:UN0405.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85172,7 +85172,7 @@ P0      A      C      G      T
 14    263    151    323    263      d
 15    255    334    153    258      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NLP4:UN0406.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NLP4:UN0406.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85204,7 +85204,7 @@ P0      A      C      G      T
 08   0.15   0.15 999.56   0.15      G
 09    418    324    129    129      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM1:UN0407.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM1:UN0407.1:JASPAR
 XX
 CC  PBM
 XX
@@ -85242,7 +85242,7 @@ P0      A      C      G      T
 14    197    238 149.66    415      t
 15    190    401    163    245      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM21:UN0408.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM21:UN0408.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85284,7 +85284,7 @@ P0      A      C      G      T
 18    157    370  90.29    383      y
 19    227    358    155    261      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RKD2:UN0409.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RKD2:UN0409.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85320,7 +85320,7 @@ P0      A      C      G      T
 12    277    213 52.365 457.77      w
 13    412 30.405  20.27    537      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STKL2:UN0410.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=STKL2:UN0410.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85353,7 +85353,7 @@ P0      A      C      G      T
 09    130    251 24.842    594      y
 10    228    228    228    316      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCX5:UN0411.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCX5:UN0411.1:JASPAR
 XX
 CC  PBM
 XX
@@ -85391,7 +85391,7 @@ P0      A      C      G      T
 14    378 164.43    136    322      w
 15    322    119    255    304      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VFP5:UN0412.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=VFP5:UN0412.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85425,7 +85425,7 @@ P0      A      C      G      T
 10    479    202    319      0      r
 11    243    122    163    471      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WOX11:UN0413.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WOX11:UN0413.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85456,7 +85456,7 @@ P0      A      C      G      T
 07    154   0.77    844   0.77      G
 08    816     91     91   0.91      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WOX13:UN0414.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=WOX13:UN0414.1:JASPAR
 XX
 CC  PBM
 XX
@@ -85487,7 +85487,7 @@ P0      A      C      G      T
 07    554    112   1.11    333      w
 08    996   1.24   1.24   1.24      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=YAB1:UN0415.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=YAB1:UN0415.1:JASPAR
 XX
 CC  PBM
 XX
@@ -85522,7 +85522,7 @@ P0      A      C      G      T
 11    200    297    303    200      s
 12    328    224    224    224      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=YAB5:UN0416.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=YAB5:UN0416.1:JASPAR
 XX
 CC  PBM
 XX
@@ -85553,7 +85553,7 @@ P0      A      C      G      T
 07    340    413    117    130      m
 08    383    183     55    378      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT9:UN0417.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT9:UN0417.1:JASPAR
 XX
 CC  DAP-seq
 XX
@@ -85606,7 +85606,7 @@ BS  73979;
 BS  73980;
 BS  73981;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-04G093300:UN0418.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-04G093300:UN0418.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85659,7 +85659,7 @@ BS  73996;
 BS  73997;
 BS  73998;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-08G357600:UN0420.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-08G357600:UN0420.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85712,7 +85712,7 @@ BS  74015;
 BS  74016;
 BS  74017;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLYMA-13G317000:UN0421.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLYMA-13G317000:UN0421.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85767,7 +85767,7 @@ BS  74031;
 BS  74032;
 BS  74033;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEC1-A:UN0422.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEC1-A:UN0422.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85820,7 +85820,7 @@ BS  74050;
 BS  74051;
 BS  74052;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEC1-A:UN0423.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEC1-A:UN0423.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85875,7 +85875,7 @@ BS  74070;
 BS  74071;
 BS  74072;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEC1-A:UN0424.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEC1-A:UN0424.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85932,7 +85932,7 @@ BS  74090;
 BS  74091;
 BS  74092;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TAGL1:UN0426.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TAGL1:UN0426.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -85989,7 +85989,7 @@ BS  74110;
 BS  74111;
 BS  74112;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NF-YB1:UN0427.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NF-YB1:UN0427.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86038,7 +86038,7 @@ BS  74125;
 BS  74126;
 BS  74127;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ONAC127:UN0428.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ONAC127:UN0428.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86085,7 +86085,7 @@ BS  74137;
 BS  74138;
 BS  74139;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ONAC127:UN0429.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ONAC127:UN0429.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86135,7 +86135,7 @@ BS  74151;
 BS  74152;
 BS  74153;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ONAC127:UN0430.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ONAC127:UN0430.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86185,7 +86185,7 @@ BS  74167;
 BS  74168;
 BS  74169;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bHLH172:UN0431.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=bHLH172:UN0431.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86241,7 +86241,7 @@ BS  74187;
 BS  74188;
 BS  74189;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d042907:UN0432.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d042907:UN0432.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86299,7 +86299,7 @@ BS  74207;
 BS  74208;
 BS  74209;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d024644:UN0433.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d024644:UN0433.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86355,7 +86355,7 @@ BS  74227;
 BS  74228;
 BS  74229;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Zm00001d013777:UN0434.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=Zm00001d013777:UN0434.1:JASPAR
 XX
 CC  ChIP-seq
 XX
@@ -86411,7 +86411,7 @@ BS  75634;
 BS  75635;
 BS  75636;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NGA4:UN0687.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NGA4:UN0687.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -86470,7 +86470,7 @@ BS  75654;
 BS  75655;
 BS  75656;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BHLH10:UN0688.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BHLH10:UN0688.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -86516,7 +86516,7 @@ BS  75667;
 BS  75668;
 BS  75669;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NFYB2:UN0689.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NFYB2:UN0689.1:JASPAR
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -86569,9 +86569,101 @@ BS  75686;
 BS  74020;
 BS  75687;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NFYC2:UN0690.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=NFYC2:UN0690.1:JASPAR
 XX
 RN  [1];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  A0A3B5Y3P1_WHEAT/ACGT/EEADannot
+XX
+ID  A0A3B5Y3P1_WHEAT:ACGT:EEADannot
+XX
+NA  A0A3B5Y3P1_WHEAT
+XX
+DE  A0A3B5Y3P1_WHEAT
+XX
+OS  Triticum aestivum
+XX
+BF  18633;
+XX
+P0      A      C      G      T
+01      1      6      1      2      c
+02     10      0      0      0      A
+03      0     10      0      0      C
+04      0      0     10      0      G
+05      0      0      0     10      T
+06      2      3      5      0      s
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A3B5Y3P1_WHEAT:ACGT:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36097863
+RL  Wang B, Li L, Liu M, Peng D, Wei A, Hou B, Lei Y, Li X. TaFDL2-1A confers drought stress tolerance by promoting ABA biosynthesis, ABA responses, and ROS scavenging in transgenic wheat. Plant J 112:722-737 (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  Q0JDZ1_ORYSJ/AN1/EEADannot
+XX
+ID  Q0JDZ1_ORYSJ:AN1:EEADannot
+XX
+NA  Q0JDZ1_ORYSJ
+XX
+DE  Q0JDZ1_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18592;
+XX
+P0      A      C      G      T
+01      0      0    100      0      G
+02      0    100      0      0      C
+03      0      0    100      0      G
+04     17     34     30     19      C
+05  00100  0.000  1.000  0.000      A
+06      0      0      0    100      T
+07      0      0    100      0      G
+08      0      0      0    100      T
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q0JDZ1_ORYSJ:AN1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35449414
+RL  Song X, Meng X, Guo H, Cheng Q, Jing Y, Chen M, Liu G, Wang B, Wang Y, Li J, Yu H. Targeting a gene regulatory element enhances rice grain yield by decoupling panicle number and size. Nat Biotechnol 40:1403-1411 (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  B2ZP48_SOLLC/APETALA2a/EEADannot
+XX
+ID  B2ZP48_SOLLC:APETALA2a:EEADannot
+XX
+NA  B2ZP48_SOLLC
+XX
+DE  B2ZP48_SOLLC
+XX
+OS  Solanum lycopersicum
+XX
+BF  18593;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03      0      1      0      0      C
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      1      0      0      0      A
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=B2ZP48_SOLLC:APETALA2a:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36271694
+RL  Sang K, Li J, Qian X, Yu J, Zhou Y, Xia X. The APETALA2a/DWARF/BRASSINAZOLE-RESISTANT 1 module contributes to carotenoid synthesis in tomato fruits. Plant J 112:1238-1251 (2022).
+RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
 XX
@@ -86586,7 +86678,7 @@ DE  A0A1D6N2H0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18592;
+BF  18594;
 XX
 P0      A      C      G      T
 01    290    153   1981    110      G
@@ -86598,7 +86690,7 @@ P0      A      C      G      T
 07     71   2307     82     74      C
 08   2126     87    270     51      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6N2H0_MAIZE:ARF10:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6N2H0_MAIZE:ARF10:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86618,7 +86710,7 @@ DE  K7U085_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18593;
+BF  18595;
 XX
 P0      A      C      G      T
 01    153     47   2552     41      G
@@ -86632,7 +86724,7 @@ P0      A      C      G      T
 09    667   1360     19    748      y
 10     99     51   2037    606      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=K7U085_MAIZE:ARF13:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=K7U085_MAIZE:ARF13:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86652,7 +86744,7 @@ DE  C4JAZ4_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18594;
+BF  18596;
 XX
 P0      A      C      G      T
 01    196    133   1205    127      G
@@ -86664,7 +86756,7 @@ P0      A      C      G      T
 07      0   1635     24      0      C
 08   1611      0     49      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=C4JAZ4_MAIZE:ARF14:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=C4JAZ4_MAIZE:ARF14:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86684,7 +86776,7 @@ DE  A0A1D6GSS0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18595;
+BF  18597;
 XX
 P0      A      C      G      T
 01    179   3178    162    327      C
@@ -86694,7 +86786,7 @@ P0      A      C      G      T
 05      0   3845      0      0      C
 06   3845      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6GSS0_MAIZE:ARF18:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6GSS0_MAIZE:ARF18:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86714,7 +86806,7 @@ DE  A0A1D6GSS0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18595;
+BF  18597;
 XX
 P0      A      C      G      T
 01     52    135     81     56      s
@@ -86743,7 +86835,7 @@ P0      A      C      G      T
 24    104    179    321    270      k
 25     56     81    135     52      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD13:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD13:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86763,7 +86855,7 @@ DE  A0A1D6GSS0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18595;
+BF  18597;
 XX
 P0      A      C      G      T
 01     63    139     56     45      c
@@ -86785,7 +86877,7 @@ P0      A      C      G      T
 17    343    169    199    251      w
 18    243    140    159    117      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD6:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD6:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86805,7 +86897,7 @@ DE  A0A1D6GSS0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18595;
+BF  18597;
 XX
 P0      A      C      G      T
 01    367    152    100     36      a
@@ -86827,7 +86919,7 @@ P0      A      C      G      T
 17    341     68    104    142      a
 18    288    118    149    100      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD7:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6GSS0_MAIZE:ARF18_DYAD7:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86859,7 +86951,7 @@ P0      A      C      G      T
 07     22   2555     30     23      C
 08   2422     30    158     20      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=C0PH36_MAIZE:ARF25:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=C0PH36_MAIZE:ARF25:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86889,7 +86981,7 @@ P0      A      C      G      T
 05      0   3874      0      0      C
 06   3451    423      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=D9HNV4_MAIZE:ARF27:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=D9HNV4_MAIZE:ARF27:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86909,7 +87001,7 @@ DE  A0A1D6JH51_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18596;
+BF  18598;
 XX
 P0      A      C      G      T
 01      1      1     74   4367      T
@@ -86919,7 +87011,7 @@ P0      A      C      G      T
 05    124    221   2370   1729      k
 06    605    547   2866    426      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6JH51_MAIZE:ARF29:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6JH51_MAIZE:ARF29:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86948,7 +87040,7 @@ P0      A      C      G      T
 04      0   4525      0      0      C
 05   4525      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A060D7X7_MAIZE:ARF34:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A060D7X7_MAIZE:ARF34:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -86985,7 +87077,7 @@ P0      A      C      G      T
 12    753   4207    674   3272      y
 13    900   2349   2107   3550      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A060D7X7_MAIZE:ARF34_DYAD3:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A060D7X7_MAIZE:ARF34_DYAD3:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87005,7 +87097,7 @@ DE  A0A1D6GVF5_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18597;
+BF  18599;
 XX
 P0      A      C      G      T
 01      0      0    471   3932      T
@@ -87015,7 +87107,7 @@ P0      A      C      G      T
 05      0     26   3586    792      G
 06    241    166   3720    277      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6GVF5_MAIZE:ARF35:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6GVF5_MAIZE:ARF35:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87035,7 +87127,7 @@ DE  C0PAG5_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18598;
+BF  18600;
 XX
 P0      A      C      G      T
 01    236   1216    194    292      c
@@ -87048,7 +87140,7 @@ P0      A      C      G      T
 08     54   1772     58     55      C
 09   1722     66    111     39      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=C0PAG5_MAIZE:ARF36:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=C0PAG5_MAIZE:ARF36:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87068,7 +87160,7 @@ DE  C0PAG5_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18598;
+BF  18600;
 XX
 P0      A      C      G      T
 01    706    754    591    345      m
@@ -87093,7 +87185,7 @@ P0      A      C      G      T
 20    226    901    374    895      y
 21    345    591    754    706      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=C0PAG5_MAIZE:ARF36_DYAD11:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=C0PAG5_MAIZE:ARF36_DYAD11:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87113,7 +87205,7 @@ DE  A0A1D6E9Y1_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18599;
+BF  18601;
 XX
 P0      A      C      G      T
 01      0      0   2594      0      G
@@ -87124,7 +87216,7 @@ P0      A      C      G      T
 06      0   2573     21      0      C
 07   2574      0     20      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6E9Y1_MAIZE:ARF39:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6E9Y1_MAIZE:ARF39:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87144,7 +87236,7 @@ DE  A0A1D6E9Y1_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18599;
+BF  18601;
 XX
 P0      A      C      G      T
 01    306    206    172    278      w
@@ -87170,7 +87262,7 @@ P0      A      C      G      T
 21    278    172    206    306      w
 22    166    139    221    128      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6E9Y1_MAIZE:ARF39_DYAD11:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6E9Y1_MAIZE:ARF39_DYAD11:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87190,7 +87282,7 @@ DE  A0A1D6E9Y1_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18599;
+BF  18601;
 XX
 P0      A      C      G      T
 01     12    433     50   1383      T
@@ -87216,7 +87308,7 @@ P0      A      C      G      T
 21    382    545    564    387      s
 22    211    164    229    122      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6E9Y1_MAIZE:ARF39_DYAD12:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6E9Y1_MAIZE:ARF39_DYAD12:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87236,7 +87328,7 @@ DE  A0A1D6DUR0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18600;
+BF  18602;
 XX
 P0      A      C      G      T
 01      0      0      0   4649      T
@@ -87245,7 +87337,7 @@ P0      A      C      G      T
 04     27   4556     19     47      C
 05    153    360   2298   1840      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6DUR0_MAIZE:ARF4:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6DUR0_MAIZE:ARF4:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87265,7 +87357,7 @@ DE  A0A1D6DUR0_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18600;
+BF  18602;
 XX
 P0      A      C      G      T
 01    950    569    589    350      a
@@ -87279,7 +87371,7 @@ P0      A      C      G      T
 09    382    735    359    982      y
 10    350    589    569    950      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6DUR0_MAIZE:ARF4_DYAD0:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6DUR0_MAIZE:ARF4_DYAD0:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87309,7 +87401,7 @@ P0      A      C      G      T
 05     74    167   2944    400      G
 06    195    232   2870    288      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=D9HNT4_MAIZE:ARF7:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=D9HNT4_MAIZE:ARF7:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30375394
@@ -87329,23 +87421,87 @@ DE  DUO1_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18604;
+BF  18609;
 XX
 P0      A      C      G      T
 01     44      0     54      2      r
 02     68      0     31      1      r
-03      1     99      0      0      C
+03      0    100      0      0      C
 04      1     16     83      0      G
-05      1      0     99      0      G
+05      0      0     99      1      G
 06      0      1      0     99      T
 07      1      1      0     98      T
 08     84      1      9      6      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DUO1_ARATH:AtDUO1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=DUO1_ARATH:AtDUO1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30538242
 RL  Higo A, Kawashima T, Borg M, Zhao M, López-Vidriero I, Sakayama H, Montgomery SA, Sekimoto H, Hackenberg D, Shimamura M, Nishiyama T, Sakakibara K, Tomita Y, Togawa T, Kunimoto K, Osakabe A, Suzuki Y, Yamato KT, Ishizaki K, Nishihama R, Kohchi T, Franco-Zorrilla JM, Twell D, Berger F, Araki T. Transcription factor DUO1 generated by neo-functionalization is associated with evolution of sperm differentiation in plants. Nat Commun 9:5283 (2018).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  ARFR_ORYSJ/AuxRE/EEADannot
+XX
+ID  ARFR_ORYSJ:AuxRE:EEADannot
+XX
+NA  ARFR_ORYSJ
+XX
+DE  ARFR_ORYSJ
+XX
+OS  Oryza sativa Japonica Group
+XX
+BF  18620;
+XX
+P0      A      C      G      T
+01      0      0      0      2      T
+02      0      0      2      0      G
+03      0      0      0      2      T
+04      0      2      0      0      C
+05      1      0      1      0      r
+06      1      0      1      0      r
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARFR_ORYSJ:AuxRE:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36037381
+RL  Zhao Z, Wang C, Yu X, Tian Y, Wang W, Zhang Y, Bai W, Yang N, Zhang T, Zheng H, Wang Q, Lu J, Lei D, He X, Chen K, Gao J, Liu X, Liu S, Jiang L, Wang H, Wan J. Auxin regulates source-sink carbohydrate partitioning and reproductive organ development in rice. Proc Natl Acad Sci U S A : (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  BZR1_ARATH/BZR1/EEADannot
+XX
+ID  BZR1_ARATH:BZR1:EEADannot
+XX
+NA  BZR1_ARATH
+XX
+DE  BZR1_ARATH
+XX
+OS  Arabidopsis thaliana
+XX
+BF  2997;
+XX
+P0      A      C      G      T
+01     42    468     45    164      c
+02    376     60    271     12      r
+03      0    707      1     11      C
+04    700      1      8     10      A
+05      0    719      0      0      C
+06      0      0    719      0      G
+07      6      7      1    705      T
+08     14      1    702      2      G
+09     13    269     70    367      y
+10    184     53    433     49      r
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZR1_ARATH:BZR1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36522451
+RL  Nosaki S, Mitsuda N, Sakamoto S, Kusubayashi K, Yamagami A, Xu Y, Bui TBC, Terada T, Miura K, Nakano T, Tanokura M, Miyakawa T. Brassinosteroid-induced gene repression requires specific and tight promoter binding of BIL1/BZR1 via DNA shape readout. Nat Plants 8:1440-1452 (2022).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -87361,7 +87517,7 @@ DE  BdTHX1
 XX
 OS  Brachypodium distachyon
 XX
-BF  18601;
+BF  18603;
 XX
 P0      A      C      G      T
 01     11     26     11     52      y
@@ -87372,10 +87528,10 @@ P0      A      C      G      T
 06     94      4      0      2      A
 07      0     99      0      1      C
 08      2     61      1     36      y
-09     10      8     71     11      G
-10      0     67     12     21      c
+09      9      8     71     12      G
+10      0     67     13     20      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BdTHX1:BdTHX1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=BdTHX1:BdTHX1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30224432
@@ -87395,7 +87551,7 @@ DE  CLSY3_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18602;
+BF  18604;
 XX
 P0      A      C      G      T
 01      0      0      0    100      T
@@ -87417,7 +87573,7 @@ P0      A      C      G      T
 17      0      0      0    100      T
 18    100      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CLSY3_ARATH:CLSY3:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=CLSY3_ARATH:CLSY3:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 35017514
@@ -87437,7 +87593,7 @@ DE  CONS_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18603;
+BF  18605;
 XX
 P0      A      C      G      T
 01      0      0      0    100      T
@@ -87452,7 +87608,7 @@ P0      A      C      G      T
 XX
 BS  75688;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CONS_ARATH:CONS1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=CONS_ARATH:CONS1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 20406410
@@ -87472,7 +87628,7 @@ DE  CONS_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18603;
+BF  18605;
 XX
 P0      A      C      G      T
 01      0      0      0    100      T
@@ -87488,11 +87644,176 @@ P0      A      C      G      T
 XX
 BS  75689;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CONS_ARATH:CONS2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=CONS_ARATH:CONS2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 20406410
 RL  Tiwari SB, Shen Y, Chang HC, Hou Y, Harris A, Ma SF, McPartland M, Hymus GJ, Adam L, Marion C, Belachew A, Repetti PP, Reuber TL, Ratcliffe OJ. The flowering time regulator CONSTANS is recruited to the FLOWERING LOCUS T promoter via a unique cis-element. New Phytol 187:57-66 (2010).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  CONS_ARATH/CORE/EEADannot
+XX
+ID  CONS_ARATH:CORE:EEADannot
+XX
+NA  CONS_ARATH
+XX
+DE  CONS_ARATH
+XX
+OS  Arabidopsis thaliana
+XX
+BF  18605;
+XX
+P0      A      C      G      T
+01      0      0      0      2      T
+02      0      2      0      0      C
+03      2      0      0      0      A
+04      0      2      0      0      C
+05      2      0      0      0      A
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=CONS_ARATH:CORE:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36747051
+RL  Yu B, He X, Tang Y, Chen Z, Zhou L, Li X, Zhang C, Huang X, Yang Y, Zhang W, Kong F, Miao Y, Hou X, Hu Y. Photoperiod controls plant seed size in a CONSTANS-dependent manner. Nat Plants : (2023).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  LBD_ORYSJ/CRL1BOX/EEADannot
+XX
+ID  LBD_ORYSJ:CRL1BOX:EEADannot
+XX
+NA  LBD_ORYSJ
+XX
+DE  LBD_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18606;
+XX
+P0      A      C      G      T
+01      7     79     14      0      C
+02     93      7      0      0      A
+03     14     86      0      0      C
+04     84      0      9      7      A
+05     44     42     14      0      m
+06     27     56     15      2      m
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD_ORYSJ:CRL1BOX:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35596715
+RL  Gonin M, Jeong K, Coudert Y, Lavarenne J, Hoang GT, Bes M, To HTM, Thiaw MN, Do TV, Moukouanga D, Guyomarc'h S, Bellande K, Brossier JR, Parizot B, Nguyen HT, Beeckman T, Bergougnoux V, Rouster J, Sallaud C, Laplaze L, Champion A, Gantet P. CROWN ROOTLESS1 binds DNA with a relaxed specificity and activates OsROP and OsbHLH044 genes involved in crown root formation in rice. Plant J 111:546-566 (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  B8A6Y2_ORYSI/CURE3UTR1/EEADannot
+XX
+ID  B8A6Y2_ORYSI:CURE3UTR1:EEADannot
+XX
+NA  B8A6Y2_ORYSI
+XX
+DE  B8A6Y2_ORYSI
+XX
+OS  Oryza sativa
+XX
+BF  18622;
+BF  18623;
+XX
+P0      A      C      G      T
+01      0      0      0      5      T
+02      0      5      0      0      C
+03      0      0      0      5      T
+04      0      5      0      0      C
+05      0      0      0      5      T
+06      0      5      0      0      C
+07      0      0      0      5      T
+08      0      5      0      0      C
+09      0      1      0      4      T
+10      0      3      0      2      y
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=B8A6Y2_ORYSI:CURE3UTR1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35293072
+RL  Chen Q, Tian F, Cheng T, Jiang J, Zhu G, Gao Z, Lin H, Hu J, Qian Q, Fang X, Chen F. Translational repression of FZP mediated by CU-rich element/OsPTB interactions modulates panicle development in rice. Plant J 110:1319-1331 (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  QPF20772/CmMAF2/EEADannot
+XX
+ID  QPF20772:CmMAF2:EEADannot
+XX
+NA  QPF20772
+XX
+DE  QPF20772
+XX
+OS  Chrysanthemum x morifolium
+XX
+BF  18607;
+XX
+P0      A      C      G      T
+01      0      3      0      0      C
+02      1      0      0      2      w
+03      1      0      0      2      w
+04      3      0      0      0      A
+05      2      0      0      1      w
+06      1      0      0      2      w
+07      3      0      0      0      A
+08      3      0      0      0      A
+09      1      0      0      2      w
+10      0      0      3      0      G
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=QPF20772:CmMAF2:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36214418
+RL  Lyu J, Aiwaili P, Gu Z, Xu Y, Zhang Y, Wang Z, Huang H, Zeng R, Ma C, Gao J, Zhao X, Hong B. Chrysanthemum MAF2 regulates flowering by repressing gibberellin biosynthesis in response to low temperature. Plant J 112:1159-1175 (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  CMiso1.1chr05g0123221/CmWIP1/EEADannot
+XX
+ID  CMiso1.1chr05g0123221:CmWIP1:EEADannot
+XX
+NA  CMiso1.1chr05g0123221
+XX
+DE  CMiso1.1chr05g0123221
+XX
+OS  Cucumis melo
+XX
+BF  18608;
+XX
+P0      A      C      G      T
+01   2225   1313   1456   1935      w
+02   2109   1044    904   2872      w
+03   5527    392    654    356      A
+04    254   6442    104    129      C
+05    142   6588     97    102      C
+06    112     53    322   6442      T
+07    372    540    749   5268      T
+08     91    135   6564    139      G
+09   6335    160     66    368      A
+10    476    957   1119   4377      t
+11   1544   1396   1378   2611      t
+12   2055   1171   1002   2701      w
+13   1854   1335   1430   2310      w
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=CMiso1.1chr05g0123221:CmWIP1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36378960
+RL  Zhang S, Tan FQ, Chung CH, Slavkovic F, Devani RS, Troadec C, Marcel F, Morin H, Camps C, Gomez Roldan MV, Benhamed M, Dogimont C, Boualem A, Bendahmane A. &lt;b&gt;The control of carpel determinacy pathway leads to sex determination&lt;/b&gt; &lt;b&gt;in cucurbits&lt;/b&gt; Science. 2022 Nov 4;378(6619):543-549 : (doi:).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -87508,7 +87829,7 @@ DE  Q9M4R5_DIACA
 XX
 OS  Dianthus caryophyllus
 XX
-BF  18605;
+BF  18610;
 XX
 P0      A      C      G      T
 01     83      0      0     17      A
@@ -87516,7 +87837,7 @@ P0      A      C      G      T
 03     83      0      0     17      A
 04    100      0      0      0      A
 05      0     17     33     50      k
-06      1     33     33     33      b
+06      0     33     34     33      b
 07      0     17      0     83      T
 XX
 BS  75690;
@@ -87526,7 +87847,7 @@ BS  75693;
 BS  75694;
 BS  75695;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q9M4R5_DIACA:DcWRKY75:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q9M4R5_DIACA:DcWRKY75:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34587330
@@ -87546,8 +87867,8 @@ DE  Os02g54160.1
 XX
 OS  Oryza sativa
 XX
-BF  18606;
-BF  18607;
+BF  18611;
+BF  18612;
 XX
 P0      A      C      G      T
 01    100      0      0      0      A
@@ -87561,7 +87882,7 @@ XX
 BS  75696;
 BS  75697;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Os02g54160.1:EREBP1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=Os02g54160.1:EREBP1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 12913152
@@ -87597,7 +87918,7 @@ P0      A      C      G      T
 11     77    447    159    113      c
 12     97    147    441    111      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GRF4_ORYSJ:GRF4:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=GRF4_ORYSJ:GRF4:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30111841
@@ -87617,7 +87938,7 @@ DE  VfHB21
 XX
 OS  Vernicia fordii
 XX
-BF  18621;
+BF  18636;
 XX
 P0      A      C      G      T
 01      0      1      0      2      y
@@ -87630,7 +87951,7 @@ P0      A      C      G      T
 08      0      0      0      3      T
 09      1      0      2      0      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=VfHB21:HB21:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=VfHB21:HB21:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34643970
@@ -87663,7 +87984,7 @@ P0      A      C      G      T
 08      4      0      1      7      w
 09      0      0      2     10      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=IDEF1_ORYSJ:IDE:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=IDEF1_ORYSJ:IDE:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 18025467
@@ -87706,7 +88027,7 @@ P0      A      C      G      T
 18    145     65     66     96      w
 19    116     80     65    111      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT5G61850.1:LEAFY:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT5G61850.1:LEAFY:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 21515819
@@ -87744,7 +88065,7 @@ XX
 BS  75698;
 BS  75699;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT1G74650.1:MYB31:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT1G74650.1:MYB31:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 24234003
@@ -87779,7 +88100,7 @@ P0      A      C      G      T
 13     30     10     12     16      a
 14     22      8     17     21      d
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MB3R3_ARATH:MYB3R3:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MB3R3_ARATH:MYB3R3:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 26069325
@@ -87799,7 +88120,7 @@ DE  MdDAM1
 XX
 OS  Malus x domestica
 XX
-BF  18609;
+BF  18614;
 XX
 P0      A      C      G      T
 01     90      0      8      2      A
@@ -87810,7 +88131,7 @@ P0      A      C      G      T
 06    100      0      0      0      A
 07     17      0     20     63      t
 08      0     15      0     85      T
-09      6      0     87      7      G
+09      7      0     86      7      G
 10      8      0     92      0      G
 11      0      0      0    100      T
 12     51      2     47      0      r
@@ -87818,7 +88139,7 @@ P0      A      C      G      T
 14    100      0      0      0      A
 15      0      0      3     97      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdDAM1:MdDAM1-MdSVPa-1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdDAM1:MdDAM1-MdSVPa-1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -87838,7 +88159,7 @@ DE  MdDAM1
 XX
 OS  Malus x domestica
 XX
-BF  18609;
+BF  18614;
 XX
 P0      A      C      G      T
 01      0      0      0    100      T
@@ -87849,7 +88170,7 @@ P0      A      C      G      T
 06    100      0      0      0      A
 07    100      0      0      0      A
 08     98      0      0      2      A
-09      1      2     51     46      k
+09      0      2     52     46      k
 10      0      0      0    100      T
 11    100      0      0      0      A
 12      0      0    100      0      G
@@ -87857,7 +88178,7 @@ P0      A      C      G      T
 14      2      0      0     98      T
 15     78     20      2      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdDAM1:MdDAM1-MdSVPa-2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdDAM1:MdDAM1-MdSVPa-2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -87877,7 +88198,7 @@ DE  MdDAM4
 XX
 OS  Malus x domestica
 XX
-BF  18610;
+BF  18615;
 XX
 P0      A      C      G      T
 01     99      1      0      0      A
@@ -87896,7 +88217,7 @@ P0      A      C      G      T
 14     46      0     54      0      r
 15    100      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdDAM4:MdDAM4-MdSVPa:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdDAM4:MdDAM4-MdSVPa:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -87916,7 +88237,7 @@ DE  MdFLC-like
 XX
 OS  Malus x domestica
 XX
-BF  18611;
+BF  18616;
 XX
 P0      A      C      G      T
 01      0     29      0     71      Y
@@ -87928,10 +88249,10 @@ P0      A      C      G      T
 07    100      0      0      0      A
 08      0      0      5     95      T
 09      2      0      0     98      T
-10      0      0    100      0      G
+10      0      1     99      0      G
 11      2      0     98      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdFLC-like:MdFLC-MdSVPa-1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdFLC-like:MdFLC-MdSVPa-1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -87951,7 +88272,7 @@ DE  MdFLC-like
 XX
 OS  Malus x domestica
 XX
-BF  18611;
+BF  18616;
 XX
 P0      A      C      G      T
 01    100      0      0      0      A
@@ -87970,7 +88291,7 @@ P0      A      C      G      T
 14    100      0      0      0      A
 15      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdFLC-like:MdFLC-MdSVPa-2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdFLC-like:MdFLC-MdSVPa-2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -87990,7 +88311,7 @@ DE  MdSVPa
 XX
 OS  Malus x domestica
 XX
-BF  18612;
+BF  18617;
 XX
 P0      A      C      G      T
 01      0      0      0    100      T
@@ -88006,7 +88327,7 @@ P0      A      C      G      T
 11      0      0      0    100      T
 12      0      0      0    100      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdSVPa:MdSVPa-MdSVPa-1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdSVPa:MdSVPa-MdSVPa-1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -88026,7 +88347,7 @@ DE  MdSVPa
 XX
 OS  Malus x domestica
 XX
-BF  18612;
+BF  18617;
 XX
 P0      A      C      G      T
 01      8     87      0      5      C
@@ -88045,7 +88366,7 @@ P0      A      C      G      T
 14      0     82     18      0      C
 15      2     16      0     82      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MdSVPa:MdSVPa-MdSVPa-2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=MdSVPa:MdSVPa-MdSVPa-2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34480759
@@ -88083,9 +88404,44 @@ XX
 BS  75700;
 BS  75701;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AT3G12910.1:NAC:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=AT3G12910.1:NAC:EEADannot
 XX
 RN  [1];
+RX  PUBMED: 24773781
+RL  Dubos C, Kelemen Z, Sebastian A, Bulow L, Huep G, Xu W, Grain D, Salsac F, Brousse C, Lepiniec L, Weisshaar B, Contreras-Moreira B, Hehl R (2014) Integrating bioinformatic resources to predict transcription factors interacting with cis-sequences conserved in co-regulated genes.BMC Genomics 15:317. doi: 10.1186/1471-2164-15-317
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  B6D1Q3_SOLLC/NACRS/EEADannot
+XX
+ID  B6D1Q3_SOLLC:NACRS:EEADannot
+XX
+NA  B6D1Q3_SOLLC
+XX
+DE  B6D1Q3_SOLLC
+XX
+OS  Solanum lycopersicum
+XX
+BF  18630;
+XX
+P0      A      C      G      T
+01      0      0      0      2      T
+02      0      0      2      0      G
+03      1      0      1      0      r
+04      0      2      0      0      C
+05      0      0      2      0      G
+06      0      0      0      2      T
+07      2      0      0      0      A
+08      2      0      0      0      A
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=B6D1Q3_SOLLC:NACRS:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 34580960
+RL  Gao Y, Fan ZQ, Zhang Q, Li HL, Liu GS, Jing Y, Zhang YP, Zhu BZ, Zhu HL, Chen JY, Grierson D, Luo YB, Zhao XD, Fu DQ. A tomato NAC transcription factor, SlNAM1, positively regulates ethylene biosynthesis and the onset of tomato fruit ripening. Plant J 108:1317-1331 (2021).
+RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
 XX
@@ -88100,19 +88456,19 @@ DE  CONS_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18603;
+BF  18605;
 XX
 P0      A      C      G      T
 01     45     18     21     16      a
 02     45     15     22     18      a
-03      8     69      7     16      C
+03      7     69      8     16      C
 04     14     77      5      4      C
 05     70      3     12     15      A
 06      3     66     15     16      c
 07     56     13     13     18      a
 08     47     19     14     20      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CONS_ARATH:NF_CO:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=CONS_ARATH:NF_CO:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 28526714
@@ -88132,7 +88488,7 @@ DE  C3VMM2_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18613;
+BF  18618;
 XX
 P0      A      C      G      T
 01      0      1      0      0      C
@@ -88144,7 +88500,7 @@ P0      A      C      G      T
 XX
 BS  75702;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=C3VMM2_ARATH:NGA1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=C3VMM2_ARATH:NGA1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30397148
@@ -88164,7 +88520,7 @@ DE  B4FHZ3_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18614;
+BF  18619;
 XX
 P0      A      C      G      T
 01      0    100      0      0      C
@@ -88176,7 +88532,7 @@ P0      A      C      G      T
 07      0    100      0      0      C
 08    100      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B4FHZ3_MAIZE:O2DREME:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=B4FHZ3_MAIZE:O2DREME:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30262552
@@ -88196,7 +88552,7 @@ DE  B4FHZ3_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18614;
+BF  18619;
 XX
 P0      A      C      G      T
 01      0    100      0      0      C
@@ -88210,11 +88566,108 @@ P0      A      C      G      T
 09      0     35      0     65      y
 10      0     82     18      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=B4FHZ3_MAIZE:O2MEME:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=B4FHZ3_MAIZE:O2MEME:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 30262552
 RL  Zhan J, Li G, Ryu CH, Ma C, Zhang S, Lloyd A, Hunter BG, Larkins BA, Drews GN, Wang X, Yadegari R. Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm. Plant Cell 30:2425-2446 (2018).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  PCL1_ORYSJ/OsLUX1/EEADannot
+XX
+ID  PCL1_ORYSJ:OsLUX1:EEADannot
+XX
+NA  PCL1_ORYSJ
+XX
+DE  PCL1_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18621;
+XX
+P0      A      C      G      T
+01      4     60      7     29      y
+02     18     18      0     64      t
+03      4     84      4      8      C
+04     92      0      8      0      A
+05      4     14      4     78      T
+06     11     66      4     19      c
+07     34      0     36     30      d
+08     81      4      7      8      A
+09      4      8     66     22      g
+10     82      7      3      8      A
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=PCL1_ORYSJ:OsLUX1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35733265
+RL  Andrade L, Lu Y, Cordeiro A, Costa JMF, Wigge PA, Saibo NJM, Jaeger KE. The evening complex integrates photoperiod signals to control flowering in rice. Proc Natl Acad Sci U S A : (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  PCL1_ORYSJ/OsLUX2/EEADannot
+XX
+ID  PCL1_ORYSJ:OsLUX2:EEADannot
+XX
+NA  PCL1_ORYSJ
+XX
+DE  PCL1_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18621;
+XX
+P0      A      C      G      T
+01     33      3      1     63      w
+02      0     14      0     86      T
+03     95      5      0      0      A
+04     13     65      3     19      c
+05     84     16      0      0      A
+06      1      0      3     96      T
+07      2     98      0      0      C
+08      0      3      0     97      T
+09      0     85      3     12      C
+10      2     19      0     79      T
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=PCL1_ORYSJ:OsLUX2:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35733265
+RL  Andrade L, Lu Y, Cordeiro A, Costa JMF, Wigge PA, Saibo NJM, Jaeger KE. The evening complex integrates photoperiod signals to control flowering in rice. Proc Natl Acad Sci U S A : (2022).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  TGAL8_ORYSJ/OsbZIP49/EEADannot
+XX
+ID  TGAL8_ORYSJ:OsbZIP49:EEADannot
+XX
+NA  TGAL8_ORYSJ
+XX
+DE  TGAL8_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18624;
+XX
+P0      A      C      G      T
+01      0      0      0      2      T
+02      0      0      2      0      G
+03      2      0      0      0      A
+04      0      2      0      0      C
+05      0      0      2      0      G
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGAL8_ORYSJ:OsbZIP49:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 34582078
+RL  Ding C, Lin X, Zuo Y, Yu Z, Baerson SR, Pan Z, Zeng R, Song Y. Transcription factor OsbZIP49 controls tiller angle and plant architecture through the induction of indole-3-acetic acid-amido synthetases in rice. Plant J 108:1346-1364 (2021).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88230,21 +88683,21 @@ DE  PHE1_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18615;
+BF  18625;
 XX
 P0      A      C      G      T
-01     10     71      8     11      C
+01     10     72      8     10      C
 02      7     69      2     22      C
-03     71      3      8     18      A
+03     71      3      9     17      A
 04     36      6     13     45      w
-05     89      2      4      5      A
+05     90      1      4      5      A
 06     82      3      2     13      A
 07     74      2      4     20      A
-08     20      5      7     68      T
+08     20      5      6     69      T
 09     35      2     62      1      r
 10      9     10     72      9      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHE1_ARATH:PHE1MADS:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHE1_ARATH:PHE1MADS:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 31789592
@@ -88264,25 +88717,55 @@ DE  PHE1_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18615;
+BF  18625;
 XX
 P0      A      C      G      T
 01     10      4      0     86      T
 02      0      0      0    100      T
 03     39     13      0     48      w
-04      8     92      0      0      C
+04      7     92      0      1      C
 05      0    100      0      0      C
 06     58     12      0     30      w
 07     41      0      0     59      w
 08     55     12      0     33      w
 09     32      0      0     68      w
-10     39      0     15     46      w
+10     40      0     15     45      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PHE1_ARATH:PHE1SVP:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=PHE1_ARATH:PHE1SVP:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 31789592
 RL  Batista RA, Moreno-Romero J, Qiu Y, van Boven J, Santos-González J, Figueiredo DD, Köhler C. The MADS-box transcription factor PHERES1 controls imprinting in the endosperm by binding to domesticated transposons. Elife : (2019).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  TCP7_ARATH/SOC1/EEADannot
+XX
+ID  TCP7_ARATH:SOC1:EEADannot
+XX
+NA  TCP7_ARATH
+XX
+DE  TCP7_ARATH
+XX
+OS  Arabidopsis thaliana
+XX
+BF  12521;
+XX
+P0      A      C      G      T
+01      0      0      4      0      G
+02      0      0      4      0      G
+03      1      0      2      1      d
+04      1      2      0      1      h
+05      0      4      0      0      C
+06      0      4      0      0      C
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP7_ARATH:SOC1:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 34607390
+RL  Li X, Zhang G, Liang Y, Hu L, Zhu B, Qi D, Cui S, Zhao H. TCP7 interacts with Nuclear Factor-Ys to promote flowering by directly regulating SOC1 in Arabidopsis. Plant J 108:1493-1506 (2021).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88298,7 +88781,7 @@ DE  A0A3Q7IIT4_SOLLC
 XX
 OS  Solanum lycopersicum
 XX
-BF  18616;
+BF  18629;
 XX
 P0      A      C      G      T
 01      0      0      0      5      T
@@ -88306,7 +88789,7 @@ P0      A      C      G      T
 03      5      0      0      0      A
 04      0      0      0      5      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A3Q7IIT4_SOLLC:SlBES1.8:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A3Q7IIT4_SOLLC:SlBES1.8:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 35076967
@@ -88326,7 +88809,7 @@ DE  StCONSTANSlike1
 XX
 OS  Solanum tuberosum
 XX
-BF  18617;
+BF  18631;
 XX
 P0      A      C      G      T
 01      0      0      1      5      T
@@ -88344,11 +88827,40 @@ BS  75708;
 BS  75709;
 BS  75710;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=StCONSTANSlike1:StCONSTANSlike1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=StCONSTANSlike1:StCONSTANSlike1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 26972319
 RL  Abelenda JA, Cruz-OrÃ³ E, Franco-Zorrilla JM, Prat S. Potato StCONSTANS-like1 Suppresses Storage Organ Formation by Directly Activating the FT-like StSP5G Repressor. Curr Biol 26:872-81 (2016).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  ARFR_ORYSJ/SuRE/EEADannot
+XX
+ID  ARFR_ORYSJ:SuRE:EEADannot
+XX
+NA  ARFR_ORYSJ
+XX
+DE  ARFR_ORYSJ
+XX
+OS  Oryza sativa Japonica Group
+XX
+BF  18620;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      0      0      1      T
+03      0      1      0      0      C
+04      0      0      0      1      T
+05      0      1      0      0      C
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARFR_ORYSJ:SuRE:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36037381
+RL  Zhao Z, Wang C, Yu X, Tian Y, Wang W, Zhang Y, Bai W, Yang N, Zhang T, Zheng H, Wang Q, Lu J, Lei D, He X, Chen K, Gao J, Liu X, Liu S, Jiang L, Wang H, Wan J. Auxin regulates source-sink carbohydrate partitioning and reproductive organ development in rice. Proc Natl Acad Sci U S A : (2022).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88364,7 +88876,7 @@ DE  A0A1D6L1J8_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18619;
+BF  18634;
 XX
 P0      A      C      G      T
 01      0      0    100      0      G
@@ -88374,7 +88886,7 @@ P0      A      C      G      T
 05      0    100      0      0      C
 06      0    100      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A1D6L1J8_MAIZE:TB1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A1D6L1J8_MAIZE:TB1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 31444327
@@ -88410,11 +88922,40 @@ P0      A      C      G      T
 11      7      5      2      6      h
 12      4      7      0      9      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP2_ARATH:TCP2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP2_ARATH:TCP2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 33689093
 RL  He Z, Zhou X, Chen J, Yin L, Zeng Z, Xiang J, Liu S. Identification of a consensus DNA-binding site for the TCP domain transcription factor TCP2 and its important roles in the growth and development of Arabidopsis. Mol Biol Rep 48:2223-2233 (2021).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  Q7Y0Z7_SOLLC/TTGACtandem/EEADannot
+XX
+ID  Q7Y0Z7_SOLLC:TTGACtandem:EEADannot
+XX
+NA  Q7Y0Z7_SOLLC
+XX
+DE  Q7Y0Z7_SOLLC
+XX
+OS  Solanum lycopersicum
+XX
+BF  18628;
+XX
+P0      A      C      G      T
+01      0      0      0      2      T
+02      0      0      0      2      T
+03      0      0      2      0      G
+04      2      0      0      0      A
+05      0      2      0      0      C
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q7Y0Z7_SOLLC:TTGACtandem:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 36164829
+RL  Niu XL, Li HL, Li R, Liu GS, Peng ZZ, Jia W, Ji X, Zhu HL, Zhu BZ, Grierson D, Giuliano G, Luo YB, Fu DQ. Transcription factor SlBEL2 interferes with GOLDEN2-LIKE and influences green shoulder formation in tomato fruits. Plant J 112:982-997 (2022).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88430,20 +88971,20 @@ DE  Q9FIX7_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18618;
+BF  18632;
 BF  12323;
 XX
 P0      A      C      G      T
-01      3      3     84     10      G
-02     34     56      2      8      m
+01      4      3     83     10      G
+02     35     55      2      8      m
 03      0    100      0      0      C
-04     99      0      1      0      A
+04     99      0      0      1      A
 05      0    100      0      0      C
 06      0      0    100      0      G
 07      0      1      0     99      T
 08      5     11     84      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q9FIX7_ARATH:TZP1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q9FIX7_ARATH:TZP1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 29686058
@@ -88463,14 +89004,14 @@ DE  Q9FIX7_ARATH
 XX
 OS  Arabidopsis thaliana
 XX
-BF  18618;
+BF  18632;
 BF  12323;
 XX
 P0      A      C      G      T
-01     28     22     20     30      w
+01     29     22     20     29      w
 02     28     21     18     33      w
-03     32     17     14     37      w
-04     38     13     18     31      w
+03     32     16     15     37      w
+04     38     14     18     30      w
 05     39     10     13     38      w
 06      0      0      0    100      T
 07      0      0    100      0      G
@@ -88483,7 +89024,7 @@ P0      A      C      G      T
 14     29     16     23     32      w
 15     29     20     21     30      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=Q9FIX7_ARATH:TZP2:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=Q9FIX7_ARATH:TZP2:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 29686058
@@ -88503,25 +89044,54 @@ DE  AY750993
 XX
 OS  Hordeum vulgare cv Strider
 XX
-BF  18620;
+BF  18635;
 XX
 P0      A      C      G      T
-01     18     72      7      3      C
+01     19     71      7      3      C
 02     10     70      8     12      C
 03     57     17     14     12      a
-04     56      6     31      7      r
-05     95      2      3      0      A
+04     56      7     31      6      r
+05     94      2      4      0      A
 06     84      1      3     12      A
 07     79      7      7      7      A
 08     58      3      9     30      w
 09     24      0     76      0      G
 10     15      0     85      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AY750993:VRN1:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=AY750993:VRN1:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 25562483
 RL  Deng W, Casao Mc, Wang P, Sato K, Hayes PM, Jean Finnegan E, Trvaskis B (2015) Direct links between the vernalization response and other key traits of cereal crops. Nat Comm 6:5882
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  PdeWRKY65/WBOXPdePHT19n/EEADannot
+XX
+ID  PdeWRKY65:WBOXPdePHT19n:EEADannot
+XX
+NA  PdeWRKY65
+XX
+DE  PdeWRKY65
+XX
+OS  Populus deltoidesxPopulus euramericana
+XX
+BF  18627;
+BF  18626;
+XX
+P0      A      C      G      T
+01      3      0      0      0      A
+02      0      0      3      0      G
+03      3      0      0      0      A
+04      0      3      0      0      C
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=PdeWRKY65:WBOXPdePHT19n:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35883193
+RL  Yang X, Zhang K, Nvsvrot T, Zhang Y, Cai G, Huang L, Ren W, Ding Y, Hammond JP, Shi L, Wang N. Phosphate (Pi) stress-responsive transcription factors PdeWRKY6 and PdeWRKY65 regulate the expression of PdePHT1;9 to modulate tissue Pi concentration in poplar. Plant J 111:1753-1767 (2022).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88548,7 +89118,7 @@ P0      A      C      G      T
 06     93      7      0      0      A
 07     53      7     40      0      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRK71_ARATH:WRKY71:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRK71_ARATH:WRKY71:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 34296474
@@ -88582,7 +89152,7 @@ P0      A      C      G      T
 09     10      0      0     90      T
 10     90      0      0     10      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZHD10_ARATH:ZFHD10-3:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZHD10_ARATH:ZFHD10-3:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 29686058
@@ -88602,7 +89172,7 @@ DE  A0A060D1R6_MAIZE
 XX
 OS  Zea mays
 XX
-BF  18622;
+BF  18637;
 XX
 P0      A      C      G      T
 01      2      0      0      0      A
@@ -88612,11 +89182,41 @@ P0      A      C      G      T
 05      2      0      0      0      A
 06      2      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=A0A060D1R6_MAIZE:ZmNAC128:EEADannot
+LN  https://footprintdb.eead.csic.es//index.php?motif=A0A060D1R6_MAIZE:ZmNAC128:EEADannot
 XX
 RN  [1];
 RX  PUBMED: 31110006
 RL  Zhang Z, Dong J, Ji C, Wu Y, Messing J. NAC-type transcription factors regulate accumulation of starch and protein in maize seeds. Proc Natl Acad Sci U S A 116:11223-11228 (2019).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  A3BSC5_ORYSJ/bZIP65/EEADannot
+XX
+ID  A3BSC5_ORYSJ:bZIP65:EEADannot
+XX
+NA  A3BSC5_ORYSJ
+XX
+DE  A3BSC5_ORYSJ
+XX
+OS  Oryza sativa
+XX
+BF  18638;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      0      1      0      0      C
+04      0      0      1      0      G
+05      0      0      0      1      T
+06      1      0      0      0      A
+XX
+LN  https://footprintdb.eead.csic.es//index.php?motif=A3BSC5_ORYSJ:bZIP65:EEADannot
+XX
+RN  [1];
+RX  PUBMED: 35546447
+RL  Li X, Tian X, He M, Liu X, Li Z, Tang J, Mei E, Xu M, Liu Y, Wang Z, Guan Q, Meng W, Fang J, Zhang J, Bu Q. bZIP71 delays flowering by suppressing Ehd1 expression in rice. J Integr Plant Biol 64:1352-1363 (2022).
 RN  [2];
 RX  PUBMED: 24234003
 RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
@@ -88654,7 +89254,7 @@ P0      A      C      G      T
 17     45     23     13     14      a
 18     21     24     26     24      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL3:AGL3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL3:AGL3:Athamap
 XX
 CC  sequences selected with recombinant AGL3 from a pool of double-stranded oligonucleotides containing a core of 95 random nucleotides; 5 rounds of selection and amplification; SELEX
 XX
@@ -88722,7 +89322,7 @@ BS  54696;
 BS  54697;
 BS  54698;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB-9:ATHB9:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB-9:ATHB9:Athamap
 XX
 CC  sequences selected with recombinant ATHB-9 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 7 rounds of selection and amplification; SELEX
 XX
@@ -88766,7 +89366,7 @@ P0      A      C      G      T
 17      4     19      4      0      C
 18      4      2      9     12      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF3:PIF3:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF3:PIF3:1)(Athamap
 XX
 RN  [1];
 RX  PUBMED: 10797009
@@ -88807,7 +89407,7 @@ P0      A      C      G      T
 16      7      8     11      6      s
 17      4     11      6     11      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF3:PIF3:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF3:PIF3:2)(Athamap
 XX
 RN  [1];
 RX  PUBMED: 10797009
@@ -88839,7 +89439,7 @@ P0      A      C      G      T
 07      5     61     13      8      C
 08      3      8      4     72      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TEIL:TEIL:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TEIL:TEIL:Athamap
 XX
 CC  sequences selected with recombinant TEIL from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 4 rounds of selection and amplification
 XX
@@ -88874,7 +89474,7 @@ P0      A      C      G      T
 08      0      0     17      3      G
 09      1     19      0      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF1:ABF1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF1:ABF1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10636868
@@ -88911,7 +89511,7 @@ BS  21241;
 BS  21242;
 BS  21243;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI3:ABI3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI3:ABI3:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10758492
@@ -88945,7 +89545,7 @@ P0      A      C      G      T
 09      2     13      4      2      c
 10      4      7      6      4      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI4:ABI4:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI4:ABI4:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12368505
@@ -88979,7 +89579,7 @@ P0      A      C      G      T
 09      1     18      3      9      y
 10      0     20      2      9      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI4(2):ABI4:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI4(2):ABI4:2)(Athamap
 XX
 RN  [1];
 RX  PUBMED: 12368505
@@ -89017,7 +89617,7 @@ BS  21245;
 BS  21246;
 BS  21247;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI5:ABI5:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI5:ABI5:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12084834
@@ -89060,7 +89660,7 @@ P0      A      C      G      T
 15      3      1     29      1      G
 16      2     10      3     19      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANT:ANT:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANT:ANT:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11058102
@@ -89095,7 +89695,7 @@ P0      A      C      G      T
 10      1      9      0      0      C
 11      8      1      1      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARF1:ARF1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARF1:ARF1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 9188533
@@ -89135,7 +89735,7 @@ XX
 BS  21248;
 BS  21249;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR1:ARR1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR1:ARR1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11135105
@@ -89171,7 +89771,7 @@ P0      A      C      G      T
 11      0      0      8      6      k
 12      2      7      3      2      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR10:ARR10:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR10:ARR10:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12215502
@@ -89211,7 +89811,7 @@ BS  21248;
 BS  21249;
 BS  21250;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR2:ARR2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR2:ARR2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11135105
@@ -89247,7 +89847,7 @@ P0      A      C      G      T
 08      0      0      0     25      T
 09      3      1     12      0      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB1:ATHB1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB1:ATHB1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 8253077
@@ -89284,7 +89884,7 @@ P0      A      C      G      T
 12      0      0      0     39      T
 13      0      0     38      1      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB5:ATHB5:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB5:ATHB5:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11247607
@@ -89318,7 +89918,7 @@ P0      A      C      G      T
 09      5      1      1      1      a
 10      5      1      1      1      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtLEC2:AtLEC2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtLEC2:AtLEC2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 16492731
@@ -89359,7 +89959,7 @@ P0      A      C      G      T
 15     12      7      0     15      w
 16      9     12      3     10      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtSPL3:AtSPL3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtSPL3:AtSPL3:Athamap
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -89407,7 +90007,7 @@ P0      A      C      G      T
 15     10      3      0     17      w
 16     11      6      0     13      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtSPL8:AtSPL8:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtSPL8:AtSPL8:Athamap
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -89453,7 +90053,7 @@ XX
 BS  21244;
 BS  21245;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZIP12:BZIP12:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZIP12:BZIP12:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12084834
@@ -89502,7 +90102,7 @@ BS  21257;
 BS  21258;
 BS  21259;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1A:DREB1A:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1A:DREB1A:Athamap
 XX
 RN  [1];
 RX  PUBMED: 15165189
@@ -89552,7 +90152,7 @@ BS  21260;
 BS  21254;
 BS  21255;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB1B:DREB1B:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB1B:DREB1B:Athamap
 XX
 RN  [1];
 RX  PUBMED: 9881163
@@ -89601,7 +90201,7 @@ BS  21258;
 BS  21259;
 BS  21251;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2A:DREB2A:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2A:DREB2A:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12694590
@@ -89641,7 +90241,7 @@ BS  21262;
 BS  21263;
 BS  21264;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2Fa:E2Fa:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2Fa:E2Fa:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11786543
@@ -89681,7 +90281,7 @@ BS  21265;
 BS  21262;
 BS  21264;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2Fb:E2Fb:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2Fb:E2Fb:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11669580
@@ -89729,7 +90329,7 @@ BS  21264;
 BS  21266;
 BS  21267;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=E2Fc:E2Fc:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=E2Fc:E2Fc:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11786543
@@ -89772,7 +90372,7 @@ XX
 BS  21268;
 BS  21269;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF1:ERF1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF1:ERF1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10715325
@@ -89816,7 +90416,7 @@ BS  21271;
 BS  21272;
 BS  21269;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF3:ERF3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF3:ERF3:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10715325
@@ -89861,7 +90461,7 @@ BS  21272;
 BS  21273;
 BS  21269;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF4:ERF4:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF4:ERF4:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10715325
@@ -89898,7 +90498,7 @@ BS  21241;
 BS  21242;
 BS  21243;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FUS3:FUS3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=FUS3:FUS3:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10758492
@@ -89930,7 +90530,7 @@ P0      A      C      G      T
 07     10     10      1      4      m
 08      5     18      2      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GAMYB:GAMYB:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=GAMYB:GAMYB:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10069063
@@ -89974,7 +90574,7 @@ BS  21281;
 BS  21282;
 BS  21283;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA1:GATA1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA1:GATA1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12139008
@@ -90016,7 +90616,7 @@ BS  21277;
 BS  21278;
 BS  21280;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA2:GATA2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA2:GATA2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12139008
@@ -90057,7 +90657,7 @@ BS  21285;
 BS  21286;
 BS  21287;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GT1:GT1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=GT1:GT1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10394897
@@ -90095,7 +90695,7 @@ XX
 BS  21288;
 BS  21289;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HY5:HY5:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=HY5:HY5:Athamap
 XX
 RN  [1];
 RX  PUBMED: 9596629
@@ -90133,7 +90733,7 @@ P0      A      C      G      T
 10      5      1      0      9      w
 11      3      1      0     11      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ID1:ID1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ID1:ID1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 15020707
@@ -90168,7 +90768,7 @@ XX
 BS  21290;
 BS  21291;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB1:MYB1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB1:MYB1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 8312738
@@ -90205,7 +90805,7 @@ BS  21293;
 BS  21290;
 BS  21291;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB2:MYB2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB2:MYB2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 8312738
@@ -90245,7 +90845,7 @@ XX
 BS  21294;
 BS  21295;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB44:MYB44:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB44:MYB44:Athamap
 XX
 RN  [1];
 RX  PUBMED: 9678577
@@ -90280,7 +90880,7 @@ XX
 BS  21296;
 BS  21297;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYC2:MYC2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYC2:MYC2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 15923349
@@ -90311,7 +90911,7 @@ P0      A      C      G      T
 06      2     10      2      0      C
 07      0     13      1      0      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=NtERF2:NtERF2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=NtERF2:NtERF2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12586355
@@ -90347,7 +90947,7 @@ XX
 BS  21298;
 BS  21299;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL3:SPL3:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL3:SPL3:Athamap
 XX
 RN  [1];
 RX  PUBMED: 9301089
@@ -90387,7 +90987,7 @@ XX
 BS  21300;
 BS  21301;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL4:SPL4:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL4:SPL4:Athamap
 XX
 RN  [1];
 RX  PUBMED: 10524240
@@ -90434,7 +91034,7 @@ BS  21304;
 BS  21305;
 BS  21306;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SR1:SR1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=SR1:SR1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 12218065
@@ -90470,7 +91070,7 @@ P0      A      C      G      T
 11      6      3      6     16      t
 12     18      0      7      6      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1:TGA1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1:TGA1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 1446171
@@ -90504,7 +91104,7 @@ P0      A      C      G      T
 09      5      1      2      3      w
 10      1      4      5      1      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1a:TGA1a:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1a:TGA1a:Athamap
 XX
 RN  [1];
 RX  PUBMED: 8487298
@@ -90547,7 +91147,7 @@ BS  21310;
 BS  21311;
 BS  21312;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TINY2:TINY2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TINY2:TINY2:Athamap
 XX
 RN  [1];
 RX  PUBMED: 16053711
@@ -90582,7 +91182,7 @@ P0      A      C      G      T
 10      1     19      0      0      C
 11      1      7      7      5      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TaMYB80:TaMYB80:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TaMYB80:TaMYB80:Athamap
 XX
 RN  [1];
 RX  PUBMED: 15686526
@@ -90629,7 +91229,7 @@ P0      A      C      G      T
 22      0     26      1     11      Y
 23      2     16      1     19      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TaNAC69(1):TaNAC69:1)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TaNAC69(1):TaNAC69:1)(Athamap
 XX
 RN  [1];
 RL  Xue GP, Bower NI, McIntyre CL, Riding GA, Kazan K, Shorter R  2006. TaNAC69 from the NAC superfamily of transcription factors is up-regulated by abiotic stresses in wheat and recognises two consensus DNA-binding sequences Funct Plant Biol 33: 43-57.
@@ -90676,7 +91276,7 @@ P0      A      C      G      T
 23      0      7      0      2      C
 24      0      2      0      7      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TaNAC69(2):TaNAC69:2)(Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=TaNAC69(2):TaNAC69:2)(Athamap
 XX
 RN  [1];
 RL  Xue GP, Bower NI, McIntyre CL, Riding GA, Kazan K, Shorter R  2006. TaNAC69 from the NAC superfamily of transcription factors is up-regulated by abiotic stresses in wheat and recognises two consensus DNA-binding sequences Funct Plant Biol 33: 43-57.
@@ -90718,7 +91318,7 @@ BS  21315;
 BS  21316;
 BS  21317;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WER:WER:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=WER:WER:Athamap
 XX
 RN  [1];
 RX  PUBMED: 15795220
@@ -90756,7 +91356,7 @@ BS  21320;
 BS  21321;
 BS  21322;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18:WRKY18:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18:WRKY18:Athamap
 XX
 RN  [1];
 RX  PUBMED: 11135117
@@ -90798,7 +91398,7 @@ P0      A      C      G      T
 08     33      6      3      3      A
 09      2      4     35      4      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAP1:ZAP1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAP1:ZAP1:Athamap
 XX
 RN  [1];
 RX  PUBMED: 8972846
@@ -90831,7 +91431,7 @@ P0      A      C      G      T
 08      3      1      3     18      T
 09      6      5     14      0      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HAHB-4:HAHB4:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=HAHB-4:HAHB4:Athamap
 XX
 CC  sequences selected with recombinant HAHB-4 from a pool of double-stranded oligonucleotides containing a core of 9 random nucleotides; 2 or 3 rounds of selection and amplification
 XX
@@ -90867,7 +91467,7 @@ P0      A      C      G      T
 09     64      1      8      3      A
 10      1     66      2      7      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PCF2:PCF2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=PCF2:PCF2:Athamap
 XX
 CC  sequences selected with recombinant PCF2 from a pool of double-stranded oligonucleotides containing a core of 8 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -90909,7 +91509,7 @@ P0      A      C      G      T
 15     26      1      1      4      A
 16     19      3      4      6      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL15:AGL15:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL15:AGL15:Athamap
 XX
 CC  sequences selected with recombinant AGL15 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 to 5 rounds of selection and amplification
 XX
@@ -90945,7 +91545,7 @@ P0      A      C      G      T
 09     17     24     25     15      s
 10     15     28     12     26      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PCF5:PCF5:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=PCF5:PCF5:Athamap
 XX
 CC  sequences selected with recombinant PCF5 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -90985,7 +91585,7 @@ P0      A      C      G      T
 12     68      3     26      3      R
 13      3     55     30     12      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB-77:AtMYB77:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB-77:AtMYB77:Athamap
 XX
 CC  figures are percentages; sequences selected with recombinant AtMYB-77 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -91025,7 +91625,7 @@ P0      A      C      G      T
 12     18      0     78      4      G
 13      4      0     87      9      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB-15:AtMYB15:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB-15:AtMYB15:Athamap
 XX
 CC  figures are percentages; sequences selected with recombinant AtMYB-15 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -91065,7 +91665,7 @@ P0      A      C      G      T
 12      0      0     96      4      G
 13      4     32     60      4      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AtMYB-84:AtMYB84:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AtMYB-84:AtMYB84:Athamap
 XX
 CC  figures are percentages; sequences selected with recombinant AtMYB-84 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -91101,7 +91701,7 @@ P0      A      C      G      T
 09     14      0      3      2      A
 10      4      5      5      5      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGP1:AGP1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGP1:AGP1:Athamap
 XX
 CC  sequences selected with recombinant AGP1 from a pool of double-stranded oligonucleotides containing a core of 28 random nucleotides; 7 rounds of selection and amplification
 XX
@@ -91132,12 +91732,12 @@ P0      A      C      G      T
 04     48      2      0     50      w
 05     33      1      0     66      w
 06     66      0      1     33      w
-07     50      1      1     48      w
+07     50      0      2     48      w
 08     10      2      4     84      T
 09      6     15      2     77      T
 10     38     11     14     37      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL12:AHL12:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL12:AHL12:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91169,9 +91769,9 @@ P0      A      C      G      T
 07     20      1      0     79      T
 08     59      2      2     37      w
 09     41      2      2     55      w
-10      5     18      3     74      T
+10      6     18      3     73      T
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL12:AHL12_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL12:AHL12_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91199,13 +91799,13 @@ P0      A      C      G      T
 03     44      1      1     54      w
 04     55      1      1     43      w
 05     36      0      0     64      w
-06     64      0      0     36      w
+06     63      1      0     36      w
 07     43      1      1     55      w
-08     54      1      0     45      w
-09     11      4      2     83      T
+08     54      0      1     45      w
+09     10      4      2     84      T
 10     25     18      5     52      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL12:AHL12_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL12:AHL12_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91231,15 +91831,15 @@ P0      A      C      G      T
 01     44     16     11     29      w
 02     95      1      1      3      A
 03     88      0      1     11      A
-04      8      1      1     90      T
+04      7      1      1     91      T
 05     87      0      0     13      A
 06     13      0      0     87      T
-07     91      1      0      8      A
+07     90      1      1      8      A
 08     11      1      0     88      T
 09      3      1      1     95      T
 10     44     10     21     25      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL20:AHL20:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL20:AHL20:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91264,16 +91864,16 @@ XX
 P0      A      C      G      T
 01     28     27      9     36      h
 02     77      7      7      9      A
-03     75      0      1     24      A
+03     74      1      1     24      A
 04     13      0      1     86      T
-05     25      1      0     74      T
+05     25      1      1     73      T
 06     77      0      0     23      A
 07     84      1      0     15      A
 08     65      1      0     34      w
 09      5      3      2     90      T
 10     61      9     10     20      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL20:AHL20_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL20:AHL20_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91300,14 +91900,14 @@ P0      A      C      G      T
 02     89      5      3      3      A
 03     40      1      1     58      w
 04     37      1      1     61      w
-05     70      2      0     28      W
-06     28      1      2     69      W
+05     69      2      1     28      W
+06     28      0      3     69      W
 07     61      1      1     37      w
 08     58      1      1     40      w
 09      3      3      5     89      T
 10     48     22     11     19      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL20:AHL20_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL20:AHL20_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91332,16 +91932,16 @@ XX
 P0      A      C      G      T
 01     30     17     28     25      d
 02     87      3      5      5      A
-03     61      0      1     38      w
+03     62      0      0     38      w
 04     21      0      0     79      T
-05     22      0      0     78      T
-06     77      0      1     22      A
+05     22      1      0     77      T
+06     77      1      0     22      A
 07     79      0      0     21      A
-08     38      1      0     61      w
+08     37      1      0     62      w
 09      5      5      3     87      T
 10     39     16      9     36      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL25:AHL25:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL25:AHL25:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91364,18 +91964,18 @@ XX
 BF  8861;
 XX
 P0      A      C      G      T
-01     49     15     13     23      a
+01     49     14     13     24      a
 02     86      4      6      4      A
-03     64      0      1     35      w
+03     64      0      2     34      w
 04     35      0      1     64      w
-05     70      0      0     30      W
-06     30      0      0     70      W
+05     70      1      0     29      W
+06     29      0      1     70      W
 07     64      1      0     35      w
 08     34      1      1     64      w
 09      4      6      4     86      T
 10     36     16     12     36      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL25:AHL25_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL25:AHL25_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91401,15 +92001,15 @@ P0      A      C      G      T
 01     37     18     16     29      w
 02     54      9     15     22      a
 03     74      0      1     25      W
-04     39      0      0     61      w
+04     38      1      0     61      w
 05     29      0      0     71      W
 06     49      0      0     51      w
 07     83      0      1     16      A
 08     38      1      0     61      w
 09      8      3      6     83      T
-10     28      9      7     56      w
+10     27     10      7     56      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AHL25:AHL25_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=AHL25:AHL25_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91434,16 +92034,16 @@ XX
 P0      A      C      G      T
 01     18     15      4     63      t
 02     54     22      8     16      a
-03      7     63      4     26      y
-04     82     12      4      2      A
+03      7     62      4     27      y
+04     81     12      4      3      A
 05     10     86      2      2      C
 06      9      5     81      5      G
 07     14     57     11     18      c
 08     46     40      5      9      m
-09     80      4     10      6      A
+09     81      4      9      6      A
 10     12     46     12     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC46:ANAC46:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC46:ANAC46:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91466,18 +92066,18 @@ XX
 BF  8863;
 XX
 P0      A      C      G      T
-01     36     18     16     30      w
+01     36     19     16     29      w
 02     80      3      4     13      A
 03      2     77      2     19      C
 04     97      2      0      1      A
 05      2     96      1      1      C
-06      2      2     94      2      G
+06      2      1     95      2      G
 07      1     12     13     74      T
 08     88      8      0      4      A
 09     87      1      0     12      A
 10      8     40     11     41      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC55:ANAC55:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC55:ANAC55:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91500,9 +92100,9 @@ XX
 BF  8863;
 XX
 P0      A      C      G      T
-01     39     12     30     19      r
+01     39     11     30     20      r
 02     27      3      6     64      w
-03      2     23      4     71      T
+03      3     23      3     71      T
 04     89      5      4      2      A
 05      5     88      2      5      C
 06      5      2     88      5      G
@@ -91511,7 +92111,7 @@ P0      A      C      G      T
 09     64      6      3     27      w
 10      6     32      7     55      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC55:ANAC55_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC55:ANAC55_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91535,17 +92135,17 @@ BF  8864;
 XX
 P0      A      C      G      T
 01     26     23     28     23      r
-02     37     13     34     16      r
-03      9     67      5     19      c
+02     37     12     35     16      r
+03      9     67      6     18      c
 04     91      3      3      3      A
 05     26     69      3      2      M
-06      3      3     91      3      G
+06      3      4     90      3      G
 07     12     69      7     12      C
-08     63     25      2     10      a
-09     76      9      3     12      A
-10     21     27     17     35      y
+08     63     24      2     11      a
+09     77      9      3     11      A
+10     22     27     16     35      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANAC58:ANAC58:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANAC58:ANAC58:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91571,15 +92171,15 @@ P0      A      C      G      T
 01     48     11     22     19      a
 02     62      5      5     28      w
 03     93      1      3      3      A
-04      1      0     98      1      G
+04      0      0     99      1      G
 05     99      1      0      0      A
 06      1      0      0     99      T
-07     73      2      0     25      A
-08      0     83      1     16      C
+07     74      2      0     24      A
+08      0     84      0     16      C
 09      1      1     97      1      G
 10     19     22     50      9      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR11:ARR11:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR11:ARR11:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91607,13 +92207,13 @@ P0      A      C      G      T
 03     23     10     64      3      g
 04      9      2     56     33      k
 05     83      1      2     14      A
-06     14      1      1     84      T
+06     14      2      1     83      T
 07     33     56      2      9      m
 08      3     64     10     23      c
 09     24      9     51     16      g
 10     20     42     16     22      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR11:ARR11_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR11:ARR11_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91636,8 +92236,8 @@ XX
 BF  8865;
 XX
 P0      A      C      G      T
-01     34     13     22     31      w
-02     68      6     12     14      a
+01     34     13     23     30      w
+02     67      7     12     14      a
 03     84      2      6      8      A
 04      5      2     73     20      G
 05     95      1      2      2      A
@@ -91645,9 +92245,9 @@ P0      A      C      G      T
 07     20     73      2      5      C
 08      8      7      1     84      T
 09     14     12      6     68      t
-10     22     20     30     28      k
+10     22     20     31     27      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR11:ARR11_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR11:ARR11_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91671,17 +92271,17 @@ BF  8866;
 XX
 P0      A      C      G      T
 01     53     10     12     25      w
-02     95      1      2      2      A
-03      0      1     98      1      G
-04     99      1      0      0      A
-05      0      0      1     99      T
+02     94      1      3      2      A
+03      0      0     98      2      G
+04    100      0      0      0      A
+05      1      0      0     99      T
 06     51     15      0     34      w
 07      0     96      0      4      C
 08      1      0     96      3      G
-09      9     48     40      3      s
+09      8     48     40      4      s
 10     19     12      8     61      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR14:ARR14:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR14:ARR14:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91707,15 +92307,15 @@ P0      A      C      G      T
 01     18     26     38     18      s
 02     26     54      8     12      m
 03     36      6     57      1      r
-04     13      1     62     24      g
+04     13      1     63     23      g
 05     92      1      1      6      A
 06      6      1      1     92      T
-07     24     63      0     13      c
+07     24     63      1     12      c
 08      1     57      6     36      y
 09     12      8     54     26      k
 10     16     48     19     17      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR14:ARR14_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR14:ARR14_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91738,18 +92338,18 @@ XX
 BF  8866;
 XX
 P0      A      C      G      T
-01     10     39     42      9      s
-02     77      7     14      2      A
-03     90      1      8      1      A
+01     10     38     43      9      s
+02     77      8     13      2      A
+03     90      2      8      0      A
 04      3      0     94      3      G
-05     99      0      1      0      A
-06      0      2      0     98      T
+05     98      0      2      0      A
+06      1      1      0     98      T
 07      3     94      0      3      C
-08      0      8      2     90      T
-09      2     14      8     76      T
-10     10     48     38      4      s
+08      0      8      1     91      T
+09      1     14      8     77      T
+10     10     48     37      5      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ARR14:ARR14_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ARR14:ARR14_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91778,12 +92378,12 @@ P0      A      C      G      T
 04      3      2     93      2      G
 05      4     48     38     10      s
 06      6     85      5      4      C
-07      6     10     73     11      G
-08      8     51     35      6      s
-09      7     80     10      3      C
+07      6      9     73     12      G
+08      8     52     35      5      s
+09      6     80     10      4      C
 10      9     37     29     25      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF1:ATERF1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF1:ATERF1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91806,18 +92406,18 @@ XX
 BF  7505;
 XX
 P0      A      C      G      T
-01     14     33     23     30      y
+01     14     33     24     29      y
 02     13     15     12     60      t
-03      4      0     94      2      G
+03      5      0     94      1      G
 04      3     90      6      1      C
-05      1     95      1      3      C
-06      3      1     95      1      G
+05      0     95      1      4      C
+06      4      0     95      1      G
 07      1      6     90      3      G
-08      1     94      1      4      C
-09     59     12     15     14      a
-10     35     19     29     17      r
+08      2     94      0      4      C
+09     60     12     14     14      a
+10     35     19     30     16      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATERF1:ATERF1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATERF1:ATERF1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91840,18 +92440,18 @@ XX
 BF  8867;
 XX
 P0      A      C      G      T
-01     22     18     24     36      t
+01     22     18     23     37      t
 02     58     19     11     12      a
 03     67      5      5     23      a
-04      1      4      1     94      T
+04      2      3      1     94      T
 05      5     20     63     12      g
-06     97      1      2      0      A
-07      1      1      1     97      T
+06     96      1      2      1      A
+07      1      1      2     96      T
 08      3      1      2     94      T
-09     12      2     77      9      G
+09     13      2     76      9      G
 10     24     15     56      5      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB12:ATHB12:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB12:ATHB12:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91875,17 +92475,17 @@ BF  8868;
 XX
 P0      A      C      G      T
 01     14     38     16     32      y
-02     70     25      0      5      M
-03     99      0      0      1      A
+02     69     25      0      6      M
+03     98      1      0      1      A
 04      0      1      0     99      T
 05     41      1      0     58      w
 06     99      0      1      0      A
 07      1      1      0     98      T
-08      0      3      1     96      T
+08      0      2      2     96      T
 09     10      2     78     10      G
 10     32     26     21     21      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ATHB51:ATHB51:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ATHB51:ATHB51:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91911,15 +92511,15 @@ P0      A      C      G      T
 01      6     56     15     23      c
 02      8     76      4     12      C
 03     75      0     25      0      R
-04      0    100      0      0      C
-05      0     99      0      1      C
+04      1     99      0      0      C
+05      0    100      0      0      C
 06      0      0    100      0      G
 07     99      0      0      1      A
-08      1     99      0      0      C
+08      0     99      0      1      C
 09     89      0     10      1      A
 10     25     32     21     22      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At1g77200:At1g77200:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=At1g77200:At1g77200:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91945,15 +92545,15 @@ P0      A      C      G      T
 01     31     14     36     19      r
 02     13      6     26     55      k
 03      8     69     12     11      C
-04     82      5      2     11      A
+04     82      5      3     10      A
 05      3      2     87      8      G
 06      8     87      2      3      C
-07     10      2      6     82      T
+07     10      2      5     83      T
 08     11     13     69      7      G
 09     55     26      6     13      m
 10     38     38     15      9      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g35610:At4g35610:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g35610:At4g35610:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -91976,10 +92576,10 @@ XX
 BF  8871;
 XX
 P0      A      C      G      T
-01     24     37     21     18      c
+01     24     38     20     18      c
 02     58      1     38      3      r
 03      1     93      3      3      C
-04      9      9     75      7      G
+04      9      8     75      8      G
 05      1      1     98      0      G
 06      1      1      0     98      T
 07     75      1     13     11      A
@@ -91987,7 +92587,7 @@ P0      A      C      G      T
 09     61     15      4     20      a
 10     29      5      2     64      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g28300:At5g28300:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g28300:At5g28300:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92011,17 +92611,17 @@ BF  2814;
 XX
 P0      A      C      G      T
 01     60      8     10     22      a
-02     93      0      1      6      A
+02     93      0      2      5      A
 03     96      0      4      0      A
-04     98      0      2      0      A
+04     98      0      1      1      A
 05      4      0      0     96      T
-06    100      0      0      0      A
+06     99      0      1      0      A
 07      0      1      0     99      T
-08      0    100      0      0      C
+08      0     99      1      0      C
 09      2     10      1     87      T
 10     17     21     11     51      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CCA1:CCA1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=CCA1:CCA1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92048,14 +92648,14 @@ P0      A      C      G      T
 02     91      2      4      3      A
 03      1      1     95      3      G
 04     97      1      1      1      A
-05      1      0      2     97      T
-06     93      3      1      3      A
+05      1      0      1     98      T
+06     93      3      0      4      A
 07      2     34      1     63      y
 08     47      1     51      1      r
-09     40     26     23     11      m
-10     30     14     35     21      r
+09     41     26     22     11      m
+10     30     14     34     22      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CCA1:CCA1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=CCA1:CCA1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92078,18 +92678,18 @@ XX
 BF  8872;
 XX
 P0      A      C      G      T
-01     16     42     31     11      s
-02     76      3     17      4      A
+01     17     41     31     11      s
+02     75      3     18      4      A
 03     60      0      1     39      w
 04     99      0      0      1      A
-05     99      0      1      0      A
+05     99      0      0      1      A
 06     74      0     26      0      R
 07      0      0     98      2      G
 08      1     20      6     73      T
 09     24      4     56     16      g
-10     38     18     31     13      r
+10     39     18     30     13      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DAG2:DAG2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DAG2:DAG2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92116,14 +92716,14 @@ P0      A      C      G      T
 02     98      0      2      0      A
 03      1      2      0     97      T
 04      1      0     99      0      G
-05      1      0      0     99      T
-06      1     99      0      0      C
-07      0      1     99      0      G
+05      0      0      0    100      T
+06      0     99      1      0      C
+07      1      0     99      0      G
 08     17      0     83      0      G
 09      0     79      0     21      C
-10     28     30     29     13      v
+10     28     31     29     12      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DDF1:DDF1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DDF1:DDF1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92146,9 +92746,9 @@ XX
 BF  5573;
 XX
 P0      A      C      G      T
-01     20     23     32     25      g
+01     20     23     33     24      g
 02     15     79      2      4      C
-03     33      1     63      3      r
+03     34      1     63      2      r
 04      3     89      6      2      C
 05      4     93      2      1      C
 06      7      4     86      3      G
@@ -92157,7 +92757,7 @@ P0      A      C      G      T
 09     10     42     33     15      s
 10     32     23     15     30      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR3:DEAR3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR3:DEAR3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92182,8 +92782,8 @@ XX
 P0      A      C      G      T
 01     11     33     28     28      b
 02     12     16     60     12      g
-03     60      9     11     20      a
-04     88      1     10      1      A
+03     59     10     11     20      a
+04     89      1      9      1      A
 05      1     96      1      2      C
 06      2     96      1      1      C
 07      3      2     94      1      G
@@ -92191,7 +92791,7 @@ P0      A      C      G      T
 09      2     96      0      2      C
 10     16     32     40     12      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR3:DEAR3_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR3:DEAR3_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92219,13 +92819,13 @@ P0      A      C      G      T
 03     80      0     20      0      A
 04      1     99      0      0      C
 05      2     98      0      0      C
-06      0      0    100      0      G
+06      0      0     99      1      G
 07     98      1      0      1      A
 08      0     99      0      1      C
 09     85     12      1      2      A
-10     12     33      7     48      y
+10     12     32      8     48      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR4:DEAR4:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR4:DEAR4:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92250,16 +92850,16 @@ XX
 P0      A      C      G      T
 01     29     22     37     12      r
 02      3     13     76      8      G
-03      2     95      1      2      C
+03      2     94      2      2      C
 04     12      0     87      1      G
 05      1     91      8      0      C
 06      0     98      1      1      C
 07      1      1     95      3      G
 08      1     84      9      6      C
 09      3     86      2      9      C
-10      4     21     15     60      t
+10      4     21     14     61      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DEAR4:DEAR4_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DEAR4:DEAR4_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92284,16 +92884,16 @@ XX
 P0      A      C      G      T
 01     39     21     27     13      r
 02     45      9     22     24      a
-03     68      1      6     25      A
+03     68      1      7     24      A
 04     97      0      1      2      A
 05     90      0      8      2      A
 06     36      4     59      1      r
-07     48      6     44      2      r
+07     48      6     45      1      r
 08     10     19     46     25      g
-09     18     21     41     20      g
+09     17     21     42     20      g
 10     29     22     31     18      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.7:DOF5.7:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.7:DOF5.7:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92317,17 +92917,17 @@ BF  8872;
 XX
 P0      A      C      G      T
 01     44      8     24     24      a
-02     47     15     12     26      w
+02     47     15     13     25      w
 03      2     94      2      2      C
 04      2      0     94      4      G
-05      2      0      2     96      T
-06      1      2      1     96      T
-07     89      3      2      6      A
-08     87      5      3      5      A
+05      2      1      2     95      T
+06      1      1      2     96      T
+07     88      3      3      6      A
+08     86      5      4      5      A
 09      4     90      1      5      C
 10     12     11     52     25      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DOF5.7:DOF5.7_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DOF5.7:DOF5.7_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92352,16 +92952,16 @@ XX
 P0      A      C      G      T
 01     14      5     67     14      g
 02      3      2     92      3      G
-03      0     97      0      3      C
+03      0     96      1      3      C
 04      1      5     94      0      G
-05      2      0     98      0      G
-06      0     97      1      2      C
+05      3      0     97      0      G
+06      0     98      0      2      C
 07      0     94      5      1      C
 08      3      0     97      0      G
-09      3     93      1      3      C
+09      3     92      2      3      C
 10     13     67      7     13      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2C:DREB2C:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2C:DREB2C:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92389,13 +92989,13 @@ P0      A      C      G      T
 03     81      0     19      0      A
 04      0     98      1      1      C
 05      1     99      0      0      C
-06      1      0     98      1      G
+06      1      1     98      0      G
 07     78     16      4      2      A
 08      1     98      0      1      C
-09     81      4      3     12      A
-10     30     10     11     49      w
+09     81      5      3     11      A
+10     30      9     11     50      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=DREB2C:DREB2C_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=DREB2C:DREB2C_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92419,7 +93019,7 @@ BF  4198;
 XX
 P0      A      C      G      T
 01     37     12     28     23      r
-02      7     33     46     14      s
+02      6     33     47     14      s
 03     15     82      1      2      C
 04      1      1     97      1      G
 05      1     96      2      1      C
@@ -92427,9 +93027,9 @@ P0      A      C      G      T
 07      2      0     97      1      G
 08      5     90      2      3      C
 09      1     97      1      1      C
-10     58      5     24     13      a
+10     59      5     24     12      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF1:ERF1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF1:ERF1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92454,7 +93054,7 @@ XX
 P0      A      C      G      T
 01     10      8     24     58      t
 02      0      0      8     92      T
-03      0      1     99      0      G
+03      0      0    100      0      G
 04      0      2      0     98      T
 05      0     99      0      1      C
 06      0      1     98      1      G
@@ -92463,7 +93063,7 @@ P0      A      C      G      T
 09     58      9     19     14      a
 10     34     29     11     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ETT:ETT:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ETT:ETT:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92486,7 +93086,7 @@ XX
 BF  8875;
 XX
 P0      A      C      G      T
-01     25     27     11     37      h
+01     26     27     11     36      h
 02      5      6     23     66      t
 03      7      2     90      1      G
 04      3      1      3     93      T
@@ -92495,9 +93095,9 @@ P0      A      C      G      T
 07     93      3      1      3      A
 08      1     90      2      7      C
 09     66     23      6      5      a
-10      9      6     65     20      g
+10      9      6     66     19      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ETT:ETT_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ETT:ETT_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92523,15 +93123,15 @@ P0      A      C      G      T
 01     15     21     22     42      t
 02     19     28     15     38      y
 03     60     11     23      6      a
-04     19      6     74      1      G
+04     19      7     73      1      G
 05     97      0      2      1      A
 06      1      2      0     97      T
-07      0     74      7     19      C
+07      1     74      7     18      C
 08      6     23     11     60      t
 09     38     15     28     19      r
 10     28     28     18     26      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GATA12:GATA12:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=GATA12:GATA12:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92554,8 +93154,8 @@ XX
 BF  8877;
 XX
 P0      A      C      G      T
-01     25     46     21      8      m
-02     25      4     63      8      g
+01     26     45     21      8      m
+02     25      3     63      9      g
 03      2      4     92      2      G
 04     95      1      4      0      A
 05     26      0      9     65      w
@@ -92565,7 +93165,7 @@ P0      A      C      G      T
 09      9     62      4     25      c
 10     38     13     19     30      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLK1:GLK1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLK1:GLK1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92593,13 +93193,13 @@ P0      A      C      G      T
 03     14      2     77      7      G
 04     92      1      2      5      A
 05     78      1      0     21      A
-06      2      1      1     96      T
+06      1      1      2     96      T
 07      2     94      1      3      C
 08      3     10      4     83      T
 09     22      5     54     19      g
 10     24      9     25     42      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=GLK1:GLK1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=GLK1:GLK1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92623,17 +93223,17 @@ BF  8878;
 XX
 P0      A      C      G      T
 01     27     35     37      1      v
-02      3      1     95      1      G
+02      4      1     94      1      G
 03     94      1      4      1      A
 04     95      2      1      2      A
 05     13     36     27     24      s
 06     24     27     36     13      s
-07      2      2      1     95      T
-08      1      5      1     93      T
-09      1     94      2      3      C
+07      2      1      2     95      T
+08      1      4      2     93      T
+09      2     94      1      3      C
 10      0     46     20     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB2A:HSFB2A:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB2A:HSFB2A:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92657,17 +93257,17 @@ BF  8878;
 XX
 P0      A      C      G      T
 01      9     39     21     31      y
-02      7      4      6     83      T
+02      7      5      6     82      T
 03      3      7      1     89      T
-04      2     93      2      3      C
+04      3     93      1      3      C
 05      0     27     14     59      y
 06     59     14     27      0      r
-07      3      1     93      3      G
+07      3      2     93      2      G
 08     89      1      7      3      A
-09     83      6      4      7      A
-10     28     26     30     16      v
+09     83      5      5      7      A
+10     28     26     29     17      v
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFB2A:HSFB2A_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFB2A:HSFB2A_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92690,18 +93290,18 @@ XX
 BF  8879;
 XX
 P0      A      C      G      T
-01      8     38     22     32      y
-02      3      1      2     94      T
+01      7     39     22     32      y
+02      2      2      2     94      T
 03      1      3      0     96      T
 04      0     99      1      0      C
 05      0      5      5     90      T
 06     90      5      5      0      A
 07      0      1     99      0      G
 08     96      0      3      1      A
-09     94      2      1      3      A
+09     93      2      2      3      A
 10     45     25     14     16      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFC1:HSFC1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFC1:HSFC1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92726,16 +93326,16 @@ XX
 P0      A      C      G      T
 01     35     29     35      1      v
 02      2      2     95      1      G
-03     93      2      3      2      A
-04     91      3      1      5      A
+03     93      1      3      3      A
+04     91      2      1      6      A
 05     16     17     60      7      g
 06      7     60     17     16      c
-07      5      1      3     91      T
+07      6      1      2     91      T
 08      2      3      2     93      T
 09      1     95      2      2      C
 10      2     39     25     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HSFC1:HSFC1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=HSFC1:HSFC1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92761,15 +93361,15 @@ P0      A      C      G      T
 01     20      7     64      9      g
 02      9     17      6     68      t
 03     72     19      6      3      A
-04     93      2      2      3      A
-05      5      1      2     92      T
-06     27      6     28     39      d
-07     93      1      1      5      A
-08      2      2      3     93      T
+04     93      3      2      2      A
+05      5      1      1     93      T
+06     27      7     28     38      d
+07     92      2      1      5      A
+08      3      2      2     93      T
 09      3      6     19     72      T
 10     68      6     17      9      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ICU4:ICU4:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ICU4:ICU4:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92799,11 +93399,11 @@ P0      A      C      G      T
 05     13     19      6     62      t
 06     90      1      7      2      A
 07      5      9      2     84      T
-08      4     15     17     64      t
+08      4     15     16     65      t
 09      6     88      2      4      C
-10      5     19     47     29      k
+10      6     19     47     28      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN1:KAN1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN1:KAN1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92826,18 +93426,18 @@ XX
 BF  8882;
 XX
 P0      A      C      G      T
-01     37     11     50      2      r
+01     36     11     50      3      r
 02      1      1     97      1      G
 03     94      1      3      2      A
 04     91      0      0      9      A
-05      0     10      0     90      T
-06     89      1     10      0      A
+05      0     11      0     89      T
+06     90      0     10      0      A
 07      9      0      0     91      T
 08      2      3      1     94      T
 09      1     97      1      1      C
 10     11     28     22     39      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN4:KAN4:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN4:KAN4:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92861,17 +93461,17 @@ BF  8882;
 XX
 P0      A      C      G      T
 01      1      1     97      1      G
-02     76      4     13      7      A
-03     66      0      1     33      w
+02     76      5     12      7      A
+03     67      0      0     33      w
 04      1     19      1     79      T
-05     96      0      4      0      A
+05     95      0      4      1      A
 06      2      1      0     97      T
 07      4      2      1     93      T
 08      1     97      1      1      C
-09      1     58     12     29      y
+09      2     57     12     29      y
 10     13     44     13     30      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=KAN4:KAN4_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=KAN4:KAN4_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92895,17 +93495,17 @@ BF  8883;
 XX
 P0      A      C      G      T
 01     31     20      6     43      w
-02      6     28      7     59      y
+02      6     27      7     60      y
 03      2     90      8      0      C
-04      1     96      2      1      C
-05      4      7     85      4      G
+04      1     96      1      2      C
+05      4      7     86      3      G
 06      4     18     69      9      G
 07     47      5     44      4      r
-08     44      6     28     22      r
+08     45      6     27     22      r
 09     48     13     10     29      w
-10     40     14      9     37      w
+10     40     15      8     37      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LBD16:LBD16:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=LBD16:LBD16:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92928,10 +93528,10 @@ XX
 BF  8884;
 XX
 P0      A      C      G      T
-01     28     10     28     34      d
+01     29      9     28     34      d
 02     23      0     76      1      G
 03      0      0     64     36      k
-04      1      1      0     98      T
+04      0      2      0     98      T
 05     87      1      1     11      A
 06      2      0     98      0      G
 07      1      1     86     12      G
@@ -92939,7 +93539,7 @@ P0      A      C      G      T
 09     53      3     39      5      r
 10      7     32     46     15      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB111:MYB111:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB111:MYB111:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92967,13 +93567,13 @@ P0      A      C      G      T
 03      1      0     85     14      G
 04      0      0      1     99      T
 05     59      1      3     37      w
-06      1      0     99      0      G
+06      1      1     98      0      G
 07      0      1     73     26      K
 08      2      1      0     97      T
 09     30      2     68      0      R
-10     15     13     58     14      g
+10     16     13     58     13      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB111:MYB111_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB111:MYB111_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -92999,15 +93599,15 @@ P0      A      C      G      T
 01     42     16     22     20      a
 02      8      0     91      1      G
 03      0      0     39     61      k
-04      1      0      0     99      T
-05     84      2      1     13      A
-06      0      0    100      0      G
+04      0      1      0     99      T
+05     83      3      1     13      A
+06      1      0     99      0      G
 07      0      0     91      9      G
 08      0      3      1     96      T
 09     58      2     36      4      r
 10     26     22     37     15      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB46:MYB46:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB46:MYB46:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93041,7 +93641,7 @@ P0      A      C      G      T
 09      6     72      3     19      C
 10     31     19     39     11      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB46:MYB46_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB46:MYB46_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93075,7 +93675,7 @@ P0      A      C      G      T
 09     13      2     79      6      G
 10     46     18      9     27      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB52:MYB52:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB52:MYB52:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93102,14 +93702,14 @@ P0      A      C      G      T
 02      3      2     93      2      G
 03      2      1      5     92      T
 04      1      3      1     95      T
-05     73     15      4      8      A
+05     74     15      3      8      A
 06      2      3     92      3      G
 07      1      4      3     92      T
 08      2      3      6     89      T
 09     24      5     62      9      g
 10     15     45     17     23      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB52:MYB52_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB52:MYB52_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93143,7 +93743,7 @@ P0      A      C      G      T
 09     12      5     76      7      G
 10     25     28     30     17      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB55:MYB55:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB55:MYB55:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93168,16 +93768,16 @@ XX
 P0      A      C      G      T
 01      8     54     14     24      c
 02      8      1     89      2      G
-03      1      1     70     28      K
-04      1      8      0     91      T
+03      2      0     70     28      K
+04      1      8      1     90      T
 05     11      3     69     17      G
 06      1      0     98      1      G
 07      1      1     44     54      k
-08      2      0      1     97      T
+08      3      0      1     96      T
 09     10      5     83      2      G
 10     14     11     61     14      g
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB55:MYB55_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB55:MYB55_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93205,13 +93805,13 @@ P0      A      C      G      T
 03      2      1     11     86      T
 04      3      1      1     95      T
 05     87      4      2      7      A
-06      2      1     96      1      G
+06      1      1     96      2      G
 07      2      1     95      2      G
 08      4      4      0     92      T
 09     55     27      2     16      m
 10     32     28     16     24      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=MYB59:MYB59:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=MYB59:MYB59:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93236,16 +93836,16 @@ XX
 P0      A      C      G      T
 01     13     66      3     18      c
 02     58      0     41      1      r
-03      1     99      0      0      C
+03      0    100      0      0      C
 04      1     99      0      0      C
 05      1      0     99      0      G
 06     72      1      6     21      A
 07      0     99      1      0      C
-08      4     94      1      1      C
+08      5     94      0      1      C
 09     74      1      7     18      A
 10     64     13      5     18      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ORA47:ORA47:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ORA47:ORA47:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93270,16 +93870,16 @@ XX
 P0      A      C      G      T
 01     17      5     31     47      k
 02      9     13     73      5      G
-03      1     93      1      5      C
-04      7      1     91      1      G
+03      1     94      1      4      C
+04      7      0     92      1      G
 05      1     96      3      0      C
 06      1     98      1      0      C
-07      1      0     97      2      G
+07      1      0     98      1      G
 08     25     65      5      5      m
 09      4     93      1      2      C
-10     20     25     13     42      t
+10     21     24     13     42      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ORA47:ORA47_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ORA47:ORA47_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93313,7 +93913,7 @@ P0      A      C      G      T
 09      1      3     96      0      G
 10      9     40     35     16      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF3:PIF3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF3:PIF3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93336,18 +93936,18 @@ XX
 BF  2841;
 XX
 P0      A      C      G      T
-01     26     13     46     15      r
+01     25     13     46     16      r
 02     12     23     54     11      g
 03     15     76      3      6      C
 04      1      1     98      0      G
 05      1     75     24      0      C
 06      2     98      0      0      C
 07      1      0     98      1      G
-08     11     78      2      9      C
+08     10     78      3      9      C
 09     26     66      1      7      m
 10     49      9     17     25      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.3:RAP2.3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.3:RAP2.3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93371,8 +93971,8 @@ BF  2841;
 XX
 P0      A      C      G      T
 01      9     29     57      5      s
-02     33     57      4      6      m
-03      0      1     99      0      G
+02     34     57      3      6      m
+03      0      0    100      0      G
 04      0     96      3      1      C
 05      1     98      1      0      C
 06      1      1     97      1      G
@@ -93381,7 +93981,7 @@ P0      A      C      G      T
 09     62      7     11     20      a
 10     38     17      9     36      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.3:RAP2.3_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.3:RAP2.3_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93409,13 +94009,13 @@ P0      A      C      G      T
 03      0      0    100      0      G
 04      0     98      1      1      C
 05      8     91      1      0      C
-06      1     23     75      1      G
+06      0     23     76      1      G
 07     16     70      4     10      C
 08      8     90      0      2      C
 09     73      4      5     18      A
 10     31     17     18     34      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.3:RAP2.3_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.3:RAP2.3_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93439,17 +94039,17 @@ BF  5568;
 XX
 P0      A      C      G      T
 01     12     19     48     21      g
-02      4     27     68      1      S
-03      3     96      1      0      C
+02      3     28     68      1      S
+03      2     96      1      1      C
 04      1      0     99      0      G
-05      1     89     10      0      C
-06      1     99      0      0      C
-07      0      1     99      0      G
+05      0     89     11      0      C
+06      2     98      0      0      C
+07      0      0     99      1      G
 08      2     95      1      2      C
 09      7     92      0      1      C
 10     30      3     61      6      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.6:RAP2.6:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.6:RAP2.6:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93477,13 +94077,13 @@ P0      A      C      G      T
 03      5      0     94      1      G
 04      2     94      2      2      C
 05      1     94      4      1      C
-06      3      1     95      1      G
-07      5     77      8     10      C
+06      3      0     95      2      G
+07      6     77      7     10      C
 08     49     46      1      4      m
 09     68     15      1     16      a
 10     34     24      1     41      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.6:RAP2.6_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.6:RAP2.6_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93508,16 +94108,16 @@ XX
 P0      A      C      G      T
 01     22     50      9     19      c
 02     69      9      8     14      A
-03     14      2     13     71      T
+03     13      2     14     71      T
 04     14      1     72     13      G
 05     68      8      7     17      A
 06      1     98      0      1      C
 07      0      1     96      3      G
 08      1      1     97      1      G
 09      1     96      0      3      C
-10     50     17      2     31      w
+10     49     17      2     32      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP2.6:RAP2.6_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP2.6:RAP2.6_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93542,16 +94142,16 @@ XX
 P0      A      C      G      T
 01     12     20     53     15      g
 02      1     90      2      7      C
-03      1      1      1     97      T
+03      2      1      1     96      T
 04     96      0      1      3      A
-05      0     98      1      1      C
+05      0     98      0      2      C
 06     98      0      1      1      A
-07     25     23      0     52      t
+07     24     23      0     53      t
 08      1     90      2      7      C
 09     53      3      2     42      w
 10     32     25     15     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM1:REM1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM1:REM1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93580,12 +94180,12 @@ P0      A      C      G      T
 04      2      2      1     95      T
 05      2      1     96      1      G
 06      8      1      2     89      T
-07     89      5      1      5      A
+07     90      5      1      4      A
 08      4     11     76      9      G
-09     76      6     11      7      A
+09     76      5     12      7      A
 10     14     43     37      6      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=REM1:REM1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=REM1:REM1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93613,13 +94213,13 @@ P0      A      C      G      T
 03      5     94      1      0      C
 04      0      0     99      1      G
 05      0     83     17      0      C
-06      1     98      0      1      C
+06      1     99      0      0      C
 07      1      1     98      0      G
 08      4     86      1      9      C
 09     21     77      0      2      C
 10     69      2     21      8      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RRTF1:RRTF1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RRTF1:RRTF1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93645,15 +94245,15 @@ P0      A      C      G      T
 01      7     46     43      4      s
 02     10     87      2      1      C
 03      0      1     99      0      G
-04      1     97      2      0      C
+04      0     97      2      1      C
 05      2     98      0      0      C
 06      0      1     98      1      G
-07      3     91      1      5      C
-08     45     54      0      1      m
+07      2     91      2      5      C
+08     44     54      1      1      m
 09     90      2      3      5      A
 10     27     17      8     48      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RRTF1:RRTF1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RRTF1:RRTF1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93678,16 +94278,16 @@ XX
 P0      A      C      G      T
 01      6     30     60      4      s
 02      5     92      2      1      C
-03      0      0    100      0      G
+03      0      0     99      1      G
 04      0     97      3      0      C
 05      2     97      0      1      C
 06      1      1     98      0      G
-07      6     81      2     11      C
+07      6     81      1     12      C
 08     17     77      0      6      C
 09     81      4      8      7      A
-10     21      8      3     68      t
+10     21      9      3     67      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RRTF1:RRTF1_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RRTF1:RRTF1_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93711,17 +94311,17 @@ BF  8892;
 XX
 P0      A      C      G      T
 01     65      4      6     25      a
-02     92      0      2      6      A
+02     91      0      2      7      A
 03     92      0      7      1      A
 04     98      0      1      1      A
-05      7      0      4     89      T
+05      6      0      4     90      T
 06     98      2      0      0      A
 07      0      1      0     99      T
 08      1     98      0      1      C
 09      2     10      4     84      T
 10      9     20     28     43      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RVE1:RVE1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RVE1:RVE1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93745,17 +94345,17 @@ BF  8892;
 XX
 P0      A      C      G      T
 01     20     31     29     20      s
-02     55     30      4     11      m
+02     54     31      4     11      m
 03     65      9     16     10      a
 04     23      3     15     59      t
 05     91      4      3      2      A
-06      3      3      4     90      T
+06      2      3      4     91      T
 07      6     89      4      1      C
-08     30     20      5     45      w
+08     30     20      4     46      w
 09     61     16     13     10      a
 10     50     16      6     28      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RVE1:RVE1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=RVE1:RVE1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93785,11 +94385,11 @@ P0      A      C      G      T
 05      0      1      1     98      T
 06     98      1      1      0      A
 07      0     99      0      1      C
-08      5      1     92      2      G
+08      5      1     93      1      G
 09      8      1     88      3      G
 10     60     22      1     17      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1:SPL1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1:SPL1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93816,14 +94416,14 @@ P0      A      C      G      T
 02      5     63      5     27      y
 03      1      1     98      0      G
 04      0      1      0     99      T
-05    100      0      0      0      A
+05     99      0      0      1      A
 06      0     99      1      0      C
 07      1      0     99      0      G
 08      1      0     98      1      G
 09     60     22      1     17      a
 10     34     40      9     17      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL1:SPL1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL1:SPL1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93852,12 +94452,12 @@ P0      A      C      G      T
 04      4      1      9     86      T
 05     89      6      2      3      A
 06      4     92      2      2      C
-07      7     10     80      3      G
+07      6     11     80      3      G
 08     29     21     36     14      r
 09     12     61      4     23      c
-10     39     25     24     12      m
+10     38     25     24     13      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL7:SPL7:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL7:SPL7:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93880,18 +94480,18 @@ XX
 BF  8895;
 XX
 P0      A      C      G      T
-01     17     45     19     19      c
-02      6     87      6      1      C
+01     18     45     18     19      c
+02      6     86      6      2      C
 03      5     91      1      3      C
 04      1     95      3      1      C
 05      1      1      1     97      T
 06     97      1      1      1      A
 07      1      3     95      1      G
 08      3      1     91      5      G
-09      1      6     87      6      G
+09      2      6     86      6      G
 10     10     27     24     39      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STY1:STY1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=STY1:STY1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93917,15 +94517,15 @@ P0      A      C      G      T
 01     41     23     20     16      a
 02      3     89      5      3      C
 03      5      1      3     91      T
-04     92      0      3      5      A
+04     91      0      4      5      A
 05      2      1     95      2      G
 06      2     95      1      2      C
-07      5      3      1     91      T
-08     91      3      1      5      A
+07      6      3      0     91      T
+08     92      2      1      5      A
 09      3      5     89      3      G
 10     11     50      8     31      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=STY1:STY1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=STY1:STY1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93952,14 +94552,14 @@ P0      A      C      G      T
 02      1      0     98      1      G
 03      0      0     99      1      G
 04      6     14     77      3      G
-05      0     95      1      4      C
+05      1     95      1      3      C
 06      0     99      0      1      C
 07      0     99      0      1      C
 08     95      1      4      0      A
 09      1     96      2      1      C
 10     27     45     12     16      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP15:TCP15:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP15:TCP15:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -93987,13 +94587,13 @@ P0      A      C      G      T
 03      0      0     99      1      G
 04      0      0    100      0      G
 05     12     12      2     74      T
-06      0     99      0      1      C
-07      0    100      0      0      C
+06      0    100      0      0      C
+07      0     99      0      1      C
 08     98      0      2      0      A
 09      0     98      1      1      C
-10     45     42      1     12      m
+10     46     41      1     12      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP16:TCP16:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP16:TCP16:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94021,13 +94621,13 @@ P0      A      C      G      T
 03      1      1     98      0      G
 04      4      9     83      4      G
 05      1     97      1      1      C
-06      0     99      1      0      C
+06      0     98      2      0      C
 07      1     98      0      1      C
 08     96      1      3      0      A
 09      1     96      1      2      C
-10     74     14      2     10      A
+10     73     14      3     10      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP23:TCP23:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP23:TCP23:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94051,17 +94651,17 @@ BF  3636;
 XX
 P0      A      C      G      T
 01     50     15     33      2      r
-02      2      2      1     95      T
-03      0      1     87     12      G
+02      2      2      0     96      T
+03      1      0     87     12      G
 04     97      0      1      2      A
-05      0     85      0     15      C
-06     15      0     85      0      G
+05      0     85      1     14      C
+06     14      0     86      0      G
 07      2      1      0     97      T
-08     12     87      1      0      C
-09     96      0      2      2      A
+08     12     87      0      1      C
+09     96      1      1      2      A
 10      3     41     17     39      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2:TGA2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2:TGA2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94085,9 +94685,9 @@ BF  3636;
 XX
 P0      A      C      G      T
 01      3      9     38     50      k
-02     97      0      2      1      A
+02     96      0      3      1      A
 03      0     98      0      2      C
-04      2      1     97      0      G
+04      2      0     98      0      G
 05      1      0      0     99      T
 06      3     97      0      0      C
 07     99      0      1      0      A
@@ -94095,7 +94695,7 @@ P0      A      C      G      T
 09      8     70     16      6      C
 10     49     14     20     17      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA2:TGA2_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA2:TGA2_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94118,18 +94718,18 @@ XX
 BF  8897;
 XX
 P0      A      C      G      T
-01     69      1      2     28      W
-02      0     88      0     12      C
-03     13     83      2      2      C
-04      1      0      1     98      T
-05      5     92      2      1      C
-06      1      0     98      1      G
-07      2      0     18     80      T
+01     69      2      2     27      W
+02      1     87      0     12      C
+03     12     84      2      2      C
+04      1      1      1     97      T
+05      5     93      1      1      C
+06      1      1     98      0      G
+07      1      0     18     81      T
 08     96      2      0      2      A
-09      5     81      4     10      C
+09      5     80      5     10      C
 10     23     31     21     25      c
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE1:TOE1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE1:TOE1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94156,14 +94756,14 @@ P0      A      C      G      T
 02     75      3      4     18      A
 03     79      1      1     19      A
 04      3     92      2      3      C
-05     14     64     20      2      c
+05     14     63     21      2      c
 06      4      3      1     92      T
 07     68      2     26      4      r
 08      8     63     25      4      s
 09      3      1     93      3      G
-10     90      3      1      6      A
+10     91      3      0      6      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE1:TOE1_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE1:TOE1_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94187,17 +94787,17 @@ BF  8897;
 XX
 P0      A      C      G      T
 01     26     14     10     50      w
-02     74      2      2     22      A
-03     85      2      2     11      A
-04      1     93      2      4      C
+02     74      3      1     22      A
+03     85      1      2     12      A
+04      1     93      3      3      C
 05      2     83     13      2      C
 06      3      2      1     94      T
 07      3      3      2     92      T
-08     94      4      1      1      A
+08     94      3      2      1      A
 09     84      1     10      5      A
 10     41     35      7     17      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE1:TOE1_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE1:TOE1_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94221,17 +94821,17 @@ BF  8898;
 XX
 P0      A      C      G      T
 01     62      2      4     32      w
-02      1     91      0      8      C
-03     13     85      1      1      C
-04      0      0      2     98      T
+02      0     91      1      8      C
+03     13     85      2      0      C
+04      0      1      1     98      T
 05      6     92      1      1      C
 06      1      0     98      1      G
 07      0      0     11     89      T
 08     98      1      0      1      A
 09      3     83      1     13      C
-10     18     24     24     34      t
+10     19     24     23     34      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE2:TOE2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE2:TOE2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94254,18 +94854,18 @@ XX
 BF  8898;
 XX
 P0      A      C      G      T
-01     44     12      9     35      w
-02     81      2      1     16      A
+01     44     11     10     35      w
+02     81      2      0     17      A
 03     87      0      1     12      A
 04      1     94      0      5      C
-05     13     79      7      1      C
+05     12     80      7      1      C
 06      2      1      1     96      T
 07     76      2     20      2      A
 08      8     68     15      9      C
 09      1      0     98      1      G
 10     63      4      3     30      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE2:TOE2_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE2:TOE2_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94299,7 +94899,7 @@ P0      A      C      G      T
 09     76      1     14      9      A
 10     30     16      3     51      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TOE2:TOE2_3:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=TOE2:TOE2_3:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94323,17 +94923,17 @@ BF  8899;
 XX
 P0      A      C      G      T
 01     32     16     15     37      w
-02     54      2     32     12      r
-03      3     12     13     72      T
+02     53      3     32     12      r
+03      3     13     12     72      T
 04      2     93      1      4      C
 05     95      1      1      3      A
 06     96      1      1      2      A
 07      1      1      1     97      T
-08      1     87      1     11      C
+08      1     86      1     12      C
 09     90      3      2      5      A
 10     40     15     21     24      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WOX13:WOX13:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WOX13:WOX13:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94356,18 +94956,18 @@ XX
 BF  8899;
 XX
 P0      A      C      G      T
-01     22     23     18     37      t
-02     16     15     12     57      t
+01     21     23     19     37      t
+02     16     15     11     58      t
 03     20     17      4     59      t
-04     81      5      3     11      A
+04     80      6      3     11      A
 05     81      2      9      8      A
 06      8      9      2     81      T
-07     11      3      5     81      T
+07     10      3      6     81      T
 08     59      4     17     20      a
-09     57     11     16     16      a
-10     26     34     21     19      m
+09     58     11     15     16      a
+10     27     34     21     18      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WOX13:WOX13_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WOX13:WOX13_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94391,17 +94991,17 @@ BF  8900;
 XX
 P0      A      C      G      T
 01     21     35     18     26      y
-02     17     71      7      5      C
+02     16     71      8      5      C
 03      7      3     82      8      G
 04      2      6      1     91      T
-05      1      1      3     95      T
+05      0      2      3     95      T
 06      1      1     95      3      G
 07     97      1      1      1      A
-08      3     95      1      1      C
-09      2     73     10     15      C
-10     21     18     33     28      k
+08      3     94      1      2      C
+09      3     72     10     15      C
+10     21     19     33     27      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY12:WRKY12:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY12:WRKY12:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94425,17 +95025,17 @@ BF  7524;
 XX
 P0      A      C      G      T
 01     28     22     14     36      w
-02     13     58      7     22      c
+02     14     57      7     22      c
 03     15      2     83      0      G
 04      1      1     97      1      G
-05      1      1      0     98      T
+05      1      0      1     98      T
 06      1     98      0      1      C
 07     98      1      0      1      A
 08     92      1      1      6      A
 09      6     20     60     14      g
 10     14     50     28      8      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY18:WRKY18:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY18:WRKY18:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94458,8 +95058,8 @@ XX
 BF  8901;
 XX
 P0      A      C      G      T
-01     19     30     31     20      s
-02     15     67      8     10      c
+01     20     30     31     19      s
+02     15     67      7     11      c
 03      7      3     85      5      G
 04      3      3      2     92      T
 05      1      2      4     93      T
@@ -94469,7 +95069,7 @@ P0      A      C      G      T
 09      2     67      2     29      y
 10     40     18     30     12      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY38:WRKY38:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY38:WRKY38:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94493,17 +95093,17 @@ BF  8902;
 XX
 P0      A      C      G      T
 01     30     12     32     26      d
-02      6     87      3      4      C
+02      6     88      2      4      C
 03      2      0     89      9      G
 04      1      2      0     97      T
 05      0      1      1     98      T
 06      0      0     99      1      G
 07     99      1      0      0      A
-08      0     99      0      1      C
+08      1     99      0      0      C
 09      1     53      1     45      y
 10     64     12     13     11      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=WRKY45:WRKY45:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=WRKY45:WRKY45:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94526,18 +95126,18 @@ XX
 BF  8903;
 XX
 P0      A      C      G      T
-01      8     47     11     34      y
-02     64      3      4     29      w
+01      9     47     10     34      y
+02     65      3      4     28      w
 03     86      3      2      9      A
 04      4      2      4     90      T
-05     29     42     14     15      m
+05     29     43     13     15      m
 06     91      1      5      3      A
 07      5      3      4     88      T
-08     73      8     12      7      A
+08     74      8     11      7      A
 09     77      5      8     10      A
 10     14     19     10     57      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=YAB1:YAB1:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=YAB1:YAB1:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94565,13 +95165,13 @@ P0      A      C      G      T
 03     78      9      5      8      A
 04      7     16      3     74      T
 05     18     24     53      5      g
-06     78      5      3     14      A
+06     77      5      3     15      A
 07     10     18      6     66      t
 08     15      4     10     71      T
 09     73     17      6      4      A
 10     29     26     16     29      h
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=YAB5:YAB5:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=YAB5:YAB5:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94598,14 +95198,14 @@ P0      A      C      G      T
 02     74      5      6     15      A
 03      1     32     65      2      s
 04      5      3      0     92      T
-05     28      3     62      7      r
+05     28      2     62      8      r
 06      7     63      2     28      y
 07     92      0      3      5      A
 08      2     65     32      1      s
 09     15      6      5     74      T
-10     22     31     38      9      s
+10     22     31     39      8      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT14:ZAT14:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT14:ZAT14:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94631,15 +95231,15 @@ P0      A      C      G      T
 01     32      3     34     31      d
 02     71      4      8     17      A
 03      3      5     88      4      G
-04      3     18      7     72      T
-05     10      6     80      4      G
-06      3     81      6     10      C
-07     72      7     18      3      A
-08      3     88      6      3      C
+04      4     18      6     72      T
+05      9      6     81      4      G
+06      4     80      6     10      C
+07     72      6     18      4      A
+08      3     88      5      4      C
 09     17      8      4     71      T
-10     50     12     26     12      a
+10     50     12     25     13      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT18:ZAT18:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT18:ZAT18:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94671,9 +95271,9 @@ P0      A      C      G      T
 07      8      2      0     90      T
 08      7     15     69      9      G
 09     22     24     44     10      g
-10     16     38     39      7      s
+10     17     37     39      7      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT2:ZAT2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT2:ZAT2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94700,14 +95300,14 @@ P0      A      C      G      T
 02      4      4      6     86      T
 03     83      4      3     10      A
 04     85      4      2      9      A
-05      1     89      4      6      C
-06     88      1      2      9      A
+05      1     90      4      5      C
+06     87      1      2     10      A
 07      1     89      9      1      C
 08      2      2      1     95      T
 09     87      5      4      4      A
 10     29     29     21     21      m
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ZAT6:ZAT6:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=ZAT6:ZAT6:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94731,17 +95331,17 @@ BF  8909;
 XX
 P0      A      C      G      T
 01     33     15     42     10      r
-02      2      6      2     90      T
+02      3      6      2     89      T
 03      3      6     84      7      G
 04     89      2      4      5      A
 05      1     80      1     18      C
 06     18      1     80      1      G
 07      5      4      2     89      T
 08      7     84      6      3      C
-09     90      2      6      2      A
+09     89      3      6      2      A
 10      5     49     12     34      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP60:bZIP60:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP60:bZIP60:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94766,16 +95366,16 @@ XX
 P0      A      C      G      T
 01     19     10     53     18      g
 02     20     64      9      7      c
-03      5     84      7      4      C
+03      5     84      8      3      C
 04     91      3      3      3      A
 05      2     90      3      5      C
 06      7      3     88      2      G
 07      3      3      2     92      T
 08      5     88      4      3      C
 09     90      4      4      2      A
-10      5     43     12     40      y
+10      6     43     12     39      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=bZIP60:bZIP60_2:ArabidopsisPBM
+LN  https://footprintdb.eead.csic.es//index.php?motif=bZIP60:bZIP60_2:ArabidopsisPBM
 XX
 RN  [1];
 RX  PUBMED: 24477691
@@ -94817,7 +95417,7 @@ P0      A      C      G      T
 17     39      9      8      9      a
 18     18     15     19     13      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL1:AGL1:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL1:AGL1:Athamap
 XX
 CC  sequences selected with recombinant AGL1 from a pool of double-stranded oligonucleotides containing a core of 65 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -94862,7 +95462,7 @@ P0      A      C      G      T
 17     33      5      5      8      a
 18      6      8     17     20      k
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL2:AGL2:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL2:AGL2:Athamap
 XX
 CC  sequences selected with recombinant AGL2 from a pool of double-stranded oligonucleotides containing a core of 51 random nucleotides; 4 rounds of selection and amplification; SELEX
 XX
@@ -94903,7 +95503,7 @@ P0      A      C      G      T
 14      0     76      0      3      C
 15      1      0     76      2      G
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=CBT:OsCBT:Athamap
+LN  https://footprintdb.eead.csic.es//index.php?motif=CBT:OsCBT:Athamap
 XX
 CC  sequences selected with recombinant CBT from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
 XX
@@ -94967,7 +95567,7 @@ BS  54390;
 BS  54391;
 BS  54392;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL15:MA0548.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL15:MA0548.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95031,7 +95631,7 @@ BS  54429;
 BS  54430;
 BS  54431;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BES1:MA0549.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BES1:MA0549.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95098,7 +95698,7 @@ BS  54449;
 BS  54450;
 BS  54451;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=BZR1:MA0550.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=BZR1:MA0550.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95146,7 +95746,7 @@ P0      A      C      G      T
 15     94     62     56    108      w
 16     89     68     60    103      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=HY5:MA0551.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=HY5:MA0551.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95213,7 +95813,7 @@ BS  54469;
 BS  54470;
 BS  54471;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF1:MA0552.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF1:MA0552.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95274,7 +95874,7 @@ BS  54489;
 BS  54490;
 BS  54491;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g54990:MA0553.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g54990:MA0553.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95334,7 +95934,7 @@ BS  54501;
 BS  54502;
 BS  54503;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL20:MA0554.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL20:MA0554.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95407,7 +96007,7 @@ BS  54521;
 BS  54522;
 BS  54523;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SVP:MA0555.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SVP:MA0555.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-chip
 XX
@@ -95475,7 +96075,7 @@ BS  54541;
 BS  54542;
 BS  54543;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AP3:MA0556.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AP3:MA0556.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95519,7 +96119,7 @@ P0      A      C      G      T
 11     63     68     40     64      h
 12     82     44     50     59      w
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FHY3:MA0557.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=FHY3:MA0557.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95593,7 +96193,7 @@ BS  54561;
 BS  54562;
 BS  54563;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FLC:MA0558.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=FLC:MA0558.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95660,7 +96260,7 @@ BS  54581;
 BS  54582;
 BS  54583;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PI:MA0559.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PI:MA0559.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95723,7 +96323,7 @@ BS  54601;
 BS  54602;
 BS  54603;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF3:MA0560.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF3:MA0560.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95784,7 +96384,7 @@ BS  54621;
 BS  54622;
 BS  54623;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=PIF4:MA0561.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=PIF4:MA0561.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95845,7 +96445,7 @@ BS  54641;
 BS  54642;
 BS  54643;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At3g59060:MA0562.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At3g59060:MA0562.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95909,7 +96509,7 @@ BS  54661;
 BS  54662;
 BS  54663;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=AGL9:MA0563.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=AGL9:MA0563.1:JASPAR
 XX
 CC  imported from JASPAR; ChIP-seq
 XX
@@ -95950,7 +96550,7 @@ P0      A      C      G      T
 08      6     84      8      2      C
 09     50     15     13     22      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABI3:MA0564.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABI3:MA0564.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96008,7 +96608,7 @@ BS  54677;
 BS  54678;
 BS  54679;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=FUS3:MA0565.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=FUS3:MA0565.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96048,7 +96648,7 @@ P0      A      C      G      T
 07      0      0     91      9      G
 08      5     60     10     25      y
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=RAP-1:MA0566.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=RAP-1:MA0566.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96088,7 +96688,7 @@ P0      A      C      G      T
 07      1     98      1      1      C
 08     58      5     24     12      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ERF1B:MA0567.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ERF1B:MA0567.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96128,7 +96728,7 @@ P0      A      C      G      T
 07      0      0     89     10      G
 08      7     40     28     25      b
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At5g46760:MA0568.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At5g46760:MA0568.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96168,7 +96768,7 @@ P0      A      C      G      T
 07      0      0     98      2      G
 08      2     72      8     17      C
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g17880:MA0569.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g17880:MA0569.1:JASPAR
 XX
 CC  imported from JASPAR; PBM
 XX
@@ -96219,7 +96819,7 @@ P0      A      C      G      T
 18     10      6     23      5      g
 19     13      9     20      2      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ABF1:MA0570.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ABF1:MA0570.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96272,7 +96872,7 @@ P0      A      C      G      T
 20     12     10      4      8      m
 21     19      4      3      8      a
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=ANT:MA0571.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=ANT:MA0571.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96318,7 +96918,7 @@ P0      A      C      G      T
 13      0      0     11      0      G
 14     11      0      0      0      A
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=At4g21330:MA0580.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=At4g21330:MA0580.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96361,7 +96961,7 @@ P0      A      C      G      T
 10    228     86     44    129      w
 11     96     79     62    250      t
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LEC2:MA0581.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LEC2:MA0581.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96412,7 +97012,7 @@ P0      A      C      G      T
 18      3      6      8      3      s
 19      5      1     11      3      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=SPL14:MA0586.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=SPL14:MA0586.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96454,7 +97054,7 @@ P0      A      C      G      T
 09     18     10     29      7      r
 10     12     20     26      6      s
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TCP16:MA0587.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TCP16:MA0587.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96518,7 +97118,7 @@ BS  54756;
 BS  54757;
 BS  54758;
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=TGA1:MA0588.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=TGA1:MA0588.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX
 XX
@@ -96569,7 +97169,7 @@ P0      A      C      G      T
 18     80     17     13    266      T
 19    199     49    104     32      r
 XX
-LN  https://floresta.eead.csic.es/footprintdb/index.php?motif=LFY:MA0590.1:JASPAR
+LN  https://footprintdb.eead.csic.es//index.php?motif=LFY:MA0590.1:JASPAR
 XX
 CC  imported from JASPAR; SELEX; SELEX-seq
 XX
