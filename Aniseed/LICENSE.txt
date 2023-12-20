@@ -1,0 +1,20 @@
+
+https://doi.org/10.1093/nar/gkx1108
+
+
+Terms of use
+
+Last updated: October 2018
+General information:
+
+ANISEED is a publication of CNRS, developed by the ANISEED Team and using the relational database schema Chado of GMOD and the WashU epigenome Browser.
+
+ANISEED is based on published scientific articles. ANISEED cannot guarantee the accuracy, precision of the information available on the website. Users are warned that the information available are non-contractual and can be changed at each new release of ANISEED.
+
+Some ANISEED Web pages may provide links to other Internet sites for the convenience of users. ANISEED is not responsible for the availability or content of these external sites, nor does ANISEED endorse, warrant, or guarantee the products, services, or information described or offered at these other Internet sites. Users cannot assume that the external sites will abide by the same Privacy policy to which ANISEED adheres. It is the responsibility of the user to examine the copyright and licensing restrictions of linked pages and to secure all necessary permissions.
+
+ANISEED is updated on a regular basis.
+
+ANISEED is free of use for all.
+
+Please cite us if you use ANISEED in a publication or web page. Please also credit the original publication when using data listed in ANISEED in a publication or web page.
