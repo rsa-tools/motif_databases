@@ -84,9 +84,9 @@ cisBP_A_thaliana	tf	cisBP/CisBp_A_thaliana.tf	cisBP a_thaliana	2015-06_v1.02	htt
 ;;;;;;;;;;;;;;;;;
 ;; FootprintDB ;;
 ;;;;;;;;;;;;;;;;;
-footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2023-05	https://footprintdb.eead.csic.es	Plants	footprintDB
-footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2023-05	https://footprintdb.eead.csic.es	Non-vertebrate Metazoa	footprintDB
-footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2023-05	https://footprintdb.eead.csic.es	Multi-organisms	footprintDB
+footprintDB-plants	tf	footprintDB/footprintDB.plants.motif.tf	footprintDB-plants [only plant DNA motifs]	2024-01	https://footprintdb.eead.csic.es	Plants	footprintDB
+footprintDB-metazoa	tf	footprintDB/footprintDB.metazoa.motif.tf	footprintDB-metazoa [only metazoa DNA motifs]	2024-01	https://footprintdb.eead.csic.es	Non-vertebrate Metazoa	footprintDB
+footprintDB	tf	footprintDB/footprintDB.motif.tf	footprintDB all	2024-01	https://footprintdb.eead.csic.es	Multi-organisms	footprintDB
 ;
 ;;;;;;;;;;;;;;;;
 ;; FactorBook ;;
