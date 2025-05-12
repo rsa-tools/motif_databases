@@ -46,6 +46,7 @@ cistrome	tf	Cistrome/Cistrome_Athaliana.tf	Cistrome (A thaliana motifs detected 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DBTBS	tf	DBTBS/DBTBS_2015-11-06.tf	DBTBS (Bacillus Subtilis)	2015-11	http://dbtbs.hgc.jp/	Prokaryotes	DBTBS
 regulonDB	tf	REGULONDB/regulonDB_2015-08-07.tf	RegulonDB prokaryotes	2015_08	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
+regulonDB	tf	REGULONDB/regulonDB_2025-05.tf	RegulonDB prokaryotes	2025-05	http://regulondb.ccg.unam.mx/	Prokaryotes	regulonDB
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Vertebrates motif databases ;;
